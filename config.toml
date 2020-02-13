@@ -24,12 +24,13 @@ paginate = 10
 [blackfriday]
   fractions = false
   
+# This is just a stock example. You should customize the menu according to your preferences
 [menu]
 
   # Shown in the side menu.
   [[menu.navigation]]
     name = "Home"
-    pre = "<i class='fa fa-home fa-fw'></i>"
+    pre = "<i class='fas fa-home fa-fw'></i>"
     weight = 1
     identifier = "home"
     url = "/"
@@ -37,77 +38,55 @@ paginate = 10
 	
   [[menu.content]]
     name = "Posts"
-    pre = "<i class='fa fa-picture-o fa-fw'></i>"
+    pre = "<i class='fas fa-image fa-fw'></i>"
     weight = 2
     identifier = "posts"
     url = "/posts/"
   [[menu.content]]
     name = "Pages"
-    pre = "<i class='fa fa-file-text fa-fw'></i>"
+    pre = "<i class='fas fa-file-alt fa-fw'></i>"
     weight = 3
     identifier = "pages"
     url = "/pages/"
   [[menu.content]]
-    name = "Links"
-    pre = "<i class='fa fa-link fa-fw'></i>"
+    name = "Categories"
+    pre = "<i class='fas fa-folder fa-fw'></i>"
     weight = 4
-    identifier = "links"
-    url = "/links/"
+    identifier = "categories"
+    url = "/categories/"
   [[menu.content]]
     name = "Tags"
-    pre = "<i class='fa fa-tags fa-fw'></i>"
+    pre = "<i class='fas fa-tags fa-fw'></i>"
     weight = 5
     identifier = "tags"
     url = "/tags/"
-  [[menu.content]]
-    name = "Categories"
-    pre = "<i class='fa fa-folder fa-fw'></i>"
+	
+
+  [[menu.site]]  
+    name = "About"
+    pre = "<i class='fas fa-sitemap fa-fw'></i>"
     weight = 6
-    identifier = "categories"
-    url = "/categories/"
-	
-	
+    identifier = "about-the-site"
+    url = "/pages/about-the-site/"	
   [[menu.site]]  
     name = "RSS"
-    pre = "<i class='fa fa-rss fa-fw'></i>"
+    pre = "<i class='fas fa-rss fa-fw'></i>"
     weight = 7
     identifier = "rss"
     url = "/index.xml"
-  [[menu.site]]  
+
+	
+  [[menu.author]]
     name = "About"
-    pre = "<i class='fa fa-sitemap fa-fw'></i>"
+    pre = "<i class='fas fa-user fa-fw'></i>"
     weight = 8
-    identifier = "about"
-    url = "/about/"
-  [[menu.site]]  
-    name = "Roadmap"
-    pre = "<i class='fa fa-trello fa-fw'></i>"
-    weight = 9
-    identifier = "roadmap"
-    url = "https://waffle.io/StevenTammen/steventammen.com"
-  [[menu.site]]  
-    name = "Settings"
-    pre = "<i class='fa fa-cog fa-fw'></i>"
-    weight = 10
-    identifier = "settings"
-    url = "/settings/"
-	
-	
-  [[menu.author]]
-    name = "Projects"
-    pre = "<i class='fa fa-code fa-fw'></i>"
-    weight = 11
-	identifier = "projects"
-    url = "/projects/"
-  [[menu.author]]
-    name = "Resume"
-    pre = "<i class='fa fa-file-pdf-o fa-fw'></i>"
-    weight = 12
-	identifier = "resume"
-    url = "/resume.pdf"
+	identifier = "about-the-author"
+    url = "/pages/about-the-author/"
   [[menu.author]]
     name = "Contact"
-    pre = "<i class='fa fa-phone fa-fw'></i>"
-    weight = 13
+    pre = "<i class='fas fa-phone fa-fw'></i>"
+    weight = 9
 	identifier = "contact"
-    url = "/contact/"
+    url = "/pages/contact/"
+	
+	
