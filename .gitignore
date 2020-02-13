@@ -1,0 +1,4 @@
+# Ignore draft pages not ready for public view
+content/drafts/
+static/drafts/
+
