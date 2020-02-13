@@ -1,20 +1,20 @@
-baseurl = "https://www.steventammen.com/"
-title = "The Blog"
-theme = "blackburn"
+baseurl = "https://www.bibledocs.org/"
+title = "BibleDocs"
+theme = "spartan"
 author = "Steven Tammen"
 canonifyurls = true
 paginate = 10
 
 [indexes]
-  tag = "tags"
   category = "categories"
-  topic = "topics"
+  tag = "tags"
+
 
 [params]
   # Shown in the home page
-  subtitle = "Writings from the mind of Steven Tammen. Occasionally comprehensible."
-  googleAnalytics = "UA-123565799-1"
-  disqus = "steventammen"
+  subtitle = "Scripture-centered writings for the Christian life"
+  googleAnalytics = ""
+  disqus = ""
   # CSS name for highlight.js
   highlightjs = "solarized-dark"
   # additional languages for highlight.js (for all pages)
