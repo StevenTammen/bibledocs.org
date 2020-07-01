@@ -51,13 +51,13 @@ This is the parent `<div>` that contains the menu and the content area.
 */
 #layout {
     position: relative;
-    padding-left: 140px; /* left col width "#menu" */
+    padding-left: 170px; /* left col width "#menu" */
     left: 0;
 }
 
 #menu {
-	left: 140px;
-	width: 140px;
+	left: 170px;
+	width: 170px;
 	height: 100vh;
 }
 
@@ -71,8 +71,8 @@ appears on the left side of the page.
 */
 
 #menu {
-    margin-left: -140px; /* "#menu" width */
-    width: 140px;
+    margin-left: -170px; /* "#menu" width */
+    width: 170px;
     position: fixed;
     top: 0;
     left: 0;
@@ -173,12 +173,12 @@ Hides the menu at `48em`, but modify this based on your app's needs.
     }
 
     #layout {
-        padding-left: 140px; /* left col width "#menu" */
+        padding-left: 170px; /* left col width "#menu" */
         left: 0;
     }
     #menu {
 		display: block;
-        left: 140px;
+        left: 170px;
     }
 }
 
