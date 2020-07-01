@@ -115,7 +115,7 @@ appears on the left side of the page.
      #menu .pure-menu ul {
         border: none;
         background: transparent;
-		color: #40e0d0;
+		color: #999900;
     }
 
     /*
@@ -131,7 +131,7 @@ appears on the left side of the page.
         #menu .pure-menu li a:hover,
         #menu .pure-menu li a:focus {
             background: #333;
-			color: #40e0d0;
+			color: #999900;
 			text-decoration: none;
         }
 
