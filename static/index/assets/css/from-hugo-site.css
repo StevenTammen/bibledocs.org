@@ -81,7 +81,18 @@ appears on the left side of the page.
     background-color: #191818;
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
+	
+	/* Hide scrollbar for IE, Edge and Firefox */
+	-ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+
 }
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+#menu::-webkit-scrollbar {
+	display: none;
+}
+
     /*
     All anchors inside the menu should be styled like this.
     */
