@@ -71,6 +71,7 @@ appears on the left side of the page.
 */
 
 #menu {
+	padding-bottom: 30px;
     margin-left: -170px; /* "#menu" width */
     width: 170px;
     position: fixed;
