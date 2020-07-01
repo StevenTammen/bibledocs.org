@@ -728,7 +728,7 @@ input, select, textarea {
 				}
 
 					.row > * {
-						padding: 40px 0 0 40px;
+						padding: 40px 10px 0 50px;
 					}
 
 					.row.gtr-uniform {
@@ -2226,6 +2226,7 @@ input, select, textarea {
 				font-size: 2.25em;
 				font-weight: 100;
 				margin-bottom: 0;
+				padding: 0 1em 0 1em;
 			}
 
 			.main > header p {
@@ -2234,7 +2235,7 @@ input, select, textarea {
 			}
 
 		.main > .content {
-			padding: 6em 0 6em 0;
+			padding: 6em 1em 6em 1em;
 		}
 
 			.main > .content h3 {
@@ -2325,11 +2326,11 @@ input, select, textarea {
 		/* Main Sections */
 
 			.main > header {
-				padding: 4em 0 4em 0;
+				padding: 4em 1em 4em 1em;
 			}
 
 			.main > .content {
-				padding: 4em 0 4em 0;
+				padding: 4em 1em 4em 1em;
 			}
 
 	}
