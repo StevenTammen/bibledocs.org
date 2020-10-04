@@ -1,0 +1,63 @@
+{{ partial "header-list-pages.html" . }}
+
+<div class="header">
+  <h1>{{ .Title }}</h1>
+</div>
+<div class="content">
+
+  {{ .Content }}
+
+  <div id="higherLevelPages" style="display:none;">
+	  <ul>
+		{{ range where .Pages.ByWeight "Params.level" "higher"}}
+		<li>
+		<a href="{{ .Permalink }}">{{ .Title }}</a>
+		</li>
+		{{ end }}
+	  </ul>
+	  
+	  {{ range .Sections.ByTitle }}
+	  <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+	  <ul>
+		{{ range where .Pages.ByWeight "Params.level" "higher"}}
+		<li>
+		<a href="{{ .Permalink }}">{{ .Title }}</a>
+		</li>
+		{{ end }}
+	  </ul>
+	  {{ end }}
+  </div>
+  
+  <div id="lowerLevelPages" style="display:none;">
+	  <ul>
+		{{ range where .Pages.ByWeight "Params.level" "lower"}}
+		<li>
+		<a href="{{ .Permalink }}">{{ .Title }}</a>
+		</li>
+		{{ end }}
+	  </ul>
+	  
+	  {{ range .Sections.ByTitle }}
+	  <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+	  <ul>
+		{{ range where .Pages.ByWeight "Params.level" "lower"}}
+		<li>
+		<a href="{{ .Permalink }}">{{ .Title }}</a>
+		</li>
+		{{ end }}
+	  </ul>
+	  {{ end }}
+  </div>
+  
+</div>
+
+{{ partial "mobile-bar-list-pages.html" . }}
+
+<!-- Site Functions -->
+<script src="{{ .Site.BaseURL }}js/site-functions-list-pages.js"></script>
+
+<script type="text/javascript">
+	displayAppropriateLists();
+</script>
+
+{{ partial "footer.html" . }}

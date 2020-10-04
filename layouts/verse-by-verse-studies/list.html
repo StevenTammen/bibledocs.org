@@ -1,0 +1,23 @@
+{{ partial "header-list-pages.html" . }}
+
+<div class="header">
+  <h1>{{ .Title }}</h1>
+</div>
+<div class="content">
+
+  {{ .Content }}
+  
+  <ul>
+    {{ range (.Data.Pages.ByParam "chapter") }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+	{{ end }}
+  </ul>
+  
+</div>
+
+{{ partial "mobile-bar-list-pages.html" . }}
+
+<!-- Site Functions -->
+<script src="{{ .Site.BaseURL }}js/site-functions-list-pages.js"></script>
+
+{{ partial "footer.html" . }}

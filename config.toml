@@ -19,29 +19,42 @@ paginate = 10
   highlightjs = "solarized-dark"
   # additional languages for highlight.js (for all pages)
   highlightjs_extra_languages = ["lisp", "r", "autohotkey"]
-  dateFormat = "02 Jan 2006, 15:04"
+  dateFormat = "02 Jan 2006"
 
 [blackfriday]
   fractions = false
   
-# This is just a stock example. You should customize the menu according to your preferences
 [menu]
 
   # Shown in the side menu.
   [[menu.navigation]]
     name = "Home"
-    pre = "<i class='fas fa-home fa-fw'></i>"
+    pre = "<i class='fa fa-home fa-fw'></i>"
     weight = 1
     identifier = "home"
     url = "/"
 	
 	
+  [[menu.author]]
+    name = "About"
+    pre = "<i class='fas fa-user fa-fw'></i>"
+    weight = 41
+	identifier = "about-the-author"
+    url = "/about-the-author/"
+  [[menu.author]]
+    name = "Contact"
+    pre = "<i class='fas fa-phone fa-fw'></i>"
+    weight = 42
+	identifier = "contact"
+    url = "/about-the-author/#contact"
+	
+	
   [[menu.content]]
-    name = "Posts"
-    pre = "<i class='fas fa-image fa-fw'></i>"
+    name = "Topical Studies"
+    pre = "<i class='fas fa-file-alt fa-fw'></i>"
     weight = 2
-    identifier = "posts"
-    url = "/posts/"
+    identifier = "topical-studies"
+    url = "/topical-studies/"
   [[menu.content]]
     name = "Pages"
     pre = "<i class='fas fa-file-alt fa-fw'></i>"
@@ -49,44 +62,128 @@ paginate = 10
     identifier = "pages"
     url = "/pages/"
   [[menu.content]]
-    name = "Categories"
-    pre = "<i class='fas fa-folder fa-fw'></i>"
+    name = "Verse-by-verse"
+    pre = "<i class='fas fa-file-alt fa-fw'></i>"
     weight = 4
-    identifier = "categories"
-    url = "/categories/"
+    identifier = "verse-by-verse-studies"
+    url = "/verse-by-verse-studies/"
   [[menu.content]]
-    name = "Tags"
-    pre = "<i class='fas fa-tags fa-fw'></i>"
+    name = "Study Notes"
+    pre = "<i class='fas fa-file-alt fa-fw'></i>"
     weight = 5
-    identifier = "tags"
-    url = "/tags/"
-	
+    identifier = "study-notes"
+    url = "/study-notes/"
+  [[menu.content]]
+    name = "Q&As"
+    pre = "<i class='fas fa-file-alt fa-fw'></i>"
+    weight = 6
+    identifier = "questions-and-answers"
+    url = "/questions-and-answers/"
+  [[menu.content]]
+    name = "Ministry Info"
+    pre = "<i class='fas fa-file-alt fa-fw'></i>"
+    weight = 7
+    identifier = "ministry-info"
+    url = "/ministry-info/"
+  [[menu.content]]
+    name = "Guides"
+    pre = "<i class='fab fa-youtube fa-fw'></i>"
+    weight = 8
+    identifier = "guides"
+    url = "/guides/"
+  [[menu.content]]
+    name = "Study Group"
+    pre = "<i class='fab fa-youtube fa-fw'></i>"
+    weight = 9
+    identifier = "study-group-recordings"
+    url = "/study-group-recordings/"
+  [[menu.content]]
+    name = "Greek Resources"
+    pre = "<i class='fas fa-file-alt fa-fw'></i>"
+    weight = 10
+    identifier = "greek-resources"
+    url = "/greek-resources/"
+  [[menu.content]]
+    name = "Hebrew Resources"
+    pre = "<i class='fas fa-file-alt fa-fw'></i>"
+    weight = 11
+    identifier = "hebrew-resources"
+    url = "/hebrew-resources/"	
 
+	
   [[menu.site]]  
     name = "About"
     pre = "<i class='fas fa-sitemap fa-fw'></i>"
-    weight = 6
+    weight = 21
     identifier = "about-the-site"
-    url = "/pages/about-the-site/"	
+    url = "/about-the-site/"
+  [[menu.site]]
+    name = "Prayer List"
+    pre = "<i class='fas fa-praying-hands fa-fw'></i>"
+    weight = 22
+    identifier = "prayer-list"
+    url = "/prayer-list/"
+  [[menu.site]]
+    name = "Address Book"
+    pre = "<i class='fas fa-address-book fa-fw'></i>"
+    weight = 23
+    identifier = "address-book"
+    url = "/address-book/"
+  [[menu.site]]
+    name = "Subject Index"
+    pre = "<i class='fas fa-list fa-fw'></i>"
+    weight = 24
+    identifier = "subject-index"
+    url = "/subject-index/"
+  [[menu.site]]
+    name = "Passage Index"
+    pre = "<i class='fas fa-list fa-fw'></i>"
+    weight = 25
+    identifier = "passage-index"
+    url = "/passage-index/"
+  [[menu.site]]
+    name = "Resource Index"
+    pre = "<i class='fas fa-list fa-fw'></i>"
+    weight = 26
+    identifier = "resource-index"
+    url = "/resource-index/"
+  [[menu.site]]
+    name = "Links"
+    pre = "<i class='fas fa-link fa-fw'></i>"
+    weight = 27
+    identifier = "links"
+    url = "/links/"
+  [[menu.site]]
+    name = "Settings"
+    pre = "<i class='fas fa-cog fa-fw'></i>"
+    weight = 28
+    identifier = "settings"
+    url = "/settings/"
+  [[menu.site]]  
+    name = "Mailing List"
+    pre = "<i class='fas fa-envelope fa-fw'></i>"
+    weight = 29
+    identifier = "mailing-list"
+    url = "/#mailing-list"
   [[menu.site]]  
     name = "RSS"
     pre = "<i class='fas fa-rss fa-fw'></i>"
-    weight = 7
+    weight = 30
     identifier = "rss"
-    url = "/index.xml"
-
+    url = "/rss"
 	
-  [[menu.author]]
-    name = "About"
-    pre = "<i class='fas fa-user fa-fw'></i>"
-    weight = 8
-	identifier = "about-the-author"
-    url = "/pages/about-the-author/"
-  [[menu.author]]
-    name = "Contact"
-    pre = "<i class='fas fa-phone fa-fw'></i>"
-    weight = 9
-	identifier = "contact"
-    url = "/pages/contact/"
+	
+#  [[menu.community]]
+#    name = "Forums"
+#    pre = "<i class='fab fa-discourse fa-fw'></i>"
+#    weight = 31
+#	identifier = "forums"
+#    url = "/pages/about-the-author/"
+#  [[menu.community]]
+#    name = "Discord"
+#    pre = "<i class='fab fa-discord fa-fw'></i>"
+#    weight = 32
+#	identifier = "discord"
+#    url = "/pages/contact/"
 	
 	

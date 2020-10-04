@@ -1,0 +1,9 @@
+---
+title: Isaiah 52
+date: 2020-04-12T12:44:48-04:00
+categories: []
+tags: []
+chapter: "052"
+inprogress: false
+---
+

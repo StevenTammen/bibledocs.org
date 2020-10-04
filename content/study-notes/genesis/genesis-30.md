@@ -1,0 +1,9 @@
+---
+title: Genesis 30
+date: 2020-04-12T12:40:45-04:00
+categories: []
+tags: []
+chapter: "030"
+inprogress: false
+---
+

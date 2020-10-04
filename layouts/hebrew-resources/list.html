@@ -1,0 +1,36 @@
+{{ partial "header-list-pages.html" . }}
+
+<div class="header">
+  <h1>{{ .Title }}</h1>
+</div>
+<div class="content">
+
+  {{ .Content }}
+
+  <ul>
+    {{ range .Pages.ByWeight }}
+    <li>
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </li>
+    {{ end }}
+  </ul>
+  
+  {{ range .Sections.ByTitle }}
+  <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+  <ul>
+    {{ range .Pages.ByWeight }}
+    <li>
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </li>
+    {{ end }}
+  </ul>
+  {{ end }}
+  
+</div>
+
+{{ partial "mobile-bar-list-pages.html" . }}
+
+<!-- Site Functions -->
+<script src="{{ .Site.BaseURL }}js/site-functions-list-pages.js"></script>
+
+{{ partial "footer.html" . }}

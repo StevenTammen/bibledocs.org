@@ -1,0 +1,9 @@
+---
+title: Amos 6
+date: 2020-04-12T12:45:45-04:00
+categories: []
+tags: []
+chapter: "006"
+inprogress: false
+---
+
