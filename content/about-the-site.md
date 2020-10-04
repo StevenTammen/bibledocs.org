@@ -423,7 +423,7 @@ Here is a brief overview of how the levels interact with all of this site's prim
 
 Some general notes about the table:
 
-* Pages from the content types in the table above that have a content level of “Any of the levels” can be of any of the content levels, from <span class="basic">basic</span> all the way through <span class="advanced">advanced+</span>/.
+* Pages from the content types in the table above that have a content level of “Any of the levels” can be of any of the content levels, from <span class="basic">basic</span> all the way through <span class="advanced">advanced+</span>.
 * Pages from the content types in the table above that have a writing level of “Both” are offered with both a higher level version of the page and a lower level version of the page.
 
 Some notes specific to various content types:
