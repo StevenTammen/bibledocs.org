@@ -509,7 +509,7 @@ Writing in these special application sections does not set out to prescribe but 
 
 Following the concept that "a picture is worth a thousand words," these flowcharts help visualize decisions within various matters of application. Let me here emphasize that, like all suggestions regarding application, these are not to be taken as hard-and-fast rules, but merely places to start examining potential routes of application based on various circumstances. Here's an example relating to the question of how much to work:
 
-![Career Decisions](career-decisions.png)
+[![Career Decisions](career-decisions.png)](career-decisions.png)
 
 On these flowcharts, the gray ovals represent the start point and end point(s) for the process, the beige diamonds represent choices within the process (with the orange labels labeling the decision branches), and the white rectangles represent sub-processes to be completed.
 
