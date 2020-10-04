@@ -449,10 +449,9 @@ You can see examples of each of the content sections below, with Lorem Ipsum tex
 
 ### Quotes
 
-<div style="background: #e6e6e6; border-radius: 5px; padding: 0px 10px;">
-<strong style="display:block; text-align:center;"><a href="/about-the-site/#quotes">Quote</a> from <a href="/about-the-site/#quotes">{Source}</a></strong>
+{{% quote src="#quotes" site="Source" %}}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</div>
+{{% /quote %}}
 
 I find that quoting text in larger blocks (even multiple paragraphs) is often useful. While many formatting procedures indent block-quotes, this ends up wasting a lot of space over the long-term. Changing the background color while otherwise leaving the styling the same is the most practical way to handle longer quotes, and that is exactly what is done here.
 
@@ -460,10 +459,9 @@ The source for a given quote is linked in the label of the section ("Quote from 
 
 ### Indirect reasoning
 
-<div style="background: #e6f5ff; border-radius: 5px; padding: 0px 10px;">
-<strong style="display:block; text-align:center;"><a href="/about-the-site/#indirect-reasoning">Indirect reasoning</a></strong>
+{{% indirect-reasoning %}}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</div>
+{{% /indirect-reasoning %}}
 
 Ultimately all Bible teaching needs to be based on scripture. However, this does not mean that all teaching can necessarily point to specific verses that directly prove the point at hand.
 
@@ -487,10 +485,9 @@ People who push for Matthew being written originally in Hebrew might make an arg
 
 ### Application
 
-<div style="background: #ebfaeb; border-radius: 5px; padding: 0px 10px;">
-<strong style="display:block; text-align:center;"><a href="/about-the-site/#application">Application</a></strong>
+{{% application %}}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</div>
+{{% /application %}}
 
 As already mentioned several times on this page, the discussions of application on this site are noteworthy relative to other content since they are the only writings that contain things other than direct exposition from scripture. This is because application is very much an individual matter.
 
@@ -531,10 +528,9 @@ The line to walk here is appreciating the importance of faith in our decisions (
 
 ### Technical discussion
 
-<div style="background: #ffe0cc; border-radius: 5px; padding: 0px 10px;">
-<strong style="display:block; text-align:center;"><a href="/about-the-site/#technical-discussion">Technical discussion</a></strong>
+{{% technical-discussion %}}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</div>
+{{% /technical-discussion %}}
 
 [As described above](#writing-level), the higher level of writing on this site sometimes contains technical discussion that is not included in the lower level of writing for the same content. In general, the purpose of this discussion is to formally justify points made without toning things down much. This is not to say that discussions that fall into this special content section are made purposefully impenetrable or anything like that, but simply that the discussion is not in any way tempered for an audience with less knowledge.
 
@@ -551,10 +547,9 @@ The exact topics of technical discussion sections can vary, but the main idea is
 
 ### Cautionary notes
 
-<div style="background: #ffe6e6; border-radius: 5px; padding: 0px 10px;">
-<strong style="display:block; text-align:center;"><a href="/about-the-site/#cautionary-notes">Cautionary notes</a></strong>
+{{% cautionary-notes %}}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-</div>
+{{% /cautionary-notes %}}
 
 Content falling into these cautionary notes sections is of two primary types:
 
