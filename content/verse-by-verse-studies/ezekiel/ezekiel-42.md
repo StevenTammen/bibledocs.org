@@ -1,9 +1,0 @@
----
-title: Ezekiel 42
-date: 2020-03-28T20:28:12-04:00
-categories: []
-tags: []
-chapter: "042"
-inprogress: false
----
-
