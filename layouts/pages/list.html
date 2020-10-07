@@ -9,9 +9,9 @@
 
   <div id="higherLevelPages" style="display:none;">
 	  <ul>
-		{{ range where .Pages.ByWeight "Params.level" "higher"}}
+		{{ range where .Pages.ByWeight "Params.writinglevel" "higher"}}
 		<li>
-		<a href="{{ .Permalink }}">{{ .Title }}</a>
+			<a href="/about-the-site/#content-level"><span class="{{ strings.TrimSuffix "+" .Params.contentlevel }}">{{ .Params.contentlevel }}</span></a>&nbsp;&nbsp;<a href="{{ .Permalink }}">{{ .Title }}</a>
 		</li>
 		{{ end }}
 	  </ul>
@@ -19,9 +19,9 @@
 	  {{ range .Sections.ByTitle }}
 	  <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
 	  <ul>
-		{{ range where .Pages.ByWeight "Params.level" "higher"}}
+		{{ range where .Pages.ByWeight "Params.writinglevel" "higher"}}
 		<li>
-		<a href="{{ .Permalink }}">{{ .Title }}</a>
+			<a href="/about-the-site/#content-level"><span class="{{ strings.TrimSuffix "+" .Params.contentlevel }}">{{ .Params.contentlevel }}</span></a>&nbsp;&nbsp;<a href="{{ .Permalink }}">{{ .Title }}</a>
 		</li>
 		{{ end }}
 	  </ul>
@@ -30,9 +30,9 @@
   
   <div id="lowerLevelPages" style="display:none;">
 	  <ul>
-		{{ range where .Pages.ByWeight "Params.level" "lower"}}
+		{{ range where .Pages.ByWeight "Params.writinglevel" "lower"}}
 		<li>
-		<a href="{{ .Permalink }}">{{ .Title }}</a>
+			<a href="/about-the-site/#content-level"><span class="{{ strings.TrimSuffix "+" .Params.contentlevel }}">{{ .Params.contentlevel }}</span></a>&nbsp;&nbsp;<a href="{{ .Permalink }}">{{ .Title }}</a>
 		</li>
 		{{ end }}
 	  </ul>
@@ -40,9 +40,9 @@
 	  {{ range .Sections.ByTitle }}
 	  <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
 	  <ul>
-		{{ range where .Pages.ByWeight "Params.level" "lower"}}
+		{{ range where .Pages.ByWeight "Params.writinglevel" "lower"}}
 		<li>
-		<a href="{{ .Permalink }}">{{ .Title }}</a>
+			<a href="/about-the-site/#content-level"><span class="{{ strings.TrimSuffix "+" .Params.contentlevel }}">{{ .Params.contentlevel }}</span></a>&nbsp;&nbsp;<a href="{{ .Permalink }}">{{ .Title }}</a>
 		</li>
 		{{ end }}
 	  </ul>

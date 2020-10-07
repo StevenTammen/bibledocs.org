@@ -455,7 +455,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 I find that quoting text in larger blocks (even multiple paragraphs) is often useful. While many formatting procedures indent block-quotes, this ends up wasting a lot of space over the long-term. Changing the background color while otherwise leaving the styling the same is the most practical way to handle longer quotes, and that is exactly what is done here.
 
-The source for a given quote is linked in the label of the section ("Quote from {Source}"). While I do quote from different things at different times, a disproportionately large number of the longer quotes present on this site come from [Ichthys](https://ichthys.com/).
+The source for a given quote is linked in the label of the section ("Quote from {Source}") in almost all cases. (The only real exception is when the source is not linkable for some reason, such as if a website no longer exists). While I do quote from different things at different times, a disproportionately large number of the longer quotes present on this site come from [Ichthys](https://ichthys.com/).
 
 ### Indirect reasoning
 

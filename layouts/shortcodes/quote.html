@@ -7,18 +7,21 @@
 				{{ .Get "text" }}
 			</a>
 		</strong>
-	{{ end }}
 	
-	
-	{{ if (.Get "p")}}
+	{{ else if (.Get "p")}}
 		<strong style="display:block; text-align:center; margin-bottom: -1rem;">
 			{{ .Get "p" }}
 			{{ if (.Get "tsrc") }}
 				| translation from <a href="{{ .Get "tsrc" }}">Ichthys</a>
 			{{ end }}
 		</strong>
+		
+	{{ else }}
+		<strong style="display:block; text-align:center; margin-bottom: -1rem;">
+			<a href="/about-the-site/#quotes">Quote</a>
+		</strong>
 	{{ end }}
-
+	
 	{{ .Inner }}
 	
 </div>

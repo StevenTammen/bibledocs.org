@@ -10,7 +10,7 @@
   <ul>
     {{ range .Pages.ByWeight }}
     <li>
-    <a href="{{ .Permalink }}">{{ .Title }}</a>
+		<a href="/about-the-site/#content-level"><span class="{{ strings.TrimSuffix "+" .Params.contentlevel }}">{{ .Params.contentlevel }}</span></a>&nbsp;&nbsp;<a href="{{ .Permalink }}">{{ .Title }}</a>
     </li>
     {{ end }}
   </ul>
@@ -20,7 +20,7 @@
   <ul>
     {{ range .Pages.ByWeight }}
     <li>
-    <a href="{{ .Permalink }}">{{ .Title }}</a>
+		<a href="/about-the-site/#content-level"><span class="{{ strings.TrimSuffix "+" .Params.contentlevel }}">{{ .Params.contentlevel }}</span></a>&nbsp;&nbsp;<a href="{{ .Permalink }}">{{ .Title }}</a>
     </li>
     {{ end }}
   </ul>

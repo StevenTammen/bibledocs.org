@@ -7,11 +7,21 @@
 
   {{ .Content }}
   
-  <ul>
-    {{ range (.Data.Pages.ByParam "chapter") }}
-    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-	{{ end }}
-  </ul>
+  <div id="higherLevelPages" style="display:none;">
+	  <ul>
+		{{ range where (.Data.Pages.ByParam "chapter") "Params.writinglevel" "higher"}}
+			<a href="/about-the-site/#content-level"><span class="{{ strings.TrimSuffix "+" .Params.contentlevel }}">{{ .Params.contentlevel }}</span></a>&nbsp;&nbsp;<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+		{{ end }}
+	  </ul>
+  </div>
+  
+  <div id="lowerLevelPages" style="display:none;">
+	  <ul>
+		{{ range where (.Data.Pages.ByParam "chapter") "Params.writinglevel" "lower"}}
+			<a href="/about-the-site/#content-level"><span class="{{ strings.TrimSuffix "+" .Params.contentlevel }}">{{ .Params.contentlevel }}</span></a>&nbsp;&nbsp;<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+		{{ end }}
+	  </ul>
+  </div>
   
 </div>
 

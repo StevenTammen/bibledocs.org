@@ -10,10 +10,10 @@ So what is the difference between the verse-by-verse studies and study notes on 
 ## List of verse-by-verse-studies
 
 <ul>
-<li><span class="basic">basic</span>&nbsp;&nbsp;<a href="genesis">Genesis</a></li>
-<li><span class="intermediate">intermediate</span>&nbsp;&nbsp;<a href="exodus">Exodus</a></li>
-<li><span class="advanced">advanced</span>&nbsp;&nbsp;<a href="leviticus">Leviticus</a></li>
-<li><span class="mixed">mixed</span>&nbsp;&nbsp;<a href="numbers">Numbers</a></li>
+<li><a href="genesis">Genesis</a></li>
+<li><a href="exodus">Exodus</a></li>
+<li><a href="leviticus">Leviticus</a></li>
+<li><a href="numbers">Numbers</a></li>
 <li><a href="deuteronomy">Deuteronomy</a></li>
 <li><a href="joshua">Joshua</a></li>
 <li><a href="judges">Judges</a></li>

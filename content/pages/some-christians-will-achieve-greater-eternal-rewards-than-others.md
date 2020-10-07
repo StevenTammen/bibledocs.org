@@ -3,7 +3,8 @@ title: Some Christians Will Achieve Greater Eternal Rewards Than Others
 date: 2020-09-29T07:14:26-04:00
 tags: []
 weight: 
-level: higher
+contentlevel: intermediate+
+writinglevel: higher
 ---
 
 In this material world of ours, distinctions are made every day with regards to merit and distinguished service. While it is true that the idea of “everyone gets a trophy” has been gaining ground of late, it is nonetheless the case that most people do not seem to have great philosophical objection to the idea of different levels of recognition and reward for different levels of service.
