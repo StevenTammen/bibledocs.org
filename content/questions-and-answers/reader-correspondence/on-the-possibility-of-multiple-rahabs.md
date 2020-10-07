@@ -16,7 +16,7 @@ TODO Link to Step Bible readings in Bible reading planning excel sheet like URL?
 
 
 <div class="step-iframe-wrapper" style="max-width:766px; margin:auto;">
-	<iframe width="100%" height="400px" src="http://www.stepbible.org/?q=reference=Ephesians.6.21-Ephesians.6.24" class="step-iframe"></iframe>
+	<iframe width="100%" height="400px" src="https://www.stepbible.org/?q=reference=Ephesians.6.21-Ephesians.6.24" class="step-iframe"></iframe>
 </div>
 
 <style>
