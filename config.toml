@@ -61,18 +61,18 @@ paginate = 10
     weight = 3
     identifier = "pages"
     url = "/pages/"
-  [[menu.content]]
-    name = "Verse-by-verse"
-    pre = "<i class='fas fa-file-alt fa-fw'></i>"
-    weight = 4
-    identifier = "verse-by-verse-studies"
-    url = "/verse-by-verse-studies/"
-  [[menu.content]]
-    name = "Study Notes"
-    pre = "<i class='fas fa-file-alt fa-fw'></i>"
-    weight = 5
-    identifier = "study-notes"
-    url = "/study-notes/"
+#  [[menu.content]]
+#    name = "Verse-by-verse"
+#    pre = "<i class='fas fa-file-alt fa-fw'></i>"
+#    weight = 4
+#    identifier = "verse-by-verse-studies"
+#    url = "/verse-by-verse-studies/"
+#  [[menu.content]]
+#    name = "Study Notes"
+#    pre = "<i class='fas fa-file-alt fa-fw'></i>"
+#    weight = 5
+#    identifier = "study-notes"
+#    url = "/study-notes/"
   [[menu.content]]
     name = "Q&As"
     pre = "<i class='fas fa-file-alt fa-fw'></i>"
