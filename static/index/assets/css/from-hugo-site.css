@@ -58,7 +58,6 @@ This is the parent `<div>` that contains the menu and the content area.
 #menu {
 	left: 170px;
 	width: 170px;
-	height: 100vh;
 }
 
 #menu .pure-menu {
@@ -71,6 +70,7 @@ appears on the left side of the page.
 */
 
 #menu {
+	padding-bottom: 30px;
     margin-left: -170px; /* "#menu" width */
     width: 170px;
     position: fixed;
