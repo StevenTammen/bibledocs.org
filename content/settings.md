@@ -9,9 +9,30 @@ As explained at [/about-the-site/#level-appropriate](/about-the-site/#level-appr
 
 While you can always go back and forth between the higher level version and lower level version for an individual page using the page level link found in the menu sidebar, most users will probably mostly be looking at content of the same level across pages. For this reason, you can set the writing level here globally, and all content lists across the site will then default to your chosen writing level.
 
-<input id="higherLevel" onclick="javascript:setCookie('writingLevel', 'higher', 1825);" type="button" value="View only higher level writings" />
-<br/><br>
-<input id="lowerLevel" onclick="javascript:setCookie('writingLevel', 'lower', 1825);" type="button" value="View only lower level writings" />
+<div id="writingLevelContainer">
+	<div id="writingLevelDisplay"></div>
+	<div><input id="higherLevel" onclick="javascript:toHigherWritingLevel();" type="button" value="View only higher level writings" /></div>
+	<div><input id="lowerLevel" onclick="javascript:toLowerWritingLevel();" type="button" value="View only lower level writings" /></div>
+</div>
+
+<style>
+	#writingLevelContainer {
+		border: 1px solid black;
+		border-radius: 5px;
+	}
+	
+	#writingLevelContainer input {
+		width: 240px;
+	}
+	
+	#writingLevelContainer > div {
+		padding: 10px;
+	}
+
+	#writingLevelDisplay {
+		font-weight: bold;
+	}
+</style>
 
 Keep in mind that if you clear your browser cookies, your preferences here will be lost, and you'll have to select them again.
 
@@ -56,3 +77,60 @@ Keep in mind that if you clear your browser cookies, your preferences here will 
 	</div>
 </div>
 <!-- End RefTagger Control Panel. For more info visit https://faithlife.com/products/reftagger. -->
+
+
+
+<script type="text/javascript">
+	function setCookie(cname,cvalue,exdays) {
+	  var d = new Date();
+	  d.setTime(d.getTime() + (exdays*24*60*60*1000));
+	  var expires = "expires=" + d.toGMTString();
+	  document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+	}
+
+	function getCookie(cname) {
+	  var name = cname + "=";
+	  var decodedCookie = decodeURIComponent(document.cookie);
+	  var ca = decodedCookie.split(';');
+	  for(var i = 0; i < ca.length; i++) {
+		var c = ca[i];
+		while (c.charAt(0) == ' ') {
+		  c = c.substring(1);
+		}
+		if (c.indexOf(name) == 0) {
+		  return c.substring(name.length, c.length);
+		}
+	  }
+	  return "";
+	}
+
+	function toHigherWritingLevel() {
+		setCookie('writingLevel', 'higher', 1825);
+		displayWritingLevel();
+	}
+
+	function toLowerWritingLevel() {
+		setCookie('writingLevel', 'lower', 1825);
+		displayWritingLevel();
+	}
+
+	function displayWritingLevel() {
+		var writingLevel=getCookie("writingLevel");
+		var displayDiv = document.getElementById("writingLevelDisplay");
+		if(writingLevel == "higher")
+		{
+			displayDiv.innerHTML = "Current writing level: higher";
+		}
+		else if(writingLevel == "lower")
+		{
+			displayDiv.innerHTML = "Current writing level: lower";
+		}
+		// if user hasn't set cookie, set cookie and display higher level version
+		else { // level = ""
+			setCookie('writingLevel', 'higher', 1825);
+			displayDiv.innerHTML = "Current writing level: higher";
+		}
+	}
+	
+	displayWritingLevel();
+</script>
