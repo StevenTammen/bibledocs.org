@@ -9,28 +9,6 @@ writinglevel: neither
 
 **October, 2015 - before I had any Greek**
 
-TODO Link to Step Bible readings in Bible reading planning excel sheet like URL?reference=Genesis.1|reference=Matthew.1|reference=Psalm.1
-
-// TODO: quote div (silver background verse using quotem shortcode) display block
-
-
-
-<div class="step-iframe-wrapper" style="max-width:766px; margin:auto;">
-	<iframe width="100%" height="400px" src="https://www.stepbible.org/?q=reference=Ephesians.6.21-Ephesians.6.24" class="step-iframe"></iframe>
-</div>
-
-<style>
-@media screen and (max-width:767px) {
-    .step-iframe-wrapper {
-		display: none;
-	}
-}
-</style>
-
-
-
-
-
 ## Correspondent
 
 I was talking to someone this week about Rahab, and there is a point of confusion I was wondering I could clear up with you. Apparently, the spelling of Rahab's name is different when she is mentioned in Matthew (Jesus's genealogy) than when her name is mentioned in Joshua. It is spelled the same everywhere else, but how can we be so sure it's the same Rahab? Or is everything I said wrong?
