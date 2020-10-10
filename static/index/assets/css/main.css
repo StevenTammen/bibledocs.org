@@ -2166,7 +2166,7 @@ input, select, textarea {
 	#header {
 		position: relative;
 		margin: 0;
-		background-image: url("images/overlay.png"), url("../../images/scripture.jpg");
+		background-image: url("images/overlay.png"), url("../../images/scripture-small.jpg");
 		background-size: auto, cover;
 		background-position: top left, center center;
 		background-repeat: repeat, no-repeat;
