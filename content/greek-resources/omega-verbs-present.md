@@ -2,7 +2,7 @@
 title: Omega Verbs - Present
 date: 2020-09-12
 tags: []
-weight: 
+weight: 3
 ---
 
 ## A note on content ordering: starting vocab ASAP

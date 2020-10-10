@@ -1,6 +1,8 @@
 ---
 title: Accents
 date: 2020-08-29
+tags: []
+weight: 2
 ---
 
 ## What is an accent?

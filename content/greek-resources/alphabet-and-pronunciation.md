@@ -1,6 +1,8 @@
 ---
 title: Alphabet and Pronunciation
 date: 2020-08-08T10:21:05-04:00
+tags: []
+weight: 1
 ---
 
 ## Initial background information

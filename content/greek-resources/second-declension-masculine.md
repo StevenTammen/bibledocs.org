@@ -2,7 +2,7 @@
 title: Second Declension Masculine
 date: 2020-09-12
 tags: []
-weight: 
+weight: 4
 ---
 
 ## Characteristics of Greek substantives

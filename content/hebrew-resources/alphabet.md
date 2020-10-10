@@ -1,11 +1,8 @@
 ---
 title: Alphabet
 date: 2020-08-01T08:14:08-04:00
-categories: []
 tags: []
-weight: 
-inprogress: false
-
+weight: 1
 ---
 
 ## Initial background information, and clarifying some common statements
