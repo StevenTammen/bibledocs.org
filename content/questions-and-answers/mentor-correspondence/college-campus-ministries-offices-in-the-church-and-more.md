@@ -1,5 +1,5 @@
 ---
-title: Miscellaneous Questions
+title: College campus ministries, offices in the Church, and more
 date: 2020-10-04T12:15:25-04:00
 tags: []
 weight: 
