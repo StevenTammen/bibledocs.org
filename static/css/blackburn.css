@@ -133,6 +133,51 @@ code {
 }
 
 
+/* Special content sections */
+
+.special-content {
+	border-radius: 5px;
+	padding: 0px 10px 10px 10px;
+	margin-bottom: 10px;
+}
+
+.special-content >  .special-content {
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 20px;
+}
+
+.special-content > strong {
+	display: block;
+	text-align: center;
+	margin-bottom: -1rem;
+}
+
+.special-content.technical-discussion {
+	background: #ffe0cc;
+}
+
+.special-content.sidenote {
+	background: #fffae6;
+}
+
+.special-content.quote {
+	background: #e6e6e6;
+}
+
+.special-content.indirect-reasoning {
+	background: #e6f5ff;
+}
+
+.special-content.cautionary-notes {
+	background: #ffe6e6;
+}
+
+.special-content.application {
+	background: #ebfaeb;
+}
+
+
 /* STEP Bible app iframes */
 
 .step-iframe-wrapper {
