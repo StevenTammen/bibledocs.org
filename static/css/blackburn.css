@@ -132,6 +132,52 @@ code {
 	border-radius: 3px;
 }
 
+
+/* STEP Bible app iframes */
+
+.step-iframe-wrapper {
+	max-width: 766px;
+	margin: auto;
+}
+
+.height-button-bar {
+	display: flex;
+	height: 35px;
+	background-color: #191818;
+}
+
+.height-button-bar a {
+	border: 1px solid #999;
+	text-align: center;
+	line-height: 35px;
+	color: #999;
+	display: inline-block;
+	flex-grow: 1;
+}
+
+.height-button-bar a:hover,
+.height-button-bar a:focus,
+.height-button-bar a.active {
+	background: #333;
+	color: #999900;
+	text-decoration: none;
+}
+
+.step-fallback {
+	display: none;
+}
+
+@media screen and (max-width:900px) {
+    .step-iframe-wrapper {
+		display: none;
+	}
+	
+	.step-fallback {
+		display: block;
+	}
+}
+
+
 /* Footer with display toggles */
 
 .mobile-bar {
