@@ -133,6 +133,13 @@ code {
 }
 
 
+/* Hide stuff */
+
+.display-none {
+  display: none;
+}
+
+
 /* Special content sections */
 
 .special-content {

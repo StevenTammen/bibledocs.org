@@ -23,8 +23,10 @@
 		<a class="{{$idString}} h800 {{if eq $height "800px" }}active{{end}}" href="javascript:adjustIframeHeight('{{$idString}}', 800);"><i class='fas fa-arrows-alt-v fa-fw'></i>Height: 800px</a>
 	</div>
 	
-	<iframe class="{{$idString}}" src="http://www.STEPBible.org/?q=version=OHB|version=NASB|reference={{$passage}}&options=VUN" width="100%" height="{{ $height }}">
+	<iframe class="step-iframe display-none {{$idString}}" src="http://www.STEPBible.org/?q=version=OHB|version=NASB|reference={{$passage}}&options=VUN" width="100%" height="{{ $height }}">
 	</iframe>
+	
+	<div style="height:{{ $height }}; background:#e6e6e6;"></div>
 </div>
 
 <div class="step-fallback">
