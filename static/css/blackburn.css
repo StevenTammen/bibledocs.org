@@ -215,10 +215,6 @@ code {
 	text-decoration: none;
 }
 
-.step-fallback {
-	display: none;
-}
-
 @media screen and (max-width:900px) {
     .step-iframe-wrapper {
 		display: none;

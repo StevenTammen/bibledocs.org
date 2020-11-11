@@ -36,6 +36,39 @@ While you can always go back and forth between the higher level version and lowe
 
 Keep in mind that if you clear your browser cookies, your preferences here will be lost, and you'll have to select them again.
 
+## STEP Bible app embedded windows
+
+As explained at [/about-the-site/#step-bible-app-embedded-windows](/about-the-site/#step-bible-app-embedded-windows), this site offers the option of viewing most verse quotations in embedded windows from a Bible software application. This allows for a lot of advanced functionality (built right into the webpages of this site), but it does add some complexity that some people may not want. For this reason, this site also offers a simpler option where verse quotations appear as plain text.
+
+While you can always go back and forth between these two display options using the page level link found in the menu sidebar, most users will probably mostly be interested in having the same display preference active across pages. For this reason, you can set the display option here globally, and all pages across the site will then default to your chosen scripture display setting.
+
+<div id="scriptureDisplayContainer">
+	<div id="scriptureDisplayDisplay"></div>
+	<div><input id="embedded" onclick="javascript:toEmbeddedDisplay();" type="button" value="View scripture in embedded windows" /></div>
+	<div><input id="plaintext" onclick="javascript:toPlaintextDisplay();" type="button" value="View scripture in plain text" /></div>
+</div>
+
+<style>
+	#scriptureDisplayContainer {
+		border: 1px solid black;
+		border-radius: 5px;
+	}
+	
+	#scriptureDisplayContainer input {
+		width: 280px;
+	}
+	
+	#scriptureDisplayContainer > div {
+		padding: 10px;
+	}
+
+	#scriptureDisplayDisplay {
+		font-weight: bold;
+	}
+</style>
+
+Keep in mind that if you clear your browser cookies, your preferences here will be lost, and you'll have to select them again.
+
 ## Reftagger settings
 
 You can use the below control panel to change settings relating to the verse tagging used on this site. Of particular note, you can change the Bible version used, as well as toggle whether or not you include links to Logos Bible Software in the tagging. If you do, clicking on the L in the box next to a link will open the tagged passage in Logos. This is very useful if you are a user of Logos (but if you are not, it reduces visual clutter to disable this option, which is why it is off by default).
@@ -132,5 +165,36 @@ Keep in mind that if you clear your browser cookies, your preferences here will 
 		}
 	}
 	
+	function toEmbeddedDisplay() {
+		setCookie('scriptureDisplay', 'embedded', 1825);
+		displayScriptureDisplay();
+	}
+
+	function toPlaintextDisplay() {
+		setCookie('scriptureDisplay', 'plaintext', 1825);
+		displayScriptureDisplay();
+	}
+
+	function displayScriptureDisplay() {
+		var scriptureDisplay=getCookie("scriptureDisplay");
+		var displayDiv = document.getElementById("scriptureDisplayDisplay");
+		if(scriptureDisplay == "embedded")
+		{
+			displayDiv.innerHTML = "Current scripture display setting: embedded windows";
+		}
+		else if(scriptureDisplay == "plaintext")
+		{
+			displayDiv.innerHTML = "Current scripture display setting: plain text";
+		}
+		// if user hasn't set cookie, set cookie and display embedded windows
+		else { // scriptureDisplay = ""
+			setCookie('scriptureDisplay', 'embedded', 1825);
+			displayDiv.innerHTML = "Current scripture display setting: embedded windows";
+		}
+	}
+	
+	
+	
 	displayWritingLevel();
+	displayScriptureDisplay()
 </script>

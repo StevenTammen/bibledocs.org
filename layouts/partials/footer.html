@@ -3,10 +3,53 @@
 
 <!-- STEP Bible iframes -->
 <script>
-$('.step-iframe').on('load', function() {
-    $(this).removeClass("display-none");
-    $(this).next().addClass("display-none");
-});
+
+function showEmbeddedWindows() {
+	$('.step-fallback').addClass("display-none");
+	$('.step-iframe-wrapper').removeClass("display-none");
+}
+
+function showPlaintext() {
+	$('.step-iframe-wrapper').addClass("display-none");
+	$('.step-fallback').removeClass("display-none");
+}
+
+function toggleScriptureDisplay() {
+	// if currently diplaying plaintext
+	if($('.step-iframe-wrapper').hasClass("display-none")) {
+		showEmbeddedWindows();
+	}
+	// if currently displaying embedded
+	else {
+		showPlaintext();
+	}
+}
+
+function initialScriptureDisplay() {
+	var scriptureDisplay=getCookie("scriptureDisplay");
+	if(scriptureDisplay == "embedded")
+	{
+		$('.step-iframe').on('load', function() {
+			$(this).removeClass("display-none");
+			$(this).next().addClass("display-none");
+		});
+	}
+	else if(scriptureDisplay == "plaintext")
+	{
+		showPlaintext();
+	}
+	// if user hasn't set cookie, set cookie and display embedded windows
+	else { // scriptureDisplay = ""
+		setCookie('scriptureDisplay', 'embedded', 1825);
+		$('.step-iframe').on('load', function() {
+			$(this).removeClass("display-none");
+			$(this).next().addClass("display-none");
+		});
+	}
+}
+
+initialScriptureDisplay();
+
 </script>
 
 <!-- RefTagger -->
