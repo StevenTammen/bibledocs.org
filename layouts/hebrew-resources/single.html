@@ -6,10 +6,7 @@
 </div>
 <div class="content">
 	<div class="container">
-		{{ partial "post_meta.html" . }}
-		{{ if (eq .Params.inprogress true) }} {{ partial "in-progress.html" . }} {{ end }}
 		{{ .Content }}
-		{{ partial "disqus.html" . }}
 	</div>
 </div>
 
