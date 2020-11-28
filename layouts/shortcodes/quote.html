@@ -7,14 +7,6 @@
 				{{ .Get "text" }}
 			</a>
 		</strong>
-	
-	{{ else if (.Get "p")}}
-		<strong>
-			{{ .Get "p" }}
-			{{ if (.Get "tsrc") }}
-				| translation <a href="{{ .Get "tsrc" }}">from Ichthys</a>
-			{{ end }}
-		</strong>
 		
 	{{ else }}
 		<strong>

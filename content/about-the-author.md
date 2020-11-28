@@ -50,7 +50,7 @@ Bearing this in mind, what makes me qualified to put myself forward as a Bible t
 
 There's no two ways about it: I am young relative to most Bible teachers. I have certainly strived to go about preparing in a rigorous and responsible manner, and youth is definitely not itself disqualifying (compare 1 Timothy 4:12), but there is no way that my knowledge base can compete with those of Bible teachers who have been at it much longer than myself.
 
-For this reason, I recommend most people check out [Ichthys](https://ichthys.com/) and [Bible Academy](https://www.youtube.com/channel/UCkp-J7VPT7NcwmuiNfD2fkg/playlists). These are two ministries that I can recommend almost without reservation, and both Dr. Robert Luginbill (the teacher behind Ichthys) and Curtis Omo (the teacher behind Bible Academy) have decades of experience behind them.
+For this reason, I recommend most people check out [Ichthys](https://ichthys.com/) and [Bible Academy](https://www.youtube.com/channel/UCkp-J7VPT7NcwmuiNfD2fkg/playlists). These are two ministries that I can recommend almost without reservation, and both Dr. Robert Luginbill (the teacher behind Ichthys) and Pastor Curtis Omo (the teacher behind Bible Academy) have decades of experience behind them.
 
 If you find either of these to be to your liking (they certainly are not everyone's "cup of tea," so to speak -- for example, Ichthys' studies are very long and technical), I would suggest making them part of your spiritual nourishment, if not in lieu of this ministry, then certainly alongside it.
 
@@ -70,7 +70,7 @@ I also hope the materials of this site speak for themselves; the "proof is in th
 
 Simply having the spiritual gift is not enough. Many callings within the Body of Christ do not have a particularly long lead-time, but Bible teaching does. Doing it right (and all pastor-teachers are called to do it right; compare 2 Timothy 2:15) requires extensive preparation.
 
-Now, not all teachers are necessarily called to learn the languages (compare 1 Corinthians 12:4-6 -- even people with the same gift can serve in many different capacities within the Body), but even so, properly handling the word of truth requires knowledge in many areas:
+Now, not all teachers are necessarily called to learn the languages (compare 1 Corinthians 12:4-6 -- even people with the same gift can serve in many different capacities within the Body), but even so, properly handling the Word of truth requires knowledge in many areas:
 
 - A deep understanding of the whole text of scripture
 - Greek and Hebrew (if possible)

@@ -157,7 +157,7 @@ code {
 .special-content > strong {
 	display: block;
 	text-align: center;
-	margin-bottom: -1rem;
+	border-bottom: 1px solid black;
 }
 
 .special-content.technical-discussion {
@@ -176,12 +176,16 @@ code {
 	background: #e6f5ff;
 }
 
-.special-content.cautionary-notes {
+.special-content.cautionary-note {
 	background: #ffe6e6;
 }
 
 .special-content.application {
 	background: #ebfaeb;
+}
+
+.special-content.post-hoc-note {
+	background: #f2d9f2;
 }
 
 

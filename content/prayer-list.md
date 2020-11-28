@@ -16,39 +16,37 @@ I have organized the prayer list into various sections based on commonalities (a
 
 ### Contemporary wider issues
 
-* For those affected by Covid-19, and their families. Also for protection for vulnerable populations like the elderly.
+* For those affected by Covid-19, and their families. Also for protection for vulnerable populations like the elderly, and for the comfort and encouragement of those that have become lonely and isolated during the pandemic.
 * For those who have suffered as a result of the economic fallout from Covid-19 -- for their provision and deliverance.
-* For peace, reconciliation, forgiveness, and love in the midst of the racial tensions wracking America.
-* For peace, reconciliation, forgiveness, and love in the midst of the political tensions wracking America, particularly in this election year.
 
 ### Ministries
 
 * For this ministry, BibleDocs, and my own dedication and focus.
-* For Ichthys and Dr. Robert Luginbill
-* For Bible Academy and Curt Omo
-* For Bible Crash Course and Will Rieke
-* For our other brothers and sisters preparing and engaging in ministry: Bartek, Bartek's father, Alex, Christian, Odii, Jordan, Abby, Peter, Ryan, Garrett, and others.
+* For [Ichthys](https://ichthys.com/) and Dr. Robert Luginbill
+* For [Bible Academy](https://www.youtube.com/channel/UCkp-J7VPT7NcwmuiNfD2fkg/playlists) and Curt Omo
+* For [Bible Crash Course](https://www.youtube.com/channel/UChhe0vK1hz8bxzcphHWpFmg/featured) and Will Rieke
+* For our other brothers and sisters preparing for and engaging in ministry: Bartek, Bartek's father, Alex, Christian, Odii, Jordan, Abby, Peter, Garrett, other Garrett, Ryan, and others.
 
 ### Health
 
 * For the health and comfort of Carol, and for her caretakers.
-* For Guy's cancer, that God would work and overcome the unfavorable prognosis if possible.
-* For Glen's son's hospitalization after an injury and subsequent infection during special forces training.
+* For Guy's cancer, that God would work and overcome the unfavorable prognosis, if possible.
+* For Glen's son's hospitalization after an injury and subsequent infection during special forces wilderness training.
 
 ### Safety
 
 * For the safety of Odii and his fiancee in their dangerous living circumstances.
-* For the safety of our brothers and sisters who presently find themselves affected in whatever way by violent protests and riots.
+* For the safety of our Christian brothers and sisters around the world who presently find themselves affected in whatever way by violent protests, riots, and general civil unrest.
 
 ### School and work
 
 * For Sarah and Sylvia in their programs of study and academic circumstances.
-* For Odii's study and self-employment. That opportunities would work out and complete financial provision from self-employment would eventually be reached. That university would work out well for his intended path.
-* For wisdom and guidance for Jordan, in terms of what he is supposed to do.
+* For Odii's employment in freelance writing. That opportunities would work out and complete financial provision from self-employment would eventually be reached.
+* For wisdom and guidance for Jordan, in terms of what he is supposed to do. **Also for success in obtaining a workable job.**
 
 ### Other
 
-* For Matt's difficult living situation -- for peace and détente at least, if not resolution.
+* For Matt's difficult living situation with his roommates -- for peace and détente at least, if not resolution.
 
 
 

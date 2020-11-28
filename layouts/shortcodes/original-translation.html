@@ -1,0 +1,15 @@
+{{ $passage := .Get "p" }}
+{{ $passage := replace $passage " " ""}}
+{{ $passage := replace $passage ":" "."}}
+{{ $passage := replace $passage "|" "|reference="}}
+{{ $passage := replaceRE "([a-z]+)([0-9]+)" "$1.$2" $passage }}
+
+<div id="{{ $passage }}" class="special-content quote">
+
+	<strong>
+		{{ .Get "p" }} | <a href="/about-the-site/#my-own-original-translations">original translation</a>
+	</strong>
+	
+	{{ .Inner }}
+	
+</div>

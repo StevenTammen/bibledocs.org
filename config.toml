@@ -59,6 +59,12 @@ paginate = 10
     weight = 4
     identifier = "address-book"
     url = "/address-book/"
+  [[menu.author]]
+    name = "Online Bible Studies"
+    pre = "<i class='fas fa-address-book fa-fw'></i>"
+    weight = 5
+    identifier = "online-bible-studies"
+    url = "/online-bible-studies/"
 	
 	
   [[menu.content]]
