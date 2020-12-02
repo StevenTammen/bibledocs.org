@@ -1,8 +1,8 @@
 ---
-title: Passage Index
+title: Translation Index
 ---
 
-This page contains links to places (full pages and subsections of pages) where I address specific passages from scripture. As a rule of thumb, any time I personally translate a passage, the page or subsection that passage shows up in will be linked here, and the translated passage itself will be linked in the [Translation Index](/translation-index). However, this page also contains links to individual pages or subsections where I do not personally translate a passage, but just talk about it.
+This page contains links to passages that I have directly translated from the original languages.
 
 ## Genesis
 
