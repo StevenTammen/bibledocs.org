@@ -112,7 +112,7 @@ This ministry maintains a few high-level pages that enhance the site's usability
 * [Settings Page](/settings): contains interfaces for changing site-wide settings: preferred writing level, verse tagging preferences, and so on.
 * [Links Page](/links): contains an annotated list of ministries and Bible study resources I recommend.
 * [Resource Index](/resource-index): contains the exhaustive list of the Bible study resources I personally use, as well my procedure in linking to resources (including digital books, via Bible software APIs).
-* [Passage Index](/passage-index): contains links to places (full pages and subsections of pages) where I address specific passages in scripture. As a rule of thumb, any time I personally translate a passage, the page or subsection that passage shows up in will be linked here, and the translated passage itself will be linked in the translation index (as below). However, the passage index also contains links to individual pages or subsections where I do not personally translate a passage, but just talk about it.
+* [Passage Index](/passage-index): contains links to places (full pages and subsections of pages) where I address specific passages from scripture. As a rule of thumb, any time I personally translate a passage, the page or subsection that passage shows up in will be linked here, and the translated passage itself will be linked in the translation index (as below). However, the passage index also contains links to individual pages or subsections where I do not personally translate a passage, but just talk about it.
 * [Translation Index](/translation-index): contains links to passages that I have directly translated from the original languages.
 * [Subject Index](/subject-index): contains links to full pages and subsections of pages on this site, organized by topic.
 
@@ -414,7 +414,7 @@ As a natural result of glossing over some of the details, the lower level versio
 
 Given the people groups that the lower level pages are targeting, this is generally a very good thing. Children only have so much attention, for example, and people for whom English is a second (or third, etc.) language will greatly appreciate having less content overall to wade through.
 
-#### Writing level and Bible versions and translations used in quotations
+#### Writing level and Bible versions used in quotations
 
 The Bible versions and translations used on this site [are discussed below](#bible-versions-and-translations-used-on-this-site). While you can read more about all this there (including much more of "the why"), I do use different Bible versions for the two different writing levels:
 
