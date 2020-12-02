@@ -6,6 +6,9 @@
 </div>
 <div class="content">
 	<div class="container">
+		{{ if (eq .Params.inprogress true) }}
+			{{ partial "in-progress.html" . }}
+		{{ end }}
 		{{ .Content }}
 	</div>
 </div>
