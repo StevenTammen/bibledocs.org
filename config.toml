@@ -61,7 +61,7 @@ paginate = 10
     url = "/address-book/"
   [[menu.author]]
     name = "Online Bible Studies"
-    pre = "<i class='fas fa-address-book fa-fw'></i>"
+    pre = "<i class='fas fa-users fa-fw'></i>"
     weight = 5
     identifier = "online-bible-studies"
     url = "/online-bible-studies/"
@@ -137,7 +137,7 @@ paginate = 10
     url = "/about-the-site/"
   [[menu.site]]  
     name = "Future Content"
-    pre = "<i class='fa fa-columns fa-fw'></i>"
+    pre = "<i class='fa fa-calendar-alt fa-fw'></i>"
     weight = 22
     identifier = "future-content"
     url = "https://github.com/StevenTammen/bibledocs.org/projects/1"
