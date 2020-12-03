@@ -35,28 +35,28 @@ thead input {
 
 <thead><tr><th>Name</th><th>Email</th><th>In-Network</th><th>Location</th><th>Job/Occupation Expertise</th><th>Other Tags</th></tr></thead>
 
-<tr><td>Robert Luginbill</td><td><a href="mailto:questions2@ichthys.com">questions2@ichthys.com</a></td><td>Yes</td><td>Lousville, Kentucky, USA</td><td>Classics academia, academia more generally</td><td>Most qualified Bible teacher I know, academic and technical expertise</td></tr>
-<tr><td>Person 2</td><td> </td><td>Yes</td><td>United Kingdom</td><td>Self-employment</td><td>Living minimalistic life, academic preparation, Catholicism (ex-Caltholic perspective)</td></tr>
+<tr><td>Robert Luginbill</td><td><a href="mailto:questions2@ichthys.com">questions2@ichthys.com</a></td><td>Yes</td><td>Lousville, Kentucky, USA</td><td>Classics academia, academia more generally</td><td>Academic and technical expertise in Greek, Hebrew, Classics, philology</td></tr>
+<tr><td>Person 2</td><td> </td><td>Yes</td><td>United Kingdom</td><td>Self-employment</td><td>Living minimalistic life, academic preparation for ministry, Catholicism (ex-Caltholic perspective)</td></tr>
 <tr><td>Person 3</td><td> </td><td>Yes</td><td>Nigeria</td><td>Physics</td><td>Growing up and living in a foreign country with harsher circumstances than America</td></tr>
 <tr><td>Person 4</td><td> </td><td>Yes</td><td>Maryland, USA</td><td>Welding</td><td></td></tr>
 <tr><td>Person 5</td><td> </td><td>Yes</td><td>Australia</td><td></td><td>Mormonism (ex-Mormon perspective)</td></tr>
 <tr><td>Person 6</td><td> </td><td>Yes</td><td>Philadelphia, Pennsylvania, USA</td><td>Self-employment</td><td>Setting up one's own business</td></tr>
 <tr><td>Person 7</td><td> </td><td>Yes</td><td>Australia</td><td>Architectural design</td><td></td></tr>
-<tr><td>Person 8</td><td> </td><td>Yes</td><td>Columbus, Ohio, USA</td><td>Art school, sales positions</td><td></td></tr>
+<tr><td>Person 8</td><td> </td><td>Yes</td><td>Columbus, Ohio, USA</td><td>Art school, sales positions</td><td>Contact with Messaniac Judaism</td></tr>
 <tr><td>Person 9</td><td> </td><td>No</td><td>Georgia, USA</td><td>Air Force Linguist, working for Air Force</td><td>Value of education, eschewing normal path in life, German, Korean, having an internationally-minded perspective as an American</td></tr>
-<tr><td>Person 10</td><td> </td><td>No</td><td>Boston, Massachusetts, USA</td><td></td><td>Eastern Orthodoxy, perspective of a Protestant who converted to Eastern Orthodoxy, Church fathers</td></tr>
+<tr><td>Person 10</td><td> </td><td>No</td><td>Boston, Massachusetts, USA</td><td>Seminary, Greek</td><td>Eastern Orthodoxy, perspective of a Protestant who converted to Eastern Orthodoxy, Church fathers</td></tr>
 <tr><td>Person 11</td><td> </td><td>No</td><td></td><td></td><td>French (religious) history, french culture, Iranian culture, Farsi</td></tr>
 <tr><td>Person 12</td><td> </td><td>No</td><td></td><td></td><td>Living a life of service, deacon role</td></tr>
 <tr><td>Person 13</td><td> </td><td>No</td><td>Athens, Georgia, USA</td><td></td><td>Living a life of service, deacon role</td></tr>
 <tr><td>Person 14</td><td> </td><td>No</td><td>Athens, Georgia, USA</td><td></td><td>Elder role in local church</td></tr>
 <tr><td>Person 15</td><td> </td><td>No</td><td>Athens, Georgia, USA</td><td></td><td>Art and culture (C.S. Lewis, etc.)</td></tr>
-<tr><td>Person 16</td><td> </td><td>No</td><td>Atlanta, Georgia, USA</td><td>IBM</td><td>Mission work, Scotland</td></tr>
+<tr><td>Person 16</td><td> </td><td>No</td><td>Atlanta, Georgia, USA</td><td>IBM</td><td>Overseas mission work, Scotland</td></tr>
 <tr><td>Person 17</td><td> </td><td>No</td><td>Athens, Georgia, USA</td><td>Philosophy academia</td><td>Philosophy</td></tr>
 <tr><td>Person 18</td><td> </td><td>No</td><td>Athens, Georgia, USA</td><td>Linguistics, Hebrew</td><td>Perspective of a Protestant who converted to Eastern Orthodoxy</td></tr>
 <tr><td>Person 19</td><td> </td><td>No</td><td>Tallahassee, Florida, USA</td><td></td><td>College campus ministry (RUF in particular)</td></tr>
 <tr><td>Person 20</td><td> </td><td>No</td><td>Athens, Georgia, USA</td><td>Classics, math, Chinese</td><td></td></tr>
 <tr><td>Person 21</td><td> </td><td>No</td><td>Atlanta, Georgia, USA</td><td>Computer science</td><td></td></tr>
-<tr><td>Person 22</td><td> </td><td>No</td><td>Aiken, South Carolina, USA</td><td>Mechanical engineering</td><td></td></tr>
+<tr><td>Person 22</td><td> </td><td>No</td><td>Aiken, South Carolina, USA</td><td>Mechanical engineering, working at nuclear plant</td><td></td></tr>
 <tr><td>Person 23</td><td> </td><td>No</td><td></td><td>Architecture, civil engineering</td><td></td></tr>
 <tr><td>Person 24</td><td> </td><td>No</td><td></td><td>Aerospace engineering</td><td></td></tr>
 <tr><td>Person 25</td><td> </td><td>No</td><td></td><td>Industrial engineering</td><td></td></tr>
@@ -64,9 +64,10 @@ thead input {
 <tr><td>Person 27</td><td> </td><td>No</td><td>Athens, Georgia, USA</td><td>Russian language, Russian literature, Piano</td><td>Philosophy</td></tr>
 <tr><td>Person 28</td><td> </td><td>No</td><td>Lawrenceville, Georgia, USA</td><td>Experimental physics</td><td></td></tr>
 <tr><td>Person 29</td><td> </td><td>No</td><td>Lawrenceville, Georgia, USA</td><td>Electrical engineering</td><td></td></tr>
-<tr><td>Person 30</td><td> </td><td>No</td><td>Los Alamos, New Mexico, USA</td><td></td><td>The perspective that comes with age and experience</td></tr>
+<tr><td>Person 30</td><td> </td><td>No</td><td>Los Alamos, New Mexico, USA</td><td></td><td></td></tr>
 <tr><td>Person 31</td><td> </td><td>No</td><td></td><td>Industrial engineering</td><td></td></tr>
-<tr><td>Steven Tammen</td><td><a href="mailto:steven@bibledocs.org">steven@bibledocs.org</a></td><td>Yes</td><td>Warner Robins, Georgia, USA</td><td>Classics, computer science, working for Air Force</td><td>Productivity and efficiency, gear, software, exercise, nutrition, health</td></tr>
+<tr><td>Steven Tammen</td><td><a href="mailto:steven@bibledocs.org">steven@bibledocs.org</a></td><td>Yes</td><td>Warner Robins, Georgia, USA</td><td>Greek, Classics, computer science, working for Air Force</td><td>Productivity and efficiency, gear, software, exercise, nutrition, health</td></tr>
+<tr><td>Person 33</td><td> </td><td>No</td><td>Hamburg, Germany</td><td>Philosophy, full-stack web-dev (TS / JS / PHP)</td><td>Overseas mission work, Germany</td></tr>
 
 <tfoot><tr><th>Name</th><th>Email</th><th>In-Network</th><th>Location</th><th>Job/Occupation Expertise</th><th>Other Tags</th></tr></tfoot>
 

@@ -146,17 +146,21 @@ thead input {
 
 <tr><td>English Bibles</td><td>NASB</td><td>New American Standard Bible, 1995</td><td>digital</td><td><a href="https://www.logos.com/product/145180/the-new-american-standard-bible-nasb-reverse-interlinears-set">Logos</a></td></tr>
 <tr><td>English Bibles</td><td>ESV</td><td>English Standard Version</td><td>digital</td><td><a href="https://www.logos.com/product/154150/the-english-standard-version-with-reverse-interlinear">Logos</a></td></tr>
-<tr><td>English Bibles</td><td>NIV</td><td>New International Version, 2011</td><td>digital</td><td><a href="https://www.logos.com/product/154029/the-new-international-version-2011-with-reverse-interlinear">Logos</a></td></tr>
+<tr><td>English Bibles</td><td>NIV84</td><td>New International Version, 1984</td><td>digital</td><td><a href="">N/A</a></td></tr>
+<tr><td>English Bibles</td><td>NIV84A</td><td>New International Version—Anglicised, 1984</td><td>digital</td><td><a href="https://www.logos.com/product/29979/the-holy-bible-new-international-version-anglicised">Logos</a></td></tr>
+<tr><td>English Bibles</td><td>NIV11</td><td>New International Version, 2011</td><td>digital</td><td><a href="https://www.logos.com/product/154029/the-new-international-version-2011-with-reverse-interlinear">Logos</a></td></tr>
 <tr><td>English Bibles</td><td>HCSB</td><td>Holman Christian Standard Bible</td><td>digital</td><td><a href="https://www.logos.com/product/154104/holman-christian-standard-version-with-reverse-interlinear">Logos</a></td></tr>
 <tr><td>English Bibles</td><td>NKJV</td><td>New King James Version</td><td>digital</td><td><a href="https://www.logos.com/product/154030/the-new-king-james-version-with-reverse-interlinear">Logos</a></td></tr>
 <tr><td>English Bibles</td><td>NLT</td><td>New Living Translation</td><td>digital</td><td><a href="https://www.logos.com/product/154028/the-new-living-translation-with-reverse-interlinear">Logos</a></td></tr>
 
 <tr><td>Study notes</td><td>NIV Study Bible</td><td>NIV Study Bible, Fully Revised Edition</td><td>digital</td><td><a href="https://www.olivetree.com/store/product.php?productid=59059">OliveTree</a></td></tr>
+<tr><td>Study notes</td><td>Utley NT</td><td>Dr. Bob Utley's NT written commentaries</td><td>web</td><td><a href="http://www.freebiblecommentary.org/new_testament_studies/written_commentaries.htm">FreeBibleCommentary (Free)</a></td></tr>
+<tr><td>Study notes</td><td>Utley OT</td><td>Dr. Bob Utley's OT written commentaries</td><td>web</td><td><a href="http://www.freebiblecommentary.org/old_testament_studies/written_commentaries.htm">FreeBibleCommentary (Free)</a></td></tr>
 
-<tr><td>Bible handbooks</td><td>
-'s Bible Handbook</td><td>The New Unger's Bible Handbook</td><td>digital</td><td><a href="https://www.olivetree.com/store/product.php?productid=17343">OliveTree</a></td></tr>
+<tr><td>Bible handbooks</td><td>Unger's Bible Handbook</td><td>The New Unger's Bible Handbook</td><td>digital</td><td><a href="https://www.olivetree.com/store/product.php?productid=17343">OliveTree</a></td></tr>
 <tr><td>Bible handbooks</td><td>Halley's Bible Handbook</td><td>Halley's Bible Handbook</td><td>digital</td><td><a href="https://www.olivetree.com/store/product.php?productid=42724">OliveTree</a></td></tr>
 
+<tr><td>Commentaries</td><td>Bible Academy</td><td>Bible Academy's verse-by-verse YouTube videos</td><td>video</td><td><a href="https://www.youtube.com/channel/UCkp-J7VPT7NcwmuiNfD2fkg/playlists">YouTube (Free)</a></td></tr>
 <tr><td>Commentaries</td><td>Unger's OT Commentary</td><td>Unger's Commentary on the Old Testament</td><td>print book</td><td><a href="https://www.amazon.com/Ungers-Commentary-Testament-Merrill-Unger/dp/0899574157">Amazon</a></td></tr>
 <tr><td>Commentaries</td><td>Unger's Gospels Commentary</td><td>Unger's Commentary on the Gospels</td><td>print book</td><td><a href="https://www.amazon.com/Ungers-Commentary-Gospels-Merrill-Unger/dp/0899576303">Amazon</a></td></tr>
 <tr><td>Commentaries</td><td>Hodge on Romans</td><td>Commentary on the Epistle to the Romans</td><td>digital</td><td><a href="https://www.logos.com/product/3934/charles-hodge-commentary-collection">Logos</a></td></tr>
@@ -183,11 +187,18 @@ thead input {
 
 <tr><td>Bible surveys</td><td>Driver on OT</td><td>An Introduction to the Literature of the Old Testament</td><td>digital</td><td><a href="https://www.logos.com/product/2521/an-introduction-to-the-literature-of-the-old-testament">Logos</a></td></tr>
 
-<tr><td>Systematic theology</td><td>Chafer on Salvation</td><td>Salvation</td><td>digital</td><td><a href="https://www.logos.com/product/15145/salvation">Logos</a></td></tr>
-<tr><td>Systematic theology</td><td>Chafer's Systematic Theology</td><td>Systematic Theology (8 vols.)</td><td>digital</td><td><a href="https://www.logos.com/product/2223/systematic-theology">Logos</a></td></tr>
-<tr><td>Systematic theology</td><td>Thiessen's Systematic Theology</td><td>Lectures in Systematic Theology</td><td>digital</td><td><a href="https://www.logos.com/product/7549/lectures-in-systematic-theology">Logos</a></td></tr>
-<tr><td>Systematic theology</td><td>Hodge's Systematic theology</td><td>Systematic Theology (3 vols.)</td><td>digital</td><td><a href="https://www.logos.com/product/619/systematic-theology">Logos</a></td></tr>
-<tr><td>Systematic theology</td><td>Strong's Systematic Theology</td><td>Systematic Theology (3 vols.)</td><td>digital</td><td><a href="https://www.logos.com/product/7840/systematic-theology">Logos</a></td></tr>
+<tr><td>Theology: basics</td><td>Peter Series</td><td>Peter Series</td><td>web</td><td><a href="https://ichthys.com/Peter-Series-Home-Page.htm">Ichthys (Free)</a></td></tr>
+<tr><td>Theology: basics</td><td>Foundational Principles</td><td>Odii's Foundational Principles Series</td><td>web</td><td><a href="https://ichthys.com/odii-ariwodo.htm">Ichthys (Free)</a></td></tr>
+<tr><td>Theology: systematics</td><td>BB</td><td>Bible Basics Series</td><td>web</td><td><a href="https://ichthys.com/Bible-Basics-Home-Page.htm">Ichthys (Free)</a></td></tr>
+<tr><td>Theology: chronology, anthropology</td><td>SR</td><td>Satanic Rebellion Series</td><td>web</td><td><a href="https://ichthys.com/Satanic-Rebellion-Home-Page.htm">Ichthys (Free)</a></td></tr>
+<tr><td>Theology: eschatology</td><td>CT</td><td>Coming Tribulation Series</td><td>web</td><td><a href="https://ichthys.com/Coming-Tribulation-Home-Page.htm">Ichthys (Free)</a></td></tr>
+<tr><td>Theology: eschatology</td><td>Bible Crash Course</td><td>Bible Crash Course YouTube channel</td><td>video</td><td><a href="https://www.youtube.com/channel/UChhe0vK1hz8bxzcphHWpFmg/featured">YouTube (Free)</a></td></tr>
+<tr><td>Theology: hamartiology</td><td>Spiritual Battle</td><td>Bartek's Study on Spiritual Battle</td><td>web</td><td><a href="https://ichthys.com/bartek-sylwestrzak.htm">Ichthys (Free)</a></td></tr>
+<tr><td>Theology: soteriology</td><td>Chafer on Salvation</td><td>Salvation</td><td>digital</td><td><a href="https://www.logos.com/product/15145/salvation">Logos</a></td></tr>
+<tr><td>Theology: systematics</td><td>Chafer's Systematic Theology</td><td>Systematic Theology (8 vols.)</td><td>digital</td><td><a href="https://www.logos.com/product/2223/systematic-theology">Logos</a></td></tr>
+<tr><td>Theology: systematics</td><td>Thiessen's Systematic Theology</td><td>Lectures in Systematic Theology</td><td>digital</td><td><a href="https://www.logos.com/product/7549/lectures-in-systematic-theology">Logos</a></td></tr>
+<tr><td>Theology: systematics</td><td>Hodge's Systematic theology</td><td>Systematic Theology (3 vols.)</td><td>digital</td><td><a href="https://www.logos.com/product/619/systematic-theology">Logos</a></td></tr>
+<tr><td>Theology: systematics</td><td>Strong's Systematic Theology</td><td>Systematic Theology (3 vols.)</td><td>digital</td><td><a href="https://www.logos.com/product/7840/systematic-theology">Logos</a></td></tr>
 
 <tr><td>Church history</td><td>Walker's Church History</td><td>A History of the Christian Church</td><td>digital</td><td><a href="https://www.logos.com/product/34030/a-history-of-the-christian-church">Logos</a></td></tr>
 <tr><td>Church history</td><td>Schaff's Church History</td><td>History of the Christian Church (8 vols.)</td><td>digital</td><td><a href="https://www.logos.com/product/575/history-of-the-christian-church">Logos</a></td></tr>
@@ -208,7 +219,7 @@ thead input {
 <tr><td>Greek lexicons</td><td>BDAG</td><td>A Greek–English Lexicon of the New Testament and Other Early Christian Literature, 3rd ed.</td><td>digital</td><td><a href="https://www.logos.com/product/5228/bdag-halot-bundle">Logos</a></td></tr>
 <tr><td>Greek lexicons</td><td>LSJ</td><td>Liddell and Scott Greek–English Lexicon</td><td>digital</td><td><a href="https://www.logos.com/product/3879/liddell-and-scott-greek-english-lexicon">Logos</a></td></tr>
 
-<tr><td>Greek grammars</td><td>Ancient Greek for Everyone</td><td>Ancient Greek for Everyone: Essential Morphology and Syntax for Beginning Greek</td><td>digital</td><td><a href="https://ancientgreek.pressbooks.com/">Pressbooks (Free)</a></td></tr>
+<tr><td>Greek grammars</td><td>Ancient Greek for Everyone</td><td>Ancient Greek for Everyone: Essential Morphology and Syntax for Beginning Greek</td><td>web</td><td><a href="https://ancientgreek.pressbooks.com/">Pressbooks (Free)</a></td></tr>
 <tr><td>Greek grammars</td><td>Smyth</td><td>A Greek Grammar for Colleges</td><td>digital</td><td><a href="https://www.logos.com/product/27093/a-greek-grammar-for-colleges">Logos</a></td></tr>
 <tr><td>Greek grammars</td><td>BDF</td><td>A Greek Grammar of the New Testament and Other Early Christian Literature</td><td>digital</td><td><a href="https://www.logos.com/product/4225/a-greek-grammar-of-the-new-testament-and-other-early-christian-literature">Logos</a></td></tr>
 <tr><td>Greek grammars</td><td>Zerwick</td><td>Biblical Greek, Illustrated by Examples</td><td>digital</td><td><a href="https://www.logos.com/product/7853/biblical-greek-illustrated-by-examples">Logos</a></td></tr>
@@ -253,6 +264,7 @@ thead input {
 <tr><td>Septuagint, septuagint textual criticism, Hebrew textual criticism</td><td>Rahlf-Hanhart LXX Apparatus</td><td>Septuaginta, with Critical Apparatus and Alternate Texts</td><td>digital</td><td><a href="https://www.logos.com/product/17840/septuaginta-sesb-edition-with-apparatus-and-alternate-texts">Logos</a></td></tr>
 
 <tfoot><tr><th>Categorization</th><th>Abbreviation</th><th>Title</th><th>Type</th><th>Purchase Link</th></tr></tfoot>
+
 
 
 </table>
