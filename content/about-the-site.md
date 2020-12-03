@@ -283,15 +283,16 @@ The mechanics of content level and writing level -- and how they interact with t
 
 The Topical Studies on this site are longform series covering various topics in depth, in the manner of reference books. Their primary purpose is to flesh out areas of particular importance in a systematic way. Some of the Topical Studies are focused more on doctrine and theology, and some are focused more on application and implementation, but of course the lines are always somewhat blurry.
 
-In many cases, topical studies are an aggregation of shorter pages from the [Pages section](/pages), along with additional content to glue things together. One might ask—why include the actual content of these pages rather than just including links to the pages? The main answer is because it makes uninterrupted reading possible, without having to constantly be juggling tabs and keeping track of where you are in multiple documents. It also makes these studies more useful when they are printed out, which some folks like to do. Links don’t work on paper!
+In many cases, topical studies are an aggregation of shorter pages from the [pages section](/pages), along with additional content to glue things together. One might ask — why include the actual content of these pages rather than just including links to the pages? The main answer is because it makes uninterrupted reading possible, without having to constantly be juggling tabs and keeping track of where you are in multiple documents. It also makes these studies more useful when they are printed out, which some folks like to do. Links don’t work on paper!
 
 ### Pages
 
-The Pages section contains brief but thorough treatments of individual concepts, and of all sections on the site, contains the most content. The written content of pages will be updated with improvements and corrections over time (like all writing on this site), making these living documents.
+The Pages section contains brief but thorough treatments of individual concepts, and of all sections on the site, contains the most content. The written content of pages will be updated with improvements and corrections over time (like most all writing on this site), making these living documents.
 
 Groups of pages may be collected and glued together with some additional content to form [topical studies](/topical-studies).
 
 <!--
+
 ### Verse-by-verse studies
 
 The Verse-by-verse Studies on this site provide detailed interpretation, in the manner of an opinionated technical commentary. Their primary purpose is to establish the meaning of the text with a rigorous, step-by-step approach that leaves nothing out, sacrificing a degree of brevity for depth.
@@ -330,7 +331,7 @@ I highly recommend that if you wish to link to any of my guides, you link to the
 
 I have long run an online Bible study group. This section contains descriptions of the studies we have done over time, with links to the corresponding YouTube playlists. We do not move particularly fast, but we also try to avoid seriously-off-topic rabbit trails.
 
-Please note that these videos are posted "as is" and are not corrected or improved over time. For this reason, you should err on the side of trusting the written content on this site more than anything that shows up in the videos. (For a more thorough discussion, [see below](/about-the-site/caveats-with-recordings-of-study-groups)). I am simply offering the video recordings because it costs me very little effort to do so, and some people may find them helpful, even if they are not always perfect.
+Please note that these videos are posted "as is" and are not corrected or improved over time. For this reason, you should err on the side of trusting the written content on this site more than anything that shows up in the videos. (For a more thorough discussion, [see below](/about-the-site/#caveats-with-recordings-of-study-groups)). I am simply offering the video recordings because it costs me very little effort to do so, and some people may find them helpful, even if they are not always perfect.
 
 If you are interested in participating in the Bible study, [see here](/online-bible-studies/).
 
@@ -338,7 +339,7 @@ If you are interested in participating in the Bible study, [see here](/online-bi
 
 This section contains pages pertaining to the study of Ancient Greek, particularly the Greek of the New Testament and its time.
 
-Some pages may link to videos from a Greek study group that I run (if discussion in the video is relevant to the page), and some of these videos, in turn, may link to pages on the site. In general, I would recommend focusing on the written content on the pages, as it will always be kept up to date, whereas the videos will not ever receive changes or corrections over time. (For a more thorough discussion, [see below](/about-the-site/caveats-with-recordings-of-study-groups)). I am simply offering the video recordings because it costs me very little effort to do so, and some people may find them helpful, even if they are not always perfect.
+Some pages may link to videos from a Greek study group that I run (if discussion in the video is relevant to the page), and some of these videos, in turn, may link to pages on the site. In general, I would recommend focusing on the written content on the pages, as it will always be kept up to date, whereas the videos will not ever receive changes or corrections over time. (For a more thorough discussion, [see below](/about-the-site/#caveats-with-recordings-of-study-groups)). I am simply offering the video recordings because it costs me very little effort to do so, and some people may find them helpful, even if they are not always perfect.
 
 If you are interested in participating in the Greek study, [see here](/online-bible-studies/).
 
@@ -346,7 +347,7 @@ If you are interested in participating in the Greek study, [see here](/online-bi
 
 This section contains pages pertaining to the study of Biblical Hebrew.
 
-Some pages may link to videos from a Hebrew study group that I run (if discussion in the video is relevant to the page), and some of these videos, in turn, may link to pages on the site. In general, I would recommend focusing on the written content on the pages, as it will always be kept up to date, whereas the videos will not ever receive changes or corrections over time. (For a more thorough discussion, [see below](/about-the-site/caveats-with-recordings-of-study-groups)). I am simply offering the video recordings because it costs me very little effort to do so, and some people may find them helpful, even if they are not always perfect.
+Some pages may link to videos from a Hebrew study group that I run (if discussion in the video is relevant to the page), and some of these videos, in turn, may link to pages on the site. In general, I would recommend focusing on the written content on the pages, as it will always be kept up to date, whereas the videos will not ever receive changes or corrections over time. (For a more thorough discussion, [see below](/about-the-site/#caveats-with-recordings-of-study-groups)). I am simply offering the video recordings because it costs me very little effort to do so, and some people may find them helpful, even if they are not always perfect.
 
 If you are interested in participating in the Hebrew study, [see here](/online-bible-studies/).
 
@@ -878,7 +879,7 @@ In no particular order:
 - Text documents can be scanned/skimmed to quickly find information upon brief visual inspection (looking through content headers to quickly find the section you are interested in, for example). Seeking through content visually is *far* easier and faster than seeking through audio content.
   - This is further enhanced by the fact that text can use visual styling of headers and so on to hierarchically organize content: content organization makes skimming many times more effective. Audio has no equivalent organizational mechanism to increase the effectiveness of skimming.
 - Text documents can be searched (`Ctrl + f` on Windows, `Cmd + f` on Macs) to find information instantly. Even the very best modern AI implementations of audio-search are far inferior to simple text searches.
-- Text can be copied and pasted, making text-based resources *much* better in terms of facilitating the taking of personal notes (compare notes in the margins of physical books) and the production of derived ministry materials that quote from already-published Bible teaching. (Compare this site quoting from [Ichthys](https://ichthys.com/)).
+- Text can be copied and pasted, making text-based resources *much* better in terms of facilitating the taking of personal notes (compare notes in the margins of physical books) and the production of derived ministry materials that quote from already-published Bible teaching (compare this site quoting from [Ichthys](https://ichthys.com/)).
 - Etc.
 
 ##### Upshot
@@ -928,7 +929,7 @@ For a variety of reasons, it is my opinion that believer-to-believer aid is best
 
 Contributing to others without any middlemen also allows you to directly see where your financial support is being used (contrast again charities proper). For us as Christians, spiritual ends are far more important than material ones; we are not here to ease economic distress, but to share the gospel that people might be saved, and to help them grow in the truth thereafter. Money that goes towards these spiritual ends is in truth much more important.
 
-For this reason, I find it best to prioritize giving money to Christians who are legitimately in need of aid due to difficult material circumstances, and especially to Christians who are in need of money to help support their service to the body of Christ (by freeing up their time to do ministry, for example). In-line with the above discussion of the truth's role in our giving, Bible teachers going about things the right way should be priority #1 in terms of people we support.
+For this reason, I find it best to prioritize giving money to Christians who are legitimately in need of aid due to difficult material circumstances, and especially to Christians who are in need of money to help support their service to the Body of Christ (by freeing up their time to do ministry, for example). In-line with the above discussion of the truth's role in our giving, Bible teachers going about things the right way should be priority #1 in terms of people we support.
 
 Towards these ends:
 
