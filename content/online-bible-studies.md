@@ -4,14 +4,34 @@ title: Online Bible Studies
 
 ## Overview
 
+*Note: meeting times may change with [daylight savings time](https://en.wikipedia.org/wiki/Daylight_saving_time), so always check this page to see the up-to-date meeting times.*
+
 There are three online Bible studies that this site runs: a general Bible study, a Greek study, and a Hebrew study. All studies are held and recorded in the same [Zoom](https://zoom.us/) room, which is open to the public:
 
 - Meeting link: <https://zoom.us/j/902995929>
 - Passcode: 1189 (the number of chapters in the Bible)
 
-The Greek and Hebrew studies are presently on Saturdays at 3:00 PM Eastern Standard Time (see [conversion to your local time](http://www.timebie.com/std/est.php)), alternating weeks (so in a given four-week month, the Greek study will meet twice and the Hebrew study will meet twice). They typically run about an hour.
+The Greek and Hebrew studies are presently on Saturdays at 3:00 PM Eastern Standard Time (see [conversion to your local time](http://www.timebie.com/std/est.php)) alternating weeks (so in a given four-week month, the Greek study will meet twice and the Hebrew study will meet twice). They typically run about an hour. In these language studies, some weeks are focused on learning (e.g., grammar and syntax), while others are focused on going through portions of the biblical text.
 
 The general Bible study is presently on Sundays (every week) at 3:00 PM Eastern Standard Time (see [conversion to your local time](http://www.timebie.com/std/est.php)), and it typically lasts a bit longer, more on the order of two hours. We are currently working our way through [BB6A: Peripateology](https://ichthys.com/6A-Peripateo.htm), a written study from [Ichthys](https://ichthys.com/) that discusses the Christian Walk.
+
+## Schedule
+
+<div class="special-content cautionary-note">
+
+<strong>
+	Please note: the Greek and Hebrew studies are on temporary hiatus
+</strong>
+
+Until further notice, the Greek and Hebrew studies are on hiatus. Once my ministry website is more stabilized and my time less stressed, I will start them back up. I'll notify the mailing list when this is happening, but the meetings will also be added to the calendar of this section.
+	
+</div>
+
+You can bookmark this section to quickly view the embedded Google Calendar, or you can [access the calendar directly](https://calendar.google.com/calendar/embed?src=64glk00tql51oucld0l2rorhr0%40group.calendar.google.com&ctz=America%2FNew_York).
+
+The event titles describe the topic of each individual study. For example, what topic will be covered in a learning week of the Greek study, what biblical text will be gone through in a text week of the Hebrew study, etc.
+
+<iframe src="https://calendar.google.com/calendar/embed?src=64glk00tql51oucld0l2rorhr0%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Guidelines and procedures related to recording
 
