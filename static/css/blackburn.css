@@ -1,13 +1,14 @@
 ::-webkit-scrollbar {
   -webkit-overflow-scrolling: auto;
   -webkit-appearance: none;
-  width: 7px;
+  width: 15px;
+  background-color: #e6e6e6;
 }
 
 ::-webkit-scrollbar-thumb {
   -webkit-overflow-scrolling: auto;
   border-radius: 4px;
-  background-color: rgba(0, 0, 0, .5);
+  background-color: #a6a6a6;
   box-shadow: 0 0 1px rgba(255, 255, 255, .5);
 }
 
