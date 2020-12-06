@@ -10,7 +10,7 @@
   <div id="higherLevelPages" style="display:none;">
 	  <ul>
 		{{ range .Pages.GroupBy "Weight" "asc" }}
-			{{ range where .Pages.ByTitle "Params.writinglevel" "higher"}}
+			{{ range where .Pages.ByTitle "Params.writinglevel" "higher" }}
 			<li>
 				<a href="/about-the-site/#content-level"><span class="{{ strings.TrimSuffix "+" .Params.contentlevel }}">{{ .Params.contentlevel }}</span></a>&nbsp;&nbsp;<a href="{{ .Permalink }}">{{ .Title }}</a>
 			</li>
@@ -21,8 +21,13 @@
 	  {{ range .Sections.ByTitle }}
 	  <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
 	  <ul>
+	  
 		{{ range .Pages.GroupBy "Weight" "asc" }}
-			{{ range where .Pages.ByTitle "Params.writinglevel" "higher"}}
+		
+			{{ $neitherPages := where .Pages.ByTitle "Params.writinglevel" "neither" }}
+			{{ $higherPages := $neitherPages | union (where .Pages.ByTitle "Params.writinglevel" "higher") }}
+			
+			{{ range $higherPages }}
 			<li>
 				<a href="/about-the-site/#content-level"><span class="{{ strings.TrimSuffix "+" .Params.contentlevel }}">{{ .Params.contentlevel }}</span></a>&nbsp;&nbsp;<a href="{{ .Permalink }}">{{ .Title }}</a>
 			</li>
@@ -35,7 +40,7 @@
   <div id="lowerLevelPages" style="display:none;">
 	  <ul>
 		{{ range .Pages.GroupBy "Weight" "asc" }}
-			{{ range where .Pages.ByTitle "Params.writinglevel" "lower"}}
+			{{ range where .Pages.ByTitle "Params.writinglevel" "lower" }}
 			<li>
 				<a href="/about-the-site/#content-level"><span class="{{ strings.TrimSuffix "+" .Params.contentlevel }}">{{ .Params.contentlevel }}</span></a>&nbsp;&nbsp;<a href="{{ .Permalink }}">{{ .Title }}</a>
 			</li>
@@ -46,8 +51,13 @@
 	  {{ range .Sections.ByTitle }}
 	  <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
 	  <ul>
+	  
 		{{ range .Pages.GroupBy "Weight" "asc" }}
-			{{ range where .Pages.ByTitle "Params.writinglevel" "lower"}}
+	  
+			{{ $neitherPages := where .Pages.ByTitle "Params.writinglevel" "neither" }}
+			{{ $lowerPages := $neitherPages | union (where .Pages.ByTitle "Params.writinglevel" "lower") }}
+			
+			{{ range $lowerPages }}
 			<li>
 				<a href="/about-the-site/#content-level"><span class="{{ strings.TrimSuffix "+" .Params.contentlevel }}">{{ .Params.contentlevel }}</span></a>&nbsp;&nbsp;<a href="{{ .Permalink }}">{{ .Title }}</a>
 			</li>
