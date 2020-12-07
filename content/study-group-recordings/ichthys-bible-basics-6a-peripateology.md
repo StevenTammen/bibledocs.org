@@ -13,7 +13,7 @@ Link: [YouTube playlist of study recordings](https://www.youtube.com/playlist?li
 
 First video in series:
 
-<iframe width="100%" height="500" src="https://www.youtube.com/watch?v=kmzv2hcQUqs&list=PLcqAebKsBWy9NzEhpik-IyU9jycIOw1e9&index=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/kmzv2hcQUqs?list=PLcqAebKsBWy9NzEhpik-IyU9jycIOw1e9" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This series is the first recorded series of our Bible study group. We decided to go through [BB6A: Peripateology](https://ichthys.com/6A-Peripateo.htm), a longform text study that is part of Ichthys' [Bible Basics Series](https://ichthys.com/Bible-Basics-Home-Page.htm), which is a complete systematic theology.
 
