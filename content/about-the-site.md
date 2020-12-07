@@ -520,15 +520,23 @@ A full explanation of the syntax used in these Ichthys translations can be found
 
 On this site you may come across the version abbreviations "NIV11" and "NIV84." These are two different versions of the New International Version.
 
-The 1984 NIV is probably the English Bible version that I personally read from the most. Unfortunately, after the publication of the 2011 NIV, Biblica, the copyright holder, decided to try and "stamp out" the old translation: not only did they stop offering print Bibles in the 1984 version, but they also removed it from Bible study websites and the stores of Bible software applications. While the new translation isn't universally terrible (i.e., it's not a "translation of the devil" or any other hogwash like that), the older NIV translation is better in multiple places, and also doesn't suffer from the verbal gymnastics and interpretive problems that arise from trying to remove gender from language.
+The 1984 NIV is probably the English Bible version that I personally read from the most. Unfortunately, after the publication of the 2011 NIV, the copyright holder in North America decided to try and "stamp out" the old translation: not only did they stop offering print Bibles in the 1984 version, but they also removed it from Bible study websites and the stores of Bible software applications. While the new translation isn't universally terrible (i.e., it's not a "translation of the devil" or any other hogwash like that), the older NIV translation is better in multiple places, and also doesn't suffer from the verbal gymnastics and interpretive problems that arise from trying to remove gender from language.
+
+{{% sidenote %}}
+Astute readers may have noticed the "North America" qualification on the censhorship of the 1984 NIV. As best I understand, Hodder and Staughton hold the UK rights to the NIV, and as of yet, they haven't yanked it from Bible study platforms, unlike their North American counterparts.
+
+The upshot of this is that if you don't mind wading through some peculiarities of British English (for example, "colour" and "armour" rather than "color" and "armor"; the odd lexical use of "corn" to mean "grains in general" rather than [Maize](https://en.wikipedia.org/wiki/Maize) -- compare Britain's so-called [Corn Laws](https://en.wikipedia.org/wiki/Corn_Laws#:~:text=The%20word%20'corn'%20in%20British,producers%2C%20and%20represented%20British%20mercantilism) -- and so on), you can actually still legally purchase the 1984 NIV in English. For example, [here's a link](https://www.logos.com/product/29979/the-holy-bible-new-international-version-anglicised) to buy the "Anglicized" 1984 NIV in [Logos](https://www.logos.com/). (Unfortunately, however, this Anglicized version doesn't have interlinear support).
+
+Even though this is the case, I still quote from the "normal" (i.e., Americanized) 1984 NIV on this site since I do happen to own it. Thus, any time you see the abbreviation NIV84 on this site, that is the no-longer-available Americanized version of the 1984 NIV. (The Anglicized version of the 1984 NIV is instead abbreviated NIV84A).
+{{% /sidenote %}}
+
+{{% sidenote %}}
+Since you can't find the full Americanized 1984 NIV anywhere on the internet (at least not legally), any quotations of the 1984 NIV on this site have the net effect of giving site readers another comparison version to work with (one that is not otherwise available).
+{{% /sidenote %}}
 
 What the NIV does fairly well is balance faithfulness to the original text with readability. To reduce many complex and involved arguments to a sentence or two, while it is true that straying too far from what we have in the original languages is dangerous, English is not Greek (or Hebrew), and translations need to focus on making readable *English*. To put things a bit more generally, we want our translations to clearly present the meaning of the biblical text in the target language -- that is what is important, the meaning.
 
 The 1984 NIV is not the only version to get this idea right, but I find that it does often strike a better balance than most other translations. The NLT can be very good if the translators get the sense of the passage right, but since it is more "interpretive" as a translation, it can also be very wrong if not (making it much like [the little girl in the Longfellow poem](https://www.poetryfoundation.org/poems/44650/there-was-a-little-girl)). This inconsistency makes me wary of recommending it too strongly. (To be fair, the NIV suffers from this same uneveness, but just to a somewhat lesser degree).
-
-{{% sidenote %}}
-Since you can't find the full 1984 NIV anywhere on the internet (at least not legally), any quotations of the 1984 NIV on this site have the net effect of giving site readers another comparison version to work with (one that is not otherwise available).
-{{% /sidenote %}}
 
 Two other versions I find strike a decent balance are the ESV and NKJV. The NKJV is quite a bit more on the literal side, and has a less-approachable high literary style, but it does have a certain eloquence going for it (inherited from its ancestor, the KJV). The ESV, while somewhat more bland, is probably easier reading overall. Bland isn't bad either -- I'll take bland and accurate over flashy and wrong any day.
 
@@ -615,7 +623,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Perhaps the most self-explanatory of all these special content sections, sidenote sections contain exactly what you think they would: writing that is only sorta-kinda related to what is under current discussion.
 
-As a general principle, I try to avoid remarks that are well and trully off-topic, so these sections contain things that are related but only tangentially so.
+As a general principle, I try to avoid remarks that are well and truly off-topic, so these sections contain things that are related but only tangentially so.
 
 These sidenote sections and footnotes are used somewhat interchangeably, although I probably use these more overall since they can be quickly scanned/skimmed visually whereas footnotes cannot.
 
@@ -814,6 +822,14 @@ This site is dedicated to Bible teaching, offered freely to all; this is a minis
 
 However, since it seems to me that .org domains do not present recognizability problems for people who are less technically aware (contrast less well-known alternate global top level domains like .io and .co, as used by some startups), and are unambiguous with respect to commercial intent (unlike .com domains), it makes sense for this site, which is firmly in the nonprofit camp, to use a .org domain.
 
+#### What does a page being "in progress" mean?
+
+Some pages have a warning at the top discussing the fact that they are presently in progress. Here's what that warning looks like:
+
+{{< partial "in-progress" >}}
+
+The main idea is to make as much content available as soon as possible (to maximize the amount of Bible teaching that readers can access on this site), while still taking care to not publish any content that is still "half-baked", since "half-baked" and "Bible teaching" should never go together.
+
 #### Why have fancy web design? Does the shininess take away from the content?
 
 Compared to [Ichthys](https://ichthys.com/), say, this website has a bit more interface sparkle. I have taken care to keep content pages entirely text-centric with no unecessary interface distractions; the shininess most assuredly *does not* take away from the content. Most of the more complicated interface bits show up on the home page, which has some fancier content sectioning and grids of image links.
@@ -858,7 +874,7 @@ Since learning is relational ("neurons that fire together wire together"), this 
 
 {{% sidenote %}}
 
-###### Speed reading is mostly bunk
+**Speed reading is mostly bunk**
 
 There is a biological upper bound on the speed at which reading proper -- rather than skimming -- can be done (our eyes can move only so fast, after all), but with some effort, reading speed can be increased to a degree, without any loss in comprehension. It comes down to practice, just like other skills. Building your vocabulary, becoming more familiar with complex sentence constructions, and other things like these *will* make you a faster reader.
 
@@ -890,7 +906,7 @@ All this is not to say that there are not valid reasons for videos and podcasts 
 
 Moreover, some people are dyslexic and are much faster absorbing information by listening rather than reading (most people are the opposite, as above). Some people are visually impaired and physically *cannot* make use of text as a medium (or can only do so at a severely reduced capacity). You get the idea.
 
-Nonetheless, for most people, when sitting down and studying in a dedicated fashion, text far outshines the other mediums. It is for this reason that this ministry largely focuses on text to the exclusion of all else. If you are interested in audio/video content, I would recommend you check out [Bible Academy](https://www.youtube.com/channel/UCkp-J7VPT7NcwmuiNfD2fkg/playlists), an in-depth YouTube teaching ministry centered around informational videos Khan-Academy-style, or [Bible Crash Course](https://www.youtube.com/channel/UChhe0vK1hz8bxzcphHWpFmg/playlists), another in-depth YouTube teaching ministry. (You can rip the audio from the YouTube videos from either ministry to get the studies as MP3's).
+Nonetheless, for most people, when sitting down and studying in a dedicated fashion, text far outshines the other mediums. It is for this reason that this ministry largely focuses on text to the exclusion of all else. If you are interested in audio/video content, this site does offer some video recordings of study groups (see the [BibleDocs YouTube channel](https://www.youtube.com/channel/UCFk7khraAKf68DZ5GeYEFIw/playlists)). I would also recommend you check out [Bible Academy](https://www.youtube.com/channel/UCkp-J7VPT7NcwmuiNfD2fkg/playlists), an in-depth YouTube teaching ministry centered around informational videos Khan-Academy-style, and [Bible Crash Course](https://www.youtube.com/channel/UChhe0vK1hz8bxzcphHWpFmg/playlists), another in-depth YouTube teaching ministry. (For any option, you can rip the audio from the YouTube videos to get the studies as MP3's).
 
 #### What syntax do you use in translations original to this site?
 
@@ -900,7 +916,7 @@ Inferred words are added to the text using square brackets. These words do not a
 So now that we have been justified by faith, let us take hold of the peace [we have] with God [the Father] through our Lord Jesus Christ.
 {{% /original-translation %}}
 
-The King James Version does something similar, but added words in the KJV are italicized instead of using brackets. The main difference in what I do vs. what the KJV does is frequency -- I add many more words as a general principle than does the KJV. The goal is to make the meaning of the text as clear as possible.
+The King James Version does something similar, but added words in the KJV are italicized instead of using brackets. The main difference in what I do vs. what the KJV does is frequency -- I generally add many more words than does the KJV. The goal is to make the meaning of the text as clear as possible.
 
 In addition to inferred words, I also make use of explanatory remarks in parentheses. To avoid ambiguity with parenthetical statements that are part of the actual text, all of the explanatory remarks I add begin with abbreviations, while I will never translate words that are part of the actual text with abbreviations. Here's the full list of abbreviations that can introduce my explanatory remarks:
 
@@ -925,7 +941,7 @@ Yes. You can change settings related to verse tagging [on the settings page](/se
 
 #### You said you don't take donations. Do you know of good causes?
 
-For a variety of reasons, it is my opinion that believer-to-believer aid is best done directly (especially in our modern internet age, where giving via [Paypal](https://www.paypal.com/us/home) and the like is easy and secure). No matter how efficient a charity proper is (and some are in fact a whole lot better than others: see [Charity Navigator](https://www.charitynavigator.org/)), it will always have a lot more overhead than direct giving.
+For a variety of reasons, it is my opinion that believer-to-believer aid is best done directly (especially in our modern internet age, where giving via [PayPal](https://www.paypal.com/us/home) and the like is easy and secure). No matter how efficient a charity proper is (and some are in fact a whole lot better than others: see [Charity Navigator](https://www.charitynavigator.org/)), it will always have a lot more overhead than direct giving.
 
 Contributing to others without any middlemen also allows you to directly see where your financial support is being used (contrast again charities proper). For us as Christians, spiritual ends are far more important than material ones; we are not here to ease economic distress, but to share the gospel that people might be saved, and to help them grow in the truth thereafter. Money that goes towards these spiritual ends is in truth much more important.
 
@@ -958,7 +974,7 @@ This site uses [Hugo](https://gohugo.io/) as its static site generator. Pages ar
 
 This site has the source content located in a [GitHub repository](https://github.com/StevenTammen/bibledocs.org/), with the generated files being hosted on [Netlify](https://www.netlify.com/). Netlify has an extremely fast global content delivery Network (CDN) that caches the entire site, since everything is static. I am using Netlify as my DNS as well, since having the DNS through them lets the CDN work at maximum effectiveness with little configuration.
 
-Netlify also allows for continuous deployment by means of a build command. [Netlify.toml](https://github.com/StevenTammen/steventammen.com/blob/master/netlify.toml) contains information relating to the continuous deployment I use via Netlify (mainly information pertaining to the Hugo command to run on their server). Whenever a build is triggered (I push to the GitHub repository containing the source), Netlify automatically updates all the cache fingerprints for assets, so only the most recent files are on the CDN. Not having to worry about invalidating out of date assets has been one of my favorite things about this current workflow.
+Netlify also allows for continuous deployment by means of a build command. [Netlify.toml](https://github.com/StevenTammen/bibledocs.org/blob/master/netlify.toml) contains information relating to the continuous deployment I use via Netlify (mainly information pertaining to the Hugo command to run on their server). Whenever a build is triggered (I push to the GitHub repository containing the source), Netlify automatically updates all the cache fingerprints for assets, so only the most recent files are on the CDN. Not having to worry about invalidating out of date assets has been one of my favorite things about this current workflow.
 
 ### Domain redirects and subdomains
 

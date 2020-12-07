@@ -30,15 +30,15 @@ We have בְּרֵאשִׁית not בָּרֵאשִׁית in Genesis 1:1. We hav
 {{% hebrew h="300px" p="Genesis 1:1" %}}
 
 {{% scripture p="Genesis 1:1 | BHS" %}}
-
+בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָֽרֶץ׃
 {{% /scripture %}}
 
 {{% /hebrew %}}
 
 {{% greek h="300px" p="John 1:1" %}}
 
-{{% scripture p="John 1:1 | NA28" %}}
-
+{{% scripture p="John 1:1 | SBLG" %}}
+Ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος.
 {{% /scripture %}}
 
 {{% /greek %}}
@@ -46,7 +46,7 @@ We have בְּרֵאשִׁית not בָּרֵאשִׁית in Genesis 1:1. We hav
 {{% lxx h="300px" p="Genesis 1:1" %}}
 
 {{% scripture p="Genesis 1:1 | Rahlf's Septuagint" %}}
-
+Ἐν ἀρχῇ ἐποίησεν ὁ θεὸς τὸν οὐρανὸν καὶ τὴν γῆν.
 {{% /scripture %}}
 
 {{% /lxx %}}
@@ -63,7 +63,14 @@ Well, part one is accepting that as material beings, we are never really going t
 
 {{% hebrew-i h="600px" p="Exodus 3:14-15" %}}
 
-{{% scripture p="Exodus 3:14-15 | BHS, NIV84" %}}
+{{% scripture p="Exodus 3:14-15 | BHS, NASB95" %}}
+(BHS) **14** וַיֹּאמֶר אֱלֹהִים אֶל־מֹשֶׁה אֶֽהְיֶה אֲשֶׁר אֶֽהְיֶה וַיֹּאמֶר כֹּה תֹאמַר לִבְנֵי יִשְׂרָאֵל אֶֽהְיֶה שְׁלָחַנִי אֲלֵיכֶֽם׃
+
+(NASB) **14** God said to Moses, “ I AM WHO I AM”; and He said, “Thus you shall say to the sons of Israel, ‘ I AM has sent me to you.’”
+
+(BHS) **15** וַיֹּאמֶר עוֹד אֱלֹהִים אֶל־מֹשֶׁה כֹּֽה־תֹאמַר אֶל־בְּנֵי יִשְׂרָאֵל יְהוָה אֱלֹהֵי אֲבֹתֵיכֶם אֱלֹהֵי אַבְרָהָם אֱלֹהֵי יִצְחָק וֵאלֹהֵי יַעֲקֹב שְׁלָחַנִי אֲלֵיכֶם זֶה־שְּׁמִי לְעֹלָם וְזֶה זִכְרִי לְדֹר דֹּֽר׃
+
+(NASB) **15** God, furthermore, said to Moses, “Thus you shall say to the sons of Israel, ‘ The  Lord, the God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has sent me to you.’ This is My name forever, and this is My memorial-name to all generations.
 
 {{% /scripture %}}
 

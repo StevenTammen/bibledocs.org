@@ -56,7 +56,7 @@ If you find either of these to be to your liking (they certainly are not everyon
 
 I'm biased of course, so I think that there is value in what I am setting out to do, but I do want to be transparent that these other ministries and teachers may be better choices for some people.
 
-### I posses the spiritual gift of pastor-teacher
+### I possess the spiritual gift of pastor-teacher
 
 Being a pastor-teacher (that is, taking on the mantle of responsibility as an office in the Church, as in Ephesians 4:11) requires the spiritual gift of pastor-teacher. No man who does not possess the spiritual gift has any business putting himself forward as a spiritual authority.
 
