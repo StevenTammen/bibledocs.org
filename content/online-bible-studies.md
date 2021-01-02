@@ -11,9 +11,9 @@ There are three online Bible studies that this site runs: a general Bible study,
 - Meeting link: <https://zoom.us/j/902995929>
 - Passcode: 1189 (the number of chapters in the Bible)
 
-The Greek and Hebrew studies are presently on Saturdays at 3:00 PM Eastern Standard Time (see [conversion to your local time](http://www.timebie.com/std/est.php)) alternating weeks (so in a given four-week month, the Greek study will meet twice and the Hebrew study will meet twice). They typically run about an hour. In these language studies, some weeks are focused on learning (e.g., grammar and syntax), while others are focused on going through portions of the biblical text.
+The Greek and Hebrew studies are presently on Sundays at 3:00 PM Eastern Standard Time (see [conversion to your local time](http://www.timebie.com/std/est.php)) alternating weeks (so in a given four-week month, the Greek study will meet twice and the Hebrew study will meet twice). They typically run about an hour. In these language studies, some weeks are focused on learning (e.g., grammar and syntax), while others are focused on going through portions of the biblical text.
 
-The general Bible study is presently on Sundays (every week) at 3:00 PM Eastern Standard Time (see [conversion to your local time](http://www.timebie.com/std/est.php)), and it typically lasts a bit longer, more on the order of two hours. We are currently working our way through [BB6A: Peripateology](https://ichthys.com/6A-Peripateo.htm), a written study from [Ichthys](https://ichthys.com/) that discusses the Christian Walk.
+The general Bible study is presently on Saturdays (every week) at 3:00 PM Eastern Standard Time (see [conversion to your local time](http://www.timebie.com/std/est.php)), and it typically lasts a bit longer, more on the order of two hours. We are currently working our way through [BB6A: Peripateology](https://ichthys.com/6A-Peripateo.htm), a written study from [Ichthys](https://ichthys.com/) that discusses the Christian Walk.
 
 ## Schedule
 
