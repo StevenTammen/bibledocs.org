@@ -104,11 +104,17 @@ paginate = 10
     identifier = "online-bible-studies"
     url = "/online-bible-studies/"
   [[menu.community]]
-    name = "Talk with Others"
-    pre = "<i class='fas fa-address-book fa-fw'></i>"
+    name = "Forums"
+    pre = "<i class='fab fa-discourse fa-fw'></i>"
     weight = 3
-    identifier = "talk-with-others"
-    url = "/talk-with-others/"
+    identifier = "forums"
+    url = "/forums/"
+  [[menu.community]]
+    name = "Contact Network"
+    pre = "<i class='fas fa-address-book fa-fw'></i>"
+    weight = 4
+    identifier = "contact-network"
+    url = "/contact-network/"
 	
 	
   [[menu.site]]
