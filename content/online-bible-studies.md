@@ -31,7 +31,7 @@ You can bookmark this section to quickly view the embedded Google Calendar, or y
 
 The event titles describe the topic of each individual study. For example, what topic will be covered in a learning week of the Greek study, what biblical text will be gone through in a text week of the Hebrew study, etc.
 
-<iframe src="https://calendar.google.com/calendar/embed?src=64glk00tql51oucld0l2rorhr0%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=64glk00tql51oucld0l2rorhr0%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Guidelines and procedures related to recording
 
