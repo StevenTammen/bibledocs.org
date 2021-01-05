@@ -120,8 +120,8 @@ This ministry maintains a few high-level pages that enhance the site's usability
 
 This ministry has a group of consistent readers and contacts that compose a community of sorts. With this group in mind, this ministry:
 
-* Maintains [an active prayer list](/prayer-list). Most prayer requests are anonymized down to the level of first name, although you can certainly ask that your prayer request(s) be anonymized further. If you want me to add/update/delete a prayer list request, just email me ([steven@bibledocs.org](mailto:steven@bibledocs.org)).
-* Maintains [an address book of contacts](/address-book) and their areas of expertise, knowledge, and/or interest. The idea is that I can act as a middleman to put people in contact with each other. Most contacts in the address book will be anonymous, although anyone comfortable being publicly listed in this address book can email me to be deanonymized.
+* Maintains [an active prayer list](/prayer-list). If you want me to add/update/delete a prayer list request, just email me ([steven@bibledocs.org](mailto:steven@bibledocs.org)).
+* Overseas a [contact network](/contact-network) of sorts, where interested parties may be able to find others among the readers and contacts of this ministry who can help them with specific matters, or just others to talk to more generally.
 * [Runs two weekly online Bible studies over video chat](/online-bible-studies) (presently using [Zoom](https://zoom.us/)): a study focused on the original languages (Greek and Hebrew alternating weeks) on Saturdays, and a more general Bible study on Sundays. These are completely open to the public, although everyone participating ought to be aware that:
   1. These studies are recorded and [publically posted on YouTube](https://www.youtube.com/channel/UCFk7khraAKf68DZ5GeYEFIw/playlists) (so care needs to be taken to not talk about personal or sensitive things when the recording is rolling).
   2. Due to the open nature, participants are not screened beforehand. There is zero tolerance for unacceptable behavior (problematic actors will be swiftly removed), but no absolute guarantees can be made.
@@ -954,7 +954,7 @@ Towards these ends:
 
 Note that money is not the only way we can assist one another. I can help people set up ministry websites, for example. A contact of mine has helped another with some rehabilitation exercises based upon his experience as a personal trainer. And so on.
 
-I personally maintain an [address book](/address-book) for the purpose of connecting believers I know with one another based on need and interest. If there is specific expertise you have that you are interested in sharing with the Body of Christ, you can email me ([steven@bibledocs.org](mailto:steven@bibledocs.org)) and I will make sure to add it specifically (and list your contact information publicly, if you so request -- I keep this address book anonymous by default).
+I personally maintain a private address book containing the names, expertise/background and/or interests, and contact info for various people who are readers or contacts of this ministry. This (not publicly visible) address book serves as the basis for the [contact network](/contact-network) associated with this ministry, through which I may be able to connect believers I know with one another based on need and interest. If there is specific expertise/background and/or interests you have that you are interested in sharing with the Body of Christ, you can email me ([steven@bibledocs.org](mailto:steven@bibledocs.org)) and I will make sure to take note of it and send people your way as appropriate.
 
 ## Backend
 
