@@ -8,7 +8,7 @@ This page contains the prayer list for this ministry, with requests coming from 
 
 If you have something you wish to ask for prayer on, you can email me at [steven@bibledocs.org](mailto:steven@bibledocs.org), and I'll add it to the list. You can also subsequently email me if you want to update something on the list (reports of God working, e.g.), or remove something from the list (perhaps it is no longer relevant).
 
-I default to anonymizing things down to first names, but I can also anonymize further if you request so. (For example, down to the first letter of one's first name, as in "Pray for M's son's recovery from a car accident," or completely, as in "Pray for our brother's son's recovery from a car accident").
+I default to anonymizing things down to first names (for people I know well enough that I am pretty sure that they will be OK with such) or first initials (for people I don't know as well, for people who I know prefer more privacy, or for any sensitive requests). If I "got it wrong" and used a first name when you'd prefer just an initial (or even full anonymity, as in "Pray for our brother's son's recovery from a car accident"), then please do not be shy in reaching out to me to tell me what you'd prefer. I apologize in advance if this ever happens.
 
 I have organized the prayer list into various sections based on commonalities (although of course there is really no wrong way to pray as long we do it with the proper attitude).
 
@@ -24,25 +24,24 @@ I have organized the prayer list into various sections based on commonalities (a
 * For this ministry, BibleDocs, and my own dedication and focus.
 * For [Ichthys](https://ichthys.com/) and Dr. Robert Luginbill
 * For [Bible Academy](https://www.youtube.com/channel/UCkp-J7VPT7NcwmuiNfD2fkg/playlists) and Curt Omo
-* For [Bible Crash Course](https://www.youtube.com/channel/UChhe0vK1hz8bxzcphHWpFmg/featured) and Will Rieke
-* For our other brothers and sisters preparing for and engaging in ministry: Bartek, Bartek's father, Alex, Christian, Odii, Jordan, Abby, Peter, Garrett, other Garrett, Ryan, and others.
+* For the ministries of Bartek, Odii, Jordan, and Will
+* For our brothers and sisters who are presently engaging in ministry overseas (or have a recurring focus on such): [Evan and Jodi in Germany](https://evanandjodi.wordpress.com/), Justin in Taiwan, Garrett in Scotland, [Sandy and Finn (and others) in China](https://www.evergreenchina.net/press/history/), Ruth and Jeff in Indonesia, and others.
+* For our other brothers and sisters preparing for and engaging in ministry: Bartek's father, Alex, Christian, Abby, Peter, other Garrett, Ryan, and others.
 
 ### Health
 
-* For the health and comfort of Carol, and for her caretakers.
-* For Guy's cancer, that God would work and overcome the unfavorable prognosis, if possible.
-* For Glen's son's hospitalization after an injury and subsequent infection during special forces wilderness training.
+* For the health and comfort of C., and for her caretakers.
+* For G.'s cancer, that God would work and overcome the unfavorable prognosis, if possible.
 
 ### Safety
 
-* For the safety of Odii and his fiancee in their dangerous living circumstances.
-* For the safety of our Christian brothers and sisters around the world who presently find themselves affected in whatever way by violent protests, riots, and general civil unrest.
+* For the safety of Odii and his fiancée in their occasionally dangerous and unstable living circumstances.
 
 ### School and work
 
-* For Sarah and Sylvia in their programs of study and academic circumstances.
-* For Odii's employment in freelance writing. That opportunities would work out and complete financial provision from self-employment would eventually be reached.
-* For wisdom and guidance for Jordan, in terms of what he is supposed to do. **Also for success in obtaining a workable job.**
+* For S. and S. in their programs of study and academic circumstances.
+* For Odii's employment in freelance writing. That opportunities would work out and financial provision from this self-employment would increase.
+* For Jordan's upcoming job interview and potential move. That a job offer would come, and that housing would work out thereafter.
 
 ### Other
 
