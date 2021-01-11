@@ -108,7 +108,7 @@ paginate = 10
     pre = "<i class='fab fa-discourse fa-fw'></i>"
     weight = 3
     identifier = "forums"
-    url = "/forums/"
+    url = "/site/forums/description"
   [[menu.community]]
     name = "Contact Network"
     pre = "<i class='fas fa-address-book fa-fw'></i>"

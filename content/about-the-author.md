@@ -29,17 +29,6 @@ You can see more about me, including things I did in college, in [my CV](https:/
 
 <!-- If you want to learn more specifically about my academic qualifications, [see here](http://college-book). -->
 
-## Contact
-
-For matters relating to this ministry, you can get in contact with me using any of the below options. In general, I check my email most frequently. But what works for you works for me.
-
-- Email: <a href="mailto:steven@bibledocs.org">steven@bibledocs.org</a> 
-- Facebook: <https://www.facebook.com/BibleDocs>
-- Twitter: <https://twitter.com/BibleDocs>
-- Discord Username: Steven#2424
-
-For personal or professional matters not relating to this ministry, there are additional contact options that you can use, [as listed on my personal website](https://www.steventammen.com/about-the-author/#contact).
-
 ## Qualifications as a Bible teacher
 
 Lay Christians should not turn to just anyone in seeking out Bible teaching. Quite to the contrary, since spiritual realities are in truth the most important things in life, arguably, there are few choices one faces more serious than which Bible teacher to listen to. Giving ear to the wrong person can have eternal consequences, either in terms of compromised spiritual reward, or even in terms of lost salvation.
