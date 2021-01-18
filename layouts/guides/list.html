@@ -9,9 +9,11 @@
 
   <ul>
     {{ range .Pages.ByWeight }}
-    <li>
-		<a href="{{ .Permalink }}">{{ .Title }}</a>
-    </li>
+		{{ if (not (isset .Params "writing-only")) }}
+			<li>
+				<a href="{{ .Permalink }}">{{ .Title }}</a>
+			</li>
+		{{ end }}
     {{ end }}
   </ul>
   
@@ -19,9 +21,11 @@
   <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
   <ul>
     {{ range .Pages.ByWeight }}
-    <li>
-		<a href="{{ .Permalink }}">{{ .Title }}</a>
-    </li>
+		{{ if (not (isset .Params "writing-only")) }}
+			<li>
+				<a href="{{ .Permalink }}">{{ .Title }}</a>
+			</li>
+		{{ end }}
     {{ end }}
   </ul>
   {{ end }}
