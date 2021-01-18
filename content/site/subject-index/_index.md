@@ -1,5 +1,9 @@
 ---
 title: Subject Index
+date: 2021-01-10T20:25:12-05:00
+tags: []
+subsection: meta
+weight: 30
 ---
 
 While the static site generator I use ([Hugo](https://gohugo.io/)) as well as others allow for content organization at the page level via tags, I find this unsatisfactory. Instead, I want to be able to categorize content at the level of headings on pages.

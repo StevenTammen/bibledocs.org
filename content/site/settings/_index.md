@@ -1,7 +1,11 @@
-+++
-title = "Settings"
-date = 2020-09-04
-+++
+---
+title: Settings
+date: 2021-01-10T20:25:12-05:00
+tags: []
+subsection: meta
+weight: 10
+---
+
 
 ## Writing level
 
@@ -192,8 +196,6 @@ Keep in mind that if you clear your browser cookies, your preferences here will 
 			displayDiv.innerHTML = "Current scripture display setting: embedded windows";
 		}
 	}
-	
-	
 	
 	displayWritingLevel();
 	displayScriptureDisplay()

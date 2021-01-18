@@ -1,5 +1,9 @@
 ---
 title: Resource Index
+date: 2021-01-10T20:25:12-05:00
+tags: []
+subsection: meta
+weight: 60
 ---
 
 ## Linking vs. citing resources
@@ -14,13 +18,17 @@ Hyperlinks. Hyperlinks are the answer. Perhaps the standout feature of the inter
 
 It is easy to link the resources of web-based ministries like [Ichthys](https://ichthys.com/) (a text-centric ministry), [Bible Academy](https://www.youtube.com/channel/UCkp-J7VPT7NcwmuiNfD2fkg/playlists) (a YouTube ministry), and others. But what of more standard reference books -- can we find some way to link those rather than having to work with the dreaded citations?
 
+#### Hyperlinks in Logos
+
 It turns out that one of the Bible software options called [Logos](https://www.logos.com/) supports full hyperlinks to resources you own in the software. While there are other reasons too as to why I chose Logos as the Bible software program that I bought all my reference resources in (such as the fact that Logos has a fully-developed web application -- meaning you can access your study library from any computer in the world), this linking functionality is an important part of it: Logos lets me create hyperlinks to digital resources on the fly, such that anyone else who owns the same resource in Logos can follow my links *instantly*.
 
+By purchasing only digital resources in Logos (rather than print books) and making use of the linking functionality that Logos allows, it is possible to also completely eliminate inefficient citations of reference works, from lexicons to systematic theologies. Linking only web resources is certainly better than citing web resources with no linking at all (something that I've never, ever understood -- if you can directly link to a web resource, then isn't citing such a resource a huge step backwards in convenience?), but linking *everything* is miles better.
+
+I have used full resource linking (rather than citations) in my own private notes on scripture for quite a while now, and the practice has very few downsides in practice. Really, the only problematic thing is that links to reference works require all parties to own the resources (i.e., they don't work for people who don't own the resources). Unlike paper books that can be borrowed from a library, there is no way to "check out" resources in Bible software programs, so the upfront purchase costs can be a barrier, especially for our brothers and sisters in the developing world. On the other hand, digital resources are quite a bit less expensive than paper resources most of the time, [and have plenty of other advantages besides](), so the situation isn't all so bad.
+
+#### What about resources not offered in Logos?
+
 There are a few resources that Logos doesn't offer that I own in a different Bible software program called [OliveTree](https://www.olivetree.com/). While OliveTree doesn't really support resource hyperlinking, it does [have an API for jumping to specific verses by hyperlink](https://github.com/OliveTreeBible/OliveTreeUrlExample), which is at least better than nothing. It so happens that all of the resources I use and recommend for OliveTree are scrolled in-line with scripture, such that it is possible to reference them in this somewhat-roundabout way. What I mean by this will become clearer below.
-
-By purchasing only digital resources in Logos/OliveTree (rather than print books) and making use of the linking functionality that these programs allow, it is possible to also completely eliminate inefficient citations of reference works, from lexicons to systematic theologies. Linking only web resources is certainly better than citing web resources with no linking at all (something that I've never, ever understood -- if you can directly link to a web resource, then isn't citing such a resource a huge step backwards in convenience?), but linking *everything* is miles better.
-
-I have used full resource linking (rather than citations) in my own private notes on scripture for quite a while now, and the practice has very few downsides in practice. Really, the only problematic thing is that links to reference works require all parties to own the resources in Logos/OliveTree (i.e., they don't work for people who don't own the resources). Unlike paper books that can be borrowed from a library, there is no way to "check out" resources in these Bible software programs, so the upfront purchase costs can be a barrier, especially for our brothers and sisters in the developing world. On the other hand, digital resources are quite a bit less expensive than paper resources most of the time, [and have plenty of other advantages besides](/computer-based-bible-study-is-superior-to-print-bible-study/#i-strongly-recommend-using-digital-resources-for-bible-study), so the situation isn't all so bad.
 
 ## How I link to resources on this site
 
@@ -300,8 +308,3 @@ $(document).ready(function() {
     } );
 } );
 </script>
-
-
-
-
-

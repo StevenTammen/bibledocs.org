@@ -2,7 +2,8 @@
 title: Forums
 date: 2021-01-10T16:10:15-05:00
 tags: []
-weight: 
+subsection: community
+weight: 20
 ---
 
 Link to forums for those already registered: <https://community.steventammen.com/>

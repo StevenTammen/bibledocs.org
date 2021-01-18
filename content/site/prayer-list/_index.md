@@ -1,5 +1,9 @@
 ---
 title: Prayer List
+date: 2021-01-10T20:25:12-05:00
+tags: []
+subsection: community
+weight: 1
 ---
 
 ## Overview
@@ -46,11 +50,3 @@ I have organized the prayer list into various sections based on commonalities (a
 ### Other
 
 * For Matt's difficult living situation with his roommates -- for peace and détente at least, if not resolution.
-
-
-
-
-
-
-
-

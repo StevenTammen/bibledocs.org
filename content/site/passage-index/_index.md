@@ -1,5 +1,9 @@
 ---
 title: Passage Index
+date: 2021-01-10T20:25:12-05:00
+tags: []
+subsection: meta
+weight: 40
 ---
 
 This page contains links to places (full pages and subsections of pages) where I address specific passages from scripture. As a rule of thumb, any time I personally translate a passage, the page or subsection that passage shows up in will be linked here, and the translated passage itself will be linked in the [Translation Index](/translation-index). However, this page also contains links to individual pages or subsections where I do not personally translate a passage, but just talk about it.
