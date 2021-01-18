@@ -53,7 +53,7 @@ We have בְּרֵאשִׁית not בָּרֵאשִׁית in Genesis 1:1. We hav
 
 {{% /technical-discussion %}}
 
-In terms of Genesis 1:1, without the definite article it makes less sense to take the "beginning" described as the beginning of the material universe... was spacetime somehow already in existence during God’s creation of the heavens and the earth? Instead, it makes more sense to take the "beginning" described as the beginning of God’s actions regarding the material universe. This distinction is not merely some exercise in pedantry, but is in fact critically important in properly understanding God’s relation to creation.
+In terms of Genesis 1:1, without the definite article it makes less sense to take the "beginning" described as the beginning of the material universe... was spacetime somehow already in existence during God’s creation of the heavens and the Earth? Instead, it makes more sense to take the "beginning" described as the beginning of God’s actions regarding the material universe. This distinction is not merely some exercise in pedantry, but is in fact critically important in properly understanding God’s relation to creation.
 
 The Trinity -- including Christ, the divine *logos* (λόγος) = Word, the agent of creation (compare John 1:3) -- existed before the material universe itself existed. God exists "outside" spacetime — He snapped His fingers, and it came into existence *ex nihilo*, out of nothing. His existence is in no way linked to the beginning of the material universe (which, confusing to our limited brains, coincides with the beginning of time as we think of it — compare special relativity). In fact, it is actually right and proper for us to say that God existed *before* time — he created it, after all.
 

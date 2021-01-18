@@ -7,13 +7,14 @@ contentlevel: intermediate+
 writinglevel: higher
 ---
 
-## Question 1.1
+
+## Hypothetical person: Question 1.1
 
 So, I know one of the ten commandments is to honor my parents, but they drive me crazy and want to pick out my life for me, even though I don't want what they want for me. What should I do? Do I need to submit myself to them and do exactly as they say? Or can I "honor" them while still choosing my own path?
 
-## Steven
+## Steven's response: Question 1.1
 
-{{% nasb h="800px" p="Exodus 20:12 | Ephesians 6:1-3 | Proverbs 1:8-9 | Proverbs 20:20 | Proverbs 23:22 | Proverbs 30:17" %}}
+{{% esv h="800px" p="Exodus 20:12 | Ephesians 6:1-3 | Proverbs 1:8-9 | Proverbs 20:20 | Proverbs 23:22 | Proverbs 30:17" %}}
 
 {{% scripture p="Exodus 20:12 | NIV84" %}}
 Honor your father and your mother, so that you may live long in the land the LORD your God is giving you.
@@ -39,13 +40,13 @@ Listen to your father, who gave you life, and do not despise your mother when sh
 The eye that mocks a father, that scorns obedience to a mother, will be pecked out by the ravens of the valley, will be eaten by the vultures.
 {{% /scripture %}}
 
-{{% /nasb %}}
+{{% /esv %}}
 
 The Bible is very clear about the importance of giving our parents the respect they are due. It is never presented as "optional" or "just when we feel like it and it suits our purposes."
 
 Under the Law, arrogant disobedience of one's parents was grounds for execution (the people of Israel, as God's nation, were called out for exemplary conduct as bearers of an unattainably perfect standard):
 
-{{% nasb h="600px" p="Leviticus 20:9 | Deuteronomy 21:18-21" %}}
+{{% esv h="600px" p="Leviticus 20:9 | Deuteronomy 21:18-21" %}}
 
 {{% scripture p="Leviticus 20:9 | NIV84" %}}
 If anyone curses his father or mother, he must be put to death. He has cursed his father or his mother, and his blood will be on his own head.
@@ -56,9 +57,9 @@ Deuteronomy 21:18–21 (NIV84)
 **18** If a man has a stubborn and rebellious son who does not obey his father and mother and will not listen to them when they discipline him, **19** his father and mother shall take hold of him and bring him to the elders at the gate of his town. **20** They shall say to the elders, “This son of ours is stubborn and rebellious. He will not obey us. He is a profligate and a drunkard.” **21** Then all the men of his town shall stone him to death. You must purge the evil from among you. All Israel will hear of it and be afraid.
 {{% /scripture %}}
 
-{{% /nasb %}}
+{{% /esv %}}
 
-Clearly, then, these things are not to be trivialized or taken lightly. In fact, it is more than just some vague notion of honor or respect that we are called to give our parents --- we are called to obey them:
+Clearly, then, these things are not to be trivialized or taken lightly. In fact, it is more than just some vague notion of honor or respect that we are called to give our parents -- we are called to obey them:
 
 {{% scripture p="Ephesians 6:1-3 | NIV84" %}}
 **1** Children, ***obey your parents in the Lord***, for this is right. **2** “Honor your father and mother”—which is the first commandment with a promise— **3** “that it may go well with you and that you may enjoy long life on the earth.”
@@ -88,7 +89,9 @@ Incidentally, the above holds true not just for children, but also for women who
 
 My counsel for all women who are victims of domestic abuse is to make every effort to leave (heads high -- the shameful behavior of their abusive husbands is not their fault in any way) so as to protect themselves and any children in the equation.
 
-In such situations, women have *every* right to divorce and leave. (...duh). It blows my mind that there are teachers who teach and promote points of view along the lines of "the Bible never makes an abuse exception for divorce, so women have no right to leave, and if they do divorce their abusive husbands, they can never get into any other relationship without committing adultery." Matthew 18:6 comes to mind -- such gross and hypocritical legalism, especially coming from people who ought to know better, will in no way go unpunished. (Compare James 3:1).
+In such situations, women have *every* right to divorce and leave. (...duh). Just because reconciliation would be ideal does not mean it is mandatory, and it is especially reprehensible to force such a position upon women who already have to deal with abuse from the very people that are supposed to love and cherish them.
+
+It blows my mind that there are teachers (or rather, "teachers") who teach and promote points of view along the lines of "the Bible never makes an abuse exception for divorce, so women have no right to leave, and if they do divorce their abusive husbands, they can never get into any other relationship without committing adultery." Matthew 18:6 comes to mind -- such gross and hypocritical legalism, especially coming from people who ought to know better, will in no way go unpunished. (Compare James 3:1).
 
 {{% /sidenote %}}
 
@@ -102,9 +105,9 @@ Not everything is so cut-and-dry as this though. There certainly are parents out
 
 #### Should we step in if people aren't parenting how we would?
 
-As long as what we perceive does not seem to cross the lines of actual abuse (i.e., that which would be reportable to authorities), then it is not really for us as third parties to try and step in and  meddle -- it's none of our business (compare 1 Thessalonians 4:11-2, 2 Thessalonians 3:11-13, Romans 14:4). Moreover, there are plenty of factors that make getting a true "read" of situations difficult:
+As long as what we perceive does not seem to cross the lines of actual abuse (i.e., that which would be reportable to the authorities), then it is not really for us as third parties to try and step in and meddle -- it's none of our business (compare 1 Thessalonians 4:11-2, 2 Thessalonians 3:11-13, Romans 14:4). Moreover, there are plenty of factors that make getting a true "read" of situations difficult:
 
-- Parenting is hard and parents are just imperfect human beings too, so sometimes they may come down too hard on their kids without any malevolent intent. In fact, their intent may be completely pure even while they end up being overly harsh: most parents hate punishing their kids as much as their kids hate the punishment -- if not more. But they want to discipline and correct them for their own good.
+- Parenting is hard and parents are just imperfect human beings too, so sometimes they may come down too hard on their kids without any malevolent intent. In fact, their intent may be completely pure even while they end up being overly harsh: they want to discipline and correct their kids for their own good. Most parents hate punishing their kids as much as their kids hate the punishment -- if not more.
 - Kids (even relatively young kids) can be manipulative and only present a skewed version of things to outside parties if they think it will help them get what they want.
 - Sometimes our own views as to what is or is not proper are very much culturally conditioned (compare physical punishment of children *à la* Proverbs 13:24) -- and even unconsciously so. Things are further complicated by the fact that certain brash, headstrong children may need a good bit more punishing to get the point through their thick heads, while you might just look at a quieter child the wrong way and they'll burst into tears. In other words, what might in fact be cruel treatment for one child will be entirely necessary to discipline another... but since they aren't *our* kids, there is no way for us as outsiders to know the one from the other.
 - Etc.
@@ -125,7 +128,7 @@ Note, however, that scripture is strong enough in its exhortations to obey our p
 
 There are collectivist cultures in the world wherein it is normal for the leader of a family/clan (typically an older male) to decide the affairs of everyone in the group (children being just part of the collective). This typically horrifies certain individuals from Western cultures ("what do you mean her father gets to pick who she marries?!"), but then again, most of these horrified individuals did not grow up in the society in question. By putting themselves in the shoes of the person they feel has been wronged and projecting their own culture, self-righteous condemnation comes all too easily.
 
-Now, I'm *not* saying that it is not possible that some of these situations are not in fact problematic -- I have no doubt some (and perhaps even many) are. The point is that unless it is really us in these circumstances, it is once again none of our business. (And here's the crux: how many children in these cultures truly feel wronged by the situation?).
+Now, I'm *not* saying that it is not possible that some of these situations are not in fact problematic -- I have no doubt some (and perhaps even many) are. The point is that unless it is really us in these circumstances, it is once again none of our business.
 
 On the other hand, if, for example, my American parents suddenly decided that they ought to get to pick out who my wife will be without my say, this action, *here in America*, would be considered strange. As a matter of application, even if they positively commanded me to marry someone, it would not be at all unreasonable for me to question things rather than meekly submitting to such a directive.
 
@@ -137,7 +140,7 @@ To generalize this a bit further: the fact that you can think up hypothetical ou
 
 If you are still living with your parents and financially dependent upon them, the relationship is different than if you are out on your own and independent. It is right and proper for people to be able to run their households with authority -- and if you don't like it, well, God surely has a reason for you being there.
 
-Once you are your own person more, your parents have less justified say in what it is you do. None of the Bible verses make this distinction in particular (i.e., they don't seem to explicitly make considerations in the relationship a function of childrens' independence), but it is more or less common sense.
+Once you are your own person more, your parents have less justified say in what it is you do. None of the Bible passages make this distinction in particular (i.e., they don't seem to explicitly make considerations in the relationship a function of childrens' independence), but it is more or less common sense.
 
 We never outgrow the obligation to respect our parents and act deferentially towards them.
 
@@ -184,7 +187,7 @@ While anyone who remembers their teenage years can likely sympathize with the pe
 
 There is, however, the issue of legalism. If you take a look at Jesus' circle of contacts, you do find prostitutes and tax collectors... or rather ex-prostitutes and reformed tax collectors. And we are not Jesus of course. The point I am making is that people on the upswing need friends too -- people that are a good influence on them rather than an influence likely to drag them back into their old habits. (And it is a mistake for us to talk about "these people" entirely in the third person -- *we* are these people, all of us, at least to an extent: Romans 3:23).
 
-As you might have been able to guess, there is a middle road to be walked here as well. If your parents forbid you from associating with someone who is not going to be dragging you down spiritually -- even if this person made poor choices in the past -- then should you listen to them? Well, what does God want you to do?
+As you might have been able to guess, there is a middle road to be walked here as well. If your parents forbid you from associating with someone who is not going to be dragging you down spiritually -- even if this person made poor choices in the past -- then should you listen to them? Well, what does God want you to do? Are you called to be a good influence in that person's life?
 
 ##### Spiritual approach
 
@@ -206,18 +209,14 @@ This may seem like intensely unhelpful advice (...well of course that’s what s
 
 Prayer is a powerful tool, all the more so for those who have taken the time to study and grow in the truth of the Word. If we seek out God’s guidance and act with pure intent according to what we believe He is calling us to, then even if we end up occasionally stumbling, it can be said that we upheld the command to honor and obey our parents... even if we don’t end up doing exactly what they say we should. In this there is no contradiction, for the commands to honor and obey our parents are necessarily secondary to the commands to honor and obey God.
 
-#### A flowchart to give a jumping-off-point for application in this area
-
-TODO
-
 {{% /application %}}
 
 
-## Question 1.2
+## Hypothetical person: Question 1.2
 
 You didn't really answer my question. Do I have to obey my parents' wishes for me or not? Yes or No?
 
-## Steven
+## Steven's response: Question 1.2
 
 It's not that simple. As discussed above, a third party has no possible hope of knowing the full picture, and for that reason, should refrain from weighing in on specifics.
 
@@ -264,3 +263,5 @@ So, for example, if you feel like God is leading you into ministry but your fami
 If we are under the roof of our parents (such that we are financially dependent on them
 
 -->
+
+
