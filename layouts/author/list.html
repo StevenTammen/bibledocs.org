@@ -1,0 +1,33 @@
+{{ partial "header-content.html" . }}
+
+<div class="header">
+  <h1>{{ .Title }}</h1>
+</div>
+<div class="content">
+
+	{{ .Content }}
+	
+	{{ if (isset .Params "show-lists") }}
+	
+		<h2>Overview</h2>
+		<ul>
+		{{ range where .Sections.ByWeight "Params.subsection" "overview" }}
+			<li>
+				<a href="{{ .Permalink }}">{{ .Title }}</a>
+			</li>
+		{{ end }}
+		</ul>
+	
+	{{ end }}
+  
+</div>
+
+{{ partial "mobile-bar.html" . }}
+
+<!-- Latest compiled and minified Bootstrap JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<!-- Site Functions -->
+<script src="{{ .Site.BaseURL }}js/site-functions.js"></script>
+
+{{ partial "footer.html" . }}

@@ -1,5 +1,5 @@
 ---
-title: BibleDocs' Web Interface
+title: Making Effective Use of BibleDocs
 date: 2020-09-04
 ---
 

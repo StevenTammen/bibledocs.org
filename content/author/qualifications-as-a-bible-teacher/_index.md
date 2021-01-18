@@ -1,35 +1,10 @@
 ---
-title: About the Author
+title: Qualifications as a Bible Teacher
+date: 2021-01-17T20:37:11-05:00
+tags: []
+subsection: overview
+weight: 1
 ---
-
-<style>
-    @media screen and (max-width: 950px) {
-        #photos {
-            flex-flow: row wrap !important;
-        }
-    }
-</style>
-
-
-<div id="photos" style="display: flex; flex-flow: row nowrap; width: 100%;">
-    <img src="/about-the-author/picture-one.jpg" style="max-height: 300px;"/>
-    <img src="/about-the-author/picture-two.jpg" style="max-height: 300px;"/>
-    <img src="/about-the-author/picture-three.png" style="max-height: 300px;"/>
-</div>
-
-## Basics
-
-My name is Steven Tammen (IPA: 'stiːvən 'tæmən). I currently work in Warner Robins Georgia as a civilian employee of the 402 Software Engineering Group (SWEG), United States Air Force. My team in particular does C# webapps.
-
-<!-- TODO: explain why work at Air force position vs. something else, like a higher paying job in industry -->
-
-I graduated from the [University of Georgia](https://www.uga.edu/) in December 2019 with three majors: Computer Science, Ancient Greek, and Classics. I spent the first two years of my college experience (out of a total of 5.5—that’s what changing your major twice and ending up a triple major does to you) at [Georgia Tech](https://www.gatech.edu/) studying engineering, before deciding I wanted to learn Ancient Greek in college for the sake of this ministry. Georgia Tech is excellent for engineering, but Ancient Greek is something that it doesn’t even offer. Hence why I ended up at UGA.
-
-You can see more about me, including things I did in college, in [my CV](https://www.steventammen.com/CV.pdf).
-
-<!-- If you want to learn more specifically about my academic qualifications, [see here](http://college-book). -->
-
-## Qualifications as a Bible teacher
 
 Lay Christians should not turn to just anyone in seeking out Bible teaching. Quite to the contrary, since spiritual realities are in truth the most important things in life, arguably, there are few choices one faces more serious than which Bible teacher to listen to. Giving ear to the wrong person can have eternal consequences, either in terms of compromised spiritual reward, or even in terms of lost salvation.
 
@@ -37,7 +12,7 @@ Bearing this in mind, what makes me qualified to put myself forward as a Bible t
 
 ### Options you should consider before or alongside this ministry
 
-There's no two ways about it: I am young relative to most Bible teachers. I have certainly strived to go about preparing in a rigorous and responsible manner, and youth is definitely not itself disqualifying (compare 1 Timothy 4:12), but there is no way that my knowledge base can compete with those of Bible teachers who have been at it much longer than myself.
+There's no two ways about it: I am young relative to most Bible teachers. I have certainly striven to go about preparing in a rigorous and responsible manner, and youth is definitely not itself disqualifying (compare 1 Timothy 4:12), but there is no way that my knowledge base can compete with those of Bible teachers who have been at it much longer than myself.
 
 For this reason, I recommend most people check out [Ichthys](https://ichthys.com/) and [Bible Academy](https://www.youtube.com/channel/UCkp-J7VPT7NcwmuiNfD2fkg/playlists). These are two ministries that I can recommend almost without reservation, and both Dr. Robert Luginbill (the teacher behind Ichthys) and Pastor Curtis Omo (the teacher behind Bible Academy) have decades of experience behind them.
 
@@ -59,7 +34,7 @@ I also hope the materials of this site speak for themselves; the "proof is in th
 
 Simply having the spiritual gift is not enough. Many callings within the Body of Christ do not have a particularly long lead-time, but Bible teaching does. Doing it right (and all pastor-teachers are called to do it right; compare 2 Timothy 2:15) requires extensive preparation.
 
-Now, not all teachers are necessarily called to learn the languages (compare 1 Corinthians 12:4-6 -- even people with the same gift can serve in many different capacities within the Body), but even so, properly handling the Word of truth requires knowledge in many areas:
+Now, not all teachers are necessarily called to learn the languages (compare 1 Corinthians 12:4-6 -- even people with the same gift can serve in many different capacities within the Body), but even so, properly handling the Word of Truth requires knowledge in many areas:
 
 - A deep understanding of the whole text of scripture
 - Greek and Hebrew (if possible)
@@ -75,4 +50,3 @@ In truth, preparation is always an ongoing matter for us teachers. We never reac
 It is a trap to chase perfection in preparation to the point that one never gets around to doing ministry. More is better than less, it is true, but some learning also only comes through doing.
 
 Based on this understanding, while I can in no way to claim to be perfect in my knowledge and preparation, I do have behind me years of formal study in Greek, Hebrew, and Ancient History/Culture (specifically relating to Greece and Rome) at a respected University, along with personal study in all the areas listed above. As mentioned in the previous section, I do hope that in terms of quality, these materials will speak for themselves.
-
