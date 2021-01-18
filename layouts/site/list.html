@@ -1,36 +1,60 @@
-{{ partial "header-list-pages.html" . }}
+{{ partial "header-content.html" . }}
 
 <div class="header">
   <h1>{{ .Title }}</h1>
 </div>
 <div class="content">
 
-  {{ .Content }}
+	{{ .Content }}
+	
+	{{ if (isset .Params "show-lists") }}
+	
+		<h2>Overview</h2>
+		<ul>
+		{{ range where .Sections.ByWeight "Params.subsection" "overview" }}
+			<li>
+				<a href="{{ .Permalink }}">{{ .Title }}</a>
+			</li>
+		{{ end }}
+		</ul>
 
-  <ul>
-	{{ range .Pages.GroupBy "Weight" "asc" }}
-		<li>
-			<a href="/about-the-site/#content-level"><span class="{{ strings.TrimSuffix "+" .Params.contentlevel }}">{{ .Params.contentlevel }}</span></a>&nbsp;&nbsp;<a href="{{ .Permalink }}">{{ .Title }}</a>
-		</li>
+		<h2>Writing and Content</h2>
+		<ul>
+		{{ range where .Sections.ByWeight "Params.subsection" "writing-and-content" }}
+			<li>
+				<a href="{{ .Permalink }}">{{ .Title }}</a>
+			</li>
+		{{ end }}
+		</ul>
+
+		<h2>Community</h2>
+		<ul>
+		{{ range where .Sections.ByWeight "Params.subsection" "community" }}
+			<li>
+				<a href="{{ .Permalink }}">{{ .Title }}</a>
+			</li>
+		{{ end }}
+		</ul>
+
+		<h2>Meta</h2>
+		<ul>
+		{{ range where .Sections.ByWeight "Params.subsection" "meta" }}
+			<li>
+				<a href="{{ .Permalink }}">{{ .Title }}</a>
+			</li>
+		{{ end }}
+		</ul>
+	
 	{{ end }}
-  </ul>
-  
-  {{ range .Sections.ByTitle }}
-  <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-  <ul>
-	{{ range .Pages.GroupBy "Weight" "asc" }}
-		<li>
-			<a href="/about-the-site/#content-level"><span class="{{ strings.TrimSuffix "+" .Params.contentlevel }}">{{ .Params.contentlevel }}</span></a>&nbsp;&nbsp;<a href="{{ .Permalink }}">{{ .Title }}</a>
-		</li>
-	{{ end }}
-  </ul>
-  {{ end }}
   
 </div>
 
-{{ partial "mobile-bar-list-pages.html" . }}
+{{ partial "mobile-bar.html" . }}
+
+<!-- Latest compiled and minified Bootstrap JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
 <!-- Site Functions -->
-<script src="{{ .Site.BaseURL }}js/site-functions-list-pages.js"></script>
+<script src="{{ .Site.BaseURL }}js/site-functions.js"></script>
 
 {{ partial "footer.html" . }}
