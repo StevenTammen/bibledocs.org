@@ -40,9 +40,9 @@ The Study Notes on this site are notes on the text of the Bible, in the manner o
 
 ## Questions and answers
 
-The Q&As on this site are dedicated to shorter treatments of various topics, organized in a question and answer format. Some of these Q&As come from correspondence with site readers, some are from my own correspondence with my teachers and mentors (I'm the one asking questions in these), and finally others (both questions and answers) are completely of my own creation.
+The Q&As on this site are dedicated to shorter treatments of various topics, organized in a question and answer format. Some of these Q&As come from correspondence with site readers, while others (both questions and answers) are completely of my own creation.
 
-The "answers" contained herein are not necessarily to be taken as holy and unquestionable writ (after all, they are coming from imperfect human beings), but simply as responses to the questions.
+The "answers" contained herein are not necessarily to be taken as holy and unquestionable writ (after all, they are coming from myself, an imperfect human being), but simply as responses to the questions.
 
 ## Ministry info
 
@@ -50,7 +50,7 @@ The ministry info section on this site is dedicated to providing information rel
 
 ## Guides
 
-This section contains pages with embedded video guides on various topics, like using Bible study software. Video makes more sense than text as a medium for guides, but there are still various benefits to having the videos live on pages on my website rather than only showing up on YouTube ([see below](/about-the-site/#why-pages-for-video-guides)).
+This section contains pages with embedded video guides on various topics, like using Bible study software. Video makes more sense than text as a medium for guides, but there are still various benefits to having the videos live on pages on my website rather than only showing up on YouTube (see [/site/frequently-asked-questions/#why-pages-for-video-guides](/site/frequently-asked-questions/#why-pages-for-video-guides)).
 
 I highly recommend that if you wish to link to any of my guides, you link to the guide pages on my website rather than directly to the YouTube videos. You can read more about why I recommend such in the above link.
 
@@ -58,22 +58,22 @@ I highly recommend that if you wish to link to any of my guides, you link to the
 
 I have long run an online Bible study group. This section contains descriptions of the studies we have done over time, with links to the corresponding YouTube playlists. We do not move particularly fast, but we also try to avoid seriously-off-topic rabbit trails.
 
-Please note that these videos are posted "as is" and are not corrected or improved over time. For this reason, you should err on the side of trusting the written content on this site more than anything that shows up in the videos. (For a more thorough discussion, [see below](/about-the-site/#caveats-with-recordings-of-study-groups)). I am simply offering the video recordings because it costs me very little effort to do so, and some people may find them helpful, even if they are not always perfect.
+Please note that these videos are posted "as is" and are not corrected or improved over time. For this reason, you should err on the side of trusting the written content on this site more than anything that shows up in the videos. (For a more thorough discussion, see [/site/recordings-of-online-bible-studies/#caveats-with-these-recordings-of-the-online-bible-studies](/site/recordings-of-online-bible-studies/#caveats-with-these-recordings-of-the-online-bible-studies)). I am simply offering the video recordings because it costs me very little effort to do so, and some people may find them helpful, even if they are not always perfect.
 
-If you are interested in participating in the Bible study, [see here](/online-bible-studies/).
+If you are interested in participating in the Bible study, [see here](/site/online-bible-studies/).
 
 ## Greek resources
 
 This section contains pages pertaining to the study of Ancient Greek, particularly the Greek of the New Testament and its time.
 
-Some pages may link to videos from a Greek study group that I run (if discussion in the video is relevant to the page), and some of these videos, in turn, may link to pages on the site. In general, I would recommend focusing on the written content on the pages, as it will always be kept up to date, whereas the videos will not ever receive changes or corrections over time. (For a more thorough discussion, [see below](/about-the-site/#caveats-with-recordings-of-study-groups)). I am simply offering the video recordings because it costs me very little effort to do so, and some people may find them helpful, even if they are not always perfect.
+Some pages may link to videos from a Greek study group that I run (if discussion in the video is relevant to the page), and some of these videos, in turn, may link to pages on the site. In general, I would recommend focusing on the written content on the pages, as it will always be kept up to date, whereas the videos will not ever receive changes or corrections over time. (For a more thorough discussion, see [/site/recordings-of-online-bible-studies/#caveats-with-these-recordings-of-the-online-bible-studies](/site/recordings-of-online-bible-studies/#caveats-with-these-recordings-of-the-online-bible-studies)). I am simply offering the video recordings because it costs me very little effort to do so, and some people may find them helpful, even if they are not always perfect.
 
-If you are interested in participating in the Greek study, [see here](/online-bible-studies/).
+If you are interested in participating in the Greek study, [see here](/site/online-bible-studies/).
 
 ## Hebrew resources
 
 This section contains pages pertaining to the study of Biblical Hebrew.
 
-Some pages may link to videos from a Hebrew study group that I run (if discussion in the video is relevant to the page), and some of these videos, in turn, may link to pages on the site. In general, I would recommend focusing on the written content on the pages, as it will always be kept up to date, whereas the videos will not ever receive changes or corrections over time. (For a more thorough discussion, [see below](/about-the-site/#caveats-with-recordings-of-study-groups)). I am simply offering the video recordings because it costs me very little effort to do so, and some people may find them helpful, even if they are not always perfect.
+Some pages may link to videos from a Hebrew study group that I run (if discussion in the video is relevant to the page), and some of these videos, in turn, may link to pages on the site. In general, I would recommend focusing on the written content on the pages, as it will always be kept up to date, whereas the videos will not ever receive changes or corrections over time. (For a more thorough discussion, see [/site/recordings-of-online-bible-studies/#caveats-with-these-recordings-of-the-online-bible-studies](/site/recordings-of-online-bible-studies/#caveats-with-these-recordings-of-the-online-bible-studies)). I am simply offering the video recordings because it costs me very little effort to do so, and some people may find them helpful, even if they are not always perfect.
 
-If you are interested in participating in the Hebrew study, [see here](/online-bible-studies/).
+If you are interested in participating in the Hebrew study, [see here](/site/online-bible-studies/).
