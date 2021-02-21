@@ -4,7 +4,9 @@ date: 2020-10-04T12:24:39-04:00
 tags: []
 weight: 
 contentlevel: intermediate+
-writinglevel: higher
+inprogress: false
+summary: >-
+   Respecting and obeying parents... every teenager's favorite practices! All humans have parents. Some are good. Some are bad. Most are somewhere in-between. Regardless of how we feel about our parents, and even regardless of how they actually may be in reality, our actions towards our parents must be governed by what scripture has to say on the matter. This page sets out to discuss what scripture does in fact say on the matter, and also talks about some variables in application to keep in mind when making decisions in this area.
 ---
 
 
@@ -53,7 +55,6 @@ If anyone curses his father or mother, he must be put to death. He has cursed hi
 {{% /scripture %}}
 
 {{% scripture p="Deuteronomy 21:18-21 | NIV84" %}}
-Deuteronomy 21:18–21 (NIV84)
 **18** If a man has a stubborn and rebellious son who does not obey his father and mother and will not listen to them when they discipline him, **19** his father and mother shall take hold of him and bring him to the elders at the gate of his town. **20** They shall say to the elders, “This son of ours is stubborn and rebellious. He will not obey us. He is a profligate and a drunkard.” **21** Then all the men of his town shall stone him to death. You must purge the evil from among you. All Israel will hear of it and be afraid.
 {{% /scripture %}}
 

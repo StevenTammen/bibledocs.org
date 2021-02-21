@@ -4,12 +4,16 @@ date: 2020-09-29T07:14:26-04:00
 tags: []
 weight: 
 contentlevel: intermediate
-writinglevel: higher
+inprogress: false
+summary: >-
+   Genesis 1:1 (in the original Hebrew and Greek Septuagint both) and John 1:1 do not have direct articles, meaning the texts read "a beginning" not "the beginning." This supports the idea that the beginning referred to is the beginning of God's actions regarding the material universe, not the beginning of the material universe itself. Making this clear guarantees that people properly understand that God transcends space and time (things of His own creation), rather than Himself being somehow bound by the material universe.
 ---
 
 ## What "beginning" is in view?
 
-The "beginning" of Genesis 1:1 is the beginning of God’s actions regarding the material universe, not the beginning of the material universe. The short version of what I mean by this is that Genesis 1:1 is saying
+Genesis 1:1 is the first verse in the Bible. It mentions the word "beginning." The question is then, what beginning is in view? One possibility is that the beginning is referring to the beginning of God's actions regarding the material universe.  Another possibility is that the beginning is referring to the beginning of the material universe itself.
+
+If the beginning is referring to the beginning of God's actions regarding the material universe, then we might translate:
 
 {{% original-translation p="Genesis 1:1" %}}
 
@@ -17,11 +21,17 @@ In beginning [His actions regarding the material universe], God created the heav
 
 {{% /original-translation %}}
 
-Not
+But if the beginning is referring to the beginning of the material universe, then we might translate:
 
-> In the beginning [of the material universe], God created the heavens and the earth.
+{{% scripture p="Genesis 1:1" %}}
 
-Beginning is not definite in the Hebrew of Genesis 1:1 nor the Greek of John 1:1, despite how almost all translations (improperly) take it. That is, the texts actually say "in beginning" not "in the beginning."
+In the beginning [of the material universe], God created the heavens and the earth.
+
+{{% /scripture %}}
+
+The Hebrew text of Genesis 1:1 in the Old Testament supports the first possible translation. The Greek text of Genesis 1:1 in the Old Testament also supports the first possible translation. (Since the Old Testament was initially written in Hebrew, this Greek version of the Old Testament was a translation for people who could only read Greek, not Hebrew. It was called the Septuagint). Finally, the Greek text of John 1:1 in the New Testament supports the first possible translation as well. John 1:1 also mentions a beginning, and is closely parallel with Genesis 1:1. (It is very, very likely that the Apostle John, the author of the gospel of John, did this intentionally to emphasize the divinity that Jesus -- the Word of God -- possessed/possesses).
+
+These all support the first possible translation because they lack something called a definite article. If the definite article were there, the texts would read as "*the* beginning" rather than just "a beginning." Without the definite article it makes decidedly less sense to take the beginning in Genesis 1:1 as the beginning of the material universe. One might be able to argue that the definite article in Genesis 1:1 is implied and ought to be supplied... except it does not show up in the Septuagint or John 1:1 either, as one might expect if it were in fact supposed to be supplied. Such an argument thus requires you to assume quite a lot.
 
 {{% technical-discussion %}}
 
@@ -53,17 +63,35 @@ We have בְּרֵאשִׁית not בָּרֵאשִׁית in Genesis 1:1. We hav
 
 {{% /technical-discussion %}}
 
-In terms of Genesis 1:1, without the definite article it makes less sense to take the "beginning" described as the beginning of the material universe... was spacetime somehow already in existence during God’s creation of the heavens and the Earth? Instead, it makes more sense to take the "beginning" described as the beginning of God’s actions regarding the material universe. This distinction is not merely some exercise in pedantry, but is in fact critically important in properly understanding God’s relation to creation.
+Aside from the textual evidence, taking the beginning in a definite way would seem to imply that space and time were somehow already in existence during God's creation of the heavens and the Earth. This causes theological problems (or at least can) as it muddles God's eternal existence and externality to material creation.
 
-The Trinity -- including Christ, the divine *logos* (λόγος) = Word, the agent of creation (compare John 1:3) -- existed before the material universe itself existed. God exists "outside" spacetime — He snapped His fingers, and it came into existence *ex nihilo*, out of nothing. His existence is in no way linked to the beginning of the material universe (which, confusing to our limited brains, coincides with the beginning of time as we think of it — compare special relativity). In fact, it is actually right and proper for us to say that God existed *before* time — he created it, after all.
+God exists as three persons that share one essence. This doctrine is known as the Trinity. All three members of the Trinity existed before the material universe itself existed. God exists "outside" spacetime. (Sometimes "space and time" are written together as "spacetime," since physicists have shown that the two things are closely related). When he commanded spacetime to come into existence from nothing, it did. God's existence is in no way linked to the beginning of the material universe. In fact, it is actually right and proper to say that God existed *before* time, because he created time.
 
 ## How did God exist before space and time?
 
-Well, part one is accepting that as material beings, we are never really going to "get it" — since we are finite and very much bound by linear time, we have exactly zero hope of truly conceptualizing what it means to to be outside of spacetime. Part two is Exodus 3:14-15, God’s identity as I AM (Hebrew: יהוה, transliterated YHVH):
+We human beings are very small and finite. Due to this limited perspective, we don't have much hope of truly understanding exactly what it means to be outside of space and time. This acknowledgement of our own limits is the first step to accepting the difficult idea of God existing outside of space and time.
+
+The second step is understanding God's identity as I AM. In Exodus 3:14–15 God declares to Moses that His name is "I AM":
+
+{{% esv h="400px" p="Exodus 3:14-15" %}}
+
+{{% scripture p="Exodus 3:14-15 | ESV" %}}
+
+**14** God said to Moses, “I am who I am.” And he said, “Say this to the people of Israel: ‘I am has sent me to you.’” **15** God also said to Moses, “Say this to the people of Israel: ‘The Lord, the God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has sent me to you.’ This is my name forever, and thus I am to be remembered throughout all generations.
+
+{{% /scripture %}}
+
+{{% /esv %}}
+
+{{% technical-discussion %}}
+**The divine name of God**
+
+יהוה, the divine name of the God in the Old Testament, is sometimes called the tetragrammaton (from Greek τετραγράμματον, meaning "[consisting of] four letters"). Here's this same Exodus passage in the Hebrew:
 
 {{% hebrew-i h="600px" p="Exodus 3:14-15" %}}
 
 {{% scripture p="Exodus 3:14-15 | BHS, NASB95" %}}
+
 (BHS) **14** וַיֹּאמֶר אֱלֹהִים אֶל־מֹשֶׁה אֶֽהְיֶה אֲשֶׁר אֶֽהְיֶה וַיֹּאמֶר כֹּה תֹאמַר לִבְנֵי יִשְׂרָאֵל אֶֽהְיֶה שְׁלָחַנִי אֲלֵיכֶֽם׃
 
 (NASB) **14** God said to Moses, “ I AM WHO I AM”; and He said, “Thus you shall say to the sons of Israel, ‘ I AM has sent me to you.’”
@@ -76,13 +104,32 @@ Well, part one is accepting that as material beings, we are never really going t
 
 {{% /hebrew-i %}}
 
-Put simply, existence is tied up in who God is. God is the Alpha and Omega, He who is and was and is to come, the First and the Last, the Beginning and the End (Revelation 1:8; 22:13). Of what consequence is time to God?
+Liberal scholars squabble endlessly about the etymology of the tetragrammaton, but it is clear from usage that the divine the name of God is fundamentally connected to existence, just as in this passage from Exodus. I've honestly always found the ink spilled here somewhat regrettable, inasmuch as actual *usage* is always king in lexicography, not etymology. For another example of scholars getting off in the weeds of etymology and muddling themselves theologically, compare all the confusion over the Greek adjective [μονογενής](https://biblehub.com/greek/3439.htm). (Ichthys hits interpretive issues surrounding μονογενής [here](https://ichthys.com/mail-Only-Begotten-Mother-Of-God-On-This-Rock.htm) and [here](https://ichthys.com/mail-Jesus-is-God-and-Man.htm#monogenes--only-begotten), for example).
+
+To  be clear, it's not even that the etymology of יהוה has been settled contrary to the semantic scope we have observable to us from usage. For example:
+
+{{% quote src="https://ref.ly/logosres/isbe?ref=VolumePage.V+2%2c+p+506&off=6185" text="ISBE1995" %}}
+Scholars now generally agree, however, that the name is connected with the verb *hāwâ*, itself an archaic form of *hāyâ*, “be, become, happen.” What is in doubt, however, is the form of the verb. Some scholars have seen it as simply a combination of the root *hwh* plus prefixed *y* to make a personal name. Much more common is the view that it is the qal (simple) conjugation of the verb, with either a present sense—“He who is,” “the self-existent one”—or an imperfect, future sense—“He who will continue to be (present with His people).” Another common view is that it is the hiphil (causative) conjugation: “He who causes to be, who brings into existence,” i.e., “the Creator.” Although this last explanation is attractive and has had much support, it is doubtful for two reasons. First, there is no known example of *hāyâ* in the hiphil. Second, on the only occasion where an apparent attempt is made to explain the name (Ex. 3:14f), Yahweh’s character and acts as Israel’s redeeming, covenant God, not His role as Creator, are indicated.
+{{% /quote %}}
+
+The point is simply that all of this doesn't really matter in the grand scheme of things. Anyone who reads Exodus 3:14-15 with an open mind will get the gist of *what God himself says His name means.* I'll take that over scholarly speculation any day of the week.
+
+If you like, though, read what some scholars have to say on the divine name:
+
+- More liberal scholars: [AYBD > Yahweh](https://ref.ly/logosres/anch?hw=Yahweh)
+- More conservative scholars: [ISBE1995 > Volume 2, Page 506](https://ref.ly/logosres/isbe?ref=VolumePage.V+2%2c+p+506&off=6185)
+
+{{% /technical-discussion %}}
+
+Put simply, existence is tied up in who God is. God is the Alpha and Omega, He who is and was and is to come, the First and the Last, the Beginning and the End (Revelation 1:8; 22:13). For this reason, time is of little consequence to God.
 
 ## Recap and summary
 
-To summarize, then, translating John 1:1 and especially Genesis 1:1 as definite (or at least doing such with no further explanation) confuses the matter of God’s pre-creation existence because translating as such tends to make people think that the beginning referenced is "the definite, finite, beginning of material existence/spacetime" (rather than the beginning of God’s actions regarding the material universe). But if this is the case — and God’s creation of the heavens and the Earth proceeded with spacetime already existing, rather than the creation of the heavens and the Earth *being* the creation of spacetime — then is God part of spacetime? Is he bound by it? Is he merely a super-creature?
+We discussed how Genesis 1:1 (in the original Hebrew and Greek Septuagint both) and John 1:1 do not have direct articles, meaning the texts read "a beginning" not "the beginning." This supports the idea that the beginning referred to is the beginning of God's actions regarding the material universe, not the beginning of the material universe itself. Not translating properly or failing to explain this properly can obscure this fact.
 
-Of course not. But best to be clear.
+The big issue with not getting this right is that it might give the false impression that God’s creation of the heavens and the Earth proceeded with spacetime already existing. Some people might think based on this that God is merely a very powerful creature that is also bound by space and time in the universe like we are. But we saw above that God exists outside spacetime. 
+
+The right way to take it is instead that God's creation of the heavens and the Earth *is* the creation of spacetime.
 
 <!--
 
@@ -155,4 +202,3 @@ Genesis 1:1-2
 This isn’t some indistinct matter of opinion; it’s grammar. The fact that most all English translations "get this wrong" and most people 
 
 -->
-

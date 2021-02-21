@@ -4,18 +4,33 @@ date: 2020-09-29T07:14:26-04:00
 tags: []
 weight: 
 contentlevel: intermediate+
-writinglevel: higher
+inprogress: false
+summary: >-
+   As Ephesians 2:8-9 tells us, salvation most assuredly does come by grace through faith (and not by works). However, this does not mean that all Christians will end up with the same level of reward in eternity. Quite to the contrary, the Bible is very clear that those who render more disinguished service with what they have been given in this life will be rewarded in proportion to their true commitment to the Lord. The goal of this page is to briefly put forward some of the scriptural evidence for this concept and deal with some common objections.
 ---
 
-In this material world of ours, distinctions are made every day with regards to merit and distinguished service. While it is true that the idea of "everyone gets a trophy" has been gaining ground of late, it is nonetheless the case that most people do not seem to have great philosophical objection to the idea of different levels of recognition and reward for different levels of service.
+{{< raw-html >}}
+<button onclick="toLowerWritingLevel();">To Lower</button>
+<br/>
+<button onclick="toHigherWritingLevel();">To Higher</button>
+{{< /raw-html >}}
 
-When the topic is switched to eternal spiritual rewards for Christians, however, many people seem to have a much more visceral reaction. Perhaps it is because eternal rewards are, well, eternal. Perhaps it is because the idea of salvation coming by grace through faith and not by works is (rightly) highly emphasized as a core teaching, drilling into people a sort of distrust for any reward mentality. Or perhaps, sad as it is to say, some people resist this idea because, upon a bit of self-reflection, they realize that they will not be among the highly decorated if there are actually distinctions in eternal reward. Whatever the reasons, it has been my observation that while the teaching of eternal distinction in reward for Christians is relatively straightforward in scripture, it is in practice a doctrine that many people have issues accepting. The goal of this page is to briefly put forward some of the scriptural evidence for the concept and deal with some common objections.
+
+Every day people give honor to distinguished service and scorn laziness. The idea of different levels of recognition and reward for different levels of service does not seem to be very controversial to most people. 
+
+However, some people seem to have a problem when the rewards in question are not physical rewards in this temporary world of ours, but eternal rewards. There are several reasons why people might take issue:
+
+- Maybe it is because these rewards are eternal, so the overall consequences are larger.
+- Maybe because people are familiar with the correct teaching that salvation comes by grace through faith and not by works, they think things must work exactly the same here. 
+- Maybe they want everyone to be rewarded the same because if we are instead rewarded according to service they will not do very well!
+
+Whatever the reasons, this idea of different levels of eternal reward for different levels of service seems to be hard for many people to accept. The goal of this page is to briefly put forward some of the scriptural evidence for the concept and deal with some common objections.
 
 ## A general overview of the teaching
 
 Scripture is quite clear that upon Christ’s return, judgement will be rendered as to the works of men. For example:
 
-{{% nasb h="600px" p="Matthew 16:27  | 2 Corinthians 5:10 | Revelation 22:12" %}}
+{{% esv h="600px" p="Matthew 16:27  | 2 Corinthians 5:10 | Revelation 22:12" %}}
 
 {{% scripture p="Matthew 16:27  | NIV84" %}}
 For the Son of Man is going to come in his Father’s glory with his angels, and then he will reward each person according to what he has done.
@@ -29,39 +44,37 @@ For we must all appear before the judgment seat of Christ, that each one may rec
 “Behold, I am coming soon! My reward is with me, and I will give to everyone according to what he has done."
 {{% /scripture %}}
 
-{{% /nasb %}}
+{{% /esv %}}
 
-All these passages speak of an evaluation of our works. It follows naturally that if some people have "better works" than others, then they will receive more reward — there is no other way to responsibly interpret these passages.
+All these passages speak of an evaluation of our works. It follows naturally that if some people have "better works" than others, then they will receive more reward. There is no other way to responsibly interpret these passages.
 
 Paul gives us some more detail on the process of evaluation in 1 Corinthians 3:
 
-{{% nasb h="400px" p="1 Corinthians 3:10-15" %}}
+{{% esv h="400px" p="1 Corinthians 3:10-15" %}}
 
 {{% scripture p="1 Corinthians 3:10-15 | NIV84" %}}
 **10** By the grace God has given me, I laid a foundation as an expert builder, and someone else is building on it. But each one should be careful how he builds. **11** For no one can lay any foundation other than the one already laid, which is Jesus Christ. **12** If any man builds on this foundation using gold, silver, costly stones, wood, hay or straw, **13** his work will be shown for what it is, because the Day will bring it to light. It will be revealed with fire, and the fire will test the quality of each man’s work. **14** If what he has built survives, he will receive his reward. **15** If it is burned up, he will suffer loss; he himself will be saved, but only as one escaping through the flames.
 {{% /scripture %}}
 
-{{% /nasb %}}
+{{% /esv %}}
 
-After the fires of judgement, only those things we build upon the sure foundation of Jesus Christ will remain (words and thoughts as well as actions: compare Matthew 12:36–37). This passage incontrovertibly teaches that some people — those who build with gold, silver, and precious stones rather than wood, hay, and stubble; those whose works are not consumed in the fire of evaluation — receive greater reward than others.
+After the fires of judgement, only those things we build upon the sure foundation of Jesus Christ will remain. (This applies to words and thoughts as well as actions: compare Matthew 12:36–37). This passage in 1 Corinthians teaches that those who build with gold, silver, and precious stones have works that survive the fire. On the other hand, those who build with wood, hay, and stubble have works that do not survive the fire. The fire represents God evaluating the things we do in this life, and the things left behind represent our reward (see verse 14). For this reason, this passage clearly teaches that some people receive greater reward than others.
 
 Finally, consider the passages that teach that many of the last will be first and the first last:
 
-{{% nasb h="300px" p="Mark 10:31 | Luke 13:30" %}}
+{{% esv h="400px" p="Mark 10:31 | Luke 13:30" %}}
 
 {{% scripture p="Mark 10:31 | NIV84" %}}
 But many who are first will be last, and the last first.
-
-
 {{% /scripture %}}
 
 {{% scripture p="Luke 13:30 | NIV84" %}}
 Indeed there are those who are last who will be first, and first who will be last.”
 {{% /scripture %}}
 
-{{% /nasb %}}
+{{% /esv %}}
 
-These passages directly teach that there is ranking in heaven. If we were all the same in eternity, it would not be possible to have people who are first and last. QED. 
+These passages directly teach that there is ranking in heaven. If we were all the same in eternity, it would not be possible to have people who are first and last.
 
 ### The parable of the talents and the parable of the minas
 
@@ -69,7 +82,7 @@ These two parables also clearly teach that the level of our reward in eternity i
 
 #### The parable of the talents
 
-{{% nasb h="800px" p="Matthew 25:14-30" %}}
+{{% esv h="800px" p="Matthew 25:14-30" %}}
 
 {{% scripture p="Matthew 25:14-30 | NIV84" %}}
 **14** “Again, it will be like a man going on a journey, who called his servants and entrusted his property to them. **15** To one he gave five talents of money, to another two talents, and to another one talent, each according to his ability. Then he went on his journey. **16** The man who had received the five talents went at once and put his money to work and gained five more. **17** So also, the one with the two talents gained two more. **18** But the man who had received the one talent went off, dug a hole in the ground and hid his master’s money. 
@@ -82,11 +95,11 @@ These two parables also clearly teach that the level of our reward in eternity i
 **28** “ ‘Take the talent from him and give it to the one who has the ten talents. **29** For everyone who has will be given more, and he will have an abundance. Whoever does not have, even what he has will be taken from him. **30** And throw that worthless servant outside, into the darkness, where there will be weeping and gnashing of teeth.
 {{% /scripture %}}
 
-{{% /nasb %}}
+{{% /esv %}}
 
 #### The parable of the minas
 
-{{% nasb h="800px" p="Luke 19:11-27" %}}
+{{% esv h="800px" p="Luke 19:11-27" %}}
 
 {{% scripture p="Luke 19:11-27 | NIV84" %}}
 **11** While they were listening to this, he went on to tell them a parable, because he was near Jerusalem and the people thought that the kingdom of God was going to appear at once. **12** He said: “A man of noble birth went to a distant country to have himself appointed king and then to return. **13** So he called ten of his servants and gave them ten minas. ‘Put this money to work,’ he said, ‘until I come back.’ 
@@ -103,16 +116,44 @@ These two parables also clearly teach that the level of our reward in eternity i
 **26** “He replied, ‘I tell you that to everyone who has, more will be given, but as for the one who has nothing, even what he has will be taken away. **27** But those enemies of mine who did not want me to be king over them—bring them here and kill them in front of me.’ ”
 {{% /scripture %}}
 
-{{% /nasb %}}
+{{% /esv %}}
+
+{{% technical-discussion %}}
+
+#### One heading
+
+In Luke 19:15, the aorist participial phrase λαβόντα τὴν βασιλείαν is modifying the returning master. It is very common to translate circumstantial aorist participles temporally. Here, that would mean that λαβόντα τὴν βασιλείαν would be translated as "after receiving the kingdom." The meaning is also perfectly clear if you keep the participle in English -- "having received the kingdom."
+
+Taking it causally ("because/since he received the kingdom") makes no sense here, and taking it concessively ("although he received the kingdom") doesn't make any sense either.
+
+Any way you look at this verse, then, you can't escape the fact that the returning master of Luke 19:15 receives the kingdom and then judges His servants. 
+
+##### Two heading
+
+In Luke 19:15, the aorist participial phrase λαβόντα τὴν βασιλείαν is modifying the returning master. It is very common to translate circumstantial aorist participles temporally. Here, that would mean that λαβόντα τὴν βασιλείαν would be translated as "after receiving the kingdom." The meaning is also perfectly clear if you keep the participle in English -- "having received the kingdom."
+
+Taking it causally ("because/since he received the kingdom") makes no sense here, and taking it concessively ("although he received the kingdom") doesn't make any sense either.
+
+Any way you look at this verse, then, you can't escape the fact that the returning master of Luke 19:15 receives the kingdom and then judges His servants. 
+
+##### Three heading
+
+In Luke 19:15, the aorist participial phrase λαβόντα τὴν βασιλείαν is modifying the returning master. It is very common to translate circumstantial aorist participles temporally. Here, that would mean that λαβόντα τὴν βασιλείαν would be translated as "after receiving the kingdom." The meaning is also perfectly clear if you keep the participle in English -- "having received the kingdom."
+
+Taking it causally ("because/since he received the kingdom") makes no sense here, and taking it concessively ("although he received the kingdom") doesn't make any sense either.
+
+Any way you look at this verse, then, you can't escape the fact that the returning master of Luke 19:15 receives the kingdom and then judges His servants. 
+
+{{% /technical-discussion %}}
 
 #### Discussion
 
 While these two parables are not identical in all the particulars, they teach more or less the same thing. When interpreting a parable, an important first step is identifying exactly what things in the parable stand for. With this in mind:
 
 - In both these parables, the master represents our Lord, Jesus Christ.
-- In both these parables, the servants represent believers... with the exception of the servant who buries his money and is subsequently thrown into the darkness -- Matthew 25:30 -- for faith without works is dead (that is, not true faith; compare James 2:17).
-- In both these parables, the money given to the servants (us) represents all that God has given to us -- talents/aptitudes, material possessions, opportunities, and so on. (In truth, all we have in life comes from the hand of God, in Whom all things hold together -- Colossians 1:17).
-- In both these parables, the going away of the master represents Christ's ascension to be with the Father -- veiled from our eyes -- and the return of the master represents the second advent of Christ.
+- In both these parables, the servants represent believers. An exception is the servant who buries his money and is subsequently thrown into the darkness (see Matthew 25:30). This servant did not do anything with all that God had given him. As the Bible makes clear elsewhere, faith without works is dead (compare James 2:17). That means faith without works is not true faith at all. (As a sidenote, it is sometimes helpful to put this dead faith in scare quotes when discussing it, as this "faith" can otherwise get confused with actual faith). 
+- In both these parables, the money given to the servants (us) represents all that God has given to us. This would include talents/aptitudes, material possessions, opportunities, and so on. (In truth, all we have in life comes from the hand of God, in Whom all things hold together — Colossians 1:17).
+- In both these parables, the going away of the master represents Christ's ascension to be with the Father in heaven. We can no longer see Christ directly just like the servants in the passage cannot see their master, as he is far away. The return of the master represents the second advent of Christ.
 - In both these parables, the rewards given to the servants after the master's return represent the rewards that will be bestowed upon believers after Christ's second advent in the judgement and reward of the Church.
 
 {{% sidenote %}}
@@ -121,16 +162,40 @@ While these two parables are not identical in all the particulars, they teach mo
 
 While far from the most direct or convincing evidence against the false doctrine of the pre-tribulation rapture, it is nonetheless true that these passages must be explained away if one is to adopt the doctrine of the pre-tribulation rapture.
 
-The doctrine of the pre-tribulation rapture typically postulates some sort of pseudo-return of Christ before the tribulation (at which point the Church is raptured, in the manner of 1 Thessalonians 4:16-17), with the full second advent (the eschatological "coming" or "return" of Christ mentioned in Matthew 24:27, 37; 1 Thessalonians 4:15; and elsewhere -- Greek [παρουσία](https://biblehub.com/greek/3952.htm), parousia) happening before Armageddon at the end of the tribulation. In the intervening period, so the doctrine goes, Christians are spared from the judgements on the world described in Revelation since they are not on Earth but in heaven.
+The doctrine of the pre-tribulation rapture typically holds that there is some sort of pseudo-return of Christ before the tribulation, and that it is at this point that the Church is raptured. (The tribulation is an event in the book of Revelation where the world suffers calamity and judgement as the Antichrist comes to wield and use power. The rapture is an event described in 1 Thessalonians 4:16–17 where living Christians are "caught up" in the air with Christ, and dead Christians are raised).
 
-Accordingly, what supporters of the pre-trib position must explain vis-à-vis these two parables is as follows:
+According to the doctrine, Christ does not fully return at this point. The doctrine holds that the "coming" or "return" of Christ mentioned in Matthew 24:27, 37; 1 Thessalonians 4:15; and elsewhere instead happens before Armageddon at the end of the tribulation. (Armageddon is the final battle where Christ returns in radiant glory to defeat all the armies of the Antichrist). 
 
-- If the return of the master represents this supposed pseudo-return of Christ (such that the judgement and reward of the Church precedes the tribulation), then why is the return in The Parable of the Minas presented as permanent/absolute? (In Luke 19:15, the aorist participial phrase λαβόντα τὴν βασιλείαν, meaning essentially "after receiving the kingdom," is modifying the returning master... would he receive the kingdom if he were not actually returned in full?).
-- If the return of the master represents the actual second advent of Christ -- so that the evaluation of the servants' production described in these parables is happening not at the point of the supposed rapture, but at the point of Christ's full return at the second advent -- then how do you reconcile the fact that the parables present the judgement and evaluation of the servants' production as the first interaction between them and the master (whom they have not seen in a long time), while the doctrine of the pre-tribulation rapture necessitates raptured Christians (servants) being in the presence of their master for *years* before being evaluated?
+{{% technical-discussion %}}
+The word translated as "coming" or "return" in these verses is the Greek word [παρουσία](https://biblehub.com/greek/3952.htm). When the second coming of Christ is mentioned in the New Testament, this is the word that is used. This, along with the observation that there is not anything on the surface that clearly indicates that the usages of παρουσία across verses are referring to different events, is one of the strongest arguments against the doctrine of the pre-tribulation rapture.
+{{% /technical-discussion %}}
 
-In contrast to the above problems, taking the timing of the rapture -- the events described in 1 Thessalonians 4:16-17 -- to be Christ's full second advent (i.e., putting forward only one *parousia* of Christ, at the end of the tribulation) meshes with the parables perfectly: Christ (the master) returns once -- permanently -- and immediately judges the Church (the servants of the parables) based on their production.
+In the period between Christ's pseudo-return/the supposed pre-tribulation rapture and Christ's full return/Armageddon, the doctrine of the pre-tribulation rapture holds that Christians are spared from the judgements on the world described in Revelation since they are not on Earth but in heaven.
+
+Based on all this, what supporters of the pre-trib position must explain in relation to these two parables is as follows:
+
+##### If they take the return of the master to be Christ's supposed pseudo-return before the tribulation
+
+Let us say that the return of the master represents the supposed pseudo-return of Christ put forth by the doctrine of the pre-tribulation rapture. (This would then mean that the the judgement and reward of the Church precedes the tribulation, since in the parables the servants are rewarded at the time when their master returns). The problem with this idea of a pseudo-return is that the return of the master in The Parable of the Minas is presented as permanent/absolute. In Luke 19:15, the master is said to return "after receiving the kingdom." This sounds like something more final and permanent. In other words, people don't receive kingdoms and then immediately leave. But that is exactly what you would have to believe if you identify the return of the master with the pseudo-return of Christ in the the pre-tribulation rapture position.
+
+{{% technical-discussion %}}
+In Luke 19:15, the aorist participial phrase λαβόντα τὴν βασιλείαν is modifying the returning master. It is very common to translate circumstantial aorist participles temporally. Here, that would mean that λαβόντα τὴν βασιλείαν would be translated as "after receiving the kingdom." The meaning is also perfectly clear if you keep the participle in English -- "having received the kingdom."
+
+Taking it causally ("because/since he received the kingdom") makes no sense here, and taking it concessively ("although he received the kingdom") doesn't make any sense either.
+
+Any way you look at this verse, then, you can't escape the fact that the returning master of Luke 19:15 receives the kingdom and then judges His servants. 
+{{% /technical-discussion %}}
+
+##### If they take the return of the master to be Christ's full return before Armageddon
+
+A supporter of the pre-tribulation rapture position might then decide to identify the return of the master in the parable with the full return of Christ before Armageddon rather than with the pseudo-return of Christ before the supposed pre-tribulation rapture. However, there are problems in doing this too! Let us say that the return of the master represents the full return of Christ before Armageddon. (This would then mean that the judgement and reward of the Church happens before Armageddon, since in the parables the servants are rewarded at the time when their master returns). The problem with the interpretation now is related to the timing of the evaluation of the servants/Christians. The parables present the judgement and evaluation of the servants' production as the first interaction between them and the master, a person whom they have not seen in a long time. However, the doctrine of the pre-tribulation rapture necessitates raptured Christians being in the presence of Christ for *years* before being evaluated. (If Christians are raptured before the tribulation starts, and Christ returns before Armageddon at its end, then we have seven years according to Revelation).
+
+##### Conclusion: the rapture must happen at the end of the tribulation, when Christ returns before Armageddon
+
+Neither of the above interpretive issues from the parables are present if you say that the rapture happens at the same time that Christ returns: before Armageddon at the end of the tribulation. (This puts forward a single return of Christ without any prior pseudo-return/pre-tribulation rapture). In this correct interpretation, Christ returns permanently and immediately judges the Church (the servants of the parables) based on their production. (Note that this interpretation means that Christians are on Earth during the judgements of the tribulation. Compare the Israelites in Egypt as God sent the plagues on the Egyptians). 
 
 {{% /sidenote %}}
+
 
 <!--
 

@@ -4,8 +4,9 @@ date: 2020-12-02T07:00:12-05:00
 tags: []
 weight: 
 contentlevel: basic
-writinglevel: higher
 inprogress: true
+summary: >-
+   
 ---
 
 ## Study overview: purpose and scope
@@ -63,23 +64,23 @@ The reason why more needs to be said is because complications arise. How exactly
 
 #### The importance of context in determining meaning
 
-#### Areas of supplemental knowledge
+### Areas of supplemental knowledge
 
 Brief surveys regarding the impact that specialized knowledge has on interpretation.
 
-##### Greek, Hebrew, and Aramaic
+#### Greek, Hebrew, and Aramaic
 
-##### Textual criticism
+#### Textual criticism
 
-##### Ancient history and culture
+#### Ancient history and culture
 
 Hebrew, Greek, Roman, Babylonian, etc.
 
-##### Church history
+#### Church history
 
-##### Systematic theology
+#### Systematic theology
 
-##### Historical theology
+#### Historical theology
 
 ### Teachers within the Church
 
