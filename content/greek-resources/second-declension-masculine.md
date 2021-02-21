@@ -3,11 +3,14 @@ title: Second Declension Masculine
 date: 2020-09-12
 tags: []
 weight: 4
+inprogress: false
+summary: >-
+   A "declension" is a collection of nouns that share endings and behavior. In Greek, nouns can be masculine, feminine, or neuter. Many feminine nouns are in the first declension, and many masculine and neuter nouns are in the second declension. Since there are four subtypes of first declension feminine nouns (having four sets of endings to memorize) but only one set of forms to learn for second declension masculine nouns, that is why we start with second declension masculine nouns. This page also introduces the masculine forms for the Greek definite article.
 ---
 
 ## Characteristics of Greek substantives
 
-Substantives encompass the classes nouns, adjectives, and pronouns (which go with nouns and pronouns).
+Substantives encompass the classes nouns, pronouns, and adjectives (which go with nouns and pronouns).
 
 Greek substantives have three primary characteristics: gender, number, and case. Adjectives *always* match the nouns or pronouns they go with in all three of these things.
 
@@ -61,7 +64,7 @@ Things in the accusative case can:
 
 Things in the vocative case can:
 
-1. Be direct address: "<u>O God</u>, come to my assistance; <u>O Lord</u>, make haste to help me" (Psalm 69:2).
+1. Be direct address: "Save me, <u>O God</u>, for the waters have come up to my neck" (Psalm 69:1).
 
 ## The masculine forms of the Greek definite article
 
@@ -89,7 +92,7 @@ Endings:
 
 Notice the similarities to the definite article forms.
 
-When learning the vocab for nouns in Greek, you have to memorize both the nominative and genitive forms. To get the root of the noun (what you end the endings to), you chop off the genitive ending. For example, for the word λόγος in Greek, which means "word" (among other things), you would memorize ὁ λόγος, τοῦ λόγου (the nominative and the genitive, with the definite article indicating the noun's gender). To get the root we chop off the genitive ending, giving us λόγ-. Thus, we have:
+When learning the vocab for nouns in Greek, you have to memorize both the nominative and genitive forms. To get the root of the noun (what you add the endings to), you chop off the genitive ending. For example, for the word λόγος in Greek, which means "word" (among other things), you would memorize ὁ λόγος, τοῦ λόγου (the nominative and the genitive, with the definite article indicating the noun's gender). To get the root we chop off the genitive ending, giving us λόγ-. Thus, we have:
 
 |                | Singular | Plural |
 | -------------- | -------- | ------ |

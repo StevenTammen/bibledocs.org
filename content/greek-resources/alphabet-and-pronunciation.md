@@ -3,6 +3,9 @@ title: Alphabet and Pronunciation
 date: 2020-08-08T10:21:05-04:00
 tags: []
 weight: 1
+inprogress: false
+summary: >-
+   Many English letters can actually be traced back to the Greek alphabet. However, even though some things (especially capital letterforms) look similar, there are still plenty of things that will be unfamiliar. Aside from learning how to write individual letters in the Greek alphabet and how to pronounce them, this page also discusses digraphs (single vowel sounds written with two vowels), diphthongs (compare the "oy" sound in "boy"), and other peculiarities, like so-called breathings, sigmas changing form at the ends of words, and so on.
 ---
 
 ## Initial background information

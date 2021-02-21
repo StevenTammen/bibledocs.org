@@ -1,5 +1,5 @@
 ---
-title: Greek resources
+title: Greek Resources
 date: 2020-09-04
 ---
 
