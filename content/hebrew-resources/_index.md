@@ -1,5 +1,5 @@
 ---
-title: Hebrew resources
+title: Hebrew Resources
 date: 2020-09-04
 ---
 
