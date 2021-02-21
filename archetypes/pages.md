@@ -4,6 +4,8 @@ date: {{ .Date }}
 tags: []
 weight: 
 contentlevel: 
-writinglevel: 
+inprogress: false
+summary: >-
+   
 ---
 
