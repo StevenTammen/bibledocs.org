@@ -1,6 +1,11 @@
 ---
 title: Why I Use Logos Bible Software
+date: 2020-09-04
+tags: []
+weight: 
 writing-only: true
+summary: >-
+   So, you've decided to start doing Bible study on the computer, and you are willing to spend some money on resources rather than just sticking with free options. But what Bible software program should you use and buy resources in? I don't pretend to be able to answer this definitively in any capacity (different people have different needs and desires, after all), but this page does set out to explain why I ended up settling on Logos Bible Software rather than one of the other alternatives.
 ---
 
 ## Free Bible software vs. paid Bible software
@@ -17,7 +22,7 @@ The question, then, is which picture frame is best?
 
 Since [BibleWorks](https://www.bibleworks.com/) closed its doors in 2018, the main three paid Bible software options are [Logos](https://www.logos.com/), [Accordance](https://www.accordancebible.com/), and [OliveTree](https://www.olivetree.com/). There are various other options, but these three are the biggest with most users (important for long-term availability; compare the demise of BibleWorks above) and most overall functionality (including apps for all major desktop and mobile operating systems).
 
-Note that whichever program you pick, I recommend steering away from large collections/base packages (e.g., [these](https://www.logos.com/compare-packages) in Logos, [these](https://www.accordancebible.com/Collections-Comparison) in Accordance). Under the pretense of getting a good deal, these marketing ploys in reality get you a few good resources and a whole lot of things that are mostly useless (such as expensive commentary collections). The better approach is to only buy those things that you will actually use; you should have a clear and defined reason for purchasing each and every resource you buy. Note that even if you buy the complete set of resources I personally use ([as detailed on the Resource Index page](/site/resource-index); not at all needed for the vast majority of all Christians who are not teachers), you will still come out money ahead relative to many of these large collections, and will have a much, much more useful reference library.
+Note that whichever program you pick, I recommend steering away from large collections/base packages (e.g., [these](https://www.logos.com/compare-packages) in Logos, [these](https://www.accordancebible.com/Collections-Comparison) in Accordance). Under the pretense of getting a good deal, these marketing-heavy options in reality get you a few good resources and a whole lot of things that are mostly useless (such as expensive commentary collections). The better approach is to only buy those things that you will actually use; you should have a clear and defined reason for purchasing each and every resource you buy. Note that even if you buy the complete set of resources I personally use ([as detailed on the Resource Index page](/site/resource-index); not at all needed for the vast majority of all Christians who are not teachers), you will still come out money ahead relative to many of these large collections, and will have a much, much more useful reference library.
 
 ## Why I use Logos rather than alternatives
 
