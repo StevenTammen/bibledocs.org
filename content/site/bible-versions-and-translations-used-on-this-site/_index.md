@@ -4,6 +4,8 @@ date: 2021-01-10T20:33:55-05:00
 tags: []
 subsection: writing-and-content
 weight: 70
+summary: >-
+   What Bible versions and translations does this site make use of, and why? For the most part, all modern translations are quite trustworthy, but I especially like those that focus on readability and understandability in English (even if they aren't so flashy): the 1984 NIV, the ESV (for adults); the NIrV (for children and non-native English speakers). The NASB is good to use in interlinears since it is easier to see how the original Hebrew and Greek map onto it. Occasionally, when it seems to me like conventional translations have missed the mark (or if I just want to emphasize and/or clarify some points) I will translate from the original languages myself. These original translations are clearly marked out and labeled.
 ---
 
 ### Translation sources

@@ -4,74 +4,117 @@ date: 2021-01-10T20:32:33-05:00
 tags: []
 subsection: writing-and-content
 weight: 50
+summary: >-
+   On this site, content level tries to classify content by its level of spiritual difficulty, while writing level tries to classify content by how difficult its writing is to read (in terms of, for example, prose difficulty and vocabulary complexity). This page describes how this site makes use of its two writing levels (higher and lower), and also describes technical discussion sections, which are probably the defining feature of higher level writing.
 ---
 
-### Writing level
+For this site, [content level](/site/content-level) measures "spiritual difficulty level," while writing level measures how difficult the writing is for someone to read. If you have heard the term "reading level" (e.g., "her daughter reads at a 4th grade reading level"), then you are on the right track. The [Lexile system](https://en.wikipedia.org/wiki/Lexile) is one formal implementation of the concept.
 
-This site also tries to account for varied reading levels by offering two levels of writing that are different in terms of technical complexity and prose difficulty.
+I think using the term "reading level" for written content is confusing -- reading level is a property of human readers, not writing. I have thus opted to use the term "writing level" to denote the level at which content is written.
 
-The higher level of writing on this site:
+For example, let's say an article has a 9th grade *writing* level. Alice reads at a 11th grade *reading* level, so probably wouldn't have problems reading the article. Bob reads at an 8th grade reading level, and could probably read the article if he took his time and looked up words he didn't know (and so on). Charlie reads at a 5th grade reading level, and would probably find the article too difficult.
 
-* Contains [technical discussion sections](#technical-discussion) centering around points of Greek and Hebrew grammar and lexicography, scholarly arguments about textual issues, difficult topics in biblical archaeology, and so forth.
-* Has more complicated sentence structure and lots of stylistic variation, with many subordinate clauses, parenthetical statements, and complex flows of ideas.
-* Is written formally in a rather high speech register. Perhaps the best way to put is that I actually unironically use words like notwithstanding, moreover, and furthermore.
-* Is rather unrestrained in vocabulary usage and usage of foreign borrowings like the Latin phrases *par excellence* and *sine qua non*, the French *raison d'être* and *hors de combat*, and other things like this.
-* Is rather unrestrained in usage of idioms.
-* Does not spend any time defining terms unless doing such is necessary to avoid ambiguity or connotational baggage.
+## Higher and lower writing levels on this site
 
-While the lower level of writing on this site:
+While some systems have many different levels, this site only employs two writing levels: higher and lower.
 
-* Completely omits [technical discussion sections](#technical-discussion), and has a noticeably lower level of technical complexity. Writing glosses over a lot of the details in lieu of simpler explanations: "A Greek word taken by many to mean X actually means Y once you dig into it a bit more. This has Z implications."
-* Has much simpler overall sentence structure. Writing contains mostly simple sentences, or two independent clauses joined by "and" or "but". Avoids complex subordinate clauses, lots of parenthetical statements, and other things of this sort.
-* Is written informally in a more conversational speech register. This doesn't necessarily mean that the writing isn't rigorous, just that it doesn't sound so academic and stuffy.
-* Is noticeably more muted in vocabulary usage and usage of foreign borrowings. Generally tries to avoid less-common and/or longer words and instead use more common and/or shorter words, to bring the overall reading level down.
-* Tries to avoid idioms to make the writing easier for foreign readers to grasp.
-* Spends more time defining terms rather than taking definitional knowledge for granted.
+There are two (and essentially only two) differences between the higher writing level and the lower writing level on this site:
 
-Even in the higher level of writing, I do try to avoid truly arcane words and academic abbreviations. The idea isn't to write in an overly erudite or scholastic manner, but simply to offer a higher level of writing for those that can handle it.
+- The lower writing level uses a Bible version written at a lower level ([the NIrV](https://en.wikipedia.org/wiki/New_International_Reader%27s_Version)) in quoting scripture.
+- The lower writing level omits [technical discussion sections](/site/special-content-sections/#technical-discussion), while the higher writing level includes them.
 
-You can switch between the higher level version of a page and lower level version of a page by using the links in the menu sidebar titled, most creatively, "Higher level version" and "Lower level version." By default, the links on list pages across the site will be to the higher level versions of content, but you can make list pages default to the lower level versions of content by choosing the lower writing level [on the settings page](/settings/#writing-level).
+I take pains to keep difficult writing contained within the technical discussion sections. In these sections the writing -- out of necessity -- is more involved: to handle things as they really are, there is only so much simplification that can be done.
 
-#### Writing level and length
+### Technical discussion sections
 
-As a natural result of glossing over some of the details, the lower level versions of pages end up being shorter than the higher level versions. As [described above](#focused-and-to-the-point), all writing on this site strives for a high degree of focus and clarity (i.e., the higher level versions aren't overly verbose to begin with), but it is nonetheless true that the lower level versions of pages are even further reduced in length.
+If I do my job properly, the technical discussion sections should be cleanly removable, meaning if you completely ignore them, the rest of the writing should flow perfectly, as if things were written without any technical discussion to begin with. There will not be any errant references to things mentioned in technical discussion sections in the rest of the text. Depending on how important I think the material is for a general audience to know, sometimes the points that the technical discussion sections make in full technical depth will be summarized in simple, plain words in the normal body text. If this is not the case (I do not summarize the points from the technical discussion section in the main text), then all this means is that I don't think non-technical people need to concern themselves with the content from the technical discussion section. Whether I summarize the points from the technical discussion section or not, then, those reading the material at the lower writing level (that omits technical discussion sections) will never be deprived of information that would be useful for them.
 
-Given the people groups that the lower level pages are targeting, this is generally a very good thing. Children only have so much attention, for example, and people for whom English is a second (or third, etc.) language will greatly appreciate having less content overall to wade through.
+### The rest of the writing on the site
 
-#### Writing level and Bible versions used in quotations
+While the technical discussion sections contain writing that is as complicated as it needs to be to get the necessary information across (but no more than this), the rest of the writing on the site is written with an eye towards maximizing accessibility. Here's some examples of the steps taken to make the writing accessible:
 
-The Bible versions and translations used on this site [are discussed below](#bible-versions-and-translations-used-on-this-site). While you can read more about all this there (including much more of "the why"), I do use different Bible versions for the two different writing levels:
+- The writing uses much simpler overall sentence structure: simple sentences, two simple independent clauses joined by "and" or "but," sentences with only one dependent and one independent clause, etc. As a rule of thumb, the writing tries to avoid piling on complex subordinate clauses, using an abundance of parenthetical statements in the same sentence, and other things of this sort.
+- The writing is more informal in tone, employing a more conversational speech register. This doesn't necessarily mean that the writing isn't rigorous, just that it doesn't sound so academic and stuffy.
+- The writing is noticeably muted in vocabulary usage and usage of foreign borrowings (like, for example, *sine qua non* from Latin or *c'est la vie* from French). I will generally try to avoid less-common and/or longer words and instead use more common and/or shorter words, to bring the overall level down.
+- As a general principle, the writing tries to avoid less-known idioms (actually, most idioms altogether) to make things easier for foreign readers to grasp.
+- The writing often takes the time to define terms rather than taking definitional knowledge for granted.
+- Etc.
 
-- The higher level versions tend to quote from the ESV (embedded STEP Bible windows) and NIV84 (plain quotes).
-- The lower level versions tend to quote from the ESV (embedded STEP Bible windows) and NIrV (plain quotes).
+### Recommended usage
 
-#### What are the benefits of higher level writing?
+Because content written at the higher writing level contains the more difficult technical discussion sections, it is in fact more challenging to read. However, since the technical discussion sections are kept as approachable as their subject matter allows for, and the rest of the writing highly emphasizes accessibility, I think many adults will be fine reading all the content at the higher writing level. (Going slower through the technical discussion sections may help. They are also simple to skip due to their easily-identifiable orange background color -- see [Special Content Sections](/site/special-content-sections)).
 
-The benefits of writing at a lower level are fairly straightforward: more people will be able to make use of the materials (including folks lacking substantial education, children, non-native English speakers, and so on). Even advanced people can make use of materials written at a lower level with simpler sentence structure, vocabulary, and so on. So why not only offer things at a lower level of writing and save the time of keeping up with two different versions for all the content? What does higher level writing get us?
+Folks without much education, non-native English speakers, and children will probably be better served by the lower writing level.
 
-Well, why stop here? Why should English (much less language in general) have multiple words with overlapping meaning? Why even bother with complex sentence structure when we could just use sentences with single independent clauses for everything? Why doesn't everyone just write to the lowest common denominator? After all, this would enable the most people to read and understand the writing.
+### Justification for this way of doing things
 
-Here's a couple reasons:
+#### Offering only one level of writing rather than two or more saves me lots of time
 
-* Higher level writing allows for more specificity, nuance, and subtlety in communication (as mediated by rich vocabulary usage, for example). This is why you will *never* find academic papers written at a low level -- because you "gain communicative power" (in a manner of speaking) from writing at a higher level, as long as your readers have enough education to keep up.
-* For people that can handle it, higher level writing is much more engaging and much less boring to read.
+This site does not maintain two completely separate content versions at the two different writing levels because maintaining multiple versions of the content takes a lot of time, and the marginal benefit is rather low. When initially producing materials for this ministry website, I actually started out maintaining two separate versions for all content pages. It didn't take me very long to realize that the time opportunity cost was far too great for this approach to actually be practical.
 
-This second one is very important. When people's mental faculties are being stretched, they have better directional attention; the important bit is not *over*-stretching one's capabilities. People lacking substantial education, children, and non-native English speakers will have a noticeably lower reading level than an American college graduate at the top of their class, for example. While the former groups of people might need to squint in concentration in reading lower level writing (their minds busy processing more foundational things like sentence structure and parts of speech -- especially for non-native English speakers), lower level writing presents little novelty and diversity for well-educated people with a higher reading level. It holds their attention less well than writing with more stylisic variation and rich vocabulary, in other words, and this is an actual problem.
+The benefits of writing at a lower level are fairly straightforward: more people will be able to make use of the materials. The benefits of writing at a higher level are much less straightforward. To a degree, being able to use a wider vocabulary lets you be more precise in your speech, but I think the benefits from this are not all that impressive as long as the accessible level you write most of your material at isn't ridiculously low (like a 3rd grade level) such that your vocabulary is overly crippled. Lower-level writing is also much plainer and less rhetorically impressive, which I suppose would be a problem if the point of Bible teaching were to wow people rather than teach them.
 
-#### Why only two levels, and not more?
+With lots of apparent benefit in keeping most writing at a lower level and little apparent benefit in having writing at a higher level, the question becomes one of harm: are there big disadvantages for advanced readers in having most writing at a lower level? The answer, to me, seems like a pretty clear no. People with a higher reading level can make use of materials written at a lower writing level (with simpler sentence structure, vocabulary, and so on) without any issue at all. Again, the fact that the material isn't rhetorically sophisticated or flashy shouldn't itself be an issue... for all parties legitimately interested in the truth (rather than, say, entertainment). This is not to say that the writing will be made intentionally boring, but simply that lower-level writing's plainness is of very little true consequence due to the fact that Bible teaching's primary (and really, only) purpose is clearly conveying the truth.
 
-Short answer: because maintaining multiple versions of the content takes a lot of time, and the marginal benefit of any additional writing levels after the first two is not worth this time opportunity cost.
+These considerations are why the writing level on this site is as low as possible wherever possible.
 
-Arguably, it might be nice to have higher level writing without technical explanation (instead glossing over the details) and/or lower level writing with technical explanation written at the same lower level (simpler sentence structure, more restrained vocabulary usage, etc.). The reason why these options don't exist is because they aren't nearly as likely to be relevant as the two permutations that are actually used: the people likely to be interested in technical discussion are probably going to have enough education to be able to handle the higher level of writing, and the people reading the lower level of writing probably aren't going to care about technical minutiae.
+#### This way of doing things gives all actually common types of readers a good experience
 
-If time were no factor then I *would* offer even more levels. But time is a factor, so I don't.
+There are four possible types of readers, classified based on what kind of writing level will best suit them and whether or not they want to read technical discussion:
 
-#### At which writing level should I read?
+|                                              | Can handle higher-level writing                     | Need lower-level writing                         |
+| -------------------------------------------- | --------------------------------------------------- | ------------------------------------------------ |
+| **Do not want to read technical discussion** | Type 1 - Average lay Christians                     | Type 2 - Folks without a very high reading level |
+| **Want to read technical discussion**        | Type 3 - Bible teachers and advanced lay Christians | Type 4 - Highly-motivated lower-level readers    |
 
-There is not really a pat answer to this question, although most people with any degree of higher education should be able to handle the higher level writing on this site without too much trouble. Additionally, if you know you want to get into the nitty-gritty technical details, those only show up in the higher level writing (although all technical discussion is marked out in [special content sections](#special-content-sections) so is easy to avoid if you aren't interested in it).
+For this system of differentiated writing levels to be effective, it needs to meet the needs of the vast majority of people. The question thus becomes which of the types are actually common?
 
-While I would tend to steer people without any higher education towards the lower level writing so that dense prose doesn't get in the way of the Bible teaching for them, some of these folks will be just fine reading the higher level writing -- after all, formal education is not everything. The same can be said of children -- some kids read far above the level generally expected of them. Kids learn fast anyhow.
+##### Type 1 - Average lay Christians - very common
 
-The only real hard recommendation I can make is that non-native English speakers stick with the lower writing level until they are quite confident of their ability. English is a very difficult foreign language to pick up because of its large vocabulary and lack of predictability/consistency.
+*Writing level setting: higher-level writing*
 
-Just as with [figuring out what content level(s) to focus on](#what-content-level-s-should-i-focus-on), personal experimentation is a good idea.
+The largest class of people by far, average lay Christians by and large will not want to read technical discussion, and will thus be happy to just read the main points summarized in the body text, as appropriate.
+
+The way I do things works fine for these people: they can just skip orange sections in the text when they see them (or skim them to see if there's anything of interest to take a closer look at). Scripture references will all still be in a normal readable version (NIV84 or ESV).
+
+##### Type 2 - Folks without a very high reading level - common
+
+*Writing level setting: lower-level writing*
+
+People without a very high reading level fall into three primary categories: people without a lot of education, non-native English speakers, and children. All three of these groups will benefit from the accessible writing that this site strives for in the main body text.
+
+The question then becomes do these folks generally want to read technical discussion sections? The answer for all three groups is no, not typically. Why?
+
+- **People without a lot of education**: if people have not had the educational opportunities in their lives to attain to a higher reading level (and there is absolutely no shame in this, to be clear), they are going to struggle with the more advanced topics in technical discussion sections. There is no way around it.
+- **Non-native English speakers**: non-native English speakers who need a lower writing level are not at a level of reading fluency where adding more domain-specific vocabulary and complex ideas is a good idea. Even if I were to go to great pains to make the technical discussion sections easier overall, I would not be able to completely solve both of these concerns when handling technical topics.
+- **Children**: most children are very much like non-native English speakers in their reading fluency. Thus, in the same way, adding more domain-specific vocabulary and complex ideas will not typically be a good thing for them.
+
+##### Type 3 - Bible teachers and advanced lay Christians - common
+
+*Writing level setting: higher-level writing*
+
+As a general rule of thumb, all those people who are going to be actually reading the technical discussion sections on this site are not going to struggle unduly with the higher-level writing therein. In fact, since I take pains to make even these sections as accessible as possible given their content, the bar of entry is much lower here than in reading academic research in Biblical Studies journals, for example.
+
+##### Type 4 - Highly-motivated lower-level readers - not common at all
+
+*Writing level setting: N/A*
+
+This brings us to the fourth type of person: those wishing to read at a lower writing level while also reading technical discussion sections. In how this site does things, these people are out of luck: there is no possibility of reading technical discussion sections at a lower writing level.
+
+As I've already discussed, I do take pains to make the technical discussion sections as accessible as their topics allow for. This means that the hypothetical even-lower-level of writing we're talking about here would be the same level as main body content. To get writing covering technical topics at that level, I would have to go through great verbal gymnastics, and would probably end up covering the material somewhat poorly. It would be like trying to teach someone Calculus without being able to say the words "limit", "derivative", and "integral."
+
+All the same, I *could* spend time to make separate lower-level versions of technical discussion sections for this very small class of people. I decided against doing this for the same reason I don't maintain two writing levels for all writing in general: the time opportunity cost means this practice is simply not worth it.
+
+Sorry highly-motivated lower-level readers!
+
+##### Conclusion
+
+The way this site does things works very well for Type 1 people (average lay Christians), Type 2 people (folks without a very high reading level = people without a lot of education, non-native English speakers, and children), and Type 3 people (Bible teachers and advanced lay Christians). These three types of people together represent the vast majority of all possible readers.
+
+Thus, the fact that this site's behavior doesn't account for Type 4 readers is of little consequence, since the total number of Type 4 readers is vanishingly small.
+
+## Switching between higher-level and lower-level versions of writing on the site
+
+You can switch between the higher-level version of a page and lower-level version of a page by using the links in the menu sidebar titled, most creatively, "Higher-level version" and "Lower-level version."
+
+If you want to globally prefer the higher-level versions of content or lower-level versions of content (such that every time you open a new page, it will open at your preferred writing level), you can set your preference [on the settings page](/site/settings/#writing-level). By default, the site defaults to showing the higher-level versions.

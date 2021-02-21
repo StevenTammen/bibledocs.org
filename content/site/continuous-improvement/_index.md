@@ -4,6 +4,8 @@ date: 2021-01-10T21:45:52-05:00
 tags: []
 subsection: writing-and-content
 weight: 20
+summary: >-
+   Throughout much of history, writing was distributed via static publishing of books. Far from being a problem at the time, the invention of the printing press democratized literacy, and, among other things, made the Bible available in everyday spoken languages like German and English (rather than High Church Latin). Nowadays, however, we are at another inflection point. Continuous deployment of writing on the internet allows for global, instantaneous updating of published content, so that it is always kept completely up-to-date. This page describes this site's content in terms of this concept. 
 ---
 
 ## Formalization of the concept in terms of Bible teaching
@@ -12,9 +14,9 @@ I view the teaching on this site as a perpetual "work in progress" rather than a
 
 ### The circling bird of prey analogy
 
-While it would be great if teachers got everything perfect the very first time, the truth of the matter is that spiritual growth is a constant process that never ends (even for us as teachers). As a visual analogy, this is rather similar to how a bird of prey might circle in closer and closer to their target: we as Christians progressively circle in closer to the truth over time.
+While it would be great if Bible teachers got everything perfect the very first time, the truth of the matter is that spiritual growth is a constant process that never ends (even for us as teachers). As a visual analogy, this is rather similar to how a bird of prey might circle in closer and closer to their target: we as Christians progressively circle in closer to the truth over time.
 
-This side of heaven, we will never truly understand things fully. Yet as we continually improve over time, the  gap between where we are and where we were can in fact yawn quite wide.
+This side of heaven, we will never truly understand things fully. Yet as we continually improve over time, the gap between where we are and where we were can in fact yawn quite wide.
 
 ### The point is that improvement never stops
 

@@ -4,6 +4,8 @@ date: 2021-01-10T20:31:24-05:00
 tags: []
 subsection: writing-and-content
 weight: 30
+summary: >-
+   This site offer various types of content that differ from one another in topics covered, organizational structure (for example, overall length), or both. This page describes all eight content types this site uses.
 ---
 
 ## Topical studies

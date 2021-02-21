@@ -4,6 +4,8 @@ date: 2021-01-10T16:10:15-05:00
 tags: []
 subsection: community
 weight: 20
+summary: >-
+   In local assemblies, the concept of community is rather straightforward. Here on the wild west of the internet, however, things are a bit less certain. Privacy and security are real concerns, along with keeping the sheep-dressed wolves at bay. While I thought long and hard about having a completely public online community, no matter how I turned things around in my head, keeping things invite-only is more desirable, as it preserves almost all of the benefits of community while sidestepping the worst of the problems. For this reason, this ministry runs invite-only forums. This page explains these invite-only forums in more depth.
 ---
 
 Link to forums for those already registered: <https://community.steventammen.com/>

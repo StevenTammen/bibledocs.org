@@ -4,6 +4,8 @@ date: 2021-01-10T20:25:12-05:00
 tags: []
 subsection: community
 weight: 30
+summary: >-
+   All members of the Body of Christ need one another, as 1 Corinthians 12 makes clear. The question then becomes how is it best to connect believers with one another over the internet? I have adopted the approach of personally linking up contacts of this ministry with one another, largely because this preserves privacy to the highest degree, and also allows me to leverage the knowledge of contacts I have to make better connections than the connections a public directory (without me involved) would yield in practice. The general idea is this: whenever someone comes to me seeking advice (spiritual or otherwise) in areas that I don't personally have expertise and experience in, I try to route them to contacts of this ministry who are better-equipped than myself to help them.
 ---
 
 ## Overview
@@ -63,8 +65,7 @@ You are always free to email me to see if I know anyone who lives near you. If s
 
 I personally maintain a private address book containing the names, expertise/background and/or interests, and contact info for various people who are readers or contacts of this ministry. This (not publicly visible) address book serves as the basis for this contact network.
 
-It is not public for several reasons:
+It is not public for two primary reasons:
 
 1. It is important to me to protect the privacy of others.
-2. My role as middleman is for more than show. Part of a pastor-teacher's job within the Body of Christ is foreseeing hazards and potential dangers relating to the spiritual health of their flock, and then taking steps to neutralize them. Among other things, this involves having an eye for whom it is good to connect with whom, rather than absolutely always making the connection. This isn't necessarily because the people involved are bad actors (although wolves in sheep's clothing are always a threat to the Church), but more because making the introduction for two sheep with a habit of wandering off in the weeds is likely to lead to mischief and mayhem, not maturity.
-3. Even if I were to publicly display information about all my contacts, I know them better than any short description could capture. This means that I have a better chance of making good connections than third parties would themselves, were they to peruse a public directory with contact info. In this way, while having the directory be public might remove me from the equation and lead to somewhat fewer boilerplate permission-seeking emails, the end result would not be as good, all said and done.
+2. Even if I were to publicly display information about all my contacts, I know them better than any short description could capture. This means that I have a better chance of making good connections than third parties would themselves, were they to peruse a public directory with contact info. In this way, while having the directory be public might remove me from the equation and lead to somewhat fewer boilerplate permission-seeking emails, the end result would not be as good, all said and done.

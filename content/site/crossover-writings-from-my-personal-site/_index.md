@@ -4,7 +4,8 @@ date: 2021-01-10T20:28:01-05:00
 tags: []
 subsection: writing-and-content
 weight: 100
-
+summary: >-
+   I try to keep this site focused on actual Bible teaching and high-level discussion of application. However, I write about a lot of other things that people might find useful on my personal website (StevenTammen.com): Productivity and Efficiency, Gear, Software, Exercise, Nutrition, Health, Finances, and more.
 ---
 
 {{% sidenote %}}
@@ -20,14 +21,13 @@ Think about it this way: there are only so many resources (like time, energy, mo
 
 It is for this reason that I view this other website of mine as part of my service to the Church, even though a lot of the content is not overtly spiritual. I have been fascinated with efficiency for a long time now (I studied industrial engineering, which is all about process efficiency, for a time at Georgia Tech), and have put a lot of thought into things over the years. Readers of this ministry may find the contents of this other website of mine to be helpful. Here's some of the things I write about on this other site:
 
-* Productivity and efficiency (including, notably, the fields of meta-learning, organization, and goal-setting)
+* Productivity and Efficiency (including, notably, the fields of meta-learning, organization, and goal-setting)
 * Gear (making wise decisions in regards to purchasing physical products, in order to live lives that effectively balance comfort, minimalism, and frugality)
 * Software (making full use of all the capabilities computers have to offer)
 * Exercise (boosting mood, energy levels, and metabolism by working out)
 * Nutrition (eating a healthy and well-balanced diet to keep our bodies running smoothly)
 * Health more generally (strategies for dealing with stress, improving sleep, dealing with mental health challenges, and so on)
-
-<!-- Eventually (?): Finances -->
+* Finances (avoiding unnecessary expenses, minimizing debt, practicing purchasing habits that give you the most value per dollar, and so on)
 
 None of these things are any replacement for Bible teaching, but since these topics are relevant to living more generally, my hope is that improvements in these areas can help people sink more resources into spiritual matters.
 

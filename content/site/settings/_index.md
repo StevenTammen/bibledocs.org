@@ -13,29 +13,32 @@ As explained at [/about-the-site/#level-appropriate](/about-the-site/#level-appr
 
 While you can always go back and forth between the higher level version and lower level version for an individual page using the page level link found in the menu sidebar, most users will probably mostly be looking at content of the same level across pages. For this reason, you can set the writing level here globally, and all content lists across the site will then default to your chosen writing level.
 
-<div id="writingLevelContainer">
+<div id="writingLevelContainer" class="settingsContainer">
 	<div id="writingLevelDisplay"></div>
-	<div><input id="higherLevel" onclick="javascript:toHigherWritingLevel();" type="button" value="View only higher level writings" /></div>
-	<div><input id="lowerLevel" onclick="javascript:toLowerWritingLevel();" type="button" value="View only lower level writings" /></div>
+	<div><input id="higherLevel" onclick="javascript:toHigherWritingLevelOption();" type="button" value="View only higher level writings" /></div>
+	<div><input id="lowerLevel" onclick="javascript:toLowerWritingLevelOption();" type="button" value="View only lower level writings" /></div>
 </div>
 
 <style>
-	#writingLevelContainer {
+	
+	.settingsContainer {
 		border: 1px solid black;
 		border-radius: 5px;
+	}
+	
+	.settingsContainer > div {
+		padding: 10px;
+	}
+
+	.settingsContainer {
+		font-weight: bold;
 	}
 	
 	#writingLevelContainer input {
 		width: 240px;
 	}
 	
-	#writingLevelContainer > div {
-		padding: 10px;
-	}
 
-	#writingLevelDisplay {
-		font-weight: bold;
-	}
 </style>
 
 Keep in mind that if you clear your browser cookies, your preferences here will be lost, and you'll have to select them again.
@@ -46,38 +49,42 @@ As explained at [/about-the-site/#step-bible-app-embedded-windows](/about-the-si
 
 While you can always go back and forth between these two display options using the page level link found in the menu sidebar, most users will probably mostly be interested in having the same display preference active across pages. For this reason, you can set the display option here globally, and all pages across the site will then default to your chosen scripture display setting.
 
-<div id="scriptureDisplayContainer">
+<div id="scriptureDisplayContainer" class="settingsContainer">
 	<div id="scriptureDisplayDisplay"></div>
-	<div><input id="embedded" onclick="javascript:toEmbeddedDisplay();" type="button" value="View scripture in embedded windows" /></div>
-	<div><input id="plaintext" onclick="javascript:toPlaintextDisplay();" type="button" value="View scripture in plain text" /></div>
+	<div><input id="embedded" onclick="javascript:toEmbeddedDisplayOption();" type="button" value="View scripture in embedded windows" /></div>
+	<div><input id="plaintext" onclick="javascript:toPlaintextDisplayOption();" type="button" value="View scripture in plain text" /></div>
 </div>
 
 <style>
-	#scriptureDisplayContainer {
-		border: 1px solid black;
-		border-radius: 5px;
-	}
-	
 	#scriptureDisplayContainer input {
 		width: 280px;
-	}
-	
-	#scriptureDisplayContainer > div {
-		padding: 10px;
-	}
-
-	#scriptureDisplayDisplay {
-		font-weight: bold;
 	}
 </style>
 
 Keep in mind that if you clear your browser cookies, your preferences here will be lost, and you'll have to select them again.
 
+## Show or hide all summaries on list pages
+
+By default list pages show summaries for all the content pages they link to. This is advantageous since you can use these to get an idea of what each content page is about, but disadvantageous in that less overall links can be displayed at once. If you would prefer to have the summaries hidden by default (although still viewable on a link-by-link basis by clicking on the plus button to the right of any link's title), you can select such below.
+
+<div id="summariesPreferenceContainer" class="settingsContainer">
+	<div id="summariesPreferenceDisplay"></div>
+	<div><input id="embedded" onclick="javascript:toShowingSummariesOption();" type="button" value="View summaries on list pages" /></div>
+	<div><input id="plaintext" onclick="javascript:toHidingSummariesOption();" type="button" value="Hide summaries on list pages" /></div>
+</div>
+
+<style>
+	#summariesContainer input {
+		width: 280px;
+	}
+</style>
+
+Keep in mind that if you clear your browser cookies, your preferences here will be lost, and you'll have to select them again.
+
+
 ## Reftagger settings
 
 You can use the below control panel to change settings relating to the verse tagging used on this site. Of particular note, you can change the Bible version used, as well as toggle whether or not you include links to Logos Bible Software in the tagging. If you do, clicking on the L in the box next to a link will open the tagged passage in Logos. This is very useful if you are a user of Logos (but if you are not, it reduces visual clutter to disable this option, which is why it is off by default).
-
-Keep in mind that if you clear your browser cookies, your preferences here will be lost, and you'll have to select them again.
 
 <!-- Reftagger Control Panel -->
 <div id="lbsRefTaggerCP" style="border: 1px solid black; border-radius: 5px;">
@@ -115,6 +122,7 @@ Keep in mind that if you clear your browser cookies, your preferences here will 
 </div>
 <!-- End RefTagger Control Panel. For more info visit https://faithlife.com/products/reftagger. -->
 
+Keep in mind that if you clear your browser cookies, your preferences here will be lost, and you'll have to select them again.
 
 
 <script type="text/javascript">
@@ -141,12 +149,12 @@ Keep in mind that if you clear your browser cookies, your preferences here will 
 	  return "";
 	}
 
-	function toHigherWritingLevel() {
+	function toHigherWritingLevelOption() {
 		setCookie('writingLevel', 'higher', 1825);
 		displayWritingLevel();
 	}
 
-	function toLowerWritingLevel() {
+	function toLowerWritingLevelOption() {
 		setCookie('writingLevel', 'lower', 1825);
 		displayWritingLevel();
 	}
@@ -162,19 +170,19 @@ Keep in mind that if you clear your browser cookies, your preferences here will 
 		{
 			displayDiv.innerHTML = "Current writing level: lower";
 		}
-		// if user hasn't set cookie, set cookie and display higher level version
+		// if user hasn't set cookie, set cookie and use higher level writing
 		else { // level = ""
 			setCookie('writingLevel', 'higher', 1825);
 			displayDiv.innerHTML = "Current writing level: higher";
 		}
 	}
 	
-	function toEmbeddedDisplay() {
+	function toEmbeddedDisplayOption() {
 		setCookie('scriptureDisplay', 'embedded', 1825);
 		displayScriptureDisplay();
 	}
 
-	function toPlaintextDisplay() {
+	function toPlaintextDisplayOption() {
 		setCookie('scriptureDisplay', 'plaintext', 1825);
 		displayScriptureDisplay();
 	}
@@ -197,6 +205,35 @@ Keep in mind that if you clear your browser cookies, your preferences here will 
 		}
 	}
 	
+	function toShowingSummariesOption() {
+		setCookie('summariesPreference', 'show', 1825);
+		displaySummariesPreference();
+	}
+
+	function toHidingSummariesOption() {
+		setCookie('summariesPreference', 'hide', 1825);
+		displaySummariesPreference();
+	}
+
+	function displaySummariesPreference() {
+		var summariesPreference=getCookie("summariesPreference");
+		var displayDiv = document.getElementById("summariesPreferenceDisplay");
+		if(summariesPreference == "show")
+		{
+			displayDiv.innerHTML = "Current summaries display setting: show summaries";
+		}
+		else if(summariesPreference == "hide")
+		{
+			displayDiv.innerHTML = "Current summaries display setting: hide summaries";
+		}
+		// if user hasn't set cookie, set cookie and show summaries
+		else { // summariesPreference = ""
+			setCookie('summariesPreference', 'show', 1825);
+			displayDiv.innerHTML = "Current summaries display setting: show summaries";
+		}
+	}
+	
 	displayWritingLevel();
-	displayScriptureDisplay()
+	displayScriptureDisplay();
+	displaySummariesPreference();
 </script>

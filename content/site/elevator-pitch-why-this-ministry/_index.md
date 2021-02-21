@@ -4,9 +4,11 @@ date: 2021-01-10T20:26:13-05:00
 tags: []
 subsection: overview
 weight: 10
+summary: >-
+   If you got stuck with me in an elevator such that I could give you the full marketing spiel for this ministry, I'd probably scare you by talking really fast and gesticulating wildly to try and cram a huge amount of information into 60 seconds or so. Fortunately, you don't have to get trapped in elevator with me to get a general idea of what value this ministry brings to the table, as that's what this page for.
 ---
 
-If I were trying to sell you on this ministry and only had several minutes, here's how I'd go about it. Many of the things mentioned here in brief are expanded on in greater depth on other pages. This is intended to be the "summary version" of what value this site brings to the table.
+If I were trying to sell you on this ministry and only had a limited amount of time, here's how I'd go about it. Many of the things mentioned here in brief are expanded on in greater depth on other pages. This is intended to be the "summary version" of what value this site brings to the table.
 
 [Ichthys](https://ichthys.com/) readers interested in how this site compares to Ichthys should look [here](/site/links/ichthys).
 
@@ -19,7 +21,7 @@ If I were trying to sell you on this ministry and only had several minutes, here
 * This site does however examine application in depth, with an eye towards making (sometimes) abstract Bible teaching easier to apply. The idea is not to lay down hard-and-fast rules, but to give a good starting point for individual application. Detailed discussions identify relevant variables in application, but leave the specifics up to the reader.
 * This site offers content at different levels, to make it useful to as wide a group of people as possible.
   * It has different content levels aimed at different levels of spiritual knowledge. There are resources for both new believers and seasoned spiritual veterans.
-  * It has different writing levels for different levels of technical complexity. While all writing on the site strives to be as accessible as possible (avoiding unnecessary complexity), there is also the ability to go between a higher level version and lower level version of all content. The two are basically the same, but the lower level version uses a lower-reading-level Bible version ([the NIrV](https://en.wikipedia.org/wiki/New_International_Reader%27s_Version)) in quoting scripture, and also omits complicated technical discussion.
+  * It has different writing levels for different levels of technical complexity. While all writing on the site strives to be as accessible as possible by avoiding unnecessary complexity, there is also the ability to go between a higher level version and lower level version of all content. The two are basically the same, but the lower level version uses a Bible version written at a lower level ([the NIrV](https://en.wikipedia.org/wiki/New_International_Reader%27s_Version)) in quoting scripture, and also omits complicated technical discussion.
 * All content is corrected, updated, and enhanced over time, with no lag-time whatsoever. Unlike books that can retain errors and suboptimal content for long periods of time between published updated versions (for example), all writing on this site is continually improved and revised.
   * For example, Q&A pages are commonly updated to include new Q&A chains, incrementally growing longer over time.
 
@@ -145,7 +147,7 @@ This ministry has a group of consistent readers and contacts that compose a comm
 
 ## 3. Technical advantages
 
-This site has a lot of careful design that has gone into it. For example:
+This site has a lot of careful design that has gone into it, giving it a competitive edge. (At least in my completely-biased opinion). For example:
 
 ### 3.1 Superior raw performance
 

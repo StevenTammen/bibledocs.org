@@ -4,6 +4,8 @@ date: 2021-01-10T21:42:05-05:00
 tags: []
 subsection: overview
 weight: 40
+summary: >-
+   If you are interested in learning about the technical underpinnings of this website, this page is for you. In a single sentence: content is written Markdown, coverted to HTML via the static site generator Hugo, hosted on GitHub, and deployed via Netlify, which has an extremely fast global content delivery network (CDN) well-optimized for delivering fully static websites like this one.
 ---
 
 See also the [GitHub repository's Readme](https://github.com/StevenTammen/bibledocs.org/blob/master/README.md).
