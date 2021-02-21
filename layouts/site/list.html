@@ -10,40 +10,24 @@
 	{{ if (isset .Params "show-lists") }}
 	
 		<h2>Overview</h2>
-		<ul>
 		{{ range where .Sections.ByWeight "Params.subsection" "overview" }}
-			<li>
-				<a href="{{ .Permalink }}">{{ .Title }}</a>
-			</li>
+			{{ partial "list-item" . }}
 		{{ end }}
-		</ul>
 
 		<h2>Writing and Content</h2>
-		<ul>
 		{{ range where .Sections.ByWeight "Params.subsection" "writing-and-content" }}
-			<li>
-				<a href="{{ .Permalink }}">{{ .Title }}</a>
-			</li>
+			{{ partial "list-item" . }}
 		{{ end }}
-		</ul>
 
 		<h2>Community</h2>
-		<ul>
 		{{ range where .Sections.ByWeight "Params.subsection" "community" }}
-			<li>
-				<a href="{{ .Permalink }}">{{ .Title }}</a>
-			</li>
+			{{ partial "list-item" . }}
 		{{ end }}
-		</ul>
 
 		<h2>Meta</h2>
-		<ul>
 		{{ range where .Sections.ByWeight "Params.subsection" "meta" }}
-			<li>
-				<a href="{{ .Permalink }}">{{ .Title }}</a>
-			</li>
+			{{ partial "list-item" . }}
 		{{ end }}
-		</ul>
 	
 	{{ end }}
   
