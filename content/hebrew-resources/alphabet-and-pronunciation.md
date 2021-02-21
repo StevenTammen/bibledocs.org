@@ -1,8 +1,11 @@
 ---
-title: Alphabet
+title: Alphabet and Pronunciation
 date: 2020-08-01T08:14:08-04:00
 tags: []
 weight: 1
+inprogress: false
+summary: >-
+   You may have heard that Hebrew does not have vowels. This statement is true in that the Hebrew alphabet is composed of only consonants, but really it is more accurate to say that Hebrew is not written with vowels... and only modern Hebrew at that (Biblical Hebrew usually uses vowel pointings to specify vowels). This page goes over how to write and pronounce the Hebrew alphabet (the consonants) as well as the vowel pointings that are written below the consonants. It also discusses some other things involving writing and pronunciation: the dagesh marking, word-final forms of consonants, reduced forms of vowels, and so on.
 ---
 
 ## Initial background information, and clarifying some common statements
