@@ -11,11 +11,10 @@ show-lists: true
     }
 </style>
 
-
 <div id="photos" style="display: flex; flex-flow: row nowrap; width: 100%;">
-    <img src="/about-the-author/picture-one.jpg" style="max-height: 300px;"/>
-    <img src="/about-the-author/picture-two.jpg" style="max-height: 300px;"/>
-    <img src="/about-the-author/picture-three.png" style="max-height: 300px;"/>
+    <img src="picture-one.jpg" style="max-height: 300px;"/>
+    <img src="picture-two.jpg" style="max-height: 300px;"/>
+    <img src="picture-three.png" style="max-height: 300px;"/>
 </div>
 
 My name is Steven Tammen. I currently work in Warner Robins Georgia as a civilian employee of the [402 Software Engineering Group (SWEG)](https://www.linkedin.com/company/402d-sweg/), United States Air Force. My team in particular does C# webapps.
