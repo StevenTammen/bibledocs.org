@@ -4,6 +4,8 @@ date: 2021-01-10T20:25:12-05:00
 tags: []
 subsection: community
 weight: 10
+summary: >-
+   There are three online Bible studies that this site runs (presently over Zoom): a general Bible study, a Greek study, and a Hebrew study. These studies are recorded and then posted publicly to YouTube. This page describes these studies and outlines some things to keep in mind for anyone interested in participating.
 ---
 
 ## Overview

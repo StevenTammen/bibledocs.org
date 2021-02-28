@@ -4,9 +4,11 @@ date: 2021-01-10T20:25:12-05:00
 tags: []
 subsection: writing-and-content
 weight: 1
+summary: >-
+   This ministry focuses on written text largely to the exclusion of other possible content mediums like video and audio. This page sets out to explain why this is so.
 ---
 
-Once you have been around this site for a while, you may come to ask the question "Why is this ministry focused on written text largely to the exclusion of videos, podcasts, and so on?"
+Once you have been around this ministry for a while, you may come to ask the question "Why is this ministry focused on written text largely to the exclusion of videos, podcasts, and so on?"
 
 It's a good question. This page sets out to explain why this is so.
 
@@ -39,12 +41,12 @@ However, any wild claims of 900 WPM (or even thousands of WPM) while maintaining
 
 In no particular order:
 
-- Text resources can be seamlessly updated and revised over time to keep them up-to-date, unlike audio and video resources, which require many orders magnitude more effort to update and cannot be seamlessly updated (i.e., the "patchwork" shows). While this advantage is large no matter what kind of content is in view (continuous improvement is an essential part of long-term quality), it is especially important for Bible teaching, since less-than-optimal Bible teaching has the potential to do spiritual harm. Taking care to be cautious in what Bible teaching one publishes as a teacher is an important first step to heading off potential problems here, but being able rapidly correct any issues is also very beneficial.
+- Text resources can be seamlessly updated and revised over time to keep them up-to-date, unlike audio and video resources, which require many orders magnitude more effort to update and cannot be seamlessly updated (i.e., the "patchwork" shows). While this advantage is large no matter what kind of content is in view (continuous improvement is an essential part of long-term quality), it is especially important for Bible teaching, since less-than-optimal Bible teaching has the potential to do spiritual harm. Taking care to be cautious in what Bible teaching one publishes as a teacher is an important first step to heading off potential problems here, but being able to rapidly correct any issues is also very beneficial.
 - Text can contain images, figures, graphs, hyperlinks, footnotes, and so forth, while audio cannot. (Videos can contain most of these things too, incidentally -- these are advantages of visual mediums). Since these things are very helpful, it widens the gap between text and audio.
 - Text documents can be scanned/skimmed to quickly find information upon brief visual inspection (looking through content headers to quickly find the section you are interested in, for example). Seeking through content visually is *far* easier and faster than seeking through audio content.
   - This is further enhanced by the fact that text can use visual styling of headers and so on to hierarchically organize content: content organization makes skimming many times more effective. Audio has no equivalent organizational mechanism to increase the effectiveness of skimming.
 - Individual text documents can be searched (`Ctrl + f` on Windows, `Cmd + f` on Macs) to find information instantly. Even the very best modern AI implementations of audio-search are far inferior to simple text searches.
-- Entire websites (that is, collections of online text documents) can be searched by making use of site-restricted search queries -- appending your Google searches with, for example, `site:bibledocs.org`. Now contrast this with trying to track down some particular piece of content across hundreds of different YouTube videos.
+- Entire websites (that is, collections of online text documents) can be searched by making use of site-restricted search queries -- appending your Google searches with, for example, `site:bibledocs.org`. Now contrast this with the difficulty of trying to track down some particular piece of content across hundreds of different YouTube videos!
 - Text can be copied and pasted, making text-based resources *much* better in terms of facilitating the taking of personal notes (compare notes in the margins of physical books) and the production of derived ministry materials that quote from already-published Bible teaching (compare this site quoting from [Ichthys](https://ichthys.com/)).
 - Etc.
 

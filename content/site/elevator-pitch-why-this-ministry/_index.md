@@ -5,7 +5,7 @@ tags: []
 subsection: overview
 weight: 10
 summary: >-
-   If you got stuck with me in an elevator such that I could give you the full marketing spiel for this ministry, I'd probably scare you by talking really fast and gesticulating wildly to try and cram a huge amount of information into 60 seconds or so. Fortunately, you don't have to get trapped in elevator with me to get a general idea of what value this ministry brings to the table, as that's what this page for.
+   If you got stuck with me in an elevator such that I could give you the full marketing spiel for this ministry, I'd probably scare you by talking really fast and gesticulating wildly to try and cram a huge amount of information into 60 seconds or so. Fortunately, you don't have to get trapped in elevator with me to get a general idea of what value this ministry brings to the table, as that's what this page is for.
 ---
 
 If I were trying to sell you on this ministry and only had a limited amount of time, here's how I'd go about it. Many of the things mentioned here in brief are expanded on in greater depth on other pages. This is intended to be the "summary version" of what value this site brings to the table.

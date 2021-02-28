@@ -4,6 +4,8 @@ date: 2021-01-10T22:11:52-05:00
 tags: []
 subsection: overview
 weight: 1
+summary: >-
+   This ministry does not accept financial support, since I work a normal job to support myself. Given this fact, what are some other ways in which you can help this ministry? This page sets out to answer this question.
 ---
 
 ## Praying for this ministry
@@ -16,7 +18,7 @@ Quite simply, the one single thing you can do to help this ministry the most is 
 
 As a matter of principle for ministries, teaching (as opposed to marketing) should always come first and be prioritized, because God can bring the people interested in the truth according to His perfect plan. (To put things differently, God Himself is our marketing department).
 
-Unlike other individuals interested in power, fame, wealth, worldly respect, and so on, teachers ought to be solely focused on the spiritual growth of their flocks. For this reason, even if it runs counter to these other things like money and fame, teachers need to teach the truth and leave the rest in the Lord's hands. Just look at many of the OT prophets. If success were measured in terms of money and numbers, then their ministries did not succeed. Rather than receiving the support and respect of the people, they were instead beaten and put to death at their hands. Yet we know that they did succeed... because what matters is doing what God would have us do, not how many people clap at our speech. 
+Unlike other individuals interested in power, fame, wealth, worldly respect, and so on, teachers ought to be solely focused on the spiritual growth of their flocks. For this reason, even if it runs counter to these other things like money and fame, teachers need to teach the truth and leave the rest in the Lord's hands. Just look at many of the Old Testament prophets. If success were measured in terms of money and numbers, then their ministries did not succeed. Rather than receiving the support and respect of the people, they were instead beaten and put to death at their hands. Yet we know that they did succeed... because what matters is doing what God would have us do, not how many people clap at our speech. 
 
 ### This ministry in particular
 
@@ -70,7 +72,7 @@ As to the actual mechanics of how you can make contributions to written content,
 
 #### Making the writing more accessible
 
-As explained elsewhere [TODO](), since maintaining two separate levels of writing for every piece of content (one simpler level for children, non-native English speakers, and folks without much education, and the other level more advanced and academic in nature) is far too time consuming, I instead endeavor to make all writing on this site as accessible as possible. The basic idea is to always avoid complexity and things lower-level readers might struggle with unless they are more-or-less necessary.
+As explained [on the page describing writing level](/site/writing-level/), since maintaining two separate levels of writing for every piece of content (one simpler level for children, non-native English speakers, and folks without much education, and the other level more advanced and academic in nature) is far too time consuming, I instead endeavor to make all writing on this site as accessible as possible. The basic idea is to always avoid complexity and things lower-level readers might struggle with unless they are more or less necessary.
 
 Now, this all sounds well-and-good, but the problem is that years of writing college papers beat into me a style of writing that is *not* this. In short, it takes effort on my part to write in an accessible way, and I still fall into stuffy academic prose rather easily. 
 

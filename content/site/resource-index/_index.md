@@ -4,6 +4,8 @@ date: 2021-01-10T20:25:12-05:00
 tags: []
 subsection: meta
 weight: 60
+summary: >-
+   I take pains to directly link to as many of the things that I reference as possible. This page describes how I go about linking to all the resouce types that I reference, and also contains a master list of things that I reference (the resource index itself).
 ---
 
 ## Linking vs. citing resources

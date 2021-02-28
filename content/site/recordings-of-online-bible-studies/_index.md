@@ -4,6 +4,8 @@ date: 2021-01-10T21:39:43-05:00
 tags: []
 subsection: writing-and-content
 weight: 80
+summary: >-
+   I run three different online Bible studies (a general Bible study, a Greek study, and a Hebrew study), record our meetings, and post the videos on YouTube. The recordings of these groups are the only spiritual content from this ministry in video form. This page describes this idea at a high level, but spends most of its time explaining caveats with these recordings of the online Bible studies.
 ---
 
 I run three different online Bible studies (a general Bible study, a Greek study, and a Hebrew study), record our meetings, and [post the videos on YouTube](https://www.youtube.com/channel/UCFk7khraAKf68DZ5GeYEFIw/playlists). The recordings of these groups are the only spiritual content from this ministry in video form.

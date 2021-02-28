@@ -4,6 +4,8 @@ date: 2021-01-10T20:25:12-05:00
 tags: []
 subsection: meta
 weight: 1
+summary: >-
+   This page contains an annotated list of links. The first part of the page is composed of links to other teaching ministries that I recommend, and the latter part of the page is composed of links to personal Bible study tools and resources.
 ---
 
 ## Links to other teaching ministries/teachers
@@ -76,6 +78,7 @@ There is a group of younger teachers who, like myself, grew up spiritually under
 
 Unsurprisingly, all of us are colored by the teachings of Ichthys and Bible Academy, although we all are of course our own teachers.
 
+<!--
 #### Bible Crash Course
 
 Link to ministry: [Bible Crash Course YouTube Channel](https://www.youtube.com/channel/UChhe0vK1hz8bxzcphHWpFmg/featured)
@@ -103,6 +106,8 @@ Bible Crash Course is topically focused while Bible Academy is predominantly ver
 Many of the things Bible Crash Course talks about are among the difficult and controversial topics that are also emphasized on this site, such as eschatology (end times) and biblical chronology.
 
 There are also resources on interpretation, such as [a series covering interpretation of various parables](https://www.youtube.com/playlist?list=PLfNMMVvTNjCRuUheLVOoXmAnQYsghWWUz).
+
+-->
 
 #### Writings from the desk of Bartek Sylwestrzak
 

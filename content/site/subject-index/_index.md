@@ -4,6 +4,8 @@ date: 2021-01-10T20:25:12-05:00
 tags: []
 subsection: meta
 weight: 30
+summary: >-
+   This page contains links to places (full pages and subsections of pages) where I address specific subjects. If you want to see if this site discusses some specific subject, this would be the place to check.
 ---
 
 While the static site generator I use ([Hugo](https://gohugo.io/)) as well as others allow for content organization at the page level via tags, I find this unsatisfactory. Instead, I want to be able to categorize content at the level of headings on pages.
@@ -13,7 +15,7 @@ For this reason, I build my own subject index that links down to this level of s
 ### Parents
 
 - parents, honoring them
-  - [/questions-and-answers/self-generated/honoring-and-obeying-parents/higher](/questions-and-answers/self-generated/honoring-and-obeying-parents/higher)
+  - [/questions-and-answers/self-generated/honoring-and-obeying-parents](/questions-and-answers/self-generated/honoring-and-obeying-parents)
 
 ### Rahab
 

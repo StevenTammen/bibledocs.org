@@ -5,7 +5,7 @@ tags: []
 subsection: writing-and-content
 weight: 50
 summary: >-
-   On this site, content level tries to classify content by its level of spiritual difficulty, while writing level tries to classify content by how difficult its writing is to read (in terms of, for example, prose difficulty and vocabulary complexity). This page describes how this site makes use of its two writing levels (higher and lower), and also describes technical discussion sections, which are probably the defining feature of higher level writing.
+   On this site, content level tries to classify content by its level of spiritual difficulty, while writing level tries to classify content by how difficult its writing is to read (in terms of, for example, prose difficulty and vocabulary complexity). This page describes how this site makes use of its two writing levels (higher and lower), and also describes technical discussion sections, which are probably the defining feature of higher-level writing.
 ---
 
 For this site, [content level](/site/content-level) measures "spiritual difficulty level," while writing level measures how difficult the writing is for someone to read. If you have heard the term "reading level" (e.g., "her daughter reads at a 4th grade reading level"), then you are on the right track. The [Lexile system](https://en.wikipedia.org/wiki/Lexile) is one formal implementation of the concept.
@@ -118,3 +118,7 @@ Thus, the fact that this site's behavior doesn't account for Type 4 readers is o
 You can switch between the higher-level version of a page and lower-level version of a page by using the links in the menu sidebar titled, most creatively, "Higher-level version" and "Lower-level version."
 
 If you want to globally prefer the higher-level versions of content or lower-level versions of content (such that every time you open a new page, it will open at your preferred writing level), you can set your preference [on the settings page](/site/settings/#writing-level). By default, the site defaults to showing the higher-level versions.
+
+## Posted correspondence is locked into a higher writing level
+
+Any time I post (anonymized) question-and-answer email exchanges that actually happened between myself and site readers, there is no option to toggle to a lower writing level, thereby hiding technical discussion sections and having scripture show up in the NIrV. You can read more about why this is so [on the page describing posted correspondence](/site/posted-correspondence/#in-terms-of-writing-level-where-does-posted-correspondence-stand).

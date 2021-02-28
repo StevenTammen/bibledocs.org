@@ -4,6 +4,8 @@ date: 2021-01-10T20:25:12-05:00
 tags: []
 subsection: community
 weight: 1
+summary: >-
+   This ministry runs a prayer list, with requests coming from myself and the wider community of readers and their loved ones. Praying for one another is an important duty we have as Christians, and is something that we can do from the very first day we believe.
 ---
 
 ## Overview
@@ -17,6 +19,11 @@ I default to anonymizing things down to first names (for people I know well enou
 I have organized the prayer list into various sections based on commonalities (although of course there is really no wrong way to pray as long we do it with the proper attitude).
 
 ## Prayer list
+
+### Higher priority requests
+
+* Comfort and encouragement for M., who recently lost her husband in his 50s to cancer.
+* Provision for Curt and his family in Texas, given the recent hiccups caused by winter storms. Also for the rest of those in Texas that were affected.
 
 ### Contemporary wider issues
 
@@ -35,7 +42,6 @@ I have organized the prayer list into various sections based on commonalities (a
 ### Health
 
 * For the health and comfort of C., and for her caretakers.
-* For G.'s cancer, that God would work and overcome the unfavorable prognosis, if possible.
 
 ### Safety
 
@@ -45,7 +51,6 @@ I have organized the prayer list into various sections based on commonalities (a
 
 * For S. and S. in their programs of study and academic circumstances.
 * For Odii's employment in freelance writing. That opportunities would work out and financial provision from this self-employment would increase.
-* For Jordan's upcoming job interview and potential move. That a job offer would come, and that housing would work out thereafter.
 
 ### Other
 

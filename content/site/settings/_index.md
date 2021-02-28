@@ -4,8 +4,9 @@ date: 2021-01-10T20:25:12-05:00
 tags: []
 subsection: meta
 weight: 10
+summary: >-
+   This page contains various settings related to this site's functionality. For example, you can choose whether or not summaries are shown in lists of pages, what Bible version is used in the automatic verse tagging on the site, whether or not quotations of scripture show up as embedded windows from a Bible study app or show up as plain text, and other things like these.
 ---
-
 
 ## Writing level
 

@@ -8,9 +8,6 @@ summary: >-
    I try to keep this site focused on actual Bible teaching and high-level discussion of application. However, I write about a lot of other things that people might find useful on my personal website (StevenTammen.com): Productivity and Efficiency, Gear, Software, Exercise, Nutrition, Health, Finances, and more.
 ---
 
-{{% sidenote %}}
-## Writings from my personal site
-
 I run another website, my personal website, [StevenTammen.com](https://www.steventammen.com). While this other website is primarily composed of things that do not have much overtly spiritual content, its guiding principles are optimization and efficiency, and making every punch count is certainly a biblical concept:
 
 {{% ichthys-translation p="1 Corinthians 9:24-27" src="https://ichthys.com/6A-Peripateo.htm#1st%20Corinthians%209:25-27" %}}
@@ -30,5 +27,3 @@ It is for this reason that I view this other website of mine as part of my servi
 * Finances (avoiding unnecessary expenses, minimizing debt, practicing purchasing habits that give you the most value per dollar, and so on)
 
 None of these things are any replacement for Bible teaching, but since these topics are relevant to living more generally, my hope is that improvements in these areas can help people sink more resources into spiritual matters.
-
-{{% /sidenote %}}
