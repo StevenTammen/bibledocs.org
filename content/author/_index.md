@@ -11,14 +11,13 @@ show-lists: true
     }
 </style>
 
-
 <div id="photos" style="display: flex; flex-flow: row nowrap; width: 100%;">
-    <img src="/about-the-author/picture-one.jpg" style="max-height: 300px;"/>
-    <img src="/about-the-author/picture-two.jpg" style="max-height: 300px;"/>
-    <img src="/about-the-author/picture-three.png" style="max-height: 300px;"/>
+    <img src="picture-one.jpg" style="max-height: 300px;"/>
+    <img src="picture-two.jpg" style="max-height: 300px;"/>
+    <img src="picture-three.png" style="max-height: 300px;"/>
 </div>
 
-My name is Steven Tammen. I currently work in Warner Robins Georgia as a civilian employee of the [402 Software Engineering Group (SWEG)](https://www.linkedin.com/company/402d-sweg/), United States Air Force. My team in particular does C# webapps.
+My name is Steven Tammen. I currently work in Warner Robins Georgia as a civilian employee of the [402 Software Engineering Group (SWEG)](https://www.linkedin.com/company/402d-sweg/), United States Air Force. My team in particular does full-stack web applications with C# ([ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core)) on the backend and [Angular](https://angular.io/) on the frontend.
 
 <!-- TODO: explain why work at Air force position vs. something else, like a higher paying job in industry -->
 

@@ -3,6 +3,9 @@ title: Omega Verbs - Present
 date: 2020-09-12
 tags: []
 weight: 3
+inprogress: false
+summary: >-
+   Omega verbs (ω-verbs) are one class of Greek verbs. Because omega verbs do not have complicated vowel contraction to deal with, they are a good place to start in talking about Greek verbs. This page introduces the Greek present system for omega verbs, and also introduces the present forms for εἰμί, Greek's verb of being. (I am/you are/etc.).
 ---
 
 ## A note on content ordering: starting vocab ASAP

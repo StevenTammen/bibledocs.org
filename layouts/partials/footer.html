@@ -52,6 +52,93 @@ initialScriptureDisplay();
 
 </script>
 
+<script>
+
+function toHigherWritingLevel() {
+	var technicalDicsussionSections = $('.technical-discussion').each( function(i, el) {
+		var firstHeader = $(el).children(':header').first().attr('id');
+		var selector = `#toc li a[href="#${firstHeader}"]`;
+		$(selector).parent().show(); // show li's not links
+	});
+	
+	$('.technical-discussion').removeClass("display-none");
+}
+
+function toLowerWritingLevel() {
+	var technicalDicsussionSections = $('.technical-discussion').each( function(i, el) {
+		var firstHeader = $(el).children(':header').first().attr('id');
+		var selector = `#toc li a[href="#${firstHeader}"]`;
+		$(selector).parent().hide(); // hide li's not links
+	});
+	
+	$('.technical-discussion').addClass("display-none");
+}
+
+function initialWritingLevel() {
+	var writingLevel=getCookie("writingLevel");
+	if(writingLevel == "higher")
+	{
+		// hide lower level scripture blocks
+	}
+	else if(writingLevel == "lower")
+	{
+		// hide higher level scripture blocks
+		// Hide technical discussion sections
+		toLowerWritingLevel();
+	}
+	// if user hasn't set cookie, set cookie and use higher writing level
+	else { // writingLevel = ""
+		setCookie('writingLevel', 'higher', 1825);
+	}
+}
+
+initialWritingLevel()
+</script>
+
+<script>
+
+function showSummary(selector) {
+	$('.list-item-summary-section.' + selector).removeClass("display-none");
+	$('.list-item-summary-toggle.hide.' + selector).removeClass("display-none");
+	$('.list-item-summary-toggle.show.' + selector).addClass("display-none");
+}
+
+function hideSummary(selector) {
+	$('.list-item-summary-section.' + selector).addClass("display-none");
+	$('.list-item-summary-toggle.show.' + selector).removeClass("display-none");
+	$('.list-item-summary-toggle.hide.' + selector).addClass("display-none");
+}
+
+function showAllSummaries() {
+	$('.list-item-summary-section').removeClass("display-none");
+	$('.list-item-summary-toggle.show').addClass("display-none");
+}
+
+function hideAllSummaries() {
+	$('.list-item-summary-section').addClass("display-none");
+	$('.list-item-summary-toggle.hide').addClass("display-none");
+}
+
+function initialSummariesDisplay() {
+	var summariesPreference=getCookie("summariesPreference");
+	if(summariesPreference == "show")
+	{
+		showAllSummaries();
+	}
+	else if(summariesPreference == "hide")
+	{
+		hideAllSummaries();
+	}
+	// if user hasn't set cookie, set cookie and show summaries
+	else { // summariesPreference = ""
+		setCookie('summariesPreference', 'show', 1825);
+		showAllSummaries();
+	}
+}
+
+initialSummariesDisplay()
+</script>
+
 <!-- RefTagger -->
 <script>
 

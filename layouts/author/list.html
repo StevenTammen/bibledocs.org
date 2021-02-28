@@ -8,16 +8,10 @@
 	{{ .Content }}
 	
 	{{ if (isset .Params "show-lists") }}
-	
 		<h2>Overview</h2>
-		<ul>
 		{{ range where .Sections.ByWeight "Params.subsection" "overview" }}
-			<li>
-				<a href="{{ .Permalink }}">{{ .Title }}</a>
-			</li>
+			{{ partial "list-item" . }}
 		{{ end }}
-		</ul>
-	
 	{{ end }}
   
 </div>

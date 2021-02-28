@@ -1,6 +1,11 @@
 ---
 title: Why Do Bible Study on the Computer
+date: 2020-09-04
+tags: []
+weight: 
 writing-only: true
+summary: >-
+   There are a lot of advantages to doing Bible study on the computer. This page sets out to document some of these advantages, and deal with some of the supposed downsides that people put forward as reasons to avoid doing Bible study on the computer. This page does not exist to argue that people should not have/use/enjoy non-electronic means of doing Bible study, but rather exists to highlight the utility offered by well-crafted digital Bible study resources.
 ---
 
 I *highly*, *highly* recommend doing all (or at least a good bit) of your Bible study on the computer. There are many reasons for this, even more than the non-exhaustive list of reasons below. The utility offered by well-crafted digital Bible study resources is positively enormous.
