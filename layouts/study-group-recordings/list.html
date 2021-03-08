@@ -5,26 +5,14 @@
 </div>
 <div class="content">
 
-  {{ .Content }}
+	{{ .Content }}
 
-  <ul>
-    {{ range .Pages.ByWeight }}
-    <li>
-		<a href="/about-the-site/#content-level"><span class="{{ strings.TrimSuffix "+" .Params.contentlevel }}">{{ .Params.contentlevel }}</span></a>&nbsp;&nbsp;<a href="{{ .Permalink }}">{{ .Title }}</a>
-    </li>
-    {{ end }}
-  </ul>
-  
-  {{ range .Sections.ByTitle }}
-  <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-  <ul>
-    {{ range .Pages.ByWeight }}
-    <li>
-		<a href="/about-the-site/#content-level"><span class="{{ strings.TrimSuffix "+" .Params.contentlevel }}">{{ .Params.contentlevel }}</span></a>&nbsp;&nbsp;<a href="{{ .Permalink }}">{{ .Title }}</a>
-    </li>
-    {{ end }}
-  </ul>
-  {{ end }}
+	{{ partial "content-list-weight-then-title" . }}
+		
+	{{ range .Sections.ByTitle }}
+	<h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+		{{ partial "content-list-weight-then-title" . }}
+	{{ end }}
   
 </div>
 

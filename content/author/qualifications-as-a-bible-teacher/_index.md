@@ -4,9 +4,11 @@ date: 2021-01-17T20:37:11-05:00
 tags: []
 subsection: overview
 weight: 1
+summary: >-
+   Lay Christians should not turn to just anyone in seeking out Bible teaching. Quite to the contrary, since spiritual realities are in truth the most important things in life, arguably, there are few choices one faces more serious than which Bible teacher to listen to. Giving ear to the wrong person can have eternal consequences, either in terms of compromised spiritual reward, or even in terms of lost salvation. Bearing this in mind, this page aims to explain what makes me qualified to put myself forward as a Bible teacher.
 ---
 
-Lay Christians should not turn to just anyone in seeking out Bible teaching. Quite to the contrary, since spiritual realities are in truth the most important things in life, arguably, there are few choices one faces more serious than which Bible teacher to listen to. Giving ear to the wrong person can have eternal consequences, either in terms of compromised spiritual reward, or even in terms of lost salvation.
+Lay Christians should not turn to just anyone in seeking out Bible teaching. Quite to the contrary, since spiritual realities are in truth the most important things in life, arguably, there are few choices one faces more serious than which Bible teacher to listen to. Giving ear to the wrong person can have eternal consequences, either in terms of compromised spiritual reward, or even in terms of lost salvation. 
 
 Bearing this in mind, what makes me qualified to put myself forward as a Bible teacher?
 

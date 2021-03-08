@@ -1,0 +1,2 @@
+{{ $word := .Get 0 }}
+<a href="/site/glossary/#{{$word | plainify | htmlUnescape | anchorize }}">{{ $word }}</a>

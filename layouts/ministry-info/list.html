@@ -5,57 +5,14 @@
 </div>
 <div class="content">
 
-  {{ .Content }}
+	{{ .Content }}
 
-  <div id="higherLevelPages" style="display:none;">
-	  <ul>
-		{{ range .Pages.GroupBy "Weight" "asc" }}
-			{{ range where .Pages.ByTitle "Params.writinglevel" "higher"}}
-			<li>
-				<a href="/about-the-site/#content-level"><span class="{{ strings.TrimSuffix "+" .Params.contentlevel }}">{{ .Params.contentlevel }}</span></a>&nbsp;&nbsp;<a href="{{ .Permalink }}">{{ .Title }}</a>
-			</li>
-			{{ end }}
-		{{ end }}
-	  </ul>
-	  
-	  {{ range .Sections.ByTitle }}
-	  <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-	  <ul>
-		{{ range .Pages.GroupBy "Weight" "asc" }}
-			{{ range where .Pages.ByTitle "Params.writinglevel" "higher"}}
-			<li>
-				<a href="/about-the-site/#content-level"><span class="{{ strings.TrimSuffix "+" .Params.contentlevel }}">{{ .Params.contentlevel }}</span></a>&nbsp;&nbsp;<a href="{{ .Permalink }}">{{ .Title }}</a>
-			</li>
-			{{ end }}
-		{{ end }}
-	  </ul>
-	  {{ end }}
-  </div>
-  
-  <div id="lowerLevelPages" style="display:none;">
-	  <ul>
-		{{ range .Pages.GroupBy "Weight" "asc" }}
-			{{ range where .Pages.ByTitle "Params.writinglevel" "lower"}}
-			<li>
-				<a href="/about-the-site/#content-level"><span class="{{ strings.TrimSuffix "+" .Params.contentlevel }}">{{ .Params.contentlevel }}</span></a>&nbsp;&nbsp;<a href="{{ .Permalink }}">{{ .Title }}</a>
-			</li>
-			{{ end }}
-		{{ end }}
-	  </ul>
-	  
-	  {{ range .Sections.ByTitle }}
-	  <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-	  <ul>
-		{{ range .Pages.GroupBy "Weight" "asc" }}
-			{{ range where .Pages.ByTitle "Params.writinglevel" "lower"}}
-			<li>
-				<a href="/about-the-site/#content-level"><span class="{{ strings.TrimSuffix "+" .Params.contentlevel }}">{{ .Params.contentlevel }}</span></a>&nbsp;&nbsp;<a href="{{ .Permalink }}">{{ .Title }}</a>
-			</li>
-			{{ end }}
-		{{ end }}
-	  </ul>
-	  {{ end }}
-  </div>
+	{{ partial "content-list-weight-then-title" . }}
+		
+	{{ range .Sections.ByTitle }}
+	<h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+		{{ partial "content-list-weight-then-title" . }}
+	{{ end }}
   
 </div>
 
@@ -63,9 +20,5 @@
 
 <!-- Site Functions -->
 <script src="{{ .Site.BaseURL }}js/site-functions-list-pages.js"></script>
-
-<script type="text/javascript">
-	displayAppropriateLists();
-</script>
 
 {{ partial "footer.html" . }}

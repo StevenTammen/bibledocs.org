@@ -3,6 +3,9 @@ title: Accents
 date: 2020-08-29
 tags: []
 weight: 2
+inprogress: false
+summary: >-
+   Greek has a system of three accents: the acute accent, the grave accent, and the cirumflex accent. How do you know when to use what accent? How do you know where the accent on a word goes? Are accents the same for nouns and verbs? This page seeks to answer these questions, and those like them.
 ---
 
 ## What is an accent?

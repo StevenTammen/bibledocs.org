@@ -5,30 +5,22 @@
 </div>
 <div class="content">
 
-  {{ .Content }}
+	{{ .Content }}
 
-  <ul>
-    {{ range .Pages.ByWeight }}
+	{{ range .Pages.ByWeight }}
 		{{ if (not (isset .Params "writing-only")) }}
-			<li>
-				<a href="{{ .Permalink }}">{{ .Title }}</a>
-			</li>
+			{{ partial "list-item" . }}
 		{{ end }}
-    {{ end }}
-  </ul>
+	{{ end }}
   
-  {{ range .Sections.ByTitle }}
-  <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-  <ul>
-    {{ range .Pages.ByWeight }}
+	{{ range .Sections.ByTitle }}
+	<h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+	{{ range .Pages.ByWeight }}
 		{{ if (not (isset .Params "writing-only")) }}
-			<li>
-				<a href="{{ .Permalink }}">{{ .Title }}</a>
-			</li>
+			{{ partial "list-item" . }}
 		{{ end }}
-    {{ end }}
-  </ul>
-  {{ end }}
+	{{ end }}
+	{{ end }}
   
 </div>
 
