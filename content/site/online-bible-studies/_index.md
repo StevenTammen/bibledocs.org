@@ -5,8 +5,53 @@ tags: []
 subsection: community
 weight: 10
 summary: >-
-   There are three online Bible studies that this site runs (presently over Zoom): a general Bible study, a Greek study, and a Hebrew study. These studies are recorded and then posted publicly to YouTube. This page describes these studies and outlines some things to keep in mind for anyone interested in participating.
+   In addition to the forum, our fellowship also has a perpetual Zoom meeting that is always running: you can join the meeting at any time. This page describes this perpetual meeting and how to make use of it.
 ---
+
+<!-- There are three online Bible studies that this site runs (presently over Zoom): a general Bible study, a Greek study, and a Hebrew study. These studies are recorded and then posted publicly to YouTube. This page describes these studies and outlines some things to keep in mind for anyone interested in participating -->
+
+## Fellowship over Zoom
+In addition to the forum, our fellowship also has a perpetual [Zoom](https://zoom.us/meetings) meeting that is always running. You can join the meeting at any time with the following information:
+
+- Link to join: https://zoom.us/j/902995929
+- Passcode: 1189 (the number of chapters in the Bible)
+
+Zoom allows for many people (up to 100 at the same time) to talk to each other over audio and video. If you want to just hang out and chat with people in our community (potentially a lot of them at once) over audio/video, you will do this through the perpetual Zoom meeting.
+
+While there is no obligation to take advantage of this Zoom option on top of the forum, I ***highly*** encourage everyone to participate, as the more people are active, the more useful it will be!
+
+## Scheduled meetings
+
+While you are welcome to join the room at any time, there is no guarantee that anyone else will be on (although perhaps someone else will be -- you can always check). We presently have two scheduled meetings every week. These are open to everyone, and we'd love for you to come and join us.
+
+### Bible study
+
+Currently at 4:00 PM Eastern Standard Time on Saturdays. Our meetings are recorded and then posted on YouTube:
+
+- Playlist of condensed teaching summaries for each week (probably what you want):
+   - https://www.youtube.com/playlist?list=PLcqAebKsBWy91YuyqUu5fjh2FKWi3oUEy
+- Playlist of full recordings for each week (for the full, longer discussion; not as focused):
+   - https://www.youtube.com/playlist?list=PLcqAebKsBWy9NzEhpik-IyU9jycIOw1e9
+
+### Casual chat
+
+We also meet at ~6:45 PM Eastern Standard Time on Thursdays to have a more casual discussion about anything and everything. (This meeting is less formal and is not recorded).
+
+## Learning about Zoom
+
+I also made instructional videos for Zoom that would be good to watch if you are not familiar with the application: 
+
+### Installation, and joining meetings
+
+https://www.youtube.com/watch?v=YfP2o0JFAFU&list=PLQ-N5KyJUu_V_esEKw-58jHutd_pxLPvl
+
+### The basic Zoom interface
+
+https://www.youtube.com/watch?v=XD6v-dC0xy0&list=PLQ-N5KyJUu_V_esEKw-58jHutd_pxLPvl&index=2
+
+Once you've watched the first video, you'll know how to join our perpetual Zoom meeting with the link (https://zoom.us/j/902995929). You may want to bookmark this link so that you can easily jump back into the Zoom meeting later on. (Or you can come back here to click the link).
+
+<!--
 
 ## Overview
 
@@ -77,6 +122,8 @@ While myself and other participating teachers do take pains to not be completely
 As a rule of thumb, people who listen and ask good questions are always welcome -- whatever their exact theological persuasion. What I am attempting to get across here is that people who will argue with every single point made and refuse to accept the authority of any of the teachers involved may want to consider looking for a place that is actually explicitly dedicated to apologetics and theological debate, since these studies are not. In other words, to keep these studies focused, we stick more-or-less solely to discussion of the teaching being put forth as true, so if it is theological debate you are looking for (not necessarily a bad thing), this just isn't really the right place.
 
 (To be clear, this has less to do with top-down censoring of differing points of view, and more to do with the fact that our time together is very limited, and most people participating would prefer to spend it on discussion rather than debate, if that makes sense).
+
+-->
 
 
 <!--
