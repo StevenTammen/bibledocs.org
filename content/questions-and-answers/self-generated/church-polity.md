@@ -1,7 +1,13 @@
-+++
-title = "Pilot Posting: Church Polity"
-
-+++
+---
+title: Church Polity
+date: 2021-6-26
+tags: []
+weight: 
+contentlevel: intermediate
+inprogress: false
+summary: >-
+   This page sets out to describe the office in the Church known by various different names -- "elder", "overseer", "pastor" and so on. People in this office have authority over the Church, and are the primary teachers of the Word of God. (Teaching the Bible such that Church builds itself up in love is, generally speaking, their main responsibility). This page also describes a bit more about local church organization, and other Church offices like Apostle, Prophet, and Evangelist. (The former two are no longer active offices in the Church).
+---
 
 ## Hypothetical person: Question 1.1
 
@@ -27,15 +33,15 @@ Yes, this line of thought is essentially correct, although see below for some sp
 
 ### These titles are largely interchangeable
 
-In the "qualification lists" for elders (see 1 Timothy 3:1-7 and Titus 1:6-9), some of these Greek words you've pointed out are used interchangeably. Even the ones that aren't equated directly like this must refer to the same office: people in the Church with authority, the ones running things. (Contrast deacons, who also serve the Church, but in a capacity without authority).
+In the "qualification lists" for elders (see 1 Timothy 3:1-7 and Titus 1:6-9), some of these Greek words you've pointed out are used interchangeably. Even the ones that aren't equated directly like this must refer to the same office: people in the Church with authority, the ones running things. (Contrast deacons, who also directly serve the Church, but in a capacity without authority).
 
 ### This office centers on the teaching of the Word of God
 
-One particularly important thing to note is that these folks must be "able to teach" (1 Timothy 3:2). To emphasize this crucial point, myself and others commonly refer to the people under discussion as "pastor-teachers."
+One particularly important thing to note is that these folks must be "able to teach" (1 Timothy 3:2). To emphasize this crucial point, myself and others commonly refer to the group of people under discussion here as "pastor-teachers."
 
 Using this less-common label instead of more conventional ones (like "pastor" and "elder") is advantageous since these more conventional ones have much problematic connotational baggage that has been built up over the years.
 
-For example, people tend to view "pastors" with blinders on -- the people who conduct marriages and funerals, visit the sick in the hospital, and deliver motivational speeches like clockwork on Sunday mornings, sprinkled liberally with anecdotes, pop-psychology, and rhetorical flourish (but surprisingly little scripture). The problem is that these expectations have little to do with the office as it is outlined in scripture.
+For example, people tend to view "pastors" with blinders on -- the people who conduct marriages and funerals, visit the sick in the hospital, and deliver motivational speeches like clockwork on Sunday mornings, sprinkled liberally with anecdotes, pop-psychology, and rhetorical flourish (but surprisingly little scripture). The problem is that these expectations have little to do with the Church office as it is outlined in scripture.
 
 Elders/overseers/shepherds/teachers/stewards have a whole host of responsibilities that can vary from individual to individual -- but everything revolves around the Word of God:
 
@@ -45,7 +51,7 @@ Elders/overseers/shepherds/teachers/stewards have a whole host of responsibiliti
 - Teachers explain and expound upon the meaning of the Word of God.
 - Stewards manage and organize the resources necessary to support the teaching of the Word of God.
 
-Failing to appreciate this point largely turns pastors into masters of ceremonies rather than teachers and explainers of the Bible, which is the whole point of their office in the Body of Christ. Each of the various facets of the office relate to the Word of God in a slightly different way, but they all relate to it.
+Failing to appreciate this point largely turns pastors into masters of ceremonies rather than teachers and explainers of the Bible, which is the whole point of their office in the Body of Christ. Each of the various facets of the office relate to the Word of God in a slightly different way, *but they all relate to it*.
 
 ### Individuals can mix and match responsibilities in practice
 
@@ -71,7 +77,7 @@ For example, the specifics before the common man was literate were obviously dif
 
 #### Despite this fact, the Church visible squabbles about Church polity all the time
 
-One of the most telling symptoms of decay presently apparent in the Church visible is the willingness people have to fight about and divide over matters of Church polity that are intentionally left vague in scripture. The irony would be most amusing were it not so chilling as a symptom of Laodicean lukewarmness.
+One of the most telling symptoms of decay presently apparent in the Church visible is the willingness people have to fight about and divide over matters of Church polity *that are intentionally left vague in scripture*. The irony would be most amusing were it not so chilling as a symptom of Laodicean lukewarmness.
 
 In this way, people will wage bloody battles down to the last man on issues of Church polity that scripture says nothing about, while neglecting to study and teach the Word of God, which is the only thing that actually matters.
 
@@ -90,17 +96,26 @@ For example, 1 Timothy 3:6 (NASB) states that an elder must be "not a new conver
 
 There is also Titus 1:6 (NASB), which states that an elder must be "the husband of one wife, having children who believe, not accused of indecent behavior or rebellion." Doesn't being married and having kids imply a certain age?
 
-Also, does this passage mean that pastor-teachers have to be married? What about Paul?
+Also, does this passage mean that pastor-teachers *have* to be married? What about Paul?
 
 ## Steven's response: Question 1.2
 
-### Do elders have to be old?
+### Do elders *have* to be physically old?
 
-By way of introduction, let me state that etymologically speaking, πρεσβύτερος -- the word commonly translated "elder" -- does literally mean "old man." There is no getting around this.
+By way of introduction, let me state that etymologically speaking, πρεσβύτερος -- the Greek word commonly translated "elder" -- does literally mean "old man." There is no getting around this.
 
-However, this does not necessarily mean that elders have to be old. Why? Again, because we have a direct counterexample in scripture: 1 Timothy 4:12.
+However, this does not necessarily mean that elders *have* to be physically old. Why? Because, as already mentioned, we have a direct counterexample in scripture in 1 Timothy 4:12.
 
-What we might say is that it is common for older people to be wiser and have more experience, such that Church leadership often ends up as a collection of old men. As a tendency or heuristic, it's reasonably accurate.
+{{% sidenote %}}
+
+Also, etymology does not at all matter in translation. I truly mean this -- not at all!
+
+This may come as a shock if you've never heard it explained before, but in determining the meaning of words in translation and interpretation, rather than etymology, the things that matter are how words were actually used at the time period that they show up in scripture, their specific textual context (i.e., what sort of passage they show up in -- words can mean different things across poetry and prose, for example), and a couple other such considerations.
+
+The fact that words can and do change their meanings over time (no matter what their original etymology-derived meanings may have been) complicates lexicography to an exceptional degree -- not just Biblical lexicography, [but also lexicography generally](https://www.thoughtco.com/etymological-fallacy-words-1690613). Biblical lexicography is no exception, however.
+{{% /sidenote %}}
+
+What we might say is that it is common for older people to be wiser and have more experience, such that Church leadership often does end up as a collection of old men in practice. As a tendency or heuristic, it's reasonably accurate.
 
 But, as with Timothy, there are some young men who are far advanced spiritually for their years. And there are also some very foolish old men, with hearts largely darkened to spiritual truth.
 
@@ -108,17 +123,25 @@ But, as with Timothy, there are some young men who are far advanced spiritually 
 
 Jesus was 30 when he began His public ministry... and if any teacher in the history of the world was qualified to start sooner, it would have been Him. John the Baptist also started his public ministry when he was 30.
 
+{{% cautionary-note %}}
+Jesus is so exceptional that it is typically dangerous to consider ourselves similar to Him in our decision-making. We are not God like He is, after all.
+
+This is why "What would Jesus do?" is somewhat useless as a concept -- it is always more appropriate to ask "What does Jesus want *me* to do?".
+
+All this said, it is still not particularly out of place to make the observation that Jesus was 30 when he began His public ministry.
+{{% /cautionary-note %}}
+
 The Levites are described as beginning their service at 20, 25, or 30, depending upon their specific roles. See Ezra 3:8, 1 Chronicles 23:27, Numbers 8:24, Numbers 4:3. (Accounting for the differences is mostly a matter of context and exactly what tasks are in mind for those appointed. Many exegetes believe that those Levites entering the temple at age 20 were largely serving as apprentices, for example).
 
 Naturally, people who are older will have more experience to draw on, and that is definitely advantageous. However, the thing that is really more important than chronological age is "spiritual age" -- how mature is the man in question in spiritual terms? A man in his early 20s who is gifted and properly prepared to teach the Bible may be more advanced in spiritual age than a man in his 60s who has not put in the requisite effort over the years.
 
 To conclude, then, we don't have anything in the way of scriptural examples with Church leadership younger than 25ish, but even if a man starts teaching several years before this, what really matters anyway is his level of spiritual maturity. Since it seems that most all people in Church leadership have historically started before or around 30, it is definitely not proper to mandate that all pastor-teachers in the church be gray-haired (even if many of them are in practice).
 
-### Do elders have to be married?
+### Do elders *have* to be married?
 
 First off, formally speaking, Paul was an Apostle (with a capital A) -- one of the true twelve. Apostles were a different office in the Church than pastor-teachers (compare Ephesians 4:11). It is definitely proper to view Paul as possessing the spiritual gift of teaching (which underpins the Church office of pastor-teacher), but he carried much more authority than rank-and-file teachers on account of his Apostleship. Regardless:
 
-The NASB's translation "husband of one wife" in Titus 1:6 is actually pretty good. The Greek reads μιᾶς γυναικὸς ἀνήρ, which is quite literally "a one-woman man." Rather than requiring all pastor-teachers to be married (which would sort of fly in the face of Paul's comments in 1 Corinthians 7, for example), this verse is prohibiting polygamists from serving as pastor-teachers within the Church. (Polygamy was something more common at the time this epistle was written than in our own day). If you wish to sacrifice brevity for clarity: "An elder shall have either no wife or one wife, but not multiple wives."
+The NASB's translation "husband of one wife" in Titus 1:6 is actually pretty good. The Greek reads μιᾶς γυναικὸς ἀνήρ, which is quite literally "a one-woman man." Rather than requiring all pastor-teachers to be married (which would sort of fly in the face of Paul's comments in 1 Corinthians 7, for example), this verse is prohibiting polygamists from serving as pastor-teachers within the Church. (It may seem kind of strange to us to explicitly forbid such, but polygamy was something more common at the time this epistle was written than in our own day). If you wish to sacrifice brevity for clarity: "An elder shall have either no wife or one wife, but not multiple wives."
 
 ### Back to the "big picture"
 
@@ -127,8 +150,8 @@ Spending time detailing exactly what scripture says and means (as we have been d
 In practice, here is how Church organization works:
 
 - Whenever there is a group of people meeting (a church; Greek [ἐκκλησία](https://biblehub.com/greek/1577.htm) = assembly), there will be a group of people in charge. (Biblically speaking, these people are to be men). These people are the elders.
-- If the church is worth anything, there will be Bible teaching going on. Inevitably, one or more of the elders will do the bulk of the teaching. It is probably most common for one person to carry most of the primary teaching load (although things do not have to be this way).
-- Thus, whether or not those teaching have authority de jure, they will have it de facto. The man (or men) teaching will exercise primary spiritual leadership over the local assembly.
+- If the church is worth anything, there will be Bible teaching going on. Inevitably, one or more of the elders will do the bulk of the teaching. It is probably most common for one person to carry most of the primary teaching load (although things do not *have* to be this way).
+- Thus, whether or not those teaching have authority *de jure*, they will have it *de facto*. The man (or men) teaching will exercise primary spiritual leadership over the local assembly.
 
 Anything and everything else on top of this is just window-dressing. There is nothing inherently wrong with window-dressing, mind you, but issues arise when people start getting exercised doctrinally about matters of window-dressing.
 
@@ -178,30 +201,30 @@ Is this correct?
 
 This is essentially correct (although see the discussion on culture and adulthood below).
 
+Do also note that it is probably right and good for some young people -- those  beginning to manifest leadership and teaching gifts -- to step up and help lead their peers. This is different from these people  completely taking on the Church office of pastor-teacher, but it is nonetheless worth mentioning.
+
 ### 2. On Timothy's age
 
-Yes, you have it right here -- Paul's comments in 1 Timothy 4:12 are aimed at getting people to listen to a full-grown man (even if a young one), not a child. Paul picks up Timothy on his second missionary journey (see Acts 16:1ff). Regardless of Timothy's exact age at this point, he traveled with Paul and Paul's other companions for some time. (This large dose of serious life-experience no doubt helped Timothy grow up quickly if he wasn't already mature before joining Paul's party). Without getting into the nitty-gritty details of dating Paul's writings, Paul wrote 1 Timothy a good number of years after picking up Timothy here. Common sense tells us that Timothy must have been at least an older teenager before joining Paul (since travel in antiquity was so harsh and inhospitable, he would have been an immense burden in the traveling otherwise), so he's definitely in his 20s or 30s when Paul is writing 1 Timothy 4:12. (And of course Paul had handed him the reigns of leadership in Ephesus some time before this -- compare 1 Timothy 1:3).
+Yes, you have it right here -- Paul's comments in 1 Timothy 4:12 are aimed at getting people to listen to a full-grown man (even if a young one), not a child. Paul picked up Timothy on his second missionary journey (see Acts 16:1ff). Regardless of Timothy's exact age at this point, he traveled with Paul and Paul's other companions for some time. (This large dose of serious life-experience no doubt helped Timothy grow up quickly if he wasn't already mature before joining Paul's party). Without getting into the nitty-gritty details of dating Paul's writings, Paul wrote 1 Timothy a good number of years after first picking up Timothy. Common sense tells us that Timothy must have been at least an older teenager before joining Paul (since travel in antiquity was so harsh and inhospitable, he would have been an immense burden in the traveling otherwise), so he's definitely in his 20s or 30s when Paul is writing 1 Timothy 4:12. (And of course Paul had handed him the reigns of leadership in Ephesus some time before this -- compare 1 Timothy 1:3).
 
-Worth pointing out is that "adulthood" is a culturally conditioned concept. For the vast majority of history, girls were considered to be women (and of marriageable age) once puberty hit and they started menstruating. Boys were a bit more variable by culture, but we're still usually talking teens rather than 20s in most times and places. Considering lifespans were noticeably shorter until recent times, you sort of see why people took on the adult mantle sooner.
+Worth pointing out is that "adulthood" is a concept that is very strongly culturally conditioned. For the vast majority of history, girls were considered to be women (and of marriageable age) once puberty hit and they started menstruating. Boys were a bit more variable by culture, but we're still usually talking teens rather than 20s in most times and places. Considering lifespans were noticeably shorter until recent times, you sort of see why people took on the adult mantle sooner.
 
 The same can still be true even nowadays, by the way. Kids in difficult circumstances (e.g., having to take care of younger siblings due to the absence of one or both parents) tend to grow up real fast, no matter their chronological age. In the United States, our society has pushed back full adulthood and independence until early to mid 20s (for most people), but this is somewhat artificial.
 
-All this is a long way of saying that squinting too closely at this concept of "only adults can be pastor-teachers" is still problematic if you try to force one culture's definition of adulthood on a different culture. This example hopefully helps illustrate why I have been so strongly making the point that the specifics of Church polity are purposefully left vague in scripture.
+All this is a long way of saying that squinting too closely at this concept of "only adults can be pastor-teachers" is *still* problematic if you try to force one culture's definition of adulthood on a different culture. This example hopefully helps illustrate why I have been so strongly making the point that the specifics of Church polity are purposefully left vague in scripture.
 
 ### 3. Examples of non-married pastor-teachers?
 
-Barnabas is an example of a teacher who was not married (compare 1 Corinthians 9:5-6).
+Barnabas is an example of a pastor-teacher who was not married (compare 1 Corinthians 9:5-6).
 
 Regarding scripture as a whole, you might also consider Elijah and John the Baptist (who is typologically connected to Elijah). Moses was married (twice), but Elijah never was.
 
-Jesus Himself is also an example of an unmarried teacher, but He had a very special mission and calling. We certainly can (and should!) learn from His life and His example, but we are definitely not anywhere near Him in terms of our understanding and faithfulness. (This is why "What would Jesus do?" is somewhat useless as a concept -- it is always more appropriate to ask "What does Jesus want me to do?").
+Jesus Himself is also an example of an unmarried teacher, but He had a very special mission and calling. While we certainly can (and should!) learn from His life and His example, we are definitely not anywhere near Him in terms of our understanding and faithfulness. (Compare the cautionary note from my last response).
 
 ### 4. The high-level view of Church polity
 
 {{% quote %}}
-
 So the logic basically goes "All churches have people who teach and therefore have authority, whatever you want to call them. Everything else matters not in the specifics." Is that right?
-
 {{% /quote %}}
 
 Yes, you have things right here too. It really is that simple!
@@ -213,9 +236,7 @@ In short, not everyone who claims to be a pastor, especially nowadays, actually 
 ### 5. Other offices in the Church from Ephesians 4:11
 
 {{% quote %}}
-
 You made a distinction between Paul as a "capital A Apostle" and rank-and-file pastor-teachers. Ephesians 4:11 also mentions prophets and evangelists. Are these the other offices within the Church?
-
 {{% /quote %}}
 
 Yes, Prophet and Evangelist are two other offices in the Church. In addition to the roles mentioned in Ephesians 4:11, we also have deacons (coming from the Greek word [διάκονος](https://biblehub.com/greek/1249.htm)). Deacons serve the Church as well, but in a lower-profile way that does not involve the exercising of authority. They are still critically important though (compare the thrust of 1 Corinthians 12).
@@ -234,7 +255,7 @@ The Old Testament prophets proper (like Elijah) are somewhat distinct from the "
 
 How then were people in the early churches supposed to learn and teach? It's all well and good to have Paul and/or his associates drop by every couple years, but what about the rest of the time?
 
-The short answer is that the Lord empowered certain individuals in a miraculous (though not ecstatic) way to be able to communicate His truth in the absence of the written Word. These are the "prophets" mentioned here.
+The short answer is that the Lord empowered certain individuals in a miraculous (though not ecstatic) way to be able to communicate His truth in the absence of the completed written Word. These are the "prophets" mentioned here. As the canon of scripture closed, the need for this gift lessened and eventually ceased altogether, such that believers stopped receiving this special temporary empowerment long ago. (You should also run far away from people today claiming to be modern day "prophets").
 
 You can read more about these folks [in BB5: Pneumatology](https://ichthys.com/5-Pneumato.htm#Prophecy:__) on [Ichthys](https://ichthys.com/).
 
@@ -250,4 +271,4 @@ As a rule of thumb, evangelists are responsible for sharing the gospel with peop
 
 Alongside teaching, evangelism is the one other effort that all churches ought to be formally supporting. Whether this takes the form of local outreach or overseas missions (or both) is, as with all other matters of Church polity, something that is left flexible for individual churches to decide for themselves. The main point is that evangelism is a crucial responsibility of the Church, rather than something that is optional or unimportant.
 
-Just how the internet and other modern communication media have greatly broadened how Bible teaching can proceed in our modern world, so too have these things greatly increased the possibilities open to gifted evangelists.
+Just how the internet and other modern communication mediums have greatly broadened how Bible teaching can proceed in our modern world, so too have these things greatly increased the possibilities open to gifted evangelists.

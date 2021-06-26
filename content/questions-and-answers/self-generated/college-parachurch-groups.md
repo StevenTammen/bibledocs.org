@@ -1,7 +1,13 @@
-+++
-title = "Pilot Posting: Parachurch Groups and College"
-
-+++
+---
+title: College Parachurch Groups
+date: 2021-6-26
+tags: []
+weight: 
+contentlevel: intermediate+
+inprogress: false
+summary: >-
+   Christian fellowship groups abound in college. If we make spiritual growth our top priority, should these college parachurch groups have any place in our spiritual walk? If we generalize, what are such groups typically like? This page goes over such things.
+---
 
 ## Hypothetical person: Question 1.1
 
@@ -34,7 +40,7 @@ Emotion is a common "substitute" for the truth. While even more formally-organiz
 
 When people lack an edifice of truth to anchor them in their hearts, emotion sweeps them this way and that, like a boat being tossed upon the stormy waters. At first this may seem like great fun, but then the winds die down, the waves recede, and they find themselves adrift on the open sea with no point of reference and nothing to hold to. When the excitement dies down, in other words, a bit of self-reflection reveals a most bleak situation.
 
-The [cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance) that arises from this tends to drive them to even more problematic behavior. Between "hits" of emotion, people may become disconcerted by the hollowness and emptiness that stares them in the face. (Compare the ups and downs of heroin addiction, and even the natural peaks and valleys in energy caused by the hormone insulin). In such times, people may try to plaster over the emptiness by "doing good things" for God. The thought, I suppose, is that they might make up for their irresponsible attitude to the truth. Unfortunately for them, that is not how things work. God doesn't at all need us or our paltry works, works that are but dirty rags in the face of divine perfection, works inevitably and irreparably tainted by sinfulness and human frailty.
+The [cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance) that arises from this may drive people to even more problematic behavior. Between "hits" of emotion, people may become disconcerted by the hollowness and emptiness that stares them in the face. (Compare the ups and downs of heroin addiction, and even the natural peaks and valleys in energy caused by the hormone insulin). In such times, people may try to plaster over the emptiness by "doing good things" for God. The thought, I suppose, is that they might somehow make up for their irresponsible attitude to the truth. Unfortunately for them, that is not how things work. God doesn't at all need us or our paltry works, works that are but dirty rags in the face of divine perfection, works inevitably and irreparably tainted by sinfulness and human frailty.
 
 #### Examples of "good things" used to plaster over the emptiness
 
@@ -72,9 +78,9 @@ The rest of the time, it is wise to adopt an attitude of prudent watchfulness be
 
 Would it be wise for an alcoholic to search for someone to help them on their path to sobriety in a bar full of drunk people?
 
-In the same way, if you are looking for excellent Christian fellowship -- friends who understand what spiritual growth, progress and production is really all about and are determined to do that which Christ has planned for them -- the best place to look for them is not among lukewarm parachurch groups.
+In the same way, if you are looking for excellent Christian fellowship -- friends who understand what spiritual growth, progress and production is really all about and are determined to do that which Christ has planned for them -- the best place to look for them is not among the people that compose lukewarm parachurch groups. (Recall that while it is not fair to pre-judge each and every parachurch group before personally observing them -- that is, every group is different, and must be individually evaluated before truly knowing in a specific case -- it is in fact possible to generalize and say that many and probably even most can be fairly characterized as lukewarm).
 
-You should feel no shame in turning elsewhere in search of meaningful Christian fellowship -- including (although certainly not limited to) internet options. Supporting one another in the Body of Christ is important, to be sure, but don't let lukewarm groups convince you that there is something wrong with things that aren't in-person and local. Scripture says this nowhere, and in fact, now that technology allows for us to be globally interconnected, the onus is on them to prove why there is something wrong with embracing the new opportunities that allow us to communicate the truth and enjoy each other's company in more ways than ever before.
+You should feel no shame in turning elsewhere in search of meaningful Christian fellowship -- including (although certainly not limited to) internet options. Supporting one another in the Body of Christ is important, to be sure, but don't let certain lukewarm groups convince you that there is something wrong with things that aren't in-person and geographically local. Scripture says this nowhere, and in fact, now that technology allows for us to be globally interconnected, the onus is on them to prove why there is something wrong with embracing the new opportunities that allow us to communicate the truth and enjoy each other's company in more ways than ever before.
 
 To put things bluntly, there is nothing wrong with doing things all online. There is also nothing wrong with doing things all in-person, or in some combination of the two that splits the difference. There is a problem when lukewarm in-person groups lay heavy guilt-trips upon people doing things all online to try and make them drink the group's lukewarm kool-aid.
 
