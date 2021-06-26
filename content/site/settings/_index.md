@@ -36,7 +36,7 @@ While you can always go back and forth between the higher level version and lowe
 	}
 	
 	#writingLevelContainer input {
-		width: 240px;
+		width: 300px;
 	}
 	
 
@@ -58,7 +58,7 @@ While you can always go back and forth between these two display options using t
 
 <style>
 	#scriptureDisplayContainer input {
-		width: 280px;
+		width: 300px;
 	}
 </style>
 
@@ -76,7 +76,7 @@ By default list pages show summaries for all the content pages they link to. Thi
 
 <style>
 	#summariesContainer input {
-		width: 280px;
+		width: 300px;
 	}
 </style>
 
