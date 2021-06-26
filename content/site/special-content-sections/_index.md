@@ -135,9 +135,15 @@ The line to walk here is appreciating the importance of faith in our decisions (
 
 ### Technical discussion
 
-{{% technical-discussion %}}
+<div class="special-content" style="background: #ffe0cc;">
+
+<strong>
+	<a href="/about-the-site/#technical-discussion">Technical discussion</a>
+</strong>
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-{{% /technical-discussion %}}
+	
+</div>
 
 [As described on the page discussing writing level](/site/writing-level/#higher-and-lower-writing-levels-on-this-site), the higher-level writing on this site sometimes contains technical discussion that is not included in the lower-level writing for the same content. In general, the purpose of this discussion is to formally justify points made without toning things down completely. This is not to say that discussions that fall into this special content section are made purposefully impenetrable or anything like that, but simply that the discussion is not nearly as tempered for an audience with less knowledge.
 
