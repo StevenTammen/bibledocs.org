@@ -284,6 +284,9 @@ span.basic, span.intermediate, span.advanced, span.mixed {
 	background: #f2d9f2;
 }
 
+.special-content.example {
+	background: #f9f2ec;
+}
 
 /* STEP Bible app iframes */
 

@@ -27,13 +27,23 @@ I find that quoting text in larger blocks (even multiple paragraphs) is often us
 
 The source for a given quote is linked in the label of the section ("Quote from {Source}") in almost all cases. (The only real exception is when the source is not linkable for some reason, such as if a website no longer exists).
 
+### Examples
+
+{{% example %}}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+{{% /example %}}
+
+Perhaps the most self-explanatory of all the special content sections, example sections contain, well, examples.
+
+Typically, examples are given inline (that is, within the body of the text itself), but if they get kind of long, then I'll pull them out and stick them in these sections.
+
 ### Sidenotes
 
 {{% sidenote %}}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 {{% /sidenote %}}
 
-Perhaps the most self-explanatory of all these special content sections, sidenote sections contain exactly what you think they would: writing that is only sorta-kinda related to what is under current discussion.
+Sidenote sections contain exactly what you think they would: writing that is only sorta-kinda related to what is under current discussion.
 
 As a general principle, I try to avoid remarks that are well and truly off-topic, so these sections contain things that are related but only tangentially so.
 
@@ -138,7 +148,7 @@ The line to walk here is appreciating the importance of faith in our decisions (
 <div class="special-content" style="background: #ffe0cc;">
 
 <strong>
-	<a href="/about-the-site/#technical-discussion">Technical discussion</a>
+	<a href="/site/special-content-sections/#technical-discussion">Technical discussion</a>
 </strong>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
