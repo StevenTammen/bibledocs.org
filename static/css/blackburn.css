@@ -359,13 +359,13 @@ span.basic, span.intermediate, span.advanced, span.mixed {
   text-decoration: none;
 }
 
-@media (min-width: 48em) {
+@media (min-width: 720px) {
   .mobile-bar {
 	display: none;
   }
 }
 
-@media (max-width: 48em) {
+@media (max-width: 720px) {
   .mobile-bar {
 	display: flex;
   }
