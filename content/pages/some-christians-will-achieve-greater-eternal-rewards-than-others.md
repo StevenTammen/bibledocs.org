@@ -182,7 +182,9 @@ While far from the most direct or convincing evidence against the false doctrine
 
 The doctrine of the pre-tribulation rapture typically holds that there is some sort of pseudo-return of Christ before the tribulation, and that it is at this point that the Church is raptured. (The tribulation is an event in the book of Revelation where the world suffers calamity and judgement as the Antichrist comes to wield and use power. The rapture is an event described in 1 Thessalonians 4:16–17 where living Christians are "caught up" in the air with Christ, and dead Christians are raised).
 
-According to the doctrine, Christ does not fully return at this point. The doctrine holds that the "coming" or "return" of Christ mentioned in Matthew 24:27, 37; 1 Thessalonians 4:15; and elsewhere instead happens before {{% def "Armageddon" %}} at the end of the tribulation.
+According to the doctrine, Christ does not fully return at this point. The doctrine holds that the "coming" or "return" of Christ mentioned in Matthew 24:27, 37; 1 Thessalonians 4:15; and elsewhere instead happens before {{% def "Armageddon" %}} [^Armageddon] at the end of the tribulation.
+
+[^Armageddon]: [**Armageddon**](/site/glossary/#armageddon): The final battle wherein Christ returns in radiant glory to defeat all the armies of the Antichrist. Occurs at the end of the tribulation, and precedes Christ’s literal 1000-year reign on earth during the Millennium.
 
 {{% technical-discussion %}}
 The word translated as "coming" or "return" in these verses is the Greek word [παρουσία](https://biblehub.com/greek/3952.htm). When the second coming of Christ is mentioned in the New Testament, this is the word that is used. This, along with the observation that there is not anything on the surface that clearly indicates that the usages of παρουσία across verses are referring to different events, is one of the strongest arguments against the doctrine of the pre-tribulation rapture.
