@@ -9,12 +9,6 @@ summary: >-
    As Ephesians 2:8-9 tells us, salvation most assuredly does come by grace through faith (and not by works). However, this does not mean that all Christians will end up with the same level of reward in eternity. Quite to the contrary, the Bible is very clear that those who render more disinguished service with what they have been given in this life will be rewarded in proportion to their true commitment to the Lord. The goal of this page is to briefly put forward some of the scriptural evidence for this concept and deal with some common objections.
 ---
 
-{{< raw-html >}}
-<button onclick="toLowerWritingLevel();">To Lower</button>
-<br/>
-<button onclick="toHigherWritingLevel();">To Higher</button>
-{{< /raw-html >}}
-
 Every day people give honor to distinguished service and scorn laziness. The idea of different levels of recognition and reward for different levels of service does not seem to be very controversial to most people. 
 
 However, some people seem to have a problem when the rewards in question are not physical rewards in this temporary world of ours, but eternal rewards. There are several reasons why people might take issue:
@@ -31,17 +25,29 @@ Scripture is quite clear that upon Christ’s return, judgement will be rendered
 
 {{% esv h="600px" p="Matthew 16:27  | 2 Corinthians 5:10 | Revelation 22:12" %}}
 
-{{% scripture p="Matthew 16:27  | NIV84" %}}
+{{% scripture-h p="Matthew 16:27  | NIV84" %}}
 For the Son of Man is going to come in his Father’s glory with his angels, and then he will reward each person according to what he has done.
-{{% /scripture %}}
+{{% /scripture-h %}}
 
-{{% scripture p="2 Corinthians 5:10 | NIV84" %}}
+{{% scripture-l p="Matthew 16:27  | NIrV" %}}
+The Son of Man is going to come in his Father’s glory. His angels will come with him. And he will reward everyone in keeping with what they have done.
+{{% /scripture-l %}}
+
+{{% scripture-h p="2 Corinthians 5:10 | NIV84" %}}
 For we must all appear before the judgment seat of Christ, that each one may receive what is due him for the things done while in the body, whether good or bad.
-{{% /scripture %}}
+{{% /scripture-h %}}
 
-{{% scripture p="Revelation 22:12 | NIV84" %}}
-“Behold, I am coming soon! My reward is with me, and I will give to everyone according to what he has done."
-{{% /scripture %}}
+{{% scripture-l p="2 Corinthians 5:10 | NIrV" %}}
+We must all stand in front of Christ to be judged. Each one of us will be judged for the good things and the bad things we do while we are in our bodies. Then each of us will receive what we are supposed to get.
+{{% /scripture-l %}}
+
+{{% scripture-h p="Revelation 22:12 | NIV84" %}}
+"Behold, I am coming soon! My reward is with me, and I will give to everyone according to what he has done."
+{{% /scripture-h %}}
+
+{{% scripture-l p="Revelation 22:12 | NIrV" %}}
+"Look! I am coming soon! I bring my rewards with me. I will reward each person for what he has done."
+{{% /scripture-l %}}
 
 {{% /esv %}}
 
@@ -51,9 +57,14 @@ Paul gives us some more detail on the process of evaluation in 1 Corinthians 3:
 
 {{% esv h="400px" p="1 Corinthians 3:10-15" %}}
 
-{{% scripture p="1 Corinthians 3:10-15 | NIV84" %}}
+{{% scripture-h p="1 Corinthians 3:10-15 | NIV84" %}}
 **10** By the grace God has given me, I laid a foundation as an expert builder, and someone else is building on it. But each one should be careful how he builds. **11** For no one can lay any foundation other than the one already laid, which is Jesus Christ. **12** If any man builds on this foundation using gold, silver, costly stones, wood, hay or straw, **13** his work will be shown for what it is, because the Day will bring it to light. It will be revealed with fire, and the fire will test the quality of each man’s work. **14** If what he has built survives, he will receive his reward. **15** If it is burned up, he will suffer loss; he himself will be saved, but only as one escaping through the flames.
-{{% /scripture %}}
+{{% /scripture-h %}}
+
+{{% scripture-l p="1 Corinthians 3:10-15 | NIrV" %}}
+**10** God has given me the grace to lay a foundation as a master builder. Now someone else is building on it. But each one should build carefully. **11** No one can lay any other foundation than the one that has already been laid. That foundation is Jesus Christ. 
+**12** A person may build on it using gold, silver, jewels, wood, hay or straw. **13** But each person’s work will be shown for what it is. On judgment day it will be brought to light. It will be put through fire. The fire will test how good everyone’s work is. **14** If the building doesn’t burn up, God will give the builder a reward for his work. **15** If the building burns up, the builder will lose everything. The builder will be saved, but only like one escaping through the flames. 
+{{% /scripture-l %}}
 
 {{% /esv %}}
 
@@ -63,13 +74,21 @@ Finally, consider the passages that teach that many of the last will be first an
 
 {{% esv h="400px" p="Mark 10:31 | Luke 13:30" %}}
 
-{{% scripture p="Mark 10:31 | NIV84" %}}
-But many who are first will be last, and the last first.
-{{% /scripture %}}
+{{% scripture-h p="Mark 10:31 | NIV84" %}}
+"But many who are first will be last, and the last first."
+{{% /scripture-h %}}
 
-{{% scripture p="Luke 13:30 | NIV84" %}}
-Indeed there are those who are last who will be first, and first who will be last.”
-{{% /scripture %}}
+{{% scripture-l p="Mark 10:31 | NIrV" %}}
+"But many who are first will be last. And the last will be first."
+{{% /scripture-l %}}
+
+{{% scripture-h p="Luke 13:30 | NIV84" %}}
+"Indeed there are those who are last who will be first, and first who will be last."
+{{% /scripture-h %}}
+
+{{% scripture-l p="Luke 13:30 | NIrV" %}}
+"Then the last will be first. And the first will be last."
+{{% /scripture-l %}}
 
 {{% /esv %}}
 
@@ -83,7 +102,7 @@ These two parables also clearly teach that the level of our reward in eternity i
 
 {{% esv h="800px" p="Matthew 25:14-30" %}}
 
-{{% scripture p="Matthew 25:14-30 | NIV84" %}}
+{{% scripture-h p="Matthew 25:14-30 | NIV84" %}}
 **14** “Again, it will be like a man going on a journey, who called his servants and entrusted his property to them. **15** To one he gave five talents of money, to another two talents, and to another one talent, each according to his ability. Then he went on his journey. **16** The man who had received the five talents went at once and put his money to work and gained five more. **17** So also, the one with the two talents gained two more. **18** But the man who had received the one talent went off, dug a hole in the ground and hid his master’s money. 
 **19** “After a long time the master of those servants returned and settled accounts with them. **20** The man who had received the five talents brought the other five. ‘Master,’ he said, ‘you entrusted me with five talents. See, I have gained five more.’ 
 **21** “His master replied, ‘Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Come and share your master’s happiness!’ 
@@ -92,7 +111,19 @@ These two parables also clearly teach that the level of our reward in eternity i
 **24** “Then the man who had received the one talent came. ‘Master,’ he said, ‘I knew that you are a hard man, harvesting where you have not sown and gathering where you have not scattered seed. **25** So I was afraid and went out and hid your talent in the ground. See, here is what belongs to you.’ 
 **26** “His master replied, ‘You wicked, lazy servant! So you knew that I harvest where I have not sown and gather where I have not scattered seed? **27** Well then, you should have put my money on deposit with the bankers, so that when I returned I would have received it back with interest. 
 **28** “ ‘Take the talent from him and give it to the one who has the ten talents. **29** For everyone who has will be given more, and he will have an abundance. Whoever does not have, even what he has will be taken from him. **30** And throw that worthless servant outside, into the darkness, where there will be weeping and gnashing of teeth.
-{{% /scripture %}}
+{{% /scripture-h %}}
+
+{{% scripture-l p="Matthew 25:14-30 | NIrV" %}}
+**14** “Again, here is what the kingdom of heaven will be like. A man was going on a journey. He sent for his servants and put them in charge of his property. **15** He gave $10,000 to one. He gave $4,000 to another. And he gave $2,000 to the third. The man gave each servant the amount of money he knew the servant could take care of. Then he went on his journey. 
+16“The servant who had received the $10,000 went at once and put his money to work. He earned $10,000 more. **17** The one with the $4,000 earned $4,000 more. **18** But the man who had received $2,000 went and dug a hole in the ground. He hid his master’s money in it. 
+19“After a long time the master of those servants returned. He wanted to collect all the money they had earned. **20** The man who had received $10,000 brought the other $10,000. ‘Master,’ he said, ‘you trusted me with $10,000. See, I have earned $10,000 more.’ 
+21“His master replied, ‘You have done well, good and faithful servant! You have been faithful with a few things. I will put you in charge of many things. Come and share your master’s happiness!’ 
+22“The man with $4,000 also came. ‘Master,’ he said, ‘you trusted me with $4,000. See, I have earned $4,000 more.’ 
+23“His master replied, ‘You have done well, good and faithful servant! You have been faithful with a few things. I will put you in charge of many things. Come and share your master’s happiness!’ 
+24“Then the man who had received $2,000 came. ‘Master,’ he said, ‘I knew that you are a hard man. You harvest where you have not planted. You gather crops where you have not scattered seed. **25** So I was afraid. I went out and hid your $2,000 in the ground. See, here is what belongs to you.’ 
+26“His master replied, ‘You evil, lazy servant! So you knew that I harvest where I have not planted? You knew that I gather crops where I have not scattered seed? **27** Well then, you should have put my money in the bank. When I returned, I would have received it back with interest.’ 
+28“Then his master commanded the other servants, ‘Take the $2,000 from him. Give it to the one who has $20,000. **29** Everyone who has will be given more. He will have more than enough. And what about anyone who doesn’t have? Even what he has will be taken away from him. **30** Throw that worthless servant outside. There in the darkness, people will sob and grind their teeth.’
+{{% /scripture-l %}}
 
 {{% /esv %}}
 
@@ -100,7 +131,7 @@ These two parables also clearly teach that the level of our reward in eternity i
 
 {{% esv h="800px" p="Luke 19:11-27" %}}
 
-{{% scripture p="Luke 19:11-27 | NIV84" %}}
+{{% scripture-h p="Luke 19:11-27 | NIV84" %}}
 **11** While they were listening to this, he went on to tell them a parable, because he was near Jerusalem and the people thought that the kingdom of God was going to appear at once. **12** He said: “A man of noble birth went to a distant country to have himself appointed king and then to return. **13** So he called ten of his servants and gave them ten minas. ‘Put this money to work,’ he said, ‘until I come back.’ 
 **14** “But his subjects hated him and sent a delegation after him to say, ‘We don’t want this man to be our king.’ 
 **15** “He was made king, however, and returned home. Then he sent for the servants to whom he had given the money, in order to find out what they had gained with it. 
@@ -113,37 +144,25 @@ These two parables also clearly teach that the level of our reward in eternity i
 **24** “Then he said to those standing by, ‘Take his mina away from him and give it to the one who has ten minas.’ 
 **25** “ ‘Sir,’ they said, ‘he already has ten!’ 
 **26** “He replied, ‘I tell you that to everyone who has, more will be given, but as for the one who has nothing, even what he has will be taken away. **27** But those enemies of mine who did not want me to be king over them—bring them here and kill them in front of me.’ ”
-{{% /scripture %}}
+{{% /scripture-h %}}
+
+{{% scripture-l p="Luke 19:11-27 | NIrV" %}}
+**11** While the people were listening to these things, Jesus told them a story. He was near Jerusalem. The people thought that God’s kingdom was going to appear right away. 
+**12** Jesus said, “A man from an important family went to a country far away. He went there to be made king and then return home. **13** So he sent for ten of his servants. He gave them each about three months’ pay. ‘Put this money to work until I come back,’ he said. 
+**14** “But those he ruled over hated him. They sent some messengers after him. They were sent to say, ‘We don’t want this man to be our king.’ 
+**15** “But he was made king and returned home. Then he sent for the servants he had given the money to. He wanted to find out what they had earned with it. 
+**16** “The first one came to him. He said, ‘Sir, your money has earned ten times as much.’ 
+**17** “ ‘You have done well, my good servant!’ his master replied. ‘You have been faithful in a very small matter. So I will put you in charge of ten towns.’ 
+**18** “The second servant came to his master. He said, ‘Sir, your money has earned five times as much.’ 
+**19** “His master answered, ‘I will put you in charge of five towns.’ 
+**20** “Then another servant came. He said, ‘Sir, here is your money. I have kept it hidden in a piece of cloth. **21** I was afraid of you. You are a hard man. You take out what you did not put in. You harvest what you did not plant.’ 
+**22** “His master replied, ‘I will judge you by your own words, you evil servant! So you knew that I am a hard man? You knew that I take out what I did not put in? You knew that I harvest what I did not plant? **23** Then why didn’t you put my money in the bank? When I came back, I could have collected it with interest.’ 
+**24** “Then he said to those standing by, ‘Take his money away from him. Give it to the one who has ten times as much.’ 
+**25** “ ‘Sir,’ they said, ‘he already has ten times as much!’ 
+**26** “He replied, ‘I tell you that everyone who has will be given more. But here is what will happen to anyone who has nothing. Even what he has will be taken away from him. **27** And what about my enemies who did not want me to be king over them? Bring them here! Kill them in front of me!’”
+{{% /scripture-l %}}
 
 {{% /esv %}}
-
-{{% technical-discussion %}}
-
-#### One heading
-
-In Luke 19:15, the aorist participial phrase λαβόντα τὴν βασιλείαν is modifying the returning master. It is very common to translate circumstantial aorist participles temporally. Here, that would mean that λαβόντα τὴν βασιλείαν would be translated as "after receiving the kingdom." The meaning is also perfectly clear if you keep the participle in English -- "having received the kingdom."
-
-Taking it causally ("because/since he received the kingdom") makes no sense here, and taking it concessively ("although he received the kingdom") doesn't make any sense either.
-
-Any way you look at this verse, then, you can't escape the fact that the returning master of Luke 19:15 receives the kingdom and then judges His servants. 
-
-##### Two heading
-
-In Luke 19:15, the aorist participial phrase λαβόντα τὴν βασιλείαν is modifying the returning master. It is very common to translate circumstantial aorist participles temporally. Here, that would mean that λαβόντα τὴν βασιλείαν would be translated as "after receiving the kingdom." The meaning is also perfectly clear if you keep the participle in English -- "having received the kingdom."
-
-Taking it causally ("because/since he received the kingdom") makes no sense here, and taking it concessively ("although he received the kingdom") doesn't make any sense either.
-
-Any way you look at this verse, then, you can't escape the fact that the returning master of Luke 19:15 receives the kingdom and then judges His servants. 
-
-##### Three heading
-
-In Luke 19:15, the aorist participial phrase λαβόντα τὴν βασιλείαν is modifying the returning master. It is very common to translate circumstantial aorist participles temporally. Here, that would mean that λαβόντα τὴν βασιλείαν would be translated as "after receiving the kingdom." The meaning is also perfectly clear if you keep the participle in English -- "having received the kingdom."
-
-Taking it causally ("because/since he received the kingdom") makes no sense here, and taking it concessively ("although he received the kingdom") doesn't make any sense either.
-
-Any way you look at this verse, then, you can't escape the fact that the returning master of Luke 19:15 receives the kingdom and then judges His servants. 
-
-{{% /technical-discussion %}}
 
 #### Discussion
 
@@ -187,7 +206,7 @@ Any way you look at this verse, then, you can't escape the fact that the returni
 
 ##### If they take the return of the master to be Christ's full return before Armageddon
 
-A supporter of the pre-tribulation rapture position might then decide to identify the return of the master in the parable with the full return of Christ before Armageddon rather than with the pseudo-return of Christ before the supposed pre-tribulation rapture. However, there are problems in doing this too! Let us say that the return of the master represents the full return of Christ before Armageddon. (This would then mean that the judgement and reward of the Church happens before Armageddon, since in the parables the servants are rewarded at the time when their master returns). The problem with the interpretation now is related to the timing of the evaluation of the servants/Christians. The parables present the judgement and evaluation of the servants' production as the first interaction between them and the master, a person whom they have not seen in a long time. However, the doctrine of the pre-tribulation rapture necessitates raptured Christians being in the presence of Christ for *years* before being evaluated. (If Christians are raptured before the tribulation starts, and Christ returns before Armageddon at its end, then we have seven years according to Revelation).
+A supporter of the pre-tribulation rapture position might then decide to identify the return of the master in the parable with the full return of Christ before Armageddon rather than with the pseudo-return of Christ before the supposed pre-tribulation rapture. However, there are problems in doing this too! Let us say that the return of the master represents the full return of Christ before Armageddon. (This would then mean that the judgement and reward of the Church happens before Armageddon, since in the parables the servants are rewarded at the time when their master returns). The problem with the interpretation now is related to the timing of the evaluation of the servants/Christians. The parables present the judgement and evaluation of the servants' production as the first interaction between them and the master, a person whom they have not seen in a long time. However, the doctrine of the pre-tribulation rapture necessitates raptured Christians being in the presence of Christ for *years* before being evaluated. (If Christians are raptured before the tribulation starts, and Christ returns before Armageddon at its end, then we have ~7 years according to Revelation).
 
 ##### Conclusion: the rapture must happen at the end of the tribulation, when Christ returns before Armageddon
 

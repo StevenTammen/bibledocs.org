@@ -1,6 +1,6 @@
 ---
 title: Honoring and Obeying Parents
-date: 2020-10-04T12:24:39-04:00
+date: 2020-10-04
 tags: []
 weight: 
 contentlevel: intermediate+
@@ -18,29 +18,53 @@ So, I know one of the ten commandments is to honor my parents, but they drive me
 
 {{% esv h="800px" p="Exodus 20:12 | Ephesians 6:1-3 | Proverbs 1:8-9 | Proverbs 20:20 | Proverbs 23:22 | Proverbs 30:17" %}}
 
-{{% scripture p="Exodus 20:12 | NIV84" %}}
+{{% scripture-h p="Exodus 20:12 | NIV84" %}}
 Honor your father and your mother, so that you may live long in the land the LORD your God is giving you.
-{{% /scripture %}}
+{{% /scripture-h %}}
 
-{{% scripture p="Ephesians 6:1-3 | NIV84" %}}
+{{% scripture-l p="Exodus 20:12 | NIrV" %}}
+Honor your father and mother. Then you will live a long time in the land the LORD your God is giving you.
+{{% /scripture-l %}}
+
+{{% scripture-h p="Ephesians 6:1-3 | NIV84" %}}
 **1** Children, obey your parents in the Lord, for this is right. **2** “Honor your father and mother”—which is the first commandment with a promise— **3** “that it may go well with you and that you may enjoy long life on the earth.”
-{{% /scripture %}}
+{{% /scripture-h %}}
 
-{{% scripture p="Proverbs 1:8-9 | NIV84" %}}
+{{% scripture-l p="Ephesians 6:1-3 | NIrV" %}}
+**1** Children, obey your parents as believers in the Lord. Obey them because it’s the right thing to do. **2** Scripture says, “Honor your father and mother.” That is the first commandment that has a promise. **3** “Then things will go well with you. You will live a long time on the earth.”
+{{% /scripture-l %}}
+
+{{% scripture-h p="Proverbs 1:8-9 | NIV84" %}}
 **8** Listen, my son, to your father’s instruction and do not forsake your mother’s teaching. **9** They will be a garland to grace your head and a chain to adorn your neck.
-{{% /scripture %}}
+{{% /scripture-h %}}
 
-{{% scripture p="Proverbs 20:20 | NIV84" %}}
+{{% scripture-l p="Proverbs 1:8-9 | NIrV" %}}
+**8** My son, listen to your father’s advice. Don’t turn away from your mother’s teaching. **9** What they teach you will be like a beautiful crown on your head. It will be like a chain to decorate your neck.
+{{% /scripture-l %}}
+
+{{% scripture-h p="Proverbs 20:20 | NIV84" %}}
 If a man curses his father or mother, his lamp will be snuffed out in pitch darkness.
-{{% /scripture %}}
+{{% /scripture-h %}}
 
-{{% scripture p="Proverbs 23:22 | NIV84" %}}
+{{% scripture-l p="Proverbs 20:20 | NIrV" %}}
+If anyone calls down curses on his father or mother, his lamp will be blown out in total darkness.
+{{% /scripture-l %}}
+
+{{% scripture-h p="Proverbs 23:22 | NIV84" %}}
 Listen to your father, who gave you life, and do not despise your mother when she is old.
-{{% /scripture %}}
+{{% /scripture-h %}}
 
-{{% scripture p="Proverbs 30:17 | NIV84" %}}
+{{% scripture-l p="Proverbs 23:22 | NIrV" %}}
+Listen to your father, who gave you life. Don’t hate your mother when she is old.
+{{% /scripture-l %}}
+
+{{% scripture-h p="Proverbs 30:17 | NIV84" %}}
 The eye that mocks a father, that scorns obedience to a mother, will be pecked out by the ravens of the valley, will be eaten by the vultures.
-{{% /scripture %}}
+{{% /scripture-h %}}
+
+{{% scripture-l p="Proverbs 30:17 | NIrV" %}}
+"Some make fun of their fathers. Others laugh about obeying their mothers. The ravens of the valley will peck their eyes out. Then the vultures will eat them."
+{{% /scripture-l %}}
 
 {{% /esv %}}
 
@@ -50,25 +74,43 @@ Under the Law, arrogant disobedience of one's parents was grounds for execution 
 
 {{% esv h="600px" p="Leviticus 20:9 | Deuteronomy 21:18-21" %}}
 
-{{% scripture p="Leviticus 20:9 | NIV84" %}}
+{{% scripture-h p="Leviticus 20:9 | NIV84" %}}
 If anyone curses his father or mother, he must be put to death. He has cursed his father or his mother, and his blood will be on his own head.
-{{% /scripture %}}
+{{% /scripture-h %}}
 
-{{% scripture p="Deuteronomy 21:18-21 | NIV84" %}}
+{{% scripture-l p="Leviticus 20:9 | NIrV" %}}
+If anyone calls down a curse on his father or mother, he will be put to death. He has cursed his father or mother. Anything that happens to him will be his own fault.
+{{% /scripture-l %}}
+
+{{% scripture-h p="Deuteronomy 21:18-21 | NIV84" %}}
 **18** If a man has a stubborn and rebellious son who does not obey his father and mother and will not listen to them when they discipline him, **19** his father and mother shall take hold of him and bring him to the elders at the gate of his town. **20** They shall say to the elders, “This son of ours is stubborn and rebellious. He will not obey us. He is a profligate and a drunkard.” **21** Then all the men of his town shall stone him to death. You must purge the evil from among you. All Israel will hear of it and be afraid.
-{{% /scripture %}}
+{{% /scripture-h %}}
+
+{{% scripture-l p="Deuteronomy 21:18-21 | NIrV" %}}
+**18** Suppose someone has a very stubborn son. He doesn’t obey his father and mother. And he won’t listen to them when they try to correct him. **19** Then his parents will take hold of him and bring him to the elders at the gate of his town. **20** They will say to the elders, “This son of ours is very stubborn. He won’t obey us. He wastes his money. He’s always getting drunk.”
+
+**21** Then all of the people in his town will put him to death by throwing stones at him. Get rid of that evil person. All of the people of Israel will hear about it. And they will be afraid to disobey their parents.
+{{% /scripture-l %}}
 
 {{% /esv %}}
 
 Clearly, then, these things are not to be trivialized or taken lightly. In fact, it is more than just some vague notion of honor or respect that we are called to give our parents -- we are called to obey them:
 
-{{% scripture p="Ephesians 6:1-3 | NIV84" %}}
+{{% scripture-h p="Ephesians 6:1-3 | NIV84" %}}
 **1** Children, ***obey your parents in the Lord***, for this is right. **2** “Honor your father and mother”—which is the first commandment with a promise— **3** “that it may go well with you and that you may enjoy long life on the earth.”
-{{% /scripture %}}
+{{% /scripture-h %}}
 
-{{% scripture p="Colossians 3:20 | NIV84" %}}
+{{% scripture-l p="Ephesians 6:1-3 | NIrV" %}}
+**1** Children, ***obey your parents as believers in the Lord***. Obey them because it’s the right thing to do. **2** Scripture says, “Honor your father and mother.” That is the first commandment that has a promise. **3** “Then things will go well with you. You will live a long time on the earth.”
+{{% /scripture-l %}}
+
+{{% scripture-h p="Colossians 3:20 | NIV84" %}}
 Children, ***obey your parents in everything***, for this pleases the Lord.
-{{% /scripture %}}
+{{% /scripture-h %}}
+
+{{% scripture-l p="Colossians 3:20 | NIrV" %}}
+Children, ***obey your parents in everything***. That pleases the Lord.
+{{% /scripture-l %}}
 
 This is the testimony of scripture.
 
@@ -119,7 +161,7 @@ The parties involved know the realities at hand, as does God. If a child is arro
 
 So what of situations when our parents aren't really being abusive *per se*, but are also being a bit unreasonable (at least as it seems to us)? For example, what if our parents think it is their right to determine our career path, marriage partner, and even what we spend our independently-earned money on?
 
-In general, such matters fall between the explicit scriptural directives to obey our parents and clear-cut situations of abuse or improper/illegal commands on the part of our parents. This would put such things in the realm of application (hence why most of the rest of this response is in an [application section](/about-the-site/#application)).
+In general, such matters fall between the explicit scriptural directives to obey our parents and clear-cut situations of abuse or improper/illegal commands on the part of our parents. This would put such things in the realm of application (hence why most of the rest of this response is in an [application section](/site/special-content-sections/#application)).
 
 Note, however, that scripture is strong enough in its exhortations to obey our parents that always obeying our parents should be our default mindset. There's no two ways about it.
 

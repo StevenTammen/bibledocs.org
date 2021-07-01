@@ -15,11 +15,27 @@ function showPlaintext() {
 }
 
 function toggleScriptureDisplay() {
-	// if currently diplaying plaintext
+
+	// In this case, nothing other than embedded iframes are
+	// controlled by the existence of iframe wrappers, so no bugs
+	// if none exist on page. Contrast first attempt at writing level
+	// being controlled by whether or not technical discussion sections
+	// were visible -- didn't work if there were no such sections!
+
+	// // Get iframe wrappers from page
+	// var iframeWrappers = $('.step-iframe-wrapper');
+
+	// // If none on page, return immediately
+	// if(iframeWrappers.length == 0) {
+	// 	return
+	// }
+
+	// If currently diplaying plaintext.
 	if($('.step-iframe-wrapper').hasClass("display-none")) {
 		showEmbeddedWindows();
 	}
-	// if currently displaying embedded
+
+	// If currently displaying embedded
 	else {
 		showPlaintext();
 	}
@@ -55,36 +71,88 @@ initialScriptureDisplay();
 <script>
 
 function toHigherWritingLevel() {
+
+	// Add links relating to technical discussion sections to TOC
 	var technicalDicsussionSections = $('.technical-discussion').each( function(i, el) {
 		var firstHeader = $(el).children(':header').first().attr('id');
 		var selector = `#toc li a[href="#${firstHeader}"]`;
 		$(selector).parent().show(); // show li's not links
 	});
-	
+
+	// Show technical discussion sections
 	$('.technical-discussion').removeClass("display-none");
+
+	// Show sidenote sections
+	$('.sidenote').removeClass("display-none");
+
+	// Show higher level scripture sections
+	$('.scripture-h').removeClass("display-none");
+
+	// Hide lower level scripture sections
+	$('.scripture-l').addClass("display-none");
 }
 
 function toLowerWritingLevel() {
+
+	// Remove links relating to technical discussion sections from TOC
 	var technicalDicsussionSections = $('.technical-discussion').each( function(i, el) {
 		var firstHeader = $(el).children(':header').first().attr('id');
 		var selector = `#toc li a[href="#${firstHeader}"]`;
 		$(selector).parent().hide(); // hide li's not links
 	});
-	
+
+	// Hide technical discussion sections
 	$('.technical-discussion').addClass("display-none");
+
+	// Hide sidenote sections
+	$('.sidenote').addClass("display-none");
+
+	// Hide higher level scripture sections
+	$('.scripture-h').addClass("display-none");
+
+	// Show lower level scripture sections
+	$('.scripture-l').removeClass("display-none");
+}
+
+function toggleWritingLevel() {
+
+	// If currently higher level
+	if(localWritingLevel == "higher") {
+		toLowerWritingLevel();
+		localWritingLevel = "lower";
+	}
+
+	// If currently lower level
+	else if(localWritingLevel == "lower") {
+		toHigherWritingLevel();
+		localWritingLevel = "higher";
+	}
 }
 
 function initialWritingLevel() {
 	var writingLevel=getCookie("writingLevel");
 	if(writingLevel == "higher")
 	{
-		// hide lower level scripture blocks
+		// Hide lower level scripture sections
+		$('.scripture-l').addClass("display-none");
 	}
 	else if(writingLevel == "lower")
 	{
-		// hide higher level scripture blocks
+		// Remove links relating to technical discussion sections from TOC
+		var technicalDicsussionSections = $('.technical-discussion').each( function(i, el) {
+			var firstHeader = $(el).children(':header').first().attr('id');
+			var selector = `#toc li a[href="#${firstHeader}"]`;
+			$(selector).parent().hide(); // hide li's not links
+		});
+
 		// Hide technical discussion sections
-		toLowerWritingLevel();
+		$('.technical-discussion').addClass("display-none");
+
+		// Hide sidenote sections
+		$('.sidenote').addClass("display-none");
+
+		// Hide higher level scripture sections
+		$('.scripture-h').addClass("display-none");
 	}
 	// if user hasn't set cookie, set cookie and use higher writing level
 	else { // writingLevel = ""
@@ -93,6 +161,7 @@ function initialWritingLevel() {
 }
 
 initialWritingLevel()
+var localWritingLevel = getCookie("writingLevel");
 </script>
 
 <script>

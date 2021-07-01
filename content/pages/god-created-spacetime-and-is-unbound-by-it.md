@@ -75,11 +75,17 @@ The second step is understanding God's identity as I AM. In Exodus 3:14–15 God
 
 {{% esv h="400px" p="Exodus 3:14-15" %}}
 
-{{% scripture p="Exodus 3:14-15 | ESV" %}}
+{{% scripture-h p="Exodus 3:14-15 | NIV84" %}}
 
-**14** God said to Moses, “I am who I am.” And he said, “Say this to the people of Israel: ‘I am has sent me to you.’” **15** God also said to Moses, “Say this to the people of Israel: ‘The Lord, the God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has sent me to you.’ This is my name forever, and thus I am to be remembered throughout all generations.
+**14** God said to Moses, “I AM WHO I AM. This is what you are to say to the Israelites: ‘I AM has sent me to you.’” **15** God also said to Moses, “Say to the Israelites, ‘The LORD, the God of your fathers—the God of Abraham, the God of Isaac and the God of Jacob—has sent me to you.’ This is my name forever, the name by which I am to be remembered from generation to generation.
 
-{{% /scripture %}}
+{{% /scripture-h %}}
+
+{{% scripture-l p="Exodus 3:14-15 | NIrV" %}}
+
+**14** God said to Moses, “I AM WHO I AM. Here is what you must say to the Israelites. Tell them, ‘I AM has sent me to you.’” **15** God also said to Moses, “Say to the Israelites, ‘The LORD is the God of your fathers. He has sent me to you. He is the God of Abraham. He is the God of Isaac. And he is the God of Jacob.’ My name will always be The LORD. Remember me by that name for all time to come.
+
+{{% /scripture-l %}}
 
 {{% /esv %}}
 
@@ -121,7 +127,7 @@ If you like, though, read what some scholars have to say on the divine name:
 
 {{% /technical-discussion %}}
 
-Put simply, existence is tied up in who God is. God is the Alpha and Omega, He who is and was and is to come, the First and the Last, the Beginning and the End (Revelation 1:8; 22:13). For this reason, time is of little consequence to God.
+Put simply, existence is tied up in who God is. God is the Alpha and Omega, He who is and was and is to come, the First and the Last, the Beginning and the End (Revelation 1:8; 22:13). For this reason, time is of no consequence to God.
 
 ## Recap and summary
 
