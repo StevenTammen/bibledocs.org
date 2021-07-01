@@ -161,7 +161,7 @@
     opacity: 0;
     transition-delay: 0;
 }
-@media (max-width: 720px) {
+@media (max-width: 48em) {
     .littlefoot-footnote {
         border-radius: 0;
         border-width: 1px 0 0;
