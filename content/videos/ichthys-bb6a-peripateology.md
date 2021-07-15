@@ -1,11 +1,11 @@
 ---
-title: BB6A - Peripateology (Ichthys Study)
+title: Ichthys' BB6A - Peripateology
 date: 2020-10-06T21:45:06-04:00
 tags: []
 weight: 
 contentlevel: mixed
-summary: >-
-   
+summary: >- 
+   Recordings or our weekly Bible study going through BB6A on Ichthys, a study covering the Christian Walk -- the day-to-day fight we find ourselves in as believers in a hostile world.
 ---
 
 ## Overview
@@ -28,6 +28,4 @@ While the general format may change if and when we tackle a book of scripture di
 ## Notable speakers on the recordings
 
 The people you will hear most by far on these recordings are myself (Steven Tammen) and [Odii Ariwodo](/links/#writings-from-the-desk-of-odii-ariwodo), another of the [next-generation Bible teachers](/links/#next-generation-options) who came up under [Ichthys](https://ichthys.com/) and [Bible Academy](https://www.youtube.com/channel/UCkp-J7VPT7NcwmuiNfD2fkg/playlists).
-
-Both of us have primarily text-centric ministries, but the recordings of this Bible study are a non-text outlet for both of us.
 
