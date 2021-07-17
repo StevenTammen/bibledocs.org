@@ -20,9 +20,5 @@ There is [a Google Doc](https://docs.google.com/document/d/1vKx7rnNMglihjHCiAnia
 
 - [Lesson 1 Video](https://www.youtube.com/watch?v=CnIpsUyhN10&list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4&index=1)
 - [Lesson 1 Slides](lesson-1-slides.html)
-
-<!--
-- Lesson 1 Q&A
-- LEsson 1 Q&A Slides
-
--->
+- [Lesson 1 Questions and Answers Video](https://www.youtube.com/watch?v=eqtCDR-RVjc&list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4&index=2)
+- [Lesson 1 Questions and Answers Slides](lesson-1-questions-and-answers-slides.html)
