@@ -29,3 +29,22 @@ While the general format may change if and when we tackle a book of scripture di
 
 The people you will hear most by far on these recordings are myself (Steven Tammen) and [Odii Ariwodo](/links/#writings-from-the-desk-of-odii-ariwodo), another of the [next-generation Bible teachers](/links/#next-generation-options) who came up under [Ichthys](https://ichthys.com/) and [Bible Academy](https://www.youtube.com/channel/UCkp-J7VPT7NcwmuiNfD2fkg/playlists).
 
+## Week by week
+
+### Week 56.1: Revisiting idea of walking/pilgrimage; starting to recap various points from all throughout
+
+- [Week 56 part 1 video](https://www.youtube.com/watch?v=3gCOtyqdPeE&list=PLcqAebKsBWy9NzEhpik-IyU9jycIOw1e9&index=59)
+- [Week 56 part 1 slides](week-56-part-1-slides.html)
+- [Week 56 part 1 transcript](week-56-part-1-transcript.txt)
+
+### Week 56.2: This life is not about how we feel; we are soldiers in the only conflict that truly matters
+
+- [Week 56 part 2 video](https://www.youtube.com/watch?v=3gCOtyqdPeE&list=PLcqAebKsBWy9NzEhpik-IyU9jycIOw1e9&index=60)
+- [Week 56 part 2 slides](week-56-part-2-slides.html)
+- [Week 56 part 2 transcript](week-56-part-2-transcript.txt)
+
+### Week 56.3: The main battleground is in our hearts; we find peace/joy by fixing our eyes on the truth
+
+- [Week 56 part 3 video](https://www.youtube.com/watch?v=3gCOtyqdPeE&list=PLcqAebKsBWy9NzEhpik-IyU9jycIOw1e9&index=61)
+- [Week 56 part 3 slides](week-56-part-3-slides.html)
+- [Week 56 part 3 transcript](week-56-part-3-transcript.txt)
