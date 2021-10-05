@@ -91,11 +91,11 @@ https://archive.org/download/bibledocs-sr4-1qa-audio/SR4_1%20Q%26A_%20Level%20of
 
 Download slides:
 
-https://www.bibledocs.org/video-series/ichthys-sr4-satans-world-system/lesson-1-questions-and-answers-slides.html
+https://www.bibledocs.org/video-series/ichthys-sr4-satans-world-system/lesson-1-q-a-slides.html
 
 See transcript:
 
-https://www.bibledocs.org/video-series/ichthys-sr4-satans-world-system/#lesson-1-Q-A-transcript
+https://www.bibledocs.org/video-series/ichthys-sr4-satans-world-system/#lesson-1-q-a-transcript
 
 Summary:
 
