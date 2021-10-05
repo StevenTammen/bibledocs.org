@@ -84,11 +84,11 @@ paginate = 10
     identifier = "guides"
     url = "/guides/"
   [[menu.content]]
-    name = "Videos"
+    name = "Video Series"
     pre = "<i class='fab fa-youtube fa-fw'></i>"
     weight = 9
-    identifier = "videos"
-    url = "/videos/"
+    identifier = "video-series"
+    url = "/video-series/"
   [[menu.content]]
     name = "Greek Resources"
     pre = "<i class='fas fa-file-alt fa-fw'></i>"
