@@ -89,16 +89,18 @@ As a rule of thumb, if you are part of a group that tends to disagree sharply wi
 
 ### Quick reference
 
-Below is a calendar of meeting dates and times, and a map of how to get to my house where the in-person meetings are held. These things are embedded for quick reference, but to actually make use of the calendar and the map, I would recommend using these two links instead (you need this specific Maps link to be able to actually get directions to the location):
+Here are links to a calendar of meeting dates and times, and a map of how to get to my house where the in-person meetings are held:
 
 - [Link to the Google Calendar](https://calendar.google.com/calendar/embed?src=64glk00tql51oucld0l2rorhr0%40group.calendar.google.com&ctz=America%2FNew_York)
-- [Link to the location to navigate to on Google Maps](https://goo.gl/maps/inNVisgEEWwhCiao7)
+- [Link to the location to navigate to on Google Maps](https://goo.gl/maps/W3vS8Qb2oPGcqpqB9)
+
+ These things are also embedded below for quick reference:
 
 <iframe src="https://calendar.google.com/calendar/embed?src=64glk00tql51oucld0l2rorhr0%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6720.064419353613!2d-83.72251441339878!3d32.631965699234506!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7fa71c2fd2058f53!2zMzLCsDM3JzU0LjMiTiA4M8KwNDInNDMuNSJX!5e0!3m2!1sen!2sus!4v1646586067660!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3360.0356574721495!2d-83.71432838467602!3d32.63187388101607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f3e78234daa60d%3A0xb75fc2f96ca484e3!2s101%20Rabun%20Court%2C%20Byron%2C%20GA%2031008!5e0!3m2!1sen!2sus!4v1647193415622!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-Note that since Google Maps has been slow to get the new housing development that my house is in fully fleshed out in their data, the map is to direct GPS coordinates rather than an actual street address. My street address is `101 Rabun Court, Byron, GA, USA, 31008`. There is a street sign nearby and the house number of 101 is in white lettering on my black mailbox -- take care not to show up at one of my neighbors' houses!
+The house should be easy to spot since the house number (101) is in white lettering on my black mailbox -- take care not to show up at one of my neighbors' houses!
 
 To join over Zoom, you'll need the link to the Zoom meeting (which changes week to week), so you'll need to be active on either the forum or the WhatsApp Group, where the weekly Zoom link gets posted. You can read about how to join the forum and WhatsApp group [above](#joining-our-community).
 

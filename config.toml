@@ -127,23 +127,23 @@ paginate = 10
 
 
   [[menu.community]]
+    name = "Overview"
+    pre = "<i class='fas fa-users fa-fw'></i>"
+    weight = 1
+    identifier = "community-overview"
+    url = "/community-overview"
+  [[menu.community]]
+    name = "Forums"
+    pre = "<i class='fab fa-discourse fa-fw'></i>"
+    weight = 2
+    identifier = "forums"
+    url = "https://community.bibledocs.org/"
+  [[menu.community]]
     name = "Prayer List"
     pre = "<i class='fas fa-praying-hands fa-fw'></i>"
-    weight = 1
+    weight = 3
     identifier = "prayer-list"
     url = "/prayer-list/"
-#  [[menu.community]]
-#    name = "Online Bible Studies"
-#    pre = "<i class='fas fa-users fa-fw'></i>"
-#    weight = 2
-#    identifier = "online-bible-studies"
-#    url = "/site/online-bible-studies/"
-#  [[menu.community]]
-#    name = "Forums"
-#    pre = "<i class='fab fa-discourse fa-fw'></i>"
-#    weight = 3
-#    identifier = "forums"
-#    url = "/site/forums/"
 #  [[menu.community]]
 #    name = "Contact Network"
 #    pre = "<i class='fas fa-address-book fa-fw'></i>"
