@@ -16,7 +16,7 @@ The following sections will go into much more detail about all three of these th
 
 ## Joining our community
 
-Putting things behind CAPTCHAs can help minimize spammers, but it can't stop truly malicious users. For this reason, for any online community to be truly secure, it must be possible to completely remove users after-the-fact, and therefore be invite-only rather than completely open and public. If a wolf in sheep's clothing pretends to be interested, there is no way to exclude them upfront without also running the risk of excluding people we wouldn't ordinarily want to exclude. So instead, we need a way to remove the sheep-dressed wolves if they should ever bare their fangs.
+Requiring registration (rather than allowing anonymous posts) can help minimize spammers, but it can't stop truly malicious users. For this reason, for any online community to be truly secure, it must be possible to completely remove users after-the-fact, and therefore be invite-only rather than completely open and public. If a wolf in sheep's clothing pretends to be interested, there is no way to exclude them upfront without also running the risk of excluding people we wouldn't ordinarily want to exclude. So instead, we need a way to remove the sheep-dressed wolves if they should ever bare their fangs.
 
 Ours is a community dedicated to Christian love and fellowship, and I am completely unwilling to expose people to even potential harm. For this reason, our community is much more private than many other online communities, and does require getting formally invited before one can participate.
 
@@ -45,6 +45,7 @@ Non-US people: please [provide your country code](https://www.internationalcitiz
 </form>
 
 <script>
+// https://stackoverflow.com/questions/24403817/html5-required-attribute-one-of-two-fields
 var $inputs = $('input[name=email],input[name=phone]');
 $inputs.on('input', function () {
     // Set the required property of the other input to false if this input is not empty.
