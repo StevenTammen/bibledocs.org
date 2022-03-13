@@ -1,0 +1,23 @@
+<figure
+{{ if .Get "caption" }}class="captioned"{{ end }}>
+    {{ if .Get "link"}}<a href="{{ .Get "link" }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }}>{{ end }}
+        <img src="{{ .Get "src" }}"
+             alt="{{ if (or (.Get "alt") (.Get "caption")) }}
+                       {{ with .Get "alt"}}
+                           {{- . -}}
+                       {{else}}
+                           {{- .Get "caption" | markdownify | plainify -}}
+                       {{ end }}
+                  {{ else }}
+                       {{- .Get "src" -}}
+                  {{ end }}"
+             {{- with .Get "height" }}style="height:{{ . }};" {{ end -}}/>
+        {{ if .Get "link"}}</a>{{ end }}
+        {{ if .Get "caption" }}
+            <figcaption>
+                <p>
+                    {{ .Get "caption" | markdownify }}
+                </p>
+            </figcaption>
+        {{ end }}
+</figure>

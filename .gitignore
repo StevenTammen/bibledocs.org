@@ -4,3 +4,6 @@ static/drafts/
 
 # Ignore information that is intentionally kept out of repo
 private/
+
+# Ignore Python virtual environment folder (for the preprocessor application)
+.venv/

@@ -42,7 +42,7 @@ h6 {
 }
 
 a {
-  color: #3b8bba;
+  color: #0000EE;
   text-decoration: none;
 }
 a:hover,
@@ -50,7 +50,7 @@ a:focus {
   text-decoration: underline;
 }
 a:visited {
-  color: #265778;
+  color: #551A8B;
 }
 
 /* added to theme */
@@ -75,33 +75,10 @@ td, th {
   text-align: left; 
 }
 
-img, figure {
-  display: block;
-  height: 100%;
-  width: 100%;
-  max-height: 100vh;
-  max-width: 100vh;
-  object-fit: contain;
-  margin: 10px auto;
-}
-
 img.libronixLinkImage {
   display: inline;
   height: auto;
   width: auto;
-}
-
-figure img {
-  margin: 0px;
-}
-
-figure.captioned {
-  text-align: center;
-  font-size: smaller;
-  text-indent: 0;
-  border: thin silver solid;
-  margin: 0.5em;
-  padding: 0.5em;
 }
 
 code {
@@ -256,6 +233,10 @@ span.basic, span.intermediate, span.advanced, span.mixed {
 	border-bottom: 1px solid black;
 }
 
+.special-content.cautionary-note {
+	background: #ffe6e6;
+}
+
 .special-content.technical-discussion {
 	background: #ffe0cc;
 }
@@ -264,31 +245,52 @@ span.basic, span.intermediate, span.advanced, span.mixed {
 	background: #fffae6;
 }
 
-.special-content.quote {
-	background: #e6e6e6;
+.special-content.application {
+	background: #ebfaeb;
 }
 
 .special-content.indirect-reasoning {
 	background: #e6f5ff;
 }
 
-.special-content.cautionary-note {
-	background: #ffe6e6;
-}
-
-.special-content.application {
-	background: #ebfaeb;
+.special-content.example {
+	background: #f2e6ff;
 }
 
 .special-content.post-hoc-note {
-	background: #f2d9f2;
+	background: #ffe6f2;
 }
 
-.special-content.example {
-	background: #f9f2ec;
+.special-content.quote {
+	background: #e6e6e6;
 }
+
+.special-content.scripture {
+	background: #f2e6d9;
+}
+
+
+/* Littlefoot footnotes */
+
+.littlefoot__button {
+	background-color: #dddddd;
+	color: #777777;
+	height: 1rem;
+	padding: 0rem 0.8rem;
+	margin: 0rem 0.1rem;
+	border: none;
+	border-radius: 10px;
+	vertical-align: middle;
+	display: inline-flex;
+  	align-items: center; 
+}
+
 
 /* STEP Bible app iframes */
+
+iframe {
+	border: 1px solid #333;
+}
 
 .step-iframe-wrapper {
 	max-width: 766px;
@@ -296,9 +298,11 @@ span.basic, span.intermediate, span.advanced, span.mixed {
 }
 
 .height-button-bar {
+	width: 100%;
 	display: flex;
 	height: 35px;
 	background-color: #191818;
+	border: 1px solid #333;
 }
 
 .height-button-bar a {
@@ -328,6 +332,30 @@ span.basic, span.intermediate, span.advanced, span.mixed {
 	}
 }
 
+img, figure {
+	display: block;
+	height: 100%;
+	width: 100%;
+	object-fit: contain;
+	margin: 10px auto;
+  }
+
+  figure img {
+	margin: 0px;
+  }
+  
+  figure.captioned {
+	/* Add padding without increasing overall width */
+	box-sizing: border-box;
+    -moz-box-sizing: border-box; /* Firefox */
+    -webkit-box-sizing: border-box; /* Safari */
+	padding: 0.5em;
+
+	text-align: center;
+	font-size: smaller;
+	text-indent: 0;
+	border: thin silver solid;
+  }
 
 /* Footer with display toggles */
 

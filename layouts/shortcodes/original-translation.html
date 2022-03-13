@@ -4,7 +4,7 @@
 {{ $passage := replace $passage "|" "|reference="}}
 {{ $passage := replaceRE "([a-z]+)([0-9]+)" "$1.$2" $passage }}
 
-<div id="{{ $passage }}" class="special-content quote">
+<div id="{{ $passage }}" class="special-content scripture">
 
 <strong>
 	{{ .Get "p" }} | <a href="/about-the-site/#my-own-original-translations">original translation</a>

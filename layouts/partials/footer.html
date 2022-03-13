@@ -160,7 +160,7 @@ function initialWritingLevel() {
 	}
 }
 
-initialWritingLevel()
+initialWritingLevel();
 var localWritingLevel = getCookie("writingLevel");
 </script>
 
@@ -205,7 +205,23 @@ function initialSummariesDisplay() {
 	}
 }
 
-initialSummariesDisplay()
+function toggleSummaries() {
+
+	// If currently showing summaries
+	if(summariesPreference == "show") {
+		hideAllSummaries();
+		summariesPreference = "hide";
+	}
+
+	// If currently hiding summaries
+	else if(summariesPreference == "hide") {
+		showAllSummaries();
+		summariesPreference = "show";
+	}
+}
+
+initialSummariesDisplay();
+var summariesPreference=getCookie("summariesPreference");
 </script>
 
 <script src="/js/littlefoot.js" type="application/javascript" ></script> 
@@ -213,7 +229,18 @@ initialSummariesDisplay()
   activateOnHover: true,
   dismissOnUnhover: true,
   hoverDelay: 200,
+  buttonTemplate: `
+	<button
+	aria-label="Footnote <% number %>"
+	class="littlefoot__button"
+	id="<% reference %>"
+	/>
+	<% number %>
+	</button>
+  `,
+  
 }) </script>
+
 
 <!-- RefTagger -->
 <script>
