@@ -405,11 +405,11 @@ Footnotes on this site use tooltips/pop-ups in much the same way as the verse ta
 
 You can see the footnotes on this site simply by hovering over them (or tapping them, if you are on mobile).
 
-Here is an example footnote,[^example] in the middle of a sentence.
+Here is an example footnote, [^example] in the middle of a sentence.
 
 [^example]: The body text of the footnote.
 
-Here is another footnote,[^link] this one with a link. Being able to link to things in footnotes is *absolutely critical*, as one of the most frequent things footnotes get used for is citations.
+Here is another footnote, [^link] this one with a link. Being able to link to things in footnotes is *absolutely critical*, as one of the most frequent things footnotes get used for is citations.
 
 [^link]: [**Dynamic footnotes with hover behavior**](#dynamic-footnotes-with-hover-behavior): A section explaining how footnotes work on this site.
 
