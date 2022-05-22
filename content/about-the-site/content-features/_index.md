@@ -27,6 +27,20 @@ Every content page has a table of contents that updates dynamically based on whe
 
 Clicking on a link in the table of contents will immediately take you to that section on the page. After using such a TOC link, you can then copy the URL in your browser's address bar to save a link to that page section (that you can share with others, for example).
 
+## Subject index
+
+It is very common for websites to support content categorization of some kind: adding categories or tags to pages to group things by topic. The problem with leaving things at just this is that it doesn't work very well once pages get the least bit long, as it does not let you set up links that target specific sections (as in smaller blocks of content, such as several paragraphs), but only the whole page. This can lead to frustrating searching whenever you click on a link to a page tagged with a specific tag, as you look for the one part of the page that actually talks about the topic.
+
+This has always struck me as silly. Why not have the link just go directly to the relevant section actually talking about the topic, rather than the whole page? It is not like there is any technical consideration making this unworkable, but it just doesn't seem to be very common on other sites.
+
+In any case, [this site's subject index](/subject-index) uses this sort of superior targeted linking to link directly to relevant content, rather than being stuck with not-very-precise page-level content categorization.
+
+In addition to the subject index, the subjects are made readily discoverable by making the links bidirectional: each section on the page displays a list of its tags, with each linking back to the subject index.
+
+{{< figure src="/img/subjects-section-example.png" caption="Every section can have its own subject tags" height="120px" >}}
+
+That is to say, sections link to the subject index as well as the subject index linking to sections. This makes it easy to find related discussion for any specific topic with just a click or two. In my opinion, no other form of content cross-linking and categorization even comes close to the usability and convenience of this two-way per-section tagging system.
+
 ## Special content sections
 
 I take pains to mark out various sections in the writing on this site, according to the contents they contain. There are two big reasons for this practice:

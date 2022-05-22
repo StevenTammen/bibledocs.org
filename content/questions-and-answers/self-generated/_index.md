@@ -1,6 +1,6 @@
 ---
 title: Self-generated
-date: 2020-09-04
+layout: list-summary
 ---
 
 Q&As (both questions and answers) that are completely of my own creation.

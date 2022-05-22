@@ -28,6 +28,10 @@ paginate = 10
   # https://gohugo.io/getting-started/configuration-markup
   smartypants = false
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
   
 [menu]
 
@@ -170,12 +174,12 @@ paginate = 10
 #    weight = 5
 #    identifier = "glossary"
 #    url = "/site/glossary/"
-#  [[menu.meta]]
-#    name = "Subject Index"
-#    pre = "<i class='fas fa-list fa-fw'></i>"
-#    weight = 6
-#    identifier = "subject-index"
-#    url = "/site/subject-index/"
+  [[menu.meta]]
+    name = "Subject Index"
+    pre = "<i class='fas fa-list fa-fw'></i>"
+    weight = 6
+    identifier = "subject-index"
+    url = "/subject-index/"
 #  [[menu.meta]]
 #    name = "Passage Index"
 #    pre = "<i class='fas fa-list fa-fw'></i>"

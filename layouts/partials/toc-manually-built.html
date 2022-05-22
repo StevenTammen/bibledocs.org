@@ -1,0 +1,50 @@
+ <!-- Base code: https://github.com/gohugoio/hugo/issues/1778#issuecomment-313895910 -->
+ 
+ <!-- ignore empty links with + -->
+{{ $headers := findRE "<h[2-6].*?>(.|\n])+?</h[2-6]>" .Content }}
+
+<nav id="toc" data-toggle="toc">
+	<ul class="nav navbar-nav">
+		<ul>
+			<!-- Assuming top level content headers are h2 -->
+			{{ .Scratch.Set "headerLevel" 2 }}
+			
+			{{ range $headers }}
+			
+				{{ $header := . }}
+				{{ $headerLevel := ($.Scratch.Get "headerLevel") }}
+				{{ $thisHeaderLevel := substr $header 2 1}}
+				{{ $thisHeaderLevel := int $thisHeaderLevel}}
+				
+				{{if ( gt $thisHeaderLevel $headerLevel) }}
+					{{ $.Scratch.Set "headerLevel" (add $headerLevel 1) }}
+					<ul>
+				{{else if (lt $thisHeaderLevel $headerLevel) }}
+					{{ range seq (sub $headerLevel $thisHeaderLevel ) }}
+						</ul></li>
+					{{end}}
+					{{ $.Scratch.Set "headerLevel" $thisHeaderLevel }}
+				{{else}}
+					</li>
+				{{end}}
+
+				<li><a href="#{{replaceRE ".*id=\"(.*)\".*" "$1" $header }}">{{ $header | plainify | htmlUnescape }}</a>
+				
+			{{end}}
+			
+			{{ $headerLevel := (.Scratch.Get "headerLevel") }}
+			{{ $nestLevel := (sub $headerLevel 2) }}
+			{{if (gt $nestLevel 0) }}
+				<!-- Need to add closing ul tags for as many levels as we are 
+				nested, that is, however many levels deeper we are than 2 -->
+				{{ range seq $nestLevel }}
+					</ul></li>
+				{{end}}
+			{{else}}
+				<!-- not nested = just need to close last <li> tag that was 
+				created -->
+				</li>
+			{{end}}
+		</ul>
+	</ul>
+</nav>

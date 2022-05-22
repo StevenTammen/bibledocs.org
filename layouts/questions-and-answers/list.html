@@ -1,24 +1,20 @@
 {{ partial "header-list-pages.html" . }}
 
 <div class="header">
-  <h1>{{ .Title }}</h1>
+  <h1 data-toc-skip>{{ .Title }}</h1>
 </div>
 <div class="content">
-
-	{{ .Content }}
-
-	{{ partial "content-list-weight-then-title" . }}
-		
-	{{ range .Sections.ByTitle }}
-	<h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-		{{ partial "content-list-weight-then-title" . }}
-	{{ end }}
-  
+	<div class="container">
+		{{ .Content }}
+	</div>
 </div>
 
-{{ partial "mobile-bar-list-pages.html" . }}
+{{ partial "mobile-bar.html" . }}
+
+<!-- Latest compiled and minified Bootstrap JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
 <!-- Site Functions -->
-<script src="{{ .Site.BaseURL }}js/site-functions-list-pages.js"></script>
+<script src="{{ .Site.BaseURL }}js/site-functions.js"></script>
 
 {{ partial "footer.html" . }}
