@@ -9,15 +9,15 @@ weight: 1
 
 {{% section-navigation %}}
 
-## Summary
+## Summary {#summary}
 
 Genesis 1:1 (in the original Hebrew and Greek Septuagint both) and John 1:1 do not have direct articles, meaning the texts read "a beginning" not "the beginning." This supports the idea that the beginning referred to is the beginning of God's actions regarding the material universe, not the beginning of the material universe itself. Making this clear guarantees that people properly understand that God transcends space and time (things of His own creation), rather than Himself being somehow bound by the material universe.
 
 {{% content %}}
 
-## Content
+## Content {#content}
 
-### The "beginning" mentioned in Genesis 1:1 (and also John 1:1) is indefinite not definite
+### The "beginning" mentioned in Genesis 1:1 (and also John 1:1) is indefinite not definite {#the-beginning-mentioned-in-genesis-1-1-and-also-john-1-1-is-indefinite-not-definite}
 
 {{< subjects >}}
 <a href="/subject-index/#definite-article">Definite article</a>
@@ -93,7 +93,7 @@ When God commanded spacetime to come into existence from nothing, it did. God's 
 
 <!-- --- -->
 
-### How did God exist before space and time?
+### How did God exist before space and time? {#how-did-god-exist-before-space-and-time}
 
 {{< subjects >}}
 <a href="/subject-index/#god-externality-to-spacetime">God > Externality to spacetime</a>
@@ -127,7 +127,7 @@ The second step is understanding God's identity as I AM. In Exodus 3:14–15 God
 
 {{% technical-discussion %}}
 
-#### The divine name of God
+#### The divine name of God {#the-divine-name-of-god}
 
 יהוה, the divine name of the God in the Old Testament, is sometimes called the tetragrammaton (from Greek τετραγράμματον, meaning "[consisting of] four letters"). Here's this same Exodus passage in the Hebrew:
 
@@ -174,7 +174,7 @@ If you like, though, read what some scholars have to say on the divine name:
 
 Put simply, existence is tied up in who God is. God is the Alpha and Omega, He who is and was and is to come, the First and the Last, the Beginning and the End (Revelation 1:8; 22:13). For this reason, time is of no consequence to God.
 
-### Recap and summary
+### Recap and summary {#recap-and-summary}
 
 We discussed how Genesis 1:1 (in the original Hebrew and Greek Septuagint both) and John 1:1 do not have direct articles, meaning the texts read "a beginning" not "the beginning." This supports the idea that the beginning referred to is the beginning of God's actions regarding the material universe, not the beginning of the material universe itself. Not translating properly or failing to explain this properly can obscure this fact.
 
@@ -207,7 +207,7 @@ By writing en archē John refers to the same point in time as Moses did in Genes
 
 
 
-## Genesis 1:1 is a statement of historical description not a forward-looking summary
+## Genesis 1:1 is a statement of historical description not a forward-looking summary {#genesis-1-1-is-a-statement-of-historical-description-not-a-forward-looking-summary}
 
 We’re not yet done handling the misunderstandings surrounding this first verse of the Bible. Partially caused by the common improper inclusion of the definite article in translation, many people take Genesis 1:1 as a forward-looking summary of the seven days described in the following verses rather than as a statement of historical description.^[fn:1]
 
@@ -229,7 +229,7 @@ First of all, the opening sentence of the Bible (taken by itself, and examined w
 
 Now, this leaves us at the point where we are taking Genesis 1:1 as describing God’s ex nihilo creation of the material universe ("the heavens and the earth") rather than acting as a summary statement for the verses that follow.
 
-# Verse 2
+# Verse 2 {#verse-2}
 
 The question that follows is thus 
 

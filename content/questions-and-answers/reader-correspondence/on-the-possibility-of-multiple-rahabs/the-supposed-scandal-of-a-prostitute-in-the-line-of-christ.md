@@ -11,9 +11,9 @@ weight: 10
 
 {{% content %}}
 
-## Content
+## Content {#content}
 
-### There could never be a harlot in the line of Jesus Christ! How heretical!
+### There could never be a harlot in the line of Jesus Christ! How heretical! {#there-could-never-be-a-harlot-in-the-line-of-jesus-christ-how-heretical}
 
 {{< subjects >}}
 <a href="/subject-index/#legalism-counterexamples-a-prostitute-is-in-the-line-of-christ">Legalism > Counterexamples > A prostitute is in the line of Christ</a>
@@ -37,7 +37,7 @@ In fact, one might go so far as to say that the onus is on those who want to mak
 
 {{% post-hoc-note %}}
 
-### More on the women in the genealogy of Christ
+### More on the women in the genealogy of Christ {#more-on-the-women-in-the-genealogy-of-christ}
 
 {{< subjects >}}
 <a href="/subject-index/#genealogy-of-christ-women-in-the-line-of-christ">Genealogy of Christ > Women in the line of Christ</a>
@@ -49,7 +49,7 @@ Let me be clear: women are *not* uniformly spiritually bankrupt, temptresses lea
 
 <!-- --- -->
 
-### The women are not the only people in the genealogy in need of grace
+### The women are not the only people in the genealogy in need of grace {#the-women-are-not-the-only-people-in-the-genealogy-in-need-of-grace}
 
 Briefly, let us examine Judah and David. If the idea of a prostitute in the line of Christ makes you cluck your tongue and clutch your pearls, how about these men? The former unjustly shut-out his daughter-in-law whom he had a duty to protect, depriving her of a husband, children, and legitimacy. In their ancient culture, given the station of women, this was functionally equivalent to condemning her to a life of terrible hardship and shame. And of course David murdered the husband of the woman he desired, and then used his massive influence as king to coerce her will.
 
@@ -67,7 +67,7 @@ Sin is a human problem, not a woman problem. (Duh).
 
 <!-- --- -->
 
-### But they were included in Matthew's genealogy specifically to showcase God's surpassing grace towards mankind
+### But they were included in Matthew's genealogy specifically to showcase God's surpassing grace towards mankind {#but-they-were-included-in-matthew-s-genealogy-specifically-to-showcase-god-s-surpassing-grace-towards-mankind}
 
 {{< subjects >}}
 <a href="/subject-index/#genealogy-of-christ-women-in-the-line-of-christ-showcase-god-s-surpassing-grace">Genealogy of Christ > Women in the line of Christ > Showcase God's surpassing grace</a>
@@ -81,7 +81,7 @@ Not because women are bad or immoral or always in need of redemption away from t
 
 <!-- --- -->
 
-### I like wording things in terms of grace more than moral redemption
+### I like wording things in terms of grace more than moral redemption {#i-like-wording-things-in-terms-of-grace-more-than-moral-redemption}
 
 Just like basically everyone else, the ladies too needed grace.
 
@@ -99,7 +99,7 @@ Finally, God delivered the spies of Israel by a prostitute rather than a noble w
 
 <!-- --- -->
 
-### Conclusions
+### Conclusions {#conclusions}
 
 To tie everything together into a nice neat bow, if communicating the above was in fact God's purpose in having the women mentioned in Matthew's genealogy (and there is little other logical explanation for their inclusion), then it actually makes quite a bit more sense for the Rahab mentioned in the genealogy to be the prostitute mentioned in Joshua. Otherwise why would this woman be mentioned by name alongside all the other "trophies of grace" (Bathsheba, Ruth, Tamar)?
 

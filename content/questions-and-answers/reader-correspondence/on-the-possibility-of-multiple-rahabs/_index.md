@@ -17,19 +17,19 @@ summary: >-
 
 {{% toggleable-content %}}
 
-### Content
+### Content {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-content}
 
 **October, 2015 - before I had any Greek**
 
-### Q: How can we be sure the Rahab mentioned in Matthew in Jesus' genealogy is the same as the Rahab in Joshua?
+#### Q: How can we be sure the Rahab mentioned in Matthew in Jesus' genealogy is the same as the Rahab in Joshua? {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-q-how-can-we-be-sure-the-rahab-mentioned-in-matthew-in-jesus-genealogy-is-the-same-as-the-rahab-in-joshua}
 
 I was talking to someone this week about Rahab, and there is a point of confusion I was wondering I could clear up with you. Apparently, the spelling of Rahab's name is different when she is mentioned in Matthew (Jesus's genealogy) than when her name is mentioned in Joshua. It is spelled the same everywhere else, but how can we be so sure it's the same Rahab? Or is everything I said wrong?
 
 <!-- --- -->
 
-### An approach to answering this question: refuting an argument representative of the the opposing position point-by-point
+#### An approach to answering this question: refuting an argument representative of the the opposing position point-by-point {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-an-approach-to-answering-this-question-refuting-an-argument-representative-of-the-the-opposing-position-point-by-point}
 
- {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-content-october-2015-before-i-had-any-greek-q-how-can-we-be-sure-the-rahab-mentioned-in-matthew-in-jesus-genealogy-is-the-same-as-the-rahab-in-joshua-i-was-talking-to-someone-this-week-about-rahab-and-there-is-a-point-of-confusion-i-was-wondering-i-could-clear-up-with-you-apparently-the-spelling-of-rahab-s-name-is-different-when-she-is-mentioned-in-matthew-jesus-s-genealogy-than-when-her-name-is-mentioned-in-joshua-it-is-spelled-the-same-everywhere-else-but-how-can-we-be-so-sure-it-s-the-same-rahab-or-is-everything-i-said-wrong-an-approach-to-answering-this-question-refuting-an-argument-representative-of-the-the-opposing-position-point-by-point}{{< subjects >}}
+{{< subjects >}}
 <a href="/subject-index/#apologetics-combatting-falsehood-by-refuting-a-representative-specific-argument">Apologetics > Combatting falsehood by refuting a representative specific argument</a>
 {{< /subjects >}}
 
@@ -39,7 +39,7 @@ Note that me refuting this argument does not necessarily refute the position *in
 
 <!-- --- -->
 
-#### In the Greek New Testament, 'Rahab' is transliterated in different ways in different places
+#### In the Greek New Testament, 'Rahab' is transliterated in different ways in different places {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-in-the-greek-new-testament-rahab-is-transliterated-in-different-ways-in-different-places}
 
 What your friend was likely referring to was not the difference between the words for Rahab in Joshua and Matthew, but rather the difference between the Greek word used in Matthew 1:5 ( Ῥαχάβ, transliterated *Rhachab*) and the Greek word used in James 2:25 and Hebrews 11:31 ( Ῥαάβ, transliterated *Rhaab*).
 
@@ -49,11 +49,11 @@ The likely reason why your friend ran into it is that most English speakers use 
 
 <!-- --- -->
 
-### The main argument being used as a representative sample of the opposing point of view
+#### The main argument being used as a representative sample of the opposing point of view {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-the-main-argument-being-used-as-a-representative-sample-of-the-opposing-point-of-view}
 
 The main argument of the "two Rahabs" fellow:
 
- {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-in-the-greek-new-testament-rahab-is-transliterated-in-different-ways-in-different-places-what-your-friend-was-likely-referring-to-was-not-the-difference-between-the-words-for-rahab-in-joshua-and-matthew-but-rather-the-difference-between-the-greek-word-used-in-matthew-1-5-rakhab-transliterated-rhachab-and-the-greek-word-used-in-james-2-25-and-hebrews-11-31-raab-transliterated-rhaab-rakhab-only-occurs-in-some-mss-as-we-shall-see-so-this-problem-is-actually-not-present-if-you-are-using-the-earliest-witnesses-to-the-gnt-sinaiticus-vaticanus-etc-post-hoc-note-see-below-steven-asking-dr-luginbill-of-ichthys-com-for-clarification-on-the-text-of-sinaiticus-i-was-actually-not-quite-right-here-in-that-sinaiticus-specifically-actually-does-have-the-variant-reading-the-likely-reason-why-your-friend-ran-into-it-is-that-most-english-speakers-use-strong-s-exhaustive-concordance-for-so-called-word-study-which-is-based-off-of-the-kjv-s-textus-receptus-tr-a-critical-edition-of-the-gnt-that-draws-primarily-from-late-byzantine-texts-with-the-exception-of-a-few-people-who-try-to-defend-the-manuscript-tradition-of-the-tr-most-scholars-accept-that-the-tr-has-some-inferior-readings-from-late-textual-witnesses-and-my-guess-is-that-this-is-one-of-them-the-main-argument-being-used-as-a-representative-sample-of-the-opposing-point-of-view-the-main-argument-of-the-two-rahabs-fellow}{{% quote src="http://www.outsidethecamp.org/rahab.htm" text="OutsideTheCamp.org" %}}
+{{% quote src="http://www.outsidethecamp.org/rahab.htm" text="OutsideTheCamp.org" %}}
 
 But Matthew 1:5, Hebrews 11:31 and James 2:25 cannot be classified as being 'in the same context'. Therefore more positive methods have been used in these passages to identify the person concerned precisely and exactly, and to distinguish between one person and another. Thus in Hebrews 11:31 and James 2:25, the reader is told explicitly that these passages refer to Ra'ab the harlot of Jericho:
 
@@ -72,9 +72,9 @@ On the other hand, in Matthew 1:5 Rachab the wife of Salmon is clearly distingui
 
 <!-- --- -->
 
-##### Assumptions are dangerous in interpretation
+##### Assumptions are dangerous in interpretation {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-assumptions-are-dangerous-in-interpretation}
 
- {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-assumptions-are-dangerous-in-interpretation}{{% quote src="http://www.outsidethecamp.org/rahab.htm" text="OutsideTheCamp.org" %}}
+{{% quote src="http://www.outsidethecamp.org/rahab.htm" text="OutsideTheCamp.org" %}}
 
 Therefore more positive methods have been used in these passages to identify the person concerned precisely and exactly, and to distinguish between one person and another.
 
@@ -84,9 +84,9 @@ This is an outright assumption. Unless the writer claims to know the mind of Jam
 
 <!-- --- -->
 
-##### Commenting on the argument's reasons for 'Rahab the harlot' identifications
+##### Commenting on the argument's reasons for 'Rahab the harlot' identifications {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-commenting-on-the-argument-s-reasons-for-rahab-the-harlot-identifications}
 
- {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-commenting-on-the-argument-s-reasons-for-rahab-the-harlot-identifications}{{% quote src="http://www.outsidethecamp.org/rahab.htm" text="OutsideTheCamp.org" %}}
+{{% quote src="http://www.outsidethecamp.org/rahab.htm" text="OutsideTheCamp.org" %}}
 
 Thus in Hebrews 11:31 and James 2:25, the reader is told explicitly that these passages refer to Ra'ab the harlot of Jericho:
 
@@ -102,9 +102,9 @@ Observations (b) and (c) are valid points; when Rahab is mentioned in the "heroe
 
 <!-- --- -->
 
-##### Commenting on the argument's reasons for 'Rahab the relative of Christ' identification
+##### Commenting on the argument's reasons for 'Rahab the relative of Christ' identification {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-commenting-on-the-argument-s-reasons-for-rahab-the-relative-of-christ-identification}
 
- {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-commenting-on-the-argument-s-reasons-for-rahab-the-relative-of-christ-identification}{{% quote src="http://www.outsidethecamp.org/rahab.htm" text="OutsideTheCamp.org" %}}
+{{% quote src="http://www.outsidethecamp.org/rahab.htm" text="OutsideTheCamp.org" %}}
 
 On the other hand, in Matthew 1:5 Rachab the wife of Salmon is clearly distinguished from ANY identification or association in any way with the harlot of Jericho:
 
@@ -142,7 +142,7 @@ As to (1), I touched on it in the introduction, but I'll go into more depth here
 
 <!-- --- -->
 
-###### Different Greek spellings
+###### Different Greek spellings {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-different-greek-spellings}
 
 The big issue here is that we have textual variance between manuscript editions: The TR uses  Ῥαχάβ in Matthew 1:5 ([see this link](https://www.blueletterbible.org/kjv/mat/1/1/t_conc_930005)), while more recent versions of the GNT (NASB95 is based on one of the Nestle-Aland editions, if I am not mistaken) use Ῥαάβ in Matthew 1:5 ([see this link](https://www.blueletterbible.org/nasb/mat/1/5/t_conc_930005)).
 
@@ -154,7 +154,7 @@ Now certainly, there are those who make that argument, but it must be backed up 
 
 <!-- --- -->
 
-#### Conclusions regarding the main argument
+##### Conclusions regarding the main argument {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-conclusions-regarding-the-main-argument}
 
 So at this point, the only things out of (a), (b), (c), (1), (2), (3), and (4) that still hold water are (b) and (c), but just because Rahab was identified in these ways in other parts of the Bible does not mean that she must always be identified in this same way (and to believe such would be another assumption that is effectively without a shred of evidence).
 
@@ -162,11 +162,11 @@ Thus, this particular argument falls flat, and we conclude that there was one an
 
 <!-- --- -->
 
-### Concluding thoughts
+#### Concluding thoughts {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-concluding-thoughts}
 
 Hopefully the above convinced you that the main argument of the link I supplied was incorrect, but I didn't address everything in that piece since it would take a while and I'm sure you have other things to do than read lengthy analyses of false theological positions. But I think several other false arguments merit comment, so I'll include another section as well. I'll try to keep it brief.
 
- {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-different-greek-spellings-the-big-issue-here-is-that-we-have-textual-variance-between-manuscript-editions-the-tr-uses-rakhab-in-matthew-1-5-see-this-link-https-www-blueletterbible-org-kjv-mat-1-1-t-conc-930005-while-more-recent-versions-of-the-gnt-nasb95-is-based-on-one-of-the-nestle-aland-editions-if-i-am-not-mistaken-use-raab-in-matthew-1-5-see-this-link-https-www-blueletterbible-org-nasb-mat-1-5-t-conc-930005-in-the-newer-critical-editions-there-actually-is-no-difference-between-matthew-1-5-james-2-25-and-hebrews-11-31-they-all-use-raab-and-you-can-verify-what-i-m-saying-nasb-concordance-for-raab-https-www-blueletterbible-org-lang-lexicon-lexicon-cfm-strongs-g4460-t-nasb-so-this-problem-only-exists-if-you-believe-the-tr-is-the-correct-tradition-which-guess-what-is-another-unproven-assumption-in-this-fellow-s-argument-post-hoc-note-to-be-fair-it-is-also-possible-the-person-making-this-argument-i-refuted-simply-didn-t-know-about-textual-criticism-generally-or-details-here-specifically-rather-than-him-taking-a-hard-position-on-the-matter-of-the-textus-receptus-now-certainly-there-are-those-who-make-that-argument-but-it-must-be-backed-up-with-evidence-and-textual-analysis-sometimes-called-textual-criticism-in-short-without-being-fully-convinced-that-the-tr-has-the-right-reading-here-in-fact-i-am-almost-certainly-convinced-that-it-is-the-edition-that-errs-as-it-does-in-other-places-i-would-give-this-reason-approximately-zero-weight-when-making-a-decision-about-the-validity-of-the-positions-post-hoc-note-also-i-honestly-should-have-also-been-pointing-out-how-silly-it-is-to-pin-one-s-argument-on-this-point-anyway-as-discussed-below-http-localhost-1313-questions-and-answers-reader-correspondence-on-the-possibility-of-multiple-rahabs-dr-luginbill-of-ichthys-com-responding-making-great-hay-out-of-different-writers-transliterating-from-hebrew-into-greek-differently-is-very-much-misguided-even-if-the-texts-really-were-to-differ-here-conclusions-regarding-the-main-argument-so-at-this-point-the-only-things-out-of-a-b-c-1-2-3-and-4-that-still-hold-water-are-b-and-c-but-just-because-rahab-was-identified-in-these-ways-in-other-parts-of-the-bible-does-not-mean-that-she-must-always-be-identified-in-this-same-way-and-to-believe-such-would-be-another-assumption-that-is-effectively-without-a-shred-of-evidence-thus-this-particular-argument-falls-flat-and-we-conclude-that-there-was-one-and-only-one-rahab-that-she-became-the-wife-of-salmon-and-that-she-though-formerly-a-prostitute-was-in-the-lineage-of-our-dear-lord-jesus-christ-as-made-clear-in-matthew-1-5-concluding-thoughts-hopefully-the-above-convinced-you-that-the-main-argument-of-the-link-i-supplied-was-incorrect-but-i-didn-t-address-everything-in-that-piece-since-it-would-take-a-while-and-i-m-sure-you-have-other-things-to-do-than-read-lengthy-analyses-of-false-theological-positions-but-i-think-several-other-false-arguments-merit-comment-so-i-ll-include-another-section-as-well-i-ll-try-to-keep-it-brief}{{% /toggleable-content %}}
+{{% /toggleable-content %}}
 
 
 
@@ -183,11 +183,11 @@ Hopefully the above convinced you that the main argument of the link I supplied 
 
 {{% toggleable-content %}}
 
-### Content
+### Content {#the-supposed-scandal-of-a-prostitute-in-the-line-of-christ-content}
 
-### There could never be a harlot in the line of Jesus Christ! How heretical!
+#### There could never be a harlot in the line of Jesus Christ! How heretical! {#the-supposed-scandal-of-a-prostitute-in-the-line-of-christ-there-could-never-be-a-harlot-in-the-line-of-jesus-christ-how-heretical}
 
- {#the-supposed-scandal-of-a-prostitute-in-the-line-of-christ-content-there-could-never-be-a-harlot-in-the-line-of-jesus-christ-how-heretical}{{< subjects >}}
+{{< subjects >}}
 <a href="/subject-index/#legalism-counterexamples-a-prostitute-is-in-the-line-of-christ">Legalism > Counterexamples > A prostitute is in the line of Christ</a>
 {{< /subjects >}}
 
@@ -209,9 +209,9 @@ In fact, one might go so far as to say that the onus is on those who want to mak
 
 {{% post-hoc-note %}}
 
-#### More on the women in the genealogy of Christ
+#### More on the women in the genealogy of Christ {#the-supposed-scandal-of-a-prostitute-in-the-line-of-christ-more-on-the-women-in-the-genealogy-of-christ}
 
- {#the-supposed-scandal-of-a-prostitute-in-the-line-of-christ-more-on-the-women-in-the-genealogy-of-christ}{{< subjects >}}
+{{< subjects >}}
 <a href="/subject-index/#genealogy-of-christ-women-in-the-line-of-christ">Genealogy of Christ > Women in the line of Christ</a>
 {{< /subjects >}}
 
@@ -221,7 +221,7 @@ Let me be clear: women are *not* uniformly spiritually bankrupt, temptresses lea
 
 <!-- --- -->
 
-#### The women are not the only people in the genealogy in need of grace
+#### The women are not the only people in the genealogy in need of grace {#the-supposed-scandal-of-a-prostitute-in-the-line-of-christ-the-women-are-not-the-only-people-in-the-genealogy-in-need-of-grace}
 
 Briefly, let us examine Judah and David. If the idea of a prostitute in the line of Christ makes you cluck your tongue and clutch your pearls, how about these men? The former unjustly shut-out his daughter-in-law whom he had a duty to protect, depriving her of a husband, children, and legitimacy. In their ancient culture, given the station of women, this was functionally equivalent to condemning her to a life of terrible hardship and shame. And of course David murdered the husband of the woman he desired, and then used his massive influence as king to coerce her will.
 
@@ -239,9 +239,9 @@ Sin is a human problem, not a woman problem. (Duh).
 
 <!-- --- -->
 
-### But they were included in Matthew's genealogy specifically to showcase God's surpassing grace towards mankind
+#### But they were included in Matthew's genealogy specifically to showcase God's surpassing grace towards mankind {#the-supposed-scandal-of-a-prostitute-in-the-line-of-christ-but-they-were-included-in-matthew-s-genealogy-specifically-to-showcase-god-s-surpassing-grace-towards-mankind}
 
- {#the-supposed-scandal-of-a-prostitute-in-the-line-of-christ-the-women-are-not-the-only-people-in-the-genealogy-in-need-of-grace-briefly-let-us-examine-judah-and-david-if-the-idea-of-a-prostitute-in-the-line-of-christ-makes-you-cluck-your-tongue-and-clutch-your-pearls-how-about-these-men-the-former-unjustly-shut-out-his-daughter-in-law-whom-he-had-a-duty-to-protect-depriving-her-of-a-husband-children-and-legitimacy-in-their-ancient-culture-given-the-station-of-women-this-was-functionally-equivalent-to-condemning-her-to-a-life-of-terrible-hardship-and-shame-and-of-course-david-murdered-the-husband-of-the-woman-he-desired-and-then-used-his-massive-influence-as-king-to-coerce-her-will-by-way-of-contrast-rahab-shows-up-in-hebrews-11-and-james-2-as-an-example-of-faith-being-demonstrated-through-action-despite-her-prior-occupation-no-positive-thing-to-be-sure-james-mentions-her-in-the-same-breath-as-abraham-the-father-of-all-who-believe-so-tell-me-how-is-it-that-people-cast-stones-at-rahab-who-scripture-itself-praises-glowingly-while-somehow-ignoring-the-stain-of-sin-that-corrupts-all-humans-in-the-genealogy-including-the-men-hypocrisy-and-legalism-that-s-how-to-use-another-example-where-s-the-outrage-over-a-well-known-persecutor-of-early-christians-becoming-an-apostle-ever-heard-of-paul-getting-early-believers-imprisoned-or-worse-approving-their-executions-compare-acts-7-58-kind-of-makes-prostitution-look-mild-right-but-it-must-be-ok-he-was-a-man-s-ever-since-adam-and-eve-some-men-have-tried-to-blame-it-all-on-the-women-as-if-that-were-some-sort-of-excuse-it-wasn-t-a-valid-excuse-then-adam-s-words-of-blame-are-no-credit-to-him-in-genesis-3-and-it-won-t-fly-with-god-now-either-sin-is-a-human-problem-not-a-woman-problem-duh-but-they-were-included-in-matthew-s-genealogy-specifically-to-showcase-god-s-surpassing-grace-towards-mankind}{{< subjects >}}
+{{< subjects >}}
 <a href="/subject-index/#genealogy-of-christ-women-in-the-line-of-christ-showcase-god-s-surpassing-grace">Genealogy of Christ > Women in the line of Christ > Showcase God's surpassing grace</a>
 {{< /subjects >}}
 
@@ -253,7 +253,7 @@ Not because women are bad or immoral or always in need of redemption away from t
 
 <!-- --- -->
 
-#### I like wording things in terms of grace more than moral redemption
+#### I like wording things in terms of grace more than moral redemption {#the-supposed-scandal-of-a-prostitute-in-the-line-of-christ-i-like-wording-things-in-terms-of-grace-more-than-moral-redemption}
 
 Just like basically everyone else, the ladies too needed grace.
 
@@ -271,7 +271,7 @@ Finally, God delivered the spies of Israel by a prostitute rather than a noble w
 
 <!-- --- -->
 
-### Conclusions
+#### Conclusions {#the-supposed-scandal-of-a-prostitute-in-the-line-of-christ-conclusions}
 
 To tie everything together into a nice neat bow, if communicating the above was in fact God's purpose in having the women mentioned in Matthew's genealogy (and there is little other logical explanation for their inclusion), then it actually makes quite a bit more sense for the Rahab mentioned in the genealogy to be the prostitute mentioned in Joshua. Otherwise why would this woman be mentioned by name alongside all the other "trophies of grace" (Bathsheba, Ruth, Tamar)?
 
@@ -279,7 +279,7 @@ So, far from us having theological problems if we take the Rahab in the genealog
 
 If I were to make an another argument about all this from scratch, I would hit this point very hard: that the other women in the lineage of Christ are all mentioned specifically to demonstrate God's great love and grace towards humanity, so it makes little sense for the Rahab mentioned here to be some random woman we know nothing else about rather than the reformed prostitute bearing that name. The one praised highly elsewhere in scripture.
 
- {#the-supposed-scandal-of-a-prostitute-in-the-line-of-christ-i-like-wording-things-in-terms-of-grace-more-than-moral-redemption-just-like-basically-everyone-else-the-ladies-too-needed-grace-the-language-of-moral-redemption-is-often-used-of-these-women-that-show-up-in-the-genealogy-this-is-perhaps-appropriate-to-some-degree-particularly-for-rahab-but-i-think-it-is-much-better-to-phrase-things-positively-in-terms-of-god-s-grace-for-that-is-consistent-across-all-four-women-and-also-consistent-with-matthew-s-main-purpose-for-including-them-in-the-genealogy-as-above-even-though-bathsheba-s-marriage-with-the-king-of-israel-came-about-under-the-most-unfortunate-of-circumstances-god-still-appears-to-have-blessed-her-marriage-and-son-solomon-even-so-god-s-grace-is-evident-in-blessing-a-marriage-based-on-the-foundation-of-adultery-counter-to-expectations-ruth-was-not-an-israelite-by-birth-and-culture-but-a-foreigner-from-moab-a-land-not-always-friendly-towards-israel-god-s-grace-is-evident-in-that-she-was-not-only-allowed-to-inherit-the-covenants-of-israel-by-marriage-but-even-came-to-be-the-mother-of-the-bloodline-containing-both-david-and-christ-an-outsider-became-a-matriarch-of-israel-counter-to-expectations-since-the-bloodline-of-the-savior-came-through-tamar-s-son-perez-one-of-the-twins-born-of-judah-tamar-too-is-in-the-lineage-of-christ-despite-being-sent-away-unwanted-and-treated-unjustly-her-vindication-comes-in-her-sons-god-s-grace-is-evident-in-that-the-bloodline-of-christ-leads-back-to-a-woman-cast-aside-rather-than-a-treasured-wife-counter-to-expectations-finally-god-delivered-the-spies-of-israel-by-a-prostitute-rather-than-a-noble-woman-of-virtue-of-all-the-people-in-the-land-only-a-prostitute-feared-the-lord-and-acted-to-save-her-family-perhaps-most-shocking-of-all-our-women-rahab-represents-the-grace-of-god-in-full-effect-this-is-not-the-outward-plastering-over-of-dirtiness-within-lipstick-on-a-pig-but-a-complete-rebirth-from-the-inside-out-a-woman-turning-from-death-to-life-god-s-grace-is-more-than-evident-in-these-events-it-practically-screams-from-every-word-even-though-such-shatters-expectations-conclusions-to-tie-everything-together-into-a-nice-neat-bow-if-communicating-the-above-was-in-fact-god-s-purpose-in-having-the-women-mentioned-in-matthew-s-genealogy-and-there-is-little-other-logical-explanation-for-their-inclusion-then-it-actually-makes-quite-a-bit-more-sense-for-the-rahab-mentioned-in-the-genealogy-to-be-the-prostitute-mentioned-in-joshua-otherwise-why-would-this-woman-be-mentioned-by-name-alongside-all-the-other-trophies-of-grace-bathsheba-ruth-tamar-so-far-from-us-having-theological-problems-if-we-take-the-rahab-in-the-genealogy-to-be-the-prostitute-the-context-almost-demands-it-if-i-were-to-make-an-another-argument-about-all-this-from-scratch-i-would-hit-this-point-very-hard-that-the-other-women-in-the-lineage-of-christ-are-all-mentioned-specifically-to-demonstrate-god-s-great-love-and-grace-towards-humanity-so-it-makes-little-sense-for-the-rahab-mentioned-here-to-be-some-random-woman-we-know-nothing-else-about-rather-than-the-reformed-prostitute-bearing-that-name-the-one-praised-highly-elsewhere-in-scripture}{{% /post-hoc-note %}}
+{{% /post-hoc-note %}}
 
 {{% /toggleable-content %}}
 
@@ -298,11 +298,11 @@ If I were to make an another argument about all this from scratch, I would hit t
 
 {{% toggleable-content %}}
 
-### Content
+### Content {#handling-several-other-matters-content}
 
-### "It's not the same Rahab because the chronology does not work"
+#### "It's not the same Rahab because the chronology does not work" {#handling-several-other-matters-it-s-not-the-same-rahab-because-the-chronology-does-not-work}
 
- {#handling-several-other-matters-content-it-s-not-the-same-rahab-because-the-chronology-does-not-work}{{< subjects >}}
+{{< subjects >}}
 <a href="/subject-index/#chronology-long-lifespans-do-not-necessarily-pose-problems">Chronology > Long lifespans do not necessarily pose problems</a>
 {{< /subjects >}}
 
@@ -322,9 +322,9 @@ Here is what a friend and mentor of mine has to say about the matter (please see
 
 <!-- --- -->
 
-#### "Neither Josephus nor Joshua mention a marriage between the prostitute Rahab and Salmon"
+#### "Neither Josephus nor Joshua mention a marriage between the prostitute Rahab and Salmon" {#handling-several-other-matters-neither-josephus-nor-joshua-mention-a-marriage-between-the-prostitute-rahab-and-salmon}
 
- {#handling-several-other-matters-neither-josephus-nor-joshua-mention-a-marriage-between-the-prostitute-rahab-and-salmon}{{< subjects >}}
+{{< subjects >}}
 <a href="/subject-index/#josephus">Josephus</a>
 {{< /subjects >}}
 
@@ -340,7 +340,7 @@ Hopefully all this has answered your question. Do feel free to email back if you
 
 <!-- --- -->
 
-#### Steven asking Dr. Luginbill of Ichthys.com for clarification on the text of Sinaiticus
+#### Steven asking Dr. Luginbill of Ichthys.com for clarification on the text of Sinaiticus {#handling-several-other-matters-steven-asking-dr-luginbill-of-ichthys-com-for-clarification-on-the-text-of-sinaiticus}
 
 Hi Bob,
 
@@ -360,9 +360,9 @@ For Matthew 1:5, This seems to match the TR, and goes against my whole argument.
 
 <!-- --- -->
 
-### Dr. Luginbill of Ichthys.com responding
+#### Dr. Luginbill of Ichthys.com responding {#handling-several-other-matters-dr-luginbill-of-ichthys-com-responding}
 
- {#handling-several-other-matters-steven-asking-dr-luginbill-of-ichthys-com-for-clarification-on-the-text-of-sinaiticus-hi-bob-with-respect-to-the-actual-email-i-guess-there-actually-is-one-thing-i-want-to-know-myself-from-some-comparison-of-interlinears-it-appears-that-the-textus-receptus-has-rakhab-in-matthew-1-5-instead-of-raab-like-nasb95-s-textual-base-nestle-aland-27th-ed-i-believe-i-guess-i-just-assumed-this-is-what-sinaiticus-must-read-since-it-seemed-to-make-sense-that-the-name-would-be-the-same-in-james-2-25-hebrews-11-31-and-matthew-1-5-but-when-i-checked-the-first-chapter-of-matthew-sinaiticus-reads-from-the-website-http-codexsinaiticus-org-en-manuscript-aspx-book-33-lid-en-side-r-zoomslider-0-pre-calmon-de-egen-necen-ton-boec-ek-tec-strong-rakhab-strong-boec-de-egennecen-ton-iobed-ek-tec-routh-iobed-de-egenne-cen-ton-ieccai-pre-for-matthew-1-5-this-seems-to-match-the-tr-and-goes-against-my-whole-argument-i-checked-and-it-s-raab-at-the-the-other-two-occurrences-in-sinaiticus-is-this-right-or-wrong-how-should-i-explain-the-occurrence-of-the-kh-in-rahab-s-name-to-my-friend-if-it-is-actually-the-correct-reading-dr-luginbill-of-ichthys-com-responding}{{< subjects >}}
+{{< subjects >}}
 <a href="/subject-index/#transliteration-of-names-places-etc-is-not-consistent-in-scripture">Transliteration of names, places, etc. > Is not consistent in scripture</a>
 {{< /subjects >}}
 

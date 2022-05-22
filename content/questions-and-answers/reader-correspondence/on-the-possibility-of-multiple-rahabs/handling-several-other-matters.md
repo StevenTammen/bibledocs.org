@@ -11,9 +11,9 @@ weight: 20
 
 {{% content %}}
 
-## Content
+## Content {#content}
 
-### "It's not the same Rahab because the chronology does not work"
+### "It's not the same Rahab because the chronology does not work" {#it-s-not-the-same-rahab-because-the-chronology-does-not-work}
 
 {{< subjects >}}
 <a href="/subject-index/#chronology-long-lifespans-do-not-necessarily-pose-problems">Chronology > Long lifespans do not necessarily pose problems</a>
@@ -35,7 +35,7 @@ Here is what a friend and mentor of mine has to say about the matter (please see
 
 <!-- --- -->
 
-### "Neither Josephus nor Joshua mention a marriage between the prostitute Rahab and Salmon"
+### "Neither Josephus nor Joshua mention a marriage between the prostitute Rahab and Salmon" {#neither-josephus-nor-joshua-mention-a-marriage-between-the-prostitute-rahab-and-salmon}
 
 {{< subjects >}}
 <a href="/subject-index/#josephus">Josephus</a>
@@ -53,7 +53,7 @@ Hopefully all this has answered your question. Do feel free to email back if you
 
 <!-- --- -->
 
-### Steven asking Dr. Luginbill of Ichthys.com for clarification on the text of Sinaiticus
+### Steven asking Dr. Luginbill of Ichthys.com for clarification on the text of Sinaiticus {#steven-asking-dr-luginbill-of-ichthys-com-for-clarification-on-the-text-of-sinaiticus}
 
 Hi Bob,
 
@@ -73,7 +73,7 @@ For Matthew 1:5, This seems to match the TR, and goes against my whole argument.
 
 <!-- --- -->
 
-### Dr. Luginbill of Ichthys.com responding
+### Dr. Luginbill of Ichthys.com responding {#dr-luginbill-of-ichthys-com-responding}
 
 {{< subjects >}}
 <a href="/subject-index/#transliteration-of-names-places-etc-is-not-consistent-in-scripture">Transliteration of names, places, etc. > Is not consistent in scripture</a>

@@ -11,9 +11,9 @@ weight: 20
 
 {{% content %}}
 
-## Content
+## Content {#content}
 
-### Back to the main thrust of the question
+### Back to the main thrust of the question {#back-to-the-main-thrust-of-the-question}
 
 {{< subjects >}}
 <a href="/subject-index/#application-gray-areas">Application > Gray areas</a>
@@ -29,7 +29,7 @@ Note, however, that scripture is strong enough in its exhortations to obey our p
 
 {{% application %}}
 
-### Cultural context is important
+### Cultural context is important {#cultural-context-is-important}
 
 {{< subjects >}}
 <a href="/subject-index/#application-culture-can-be-important">Application > Culture can be important</a>
@@ -46,13 +46,13 @@ On the other hand, if, for example, my American parents suddenly decided that th
 
 <!-- --- -->
 
-### It is only our own personal circumstances that matter
+### It is only our own personal circumstances that matter {#it-is-only-our-own-personal-circumstances-that-matter}
 
 To generalize this a bit further: the fact that you can think up hypothetical outrageous situations regarding unjust parents (or even actual ones halfway across the world) does not mean *you* have grounds for ignoring *your* parents.
 
 <!-- --- -->
 
-### Things are different if you are still living at home
+### Things are different if you are still living at home {#things-are-different-if-you-are-still-living-at-home}
 
 If you are still living with your parents and financially dependent upon them, the relationship is different than if you are out on your own and independent. It is right and proper for people to be able to run their households with authority -- and if you don't like it, well, God surely has a reason for you being there.
 
@@ -62,7 +62,7 @@ We never outgrow the obligation to respect our parents and act deferentially tow
 
 <!-- --- -->
 
-### Our duty to God can help shed light on some of the possible areas of contention
+### Our duty to God can help shed light on some of the possible areas of contention {#our-duty-to-god-can-help-shed-light-on-some-of-the-possible-areas-of-contention}
 
 Sometimes we really will have to weigh the input of our parents and decide whether or not it is something that we are called and obligated to follow. While it does always ultimately boil down to specifics only knowable by individuals and God, there are some common things that people clash with their parents on. In no particular order:
 
@@ -77,7 +77,7 @@ As a rule of thumb, if put on the scale, God's Will for us outweighs parental pr
 
 <!-- --- -->
 
-#### Career
+#### Career {#career}
 
 {{< subjects >}}
 <a href="/subject-index/#parents-disagreement-with-career">Parents > Disagreement with > Career</a>
@@ -91,7 +91,7 @@ Well, what does God want you to do? If the answer is "history professor," then h
 
 <!-- --- -->
 
-#### Choice of significant other
+#### Choice of significant other {#choice-of-significant-other}
 
 {{< subjects >}}
 <a href="/subject-index/#parents-disagreement-with-significant-other">Parents > Disagreement with > Significant other</a>
@@ -117,7 +117,7 @@ Usually things won't be so clear-cut. The main idea is to take your parents' opi
 
 <!-- --- -->
 
-#### Choice of friends
+#### Choice of friends {#choice-of-friends}
 
 {{< subjects >}}
 <a href="/subject-index/#parents-disagreement-with-friends">Parents > Disagreement with > Friends</a>
@@ -133,7 +133,7 @@ As you might have been able to guess, there is a middle road to be walked here a
 
 <!-- --- -->
 
-#### Spiritual approach
+#### Spiritual approach {#spiritual-approach}
 
 {{< subjects >}}
 <a href="/subject-index/#parents-disagreement-with-spiritual-approach">Parents > Disagreement with > Spiritual approach</a>
@@ -155,7 +155,7 @@ I know of some people who have "been Christians" their whole lives with little t
 
 <!-- --- -->
 
-#### Recap and summary
+#### Recap and summary {#recap-and-summary}
 
 The four areas touched on in this subsection -- common areas of disagreement between parents and children -- help highlight the best path to take in all situations that are shades of gray rather than black-and-white: trying to figure out exactly what God would have you do, and then acting according to His Will.
 

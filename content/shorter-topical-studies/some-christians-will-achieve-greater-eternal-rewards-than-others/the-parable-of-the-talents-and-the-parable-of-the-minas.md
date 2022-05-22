@@ -11,9 +11,9 @@ weight: 10
 
 {{% content %}}
 
-## Content
+## Content {#content}
 
-### Introduction
+### Introduction {#introduction}
 
 These two parables clearly teach that the level of our reward in eternity is dependent upon what we do here on Earth.
 
@@ -21,7 +21,7 @@ The two parables are not exactly identical, but they do both teach this general 
 
 <!-- --- -->
 
-### The parable of the talents
+### The parable of the talents {#the-parable-of-the-talents}
 
 {{% nt t="esv" h="800px" p="Matthew 25:14-30" %}}
 
@@ -64,7 +64,7 @@ The two parables are not exactly identical, but they do both teach this general 
 
 {{% sidenote %}}
 
-### Tangential aside: On Bible versions that translate 'talent' with some actual dollar amount
+### Tangential aside: On Bible versions that translate 'talent' with some actual dollar amount {#tangential-aside-on-bible-versions-that-translate-talent-with-some-actual-dollar-amount}
 
 {{< subjects >}}
 <a href="/subject-index/#translation-is-always-an-imperfect-process">Translation > Is always an imperfect process</a>
@@ -76,7 +76,7 @@ Here, this is done in an attempt to make the passage mean more for children who 
 
 <!-- --- -->
 
-### But there are dangers
+### But there are dangers {#but-there-are-dangers}
 
 However, there are certainly dangers too. For example, figuring out exactly how much buying power a talent really represented is wrought with difficulties, and would be far from perfect even if we had perfect historical economic knowledge of a particular area (which of course we never do), because relative buying power always varies according to geographic market conditions, as well as politics. To quote the Anchor Yale Bible Dictionary:
 
@@ -86,7 +86,7 @@ The metrology of the Near East during the Greek and Roman periods is still poorl
 
 <!-- --- -->
 
-### Conclusions
+### Conclusions {#conclusions}
 
 The upshot of all this is that picking a specific value, any value, is already treading on somewhat shaky historiographical ground. And let's not even talk about the differences between the fiat money of today vs. the commodity money of antiquity, and the fact that due to modern-day inflation, whatever value you pick in translation will not represent a consistent measure of buying power over time, especially over longer periods. (The dollar of the 1940s is worth a lot more than the dollar of today when adjusted for inflation, e.g.).
 
@@ -96,7 +96,7 @@ The point of all this discussion is not necessarily to condemn translations that
 
 <!-- --- -->
 
-### The parable of the minas
+### The parable of the minas {#the-parable-of-the-minas}
 
 {{% nt t="esv" h="800px" p="Luke 19:11-27" %}}
 
@@ -135,7 +135,7 @@ The point of all this discussion is not necessarily to condemn translations that
 
 <!-- --- -->
 
-### Interpreting the parable of the talents and the parable of the minas
+### Interpreting the parable of the talents and the parable of the minas {#interpreting-the-parable-of-the-talents-and-the-parable-of-the-minas}
 
 {{< subjects >}}
 <a href="/subject-index/#parables-parable-of-the-talents">Parables > Parable of the talents</a>
@@ -152,7 +152,7 @@ While these two parables are not identical in all the particulars, they teach mo
 
 <!-- --- -->
 
-### Conclusion
+### Conclusion {#conclusion}
 
 Having made these identifications, it should be evident that it is impossible to get around the fact that these parables teach that there are differences in reward for believers based upon how well we make use of the resources God allocates to us.
 

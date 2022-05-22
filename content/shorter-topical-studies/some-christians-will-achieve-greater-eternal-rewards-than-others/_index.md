@@ -17,17 +17,17 @@ summary: >-
 
 {{% toggleable-content %}}
 
-### Content
+### Content {#some-christians-will-achieve-greater-eternal-rewards-than-others-introduction-content}
 
-### Merit-based rewards are not generally controversial
+#### Merit-based rewards are not generally controversial {#some-christians-will-achieve-greater-eternal-rewards-than-others-introduction-merit-based-rewards-are-not-generally-controversial}
 
 Every day people give honor to distinguished service and scorn laziness. The idea of different levels of recognition and reward for different levels of service does not seem to be very controversial to most people.
 
 <!-- --- -->
 
-### However, when the rewards in question are eternal, people seem to be a bit more skittish
+#### However, when the rewards in question are eternal, people seem to be a bit more skittish {#some-christians-will-achieve-greater-eternal-rewards-than-others-introduction-however-when-the-rewards-in-question-are-eternal-people-seem-to-be-a-bit-more-skittish}
 
- {#some-christians-will-achieve-greater-eternal-rewards-than-others-introduction-content-merit-based-rewards-are-not-generally-controversial-every-day-people-give-honor-to-distinguished-service-and-scorn-laziness-the-idea-of-different-levels-of-recognition-and-reward-for-different-levels-of-service-does-not-seem-to-be-very-controversial-to-most-people-however-when-the-rewards-in-question-are-eternal-people-seem-to-be-a-bit-more-skittish}{{< subjects >}}
+{{< subjects >}}
 <a href="/subject-index/#eternal-rewards-people-s-hesitancy-regarding">Eternal rewards > people's hesitancy regarding</a>
 {{< /subjects >}}
 
@@ -41,9 +41,9 @@ Whatever the reasons, this idea of different levels of eternal reward for differ
 
 <!-- --- -->
 
-#### Some general passages dealing with differing levels of eternal reward
+#### Some general passages dealing with differing levels of eternal reward {#some-christians-will-achieve-greater-eternal-rewards-than-others-introduction-some-general-passages-dealing-with-differing-levels-of-eternal-reward}
 
- {#some-christians-will-achieve-greater-eternal-rewards-than-others-introduction-some-general-passages-dealing-with-differing-levels-of-eternal-reward}{{< subjects >}}
+{{< subjects >}}
 <a href="/subject-index/#eternal-rewards-scripture-about">Eternal rewards > Scripture about</a>
 {{< /subjects >}}
 
@@ -85,11 +85,11 @@ All these passages speak of an evaluation of our works. It follows naturally tha
 
 <!-- --- -->
 
-#### More on the process of evaluation: 1 Corinthians 3:10-15
+#### More on the process of evaluation: 1 Corinthians 3:10-15 {#some-christians-will-achieve-greater-eternal-rewards-than-others-introduction-more-on-the-process-of-evaluation-1-corinthians-3-10-15}
 
 Paul gives us some more detail on the process of evaluation in 1 Corinthians 3:
 
- {#some-christians-will-achieve-greater-eternal-rewards-than-others-introduction-more-on-the-process-of-evaluation-1-corinthians-3-10-15-paul-gives-us-some-more-detail-on-the-process-of-evaluation-in-1-corinthians-3}{{% nt t="esv" h="400px" p="1 Corinthians 3:10-15" %}}
+{{% nt t="esv" h="400px" p="1 Corinthians 3:10-15" %}}
 
 {{% scripture-h p="1 Corinthians 3:10-15 | NIV84" %}}
 (10) By the grace God has given me, I laid a foundation as an expert builder, and someone else is building on it. But each one should be careful how he builds. (11) For no one can lay any foundation other than the one already laid, which is Jesus Christ. (12) If any man builds on this foundation using gold, silver, costly stones, wood, hay or straw, (13) his work will be shown for what it is, because the Day will bring it to light. It will be revealed with fire, and the fire will test the quality of each man’s work. (14) If what he has built survives, he will receive his reward. (15) If it is burned up, he will suffer loss; he himself will be saved, but only as one escaping through the flames.
@@ -113,11 +113,11 @@ The fire represents God evaluating the things we do in this life, and the things
 
 <!-- --- -->
 
-#### Eternal ranking is implicit in "Many of the first will be last, and the last first"
+#### Eternal ranking is implicit in "Many of the first will be last, and the last first" {#some-christians-will-achieve-greater-eternal-rewards-than-others-introduction-eternal-ranking-is-implicit-in-many-of-the-first-will-be-last-and-the-last-first}
 
 Finally, consider the passages that teach that many of the first will be last, and the last first:
 
- {#some-christians-will-achieve-greater-eternal-rewards-than-others-introduction-eternal-ranking-is-implicit-in-many-of-the-first-will-be-last-and-the-last-first-finally-consider-the-passages-that-teach-that-many-of-the-first-will-be-last-and-the-last-first}{{% nt t="esv" h="400px" p="Mark 10:31 | Luke 13:30" %}}
+{{% nt t="esv" h="400px" p="Mark 10:31 | Luke 13:30" %}}
 
 {{% scripture-h p="Mark 10:31 | NIV84" %}}
 "But many who are first will be last, and the last first."
@@ -158,9 +158,9 @@ These passages directly teach that there is ranking in heaven. If we were all th
 
 {{% toggleable-content %}}
 
-### Content
+### Content {#the-parable-of-the-talents-and-the-parable-of-the-minas-content}
 
-### Introduction
+#### Introduction {#the-parable-of-the-talents-and-the-parable-of-the-minas-introduction}
 
 These two parables clearly teach that the level of our reward in eternity is dependent upon what we do here on Earth.
 
@@ -168,9 +168,9 @@ The two parables are not exactly identical, but they do both teach this general 
 
 <!-- --- -->
 
-### The parable of the talents
+#### The parable of the talents {#the-parable-of-the-talents-and-the-parable-of-the-minas-the-parable-of-the-talents}
 
- {#the-parable-of-the-talents-and-the-parable-of-the-minas-content-introduction-these-two-parables-clearly-teach-that-the-level-of-our-reward-in-eternity-is-dependent-upon-what-we-do-here-on-earth-the-two-parables-are-not-exactly-identical-but-they-do-both-teach-this-general-principle-the-parable-of-the-talents}{{% nt t="esv" h="800px" p="Matthew 25:14-30" %}}
+{{% nt t="esv" h="800px" p="Matthew 25:14-30" %}}
 
 {{% scripture-h p="Matthew 25:14-30 | NIV84" %}}
 
@@ -211,9 +211,9 @@ The two parables are not exactly identical, but they do both teach this general 
 
 {{% sidenote %}}
 
-#### Tangential aside: On Bible versions that translate 'talent' with some actual dollar amount
+#### Tangential aside: On Bible versions that translate 'talent' with some actual dollar amount {#the-parable-of-the-talents-and-the-parable-of-the-minas-tangential-aside-on-bible-versions-that-translate-talent-with-some-actual-dollar-amount}
 
- {#the-parable-of-the-talents-and-the-parable-of-the-minas-tangential-aside-on-bible-versions-that-translate-talent-with-some-actual-dollar-amount}{{< subjects >}}
+{{< subjects >}}
 <a href="/subject-index/#translation-is-always-an-imperfect-process">Translation > Is always an imperfect process</a>
 {{< /subjects >}}
 
@@ -223,29 +223,29 @@ Here, this is done in an attempt to make the passage mean more for children who 
 
 <!-- --- -->
 
-#### But there are dangers
+#### But there are dangers {#the-parable-of-the-talents-and-the-parable-of-the-minas-but-there-are-dangers}
 
 However, there are certainly dangers too. For example, figuring out exactly how much buying power a talent really represented is wrought with difficulties, and would be far from perfect even if we had perfect historical economic knowledge of a particular area (which of course we never do), because relative buying power always varies according to geographic market conditions, as well as politics. To quote the Anchor Yale Bible Dictionary:
 
- {#the-parable-of-the-talents-and-the-parable-of-the-minas-but-there-are-dangers-however-there-are-certainly-dangers-too-for-example-figuring-out-exactly-how-much-buying-power-a-talent-really-represented-is-wrought-with-difficulties-and-would-be-far-from-perfect-even-if-we-had-perfect-historical-economic-knowledge-of-a-particular-area-which-of-course-we-never-do-because-relative-buying-power-always-varies-according-to-geographic-market-conditions-as-well-as-politics-to-quote-the-anchor-yale-bible-dictionary}{{% quote text="the Anchor Yale Bible Dictionary" src="https://ref.ly/logosres/anch?ref=VolumePage.V+6%2c+p+907&off=4261&ctx=%2c+at+least+20.4+kg.%0a~The+metrology+of+the" %}}
+{{% quote text="the Anchor Yale Bible Dictionary" src="https://ref.ly/logosres/anch?ref=VolumePage.V+6%2c+p+907&off=4261&ctx=%2c+at+least+20.4+kg.%0a~The+metrology+of+the" %}}
 The metrology of the Near East during the Greek and Roman periods is still poorly understood. Coins bring additional evidence but complicate matters enormously because we do not have the evidence to control either the effect of prices or politics.
 {{% /quote %}}
 
 <!-- --- -->
 
-#### Conclusions
+#### Conclusions {#the-parable-of-the-talents-and-the-parable-of-the-minas-conclusions}
 
 The upshot of all this is that picking a specific value, any value, is already treading on somewhat shaky historiographical ground. And let's not even talk about the differences between the fiat money of today vs. the commodity money of antiquity, and the fact that due to modern-day inflation, whatever value you pick in translation will not represent a consistent measure of buying power over time, especially over longer periods. (The dollar of the 1940s is worth a lot more than the dollar of today when adjusted for inflation, e.g.).
 
 The point of all this discussion is not necessarily to condemn translations that use actual values, but just to note some of the complexities and perils involved. Here, as always, we can see that translation is a grossly imperfect process, even when you take the utmost care and properly do your homework.
 
- {#the-parable-of-the-talents-and-the-parable-of-the-minas-conclusions-the-upshot-of-all-this-is-that-picking-a-specific-value-any-value-is-already-treading-on-somewhat-shaky-historiographical-ground-and-let-s-not-even-talk-about-the-differences-between-the-fiat-money-of-today-vs-the-commodity-money-of-antiquity-and-the-fact-that-due-to-modern-day-inflation-whatever-value-you-pick-in-translation-will-not-represent-a-consistent-measure-of-buying-power-over-time-especially-over-longer-periods-the-dollar-of-the-1940s-is-worth-a-lot-more-than-the-dollar-of-today-when-adjusted-for-inflation-e-g-the-point-of-all-this-discussion-is-not-necessarily-to-condemn-translations-that-use-actual-values-but-just-to-note-some-of-the-complexities-and-perils-involved-here-as-always-we-can-see-that-translation-is-a-grossly-imperfect-process-even-when-you-take-the-utmost-care-and-properly-do-your-homework}{{% /sidenote %}}
+{{% /sidenote %}}
 
 <!-- --- -->
 
-#### The parable of the minas
+#### The parable of the minas {#the-parable-of-the-talents-and-the-parable-of-the-minas-the-parable-of-the-minas}
 
- {#the-parable-of-the-talents-and-the-parable-of-the-minas-the-parable-of-the-minas}{{% nt t="esv" h="800px" p="Luke 19:11-27" %}}
+{{% nt t="esv" h="800px" p="Luke 19:11-27" %}}
 
 {{% scripture-h p="Luke 19:11-27 | NIV84" %}}
 (11) While they were listening to this, he went on to tell them a parable, because he was near Jerusalem and the people thought that the kingdom of God was going to appear at once. (12) He said: “A man of noble birth went to a distant country to have himself appointed king and then to return. (13) So he called ten of his servants and gave them ten minas. ‘Put this money to work,’ he said, ‘until I come back.’ 
@@ -282,9 +282,9 @@ The point of all this discussion is not necessarily to condemn translations that
 
 <!-- --- -->
 
-#### Interpreting the parable of the talents and the parable of the minas
+#### Interpreting the parable of the talents and the parable of the minas {#the-parable-of-the-talents-and-the-parable-of-the-minas-interpreting-the-parable-of-the-talents-and-the-parable-of-the-minas}
 
- {#the-parable-of-the-talents-and-the-parable-of-the-minas-interpreting-the-parable-of-the-talents-and-the-parable-of-the-minas}{{< subjects >}}
+{{< subjects >}}
 <a href="/subject-index/#parables-parable-of-the-talents">Parables > Parable of the talents</a>
 <a href="/subject-index/#parables-parable-of-the-minas">Parables > Parable of the minas</a>
 {{< /subjects >}}
@@ -299,7 +299,7 @@ While these two parables are not identical in all the particulars, they teach mo
 
 <!-- --- -->
 
-#### Conclusion
+#### Conclusion {#the-parable-of-the-talents-and-the-parable-of-the-minas-conclusion}
 
 Having made these identifications, it should be evident that it is impossible to get around the fact that these parables teach that there are differences in reward for believers based upon how well we make use of the resources God allocates to us.
 
@@ -319,6 +319,6 @@ If we end up ranking poorly in eternity, the only people we have to blame are ou
 
 Keeping this in mind, may we live our lives in such a way that we bring glory to God by receiving a bountiful reward on that Great Day of Days!
 
- {#the-parable-of-the-talents-and-the-parable-of-the-minas-conclusion-having-made-these-identifications-it-should-be-evident-that-it-is-impossible-to-get-around-the-fact-that-these-parables-teach-that-there-are-differences-in-reward-for-believers-based-upon-how-well-we-make-use-of-the-resources-god-allocates-to-us-we-should-take-care-to-not-get-arrogant-and-think-to-ourselves-that-we-deserve-something-for-our-actions-that-somehow-god-owes-us-something-god-has-every-right-to-cast-us-away-from-himself-in-judgement-for-on-our-own-we-are-irreparably-broken-and-tainted-by-sin-but-instead-out-of-his-good-grace-he-sent-his-one-and-only-son-to-take-the-penalty-for-our-sin-upon-his-shoulders-redeeming-us-unto-himself-and-just-as-we-are-saved-on-pure-grace-so-too-are-we-rewarded-by-pure-grace-and-nothing-more-if-only-by-leaning-on-god-s-power-not-ourselves-we-accomplish-that-which-he-commanded-us-to-do-rather-than-getting-a-swelled-head-and-feeling-that-we-are-most-special-we-should-instead-humbly-bow-our-heads-and-acknowledge-that-we-have-just-done-that-which-we-ought-as-servants-luke-17-10-what-is-praiseworthy-in-rendering-to-our-master-that-which-is-his-right-to-demand-and-imperfectly-at-that-for-no-matter-how-hard-we-try-we-are-bound-to-present-to-him-only-the-crudest-works-like-unskilled-children-proudly-holding-up-rags-while-not-even-knowing-that-they-ought-to-instead-feel-shame-in-reward-for-the-proportionally-small-matter-of-doubling-ten-minas-ours-is-a-god-who-puts-men-in-charge-of-ten-cities-his-grace-is-positively-scandalous-who-are-we-to-rule-ten-cities-but-he-doesn-t-reward-everyone-in-such-measure-some-people-are-thrown-out-into-the-darkness-having-accused-the-lord-who-bought-them-out-of-slavery-with-the-precious-blood-of-his-son-of-being-a-hard-master-who-demands-unreasonable-things-and-others-even-if-they-do-not-so-openly-rebel-against-their-master-and-thus-retain-their-status-as-servants-nonetheless-bring-shame-by-their-lack-of-diligence-and-squander-away-all-the-gifts-of-their-master-living-their-lives-out-in-a-shameful-flood-of-dissipation-and-worthlessness-rather-than-bringing-glory-to-the-name-of-christ-so-no-we-will-not-all-share-the-same-level-of-reward-in-eternity-but-some-people-will-receive-more-for-though-none-of-us-will-ever-be-perfect-far-from-it-that-does-not-mean-some-people-do-not-get-a-whole-awful-lot-closer-than-others-such-is-obvious-to-all-who-are-honest-spiritual-excellence-always-stands-out-quite-distinctly-down-here-in-this-moral-cesspit-this-present-kosmos-under-satan-s-control-and-while-god-is-not-obligated-to-give-us-anything-for-rendering-unto-him-the-service-that-is-his-right-to-demand-of-us-as-king-of-the-universe-the-bible-makes-it-clear-that-he-will-in-fact-fabulously-reward-all-those-who-choose-to-follow-him-with-distinction-so-that-is-exactly-what-we-should-aspire-to-do-if-we-end-up-ranking-poorly-in-eternity-the-only-people-we-have-to-blame-are-ourselves-because-god-gives-equal-opportunity-to-all-judging-us-completely-perfectly-according-to-our-specific-circumstances-as-only-an-omniscient-being-can-no-one-gets-more-or-less-than-exactly-that-which-they-deserve-keeping-this-in-mind-may-we-live-our-lives-in-such-a-way-that-we-bring-glory-to-god-by-receiving-a-bountiful-reward-on-that-great-day-of-days}{{% /toggleable-content %}}
+{{% /toggleable-content %}}
 
 <!-- aggregate-page-content -->

@@ -11,17 +11,17 @@ weight: 1
 
 {{% content %}}
 
-## Content
+## Content {#content}
 
 **October, 2015 - before I had any Greek**
 
-### Q: How can we be sure the Rahab mentioned in Matthew in Jesus' genealogy is the same as the Rahab in Joshua?
+### Q: How can we be sure the Rahab mentioned in Matthew in Jesus' genealogy is the same as the Rahab in Joshua? {#q-how-can-we-be-sure-the-rahab-mentioned-in-matthew-in-jesus-genealogy-is-the-same-as-the-rahab-in-joshua}
 
 I was talking to someone this week about Rahab, and there is a point of confusion I was wondering I could clear up with you. Apparently, the spelling of Rahab's name is different when she is mentioned in Matthew (Jesus's genealogy) than when her name is mentioned in Joshua. It is spelled the same everywhere else, but how can we be so sure it's the same Rahab? Or is everything I said wrong?
 
 <!-- --- -->
 
-### An approach to answering this question: refuting an argument representative of the the opposing position point-by-point
+### An approach to answering this question: refuting an argument representative of the the opposing position point-by-point {#an-approach-to-answering-this-question-refuting-an-argument-representative-of-the-the-opposing-position-point-by-point}
 
 {{< subjects >}}
 <a href="/subject-index/#apologetics-combatting-falsehood-by-refuting-a-representative-specific-argument">Apologetics > Combatting falsehood by refuting a representative specific argument</a>
@@ -33,7 +33,7 @@ Note that me refuting this argument does not necessarily refute the position *in
 
 <!-- --- -->
 
-### In the Greek New Testament, 'Rahab' is transliterated in different ways in different places
+### In the Greek New Testament, 'Rahab' is transliterated in different ways in different places {#in-the-greek-new-testament-rahab-is-transliterated-in-different-ways-in-different-places}
 
 What your friend was likely referring to was not the difference between the words for Rahab in Joshua and Matthew, but rather the difference between the Greek word used in Matthew 1:5 ( Ῥαχάβ, transliterated *Rhachab*) and the Greek word used in James 2:25 and Hebrews 11:31 ( Ῥαάβ, transliterated *Rhaab*).
 
@@ -43,7 +43,7 @@ The likely reason why your friend ran into it is that most English speakers use 
 
 <!-- --- -->
 
-### The main argument being used as a representative sample of the opposing point of view
+### The main argument being used as a representative sample of the opposing point of view {#the-main-argument-being-used-as-a-representative-sample-of-the-opposing-point-of-view}
 
 The main argument of the "two Rahabs" fellow:
 
@@ -66,7 +66,7 @@ On the other hand, in Matthew 1:5 Rachab the wife of Salmon is clearly distingui
 
 <!-- --- -->
 
-#### Assumptions are dangerous in interpretation
+#### Assumptions are dangerous in interpretation {#assumptions-are-dangerous-in-interpretation}
 
 {{% quote src="http://www.outsidethecamp.org/rahab.htm" text="OutsideTheCamp.org" %}}
 
@@ -78,7 +78,7 @@ This is an outright assumption. Unless the writer claims to know the mind of Jam
 
 <!-- --- -->
 
-#### Commenting on the argument's reasons for 'Rahab the harlot' identifications
+#### Commenting on the argument's reasons for 'Rahab the harlot' identifications {#commenting-on-the-argument-s-reasons-for-rahab-the-harlot-identifications}
 
 {{% quote src="http://www.outsidethecamp.org/rahab.htm" text="OutsideTheCamp.org" %}}
 
@@ -96,7 +96,7 @@ Observations (b) and (c) are valid points; when Rahab is mentioned in the "heroe
 
 <!-- --- -->
 
-#### Commenting on the argument's reasons for 'Rahab the relative of Christ' identification
+#### Commenting on the argument's reasons for 'Rahab the relative of Christ' identification {#commenting-on-the-argument-s-reasons-for-rahab-the-relative-of-christ-identification}
 
 {{% quote src="http://www.outsidethecamp.org/rahab.htm" text="OutsideTheCamp.org" %}}
 
@@ -136,7 +136,7 @@ As to (1), I touched on it in the introduction, but I'll go into more depth here
 
 <!-- --- -->
 
-##### Different Greek spellings
+##### Different Greek spellings {#different-greek-spellings}
 
 The big issue here is that we have textual variance between manuscript editions: The TR uses  Ῥαχάβ in Matthew 1:5 ([see this link](https://www.blueletterbible.org/kjv/mat/1/1/t_conc_930005)), while more recent versions of the GNT (NASB95 is based on one of the Nestle-Aland editions, if I am not mistaken) use Ῥαάβ in Matthew 1:5 ([see this link](https://www.blueletterbible.org/nasb/mat/1/5/t_conc_930005)).
 
@@ -148,7 +148,7 @@ Now certainly, there are those who make that argument, but it must be backed up 
 
 <!-- --- -->
 
-#### Conclusions regarding the main argument
+#### Conclusions regarding the main argument {#conclusions-regarding-the-main-argument}
 
 So at this point, the only things out of (a), (b), (c), (1), (2), (3), and (4) that still hold water are (b) and (c), but just because Rahab was identified in these ways in other parts of the Bible does not mean that she must always be identified in this same way (and to believe such would be another assumption that is effectively without a shred of evidence).
 
@@ -156,7 +156,7 @@ Thus, this particular argument falls flat, and we conclude that there was one an
 
 <!-- --- -->
 
-### Concluding thoughts
+### Concluding thoughts {#concluding-thoughts}
 
 Hopefully the above convinced you that the main argument of the link I supplied was incorrect, but I didn't address everything in that piece since it would take a while and I'm sure you have other things to do than read lengthy analyses of false theological positions. But I think several other false arguments merit comment, so I'll include another section as well. I'll try to keep it brief.
 

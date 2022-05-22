@@ -11,9 +11,9 @@ weight: 10
 
 {{% content %}}
 
-## Content
+## Content {#content}
 
-### Things that go against our spiritual responsibilities as Christians (including failing to obey the government)
+### Things that go against our spiritual responsibilities as Christians (including failing to obey the government) {#things-that-go-against-our-spiritual-responsibilities-as-christians-including-failing-to-obey-the-government}
 
 If your parents tell you to do something that goes against our spiritual responsibilities as Christians, then you have an obligation to obey God not them, of course. (Compare the circumstances under which we ought not submit to government authority: Daniel 6:6-12 as an example of the principles overriding Romans 13:1-7 and 1 Peter 2:13-17; if our parents forbid us from praying, we should carry on and ignore them). The only opinion we ought to truly value is God's -- what does God think of our actions?
 
@@ -21,7 +21,7 @@ Incidentally, those verses about government obedience above also give rise to a 
 
 <!-- --- -->
 
-### Abuse
+### Abuse {#abuse}
 
 {{< subjects >}}
 <a href="/subject-index/#child-abuse">Child abuse</a>
@@ -40,7 +40,7 @@ Some people are best loved from a distance. Perhaps even with a restraining orde
 
 {{% sidenote %}}
 
-#### Spousal abuse and divorce
+#### Spousal abuse and divorce {#spousal-abuse-and-divorce}
 
 {{< subjects >}}
 <a href="/subject-index/#spousal-abuse">Spousal abuse</a>
@@ -64,7 +64,7 @@ Matthew 18:6 comes to mind -- such gross and hypocritical legalism, especially c
 
 <!-- --- -->
 
-#### God is the one who decides what abuse is
+#### God is the one who decides what abuse is {#god-is-the-one-who-decides-what-abuse-is}
 
 Severely questioning and being overly skeptical of victims of abuse can be problematic for obvious reasons. But it is also true that some parties feel like shouting "abuse!" at the top of their lungs should be an escape-consequences-free card, and this is improper.
 
@@ -74,7 +74,7 @@ Not everything is so cut-and-dry as this though. There certainly are parents out
 
 <!-- --- -->
 
-#### Should we step in if people aren't parenting how we would?
+#### Should we step in if people aren't parenting how we would? {#should-we-step-in-if-people-aren-t-parenting-how-we-would}
 
 {{< subjects >}}
 <a href="/subject-index/#meddling-is-not-proper-for-christians">Meddling > Is not proper for Christians</a>

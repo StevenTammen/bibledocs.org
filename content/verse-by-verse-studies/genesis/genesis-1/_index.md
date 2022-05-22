@@ -12,17 +12,17 @@ chapter: 1
 
 
 
-### Summary
+### Summary {#genesis-1-1-what-beginning-is-in-view-summary}
 
 Genesis 1:1 (in the original Hebrew and Greek Septuagint both) and John 1:1 do not have direct articles, meaning the texts read "a beginning" not "the beginning." This supports the idea that the beginning referred to is the beginning of God's actions regarding the material universe, not the beginning of the material universe itself. Making this clear guarantees that people properly understand that God transcends space and time (things of His own creation), rather than Himself being somehow bound by the material universe.
 
- {#genesis-1-1-what-beginning-is-in-view-summary-genesis-1-1-in-the-original-hebrew-and-greek-septuagint-both-and-john-1-1-do-not-have-direct-articles-meaning-the-texts-read-a-beginning-not-the-beginning-this-supports-the-idea-that-the-beginning-referred-to-is-the-beginning-of-god-s-actions-regarding-the-material-universe-not-the-beginning-of-the-material-universe-itself-making-this-clear-guarantees-that-people-properly-understand-that-god-transcends-space-and-time-things-of-his-own-creation-rather-than-himself-being-somehow-bound-by-the-material-universe}{{% toggleable-content %}}
+{{% toggleable-content %}}
 
-### Content
+### Content {#genesis-1-1-what-beginning-is-in-view-content}
 
-### The "beginning" mentioned in Genesis 1:1 (and also John 1:1) is indefinite not definite
+#### The "beginning" mentioned in Genesis 1:1 (and also John 1:1) is indefinite not definite {#genesis-1-1-what-beginning-is-in-view-the-beginning-mentioned-in-genesis-1-1-and-also-john-1-1-is-indefinite-not-definite}
 
- {#genesis-1-1-what-beginning-is-in-view-content-the-beginning-mentioned-in-genesis-1-1-and-also-john-1-1-is-indefinite-not-definite}{{< subjects >}}
+{{< subjects >}}
 <a href="/subject-index/#definite-article">Definite article</a>
 {{< /subjects >}}
 
@@ -96,9 +96,9 @@ When God commanded spacetime to come into existence from nothing, it did. God's 
 
 <!-- --- -->
 
-#### How did God exist before space and time?
+#### How did God exist before space and time? {#genesis-1-1-what-beginning-is-in-view-how-did-god-exist-before-space-and-time}
 
- {#genesis-1-1-what-beginning-is-in-view-how-did-god-exist-before-space-and-time}{{< subjects >}}
+{{< subjects >}}
 <a href="/subject-index/#god-externality-to-spacetime">God > Externality to spacetime</a>
 <a href="/subject-index/#god-name-of-god">God > Name of God</a>
 <a href="/subject-index/#tetragrammaton">Tetragrammaton</a>
@@ -130,11 +130,11 @@ The second step is understanding God's identity as I AM. In Exodus 3:14–15 God
 
 {{% technical-discussion %}}
 
-##### The divine name of God
+##### The divine name of God {#genesis-1-1-what-beginning-is-in-view-the-divine-name-of-god}
 
 יהוה, the divine name of the God in the Old Testament, is sometimes called the tetragrammaton (from Greek τετραγράμματον, meaning "[consisting of] four letters"). Here's this same Exodus passage in the Hebrew:
 
- {#genesis-1-1-what-beginning-is-in-view-the-divine-name-of-god-yhvh-the-divine-name-of-the-god-in-the-old-testament-is-sometimes-called-the-tetragrammaton-from-greek-tetragrammaton-meaning-consisting-of-four-letters-here-s-this-same-exodus-passage-in-the-hebrew}{{% hebrew-i h="600px" p="Exodus 3:14-15" %}}
+{{% hebrew-i h="600px" p="Exodus 3:14-15" %}}
 
 {{% scripture-h p="Exodus 3:14-15 | BHS, NASB95" %}}
 
@@ -177,7 +177,7 @@ If you like, though, read what some scholars have to say on the divine name:
 
 Put simply, existence is tied up in who God is. God is the Alpha and Omega, He who is and was and is to come, the First and the Last, the Beginning and the End (Revelation 1:8; 22:13). For this reason, time is of no consequence to God.
 
-#### Recap and summary
+#### Recap and summary {#genesis-1-1-what-beginning-is-in-view-recap-and-summary}
 
 We discussed how Genesis 1:1 (in the original Hebrew and Greek Septuagint both) and John 1:1 do not have direct articles, meaning the texts read "a beginning" not "the beginning." This supports the idea that the beginning referred to is the beginning of God's actions regarding the material universe, not the beginning of the material universe itself. Not translating properly or failing to explain this properly can obscure this fact.
 
@@ -185,7 +185,7 @@ The big issue with not getting this right is that it might give the false impres
 
 The right way to take it is instead that God's creation of the heavens and the Earth *is* the creation of spacetime.
 
- {#genesis-1-1-what-beginning-is-in-view-recap-and-summary-we-discussed-how-genesis-1-1-in-the-original-hebrew-and-greek-septuagint-both-and-john-1-1-do-not-have-direct-articles-meaning-the-texts-read-a-beginning-not-the-beginning-this-supports-the-idea-that-the-beginning-referred-to-is-the-beginning-of-god-s-actions-regarding-the-material-universe-not-the-beginning-of-the-material-universe-itself-not-translating-properly-or-failing-to-explain-this-properly-can-obscure-this-fact-the-big-issue-with-not-getting-this-right-is-that-it-might-give-the-false-impression-that-gods-creation-of-the-heavens-and-the-earth-proceeded-with-spacetime-already-existing-some-people-might-think-based-on-this-that-god-is-merely-a-very-powerful-creature-that-is-also-bound-by-space-and-time-in-the-universe-like-we-are-but-we-saw-above-that-god-exists-outside-spacetime-the-right-way-to-take-it-is-instead-that-god-s-creation-of-the-heavens-and-the-earth-is-the-creation-of-spacetime}{{% /toggleable-content %}}
+{{% /toggleable-content %}}
 
 <!--
 
@@ -210,7 +210,7 @@ By writing en archē John refers to the same point in time as Moses did in Genes
 
 
 
-### Genesis 1:1 is a statement of historical description not a forward-looking summary
+### Genesis 1:1 is a statement of historical description not a forward-looking summary {#genesis-1-1-what-beginning-is-in-view-genesis-1-1-is-a-statement-of-historical-description-not-a-forward-looking-summary}
 
 We’re not yet done handling the misunderstandings surrounding this first verse of the Bible. Partially caused by the common improper inclusion of the definite article in translation, many people take Genesis 1:1 as a forward-looking summary of the seven days described in the following verses rather than as a statement of historical description.^[fn:1]
 
@@ -226,13 +226,13 @@ As opposed to viewing verse 1 as a historical event that preceded the things des
 
 I could make my own technical argument as to why the second view is correct, but Ichthys has some good discussion on this already in [Part 2 of the Satanic Rebellion Series](https://ichthys.com/sr2-copy.htm#I.%20Linguistic%20Evidence%20for%20the%20Genesis%20Gap:):
 
- {#genesis-1-1-what-beginning-is-in-view-genesis-1-1-is-a-statement-of-historical-description-not-a-forward-looking-summary-were-not-yet-done-handling-the-misunderstandings-surrounding-this-first-verse-of-the-bible-partially-caused-by-the-common-improper-inclusion-of-the-definite-article-in-translation-many-people-take-genesis-1-1-as-a-forward-looking-summary-of-the-seven-days-described-in-the-following-verses-rather-than-as-a-statement-of-historical-description-fn-1-fn-1-although-the-improper-inclusion-of-the-definite-article-does-not-logically-necessitate-taking-genesis-1-1-as-a-forward-looking-summary-i-e-it-is-perfectly-possible-to-translate-as-in-the-beginning-god-created-the-heavens-and-the-earth-while-simultaneously-not-taking-the-verse-as-a-forward-looking-summary-it-does-make-such-an-interpretation-somewhat-more-attractive-it-is-somewhat-a-chicken-or-the-egg-situation-does-this-interpretation-get-put-forward-because-of-the-improper-inclusion-of-the-definite-article-or-is-the-definite-article-improperly-included-largely-because-of-this-interpretation-taking-genesis-1-1-as-a-forward-looking-summary-means-understanding-things-in-the-following-way-in-the-beginning-god-created-the-heavens-and-earth-event-1-first-this-thing-happened-event-1-1-and-then-this-thing-happened-event-1-2-as-opposed-to-viewing-verse-1-as-a-historical-event-that-preceded-the-things-described-in-following-verses-in-beginning-god-created-the-heavens-and-the-earth-event-1-then-this-thing-happened-event-2-and-then-this-thing-happened-event-3-i-could-make-my-own-technical-argument-as-to-why-the-second-view-is-correct-but-ichthys-has-some-good-discussion-on-this-already-in-part-2-of-the-satanic-rebellion-series-https-ichthys-com-sr2-copy-htm-i-20linguistic-20evidence-20for-20the-20genesis-20gap}{{% scripture src="https://ichthys.com/sr2-copy.htm#I.%20Linguistic%20Evidence%20for%20the%20Genesis%20Gap:" text="Ichthys > SR2" %}}
+{{% scripture src="https://ichthys.com/sr2-copy.htm#I.%20Linguistic%20Evidence%20for%20the%20Genesis%20Gap:" text="Ichthys > SR2" %}}
 First of all, the opening sentence of the Bible (taken by itself, and examined without any preconceptions) purports to be just what we are suggesting here: an historical description of God's first action vis-à-vis the material universe, namely His original creation of it. On the other hand, problems for the alternative summary-statement theory arise as soon as we move on to verse two. For the earth is there described as being "without form, and void" (KJV). But if verse one is not an actual description of the creation of the heavens and the earth, but rather merely a summary of the whole seven days that follow, then how are we to explain the fact that there is no re-statement of its initial creation in the detailed account? Where did this formless "earth" come from? Are we to suppose that it did somehow exist before original creation? That would be quite a blow for all who genuinely believe in a God who transcends the universe and in His ex nihilo creation of it (see section II below). If, on the other hand, earth really was originally created "from nothing", it seems beyond odd not to mention that creation in the detailed account of the seven days (if indeed we are to assume that they represent original creation), and, on that account, strained to assume that the bald statement of its creation in verse one is a mere summary.
 {{% /scripture %}}
 
 Now, this leaves us at the point where we are taking Genesis 1:1 as describing God’s ex nihilo creation of the material universe ("the heavens and the earth") rather than acting as a summary statement for the verses that follow.
 
-## Verse 2
+## Verse 2 {#genesis-1-1-what-beginning-is-in-view-verse-2}
 
 The question that follows is thus 
 
@@ -260,4 +260,4 @@ This isn’t some indistinct matter of opinion; it’s grammar. The fact that mo
 -->
 
 
- {#genesis-1-1-what-beginning-is-in-view-verse-2-the-question-that-follows-is-thus-well-get-to-exactly-what-the-so-called-genesis-gap-is-when-discussing-the-second-verse-just-below-but-for-now-note-that-it-is-essentially-impossible-to-take-verse-1-as-a-forward-looking-summary-if-one-at-all-cares-about-what-the-hebrew-actually-says-i-know-this-seems-jarring-to-many-because-it-means-in-essence-that-i-am-saying-that-anyone-who-does-not-come-to-this-conclusion-is-being-unfaithful-to-the-biblical-text-perhaps-this-starkness-would-not-be-so-striking-were-it-not-for-the-fact-that-essentially-all-translations-have-it-wrong-so-am-i-saying-that-translators-and-theologians-for-hundreds-of-years-have-done-violence-to-the-grammar-of-the-first-and-second-verses-of-the-bible-yes-yes-i-am-consider-the-fact-that-the-number-of-people-believing-one-interpretation-over-the-other-in-this-particular-case-is-of-almost-no-consequence-because-everyone-who-does-not-have-hebrew-is-led-to-believe-the-genesis-1-1-as-forward-looking-summary-position-by-default-english-translations-leave-no-other-option-on-the-other-hand-imagine-if-this-were-the-translation-generally-put-before-people-from-ichthys-before-all-else-god-created-the-heavens-and-the-earth-but-the-earth-came-to-be-ruined-and-despoiled-darkness-lay-upon-the-face-of-the-abyss-while-god-s-spirit-brooded-over-the-surface-of-its-waters-genesis-1-1-2-that-i-am-explicitly-calling-out-almost-all-contemporary-understanding-of-genesis-1-1-as-being-this-isnt-some-indistinct-matter-of-opinion-its-grammar-the-fact-that-most-all-english-translations-get-this-wrong-and-most-people}<!-- aggregate-page-content -->
+<!-- aggregate-page-content -->

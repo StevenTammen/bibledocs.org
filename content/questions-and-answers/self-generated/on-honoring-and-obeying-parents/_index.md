@@ -18,15 +18,15 @@ summary: >-
 
 {{% toggleable-content %}}
 
-### Content
+### Content {#scripture-is-clear-that-we-are-to-honor-and-obey-our-parents-content}
 
-### Q: I don't agree with what my parents want for me. Do I need to do exactly what they say?
+#### Q: I don't agree with what my parents want for me. Do I need to do exactly what they say? {#scripture-is-clear-that-we-are-to-honor-and-obey-our-parents-q-i-don-t-agree-with-what-my-parents-want-for-me-do-i-need-to-do-exactly-what-they-say}
 
 So, I know one of the ten commandments is to honor my parents, but they drive me crazy and want to pick out my life for me, even though I don't want what they want for me. What should I do? Do I need to submit myself to them and do exactly as they say? Or can I "honor" them while still choosing my own path?
 
-### Some direct quotes from scripture: honoring parents
+#### Some direct quotes from scripture: honoring parents {#scripture-is-clear-that-we-are-to-honor-and-obey-our-parents-some-direct-quotes-from-scripture-honoring-parents}
 
- {#scripture-is-clear-that-we-are-to-honor-and-obey-our-parents-content-q-i-don-t-agree-with-what-my-parents-want-for-me-do-i-need-to-do-exactly-what-they-say-so-i-know-one-of-the-ten-commandments-is-to-honor-my-parents-but-they-drive-me-crazy-and-want-to-pick-out-my-life-for-me-even-though-i-don-t-want-what-they-want-for-me-what-should-i-do-do-i-need-to-submit-myself-to-them-and-do-exactly-as-they-say-or-can-i-honor-them-while-still-choosing-my-own-path-some-direct-quotes-from-scripture-honoring-parents}{{< subjects >}}
+{{< subjects >}}
 <a href="/subject-index/#parents-honoring-scripture-about">Parents > Honoring > Scripture about</a>
 {{< /subjects >}}
 
@@ -120,9 +120,9 @@ If anyone calls down a curse on his father or mother, he will be put to death. H
 
 <!-- --- -->
 
-#### Some direct quotes from scripture: obeying parents
+#### Some direct quotes from scripture: obeying parents {#scripture-is-clear-that-we-are-to-honor-and-obey-our-parents-some-direct-quotes-from-scripture-obeying-parents}
 
- {#scripture-is-clear-that-we-are-to-honor-and-obey-our-parents-some-direct-quotes-from-scripture-obeying-parents}{{< subjects >}}
+{{< subjects >}}
 <a href="/subject-index/#parents-obeying-scripture-about">Parents > Obeying > Scripture about</a>
 {{< /subjects >}}
 
@@ -163,9 +163,9 @@ This is the testimony of scripture.
 
 {{% toggleable-content %}}
 
-### Content
+### Content {#however-if-our-parents-are-out-of-line-there-are-exceptions-content}
 
-### Things that go against our spiritual responsibilities as Christians (including failing to obey the government)
+#### Things that go against our spiritual responsibilities as Christians (including failing to obey the government) {#however-if-our-parents-are-out-of-line-there-are-exceptions-things-that-go-against-our-spiritual-responsibilities-as-christians-including-failing-to-obey-the-government}
 
 If your parents tell you to do something that goes against our spiritual responsibilities as Christians, then you have an obligation to obey God not them, of course. (Compare the circumstances under which we ought not submit to government authority: Daniel 6:6-12 as an example of the principles overriding Romans 13:1-7 and 1 Peter 2:13-17; if our parents forbid us from praying, we should carry on and ignore them). The only opinion we ought to truly value is God's -- what does God think of our actions?
 
@@ -173,9 +173,9 @@ Incidentally, those verses about government obedience above also give rise to a 
 
 <!-- --- -->
 
-### Abuse
+#### Abuse {#however-if-our-parents-are-out-of-line-there-are-exceptions-abuse}
 
- {#however-if-our-parents-are-out-of-line-there-are-exceptions-content-things-that-go-against-our-spiritual-responsibilities-as-christians-including-failing-to-obey-the-government-if-your-parents-tell-you-to-do-something-that-goes-against-our-spiritual-responsibilities-as-christians-then-you-have-an-obligation-to-obey-god-not-them-of-course-compare-the-circumstances-under-which-we-ought-not-submit-to-government-authority-daniel-6-6-12-as-an-example-of-the-principles-overriding-romans-13-1-7-and-1-peter-2-13-17-if-our-parents-forbid-us-from-praying-we-should-carry-on-and-ignore-them-the-only-opinion-we-ought-to-truly-value-is-god-s-what-does-god-think-of-our-actions-incidentally-those-verses-about-government-obedience-above-also-give-rise-to-a-second-exception-because-we-are-called-to-follow-the-law-as-christians-if-our-parents-order-us-to-do-something-illegal-and-it-is-not-something-analogous-to-praying-in-daniel-s-situation-as-above-then-we-should-obviously-not-obey-them-abuse}{{< subjects >}}
+{{< subjects >}}
 <a href="/subject-index/#child-abuse">Child abuse</a>
 <a href="/subject-index/#abuse-child-abuse">Abuse > Child abuse</a>
 {{< /subjects >}}
@@ -192,9 +192,9 @@ Some people are best loved from a distance. Perhaps even with a restraining orde
 
 {{% sidenote %}}
 
-##### Spousal abuse and divorce
+##### Spousal abuse and divorce {#however-if-our-parents-are-out-of-line-there-are-exceptions-spousal-abuse-and-divorce}
 
- {#however-if-our-parents-are-out-of-line-there-are-exceptions-spousal-abuse-and-divorce}{{< subjects >}}
+{{< subjects >}}
 <a href="/subject-index/#spousal-abuse">Spousal abuse</a>
 <a href="/subject-index/#abuse-spousal-abuse">Abuse > Spousal abuse</a>
 <a href="/subject-index/#divorce-abuse-exception">Divorce > Abuse exception</a>
@@ -216,7 +216,7 @@ Matthew 18:6 comes to mind -- such gross and hypocritical legalism, especially c
 
 <!-- --- -->
 
-##### God is the one who decides what abuse is
+##### God is the one who decides what abuse is {#however-if-our-parents-are-out-of-line-there-are-exceptions-god-is-the-one-who-decides-what-abuse-is}
 
 Severely questioning and being overly skeptical of victims of abuse can be problematic for obvious reasons. But it is also true that some parties feel like shouting "abuse!" at the top of their lungs should be an escape-consequences-free card, and this is improper.
 
@@ -226,9 +226,9 @@ Not everything is so cut-and-dry as this though. There certainly are parents out
 
 <!-- --- -->
 
-#### Should we step in if people aren't parenting how we would?
+##### Should we step in if people aren't parenting how we would? {#however-if-our-parents-are-out-of-line-there-are-exceptions-should-we-step-in-if-people-aren-t-parenting-how-we-would}
 
- {#however-if-our-parents-are-out-of-line-there-are-exceptions-god-is-the-one-who-decides-what-abuse-is-severely-questioning-and-being-overly-skeptical-of-victims-of-abuse-can-be-problematic-for-obvious-reasons-but-it-is-also-true-that-some-parties-feel-like-shouting-abuse-at-the-top-of-their-lungs-should-be-an-escape-consequences-free-card-and-this-is-improper-in-other-words-teenagers-do-not-get-to-selectively-disobey-rules-their-parents-set-by-declaring-them-abusive-curfews-forbidding-underage-drinking-and-premarital-sex-and-punishments-like-grounding-are-not-abuse-a-girl-being-beaten-half-to-death-and-sexually-assaulted-by-her-father-is-abuse-people-should-be-scorned-any-time-they-try-to-paint-the-former-as-in-any-way-comparable-to-the-latter-as-it-does-actual-victims-of-the-latter-a-grave-disservice-not-everything-is-so-cut-and-dry-as-this-though-there-certainly-are-parents-out-there-who-emotionally-damage-their-children-and-undercut-their-self-confidence-to-such-a-degree-that-it-is-absolutely-abuse-even-if-it-doesn-t-leave-physical-bruises-should-we-step-in-if-people-aren-t-parenting-how-we-would}{{< subjects >}}
+{{< subjects >}}
 <a href="/subject-index/#meddling-is-not-proper-for-christians">Meddling > Is not proper for Christians</a>
 <a href="/subject-index/#busybody-behavior-is-not-proper-for-christians">Busybody behavior > Is not proper for Christians</a>
 <a href="/subject-index/#minding-your-own-business">Minding your own business</a>
@@ -266,11 +266,11 @@ The parties involved know the realities at hand, as does God. If a child is arro
 
 {{% toggleable-content %}}
 
-### Content
+### Content {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white-content}
 
-### Back to the main thrust of the question
+#### Back to the main thrust of the question {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white-back-to-the-main-thrust-of-the-question}
 
- {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white-content-back-to-the-main-thrust-of-the-question}{{< subjects >}}
+{{< subjects >}}
 <a href="/subject-index/#application-gray-areas">Application > Gray areas</a>
 {{< /subjects >}}
 
@@ -284,9 +284,9 @@ Note, however, that scripture is strong enough in its exhortations to obey our p
 
 {{% application %}}
 
-#### Cultural context is important
+#### Cultural context is important {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white-cultural-context-is-important}
 
- {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white-cultural-context-is-important}{{< subjects >}}
+{{< subjects >}}
 <a href="/subject-index/#application-culture-can-be-important">Application > Culture can be important</a>
 <a href="/subject-index/#culture-may-be-relevant-in-application">Culture > May be relevant in application</a>
 {{< /subjects >}}
@@ -301,13 +301,13 @@ On the other hand, if, for example, my American parents suddenly decided that th
 
 <!-- --- -->
 
-#### It is only our own personal circumstances that matter
+#### It is only our own personal circumstances that matter {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white-it-is-only-our-own-personal-circumstances-that-matter}
 
 To generalize this a bit further: the fact that you can think up hypothetical outrageous situations regarding unjust parents (or even actual ones halfway across the world) does not mean *you* have grounds for ignoring *your* parents.
 
 <!-- --- -->
 
-### Things are different if you are still living at home
+#### Things are different if you are still living at home {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white-things-are-different-if-you-are-still-living-at-home}
 
 If you are still living with your parents and financially dependent upon them, the relationship is different than if you are out on your own and independent. It is right and proper for people to be able to run their households with authority -- and if you don't like it, well, God surely has a reason for you being there.
 
@@ -317,7 +317,7 @@ We never outgrow the obligation to respect our parents and act deferentially tow
 
 <!-- --- -->
 
-### Our duty to God can help shed light on some of the possible areas of contention
+#### Our duty to God can help shed light on some of the possible areas of contention {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white-our-duty-to-god-can-help-shed-light-on-some-of-the-possible-areas-of-contention}
 
 Sometimes we really will have to weigh the input of our parents and decide whether or not it is something that we are called and obligated to follow. While it does always ultimately boil down to specifics only knowable by individuals and God, there are some common things that people clash with their parents on. In no particular order:
 
@@ -332,9 +332,9 @@ As a rule of thumb, if put on the scale, God's Will for us outweighs parental pr
 
 <!-- --- -->
 
-#### Career
+##### Career {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white-career}
 
- {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white-it-is-only-our-own-personal-circumstances-that-matter-to-generalize-this-a-bit-further-the-fact-that-you-can-think-up-hypothetical-outrageous-situations-regarding-unjust-parents-or-even-actual-ones-halfway-across-the-world-does-not-mean-you-have-grounds-for-ignoring-your-parents-things-are-different-if-you-are-still-living-at-home-if-you-are-still-living-with-your-parents-and-financially-dependent-upon-them-the-relationship-is-different-than-if-you-are-out-on-your-own-and-independent-it-is-right-and-proper-for-people-to-be-able-to-run-their-households-with-authority-and-if-you-don-t-like-it-well-god-surely-has-a-reason-for-you-being-there-once-you-are-your-own-person-more-your-parents-have-less-justified-say-in-what-it-is-you-do-none-of-the-bible-passages-make-this-distinction-in-particular-i-e-they-don-t-seem-to-explicitly-make-considerations-in-the-relationship-a-function-of-children-s-independence-but-it-is-more-or-less-common-sense-we-never-outgrow-the-obligation-to-respect-our-parents-and-act-deferentially-towards-them-our-duty-to-god-can-help-shed-light-on-some-of-the-possible-areas-of-contention-sometimes-we-really-will-have-to-weigh-the-input-of-our-parents-and-decide-whether-or-not-it-is-something-that-we-are-called-and-obligated-to-follow-while-it-does-always-ultimately-boil-down-to-specifics-only-knowable-by-individuals-and-god-there-are-some-common-things-that-people-clash-with-their-parents-on-in-no-particular-order-career-choice-of-significant-other-choice-of-friends-spiritual-approach-sometimes-we-can-gain-insight-into-the-proper-path-of-action-by-considering-the-spiritual-dimension-and-whether-or-not-what-our-parents-want-for-us-really-squares-with-what-god-wants-for-us-as-a-rule-of-thumb-if-put-on-the-scale-god-s-will-for-us-outweighs-parental-preference-every-time-however-you-actually-have-to-have-some-conviction-of-what-it-is-god-wants-for-you-for-this-to-hold-and-you-can-t-just-use-it-as-a-convenient-excuse-god-wants-me-party-and-live-it-up-in-college-so-i-don-t-have-to-listen-to-you-and-study-career}{{< subjects >}}
+{{< subjects >}}
 <a href="/subject-index/#parents-disagreement-with-career">Parents > Disagreement with > Career</a>
 {{< /subjects >}}
 
@@ -346,9 +346,9 @@ Well, what does God want you to do? If the answer is "history professor," then h
 
 <!-- --- -->
 
-##### Choice of significant other
+##### Choice of significant other {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white-choice-of-significant-other}
 
- {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white-choice-of-significant-other}{{< subjects >}}
+{{< subjects >}}
 <a href="/subject-index/#parents-disagreement-with-significant-other">Parents > Disagreement with > Significant other</a>
 {{< /subjects >}}
 
@@ -372,9 +372,9 @@ Usually things won't be so clear-cut. The main idea is to take your parents' opi
 
 <!-- --- -->
 
-##### Choice of friends
+##### Choice of friends {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white-choice-of-friends}
 
- {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white-choice-of-friends}{{< subjects >}}
+{{< subjects >}}
 <a href="/subject-index/#parents-disagreement-with-friends">Parents > Disagreement with > Friends</a>
 {{< /subjects >}}
 
@@ -388,9 +388,9 @@ As you might have been able to guess, there is a middle road to be walked here a
 
 <!-- --- -->
 
-##### Spiritual approach
+##### Spiritual approach {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white-spiritual-approach}
 
- {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white-spiritual-approach}{{< subjects >}}
+{{< subjects >}}
 <a href="/subject-index/#parents-disagreement-with-spiritual-approach">Parents > Disagreement with > Spiritual approach</a>
 {{< /subjects >}}
 
@@ -410,7 +410,7 @@ I know of some people who have "been Christians" their whole lives with little t
 
 <!-- --- -->
 
-##### Recap and summary
+##### Recap and summary {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white-recap-and-summary}
 
 The four areas touched on in this subsection -- common areas of disagreement between parents and children -- help highlight the best path to take in all situations that are shades of gray rather than black-and-white: trying to figure out exactly what God would have you do, and then acting according to His Will.
 
@@ -418,7 +418,7 @@ This may seem like intensely unhelpful advice (...well of course that’s what s
 
 Prayer is a powerful tool, all the more so for those who have taken the time to study and grow in the truth of the Word. If we seek out God’s guidance and act with pure intent according to what we believe He is calling us to, then even if we end up occasionally stumbling, it can be said that we upheld the command to honor and obey our parents... even if we don’t end up doing exactly what they say we should. In this there is no contradiction, for the commands to honor and obey our parents are necessarily secondary to the commands to honor and obey God.
 
- {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white-recap-and-summary-the-four-areas-touched-on-in-this-subsection-common-areas-of-disagreement-between-parents-and-children-help-highlight-the-best-path-to-take-in-all-situations-that-are-shades-of-gray-rather-than-black-and-white-trying-to-figure-out-exactly-what-god-would-have-you-do-and-then-acting-according-to-his-will-this-may-seem-like-intensely-unhelpful-advice-well-of-course-thats-what-should-be-done-but-it-really-is-the-only-way-to-consistently-get-things-right-when-confronted-with-the-messy-and-complicated-situations-of-this-life-here-specifically-whether-or-not-to-listen-to-your-parents-wishes-in-less-than-clear-circumstances-prayer-is-a-powerful-tool-all-the-more-so-for-those-who-have-taken-the-time-to-study-and-grow-in-the-truth-of-the-word-if-we-seek-out-gods-guidance-and-act-with-pure-intent-according-to-what-we-believe-he-is-calling-us-to-then-even-if-we-end-up-occasionally-stumbling-it-can-be-said-that-we-upheld-the-command-to-honor-and-obey-our-parents-even-if-we-dont-end-up-doing-exactly-what-they-say-we-should-in-this-there-is-no-contradiction-for-the-commands-to-honor-and-obey-our-parents-are-necessarily-secondary-to-the-commands-to-honor-and-obey-god}{{% /application %}}
+{{% /application %}}
 
 {{% /toggleable-content %}}
 
@@ -431,15 +431,15 @@ Prayer is a powerful tool, all the more so for those who have taken the time to 
 ## [Specifics Can Only Be Properly Discerned by People Themselves](/questions-and-answers/self-generated/on-honoring-and-obeying-parents/specifics-can-only-be-properly-discerned-by-people-themselves)
 {{% toggleable-content %}}
 
-### Content
+### Content {#specifics-can-only-be-properly-discerned-by-people-themselves-content}
 
-### Q: But must I specifically obey my parents in matter X?
+#### Q: But must I specifically obey my parents in matter X? {#specifics-can-only-be-properly-discerned-by-people-themselves-q-but-must-i-specifically-obey-my-parents-in-matter-x}
 
 You didn't really answer my question. Do I have to obey my parents' wishes for me or not? Yes or No?
 
 <!-- --- -->
 
-### Third parties should not weigh in on specifics
+#### Third parties should not weigh in on specifics {#specifics-can-only-be-properly-discerned-by-people-themselves-third-parties-should-not-weigh-in-on-specifics}
 
 It's not that simple. As discussed above, a third party has no possible hope of knowing the full picture, and for that reason, should refrain from weighing in on specifics.
 
@@ -449,7 +449,7 @@ If the two don't align, then you are not out of line if you follow God's hand ra
 
 The tricky bit then is figuring out what God would have of you, but that's ultimately a topic for a different time. Humility and prayer are both critical elements in listening to the still, small voice of the Holy Spirit (compare 1 Kings 19:11-13).
 
- {#specifics-can-only-be-properly-discerned-by-people-themselves-content-q-but-must-i-specifically-obey-my-parents-in-matter-x-you-didn-t-really-answer-my-question-do-i-have-to-obey-my-parents-wishes-for-me-or-not-yes-or-no-third-parties-should-not-weigh-in-on-specifics-it-s-not-that-simple-as-discussed-above-a-third-party-has-no-possible-hope-of-knowing-the-full-picture-and-for-that-reason-should-refrain-from-weighing-in-on-specifics-have-you-figured-out-what-it-is-god-is-calling-you-to-perhaps-the-simplest-way-to-come-to-a-yes-or-no-answer-in-matters-like-this-is-to-figure-out-what-you-are-called-to-if-you-are-reasonably-certain-about-what-god-would-have-of-you-then-it-s-just-a-matter-of-comparing-your-parents-wishes-against-what-you-feel-like-you-are-supposed-to-do-if-the-two-don-t-align-then-you-are-not-out-of-line-if-you-follow-god-s-hand-rather-than-obeying-your-parents-word-as-long-as-you-ensure-that-you-maintain-a-respectful-and-deferential-attitude-toward-your-parents-even-and-perhaps-especially-if-they-are-not-worthy-of-it-the-tricky-bit-then-is-figuring-out-what-god-would-have-of-you-but-that-s-ultimately-a-topic-for-a-different-time-humility-and-prayer-are-both-critical-elements-in-listening-to-the-still-small-voice-of-the-holy-spirit-compare-1-kings-19-11-13}{{% /toggleable-content %}}
+{{% /toggleable-content %}}
 
 
 

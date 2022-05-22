@@ -5,15 +5,15 @@ weight: 30
 
 {{% content %}}
 
-## Content  
+## Content {#content}
 
-### Q: But must I specifically obey my parents in matter X?  
+### Q: But must I specifically obey my parents in matter X? {#q-but-must-i-specifically-obey-my-parents-in-matter-x}
 
 You didn't really answer my question. Do I have to obey my parents' wishes for me or not? Yes or No?
 
 <!-- --- -->
 
-### Third parties should not weigh in on specifics  
+### Third parties should not weigh in on specifics {#third-parties-should-not-weigh-in-on-specifics}
 
 It's not that simple. As discussed above, a third party has no possible hope of knowing the full picture, and for that reason, should refrain from weighing in on specifics.
 

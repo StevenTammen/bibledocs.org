@@ -17,11 +17,11 @@ summary: >-
 
 {{% toggleable-content %}}
 
-### Content
+### Content {#introduction-to-sr4-satan-s-world-system-content}
 
 (Derived from https://ichthys.com/SR4(SWS).htm)
 
-### Why do this study in particular?
+#### Why do this study in particular? {#introduction-to-sr4-satan-s-world-system-why-do-this-study-in-particular}
 
 As a child, you may have heard adults talking about "the way the world really works." For us as Christians, we believe in a spiritual dimension hidden from our physical sight, but very real nonetheless. This, in fact, is the crucial driving force behind reality, even though it is veiled from our eyes at present.
 
@@ -31,9 +31,9 @@ Then I read this study. This is one of the first things on Ichthys I read all th
 
 <!-- --- -->
 
-### Plato's Allegory of the Cave
+#### Plato's Allegory of the Cave {#introduction-to-sr4-satan-s-world-system-plato-s-allegory-of-the-cave}
 
- {#introduction-to-sr4-satan-s-world-system-content-derived-from-https-ichthys-com-sr4-sws-htm-why-do-this-study-in-particular-as-a-child-you-may-have-heard-adults-talking-about-the-way-the-world-really-works-for-us-as-christians-we-believe-in-a-spiritual-dimension-hidden-from-our-physical-sight-but-very-real-nonetheless-this-in-fact-is-the-crucial-driving-force-behind-reality-even-though-it-is-veiled-from-our-eyes-at-present-at-least-for-me-as-a-teenager-christianity-was-kept-in-its-nice-god-shaped-box-there-was-the-world-in-all-its-complexity-and-then-there-was-church-and-god-stuff-maybe-somewhere-deep-down-i-knew-the-two-were-fundamentally-linked-but-it-was-never-something-that-captured-my-thoughts-explicitly-then-i-read-this-study-this-is-one-of-the-first-things-on-ichthys-i-read-all-the-way-through-and-to-borrow-an-idiom-it-completely-blew-my-mind-ah-i-said-so-this-is-what-is-beyond-the-illusion-plato-s-allegory-of-the-cave}{{< subjects >}}
+{{< subjects >}}
 <a href="/subject-index/#truth-plato-s-allegory-of-the-cave">Truth > Plato's allegory of the cave</a>
 {{< /subjects >}}
 
@@ -45,7 +45,7 @@ This allegory is actually a great explanatory tool. For Plato, light served as a
 
 <!-- --- -->
 
-#### Satan the puppet-master
+#### Satan the puppet-master {#introduction-to-sr4-satan-s-world-system-satan-the-puppet-master}
 
 The illusions put before us are created with intent: to veil the truth from our eyes. We must learn to critique them and instead see things as they truly are, all so that we can achieve the freedom that the truth affords us (John 8:32).
 
@@ -55,19 +55,19 @@ Bearing this in mind is in fact crucial, as it ensures we never forget that we a
 
 <!-- --- -->
 
-### The outline for SR4 on Ichthys
+#### The outline for SR4 on Ichthys {#introduction-to-sr4-satan-s-world-system-the-outline-for-sr4-on-ichthys}
 
 See [the study directly](https://ichthys.com/SR4%28SWS%29.htm).
 
 <!-- --- -->
 
-### Steven's high-level introduction
+#### Steven's high-level introduction {#introduction-to-sr4-satan-s-world-system-steven-s-high-level-introduction}
 
 Everything in this world -- from art, culture, politics, the media, governments, corporations, false religions, and even some groups calling themselves Christian -- are all part of Satan's web of lies and deceit that he has set up to trap and distract us as Christians and lead us away from the truth.
 
 If we study the tactics Satan uses in his pursuit of his objectives, we can come to see the world as it actually is, and step off the hamster wheel of illusion that keeps us away from freedom in the truth.
 
- {#introduction-to-sr4-satan-s-world-system-satan-the-puppet-master-the-illusions-put-before-us-are-created-with-intent-to-veil-the-truth-from-our-eyes-we-must-learn-to-critique-them-and-instead-see-things-as-they-truly-are-all-so-that-we-can-achieve-the-freedom-that-the-truth-affords-us-john-8-32-we-as-christians-must-deal-with-the-harsh-fact-that-this-world-system-this-kosmos-greek-kosmos-https-biblehub-com-greek-2889-htm-is-presently-ruled-over-by-satan-with-him-pulling-the-strings-bearing-this-in-mind-is-in-fact-crucial-as-it-ensures-we-never-forget-that-we-are-strangers-in-a-foreign-land-soldiers-of-jesus-christ-in-enemy-territory-the-outline-for-sr4-on-ichthys-see-the-study-directly-https-ichthys-com-sr4-28sws-29-htm-steven-s-high-level-introduction-everything-in-this-world-from-art-culture-politics-the-media-governments-corporations-false-religions-and-even-some-groups-calling-themselves-christian-are-all-part-of-satan-s-web-of-lies-and-deceit-that-he-has-set-up-to-trap-and-distract-us-as-christians-and-lead-us-away-from-the-truth-if-we-study-the-tactics-satan-uses-in-his-pursuit-of-his-objectives-we-can-come-to-see-the-world-as-it-actually-is-and-step-off-the-hamster-wheel-of-illusion-that-keeps-us-away-from-freedom-in-the-truth}{{% /toggleable-content %}}
+{{% /toggleable-content %}}
 
 
 <!-- aggregate-page-content -->

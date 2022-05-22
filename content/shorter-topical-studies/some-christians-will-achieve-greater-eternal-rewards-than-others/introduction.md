@@ -11,15 +11,15 @@ weight: 1
 
 {{% content %}}
 
-## Content
+## Content {#content}
 
-### Merit-based rewards are not generally controversial
+### Merit-based rewards are not generally controversial {#merit-based-rewards-are-not-generally-controversial}
 
 Every day people give honor to distinguished service and scorn laziness. The idea of different levels of recognition and reward for different levels of service does not seem to be very controversial to most people.
 
 <!-- --- -->
 
-### However, when the rewards in question are eternal, people seem to be a bit more skittish
+### However, when the rewards in question are eternal, people seem to be a bit more skittish {#however-when-the-rewards-in-question-are-eternal-people-seem-to-be-a-bit-more-skittish}
 
 {{< subjects >}}
 <a href="/subject-index/#eternal-rewards-people-s-hesitancy-regarding">Eternal rewards > people's hesitancy regarding</a>
@@ -35,7 +35,7 @@ Whatever the reasons, this idea of different levels of eternal reward for differ
 
 <!-- --- -->
 
-### Some general passages dealing with differing levels of eternal reward
+### Some general passages dealing with differing levels of eternal reward {#some-general-passages-dealing-with-differing-levels-of-eternal-reward}
 
 {{< subjects >}}
 <a href="/subject-index/#eternal-rewards-scripture-about">Eternal rewards > Scripture about</a>
@@ -79,7 +79,7 @@ All these passages speak of an evaluation of our works. It follows naturally tha
 
 <!-- --- -->
 
-### More on the process of evaluation: 1 Corinthians 3:10-15
+### More on the process of evaluation: 1 Corinthians 3:10-15 {#more-on-the-process-of-evaluation-1-corinthians-3-10-15}
 
 Paul gives us some more detail on the process of evaluation in 1 Corinthians 3:
 
@@ -107,7 +107,7 @@ The fire represents God evaluating the things we do in this life, and the things
 
 <!-- --- -->
 
-### Eternal ranking is implicit in "Many of the first will be last, and the last first"
+### Eternal ranking is implicit in "Many of the first will be last, and the last first" {#eternal-ranking-is-implicit-in-many-of-the-first-will-be-last-and-the-last-first}
 
 Finally, consider the passages that teach that many of the first will be last, and the last first:
 

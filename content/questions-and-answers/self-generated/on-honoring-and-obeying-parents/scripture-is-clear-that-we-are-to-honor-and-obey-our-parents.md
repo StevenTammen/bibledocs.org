@@ -12,13 +12,13 @@ weight: 1
 
 {{% content %}}
 
-## Content
+## Content {#content}
 
-### Q: I don't agree with what my parents want for me. Do I need to do exactly what they say?
+### Q: I don't agree with what my parents want for me. Do I need to do exactly what they say? {#q-i-don-t-agree-with-what-my-parents-want-for-me-do-i-need-to-do-exactly-what-they-say}
 
 So, I know one of the ten commandments is to honor my parents, but they drive me crazy and want to pick out my life for me, even though I don't want what they want for me. What should I do? Do I need to submit myself to them and do exactly as they say? Or can I "honor" them while still choosing my own path?
 
-### Some direct quotes from scripture: honoring parents
+### Some direct quotes from scripture: honoring parents {#some-direct-quotes-from-scripture-honoring-parents}
 
 {{< subjects >}}
 <a href="/subject-index/#parents-honoring-scripture-about">Parents > Honoring > Scripture about</a>
@@ -114,7 +114,7 @@ If anyone calls down a curse on his father or mother, he will be put to death. H
 
 <!-- --- -->
 
-### Some direct quotes from scripture: obeying parents
+### Some direct quotes from scripture: obeying parents {#some-direct-quotes-from-scripture-obeying-parents}
 
 {{< subjects >}}
 <a href="/subject-index/#parents-obeying-scripture-about">Parents > Obeying > Scripture about</a>

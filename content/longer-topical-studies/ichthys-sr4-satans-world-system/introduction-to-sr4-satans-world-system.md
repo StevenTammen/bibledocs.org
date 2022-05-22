@@ -11,11 +11,11 @@ weight: 1
 
 {{% content %}}
 
-## Content
+## Content {#content}
 
 (Derived from https://ichthys.com/SR4(SWS).htm)
 
-### Why do this study in particular?
+### Why do this study in particular? {#why-do-this-study-in-particular}
 
 As a child, you may have heard adults talking about "the way the world really works." For us as Christians, we believe in a spiritual dimension hidden from our physical sight, but very real nonetheless. This, in fact, is the crucial driving force behind reality, even though it is veiled from our eyes at present.
 
@@ -25,7 +25,7 @@ Then I read this study. This is one of the first things on Ichthys I read all th
 
 <!-- --- -->
 
-### Plato's Allegory of the Cave
+### Plato's Allegory of the Cave {#plato-s-allegory-of-the-cave}
 
 {{< subjects >}}
 <a href="/subject-index/#truth-plato-s-allegory-of-the-cave">Truth > Plato's allegory of the cave</a>
@@ -39,7 +39,7 @@ This allegory is actually a great explanatory tool. For Plato, light served as a
 
 <!-- --- -->
 
-### Satan the puppet-master
+### Satan the puppet-master {#satan-the-puppet-master}
 
 The illusions put before us are created with intent: to veil the truth from our eyes. We must learn to critique them and instead see things as they truly are, all so that we can achieve the freedom that the truth affords us (John 8:32).
 
@@ -49,13 +49,13 @@ Bearing this in mind is in fact crucial, as it ensures we never forget that we a
 
 <!-- --- -->
 
-### The outline for SR4 on Ichthys
+### The outline for SR4 on Ichthys {#the-outline-for-sr4-on-ichthys}
 
 See [the study directly](https://ichthys.com/SR4%28SWS%29.htm).
 
 <!-- --- -->
 
-### Steven's high-level introduction
+### Steven's high-level introduction {#steven-s-high-level-introduction}
 
 Everything in this world -- from art, culture, politics, the media, governments, corporations, false religions, and even some groups calling themselves Christian -- are all part of Satan's web of lies and deceit that he has set up to trap and distract us as Christians and lead us away from the truth.
 
