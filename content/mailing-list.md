@@ -8,7 +8,7 @@ summary: >-
    This ministry maintains a mailing list that readers can subscribe to in order to stay up to date with site happenings. This page describes this mailing list.
 ---
 
-The BibleDocs mailing list is one of the primary channels by which site readers can stay abreast of what is going on with this ministry<!--  (see also the [RSS feeds](/rss)). -->.
+The BibleDocs mailing list is one of the primary channels by which site readers can stay abreast of what is going on with this ministry (see also the [RSS feeds](/rss)).
 
 Here is a brief description of the list's mailing frequency and the sort of things that show up in the list's messages:
 
