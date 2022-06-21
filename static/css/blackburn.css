@@ -20,6 +20,11 @@ h5, h6 {
   font-size: 1em;
 }
 
+h6 {
+  margin-block-start: 1.67em;
+  margin-block-end: 1.67em;
+}
+
 a {
   color: #0000EE;
   text-decoration: none;
@@ -77,6 +82,73 @@ code {
   display: none !important; 
 }
 
+/* Subject tags */
+
+.subjects-container {
+	font-size: 80%;
+	border-top: 1px solid rgb(239, 212, 212);
+	border-bottom: 1px solid rgb(238, 238, 238);
+	display: flex;
+	justify-content: left;
+	align-items: stretch;
+	margin: 5px 0px;
+}
+
+.subjects-container a, .subjects-container a:focus, .subjects-container a:hover {
+	text-decoration: none;
+}
+
+.subjects-tag-icon-container {
+	padding: 0px 10px;
+	background-color: gainsboro;
+	margin-right: 10px;
+	display: flex;
+	align-items: center;
+	text-decoration: none;
+}
+
+.subject-tags-container {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.subject-tags-container a {
+	background-color: #efefef;
+	border-radius: 15px;
+	padding: 0px 5px;
+	margin: 10px 5px;
+}
+
+
+/* Toggleable content and transcripts */
+
+.toggleable-section-button {
+	width: 100%;
+	display: flex;
+	height: 35px;
+	background-color: #191818;
+	border: 1px solid #333;
+	margin-top: 2em;
+}
+
+.toggleable-section-button a {
+	border: 1px solid #999;
+	text-align: center;
+	line-height: 35px;
+	color: #999;
+	flex-grow: 1;
+}
+
+.toggleable-section-button a:hover,
+.toggleable-section-button a:focus,
+.toggleable-section-button a.active {
+	background: #333;
+	color: #999900;
+	text-decoration: none;
+}
+
+
+
 /* List items */
 
 .list-item {
@@ -102,24 +174,25 @@ code {
 }
 
 .list-item-content-level {
-	width: 110px;
-	min-width: 110px;
+	width: 125px;
+	min-width: 125px;
 	display: flex;
 	align-items: center;
 	justify-content: center;
 }
 
-.basic, .intermediate, .advanced, .mixed {
-	color: #f7f7f7; 
-}
-
 .basic, .intermediate, .advanced, .mixed,
-.basic:visited, .intermediate:visited, .advanced:visited, .mixed:visited {
+.basic:visited, .intermediate:visited, .advanced:visited, .mixed:visited,
+.shorter-topical, .longer-topical, .reader-q-a, .self-gen-q-a, .verse-by-verse,
+.shorter-topical:visited, .longer-topical:visited, .reader-q-a:visited, .self-gen-q-a:visited, .verse-by-verse:visited {
 	color: #f7f7f7; 
 }
 
-.basic:focus, .intermediate:focus, .advanced:focus, .mixed:focus,
-.basic:hover, .intermediate:hover, .advanced:hover, .mixed:hover {
+/* .basic:focus, .intermediate:focus, .advanced:focus, .mixed:focus,
+.basic:hover, .intermediate:hover, .advanced:hover, .mixed:hover,
+.shorter-topical:focus, .longer-topical:focus, .reader-q-a:focus, .self-gen-q-a:focus, .verse-by-verse:focus,
+.shorter-topical:hover, .longer-topical:hover, .reader-q-a:hover, .self-gen-q-a:hover, .verse-by-verse:hover { */
+.list-item a, .list-item a:focus, .list-item a:hover {
 	text-decoration: none;
 }
 
@@ -139,6 +212,26 @@ code {
 	background: #734d26;
 }
 
+.shorter-topical {
+	background: #cc0000
+}
+
+.longer-topical {
+	background: #ff3300
+}
+
+.reader-q-a {
+	background: #248f24;
+}
+
+.self-gen-q-a {
+	background: #0059b3;
+}
+
+.verse-by-verse {
+	background: #4700b3;
+}
+
 /* In-line spans for displaying content level in paragraphs */
 span.basic, span.intermediate, span.advanced, span.mixed {
 	display: inline-flex;
@@ -155,7 +248,7 @@ span.basic, span.intermediate, span.advanced, span.mixed {
 	align-items: center;
 	font-size: 18px;
 	font-weight: 650;
-	padding: 5px 1.5em 5px 1.5em;
+	padding: 5px 0.5em 5px 0.5em;
 }
 
 .list-item-summary-toggle {
@@ -228,6 +321,10 @@ span.basic, span.intermediate, span.advanced, span.mixed {
 	background: #ebfaeb;
 }
 
+.special-content.note {
+	background: #e6ffff
+}
+
 .special-content.indirect-reasoning {
 	background: #e6f5ff;
 }
@@ -289,7 +386,6 @@ iframe {
 	text-align: center;
 	line-height: 35px;
 	color: #999;
-	display: inline-block;
 	flex-grow: 1;
 }
 

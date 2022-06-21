@@ -1,0 +1,11 @@
+{{ $seed := "RABBITS" }}
+{{ $idString := delimit (shuffle (split (md5 $seed) "" )) "" }}
+{{ $idString := printf "%s%s" "a" $idString }}
+
+<div class="toggleable-section-button">
+    <a href="javascript:showTranscriptSection('{{$idString}}');" class="transcript-section-header show {{$idString}}">Transcript (click to show)</a>
+    <a href="javascript:hideTranscriptSection('{{$idString}}');" class="transcript-section-header hide {{$idString}}">Transcript (click to hide)</a>
+</div>
+<div class="transcript-section {{$idString}}" style="border: 1px solid #333; width: calc(100% - 20px); padding: 0px 10px;">
+{{ .Inner }}
+</div>

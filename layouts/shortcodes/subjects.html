@@ -1,0 +1,8 @@
+{{ if not (or (eq (len .Inner) 4) (eq (len .Inner) 2) (eq (len .Inner) 0)) }} 
+<div class="subjects-container">
+<a class="subjects-tag-icon-container" href="/about-the-site/content-features/#subject-index">
+<i class="fa fa-tags fa-fw" style="color: #333;"></i>
+</a>
+<div class="subject-tags-container" >{{ .Inner }}</div>
+</div>
+{{ end }}

@@ -1,4 +1,4 @@
-{{ partial "header-content.html" . }}
+{{ partial "header-list-summary-pages.html" . }}
 
 <div class="header">
   <h1>{{ .Title }}</h1>
@@ -7,13 +7,10 @@
 
 	{{ .Content }}
 	
-	{{ if (isset .Params "show-lists") }}
-		<h2>Overview</h2>
-		{{ range where .Sections.ByWeight "Params.subsection" "overview" }}
-			{{ partial "list-item" . }}
-		{{ end }}
+	{{ range where .Pages.ByWeight "Params.subsection" "overview" }}
+		{{ partial "list-item" . }}
 	{{ end }}
-  
+
 </div>
 
 {{ partial "mobile-bar.html" . }}

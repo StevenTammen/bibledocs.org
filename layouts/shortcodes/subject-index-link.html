@@ -1,0 +1,26 @@
+<div class="list-item">
+<div class="list-item-title-row">
+<a href="/about-the-site/content-organization/#content-types" class="list-item-content-level {{ .Get "content-type-slugified" }}"> {{ .Get "content-type" }} </a>
+
+<a href="{{ .Get "link" }}" class="list-item-title" style="display: flex; flex-direction: column; align-items: flex-start; font-size: 14px;">
+
+<div style="display: flex; flex-direction: row; justify-content: start;">
+<i class="fa fa-folder fa-fw" style="color: #333; margin-top: 3px;"></i>
+<div>{{ .Get "study-title" }}</div>
+</div>
+
+<div style="display: flex; flex-direction: row; padding: 10px 0px; justify-content: start;">
+<i class="fa fa-file fa-fw" style="color: #333; margin-top: 3px;"></i>
+<div>{{ .Get "page-title" }}</div>
+</div>
+
+{{ if .Get "header-title" }}
+<div style="display: flex; flex-direction: row; justify-content: start;">
+<i class="fa fa-section fa-fw" style="color: #333; margin-top: 3px;"></i>
+<div><em>{{ .Get "header-title" }}</em></div>
+</div>
+{{ end }}
+
+</a>
+</div>
+</div>

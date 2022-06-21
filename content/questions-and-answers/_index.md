@@ -1,6 +1,6 @@
 ---
 title: Questions and Answers
-date: 2020-09-04
+layout: questions-and-answers-base
 ---
 
 The Q&As on this site are dedicated to shorter treatments of various topics, organized in a question and answer format. Some of these Q&As come from correspondence with site readers, while others (both questions and answers) are completely of my own creation.

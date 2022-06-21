@@ -1,0 +1,30 @@
+<div class="prev-next-post pure-g">
+
+    <div class="pure-u-1-24" style="text-align: left;">
+      {{ if .NextInSection }}
+      <a href="{{ .NextInSection.Permalink }}"><i class="fa fa-chevron-left"></i></a>
+      {{ end }}
+    </div>
+    <div class="pure-u-9-24">
+      {{ if .NextInSection }}
+      <nav class="prev">
+        <a href="{{ .NextInSection.Permalink }}">{{ .NextInSection.Title }}</a>
+      </nav>
+      {{ end }}
+    </div>
+    <div class="pure-u-4-24" style="text-align: center;">
+        <a href="{{ .CurrentSection.Permalink }}">Index</a>
+    </div>
+    <div class="pure-u-9-24">
+      {{ if .PrevInSection }}
+      <nav class="next">
+        <a href="{{ .PrevInSection.Permalink }}">{{ .PrevInSection.Title }}</a>
+      </nav>
+      {{ end }}
+    </div>
+    <div class="pure-u-1-24" style="text-align: right;">
+      {{ if .PrevInSection }}
+      <a href="{{ .PrevInSection.Permalink }}"><i class="fa fa-chevron-right"></i></a>
+      {{ end }}
+    </div>
+  </div>

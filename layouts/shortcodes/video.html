@@ -1,0 +1,5 @@
+<iframe width="100%" height="500" src="{{ .Get "src" }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{ if or (.Get "playlist") (.Get "video") (.Get "audio") (.Get "slides") }}
+<div class="height-button-bar" style="margin: auto;">{{ if (.Get "playlist") }}<a href="{{ .Get "playlist" }}"><i class='fas fa-link fa-fw'></i>Link to wider playlist</a>{{ end }}{{ if (.Get "video") }}<a href="{{ .Get "video" }}"><i class='fas fa-download fa-fw'></i>Download video</a>{{ end }}{{ if (.Get "audio") }}<a href="{{ .Get "audio" }}"><i class='fas fa-download fa-fw'></i>Download audio</a>{{ end }}{{ if (.Get "slides") }}<a href="{{ .Get "slides" }}"><i class='fas fa-eye fa-fw'></i>View slides</a>{{ end }}
+</div><br/>
+{{ end }}
