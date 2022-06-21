@@ -1,5 +1,5 @@
 ---
 title: Genesis
-date: 2020-10-6
+layout: book
 ---
 

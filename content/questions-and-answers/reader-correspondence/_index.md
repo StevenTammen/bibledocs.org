@@ -1,6 +1,6 @@
 ---
 title: Reader Correspondence
-date: 2020-09-04
+layout: list-summary
 ---
 
 Q&As coming from correspondence with site readers.

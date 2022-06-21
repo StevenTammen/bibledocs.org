@@ -1,5 +1,5 @@
 # Ignore draft pages not ready for public view
-drafts/
+content/drafts/
 static/drafts/
 
 # Ignore information that is intentionally kept out of repo

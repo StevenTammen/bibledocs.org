@@ -31,12 +31,12 @@
 {{ end }}
 
 {{ if eq $type "nasb"}}
-<iframe class="step-iframe display-none {{$idString}}" src="https://www.STEPBible.org/?q=version=NASB_th|reference={{$passage}}&options=VN" width="100%" height="{{ $height }}">
+<iframe class="step-iframe display-none {{$idString}}" src="https://www.STEPBible.org/?q=version=NASB2020|reference={{$passage}}&options=VN" width="100%" height="{{ $height }}">
 </iframe>
 {{ end }}
 
 {{ if eq $type "comparison"}}
-<iframe class="step-iframe display-none {{$idString}}" src="https://www.STEPBible.org/?q=version=ESV|version=NASB_th|version=NIV|version=HCSB|reference={{$passage}}&options=VN" width="100%" height="{{ $height }}">
+<iframe class="step-iframe display-none {{$idString}}" src="https://www.STEPBible.org/?q=version=ESV|version=NASB2020|version=NIV|version=HCSB|reference={{$passage}}&options=VN" width="100%" height="{{ $height }}">
 </iframe>
 {{ end }}
 
@@ -46,7 +46,7 @@
 {{ end }}
 
 {{ if eq $type "hebrew-i"}}
-<iframe class="step-iframe display-none {{$idString}}" src="https://www.STEPBible.org/?q=version=THOT|version=NASB_th|reference={{$passage}}&options=VUN" width="100%" height="{{ $height }}">
+<iframe class="step-iframe display-none {{$idString}}" src="https://www.STEPBible.org/?q=version=THOT|version=NASB2020|reference={{$passage}}&options=VUN" width="100%" height="{{ $height }}">
 </iframe>
 {{ end }}
 
@@ -56,7 +56,7 @@
 {{ end }}
 
 {{ if eq $type "lxx-i"}}
-<iframe class="step-iframe display-none {{$idString}}" src="https://www.STEPBible.org/?q=version=THOT|version=LXX|version=NASB_th|reference={{$passage}}&options=VGN" width="100%" height="{{ $height }}">
+<iframe class="step-iframe display-none {{$idString}}" src="https://www.STEPBible.org/?q=version=THOT|version=LXX|version=NASB2020|reference={{$passage}}&options=VGN" width="100%" height="{{ $height }}">
 </iframe>
 {{ end }}
 	

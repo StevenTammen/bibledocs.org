@@ -1,0 +1,11 @@
+{{ $seed := "RABBITS" }}
+{{ $idString := delimit (shuffle (split (md5 $seed) "" )) "" }}
+{{ $idString := printf "%s%s" "a" $idString }}
+
+<div class="toggleable-section-button">
+    <a href="javascript:showContentSection('{{$idString}}');" class="content-section-header show {{$idString}}">Content (click to show)</a>
+    <a href="javascript:hideContentSection('{{$idString}}');" class="content-section-header hide {{$idString}}">Content (click to hide)</a>
+</div>
+<div class="content-section {{$idString}}" style="border: 1px solid #333; width: calc(100% - 20px); padding: 0px 10px;">
+{{ .Inner }}
+</div>

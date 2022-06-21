@@ -1,0 +1,39 @@
+<div class="pure-menu">
+  <strong style="font-weight:800;">&nbsp Page Nav</strong>
+  <ul class="pure-menu-list">
+    {{ if .NextInSection }}
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="{{ .NextInSection.Permalink }}">
+        <i class='fas fa-chevron-left fa-fw'></i>Prev in Study
+      </a>
+    </li>
+    {{ end }}
+    {{ if .PrevInSection }}
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="{{ .PrevInSection.Permalink }}">
+        <i class='fas fa-chevron-right fa-fw'></i>Next in Study
+      </a>
+    </li>
+    {{ end }}
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="{{ .CurrentSection.Permalink }}">
+        <i class='fas fa-list fa-fw'></i>Study Index
+      </a>
+    </li>
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" {{ printf "href=%s%s" .Permalink  "#" | safeHTMLAttr }}>
+        <i class='fas fa-level-up-alt fa-fw'></i>Back to Top
+      </a>
+    </li>
+    <li class="pure-menu-item">
+      <a class="pure-menu-link menu-not-bar" href="javascript:window.scrollBy(0, -(document.documentElement.clientHeight - 80));">
+        <i class='fas fa-chevron-circle-up fa-fw'></i>PgUp
+      </a>
+    </li>
+    <li class="pure-menu-item">
+      <a class="pure-menu-link menu-not-bar" href="javascript:window.scrollBy(0, document.documentElement.clientHeight - 80);">
+        <i class='fas fa-chevron-circle-down fa-fw'></i>PgDn
+      </a>
+    </li>
+  </ul>
+</div>

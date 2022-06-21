@@ -1,12 +1,12 @@
 ---
 title: Prayer List
-date: 2021-01-10T20:25:12-05:00
-tags: []
-subsection: community
-weight: 1
 summary: >-
    This ministry runs a prayer list, with requests coming from myself and the wider community of readers and their loved ones. Praying for one another is an important duty we have as Christians, and is something that we can do from the very first day we believe.
 ---
+
+
+
+
 
 ## Overview
 
@@ -22,40 +22,38 @@ I have organized the prayer list into various sections based on commonalities (a
 
 ### Higher priority requests
 
-* Comfort and encouragement for M., who lost her husband in his 50s to cancer.
-* Healing and comfort for Grandma M., who is dealing with debilitating back pain from a combination of factors.
-* For the safety of all travelers over this holiday season.
+- For J., who just lost an aunt, and for her mother even more, who was close with her sister. For the family in general.
+- Comfort and encouragement for M., who lost her husband in his 50s to cancer.
+- Healing for Mrs. O., who is dealing with great pain, and will be undergoing surgeries.
 
 ### Contemporary wider issues
 
-* For those affected by Covid-19, and their families. Also for protection for vulnerable populations like the elderly, and for the comfort and encouragement of those that have become lonely and isolated during the pandemic.
-* For those who have suffered as a result of the economic fallout from Covid-19 -- for their provision and deliverance.
-* For persecuted believers in Afghanistan.
+
+- For the conflict in the Ukraine -- all those displaced and harmed by the war.
+- For those who have suffered and are suffering as a result of recent economic hiccups.
+- For persecuted believers in Afghanistan.
 
 ### Ministries
 
-* For this ministry, BibleDocs, and my own dedication and focus.
-* For [Ichthys](https://ichthys.com/) and Dr. Robert Luginbill.
-* For [Bible Academy](https://www.youtube.com/channel/UCkp-J7VPT7NcwmuiNfD2fkg/playlists) and Pastor Curt Omo.
-* For our brothers and sisters who are presently engaging in ministry overseas (or have a recurring focus on such): [Evan and Jodi in Germany](https://evanandjodi.wordpress.com/), [Sandy and Finn (and others) in China](https://www.evergreenchina.net/press/history/), Ruth and Jeff in Indonesia, and others.
-* For our other brothers and sisters preparing for and engaging in ministry: Odii, Jordan, Abby, Jacob, Ryan, Garret, Justin, and others.
+- For this ministry, BibleDocs, and my own dedication and focus.
+- For [Ichthys](https://ichthys.com/) and Dr. Robert Luginbill.
+- For [Bible Academy](https://www.youtube.com/channel/UCkp-J7VPT7NcwmuiNfD2fkg/playlists) and Pastor Curt Omo.
+- For our brothers and sisters who are presently engaging in ministry overseas (or have a recurring focus on such): [Evan and Jodi in Germany](https://evanandjodi.wordpress.com/), [Sandy and Finn (and others) in China](https://www.evergreenchina.net/press/history/), Ruth and Jeff in Indonesia, and others.
+- For our other brothers and sisters preparing for and engaging in ministry: Odii, Jordan, Abby, Jacob, Ryan, Garret, Justin, and others.
 
 ### Health
 
-* For the health and comfort of C., and for her caretakers. Alzheimer's is a very difficult disease to bear for all parties involved.
-* For Mrs. B, who is still recovering and coping with breathing issues and lung damage related to Covid-19.
-* For Janna, battling Leukemia in her 30s.
-* For Mary Jane and David.
-* For members of Lisa's family battling Covid.
+- For the health and comfort of C., and for her caretakers. Alzheimer's is a very difficult disease to bear for all parties involved.
+- For the health of Mr. B., currently battling stomach problems
 
 ### Safety
 
-* For the safety of Odii and his fiancée in their occasionally dangerous and unstable living circumstances.
+- For the safety of Odii and his fiancée in their occasionally dangerous and unstable living circumstances.
 
 ### School and work
 
-* For S. and S. in their programs of study and academic circumstances.
-* For Odii's successful employment. That opportunities would work out and financial provision from his work would increase.
+- For S. and S. in their programs of study and academic circumstances.
+- For Odii's successful employment. That opportunities would work out and financial provision from his work would increase.
+- For Jordan to be able to move into a more favorable position at his job
 
 <!-- ### Other -->
-

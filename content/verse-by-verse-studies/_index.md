@@ -1,6 +1,6 @@
 ---
 title: Verse-by-verse Studies
-date: 2020-09-04
+layout: verse-by-verse-base
 ---
 
 <!--
@@ -14,10 +14,16 @@ The Verse-by-verse Studies on this site go over things one verse at a time (stic
 
 Not every single thing written in these verse-by-verse studies on the site will have a video made about it, but only the things of sufficient length and complexity to merit such. This means that there will be a number of shorter notes that will only show up as text on the study webpages (which are organized by chapter).
 
-## List of verse-by-verse-studies
+## List of verse-by-verse studies
 
-<ul>
-<li><a href="genesis">Genesis</a></li>
+<div class="list-item">
+	<div class="list-item-title-row">
+		<a href="genesis" class="list-item-title">Genesis</a>
+	</div>
+</div>
+
+<!-- <ul> -->
+<!-- <li><a href="genesis">Genesis</a></li> -->
 <!-- <li><a href="exodus">Exodus</a></li> -->
 <!-- <li><a href="leviticus">Leviticus</a></li> -->
 <!-- <li><a href="numbers">Numbers</a></li> -->
@@ -83,4 +89,4 @@ Not every single thing written in these verse-by-verse studies on the site will 
 <!-- <li><a href="3-john">3 John</a></li> -->
 <!-- <li><a href="jude">Jude</a></li> -->
 <!-- <li><a href="revelation">Revelation</a></li> -->
-</ul>
+<!-- </ul> -->
