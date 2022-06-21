@@ -12,6 +12,8 @@
 			{{ range $headers }}
 			
 				{{ $header := . }}
+				{{ $header := $header | replaceRE "<a.*>(.+)</a>" "$1" }}
+
 				{{ $headerLevel := ($.Scratch.Get "headerLevel") }}
 				{{ $thisHeaderLevel := substr $header 2 1}}
 				{{ $thisHeaderLevel := int $thisHeaderLevel}}

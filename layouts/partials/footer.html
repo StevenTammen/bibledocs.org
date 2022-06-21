@@ -212,11 +212,13 @@ function hideSummary(selector) {
 
 function showAllSummaries() {
 	$('.list-item-summary-section').removeClass("display-none");
+	$('.list-item-summary-toggle.hide').removeClass("display-none");
 	$('.list-item-summary-toggle.show').addClass("display-none");
 }
 
 function hideAllSummaries() {
 	$('.list-item-summary-section').addClass("display-none");
+	$('.list-item-summary-toggle.show').removeClass("display-none");
 	$('.list-item-summary-toggle.hide').addClass("display-none");
 }
 

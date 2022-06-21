@@ -9,11 +9,36 @@ weight: 1
 
 {{% section-navigation %}}
 
+## Video {#video}
+
+{{% video
+src=""
+
+playlist=""
+
+video=""
+
+audio=""
+
+slides="https://www.steventammen.com/slides/"
+%}}
+
+## Summary {#summary}
+
+A curious friend emailed me wondering about whether the Rahab mentioned in the genealogy of Christ is the same Rahab as the prostitute in Joshua 2. It's a good question, since scripture does contain a number of different individuals sharing identical names (e.g., people named Mary, people named John). In the first part of my response here, I mostly focused on finding a reasonably-representative position to argue against (to make sure I addressed contrary arguments that my friend might have come across), picking things apart point-by-point. At the end of it all, when the dust settles, most of the opposing argument seems to hinge on the fact that when Rahab is mentioned in Hebrews 11 and James 2, her profession and actions of faith are mentioned explicitly, while that is not the case in Matthew's genealogy. The problem is that assuming that this is supposed to signify a different person to prove that this is in fact a different person is inherently circular. It would be kind of like saying there must be two Jesus's in the New Testament because His identity as the Son of God is only mentioned in some places (e.g., His baptism), but not all!
+
+
+## Timestamps {#timestamps}
+
+
+
 {{% content %}}
 
 ## Content {#content}
 
-**October, 2015 - before I had any Greek**
+(October 2015 -- before I had any Greek)
+
+<!-- --- -->
 
 ### Q: How can we be sure the Rahab mentioned in Matthew in Jesus' genealogy is the same as the Rahab in Joshua? {#q-how-can-we-be-sure-the-rahab-mentioned-in-matthew-in-jesus-genealogy-is-the-same-as-the-rahab-in-joshua}
 
@@ -161,5 +186,13 @@ Thus, this particular argument falls flat, and we conclude that there was one an
 Hopefully the above convinced you that the main argument of the link I supplied was incorrect, but I didn't address everything in that piece since it would take a while and I'm sure you have other things to do than read lengthy analyses of false theological positions. But I think several other false arguments merit comment, so I'll include another section as well. I'll try to keep it brief.
 
 {{% /content %}}
+
+{{% transcript %}}
+
+## Video/audio transcript {#video-audio-transcript}
+
+
+
+{{% /transcript %}}
 
 {{% section-navigation %}}

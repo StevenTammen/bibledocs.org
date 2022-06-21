@@ -9,9 +9,33 @@ weight: 10
 
 {{% section-navigation %}}
 
+## Video {#video}
+
+{{% video
+src=""
+
+playlist=""
+
+video=""
+
+audio=""
+
+slides="https://www.steventammen.com/slides/"
+%}}
+
+## Summary {#summary}
+
+The parable of the talents and the parable of the minas both clearly teach that the level of our reward in eternity is dependent upon what we do here on Earth. When the master (Christ) returns from His long journey (the second coming, Christ's παρουσία), he will judge individual Christians (servants) according to what return they have produced using the resources he gave them (everything we are blessed with in life -- talents, wealth, and so on). Those found to have produced more with that which they were given will be rewarded proportionally more highly.
+
+## Timestamps {#timestamps}
+
+
+
 {{% content %}}
 
 ## Content {#content}
+
+<!-- --- -->
 
 ### Introduction {#introduction}
 
@@ -173,5 +197,13 @@ If we end up ranking poorly in eternity, the only people we have to blame are ou
 Keeping this in mind, may we live our lives in such a way that we bring glory to God by receiving a bountiful reward on that Great Day of Days!
 
 {{% /content %}}
+
+{{% transcript %}}
+
+## Video/audio transcript {#video-audio-transcript}
+
+
+
+{{% /transcript %}}
 
 {{% section-navigation %}}

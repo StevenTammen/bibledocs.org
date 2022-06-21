@@ -36,15 +36,19 @@ I'm also a web applications developer by day. What can I say?
 
 ### Who is behind this ministry?
 
-This ministry is currently a one-man operation run by me, Steven Tammen. You can read more about me on the [about the author page](/author).
+This ministry is currently a one-man operation run by me, Steven Tammen. You can read more about me on the [about the author page](/about-the-author).
 
 ### Does this ministry accept donations or other financial support?
+
+<!--
 
 No. This is a ministry of grace -- offered freely to all -- with no expectation of compensation. I work a normal job to support myself while providing these materials to the Church as my true calling in life. Compare Paul's tentmaking, 1 Corinthians 9. (Paul, I'm sure, was much better at this balance than I am).
 
 As that chapter makes clear, there is nothing wrong with pastor-teachers being paid for their efforts. For various reasons, I have chosen the path I have. Among other things, being financially independent allows me to be completely outspoken about issues that I might otherwise be hesitant to speak up about, as doing so could compromise my livelihood if I were a full-time pastor. (Unfortunate as this reality is).
 
-If you are searching for worthy causes to contribute to, [see below](#you-said-you-don-t-take-donations-do-you-know-of-good-causes).
+-->
+
+Not at present. I believe that others need the support more than me ([see below](#you-said-you-dont-take-donations-do-you-know-of-good-causes)).
 
 ### Is this ministry associated with any denomination or group?
 
@@ -54,7 +58,7 @@ Broadly speaking, this ministry falls within the conservative evangelical tradit
 
 ### What syntax do you use in translations original to this site?
 
-See [the description of original translations](#original-translations) on the Content Features page.
+See [the description of original translations](/about-the-site/content-organization/#original-translations) on the Content Organization page.
 
 <!--
 
@@ -80,14 +84,15 @@ For a variety of reasons, it is my opinion that believer-to-believer aid is best
 
 Contributing to others without any middlemen also allows you to directly see where your financial support is being used (contrast again charities proper). For us as Christians, spiritual ends are far more important than material ones; we are not here to ease economic distress, but to share the gospel that people might be saved, and to help them grow in the truth thereafter. Money that goes towards these spiritual ends is in truth much more important.
 
-For this reason, I find it best to prioritize giving money to Christians who are legitimately in need of aid due to difficult material circumstances, and especially to Christians who are in need of money to help support their service to the Body of Christ (by freeing up their time to do ministry, for example). In line with the above discussion of the truth's role in our giving, Bible teachers going about things the right way should be priority #1 in terms of people we support.
+For this reason, I find it best to prioritize giving money to Christians who are legitimately in need of aid due to difficult material circumstances, and especially to Christians who are in need of money to help support their service to the body of Christ (by freeing up their time and attention to do ministry, for example). In line with the above discussion of the truth's role in our giving, Bible teachers going about things the right way should be priority #1 in terms of people we support.
 
 Towards these ends:
 
-- One public teaching ministry that takes donations that I can recommend is [Bible Academy](https://www.youtube.com/channel/UCkp-J7VPT7NcwmuiNfD2fkg/playlists).
-- There are also other private individuals I support or help coordinate support for that I would be happy to get people in contact with. You can email me at [steven@bibledocs.org](mailto:steven@bibledocs.org) for more information.
+- A close friend of mine and fellow Bible teacher, [Odii Ariwodo](https://ichthys.com/odii-ariwodo.htm), could use your support. (You can email me at [steven@bibledocs.org](mailto:steven@bibledocs.org), and I'll get you in touch).
+- Another public teaching ministry that takes donations that I can recommend is [Bible Academy](https://www.youtube.com/channel/UCkp-J7VPT7NcwmuiNfD2fkg/playlists).
+- There are also other private individuals I support or help coordinate support for that I would be happy to get people in contact with. Again, you can email me at [steven@bibledocs.org](mailto:steven@bibledocs.org) for more information.
 
-Note that money is not the only way we can assist one another. I can help people set up ministry websites, for example. A contact of mine has helped another with some rehabilitation exercises based upon his experience as a personal trainer. And so on.
+Note that money is not the only way we can assist one another. I can help people set up ministry websites, for example. A contact of mine has helped another with some rehabilitation exercises based upon his experience as a personal fitness trainer. And so on.
 
 <!--
 

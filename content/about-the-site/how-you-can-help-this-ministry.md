@@ -5,12 +5,16 @@ tags: []
 subsection: overview
 weight: 1
 summary: >-
-   This ministry does not accept financial support, since I work a normal job to support myself. Given this fact, what are some other ways in which you can help this ministry? This page sets out to answer this question.
+   We all need one another in the body of Christ, and those in ministry (be it teaching like myself, or evangelism/missions, or other callings besides) especially need the support of other believers. Bearing this in mind, this page goes over some ways in which you can help this ministry.
 ---
 
 ## Praying for this ministry
 
 Quite simply, the one single thing you can do to help this ministry the most is to pray for it consistently. Scripture is clear that God *does* listen to our prayers asked in faith (for example, compare 1 John 5:14-15, 1 Peter 3:12, John 9:31). You can call down God's divine aid kind of like a soldier on the ground calling down a targeted airstrike from command HQ. All you have to do is ask!
+
+## Financial support
+
+At present, I do not accept financial support. I believe that others need the support more than me ([see here](/about-the-site/frequently-asked-questions/#you-said-you-dont-take-donations-do-you-know-of-good-causes)).
 
 ## Sharing this ministry
 
@@ -28,11 +32,11 @@ Further, consider the fact that I am but one person, swimming in waters with som
 
 ### So what's your point?
 
-The point of me bringing all these things up is simply that this ministry is at somewhat of of a visibility disadvantage due to its priorities and the choices I have made. Given this, word-of-mouth sharing takes on greater importance.
+The point of me bringing all these things up is simply that this ministry is at somewhat of a visibility disadvantage due to its priorities and the choices I have made. Given this, word-of-mouth sharing takes on greater importance.
 
 I won't say anything like "please constantly blast this site on all your social media channels!" because, truly, I think that is less effective than sharing it selectively with people who are likely to actually be interested. The point is that if you find this site (or even just some specific writing on it) to be helpful, then you can help this ministry greatly by taking the time to share that which you find useful with others.
 
-To be clear: I don't wish for anyone to feel any pressure to share something they aren't actually fired up about. *If you don't personally find something useful, don't share it*. If, however, you do find value in something, well then given the visibility disadvantage this ministry is constrained to operate under, how are other people going to to hear about it if you don't share your experience?
+To be clear: I don't wish for anyone to feel any pressure to share something they aren't actually fired up about. *If you don't personally find something useful, don't share it*. If, however, you do find value in something, well then given the visibility disadvantage this ministry is constrained to operate under, how are other people going to hear about it if you don't share your experience?
 
 <!--
 

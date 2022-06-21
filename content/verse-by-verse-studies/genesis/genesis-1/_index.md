@@ -5,20 +5,40 @@ chapter: 1
 
 <!-- aggregate-page-content -->
 
-## [Genesis 1:1 - What "Beginning" Is in View](/verse-by-verse-studies/genesis/genesis-1/genesis-1-1-what-beginning-is-in-view)
+## [Genesis 1:1 - What "Beginning" Is in View](/verse-by-verse-studies/genesis/genesis-1/what-beginning-is-in-view) {#genesis-1-1-what-beginning-is-in-view}
 {{< subjects >}}
 
 {{< /subjects >}}
 
 
 
+### Video {#genesis-1-1-what-beginning-is-in-view-video}
+
+{{% video
+src=""
+
+playlist=""
+
+video=""
+
+audio=""
+
+slides="https://www.steventammen.com/slides/"
+%}}
+
 ### Summary {#genesis-1-1-what-beginning-is-in-view-summary}
 
 Genesis 1:1 (in the original Hebrew and Greek Septuagint both) and John 1:1 do not have direct articles, meaning the texts read "a beginning" not "the beginning." This supports the idea that the beginning referred to is the beginning of God's actions regarding the material universe, not the beginning of the material universe itself. Making this clear guarantees that people properly understand that God transcends space and time (things of His own creation), rather than Himself being somehow bound by the material universe.
 
+### Timestamps {#genesis-1-1-what-beginning-is-in-view-timestamps}
+
+
+
 {{% toggleable-content %}}
 
 ### Content {#genesis-1-1-what-beginning-is-in-view-content}
+
+<!-- --- -->
 
 #### The "beginning" mentioned in Genesis 1:1 (and also John 1:1) is indefinite not definite {#genesis-1-1-what-beginning-is-in-view-the-beginning-mentioned-in-genesis-1-1-and-also-john-1-1-is-indefinite-not-definite}
 
@@ -60,29 +80,29 @@ One might be able to argue that the definite article in Genesis 1:1 is implied a
 
 We have בְּרֵאשִׁית not בָּרֵאשִׁית in Genesis 1:1. We have Ἐν ἀρχῇ not Ἐν τῇ ἀρχῇ in John 1:1. (Genesis 1:1 in the Septuagint also reads Ἐν ἀρχῇ rather than Ἐν τῇ ἀρχῇ).
 
-{{% hebrew h="300px" p="Genesis 1:1" %}}
+{{% ot t="hebrew" h="300px" p="Genesis 1:1" %}}
 
 {{% scripture-h p="Genesis 1:1 | BHS" %}}
 בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָֽרֶץ׃
 {{% /scripture-h %}}
 
-{{% /hebrew %}}
+{{% /ot %}}
 
-{{% greek h="300px" p="John 1:1" %}}
+{{% nt t="greek" h="300px" p="John 1:1" %}}
 
 {{% scripture-h p="John 1:1 | SBLG" %}}
 Ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος.
 {{% /scripture-h %}}
 
-{{% /greek %}}
+{{% /nt %}}
 
-{{% lxx h="300px" p="Genesis 1:1" %}}
+{{% ot t="lxx" h="300px" p="Genesis 1:1" %}}
 
 {{% scripture-h p="Genesis 1:1 | Rahlf's LXX" %}}
 Ἐν ἀρχῇ ἐποίησεν ὁ θεὸς τὸν οὐρανὸν καὶ τὴν γῆν.
 {{% /scripture-h %}}
 
-{{% /lxx %}}
+{{% /ot %}}
 
 {{% /technical-discussion %}}
 
@@ -134,7 +154,7 @@ The second step is understanding God's identity as I AM. In Exodus 3:14–15 God
 
 יהוה, the divine name of the God in the Old Testament, is sometimes called the tetragrammaton (from Greek τετραγράμματον, meaning "[consisting of] four letters"). Here's this same Exodus passage in the Hebrew:
 
-{{% hebrew-i h="600px" p="Exodus 3:14-15" %}}
+{{% ot t="hebrew-i" h="600px" p="Exodus 3:14-15" %}}
 
 {{% scripture-h p="Exodus 3:14-15 | BHS, NASB95" %}}
 
@@ -148,7 +168,7 @@ The second step is understanding God's identity as I AM. In Exodus 3:14–15 God
 
 {{% /scripture-h %}}
 
-{{% /hebrew-i %}}
+{{% /ot %}}
 
 <!-- --- -->
 
@@ -177,7 +197,7 @@ If you like, though, read what some scholars have to say on the divine name:
 
 Put simply, existence is tied up in who God is. God is the Alpha and Omega, He who is and was and is to come, the First and the Last, the Beginning and the End (Revelation 1:8; 22:13). For this reason, time is of no consequence to God.
 
-#### Recap and summary {#genesis-1-1-what-beginning-is-in-view-recap-and-summary}
+#### Recap {#genesis-1-1-what-beginning-is-in-view-recap}
 
 We discussed how Genesis 1:1 (in the original Hebrew and Greek Septuagint both) and John 1:1 do not have direct articles, meaning the texts read "a beginning" not "the beginning." This supports the idea that the beginning referred to is the beginning of God's actions regarding the material universe, not the beginning of the material universe itself. Not translating properly or failing to explain this properly can obscure this fact.
 
@@ -258,6 +278,14 @@ Genesis 1:1-2
 This isn’t some indistinct matter of opinion; it’s grammar. The fact that most all English translations "get this wrong" and most people 
 
 -->
+
+{{% toggleable-transcript %}}
+
+### Video/audio transcript {#genesis-1-1-what-beginning-is-in-view-video-audio-transcript}
+
+
+
+{{% /toggleable-transcript %}}
 
 
 <!-- aggregate-page-content -->

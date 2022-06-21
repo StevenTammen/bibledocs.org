@@ -321,6 +321,10 @@ span.basic, span.intermediate, span.advanced, span.mixed {
 	background: #ebfaeb;
 }
 
+.special-content.note {
+	background: #e6ffff
+}
+
 .special-content.indirect-reasoning {
 	background: #e6f5ff;
 }

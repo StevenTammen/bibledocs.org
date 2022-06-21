@@ -1,5 +1,5 @@
 ---
-title: Some Christians Will Achieve Greater Eternal Rewards Than Others - Introduction
+title: Introduction
 weight: 1
 ---
 
@@ -9,9 +9,33 @@ weight: 1
 
 {{% section-navigation %}}
 
+## Video {#video}
+
+{{% video
+src=""
+
+playlist=""
+
+video=""
+
+audio=""
+
+slides="https://www.steventammen.com/slides/"
+%}}
+
+## Summary {#summary}
+
+Even though most people don't have issues decorating only certain particularly worthy soldiers for exemplary service, for example, many seem to have problems when that idea is mapped onto the concept of eternal rewards from the hand of God. Despite the skepticism, scripture is actually pretty clear on this specific question, so for all who are truly willing to look at what the Bible says, it becomes quickly apparent that God will in fact reward some individuals more than others in eternity, based upon the quality of their Christian walk here in time.
+
+## Timestamps {#timestamps}
+
+
+
 {{% content %}}
 
 ## Content {#content}
+
+<!-- --- -->
 
 ### Merit-based rewards are not generally controversial {#merit-based-rewards-are-not-generally-controversial}
 
@@ -23,6 +47,8 @@ Every day people give honor to distinguished service and scorn laziness. The ide
 
 {{< subjects >}}
 <a href="/subject-index/#eternal-rewards-people-s-hesitancy-regarding">Eternal rewards > people's hesitancy regarding</a>
+<a href="/subject-index/#new-tag">New tag</a>
+<a href="/subject-index/#another-new-tag">Another new tag</a>
 {{< /subjects >}}
 
 However, some people seem to have a problem when the rewards in question are not physical rewards in this temporary world of ours, but eternal spiritual rewards. There are several reasons why people might take issue:
@@ -136,5 +162,13 @@ Finally, consider the passages that teach that many of the first will be last, a
 These passages directly teach that there is ranking in heaven. If we were all the same in eternity, it would not be possible to have people who are first and last.
 
 {{% /content %}}
+
+{{% transcript %}}
+
+## Video/audio transcript {#video-audio-transcript}
+
+
+
+{{% /transcript %}}
 
 {{% section-navigation %}}

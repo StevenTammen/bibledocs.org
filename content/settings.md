@@ -68,7 +68,7 @@ Keep in mind that if you clear your browser cookies, your preferences here will 
 
 <!-- Todo: menu link for summaries, just like other toggles -->
 
-By default list pages show summaries for all the content pages they link to. This is advantageous since you can use these to get an idea of what each content page is about, but disadvantageous in that fewer overall links can be displayed at once. If you would prefer to have the summaries hidden by default (although still viewable on a link-by-link basis by clicking on the plus button to the right of any link's title), you can select such below.
+By default list pages show summaries for all the studies they link to. This is advantageous since you can use these to get an idea of what each study is about, but disadvantageous in that fewer overall links can be displayed at once. If you would prefer to have the summaries hidden by default (although still viewable on a link-by-link basis by clicking on the plus button to the right of any link's title), you can select such below.
 
 <div id="summariesPreferenceContainer" class="settingsContainer">
 	<div id="summariesPreferenceDisplay"></div>

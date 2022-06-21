@@ -8,10 +8,33 @@ summary: >-
 
 <!-- aggregate-page-content -->
 
-## [Dealing With the Main Arguments Against a Single Rahab Interpretation](/questions-and-answers/reader-correspondence/on-the-possibility-of-multiple-rahabs/dealing-with-the-main-arguments-against-a-single-rahab-interpretation)
+## [Dealing With the Main Arguments Against a Single Rahab Interpretation](/questions-and-answers/reader-correspondence/on-the-possibility-of-multiple-rahabs/dealing-with-the-main-arguments-against-a-single-rahab-interpretation) {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation}
 {{< subjects >}}
 <a href="/subject-index/#rahab-the-prostitute">Rahab the prostitute</a>
 {{< /subjects >}}
+
+
+
+### Video {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-video}
+
+{{% video
+src=""
+
+playlist=""
+
+video=""
+
+audio=""
+
+slides="https://www.steventammen.com/slides/"
+%}}
+
+### Summary {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-summary}
+
+A curious friend emailed me wondering about whether the Rahab mentioned in the genealogy of Christ is the same Rahab as the prostitute in Joshua 2. It's a good question, since scripture does contain a number of different individuals sharing identical names (e.g., people named Mary, people named John). In the first part of my response here, I mostly focused on finding a reasonably-representative position to argue against (to make sure I addressed contrary arguments that my friend might have come across), picking things apart point-by-point. At the end of it all, when the dust settles, most of the opposing argument seems to hinge on the fact that when Rahab is mentioned in Hebrews 11 and James 2, her profession and actions of faith are mentioned explicitly, while that is not the case in Matthew's genealogy. The problem is that assuming that this is supposed to signify a different person to prove that this is in fact a different person is inherently circular. It would be kind of like saying there must be two Jesus's in the New Testament because His identity as the Son of God is only mentioned in some places (e.g., His baptism), but not all!
+
+
+### Timestamps {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-timestamps}
 
 
 
@@ -19,7 +42,9 @@ summary: >-
 
 ### Content {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-content}
 
-**October, 2015 - before I had any Greek**
+(October 2015 -- before I had any Greek)
+
+<!-- --- -->
 
 #### Q: How can we be sure the Rahab mentioned in Matthew in Jesus' genealogy is the same as the Rahab in Joshua? {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-q-how-can-we-be-sure-the-rahab-mentioned-in-matthew-in-jesus-genealogy-is-the-same-as-the-rahab-in-joshua}
 
@@ -168,22 +193,54 @@ Hopefully the above convinced you that the main argument of the link I supplied 
 
 {{% /toggleable-content %}}
 
+{{% toggleable-transcript %}}
+
+### Video/audio transcript {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-video-audio-transcript}
+
+
+
+{{% /toggleable-transcript %}}
+
 
 
 <br/>
 
 
 
-## [The Supposed Scandal of a Prostitute in the Line of Christ](/questions-and-answers/reader-correspondence/on-the-possibility-of-multiple-rahabs/the-supposed-scandal-of-a-prostitute-in-the-line-of-christ)
+## [The Supposed Scandal of a Prostitute in the Line of Christ](/questions-and-answers/reader-correspondence/on-the-possibility-of-multiple-rahabs/the-supposed-scandal-of-a-prostitute-in-the-line-of-christ) {#the-supposed-scandal-of-a-prostitute-in-the-line-of-christ}
 {{< subjects >}}
 
 {{< /subjects >}}
 
 
 
+### Video {#the-supposed-scandal-of-a-prostitute-in-the-line-of-christ-video}
+
+{{% video
+src=""
+
+playlist=""
+
+video=""
+
+audio=""
+
+slides="https://www.steventammen.com/slides/"
+%}}
+
+### Summary {#the-supposed-scandal-of-a-prostitute-in-the-line-of-christ-summary}
+
+This lesson spends time focusing on a single thing: refuting the idea that it must be a different Rahab because there couldn't possible be a prostitute in the line of Christ (*gasp in horror*). The problem with this is that there are plenty of people in the genealogy (including men) who were not universally praiseworthy in their choices (not that they were horrible or not believers or anything like that -- the point is that Rahab's prostitution is not the only thing nailed to the cross among those in the genealogy). Further, there is the matter of Matthew's purpose in including the women he did in the genealogy. This lesson argues that the other women in the lineage of Christ are all mentioned specifically to demonstrate God's great love and grace towards humanity, so it makes little sense for the Rahab mentioned here to be some random woman we know nothing else about rather than the reformed prostitute bearing that name. Far from making this unlikely, the context in Matthew practically demands such an identification.
+
+### Timestamps {#the-supposed-scandal-of-a-prostitute-in-the-line-of-christ-timestamps}
+
+
+
 {{% toggleable-content %}}
 
 ### Content {#the-supposed-scandal-of-a-prostitute-in-the-line-of-christ-content}
+
+<!-- --- -->
 
 #### There could never be a harlot in the line of Jesus Christ! How heretical! {#the-supposed-scandal-of-a-prostitute-in-the-line-of-christ-there-could-never-be-a-harlot-in-the-line-of-jesus-christ-how-heretical}
 
@@ -283,22 +340,54 @@ If I were to make an another argument about all this from scratch, I would hit t
 
 {{% /toggleable-content %}}
 
+{{% toggleable-transcript %}}
+
+### Video/audio transcript {#the-supposed-scandal-of-a-prostitute-in-the-line-of-christ-video-audio-transcript}
+
+
+
+{{% /toggleable-transcript %}}
+
 
 
 <br/>
 
 
 
-## [Handling Several Other Matters](/questions-and-answers/reader-correspondence/on-the-possibility-of-multiple-rahabs/handling-several-other-matters)
+## [Handling Several Other Matters](/questions-and-answers/reader-correspondence/on-the-possibility-of-multiple-rahabs/handling-several-other-matters) {#handling-several-other-matters}
 {{< subjects >}}
 
 {{< /subjects >}}
 
 
 
+### Video {#handling-several-other-matters-video}
+
+{{% video
+src=""
+
+playlist=""
+
+video=""
+
+audio=""
+
+slides="https://www.steventammen.com/slides/"
+%}}
+
+### Summary {#handling-several-other-matters-summary}
+
+This lesson handles a couple other objections that some people raise in trying to argue that the Rahab in Matthew's genealogy is not the prostitute of Joshua 2. The chronology to make this identification work does demand some long lifespans, but that is far from unprecedented in this exact period (compare Caleb still being strong and vigorous at the tender young age of...  eighty-five -- see Joshua 14:10-11). There is also the matter that neither Joshua nor other sources (like Josephus, for example, who repeats the story of the spies) states directly that Rahab the prostitute married Salmon. But the absence of evidence is not the evidence of absence (that's a classical logical fallacy). This lesson also ends with an attached exchange I had with my mentor about the transliteration of Rahab's name in one of the earliest full NT manuscripts we have (Sinaiticus). The upshot: transliteration is so inconsistent it is best to not ever make great hay of it, here included.
+
+### Timestamps {#handling-several-other-matters-timestamps}
+
+
+
 {{% toggleable-content %}}
 
 ### Content {#handling-several-other-matters-content}
+
+<!-- --- -->
 
 #### "It's not the same Rahab because the chronology does not work" {#handling-several-other-matters-it-s-not-the-same-rahab-because-the-chronology-does-not-work}
 
@@ -373,5 +462,13 @@ On the text and the appearance of the names, it's not at all unusual for there t
 To the point of your request, I wouldn't necessarily include the above paragraph in an apologetic text if the recipient were open to the idea of the truth.  When it comes to the issue of communication, simplification is usually a superior strategy to overly detailed argumentation.
 
 {{% /toggleable-content %}}
+
+{{% toggleable-transcript %}}
+
+### Video/audio transcript {#handling-several-other-matters-video-audio-transcript}
+
+
+
+{{% /toggleable-transcript %}}
 
 <!-- aggregate-page-content -->

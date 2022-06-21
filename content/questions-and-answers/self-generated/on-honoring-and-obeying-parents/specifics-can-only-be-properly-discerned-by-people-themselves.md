@@ -3,9 +3,39 @@ title: Specifics Can Only Be Properly Discerned by People Themselves
 weight: 30
 ---
 
+{{< subjects >}}
+
+{{< /subjects >}}
+
+{{% section-navigation %}}
+
+## Video {#video}
+
+{{% video
+src=""
+
+playlist=""
+
+video=""
+
+audio=""
+
+slides="https://www.steventammen.com/slides/"
+%}}
+
+## Summary {#summary}
+
+Oftentimes people want a binary answer -- want someone else to give them permission to do what it is they've already decided in their mind. If you are in any position of authority or regularly find people coming to you for advice, you should not indulge people in this. At worst, if it all blows up in their face, they'll blame you. But even at best, giving too much specific advice will tend to cripple the spiritual discernment that people ought to be honing by praying through things themselves. And if all this weren't motivation enough to steer clear of actually answering such questions, there is also the (not so) small problem that as a third-party outsider, you have absolutely no way of knowing many of the facts that would be relevant in obtaining a full view of the situation. All this to say, since only the people in question have any chance of getting things right, you should probably stay irritatingly evasive if pressed on specifics. Even if it annoys them.
+
+## Timestamps {#timestamps}
+
+
+
 {{% content %}}
 
 ## Content {#content}
+
+<!-- --- -->
 
 ### Q: But must I specifically obey my parents in matter X? {#q-but-must-i-specifically-obey-my-parents-in-matter-x}
 
@@ -25,6 +55,15 @@ The tricky bit then is figuring out what God would have of you, but that's ultim
 
 {{% /content %}}
 
+{{% transcript %}}
+
+## Video/audio transcript {#video-audio-transcript}
+
+
+
+{{% /transcript %}}
+
+{{% section-navigation %}}
 
 
 

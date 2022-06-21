@@ -1,0 +1,30 @@
+<div class="pure-menu" id="menu-toc-toggle">
+<strong style="font-weight:800;">&nbsp Page Settings</strong>
+<ul class="pure-menu-list">
+  
+  <!-- {{ if strings.HasSuffix .Permalink "lower/" }}
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" {{ printf "href=%s/higher/" (strings.TrimSuffix "lower/" .Permalink) | safeHTMLAttr }}>
+        <i class='fas fa-sort-amount-up fa-fw'></i>Higher level version
+      </a>
+    </li>
+  {{end}}
+  
+  {{ if strings.HasSuffix .Permalink "higher/" }}
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" {{ printf "href=%s/lower/" (strings.TrimSuffix "higher/" .Permalink) | safeHTMLAttr }}>
+        <i class='fas fa-sort-amount-down fa-fw'></i>Lower level version
+      </a>
+    </li>
+  {{end}} -->
+  
+  <li class="pure-menu-item">
+    <a class="pure-menu-link" href="javascript:toggleTOCFromMenu();"><i class='fas fa-list fa-fw'></i>Show TOC</a>
+  </li>
+  <!-- <li class="pure-menu-item">
+    <a class="pure-menu-link" {{ printf "href=https://github.com/StevenTammen/bibledocs.org/edit/master/content%s.md" (strings.TrimSuffix "/" .Permalink) | safeHTMLAttr }}>
+      <i class='fab fa-github fa-fw'></i>Edit on GitHub
+    </a>
+  </li> -->
+</ul>
+</div>

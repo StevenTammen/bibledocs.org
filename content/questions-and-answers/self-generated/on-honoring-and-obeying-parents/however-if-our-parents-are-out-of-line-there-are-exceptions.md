@@ -9,9 +9,33 @@ weight: 10
 
 {{% section-navigation %}}
 
+## Video {#video}
+
+{{% video
+src=""
+
+playlist=""
+
+video=""
+
+audio=""
+
+slides="https://www.steventammen.com/slides/"
+%}}
+
+## Summary {#summary}
+
+The first lesson in this series made a strong case from scripture that we need to respect and listen to our parents; that is the "default mindset" we must start from. This lesson will adopt the complete opposite approach, and discuss the obvious exceptions -- the times when things are very clear-cut in the other direction. For example, if our parents try to get in the way of our spiritual responsibilities, if they try to make us do something illegal, if they are abusive towards us... all of these situations give us clear cause to break with the general principles that are otherwise in effect.
+
+## Timestamps {#timestamps}
+
+
+
 {{% content %}}
 
 ## Content {#content}
+
+<!-- --- -->
 
 ### Things that go against our spiritual responsibilities as Christians (including failing to obey the government) {#things-that-go-against-our-spiritual-responsibilities-as-christians-including-failing-to-obey-the-government}
 
@@ -98,5 +122,13 @@ Moreover, there are plenty of factors that make getting a true "read" of situati
 The parties involved know the realities at hand, as does God. If a child is arrogantly resisting their parents' legitimate authority, God won't let it stand. He also won't let actual parental abuse stand.
 
 {{% /content %}}
+
+{{% transcript %}}
+
+## Video/audio transcript {#video-audio-transcript}
+
+
+
+{{% /transcript %}}
 
 {{% section-navigation %}}

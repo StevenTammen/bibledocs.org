@@ -1,4 +1,4 @@
-{{ partial "header-content.html" . }}
+{{ partial "header-list-summary-pages.html" . }}
 
 <div class="header">
   <h1>{{ .Title }}</h1>
@@ -10,24 +10,14 @@
 	{{ if (isset .Params "show-lists") }}
 	
 		<h2>Overview</h2>
-		{{ range where .Sections.ByWeight "Params.subsection" "overview" }}
+		{{ range where .Pages.ByWeight "Params.subsection" "overview" }}
 			{{ partial "list-item" . }}
 		{{ end }}
 
 		<h2>Content</h2>
-		{{ range where .Sections.ByWeight "Params.subsection" "content" }}
+		{{ range where .Pages.ByWeight "Params.subsection" "content" }}
 			{{ partial "list-item" . }}
 		{{ end }}
-
-		<!-- <h2>Community</h2>
-		{{ range where .Sections.ByWeight "Params.subsection" "community" }}
-			{{ partial "list-item" . }}
-		{{ end }}
-
-		<h2>Meta</h2>
-		{{ range where .Sections.ByWeight "Params.subsection" "meta" }}
-			{{ partial "list-item" . }}
-		{{ end }} -->
 	
 	{{ end }}
   

@@ -9,9 +9,33 @@ weight: 20
 
 {{% section-navigation %}}
 
+## Video {#video}
+
+{{% video
+src=""
+
+playlist=""
+
+video=""
+
+audio=""
+
+slides="https://www.steventammen.com/slides/"
+%}}
+
+## Summary {#summary}
+
+In the first lesson, we argued that the Bible clearly teaches that we need to honor and obey our parents, and in the second lesson we said "well, but except when obviously not." Now we get to the much thornier and more complex case of when things don't so easily line up one way or the other. It is tempting to say you should always listen to your parents because scripture is pretty black-and-white on the matter... but because parents are only human too, such a rule devoid of all context and nuance would occasionally lead you astray. How? Well, what if your parents push you toward a career of high prestige while God is in fact calling you to a career of humble ministry? What if your parents want you to marry someone from a rich and powerful family, while you want to marry someone who is spiritually mature? What if you've found a close spiritual friend who is presently red-hot for Christ, but they have some somewhat-public skeletons hanging out of their closet, things that your parents object to in a legalistic fashion? What if your parents try to force their bad theology down your throat rather than supporting your true zeal for the Lord? All of these things may sound pretty easy to discern ("Well, of course if your parents push you towards that you are justified in saying no!"), but that was intentionally to show how there are plenty more exceptions than might immediately meet the eye. And of course, in practice, things will usually tend to be much messier and murkier. Only by trusting God can we truly figure out when we need to obey and when we need to respectfully disagree. It's complicated.
+
+## Timestamps {#timestamps}
+
+
+
 {{% content %}}
 
 ## Content {#content}
+
+<!-- --- -->
 
 ### Back to the main thrust of the question {#back-to-the-main-thrust-of-the-question}
 
@@ -166,5 +190,13 @@ Prayer is a powerful tool, all the more so for those who have taken the time to 
 {{% /application %}}
 
 {{% /content %}}
+
+{{% transcript %}}
+
+## Video/audio transcript {#video-audio-transcript}
+
+
+
+{{% /transcript %}}
 
 {{% section-navigation %}}

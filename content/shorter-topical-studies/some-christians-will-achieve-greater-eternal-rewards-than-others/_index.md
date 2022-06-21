@@ -8,27 +8,53 @@ summary: >-
 
 <!-- aggregate-page-content -->
 
-## [Some Christians Will Achieve Greater Eternal Rewards Than Others - Introduction](/shorter-topical-studies/some-christians-will-achieve-greater-eternal-rewards-than-others/introduction)
+## [Introduction](/shorter-topical-studies/some-christians-will-achieve-greater-eternal-rewards-than-others/introduction) {#introduction}
 {{< subjects >}}
 <a href="/subject-index/#eternal-rewards-not-all-people-will-receive-the-same-amount">Eternal rewards > Not all people will receive the same amount</a>
 {{< /subjects >}}
 
 
 
+### Video {#introduction-video}
+
+{{% video
+src=""
+
+playlist=""
+
+video=""
+
+audio=""
+
+slides="https://www.steventammen.com/slides/"
+%}}
+
+### Summary {#introduction-summary}
+
+Even though most people don't have issues decorating only certain particularly worthy soldiers for exemplary service, for example, many seem to have problems when that idea is mapped onto the concept of eternal rewards from the hand of God. Despite the skepticism, scripture is actually pretty clear on this specific question, so for all who are truly willing to look at what the Bible says, it becomes quickly apparent that God will in fact reward some individuals more than others in eternity, based upon the quality of their Christian walk here in time.
+
+### Timestamps {#introduction-timestamps}
+
+
+
 {{% toggleable-content %}}
 
-### Content {#some-christians-will-achieve-greater-eternal-rewards-than-others-introduction-content}
+### Content {#introduction-content}
 
-#### Merit-based rewards are not generally controversial {#some-christians-will-achieve-greater-eternal-rewards-than-others-introduction-merit-based-rewards-are-not-generally-controversial}
+<!-- --- -->
+
+#### Merit-based rewards are not generally controversial {#introduction-merit-based-rewards-are-not-generally-controversial}
 
 Every day people give honor to distinguished service and scorn laziness. The idea of different levels of recognition and reward for different levels of service does not seem to be very controversial to most people.
 
 <!-- --- -->
 
-#### However, when the rewards in question are eternal, people seem to be a bit more skittish {#some-christians-will-achieve-greater-eternal-rewards-than-others-introduction-however-when-the-rewards-in-question-are-eternal-people-seem-to-be-a-bit-more-skittish}
+#### However, when the rewards in question are eternal, people seem to be a bit more skittish {#introduction-however-when-the-rewards-in-question-are-eternal-people-seem-to-be-a-bit-more-skittish}
 
 {{< subjects >}}
 <a href="/subject-index/#eternal-rewards-people-s-hesitancy-regarding">Eternal rewards > people's hesitancy regarding</a>
+<a href="/subject-index/#new-tag">New tag</a>
+<a href="/subject-index/#another-new-tag">Another new tag</a>
 {{< /subjects >}}
 
 However, some people seem to have a problem when the rewards in question are not physical rewards in this temporary world of ours, but eternal spiritual rewards. There are several reasons why people might take issue:
@@ -41,7 +67,7 @@ Whatever the reasons, this idea of different levels of eternal reward for differ
 
 <!-- --- -->
 
-#### Some general passages dealing with differing levels of eternal reward {#some-christians-will-achieve-greater-eternal-rewards-than-others-introduction-some-general-passages-dealing-with-differing-levels-of-eternal-reward}
+#### Some general passages dealing with differing levels of eternal reward {#introduction-some-general-passages-dealing-with-differing-levels-of-eternal-reward}
 
 {{< subjects >}}
 <a href="/subject-index/#eternal-rewards-scripture-about">Eternal rewards > Scripture about</a>
@@ -85,7 +111,7 @@ All these passages speak of an evaluation of our works. It follows naturally tha
 
 <!-- --- -->
 
-#### More on the process of evaluation: 1 Corinthians 3:10-15 {#some-christians-will-achieve-greater-eternal-rewards-than-others-introduction-more-on-the-process-of-evaluation-1-corinthians-3-10-15}
+#### More on the process of evaluation: 1 Corinthians 3:10-15 {#introduction-more-on-the-process-of-evaluation-1-corinthians-3-10-15}
 
 Paul gives us some more detail on the process of evaluation in 1 Corinthians 3:
 
@@ -113,7 +139,7 @@ The fire represents God evaluating the things we do in this life, and the things
 
 <!-- --- -->
 
-#### Eternal ranking is implicit in "Many of the first will be last, and the last first" {#some-christians-will-achieve-greater-eternal-rewards-than-others-introduction-eternal-ranking-is-implicit-in-many-of-the-first-will-be-last-and-the-last-first}
+#### Eternal ranking is implicit in "Many of the first will be last, and the last first" {#introduction-eternal-ranking-is-implicit-in-many-of-the-first-will-be-last-and-the-last-first}
 
 Finally, consider the passages that teach that many of the first will be last, and the last first:
 
@@ -143,22 +169,55 @@ These passages directly teach that there is ranking in heaven. If we were all th
 
 {{% /toggleable-content %}}
 
+{{% toggleable-transcript %}}
+
+### Video/audio transcript {#introduction-video-audio-transcript}
+
+
+
+{{% /toggleable-transcript %}}
+
+
 
 
 <br/>
 
 
 
-## [The Parable of the Talents and the Parable of the Minas](/shorter-topical-studies/some-christians-will-achieve-greater-eternal-rewards-than-others/the-parable-of-the-talents-and-the-parable-of-the-minas)
+## [The Parable of the Talents and the Parable of the Minas](/shorter-topical-studies/some-christians-will-achieve-greater-eternal-rewards-than-others/the-parable-of-the-talents-and-the-parable-of-the-minas) {#the-parable-of-the-talents-and-the-parable-of-the-minas}
 {{< subjects >}}
 
 {{< /subjects >}}
 
 
 
+### Video {#the-parable-of-the-talents-and-the-parable-of-the-minas-video}
+
+{{% video
+src=""
+
+playlist=""
+
+video=""
+
+audio=""
+
+slides="https://www.steventammen.com/slides/"
+%}}
+
+### Summary {#the-parable-of-the-talents-and-the-parable-of-the-minas-summary}
+
+The parable of the talents and the parable of the minas both clearly teach that the level of our reward in eternity is dependent upon what we do here on Earth. When the master (Christ) returns from His long journey (the second coming, Christ's παρουσία), he will judge individual Christians (servants) according to what return they have produced using the resources he gave them (everything we are blessed with in life -- talents, wealth, and so on). Those found to have produced more with that which they were given will be rewarded proportionally more highly.
+
+### Timestamps {#the-parable-of-the-talents-and-the-parable-of-the-minas-timestamps}
+
+
+
 {{% toggleable-content %}}
 
 ### Content {#the-parable-of-the-talents-and-the-parable-of-the-minas-content}
+
+<!-- --- -->
 
 #### Introduction {#the-parable-of-the-talents-and-the-parable-of-the-minas-introduction}
 
@@ -320,5 +379,13 @@ If we end up ranking poorly in eternity, the only people we have to blame are ou
 Keeping this in mind, may we live our lives in such a way that we bring glory to God by receiving a bountiful reward on that Great Day of Days!
 
 {{% /toggleable-content %}}
+
+{{% toggleable-transcript %}}
+
+### Video/audio transcript {#the-parable-of-the-talents-and-the-parable-of-the-minas-video-audio-transcript}
+
+
+
+{{% /toggleable-transcript %}}
 
 <!-- aggregate-page-content -->

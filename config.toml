@@ -209,6 +209,6 @@ paginate = 10
     pre = "<i class='fas fa-rss fa-fw'></i>"
     weight = 30
     identifier = "rss"
-    url = "rss/"
+    url = "/rss/"
 	
 	

@@ -8,7 +8,7 @@ summary: >-
 
 <!-- aggregate-page-content -->
 
-## [Scripture Is Clear That We Are to Honor and Obey Our Parents](/questions-and-answers/self-generated/on-honoring-and-obeying-parents/scripture-is-clear-that-we-are-to-honor-and-obey-our-parents)
+## [Scripture Is Clear That We Are to Honor and Obey Our Parents](/questions-and-answers/self-generated/on-honoring-and-obeying-parents/scripture-is-clear-that-we-are-to-honor-and-obey-our-parents) {#scripture-is-clear-that-we-are-to-honor-and-obey-our-parents}
 {{< subjects >}}
 <a href="/subject-index/#parents-honoring">Parents > Honoring</a>
 <a href="/subject-index/#parents-obeying">Parents > Obeying</a>
@@ -16,9 +16,33 @@ summary: >-
 
 
 
+### Video {#scripture-is-clear-that-we-are-to-honor-and-obey-our-parents-video}
+
+{{% video
+src=""
+
+playlist=""
+
+video=""
+
+audio=""
+
+slides="https://www.steventammen.com/slides/"
+%}}
+
+### Summary {#scripture-is-clear-that-we-are-to-honor-and-obey-our-parents-summary}
+
+There are certain areas of application in the Christian life that almost all people will likely find themselves pondering at some point in their lives, and one such area is making sense of the duty that we as Christians owe our parents given that their ideas and our ideas will likely not always line up with 100% accuracy. Even though the indignant teenage rebel would probably like to hear otherwise, the Bible is actually clearer on this one than many other important matters of application: we are duty-bound to not only honor our parents, but also to obey them. This first lesson examines the scriptural support for these assertions -- sets out to show the high degree of regard we ought to have for our parents and their guidance. Future lessons will inject a bit more nuance into the relationship, making things less clear-cut than the blind obedience that might otherwise reign unopposed as the proper course of action.
+
+### Timestamps {#scripture-is-clear-that-we-are-to-honor-and-obey-our-parents-timestamps}
+
+
+
 {{% toggleable-content %}}
 
 ### Content {#scripture-is-clear-that-we-are-to-honor-and-obey-our-parents-content}
+
+<!-- --- -->
 
 #### Q: I don't agree with what my parents want for me. Do I need to do exactly what they say? {#scripture-is-clear-that-we-are-to-honor-and-obey-our-parents-q-i-don-t-agree-with-what-my-parents-want-for-me-do-i-need-to-do-exactly-what-they-say}
 
@@ -148,22 +172,54 @@ This is the testimony of scripture.
 
 {{% /toggleable-content %}}
 
+{{% toggleable-transcript %}}
+
+### Video/audio transcript {#scripture-is-clear-that-we-are-to-honor-and-obey-our-parents-video-audio-transcript}
+
+
+
+{{% /toggleable-transcript %}}
+
 
 
 <br/>
 
 
 
-## [However, if Our Parents Are Out of Line, There Are Exceptions](/questions-and-answers/self-generated/on-honoring-and-obeying-parents/however-if-our-parents-are-out-of-line-there-are-exceptions)
+## [However, if Our Parents Are Out of Line, There Are Exceptions](/questions-and-answers/self-generated/on-honoring-and-obeying-parents/however-if-our-parents-are-out-of-line-there-are-exceptions) {#however-if-our-parents-are-out-of-line-there-are-exceptions}
 {{< subjects >}}
 
 {{< /subjects >}}
 
 
 
+### Video {#however-if-our-parents-are-out-of-line-there-are-exceptions-video}
+
+{{% video
+src=""
+
+playlist=""
+
+video=""
+
+audio=""
+
+slides="https://www.steventammen.com/slides/"
+%}}
+
+### Summary {#however-if-our-parents-are-out-of-line-there-are-exceptions-summary}
+
+The first lesson in this series made a strong case from scripture that we need to respect and listen to our parents; that is the "default mindset" we must start from. This lesson will adopt the complete opposite approach, and discuss the obvious exceptions -- the times when things are very clear-cut in the other direction. For example, if our parents try to get in the way of our spiritual responsibilities, if they try to make us do something illegal, if they are abusive towards us... all of these situations give us clear cause to break with the general principles that are otherwise in effect.
+
+### Timestamps {#however-if-our-parents-are-out-of-line-there-are-exceptions-timestamps}
+
+
+
 {{% toggleable-content %}}
 
 ### Content {#however-if-our-parents-are-out-of-line-there-are-exceptions-content}
+
+<!-- --- -->
 
 #### Things that go against our spiritual responsibilities as Christians (including failing to obey the government) {#however-if-our-parents-are-out-of-line-there-are-exceptions-things-that-go-against-our-spiritual-responsibilities-as-christians-including-failing-to-obey-the-government}
 
@@ -251,22 +307,54 @@ The parties involved know the realities at hand, as does God. If a child is arro
 
 {{% /toggleable-content %}}
 
+{{% toggleable-transcript %}}
+
+### Video/audio transcript {#however-if-our-parents-are-out-of-line-there-are-exceptions-video-audio-transcript}
+
+
+
+{{% /toggleable-transcript %}}
+
 
 
 <br/>
 
 
 
-## [But What About Matters That Tend Toward Gray More Than Black or White?](/questions-and-answers/self-generated/on-honoring-and-obeying-parents/but-what-about-matters-that-tend-toward-gray-more-than-black-or-white)
+## [But What About Matters That Tend Toward Gray More Than Black or White?](/questions-and-answers/self-generated/on-honoring-and-obeying-parents/but-what-about-matters-that-tend-toward-gray-more-than-black-or-white) {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white}
 {{< subjects >}}
 
 {{< /subjects >}}
 
 
 
+### Video {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white-video}
+
+{{% video
+src=""
+
+playlist=""
+
+video=""
+
+audio=""
+
+slides="https://www.steventammen.com/slides/"
+%}}
+
+### Summary {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white-summary}
+
+In the first lesson, we argued that the Bible clearly teaches that we need to honor and obey our parents, and in the second lesson we said "well, but except when obviously not." Now we get to the much thornier and more complex case of when things don't so easily line up one way or the other. It is tempting to say you should always listen to your parents because scripture is pretty black-and-white on the matter... but because parents are only human too, such a rule devoid of all context and nuance would occasionally lead you astray. How? Well, what if your parents push you toward a career of high prestige while God is in fact calling you to a career of humble ministry? What if your parents want you to marry someone from a rich and powerful family, while you want to marry someone who is spiritually mature? What if you've found a close spiritual friend who is presently red-hot for Christ, but they have some somewhat-public skeletons hanging out of their closet, things that your parents object to in a legalistic fashion? What if your parents try to force their bad theology down your throat rather than supporting your true zeal for the Lord? All of these things may sound pretty easy to discern ("Well, of course if your parents push you towards that you are justified in saying no!"), but that was intentionally to show how there are plenty more exceptions than might immediately meet the eye. And of course, in practice, things will usually tend to be much messier and murkier. Only by trusting God can we truly figure out when we need to obey and when we need to respectfully disagree. It's complicated.
+
+### Timestamps {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white-timestamps}
+
+
+
 {{% toggleable-content %}}
 
 ### Content {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white-content}
+
+<!-- --- -->
 
 #### Back to the main thrust of the question {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white-back-to-the-main-thrust-of-the-question}
 
@@ -422,16 +510,54 @@ Prayer is a powerful tool, all the more so for those who have taken the time to 
 
 {{% /toggleable-content %}}
 
+{{% toggleable-transcript %}}
+
+### Video/audio transcript {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white-video-audio-transcript}
+
+
+
+{{% /toggleable-transcript %}}
+
 
 
 <br/>
 
 
 
-## [Specifics Can Only Be Properly Discerned by People Themselves](/questions-and-answers/self-generated/on-honoring-and-obeying-parents/specifics-can-only-be-properly-discerned-by-people-themselves)
+## [Specifics Can Only Be Properly Discerned by People Themselves](/questions-and-answers/self-generated/on-honoring-and-obeying-parents/specifics-can-only-be-properly-discerned-by-people-themselves) {#specifics-can-only-be-properly-discerned-by-people-themselves}
+{{< subjects >}}
+
+{{< /subjects >}}
+
+
+
+### Video {#specifics-can-only-be-properly-discerned-by-people-themselves-video}
+
+{{% video
+src=""
+
+playlist=""
+
+video=""
+
+audio=""
+
+slides="https://www.steventammen.com/slides/"
+%}}
+
+### Summary {#specifics-can-only-be-properly-discerned-by-people-themselves-summary}
+
+Oftentimes people want a binary answer -- want someone else to give them permission to do what it is they've already decided in their mind. If you are in any position of authority or regularly find people coming to you for advice, you should not indulge people in this. At worst, if it all blows up in their face, they'll blame you. But even at best, giving too much specific advice will tend to cripple the spiritual discernment that people ought to be honing by praying through things themselves. And if all this weren't motivation enough to steer clear of actually answering such questions, there is also the (not so) small problem that as a third-party outsider, you have absolutely no way of knowing many of the facts that would be relevant in obtaining a full view of the situation. All this to say, since only the people in question have any chance of getting things right, you should probably stay irritatingly evasive if pressed on specifics. Even if it annoys them.
+
+### Timestamps {#specifics-can-only-be-properly-discerned-by-people-themselves-timestamps}
+
+
+
 {{% toggleable-content %}}
 
 ### Content {#specifics-can-only-be-properly-discerned-by-people-themselves-content}
+
+<!-- --- -->
 
 #### Q: But must I specifically obey my parents in matter X? {#specifics-can-only-be-properly-discerned-by-people-themselves-q-but-must-i-specifically-obey-my-parents-in-matter-x}
 
@@ -450,6 +576,15 @@ If the two don't align, then you are not out of line if you follow God's hand ra
 The tricky bit then is figuring out what God would have of you, but that's ultimately a topic for a different time. Humility and prayer are both critical elements in listening to the still, small voice of the Holy Spirit (compare 1 Kings 19:11-13).
 
 {{% /toggleable-content %}}
+
+{{% toggleable-transcript %}}
+
+### Video/audio transcript {#specifics-can-only-be-properly-discerned-by-people-themselves-video-audio-transcript}
+
+
+
+{{% /toggleable-transcript %}}
+
 
 
 

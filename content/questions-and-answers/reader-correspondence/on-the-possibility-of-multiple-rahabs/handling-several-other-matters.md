@@ -9,9 +9,33 @@ weight: 20
 
 {{% section-navigation %}}
 
+## Video {#video}
+
+{{% video
+src=""
+
+playlist=""
+
+video=""
+
+audio=""
+
+slides="https://www.steventammen.com/slides/"
+%}}
+
+## Summary {#summary}
+
+This lesson handles a couple other objections that some people raise in trying to argue that the Rahab in Matthew's genealogy is not the prostitute of Joshua 2. The chronology to make this identification work does demand some long lifespans, but that is far from unprecedented in this exact period (compare Caleb still being strong and vigorous at the tender young age of...  eighty-five -- see Joshua 14:10-11). There is also the matter that neither Joshua nor other sources (like Josephus, for example, who repeats the story of the spies) states directly that Rahab the prostitute married Salmon. But the absence of evidence is not the evidence of absence (that's a classical logical fallacy). This lesson also ends with an attached exchange I had with my mentor about the transliteration of Rahab's name in one of the earliest full NT manuscripts we have (Sinaiticus). The upshot: transliteration is so inconsistent it is best to not ever make great hay of it, here included.
+
+## Timestamps {#timestamps}
+
+
+
 {{% content %}}
 
 ## Content {#content}
+
+<!-- --- -->
 
 ### "It's not the same Rahab because the chronology does not work" {#it-s-not-the-same-rahab-because-the-chronology-does-not-work}
 
@@ -86,5 +110,13 @@ On the text and the appearance of the names, it's not at all unusual for there t
 To the point of your request, I wouldn't necessarily include the above paragraph in an apologetic text if the recipient were open to the idea of the truth.  When it comes to the issue of communication, simplification is usually a superior strategy to overly detailed argumentation.
 
 {{% /content %}}
+
+{{% transcript %}}
+
+## Video/audio transcript {#video-audio-transcript}
+
+
+
+{{% /transcript %}}
 
 {{% section-navigation %}}
