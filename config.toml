@@ -204,11 +204,11 @@ paginate = 10
     weight = 29
     identifier = "mailing-list"
     url = "/mailing-list/"
-  [[menu.meta]]  
-    name = "RSS"
-    pre = "<i class='fas fa-rss fa-fw'></i>"
-    weight = 30
-    identifier = "rss"
-    url = "/rss/"
+#  [[menu.meta]]  
+#    name = "RSS"
+#    pre = "<i class='fas fa-rss fa-fw'></i>"
+#    weight = 30
+#    identifier = "rss"
+#    url = "/rss/"
 	
 	
