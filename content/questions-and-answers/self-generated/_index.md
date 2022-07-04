@@ -1,6 +1,6 @@
 ---
 title: Self-generated
-layout: list-summary
+layout: list-page
 ---
 
 Q&As (both questions and answers) that are completely of my own creation.

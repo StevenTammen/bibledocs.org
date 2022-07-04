@@ -1,6 +1,7 @@
 ---
 title: But What About Matters That Tend Toward Gray More Than Black or White?
 weight: 20
+layout: content-page
 ---
 
 {{< subjects >}}

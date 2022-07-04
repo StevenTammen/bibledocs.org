@@ -23,7 +23,7 @@ Every content page has a table of contents that updates dynamically based on whe
 - All active sections in the hierarchy will be bolded
 - Gold lines on the left of the table of contents give a further visual indication of position, including section nesting
 
-{{< figure src="/img/dynamic-table-of-contents-example.png" caption="Note the bolded sections and the gold lines" height="300px" >}}
+{{< figure src="dynamic-table-of-contents-example.png" caption="Note the bolded sections and the gold lines" height="300px" >}}
 
 Clicking on a link in the table of contents will immediately take you to that section on the page. After using such a TOC link, you can then copy the URL in your browser's address bar to save a link to that page section (that you can share with others, for example).
 
@@ -37,7 +37,7 @@ In any case, [this site's subject index](/subject-index) uses this sort of super
 
 ### The structure of links in the subject index
 
-{{< figure src="/img/subject-index-link.png" caption="An example subject index link.">}}
+{{< figure src="subject-index-link.png" caption="An example subject index link.">}}
 
 Each link in the subject index contains as much contextual information as possible. Most links will link directly to specific page sections, so will have four important bits of information:
 
@@ -52,7 +52,7 @@ Some links will actually link to pages as whole (these are less common, by numbe
 
 In addition to the subject index, the subjects are made readily discoverable by making the links bidirectional: each section on the page displays a list of its tags, with each linking back to the subject index.
 
-{{< figure src="/img/subjects-section-example.png" caption="Every section displays its own subject tags" height="120px" >}}
+{{< figure src="subjects-section-example.png" caption="Every section displays its own subject tags" height="120px" >}}
 
 That is to say, sections link to the subject index as well as the subject index linking to sections. This makes it easy to find related discussion for any specific topic with just a click or two. In my opinion, no other form of content cross-linking and categorization even comes close to the usability and convenience of this two-way per-section tagging system.
 
@@ -62,7 +62,7 @@ This site embeds scripture in on-page windows from a Bible study application cal
 
 I have taken the liberty of adding a bit of extra interface to improve the user experience: you can select how tall the embedded windows are. In general, if you are doing anything more complicated (such as looking at cross-references or lexicon entries), you are probably going to want more height -- perhaps even the full 800 pixels.
 
-{{< figure src="/img/embedded-step-iframes-change-height.png" caption="Above the embedded Bible app windows, you can select the height" >}}
+{{< figure src="embedded-step-iframes-change-height.png" caption="Above the embedded Bible app windows, you can select the height" >}}
 
 ### Features the STEP Bible app offers
 

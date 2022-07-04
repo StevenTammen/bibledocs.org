@@ -1,6 +1,7 @@
 ---
 title: However, if Our Parents Are Out of Line, There Are Exceptions
-weight: 10
+weight: 
+layout: content-page
 ---
 
 {{< subjects >}}

@@ -2,6 +2,7 @@
 title: On Honoring and Obeying Parents
 weight: 
 contentlevel: intermediate+
+layout: aggregation-page
 summary: >-
    Respecting and obeying parents... every teenager's favorite practices! All humans have parents. Some are very good. Some are very bad. Most are somewhere in-between. Regardless of how we feel about our parents, and even regardless of how they actually may be in reality, our actions towards our parents must be governed by what scripture has to say on the matter. This page sets out to discuss what scripture does in fact say on the matter, and also talks about some variables in application to keep in mind when making decisions in this area.
 ---

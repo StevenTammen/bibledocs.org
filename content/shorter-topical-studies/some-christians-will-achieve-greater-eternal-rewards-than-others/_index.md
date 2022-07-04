@@ -2,6 +2,7 @@
 title: Some Christians Will Achieve Greater Eternal Rewards Than Others
 weight: 
 contentlevel: intermediate+
+layout: aggregation-page
 summary: >-
    As Ephesians 2:8-9 tells us, salvation most assuredly does come by grace through faith (and not by works). However, this does not mean that all Christians will end up with the same level of reward in eternity. Quite to the contrary, the Bible is very clear that those who render more distinguished service with what they have been given in this life will be rewarded in proportion to their true commitment to the Lord. The goal of this page is to briefly put forward some of the scriptural evidence for this concept and deal with some common objections.
 ---

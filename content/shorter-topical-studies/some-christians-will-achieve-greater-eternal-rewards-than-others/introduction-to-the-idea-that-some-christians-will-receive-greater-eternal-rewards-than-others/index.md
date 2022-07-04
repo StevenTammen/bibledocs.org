@@ -1,6 +1,7 @@
 ---
-title: Introduction
+title: Introduction to the idea that some Christians will receive greater eternal rewards than others
 weight: 1
+layout: content-page
 ---
 
 {{< subjects >}}

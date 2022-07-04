@@ -1,11 +1,12 @@
 ---
 title: Genesis 1
 chapter: 1
+layout: aggregation-page
 ---
 
 <!-- aggregate-page-content -->
 
-## [Genesis 1:1 - What "Beginning" Is in View](/verse-by-verse-studies/genesis/genesis-1/what-beginning-is-in-view) {#genesis-1-1-what-beginning-is-in-view}
+## [Genesis 1:1 - What "Beginning" Is in View?](/verse-by-verse-studies/genesis/genesis-1/genesis-1-1-what-beginning-is-in-view) {#genesis-1-1-what-beginning-is-in-view}
 {{< subjects >}}
 
 {{< /subjects >}}

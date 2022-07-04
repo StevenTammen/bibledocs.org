@@ -1,6 +1,7 @@
 ---
 title: The Parable of the Talents and the Parable of the Minas
 weight: 10
+layout: content-page
 ---
 
 {{< subjects >}}

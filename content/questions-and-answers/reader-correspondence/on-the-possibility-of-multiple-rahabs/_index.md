@@ -2,6 +2,7 @@
 title: On the Possibility of Multiple Rahabs
 weight: 
 contentlevel: advanced
+layout: aggregation-page
 summary: >-
    Some people ask whether the prostitute Rahab who hid the Jewish spies is the Rahab in the lineage of Christ. There really is no problem in asking the question, as duplicate names are a real thing in scripture. (Compare keeping all the people named Mary straight). However, what is problematic is swearing up and down that the two Rahabs can't possibly be the same solely because a prostitute can't be in the bloodline of Christ (*gasp*). That's not a good argument based on evidence, but an unfounded prejudice based on legalism.
 ---

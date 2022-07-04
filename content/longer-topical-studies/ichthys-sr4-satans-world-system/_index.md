@@ -2,6 +2,7 @@
 title: Ichthys' SR4 - Satans World System
 weight: 
 contentlevel: intermediate
+layout: aggregation-page
 summary: >-
    A video series going through SR4 on Ichthys, a study covering the structure and organization of Satan's world system. Satan is the present ruler of this world (only because God lets him, for this short time), and tries by all means to deceive us and distract us from the truth. By formally studying his strategies and tactics, we can learn to see through his illusions, and come to appreciate the spiritual realities that are actually at work in the world.
 ---

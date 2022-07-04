@@ -1,6 +1,6 @@
 ---
 title: Reader Correspondence
-layout: list-summary
+layout: list-page
 ---
 
 Q&As coming from correspondence with site readers.

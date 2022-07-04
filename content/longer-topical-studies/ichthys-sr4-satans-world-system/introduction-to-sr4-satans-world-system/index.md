@@ -1,6 +1,7 @@
 ---
 title: Introduction to SR4 - Satan's World System
 weight: 1
+layout: content-page
 ---
 
 {{< subjects >}}

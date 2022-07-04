@@ -73,7 +73,7 @@ This site has list pages for all of the content types that go by subject/topic r
 - [Longer topical studies](/longer-topical-studies)
 - [Questions and answers](/questions-and-answers)
 
-{{< figure src="/img/list-page-example.png" caption="List pages have a list of studies with titles and summaries. Something like this" height="300px" >}}
+{{< figure src="list-page-example.png" caption="List pages have a list of studies with titles and summaries. Something like this" height="300px" >}}
 
 #### Toggling summaries on list pages
 
@@ -81,21 +81,21 @@ On these pages, you can choose to either show or hide the summaries for the cont
 
 You can toggle the summary visibility individually for each thing in the list (using the + or x in the top right corner of the list item):
 
-{{< figure src="/img/show-and-hide-summaries.png" caption="You can individually toggle summary visibility with the button in the top right corner">}}
+{{< figure src="show-and-hide-summaries.png" caption="You can individually toggle summary visibility with the button in the top right corner">}}
 
 You can also do it on a per-page level, or even set a default setting to persist across the entire site. To toggle the summary visibility for all the studies on one of these list pages, you can select one of the appropriate options in the sidebar menu:
 
-{{< figure src="/img/toggle-summaries-sidebar-menu.png" caption="The sidebar menu options for toggling the display of summaries" height="300px" >}}
+{{< figure src="toggle-summaries-sidebar-menu.png" caption="The sidebar menu options for toggling the display of summaries" height="300px" >}}
 
 To set whether or not summaries are shown or hidden by default across the entire site, you can make the appropriate selection [on the settings page](/settings/#show-or-hide-all-summaries-on-list-pages):
 
-{{< figure src="/img/toggle-summaries-settings-page.png" link="/site/settings/#show-or-hide-all-summaries-on-list-pages" caption="The site setting for toggling the display of summaries" height="150px">}}
+{{< figure src="toggle-summaries-settings-page.png" link="/site/settings/#show-or-hide-all-summaries-on-list-pages" caption="The site setting for toggling the display of summaries" height="150px">}}
 
 #### Content level labels
 
 Each study listed on a list page has a content level (the colored label over on the left). You can read more about content levels [below](#content-level).
 
-{{< figure src="/img/content-level-on-list-item.png" caption="Each study has a corresponding colored content level">}}
+{{< figure src="content-level-on-list-item.png" caption="Each study has a corresponding colored content level">}}
 
 ### Aggregation pages
 
@@ -107,7 +107,7 @@ On aggregation pages, content sections and transcript sections can be toggled to
 
 Top-level headers on aggregation pages are links to each respective content page in the study. If you click on one of these links, you will be taken to the actual content page, where you can start reading sequentially (one block of content at a time) rather than skimming through or searching everything altogether.
 
-{{< figure src="/img/aggregation-page-headers-are-links.png" caption="Top-level headers on aggregation pages are links to content pages">}}
+{{< figure src="aggregation-page-headers-are-links.png" caption="Top-level headers on aggregation pages are links to content pages">}}
 
 #### Toggling content and transcript sections on aggregation pages
 
@@ -131,7 +131,7 @@ This is a transcript that can be shown and hidden
 
 You can also toggle the visibility of all content sections or transcript sections at the same time through links in the sidebar menu:
 
-{{< figure src="/img/toggle-content-and-transcripts.png" caption="You can show or hide all the content sections or transcript sections on an aggregation page through the sidebar menu" height="300px">}}
+{{< figure src="toggle-content-and-transcripts.png" caption="You can show or hide all the content sections or transcript sections on an aggregation page through the sidebar menu" height="300px">}}
 
 ### Content pages
 
@@ -143,13 +143,13 @@ Because content pages individually only compose part of a wider study, it is oft
 
 At the top and bottom of each page is a simple navigation section containing a link to the study's aggregation page (the middle link titled "Index"), and then links to the Next/Previous content pages in the study -- as appropriate (the last page in a study won't have a Next link, for example).
 
-{{< figure src="/img/study-navigation.png" caption="The study navigation at the top and bottom of content pages will look something like this">}}
+{{< figure src="study-navigation.png" caption="The study navigation at the top and bottom of content pages will look something like this">}}
 
 #### Study navigation in the sidebar menu of each content page
 
 For convenience, these same links show up in the sidebar menu as well, in the "Page Nav" section. This means that no matter where you are on the page in terms of scrolling, study navigation will only ever be a single click away.
 
-{{< figure src="/img/study-navigation-sidebar.png" caption="You can also navigate within a study using links in the sidebar menu." height="300px">}}
+{{< figure src="study-navigation-sidebar.png" caption="You can also navigate within a study using links in the sidebar menu." height="300px">}}
 
 #### Should I primarily read on content pages or aggregation pages? How about searching? How about skimming?
 
@@ -158,6 +158,31 @@ If you are planning to sit down and take in a full study (look over all the cont
 This is because the table of contents for each individual page will be smaller and easier to scan in at a glance, and each section stays nicely focused and boxed. This structure lends itself well to enabling study patterns too, like going through one content page a day, for example.
 
 For searching and skimming, however, that is where the aggregation pages shine. You can quickly skim an entire study, and then uncollapse a content section and/or transcript if the topic catches your eye. Or search for a phrase across all study content, and so on. So for searching and skimming, I do very much recommend making use of the aggregation pages, as that is what they were designed for.
+
+
+
+## Discussion pages
+
+### discussion pages support main study content, but are not themselves main study content
+
+Just above, I describe how content on this site is laid out hierarchically: how all the studies for each content type are listed out (optionally with summaries) on list pages, how each study has an aggregation page containing all content pages strung together (primarily for the purposes of skimming and searching), and finally how individual self-contained blocks of content can be read sequentially by going through the content pages of a given study in order.
+
+From the point of view of main study content, these three levels are all that there is. When I set out to write a study, all the points of the main outline will get covered on the content pages themselves -- that is to say, the primary logical flow of the study finds its expression on the content pages themselves.
+
+However, these studies are only half the picture for this ministry. Rather than presenting teaching out in the void, untethered and devoid from context and discussion, this ministry runs weekly Bible study meetings where the content from the studies is presented "live" -- not only watching the content videos together as a group, but also subsequently discussing them, and following-up on questions and points of clarification that are raised.
+
+And thus we face the question of what to do with any material coming out of these interactions. It is not "really" study content, but more properly content coming from discussion of the study content, if that makes sense.
+
+Including it in the study itself is not necessarily attractive (since it clutters things a bit, and maybe not everybody who is interested in the study is necessarily interested in the follow-on material). At the same time, it is linked week-by-week to the corresponding content pages, and it would be a mistake to not bear that organizational relationship in mind whatsoever.
+
+### How this website handles the dilemma
+
+To restate the design challenge again, the issue is what to do with discussion content that originated from Bible study meetings wherein main study content is covered in a group discussion environment, generating additional material. It is not quite the same as study content itself, but also not completely separate, so how ought we display it?
+
+
+
+
+
 
 ## Content level
 

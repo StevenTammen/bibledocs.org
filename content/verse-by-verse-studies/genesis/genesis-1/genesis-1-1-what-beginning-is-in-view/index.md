@@ -1,6 +1,7 @@
 ---
-title: Genesis 1:1 - What "Beginning" Is in View
+title: Genesis 1:1 - What "Beginning" Is in View?
 weight: 1
+layout: content-page
 ---
 
 {{< subjects >}}

@@ -1,6 +1,7 @@
 ---
 title: Scripture Is Clear That We Are to Honor and Obey Our Parents
 weight: 1
+layout: content-page
 ---
 
 {{< subjects >}}

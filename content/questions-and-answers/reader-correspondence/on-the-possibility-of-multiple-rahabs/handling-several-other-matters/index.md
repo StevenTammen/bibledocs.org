@@ -1,6 +1,7 @@
 ---
 title: Handling Several Other Matters
 weight: 20
+layout: content-page
 ---
 
 {{< subjects >}}

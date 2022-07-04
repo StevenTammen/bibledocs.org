@@ -1,6 +1,7 @@
 ---
 title: Specifics Can Only Be Properly Discerned by People Themselves
 weight: 30
+layout: content-page
 ---
 
 {{< subjects >}}

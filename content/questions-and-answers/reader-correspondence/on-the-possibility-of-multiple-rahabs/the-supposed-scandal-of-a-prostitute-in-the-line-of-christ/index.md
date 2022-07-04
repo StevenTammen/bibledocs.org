@@ -1,6 +1,7 @@
 ---
 title: The Supposed Scandal of a Prostitute in the Line of Christ
 weight: 10
+layout: content-page
 ---
 
 {{< subjects >}}

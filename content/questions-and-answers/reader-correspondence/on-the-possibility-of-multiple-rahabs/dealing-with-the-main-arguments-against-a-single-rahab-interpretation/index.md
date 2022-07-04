@@ -1,6 +1,7 @@
 ---
 title: Dealing With the Main Arguments Against a Single Rahab Interpretation
 weight: 1
+layout: content-page
 ---
 
 {{< subjects >}}
