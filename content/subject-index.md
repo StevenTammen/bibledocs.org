@@ -131,18 +131,9 @@ header-title="Cultural context is important"
 {{% subject-index-link
 content-type="Verse-by-verse"
 content-type-slugified="verse-by-verse"
-link="/verse-by-verse-studies/genesis/genesis-1/what-beginning-is-in-view/#the-beginning-mentioned-in-genesis-1-1-and-also-john-1-1-is-indefinite-not-definite"
+link="/verse-by-verse-studies/genesis/genesis-1/genesis-1-1-what-beginning-is-in-view/#the-beginning-mentioned-in-genesis-1-1-and-also-john-1-1-is-indefinite-not-definite"
 study-title="Genesis 1"
-page-title="Genesis 1:1 - What \"Beginning\" Is in View"
-header-title="The \"beginning\" mentioned in Genesis 1:1 (and also John 1:1) is indefinite not definite"
-%}}
-
-{{% subject-index-link
-content-type="Verse-by-verse"
-content-type-slugified="verse-by-verse"
-link="/verse-by-verse-studies/genesis/genesis-1/verse-1-what-beginning-is-in-view/#the-beginning-mentioned-in-genesis-1-1-and-also-john-1-1-is-indefinite-not-definite"
-study-title="Genesis 1"
-page-title="Verse 1 - What \"Beginning\" Is in View"
+page-title="Genesis 1:1 - What \"Beginning\" Is in View?"
 header-title="The \"beginning\" mentioned in Genesis 1:1 (and also John 1:1) is indefinite not definite"
 %}}
 
@@ -225,18 +216,9 @@ header-title="But they were included in Matthew's genealogy specifically to show
 {{% subject-index-link
 content-type="Verse-by-verse"
 content-type-slugified="verse-by-verse"
-link="/verse-by-verse-studies/genesis/genesis-1/what-beginning-is-in-view/#how-did-god-exist-before-space-and-time"
+link="/verse-by-verse-studies/genesis/genesis-1/genesis-1-1-what-beginning-is-in-view/#how-did-god-exist-before-space-and-time"
 study-title="Genesis 1"
-page-title="Genesis 1:1 - What \"Beginning\" Is in View"
-header-title="How did God exist before space and time?"
-%}}
-
-{{% subject-index-link
-content-type="Verse-by-verse"
-content-type-slugified="verse-by-verse"
-link="/verse-by-verse-studies/genesis/genesis-1/verse-1-what-beginning-is-in-view/#how-did-god-exist-before-space-and-time"
-study-title="Genesis 1"
-page-title="Verse 1 - What \"Beginning\" Is in View"
+page-title="Genesis 1:1 - What \"Beginning\" Is in View?"
 header-title="How did God exist before space and time?"
 %}}
 
@@ -245,18 +227,9 @@ header-title="How did God exist before space and time?"
 {{% subject-index-link
 content-type="Verse-by-verse"
 content-type-slugified="verse-by-verse"
-link="/verse-by-verse-studies/genesis/genesis-1/what-beginning-is-in-view/#how-did-god-exist-before-space-and-time"
+link="/verse-by-verse-studies/genesis/genesis-1/genesis-1-1-what-beginning-is-in-view/#how-did-god-exist-before-space-and-time"
 study-title="Genesis 1"
-page-title="Genesis 1:1 - What \"Beginning\" Is in View"
-header-title="How did God exist before space and time?"
-%}}
-
-{{% subject-index-link
-content-type="Verse-by-verse"
-content-type-slugified="verse-by-verse"
-link="/verse-by-verse-studies/genesis/genesis-1/verse-1-what-beginning-is-in-view/#how-did-god-exist-before-space-and-time"
-study-title="Genesis 1"
-page-title="Verse 1 - What \"Beginning\" Is in View"
+page-title="Genesis 1:1 - What \"Beginning\" Is in View?"
 header-title="How did God exist before space and time?"
 %}}
 
@@ -464,18 +437,9 @@ header-title="Spousal abuse and divorce"
 {{% subject-index-link
 content-type="Verse-by-verse"
 content-type-slugified="verse-by-verse"
-link="/verse-by-verse-studies/genesis/genesis-1/what-beginning-is-in-view/#how-did-god-exist-before-space-and-time"
+link="/verse-by-verse-studies/genesis/genesis-1/genesis-1-1-what-beginning-is-in-view/#how-did-god-exist-before-space-and-time"
 study-title="Genesis 1"
-page-title="Genesis 1:1 - What \"Beginning\" Is in View"
-header-title="How did God exist before space and time?"
-%}}
-
-{{% subject-index-link
-content-type="Verse-by-verse"
-content-type-slugified="verse-by-verse"
-link="/verse-by-verse-studies/genesis/genesis-1/verse-1-what-beginning-is-in-view/#how-did-god-exist-before-space-and-time"
-study-title="Genesis 1"
-page-title="Verse 1 - What \"Beginning\" Is in View"
+page-title="Genesis 1:1 - What \"Beginning\" Is in View?"
 header-title="How did God exist before space and time?"
 %}}
 

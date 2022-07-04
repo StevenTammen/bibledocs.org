@@ -20,17 +20,16 @@ I have organized the prayer list into various sections based on commonalities (a
 
 ## Prayer list
 
+
 ### Higher priority requests
 
-- For J., who just lost an aunt, and for her mother even more, who was close with her sister. For the family in general.
 - Comfort and encouragement for M., who lost her husband in his 50s to cancer.
-- Healing for Mrs. O., who is dealing with great pain, and will be undergoing surgeries.
+- Healing for Mrs. O.
 
 ### Contemporary wider issues
 
-
 - For the conflict in the Ukraine -- all those displaced and harmed by the war.
-- For those who have suffered and are suffering as a result of recent economic hiccups.
+- For those who have suffered and are suffering as a result of recent economic hiccups: the lousy stock market, inflation, high mortgage rates, and so on.
 - For persecuted believers in Afghanistan.
 
 ### Ministries
@@ -44,7 +43,6 @@ I have organized the prayer list into various sections based on commonalities (a
 ### Health
 
 - For the health and comfort of C., and for her caretakers. Alzheimer's is a very difficult disease to bear for all parties involved.
-- For the health of Mr. B., currently battling stomach problems
 
 ### Safety
 
@@ -54,6 +52,6 @@ I have organized the prayer list into various sections based on commonalities (a
 
 - For S. and S. in their programs of study and academic circumstances.
 - For Odii's successful employment. That opportunities would work out and financial provision from his work would increase.
-- For Jordan to be able to move into a more favorable position at his job
+- For Jordan: job stuff generally
 
 <!-- ### Other -->
