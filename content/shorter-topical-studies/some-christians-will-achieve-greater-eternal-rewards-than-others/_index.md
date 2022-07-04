@@ -9,14 +9,14 @@ summary: >-
 
 <!-- aggregate-page-content -->
 
-## [Introduction](/shorter-topical-studies/some-christians-will-achieve-greater-eternal-rewards-than-others/introduction) {#introduction}
+## [Introduction to the idea that some Christians will receive greater eternal rewards than others](/shorter-topical-studies/some-christians-will-achieve-greater-eternal-rewards-than-others/introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others) {#introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others}
 {{< subjects >}}
 <a href="/subject-index/#eternal-rewards-not-all-people-will-receive-the-same-amount">Eternal rewards > Not all people will receive the same amount</a>
 {{< /subjects >}}
 
 
 
-### Video {#introduction-video}
+### Video {#introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others-video}
 
 {{% video
 src=""
@@ -30,27 +30,27 @@ audio=""
 slides="https://www.steventammen.com/slides/"
 %}}
 
-### Summary {#introduction-summary}
+### Summary {#introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others-summary}
 
 Even though most people don't have issues decorating only certain particularly worthy soldiers for exemplary service, for example, many seem to have problems when that idea is mapped onto the concept of eternal rewards from the hand of God. Despite the skepticism, scripture is actually pretty clear on this specific question, so for all who are truly willing to look at what the Bible says, it becomes quickly apparent that God will in fact reward some individuals more than others in eternity, based upon the quality of their Christian walk here in time.
 
-### Timestamps {#introduction-timestamps}
+### Timestamps {#introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others-timestamps}
 
 
 
 {{% toggleable-content %}}
 
-### Content {#introduction-content}
+### Content {#introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others-content}
 
 <!-- --- -->
 
-#### Merit-based rewards are not generally controversial {#introduction-merit-based-rewards-are-not-generally-controversial}
+#### Merit-based rewards are not generally controversial {#introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others-merit-based-rewards-are-not-generally-controversial}
 
 Every day people give honor to distinguished service and scorn laziness. The idea of different levels of recognition and reward for different levels of service does not seem to be very controversial to most people.
 
 <!-- --- -->
 
-#### However, when the rewards in question are eternal, people seem to be a bit more skittish {#introduction-however-when-the-rewards-in-question-are-eternal-people-seem-to-be-a-bit-more-skittish}
+#### However, when the rewards in question are eternal, people seem to be a bit more skittish {#introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others-however-when-the-rewards-in-question-are-eternal-people-seem-to-be-a-bit-more-skittish}
 
 {{< subjects >}}
 <a href="/subject-index/#eternal-rewards-people-s-hesitancy-regarding">Eternal rewards > people's hesitancy regarding</a>
@@ -68,7 +68,7 @@ Whatever the reasons, this idea of different levels of eternal reward for differ
 
 <!-- --- -->
 
-#### Some general passages dealing with differing levels of eternal reward {#introduction-some-general-passages-dealing-with-differing-levels-of-eternal-reward}
+#### Some general passages dealing with differing levels of eternal reward {#introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others-some-general-passages-dealing-with-differing-levels-of-eternal-reward}
 
 {{< subjects >}}
 <a href="/subject-index/#eternal-rewards-scripture-about">Eternal rewards > Scripture about</a>
@@ -112,7 +112,7 @@ All these passages speak of an evaluation of our works. It follows naturally tha
 
 <!-- --- -->
 
-#### More on the process of evaluation: 1 Corinthians 3:10-15 {#introduction-more-on-the-process-of-evaluation-1-corinthians-3-10-15}
+#### More on the process of evaluation: 1 Corinthians 3:10-15 {#introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others-more-on-the-process-of-evaluation-1-corinthians-3-10-15}
 
 Paul gives us some more detail on the process of evaluation in 1 Corinthians 3:
 
@@ -140,7 +140,7 @@ The fire represents God evaluating the things we do in this life, and the things
 
 <!-- --- -->
 
-#### Eternal ranking is implicit in "Many of the first will be last, and the last first" {#introduction-eternal-ranking-is-implicit-in-many-of-the-first-will-be-last-and-the-last-first}
+#### Eternal ranking is implicit in "Many of the first will be last, and the last first" {#introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others-eternal-ranking-is-implicit-in-many-of-the-first-will-be-last-and-the-last-first}
 
 Finally, consider the passages that teach that many of the first will be last, and the last first:
 
@@ -172,7 +172,7 @@ These passages directly teach that there is ranking in heaven. If we were all th
 
 {{% toggleable-transcript %}}
 
-### Video/audio transcript {#introduction-video-audio-transcript}
+### Video/audio transcript {#introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others-video-audio-transcript}
 
 
 

@@ -33,9 +33,9 @@ header-title="Spousal abuse and divorce"
 {{% subject-index-link
 content-type="Shorter Topical"
 content-type-slugified="shorter-topical"
-link="/shorter-topical-studies/some-christians-will-achieve-greater-eternal-rewards-than-others/introduction/#however-when-the-rewards-in-question-are-eternal-people-seem-to-be-a-bit-more-skittish"
+link="/shorter-topical-studies/some-christians-will-achieve-greater-eternal-rewards-than-others/introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others/#however-when-the-rewards-in-question-are-eternal-people-seem-to-be-a-bit-more-skittish"
 study-title="Some Christians Will Achieve Greater Eternal Rewards Than Others"
-page-title="Introduction"
+page-title="Introduction to the idea that some Christians will receive greater eternal rewards than others"
 header-title="However, when the rewards in question are eternal, people seem to be a bit more skittish"
 %}}
 
@@ -157,9 +157,9 @@ header-title="Spousal abuse and divorce"
 {{% subject-index-link
 content-type="Shorter Topical"
 content-type-slugified="shorter-topical"
-link="/shorter-topical-studies/some-christians-will-achieve-greater-eternal-rewards-than-others/introduction/"
+link="/shorter-topical-studies/some-christians-will-achieve-greater-eternal-rewards-than-others/introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others/"
 study-title="Some Christians Will Achieve Greater Eternal Rewards Than Others"
-page-title="Introduction"
+page-title="Introduction to the idea that some Christians will receive greater eternal rewards than others"
 
 %}}
 
@@ -168,9 +168,9 @@ page-title="Introduction"
 {{% subject-index-link
 content-type="Shorter Topical"
 content-type-slugified="shorter-topical"
-link="/shorter-topical-studies/some-christians-will-achieve-greater-eternal-rewards-than-others/introduction/#some-general-passages-dealing-with-differing-levels-of-eternal-reward"
+link="/shorter-topical-studies/some-christians-will-achieve-greater-eternal-rewards-than-others/introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others/#some-general-passages-dealing-with-differing-levels-of-eternal-reward"
 study-title="Some Christians Will Achieve Greater Eternal Rewards Than Others"
-page-title="Introduction"
+page-title="Introduction to the idea that some Christians will receive greater eternal rewards than others"
 header-title="Some general passages dealing with differing levels of eternal reward"
 %}}
 
@@ -179,9 +179,9 @@ header-title="Some general passages dealing with differing levels of eternal rew
 {{% subject-index-link
 content-type="Shorter Topical"
 content-type-slugified="shorter-topical"
-link="/shorter-topical-studies/some-christians-will-achieve-greater-eternal-rewards-than-others/introduction/#however-when-the-rewards-in-question-are-eternal-people-seem-to-be-a-bit-more-skittish"
+link="/shorter-topical-studies/some-christians-will-achieve-greater-eternal-rewards-than-others/introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others/#however-when-the-rewards-in-question-are-eternal-people-seem-to-be-a-bit-more-skittish"
 study-title="Some Christians Will Achieve Greater Eternal Rewards Than Others"
-page-title="Introduction"
+page-title="Introduction to the idea that some Christians will receive greater eternal rewards than others"
 header-title="However, when the rewards in question are eternal, people seem to be a bit more skittish"
 %}}
 
@@ -288,9 +288,9 @@ header-title="Should we step in if people aren't parenting how we would?"
 {{% subject-index-link
 content-type="Shorter Topical"
 content-type-slugified="shorter-topical"
-link="/shorter-topical-studies/some-christians-will-achieve-greater-eternal-rewards-than-others/introduction/#however-when-the-rewards-in-question-are-eternal-people-seem-to-be-a-bit-more-skittish"
+link="/shorter-topical-studies/some-christians-will-achieve-greater-eternal-rewards-than-others/introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others/#however-when-the-rewards-in-question-are-eternal-people-seem-to-be-a-bit-more-skittish"
 study-title="Some Christians Will Achieve Greater Eternal Rewards Than Others"
-page-title="Introduction"
+page-title="Introduction to the idea that some Christians will receive greater eternal rewards than others"
 header-title="However, when the rewards in question are eternal, people seem to be a bit more skittish"
 %}}
 
