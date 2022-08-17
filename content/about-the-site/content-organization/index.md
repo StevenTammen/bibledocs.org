@@ -8,26 +8,62 @@ summary: >-
    This page goes over how content on the site is organized. Among other things, it explains how this site supports text, video, and audio (all three content mediums), the content types this site uses, the hierarchical page types within each content type (list pages, aggregation pages, and content pages), the concepts of content level (spiritual difficulty level) and writing level (how hard the writing itself is to read), and the fine-grained sectioning this site employs by using special content sections to mark out different types of content (for example discussion of application, as opposed to direct teaching).
 ---
 
-## Most content on this site supports all three communication mediums: text, video, and audio
+## Much content on this site supports all three communication mediums: text, video, and audio
 
-Most content on this site is offered across all three communication mediums: text (HTML webpage for searching/skimming, slides for bite-sized chunks), video (streamable via YouTube, but also downloadable for offline use), and audio (streamable via Archive.org, but also downloadable for offline use). This is because:
+Much content on this site is offered across all three communication mediums: text, video, and audio. As to text, there is the written content on webpages, of course, but once I add videos, you can also view the written content broken out into presentation slides. 
+
+{{% note %}}
+
+It is my hope that these slides may be a great help to those who wish to use the materials of this site in their own Bible teaching endeavors -- while the materials of this site are copyrighted, as long as proper attribution is given, they may be used in all non-commercial endeavors without any other strings attached. (The limiting to non-commercial endeavors is because I am against making money off of the teaching of the Word of God, as a general principle). So here, you can freely teach through the slideshow presentations yourself, as long you don't pass them off as your own, but instead say something to the effect of "I didn't make these -- they came from BibleDocs" and give a link to the site.
+
+{{% /note %}}
+
+As to videos, they primarily live on [this ministry's YouTube channel](https://www.youtube.com/channel/UCFk7khraAKf68DZ5GeYEFIw), but I also provide links to download them from [my page on Archive.org](https://archive.org/details/@steventammen) for offline use. Likewise, as to the audio tracks, you can directly stream them off of Archive.org, and also download them for offline use in exactly the same manner as the videos. The MP3 files should play on basically all audio playback devices.
+
+### There will always tend to be at least some text content that is not yet backed by video and audio
+
+{{% note %}}
+
+Since my time is presently greatly stressed from initial ministry launch and all of the things therein, **all video production is on temporary hiatus**. For the first bit here, there will be mostly only be text studies on the site.
+
+{{% /note %}}
+
+The order in which content is filled out is always text ➜ video/audio; that is, at any given point in time, there will almost certainly be some written studies on the site that I have not yet recorded the videos for. Making the videos and subsequently ripping the audio is not terribly complicated, but it does take a good bit of time and effort.
+
+Once I have checked-over and polished some content, I may be comfortable releasing it on the site (in written form) before I really feel like it is the right time for me to make the video for it. It may prove to be useful to people in written form long before I might be able to get around to making the video, so why wouldn't I let people make use of it in this intervening period?
+
+Nonetheless, supporting video and audio is important to me too, and I see a lot of value in it, so over time, most content will end up actually supporting all three content mediums.
+
+{{% note %}}
+
+Sometimes when building out larger studies, I find it helpful to have more down on paper before I completely finalize the sequencing of things. This is not a strict rule I follow, but it does occasionally turn out this way.
+
+Thus, when I am working on a longer piece, video production may lag even more behind than normal. At least sometimes.
+
+{{% /note %}}
+
+### Why go through the effort to support all three communication mediums?
+
+This is because:
 
 1. Some people tend to generally learn better via one specific medium, and this can differ by individual. (It is especially important from an accessibility standpoint: dyslexia, blindness, and deafness all pose no issue if you support all three mediums).
 2. Even for the same individual, different mediums can be better at different times. For example, if you are cooking dinner or working out at the gym, it might be difficult to read a text study, but listening to an audio version of it might work.
 
 In general, text specifically is good when you are searching for something, if you want to read back a bit to situate where you are (that is, you find yourself getting lost in the discussion and want to refresh yourself on the context), and/or if you want to compare different parts of a study side-by-side. Other than these considerations, you can go with whichever medium works best for you.
 
-Most all things you could possibly think of related to each piece of content are present:
+### Content supporting all three communication mediums has many facets
 
-- Descriptive title
-- Link to the playlist for the wider study the content is a part of
-- Link to download video for offline use (as an .mp4 file)
-- Link to download audio for offline use (as an .mp3 file)
-- Link to see the full slides of the presentation
-- Concise summary of the topics the content discusses
+There are a great many things that go into the organization of content that spans across all three communication mediums:
+
+- A descriptive title
+- A link to the video playlist for the wider study the content is a part of
+- A link to download the video for offline use (as an .mp4 file)
+- A link to download the audio for offline use (as an .mp3 file)
+- A link to see the full slides of the presentation
+- A concise summary of the topics the content discusses
 - Full timestamps by topic (these apply to both the video and the audio)
 - The text of the slides laid out without divisions, to be able to read through it seamlessly, navigate via a dynamic Table of Contents, and search or skim through it without having to go slide-by-slide
-- Full written transcript of the spoken content (this applies to both the video and the audio), hyperlinked statement-by-statement to the video
+- The full written transcript of the spoken content (this applies to both the video and the audio), hyperlinked statement-by-statement to the video
 
 ## Content types
 
