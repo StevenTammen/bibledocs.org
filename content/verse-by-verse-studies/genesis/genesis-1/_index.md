@@ -13,7 +13,7 @@ layout: aggregation-page
 
 
 
-### Video {#genesis-1-1-what-beginning-is-in-view-video}
+<!-- ## Video {#video}
 
 {{% video
 src=""
@@ -25,13 +25,13 @@ video=""
 audio=""
 
 slides="https://www.steventammen.com/slides/"
-%}}
+%}} -->
 
 ### Summary {#genesis-1-1-what-beginning-is-in-view-summary}
 
 Genesis 1:1 (in the original Hebrew and Greek Septuagint both) and John 1:1 do not have direct articles, meaning the texts read "a beginning" not "the beginning." This supports the idea that the beginning referred to is the beginning of God's actions regarding the material universe, not the beginning of the material universe itself. Making this clear guarantees that people properly understand that God transcends space and time (things of His own creation), rather than Himself being somehow bound by the material universe.
 
-### Timestamps {#genesis-1-1-what-beginning-is-in-view-timestamps}
+<!-- ## Timestamps {#timestamps} -->
 
 
 
@@ -280,13 +280,13 @@ This isn’t some indistinct matter of opinion; it’s grammar. The fact that mo
 
 -->
 
-{{% toggleable-transcript %}}
+<!-- {{% toggleable-transcript %}}
 
 ### Video/audio transcript {#genesis-1-1-what-beginning-is-in-view-video-audio-transcript}
 
 
 
-{{% /toggleable-transcript %}}
+{{% /toggleable-transcript %}} -->
 
 
 <!-- aggregate-page-content -->

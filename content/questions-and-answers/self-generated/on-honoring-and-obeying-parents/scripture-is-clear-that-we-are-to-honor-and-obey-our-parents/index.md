@@ -11,7 +11,7 @@ layout: content-page
 
 {{% section-navigation %}}
 
-## Video {#video}
+<!-- ## Video {#video}
 
 {{% video
 src=""
@@ -23,13 +23,13 @@ video=""
 audio=""
 
 slides="https://www.steventammen.com/slides/"
-%}}
+%}} -->
 
 ## Summary {#summary}
 
-There are certain areas of application in the Christian life that almost all people will likely find themselves pondering at some point in their lives, and one such area is making sense of the duty that we as Christians owe our parents given that their ideas and our ideas will likely not always line up with 100% accuracy. Even though the indignant teenage rebel would probably like to hear otherwise, the Bible is actually clearer on this one than many other important matters of application: we are duty-bound to not only honor our parents, but also to obey them. This first lesson examines the scriptural support for these assertions -- sets out to show the high degree of regard we ought to have for our parents and their guidance. Future lessons will inject a bit more nuance into the relationship, making things less clear-cut than the blind obedience that might otherwise reign unopposed as the proper course of action.
+There are certain areas of application in the Christian walk that almost all people will likely find themselves pondering at some point in their lives, and one such area is making sense of the duty that we as Christians owe our parents, given that their ideas and our ideas will likely not always line up with 100% accuracy. Even though the indignant teenage rebel would probably like to hear otherwise, the Bible is actually clearer on this one than many other important matters of application: we are duty-bound to not only honor our parents, but also to obey them. This first lesson examines the scriptural support for these assertions -- sets out to show the high degree of regard we ought to have for our parents and their guidance. Future lessons will inject a bit more nuance into the relationship, making things less clear-cut than the blind obedience that might otherwise reign unopposed as the proper course of action.
 
-## Timestamps {#timestamps}
+<!-- ## Timestamps {#timestamps} -->
 
 
 
@@ -167,12 +167,12 @@ This is the testimony of scripture.
 
 {{% /content %}}
 
-{{% transcript %}}
+<!-- {{% transcript %}}
 
 ## Video/audio transcript {#video-audio-transcript}
 
 
 
-{{% /transcript %}}
+{{% /transcript %}} -->
 
 {{% section-navigation %}}

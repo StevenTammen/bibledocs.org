@@ -23,13 +23,19 @@ The house should be easy to spot since the house number (101) is in white letter
 
 ### Joining us over Zoom
 
-The Zoom meetings happen at the same time as the meetings shown on the calendar schedule; the Zoom meetings are fully tied-in to the in-person meetings.
+The Zoom meetings happen at the same time as the in-person meetings shown above on the calendar schedule; the Zoom meetings are fully tied-in to the in-person meetings.
 
 The link and passcode to join our Zoom meetings are always visible in the header banner of the forum, and are posted in the common/shared WhatsApp group (BibleDocs: All) before each meeting. (We generally don't change the meeting room or passcode, but these things are not posted publicly here so that if our meeting ever gets invaded by a bad actor or ruined by a troublemaker who refuses to leave even after being kicked, it is easy for us to handle).
 
-Thus once you are active on either WhatsApp or the forum, you will be able to join our meetings over Zoom. You can join us on WhatsApp or the forum (or both) by filling out the signup form [here](/community-overview/#joining-our-community).
+Thus, once you are active on either WhatsApp or the forum, you will be able to join our meetings over Zoom. You can join us on WhatsApp or the forum (or both) by filling out the signup form [here](/community-overview/#the-registration-form).
 
 We do ask that most people stay muted when not talking, especially if you have noise around you.
+
+{{% note %}}
+
+None of our meetings are recorded, so nobody should ever feel uncomfortable talking on that account.
+
+{{% /note %}}
 
 ## The meeting schedule
 
@@ -40,28 +46,38 @@ While we do typically give people a few minutes to trickle in, we will actually 
 ## Our Bible study meetings
 
 {{% note %}}
-Our formal Bible study meetings **are currently on hiatus**, until things from my ministry launch stabilize a bit more. If you sign up for the [BibleDocs mailing list](/mailing-list) or [join our community](/community-overview), you will most certainly hear from me once we start things up again.
+Our formal Bible study meetings **are currently on hiatus**, until things from my ministry launch stabilize a bit more. If you sign up for the [BibleDocs mailing list](/mailing-list) or [join our community](/community-overview/#joining-our-community), you will most certainly hear from me once we start things up again.
 
-Even so, we are still having our informal fellowship meetings. [See below](#our-fellowship-meetings) for a description of what these entail.
+Even so, we are still having our other less-formal fellowship meetings. [See below](#our-fellowship-meetings) for a description of what these entail.
 {{% /note %}}
 
 ### Serious, formal study
 
-For various reasons that we shan't get into here, there are not a great many meeting options available presently for people who wish to study the scriptures in a deeper and more technical way -- more in the manner of formal academic lectures than motivational speaking.
+Defining terms, when we speak of "Bible studies" within this community, we mean:
 
-There is nothing wrong *per se* with spending time on the basics -- Christian self-sacrificing love, God's love for us through His Son and His sacrifice on the cross -- but we are called to learn more of God's truth than just the very basic things. Our goal should be a thorough understanding of the entirety of scripture -- a lifelong task that we will never complete in totality.
+- Meetings where I formally teach through a specific topic or passage, somewhat lecture-style
+- Slides up on the projector, lots of scripture read, discussion of interpretation and application, and what have you
+- Times we intentionally pause to handle questions or clarify any matters from the teaching material that are unclear
 
-In pursuit of such a goal, our Bible studies are definitely on the more formal side of things. We do not try in any way to make them unapproachable or unnecessarily erudite or complex (quite to the contrary, in fact), but it is true that the focus is on getting a deeper technical understanding, rather than staying at the surface level.
+And we do not mean:
 
-I am not bringing any of this up to try and make our studies appear better or more intellectual than others, or what have you. Rather, I wish to be transparent -- this is "how things work" here, and that is not ever going to change. If this sounds like your cup of tea, you'll probably fit in great, but our format and goals may not be for everybody.
+- Meetings where people mostly just share prayer requests and talk about their struggles in the week, with not so much formal study
+- Meetings where a group of Christian friends gather to chat and socialize, with not so much formal study
+- Everybody sitting in a circle and sharing what a passage means to them personally (rather than one individual actually formally teaching)
+
+I am not bringing any of this up to try and make our studies appear better or more intellectual than others, or what have you. Rather, I wish to be transparent -- this is "how things work" here. If this sounds like your cup of tea, you'll probably fit in great, but our format and goals may not be for everybody. If you are interested in Bible study meetings following one of the other mentioned approaches, for example, our Bible study meetings are not likely what you are looking for. (Although do have a look at [our fellowship meetings](#our-fellowship-meetings), below).
+
+One other point is that the general focus here is not always on the basics. To be clear, there is absolutely nothing wrong with spending time on said basics -- Christian self-sacrificing love, God's love for us through His Son and His sacrifice on the cross -- but we are called to learn more of God's truth than just the very elementary things (compare Hebrews 5:12-14). Our goal should be a thorough understanding of the entirety of scripture -- a lifelong task that we will never complete in totality.
+
+In pursuit of such a goal, our Bible studies definitely don't shy away from diving deeper into things, as appropriate. We do not try in any way to make them unapproachable or unnecessarily erudite or complex (quite to the contrary, in fact), but it is true that the focus is on getting a thorough, complete understanding, rather than staying only at the surface level.
 
 ### Finding true (rather than only apparent) unity in the truth
 
-The body of Christ is in fact composed of all people who truly believe. However, from wandering around local areas, one might be forgiven for thinking that the body of Christ is instead composed of a plurality of separate groups that co-exist without much interaction among each other.
+The Church (with a capital C) is in fact composed of all people who truly believe -- and we are all supposed to be united to such a high degree that we function as one single body, the body of Christ here in the world. However, it is a sad truth that there is much factionalism and us vs. them rhetoric within the ranks of those professing Christianity.
 
 It's not that we want to encourage a form of ecumenism where truth is the casualty; quite to the contrary, the truth in the Word of God is the very thing that unites us. If we focus our hearts and minds upon learning, believing, and applying the Bible -- to the exclusion of most all else -- we will find that it is easy to find ourselves running side-by-side with a wide variety of people from all sorts of backgrounds, regardless of such things as race, gender, culture, nationality, socioeconomic status, and whatever else it is we imagine divides us. (Compare Galatians 3:28).
 
-In other words, if we dive deep into the Word of God and keep our focus there, we will see superficial differences fade as the truth takes front-and-center.
+In other words, if we dive deep into the Word of God and keep our focus there, we will see superficial differences fade away as the truth takes front-and-center.
 
 Finding this form of fully-realized unity in the truth (no matter our other differences) can be considered another primary goal of these Bible studies. It is a beautiful thing.
 

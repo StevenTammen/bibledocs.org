@@ -10,7 +10,7 @@ layout: content-page
 
 {{% section-navigation %}}
 
-## Video {#video}
+<!-- ## Video {#video}
 
 {{% video
 src=""
@@ -22,15 +22,15 @@ video=""
 audio=""
 
 slides="https://www.steventammen.com/slides/"
-%}}
+%}} -->
 
 ## Summary {#summary}
 
-A curious friend emailed me wondering about whether the Rahab mentioned in the genealogy of Christ is the same Rahab as the prostitute in Joshua 2. It's a good question, since scripture does contain a number of different individuals sharing identical names (e.g., people named Mary, people named John). In the first part of my response here, I mostly focused on finding a reasonably-representative position to argue against (to make sure I addressed contrary arguments that my friend might have come across), picking things apart point-by-point. At the end of it all, when the dust settles, most of the opposing argument seems to hinge on the fact that when Rahab is mentioned in Hebrews 11 and James 2, her profession and actions of faith are mentioned explicitly, while that is not the case in Matthew's genealogy. The problem is that assuming that this is supposed to signify a different person to prove that this is in fact a different person is inherently circular. It would be kind of like saying there must be two Jesus's in the New Testament because His identity as the Son of God is only mentioned in some places (e.g., His baptism), but not all!
+A curious friend emailed me wondering about whether the Rahab mentioned in the genealogy of Christ is the same Rahab as the prostitute in Joshua 2. It's a good question, since scripture does contain a number of different individuals sharing identical names (e.g., people named Mary, people named John). In the first part of my response here, I mostly focused on finding a reasonably-representative position to argue against (to make sure I addressed contrary arguments that my friend might have come across), picking things apart point-by-point. At the end of it all, when the dust settles, most of the opposing argument seemed to hinge on the fact that when Rahab is mentioned in Hebrews 11 and James 2, her profession and actions of faith are mentioned explicitly, while that is not the case in Matthew's genealogy. The problem is that assuming that this is supposed to signify a different person to prove that this is in fact a different person is inherently circular. It would be kind of like saying there must be two Jesus's in the New Testament because His identity as the Son of God is only mentioned in some places (e.g., His baptism), but not all!
 
-
+<!-- 
 ## Timestamps {#timestamps}
-
+ -->
 
 
 {{% content %}}
@@ -130,8 +130,8 @@ On the other hand, in Matthew 1:5 Rachab the wife of Salmon is clearly distingui
 
 1. by the different spelling of her name in the 'original' Greek,
 2. by the different pronunciation of her name,
-3. by the absence of any offensive designation attached to her name,
-4. by the absence of any reference to Jericho or any activity that took place there.
+3. **by the absence of any offensive designation attached to her name,**
+4. **by the absence of any reference to Jericho or any activity that took place there.**
 
 {{% /quote %}}
 
@@ -147,8 +147,8 @@ So once again, the claim that this Rahab is "clearly distinguished from ANY iden
 
 On the other hand, in Matthew 1:5 Rachab the wife of Salmon is clearly distinguished from ANY identification or association in any way with the harlot of Jericho:
 
-1. by the different spelling of her name in the 'original' Greek,
-2. by the different pronunciation of her name,
+1. **by the different spelling of her name in the 'original' Greek,**
+2. **by the different pronunciation of her name,**
 3. by the absence of any offensive designation attached to her name,
 4. by the absence of any reference to Jericho or any activity that took place there.
 
@@ -170,7 +170,7 @@ In the newer critical editions, there actually is no difference between Matthew 
 
 So this "problem" only exists if you believe the TR is the correct tradition, which, guess what, **is another unproven assumption** in this fellow's argument. [**Post hoc note:** To be fair, it is also possible the person making this argument I refuted simply didn't know about textual criticism generally or details here specifically, rather than him taking a hard position on the matter of the Textus Receptus].
 
-Now certainly, there are those who make that argument, but it must be backed up with evidence and textual analysis (sometimes called textual criticism). In short, without being fully convinced that the TR has the right reading here (in fact, I am almost certainly convinced that it is the edition that errs, as it does in other places), I would give this reason approximately zero weight when making a decision about the validity of the positions. [**Post hoc note:** Also, I honestly should have  also been pointing out how silly it is to pin one's argument on this point anyway. [As discussed below](http://localhost:1313/questions-and-answers/reader-correspondence/on-the-possibility-of-multiple-rahabs/dr-luginbill-of-ichthys-com-responding), making great hay out of different writers transliterating from Hebrew into Greek differently is very much misguided, even if the texts really were to differ here].
+Now certainly, there are those who make that argument, but it must be backed up with evidence and textual analysis (sometimes called textual criticism). In short, without being fully convinced that the TR has the right reading here (in fact, I am almost certainly convinced that it is the edition that errs, as it does in other places), I would give this reason approximately zero weight when making a decision about the validity of the positions. [**Post hoc note:** Also, I honestly should have here been pointing out how silly it is to pin one's argument on this point anyway. [As discussed later on in this Q&A](/questions-and-answers/reader-correspondence/on-the-possibility-of-multiple-rahabs/handling-several-other-matters/#dr-luginbill-of-ichthys-com-responding), making great hay out of different writers transliterating from Hebrew into Greek differently is very much misguided, even if the texts really were to differ here].
 
 <!-- --- -->
 
@@ -188,12 +188,12 @@ Hopefully the above convinced you that the main argument of the link I supplied 
 
 {{% /content %}}
 
-{{% transcript %}}
+<!-- {{% transcript %}}
 
 ## Video/audio transcript {#video-audio-transcript}
 
 
 
-{{% /transcript %}}
+{{% /transcript %}} -->
 
 {{% section-navigation %}}

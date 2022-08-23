@@ -26,7 +26,7 @@ slides="https://bibledocs.org/slides/longer-topical-studies/ichthys-sr4-satans-w
 
 ## Summary {#summary}
 
-[Part 4 of the Satanic Rebellion Series on Ichthys](https://ichthys.com/SR4%28SWS%29.htm) was one of the first studies on the site I read all the way through, and I found it fascinating due to how much of the world suddenly makes sense when examined from the proper spiritual point of view, tracing the true causes and effects of things. This study introduces the idea that the world we live in is all one big illusion put on by Satan, who manipulates everything from behind the scenes for his nefarious purposes. Learning to examine things in the world critically -- critiquing the illusion -- can help us Christians find freedom by dispelling the illusory shadows with the light of God's spiritual truth.
+[Part 4 of the Satanic Rebellion Series on Ichthys](https://ichthys.com/SR4%28SWS%29.htm) was one of the first studies on Ichthys that I read all the way through, and I found it fascinating due to how much of the world suddenly makes sense when examined from the proper spiritual point of view, tracing the true causes and effects of things. This study introduces the idea that the world we live in is all one big illusion put on by Satan, who manipulates everything from behind the scenes for his nefarious purposes. Learning to examine things in the world critically -- critiquing the illusion -- can help us Christians find freedom by dispelling the illusory shadows with the light of God's spiritual truth.
 
 ## Timestamps {#timestamps}
 

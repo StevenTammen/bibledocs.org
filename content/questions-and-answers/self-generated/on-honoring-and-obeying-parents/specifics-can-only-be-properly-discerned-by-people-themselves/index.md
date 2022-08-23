@@ -10,7 +10,7 @@ layout: content-page
 
 {{% section-navigation %}}
 
-## Video {#video}
+<!-- ## Video {#video}
 
 {{% video
 src=""
@@ -22,13 +22,13 @@ video=""
 audio=""
 
 slides="https://www.steventammen.com/slides/"
-%}}
+%}} -->
 
 ## Summary {#summary}
 
-Oftentimes people want a binary answer -- want someone else to give them permission to do what it is they've already decided in their mind. If you are in any position of authority or regularly find people coming to you for advice, you should not indulge people in this. At worst, if it all blows up in their face, they'll blame you. But even at best, giving too much specific advice will tend to cripple the spiritual discernment that people ought to be honing by praying through things themselves. And if all this weren't motivation enough to steer clear of actually answering such questions, there is also the (not so) small problem that as a third-party outsider, you have absolutely no way of knowing many of the facts that would be relevant in obtaining a full view of the situation. All this to say, since only the people in question have any chance of getting things right, you should probably stay irritatingly evasive if pressed on specifics. Even if it annoys them.
+Oftentimes people want a binary answer -- want someone else to give them permission to do whatever it is that they've already decided in their mind. If you are in any position of authority or regularly find people coming to you for advice, you should not indulge people in this. At worst, if it all blows up in their face, they'll use you as a scapegoat and blame you. But even at best, giving too much specific advice will tend to cripple the spiritual discernment that people ought to be honing by praying through things themselves. And if all this weren't motivation enough to steer clear of actually answering such questions, there is also the (not so) small problem that as a third-party outsider, you have absolutely no way of knowing many of the facts that would be relevant in obtaining a full view of the situation. All this to say, since only the people in question have any chance of getting things right, you should probably stay irritatingly evasive if pressed on specifics... even if this leaves people a bit unsatisfied with your answers. Sometimes the only way to spur new growth is to gently push people into making their own important decisions.
 
-## Timestamps {#timestamps}
+<!-- ## Timestamps {#timestamps} -->
 
 
 
@@ -46,7 +46,7 @@ You didn't really answer my question. Do I have to obey my parents' wishes for m
 
 ### Third parties should not weigh in on specifics {#third-parties-should-not-weigh-in-on-specifics}
 
-It's not that simple. As discussed above, a third party has no possible hope of knowing the full picture, and for that reason, should refrain from weighing in on specifics.
+It's not that simple. As previously discussed, a third party has no possible hope of knowing the full picture, and for that reason, should refrain from weighing in on specifics.
 
 Have you figured out what it is God is calling you to? Perhaps the simplest way to come to a Yes-or-No answer in matters like this is to figure out what you are called to. If you are reasonably certain about what God would have of you, then it's just a matter of comparing your parents' wishes against what you feel like you are supposed to do.
 
@@ -56,13 +56,13 @@ The tricky bit then is figuring out what God would have of you, but that's ultim
 
 {{% /content %}}
 
-{{% transcript %}}
+<!-- {{% transcript %}}
 
 ## Video/audio transcript {#video-audio-transcript}
 
 
 
-{{% /transcript %}}
+{{% /transcript %}} -->
 
 {{% section-navigation %}}
 

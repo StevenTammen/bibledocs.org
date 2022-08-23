@@ -16,7 +16,7 @@ summary: >-
 
 
 
-### Video {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-video}
+<!-- ## Video {#video}
 
 {{% video
 src=""
@@ -28,15 +28,15 @@ video=""
 audio=""
 
 slides="https://www.steventammen.com/slides/"
-%}}
+%}} -->
 
 ### Summary {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-summary}
 
 A curious friend emailed me wondering about whether the Rahab mentioned in the genealogy of Christ is the same Rahab as the prostitute in Joshua 2. It's a good question, since scripture does contain a number of different individuals sharing identical names (e.g., people named Mary, people named John). In the first part of my response here, I mostly focused on finding a reasonably-representative position to argue against (to make sure I addressed contrary arguments that my friend might have come across), picking things apart point-by-point. At the end of it all, when the dust settles, most of the opposing argument seems to hinge on the fact that when Rahab is mentioned in Hebrews 11 and James 2, her profession and actions of faith are mentioned explicitly, while that is not the case in Matthew's genealogy. The problem is that assuming that this is supposed to signify a different person to prove that this is in fact a different person is inherently circular. It would be kind of like saying there must be two Jesus's in the New Testament because His identity as the Son of God is only mentioned in some places (e.g., His baptism), but not all!
 
-
+<!-- 
 ### Timestamps {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-timestamps}
-
+ -->
 
 
 {{% toggleable-content %}}
@@ -194,13 +194,13 @@ Hopefully the above convinced you that the main argument of the link I supplied 
 
 {{% /toggleable-content %}}
 
-{{% toggleable-transcript %}}
+<!-- {{% toggleable-transcript %}}
 
 ### Video/audio transcript {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-video-audio-transcript}
 
 
 
-{{% /toggleable-transcript %}}
+{{% /toggleable-transcript %}} -->
 
 
 
@@ -215,7 +215,7 @@ Hopefully the above convinced you that the main argument of the link I supplied 
 
 
 
-### Video {#the-supposed-scandal-of-a-prostitute-in-the-line-of-christ-video}
+<!-- ## Video {#video}
 
 {{% video
 src=""
@@ -227,13 +227,13 @@ video=""
 audio=""
 
 slides="https://www.steventammen.com/slides/"
-%}}
+%}} -->
 
 ### Summary {#the-supposed-scandal-of-a-prostitute-in-the-line-of-christ-summary}
 
 This lesson spends time focusing on a single thing: refuting the idea that it must be a different Rahab because there couldn't possible be a prostitute in the line of Christ (*gasp in horror*). The problem with this is that there are plenty of people in the genealogy (including men) who were not universally praiseworthy in their choices (not that they were horrible or not believers or anything like that -- the point is that Rahab's prostitution is not the only thing nailed to the cross among those in the genealogy). Further, there is the matter of Matthew's purpose in including the women he did in the genealogy. This lesson argues that the other women in the lineage of Christ are all mentioned specifically to demonstrate God's great love and grace towards humanity, so it makes little sense for the Rahab mentioned here to be some random woman we know nothing else about rather than the reformed prostitute bearing that name. Far from making this unlikely, the context in Matthew practically demands such an identification.
 
-### Timestamps {#the-supposed-scandal-of-a-prostitute-in-the-line-of-christ-timestamps}
+<!-- ## Timestamps {#timestamps} -->
 
 
 
@@ -259,7 +259,7 @@ Ruth is in the lineage of Christ, and she was a Moabitess.
 
 <!-- --- -->
 
-So the fact that Rahab, a prostitute who likely converted to monotheistic Judaism after her inheritance in Canaan with the Israelites (cf. Joshua 6:25), is in the lineage of Christ does not surprise me at all, nor it should it surprise anyone.
+So the fact that Rahab, a prostitute who likely converted to Judaism after her inheritance in Canaan with the Israelites (cf. Joshua 6:25), is in the lineage of Christ does not surprise me at all, nor it should it surprise anyone.
 
 In fact, one might go so far as to say that the onus is on those who want to make Rahab the wife of Salmon out to be some sort of unrealistic virginal figure to give examples of females listed in the line of Christ that didn't receive grace in bounds. Actually, in Matthew 1, the only other women explicitly mentioned are the three above, so to claim that Rahab "has to be" someone other than a prostitute is to create a glaring double standard.
 
@@ -291,7 +291,7 @@ So tell me, how is it that people cast stones at Rahab -- who scripture itself p
 
 To use another example, where's the outrage over a well-known persecutor of early Christians becoming an Apostle? Ever heard of Paul? Getting early believers imprisoned or worse, approving their executions (compare Acts 7:58), kind of makes prostitution look mild, right? But it must be OK -- he was a man. (/s)
 
-Ever since Adam and Eve, (some) men have tried to blame it all on the women, as if that were some sort of excuse. It wasn't a valid excuse then (Adam's words of blame are no credit to him in Genesis 3), and it won't fly with God now either.
+From Adam onward (inclusive), some men have tried to blame it all on the women, as if that were some sort of excuse. It wasn't a valid excuse then (Adam's words of blame are no credit to him in Genesis 3), and it won't fly with God now either.
 
 Sin is a human problem, not a woman problem. (Duh).
 
@@ -341,13 +341,13 @@ If I were to make an another argument about all this from scratch, I would hit t
 
 {{% /toggleable-content %}}
 
-{{% toggleable-transcript %}}
+<!-- {{% toggleable-transcript %}}
 
 ### Video/audio transcript {#the-supposed-scandal-of-a-prostitute-in-the-line-of-christ-video-audio-transcript}
 
 
 
-{{% /toggleable-transcript %}}
+{{% /toggleable-transcript %}} -->
 
 
 
@@ -362,7 +362,7 @@ If I were to make an another argument about all this from scratch, I would hit t
 
 
 
-### Video {#handling-several-other-matters-video}
+<!-- ## Video {#video}
 
 {{% video
 src=""
@@ -374,14 +374,14 @@ video=""
 audio=""
 
 slides="https://www.steventammen.com/slides/"
-%}}
+%}} -->
 
 ### Summary {#handling-several-other-matters-summary}
 
 This lesson handles a couple other objections that some people raise in trying to argue that the Rahab in Matthew's genealogy is not the prostitute of Joshua 2. The chronology to make this identification work does demand some long lifespans, but that is far from unprecedented in this exact period (compare Caleb still being strong and vigorous at the tender young age of...  eighty-five -- see Joshua 14:10-11). There is also the matter that neither Joshua nor other sources (like Josephus, for example, who repeats the story of the spies) states directly that Rahab the prostitute married Salmon. But the absence of evidence is not the evidence of absence (that's a classical logical fallacy). This lesson also ends with an attached exchange I had with my mentor about the transliteration of Rahab's name in one of the earliest full NT manuscripts we have (Sinaiticus). The upshot: transliteration is so inconsistent it is best to not ever make great hay of it, here included.
 
-### Timestamps {#handling-several-other-matters-timestamps}
-
+<!-- ## Timestamps {#timestamps}
+ -->
 
 
 {{% toggleable-content %}}
@@ -464,12 +464,12 @@ To the point of your request, I wouldn't necessarily include the above paragraph
 
 {{% /toggleable-content %}}
 
-{{% toggleable-transcript %}}
+<!-- {{% toggleable-transcript %}}
 
 ### Video/audio transcript {#handling-several-other-matters-video-audio-transcript}
 
 
 
-{{% /toggleable-transcript %}}
+{{% /toggleable-transcript %}} -->
 
 <!-- aggregate-page-content -->

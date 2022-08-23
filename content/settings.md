@@ -12,7 +12,7 @@ summary: >-
 
 <!-- As explained at [/about-the-site/#level-appropriate](/about-the-site/#level-appropriate), --> This site offers most of its writing in two levels of technical complexity and prose difficulty.
 
-While you can always go back and forth between the higher level version and lower level version for an individual page using the page level link found in the menu sidebar, most users will probably mostly be looking at content of the same level across pages. For this reason, you can set the writing level here globally, and all content lists across the site will then default to your chosen writing level.
+While you can always go back and forth between the higher level version and lower level version for an individual page using the page-level link found in the menu sidebar, most users will probably mostly be looking at content of the same level across pages. For this reason, you can set the writing level here globally, and all content across the site will then default to your chosen writing level.
 
 <div id="writingLevelContainer" class="settingsContainer">
 	<div id="writingLevelDisplay"></div>
@@ -48,7 +48,7 @@ Keep in mind that if you clear your browser cookies, your preferences here will 
 
 <!-- As explained at [/about-the-site/#step-bible-app-embedded-windows](/about-the-site/#step-bible-app-embedded-windows), --> This site offers the option of viewing most verse quotations in embedded windows from a Bible software application. This allows for a lot of advanced functionality (built right into the webpages of this site), but it does add some complexity that some people may not want. For this reason, this site also offers a simpler option where verse quotations appear as plain text.
 
-While you can always go back and forth between these two display options using the page level link found in the menu sidebar, most users will probably mostly be interested in having the same display preference active across pages. For this reason, you can set the display option here globally, and all pages across the site will then default to your chosen scripture display setting.
+While you can always go back and forth between these two display options using the page-level link found in the menu sidebar, most users will probably mostly be interested in having the same display preference active across pages. For this reason, you can set the display option here globally, and all pages across the site will then default to your chosen scripture display setting.
 
 <div id="scriptureDisplayContainer" class="settingsContainer">
 	<div id="scriptureDisplayDisplay"></div>
@@ -69,6 +69,8 @@ Keep in mind that if you clear your browser cookies, your preferences here will 
 <!-- Todo: menu link for summaries, just like other toggles -->
 
 By default list pages show summaries for all the studies they link to. This is advantageous since you can use these to get an idea of what each study is about, but disadvantageous in that fewer overall links can be displayed at once. If you would prefer to have the summaries hidden by default (although still viewable on a link-by-link basis by clicking on the plus button to the right of any link's title), you can select such below.
+
+While you can always go back and forth between showing summaries and hiding summaries for an individual list page using the page-level link found in the menu sidebar, most users will probably mostly be interested in having the same summary visibility preference active across list pages. For this reason, you can set the visibility option here globally, and all list pages across the site will then default to your chosen summary visibility setting.
 
 <div id="summariesPreferenceContainer" class="settingsContainer">
 	<div id="summariesPreferenceDisplay"></div>

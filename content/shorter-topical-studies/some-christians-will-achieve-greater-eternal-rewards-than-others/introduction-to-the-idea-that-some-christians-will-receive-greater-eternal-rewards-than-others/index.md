@@ -10,7 +10,7 @@ layout: content-page
 
 {{% section-navigation %}}
 
-## Video {#video}
+<!-- ## Video {#video}
 
 {{% video
 src=""
@@ -22,13 +22,13 @@ video=""
 audio=""
 
 slides="https://www.steventammen.com/slides/"
-%}}
+%}} -->
 
 ## Summary {#summary}
 
 Even though most people don't have issues decorating only certain particularly worthy soldiers for exemplary service, for example, many seem to have problems when that idea is mapped onto the concept of eternal rewards from the hand of God. Despite the skepticism, scripture is actually pretty clear on this specific question, so for all who are truly willing to look at what the Bible says, it becomes quickly apparent that God will in fact reward some individuals more than others in eternity, based upon the quality of their Christian walk here in time.
 
-## Timestamps {#timestamps}
+<!-- ## Timestamps {#timestamps} -->
 
 
 
@@ -47,9 +47,7 @@ Every day people give honor to distinguished service and scorn laziness. The ide
 ### However, when the rewards in question are eternal, people seem to be a bit more skittish {#however-when-the-rewards-in-question-are-eternal-people-seem-to-be-a-bit-more-skittish}
 
 {{< subjects >}}
-<a href="/subject-index/#eternal-rewards-people-s-hesitancy-regarding">Eternal rewards > people's hesitancy regarding</a>
-<a href="/subject-index/#new-tag">New tag</a>
-<a href="/subject-index/#another-new-tag">Another new tag</a>
+<a href="/subject-index/#eternal-rewards-people-s-hesitancy-regarding">Eternal rewards > People's hesitancy regarding</a>
 {{< /subjects >}}
 
 However, some people seem to have a problem when the rewards in question are not physical rewards in this temporary world of ours, but eternal spiritual rewards. There are several reasons why people might take issue:
@@ -58,7 +56,7 @@ However, some people seem to have a problem when the rewards in question are not
 - Maybe because people are familiar with the correct teaching that salvation comes by grace through faith and not by works, they think eternal rewards must work in exactly the same way. 
 - Maybe they want everyone to be rewarded the same because if we are instead rewarded according to service they will not do very well!
 
-Whatever the reasons, this idea of different levels of eternal reward for different levels of service seems to be hard for many people to accept. The goal of this short study is to briefly put forward some of the scriptural evidence for the concept.
+Whatever the reasons, this idea of different levels of eternal reward for different levels of merit-based service seems to be hard for many people to accept. The goal of this short study is to briefly put forward some of the scriptural evidence for the concept.
 
 <!-- --- -->
 
@@ -113,13 +111,13 @@ Paul gives us some more detail on the process of evaluation in 1 Corinthians 3:
 {{% nt t="esv" h="400px" p="1 Corinthians 3:10-15" %}}
 
 {{% scripture-h p="1 Corinthians 3:10-15 | NIV84" %}}
-(10) By the grace God has given me, I laid a foundation as an expert builder, and someone else is building on it. But each one should be careful how he builds. (11) For no one can lay any foundation other than the one already laid, which is Jesus Christ. (12) If any man builds on this foundation using gold, silver, costly stones, wood, hay or straw, (13) his work will be shown for what it is, because the Day will bring it to light. It will be revealed with fire, and the fire will test the quality of each man’s work. (14) If what he has built survives, he will receive his reward. (15) If it is burned up, he will suffer loss; he himself will be saved, but only as one escaping through the flames.
+**10** By the grace God has given me, I laid a foundation as an expert builder, and someone else is building on it. But each one should be careful how he builds. **11** For no one can lay any foundation other than the one already laid, which is Jesus Christ. **12** If any man builds on this foundation using gold, silver, costly stones, wood, hay or straw, **13** his work will be shown for what it is, because the Day will bring it to light. It will be revealed with fire, and the fire will test the quality of each man’s work. **14** If what he has built survives, he will receive his reward. **15** If it is burned up, he will suffer loss; he himself will be saved, but only as one escaping through the flames.
 {{% /scripture-h %}}
 
 {{% scripture-l p="1 Corinthians 3:10-15 | NIrV" %}}
-(10) God has given me the grace to lay a foundation as a master builder. Now someone else is building on it. But each one should build carefully. (11) No one can lay any other foundation than the one that has already been laid. That foundation is Jesus Christ.
+**10** God has given me the grace to lay a foundation as a master builder. Now someone else is building on it. But each one should build carefully. **11** No one can lay any other foundation than the one that has already been laid. That foundation is Jesus Christ.
 
-(12) A person may build on it using gold, silver, jewels, wood, hay or straw. (13) But each person’s work will be shown for what it is. On judgment day it will be brought to light. It will be put through fire. The fire will test how good everyone’s work is. (14) If the building doesn’t burn up, God will give the builder a reward for his work. (15) If the building burns up, the builder will lose everything. The builder will be saved, but only like one escaping through the flames. 
+**12** A person may build on it using gold, silver, jewels, wood, hay or straw. **13** But each person’s work will be shown for what it is. On judgment day it will be brought to light. It will be put through fire. The fire will test how good everyone’s work is. **14** If the building doesn’t burn up, God will give the builder a reward for his work. **15** If the building burns up, the builder will lose everything. The builder will be saved, but only like one escaping through the flames. 
 {{% /scripture-l %}}
 
 {{% /nt %}}
@@ -164,12 +162,12 @@ These passages directly teach that there is ranking in heaven. If we were all th
 
 {{% /content %}}
 
-{{% transcript %}}
+<!-- {{% transcript %}}
 
 ## Video/audio transcript {#video-audio-transcript}
 
 
 
-{{% /transcript %}}
+{{% /transcript %}} -->
 
 {{% section-navigation %}}

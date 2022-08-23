@@ -6,11 +6,11 @@ title = "Resource Index"
 
 You can see the sortable and filterable resource index table [here](/resource-index-table).
 
-It is on its own page since it is desirable to display it full-width so that everything has enough room. (Displaying in a narrower-width content section like the one on this page cramps things. The sidebar menu reduces the amount of usable horizontal space, which is more necessary in the case of the table than general text).
+It is on its own page since it is desirable to display it full-width so that everything has enough room. (Displaying it in a narrower-width content section like the one on this page cramps things. The sidebar menu and table of contents reduce the amount of usable horizontal space, which is more necessary in the case of the table than general text).
 
 ## How these resources are referenced on this site
 
-[One of the sections on the content features page](/about-the-site/content-features/#how-the-direct-resource-links-work) in the write-up about site features and functionality goes into great depth about how this site forms direct links to resources in Bible software programs.
+[One of the sections on the content features page](/about-the-site/content-features/#how-the-direct-resource-links-work) documents how this site forms direct links to resources in Bible software programs.
 
 ## Why the resources are owned in the Bible software programs they are
 

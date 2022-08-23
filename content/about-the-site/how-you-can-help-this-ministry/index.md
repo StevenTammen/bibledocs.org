@@ -14,7 +14,9 @@ Quite simply, the one single thing you can do to help this ministry the most is 
 
 ## Financial support
 
-At present, I do not accept financial support. I believe that others need the support more than me ([see here](/about-the-site/frequently-asked-questions/#you-said-you-dont-take-donations-do-you-know-of-good-causes)).
+At present, I do not accept financial support. I believe that others need the support a great deal more than me ([see here](/about-the-site/frequently-asked-questions/#you-said-you-dont-take-donations-do-you-know-of-good-causes)).
+
+In place of me, I hope people might consider these other needs within the body of Christ. Some of those I recommend in that link are my close friends, and helping them is in fact helping me.
 
 ## Sharing this ministry
 

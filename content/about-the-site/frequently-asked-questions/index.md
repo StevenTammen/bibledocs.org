@@ -22,7 +22,7 @@ Having a dash in the URL would make it more cumbersome to share orally -- to avo
 
 This site is dedicated to Bible teaching, offered freely to all; this is a ministry of grace. Traditionally, .com domains were the province of commercial entities, while .org domains were the province of nonprofits. Over time, many people started using .coms for everything, including nonprofit work, and they became more dominant.
 
-However, since it seems to me that .org domains do not present recognizability problems for people who are less technically savvy (contrast less well-known alternate global top level domains like .io and .co, as used by some startups), and are unambiguous with respect to commercial intent (unlike .com domains), it makes sense for this site, which is firmly in the nonprofit camp, to use a .org domain.
+However, since it seems to me that .org domains do not present recognizability problems for people who are less technically savvy (contrast less-well-known alternate global top level domains like .io and .co, as used by some startups), and are unambiguous with respect to commercial intent (unlike .com domains), it makes sense for this site, which is firmly in the nonprofit camp, to use a .org domain.
 
 ### Why have fancy web design? Does the shininess take away from the content?
 
@@ -36,7 +36,7 @@ I'm also a web applications developer by day. What can I say?
 
 ### Who is behind this ministry?
 
-This ministry is currently a one-man operation run by me, Steven Tammen. You can read more about me on the [about the author page](/about-the-author).
+This ministry is currently a one-man operation run by me, Steven Tammen. You can read more about me specifically on the [about the author page](/about-the-author).
 
 ### Does this ministry accept donations or other financial support?
 
@@ -48,7 +48,9 @@ As that chapter makes clear, there is nothing wrong with pastor-teachers being p
 
 -->
 
-Not at present. I believe that others need the support more than me ([see below](#you-said-you-dont-take-donations-do-you-know-of-good-causes)).
+Not at present. I believe that others need the support a great deal more than me ([see below](#you-said-you-dont-take-donations-do-you-know-of-good-causes)).
+
+In place of me, I hope people might consider these other needs within the body of Christ. Some of those I recommend below are my close friends, and helping them is in fact helping me.
 
 ### Is this ministry associated with any denomination or group?
 
@@ -89,7 +91,7 @@ For this reason, I find it best to prioritize giving money to Christians who are
 Towards these ends:
 
 - A close friend of mine and fellow Bible teacher, [Odii Ariwodo](https://ichthys.com/odii-ariwodo.htm), could use your support. (You can email me at [steven@bibledocs.org](mailto:steven@bibledocs.org), and I'll get you in touch).
-- Another public teaching ministry that takes donations that I can recommend is [Bible Academy](https://www.youtube.com/channel/UCkp-J7VPT7NcwmuiNfD2fkg/playlists).
+- Another public teaching ministry that takes donations that I can recommend is [Bible Academy](https://www.youtube.com/channel/UCkp-J7VPT7NcwmuiNfD2fkg).
 - There are also other private individuals I support or help coordinate support for that I would be happy to get people in contact with. Again, you can email me at [steven@bibledocs.org](mailto:steven@bibledocs.org) for more information.
 
 Note that money is not the only way we can assist one another. I can help people set up ministry websites, for example. A contact of mine has helped another with some rehabilitation exercises based upon his experience as a personal fitness trainer. And so on.

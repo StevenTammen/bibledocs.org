@@ -14,11 +14,11 @@ Much content on this site is offered across all three communication mediums: tex
 
 {{% note %}}
 
-It is my hope that these slides may be a great help to those who wish to use the materials of this site in their own Bible teaching endeavors -- while the materials of this site are copyrighted, as long as proper attribution is given, they may be used in all non-commercial endeavors without any other strings attached. (The limiting to non-commercial endeavors is because I am against making money off of the teaching of the Word of God, as a general principle). So here, you can freely teach through the slideshow presentations yourself, as long you don't pass them off as your own, but instead say something to the effect of "I didn't make these -- they came from BibleDocs" and give a link to the site.
+It is my hope that these slides may be a great help to those who wish to use the materials of this site in their own Bible teaching endeavors -- while the materials of this site are copyrighted, as long as proper attribution is given, they may be used in all non-commercial endeavors without any other strings attached. (The limiting to non-commercial endeavors is because I am against making money off of the teaching of the Word of God, as a general principle). So here, you can freely teach through any of the slideshow presentations yourself, as long you don't pass them off as your own, but instead say something to the effect of "I didn't make these -- they came from BibleDocs" and give a link to the site.
 
 {{% /note %}}
 
-As to videos, they primarily live on [this ministry's YouTube channel](https://www.youtube.com/channel/UCFk7khraAKf68DZ5GeYEFIw), but I also provide links to download them from [my page on Archive.org](https://archive.org/details/@steventammen) for offline use. Likewise, as to the audio tracks, you can directly stream them off of Archive.org, and also download them for offline use in exactly the same manner as the videos. The MP3 files should play on basically all audio playback devices.
+As to videos, they primarily live on [this ministry's YouTube channel](https://www.youtube.com/channel/UCFk7khraAKf68DZ5GeYEFIw), but I also provide links to download them from [my page on Archive.org](https://archive.org/details/@steventammen) for offline use. Likewise, as to the audio tracks, you can directly stream them off of Archive.org, and also download them for offline use in exactly the same manner as the videos. The .mp3 files should play on basically all audio playback devices.
 
 ### There will always tend to be at least some text content that is not yet backed by video and audio
 
@@ -28,11 +28,11 @@ Since my time is presently greatly stressed from initial ministry launch and all
 
 {{% /note %}}
 
-The order in which content is filled out is always text ➜ video/audio; that is, at any given point in time, there will almost certainly be some written studies on the site that I have not yet recorded the videos for. Making the videos and subsequently ripping the audio is not terribly complicated, but it does take a good bit of time and effort.
+The order in which content is filled out is always text ➜ video/audio; that is, at any given point in time, there will almost certainly be some written studies on the site that I have not yet recorded the videos for. Making the videos, ripping the audio, and then subsequently making the timestamps/transcripts is not terribly complicated, but it does take a good bit of time and effort.
 
 Once I have checked-over and polished some content, I may be comfortable releasing it on the site (in written form) before I really feel like it is the right time for me to make the video for it. It may prove to be useful to people in written form long before I might be able to get around to making the video, so why wouldn't I let people make use of it in this intervening period?
 
-Nonetheless, supporting video and audio is important to me too, and I see a lot of value in it, so over time, most content will end up actually supporting all three content mediums.
+Nonetheless, supporting video and audio is important to me too, and I see a lot of value in it, so over time, most content will eventually end up actually supporting all three content mediums.
 
 {{% note %}}
 
@@ -62,7 +62,7 @@ There are a great many things that go into the organization of content that span
 - A link to see the full slides of the presentation
 - A concise summary of the topics the content discusses
 - Full timestamps by topic (these apply to both the video and the audio)
-- The text of the slides laid out without divisions, to be able to read through it seamlessly, navigate via a dynamic Table of Contents, and search or skim through it without having to go slide-by-slide
+- The text of the slides laid out without divisions, to be able to read through it seamlessly, navigate via a dynamic table of contents, and search or skim through it without having to go slide-by-slide
 - The full written transcript of the spoken content (this applies to both the video and the audio), hyperlinked statement-by-statement to the video
 
 ## Content types
@@ -93,7 +93,7 @@ The "answers" contained herein are not necessarily to be taken as holy and unque
 
 Content types cluster content based on its primary area of focus (as in brief treatments of specific topics vs. verse-by-verse notes on the text of the Bible, for example). Dividing the content along these groupings makes good sense, to make sure that all similar content ends up listed in the same place.
 
-Within each content type, webpages can be further categorized into three hierarchical layers, by page type. On top, we have list pages, which list out all the studies within a content type by title and summary. Clicking on one of these on the list page will take you to the aggregation page for that study, which contains the aggregation of content pages in the study, all strung together in the same place for easier skimming and searching. You can click on a top-level header on the aggregation page to be taken to the corresponding content page, if you want to read sequentially (one block of content at a time) rather than skim through or search everything altogether.
+Within each content type, webpages can be further categorized into three hierarchical layers, by page type. On top, we have list pages, which list out all the studies within a content type by title and summary. Clicking on one of these on the list page will take you to the aggregation page for that study, which contains the aggregation of content pages in the study, all strung together in the same place for easier skimming and searching. You can click on a top-level header on the aggregation page to be taken to the corresponding content page, if you want to read sequentially (one block of content at a time) rather than skim through or search through everything altogether.
 
 Speaking by manner of rough analogy, list pages are like library indices (giving you titles and summaries to pick between books on a shelf), aggregation pages are like books (a collection of chapters strung together), and content pages are like individual chapters.
 
@@ -141,7 +141,7 @@ On aggregation pages, content sections and transcript sections can be toggled to
 
 #### Clickable headers: navigating to content pages
 
-Top-level headers on aggregation pages are links to each respective content page in the study. If you click on one of these links, you will be taken to the actual content page, where you can start reading sequentially (one block of content at a time) rather than skimming through or searching everything altogether.
+Top-level headers on aggregation pages are links to each respective content page in the study. If you click on one of these links, you will be taken to the actual content page, where you can start reading sequentially (one block of content at a time) rather than skimming through or searching through everything altogether.
 
 {{< figure src="aggregation-page-headers-are-links.png" caption="Top-level headers on aggregation pages are links to content pages">}}
 
@@ -191,13 +191,13 @@ For convenience, these same links show up in the sidebar menu as well, in the "P
 
 If you are planning to sit down and take in a full study (look over all the content from beginning to end, thoroughly), I would suggest going through the content pages one by one, using the study navigation to go from one content page to the next, in order.
 
-This is because the table of contents for each individual page will be smaller and easier to scan in at a glance, and each section stays nicely focused and boxed. This structure lends itself well to enabling study patterns too, like going through one content page a day, for example.
+This is because the table of contents for each individual page will be smaller and easier to scan at a glance, and each section stays nicely focused and boxed. This structure also lends itself well to enabling organization via consistent study patterns, like going through one content page a day, for example.
 
 For searching and skimming, however, that is where the aggregation pages shine. You can quickly skim an entire study, and then uncollapse a content section and/or transcript if the topic catches your eye. Or search for a phrase across all study content, and so on. So for searching and skimming, I do very much recommend making use of the aggregation pages, as that is what they were designed for.
 
 
 
-## Discussion pages
+<!-- ## Discussion pages
 
 ### discussion pages support main study content, but are not themselves main study content
 
@@ -213,7 +213,7 @@ Including it in the study itself is not necessarily attractive (since it clutter
 
 ### How this website handles the dilemma
 
-To restate the design challenge again, the issue is what to do with discussion content that originated from Bible study meetings wherein main study content is covered in a group discussion environment, generating additional material. It is not quite the same as study content itself, but also not completely separate, so how ought we display it?
+To restate the design challenge again, the issue is what to do with discussion content that originated from Bible study meetings wherein main study content is covered in a group discussion environment, generating additional material. It is not quite the same as study content itself, but also not completely separate, so how ought we display it? -->
 
 
 
@@ -256,7 +256,7 @@ Put simply, *this site tries to write at as low a writing level as possible at a
 
 {{% sidenote %}}
 
-For me specifically, it also doesn't help that I was forced to do a lot of scholarly writing in the many formal essays I had to write as part of my two humanities degrees in college, so my "default mode" is very dense academic prose. Apologies.
+For me specifically, it also doesn't help that I was forced to do a lot of scholarly writing in the many formal essays I had to write as part of my two humanities majors in college, so my "default mode" is very dense academic prose. Apologies.
 
 {{% /sidenote %}}
 
@@ -289,7 +289,7 @@ Non-native English speakers (particularly those at the more rudimentary stages o
 
 In fact, the exact same general principles hold for helping all those native English speakers who also struggle with more advanced writing. I have noticed an exceptionally harmful form of intellectual snobbishness in certain Christian circles (not that there isn't a place for scholasticism and academic rigor among Christians -- perish the thought!). It would do us well to consider that many people end up without substantial education not because they were lazy or undisciplined, but because of circumstances largely out of their control. God puts all of us in different places, after all. The Bible itself makes the point all over the place that worldly status is nothing before God, who holds the very strings of the universe in His palm. All that matters in His eyes is the right spiritual attitude. We should thus make sure as Christians that we always seek the best outcome for the Church as a whole ("the big picture") rather than just focusing on the well-dressed suburbanites before us. (Not that there is anything wrong with well-dressed suburbanites, mind you. They just do not represent the sum totality of the body of Christ here in the world).
 
-In any case, the better I am able to beat my writing into some semblance of "simple and concise," the better it is able to serve these three groups who would otherwise not be able to make use of it (or at least not nearly so well). And that is a most excellent goal entirely worthy of pursuit. Even if it makes me personally look less educated or refined or whatever.
+In any case, the better I am able to wrangle my writing into some semblance of "simple and concise," the better it is able to serve these three groups who would otherwise not be able to make use of it (or at least not nearly so well). And that is a most excellent goal entirely worthy of pursuit. Even if it makes me personally look less educated or refined or whatever.
 
 ### The toggle between higher-level and lower-level writing on this site
 
@@ -326,7 +326,7 @@ Text that does not fall into any of the content sections (i.e., text without any
 
 You can see examples of each of the content sections below, with Lorem Ipsum text in place of actual content. In the wild, these content sections may end up being quite a bit longer, even containing multiple headers and sub-headers.
 
-Note that special content sections can be nested inside of each other, even several layers deep. For example, there might be a technical discussion section that contains a quote section that contains a scripture quotation section. Since all sections have different background colors, with a bit of extra styling (to leave some extra padding), this nesting works quite nicely.
+Note that special content sections can be nested inside of each other, even several layers deep. For example, there might be a technical discussion section that contains a sidenote section that contains a quote section. Since all sections have different background colors, with a bit of extra styling (to leave some extra padding), this nesting works quite nicely.
 
 ### Cautionary notes
 
@@ -345,7 +345,7 @@ The false teaching under consideration runs the full spectrum, from almost blind
 
 The traps and pitfalls in application also vary in nuance, ranging from "No, honoring your parents does not mean you should help them deal drugs" to less simple matters more like "Sometimes it can be a mistake to be too specific in the advice you give to impressionable new believers as they may come to rely on your word more than their own developing spiritual discernment, which can cause problems for both you and especially them down the road."
 
-Some people might protest that application is inherently an individual matter (see [application special content sections](#application)) -- given this, how can you dogmatically call some paths of application out as wrong? Perhaps the best way to answer this is by analogy. In college, I had a Greek professor who often liked to remind us (particularly after tests!) that "Just because there are many correct translations does not mean that there are not incorrect ones." The same idea holds here. While we often cannot be dogmatic about what someone else definitely should do, we *can* be dogmatic about some things they definitely *shouldn't* do.
+Some people might protest that application is inherently an individual matter (see [application special content sections](#application), below) -- given this, how can you dogmatically call some paths of application out as wrong? Perhaps the best way to answer this is by analogy. In college, I had a Greek professor who often liked to remind us (particularly after tests!) that "Just because there are many correct translations does not mean that there are not incorrect ones." The same idea holds here. While we often cannot be dogmatic about what someone else definitely should do, we *can* be dogmatic about some things they definitely *shouldn't* do.
 
 ### Technical discussion
 
@@ -359,7 +359,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	
 </div>
 
-As described [in the section on writing level](#writing-level), the higher-level writing on this site sometimes contains technical discussion that is not included in the lower-level writing version of the same content. In general, the purpose of this discussion is to formally justify points made without toning things down so completely that the real matters themselves are not handled. This is not to say that discussions that fall into this special content section are made purposefully impenetrable or anything like that, but simply that the discussion is not nearly as tempered for an audience with less knowledge.
+As described above [in the section on writing level](#writing-level), the higher-level writing on this site sometimes contains technical discussion that is not included in the lower-level writing version of the same content. In general, the purpose of this discussion is to formally justify points made without toning things down so completely that the real matters themselves are not handled. This is not to say that discussions that fall into this special content section are made purposefully impenetrable or anything like that, but simply that the discussion is not nearly as tempered for an audience with less knowledge.
 
 The upshot of this for most people is that you can probably safely ignore these sections unless you are interested in the full treatment. I am careful to include summaries of the main points of technical discussion sections in the normal text (as appropriate), making these sections completely optional. This means, for example, that if you skip one, I won't suddenly reference something from it further down on the page.
 
@@ -390,7 +390,7 @@ As a general principle, I try to avoid remarks that are well and truly off-topic
 
 These sidenote sections and footnotes are used somewhat interchangeably, although I probably use these more overall since they can be quickly scanned/skimmed visually whereas footnotes cannot.
 
-Just like [technical discussion sections](#technical-discussion), these sidenote sections are hidden in lower-level writing, for the reasons described [in the section on writing level](#writing-level).
+Just like [technical discussion sections](#technical-discussion), these sidenote sections are hidden in lower-level writing, for the reasons described above [in the section on writing level](#writing-level).
 
 ### Application
 
@@ -456,21 +456,21 @@ Bible teaching done properly does account for matters relating to the historical
 
 Nonetheless, it is not incorrect to say that in the vast majority of cases, good Bible teaching's defining feature is its almost-singular focus on the Word of God. However, this does not mean that all teaching can necessarily point to specific verses that directly prove the point at hand.
 
-##### Example: drugs
+##### Example: Hard drugs
 
 For example, the Bible says nothing directly about recreationally doing heroin, a harmful street opioid drug (contrast morphine as used in a controlled way in medical contexts), or cocaine. However, the Bible clearly states that we are to submit to government authority (Romans 13:1-7, 1 Peter 2:13-17). If the government makes these drugs illegal, then it becomes wrong for Christians to do them, even though the Bible never specifically calls it out as wrong. Additionally, since being drunk and being under the influence of such drugs are similar in the important loss-of-conscious-control aspect, all the verses condemning drunkenness can also be indirectly applied to the practice of taking these drugs.
 
-In this way, we we can dogmatically come down against drugs (in shades of complete black and white), even though heroin and cocaine did not even exist at the time the Bible was written.
+In this way, we we can dogmatically come down against these hard drugs (in shades of complete black and white), even though heroin and cocaine (and so on) did not even exist at the time the Bible was written.
 
 ##### Example: Arranged marriage
 
-As another example, consider the question of arranged marriage. While not common in Western society, there are still areas in the world where it is more the norm than not (such as some places in India). Yet, some parties want to legalistically ban the practice of arranged marriage for all people. There is no verse in scripture along the lines of "there is no problem with arranged marriage" (that is, a verse directly relevant to the topic at hand); however, we have plenty examples of it in scripture without any negative comment (e.g., Isaac and Rebecca). So, using indirect reasoning, we can still dogmatically say that there is no inherent problem with arranged marriage, even though the Bible doesn't say such directly. We ought not be at all wishy-washy about it, since we do in fact have enough indirect evidence from scripture to come to black-and-white conclusions.
+As another example, consider the question of arranged marriage. While not common in Western society, there are still areas in the world where it is more the norm than not (such as some places in India). Yet, some parties want to legalistically ban the practice of arranged marriage for all people. There is no verse in scripture along the lines of "there is no problem with arranged marriage" (that is, a verse directly relevant to the topic at hand); however, we have plenty of examples of it in scripture without any negative comment (e.g., Isaac and Rebecca). So, using indirect reasoning, we can still dogmatically say that there is no inherent problem with arranged marriage, even though the Bible doesn't say such directly. We ought not be at all wishy-washy about it, since we do in fact have enough indirect evidence from scripture to come to black-and-white conclusions.
 
 ##### Why bother marking this kind of teaching out as different?
 
 Keep in mind that this kind of teaching is different from opinion and conjecture. Bible teachers have a responsibility to teach the truth (which is objective and absolute), not personal opinions. No, what is under discussion here is not conjecture, but conclusions that are reached somewhat indirectly from reasoning based on direct scripture.
 
-So why bother marking it out, rather than having all teaching presented as fundamentally the same? For one thing, while we as Christians can still be confident in indirect arguments from scripture if we go about the process the right way, by their very nature, there are more "things to go wrong" -- it is easier to mess things up in indirect arguments, simply because there are more steps between the interpretation in question and scripture. When the Bible says something directly, it's pretty hard to get things wrong, but when you have to string together a more complex argument to get from A to B, imperfect human logic can lead to incorrect conclusions.
+So why bother marking it out, rather than having all teaching presented as fundamentally the same? For one thing, while we as Christians can still be confident in indirect arguments from scripture if we go about the process the right way, by their very nature, there are more "things to go wrong" -- it is easier to mess things up in indirect arguments, simply because there are more steps between the interpretation in question and scripture. When the Bible says something directly, it's pretty hard to get things wrong, but when you have to string together a more complex argument to get from A to B, it is possible for imperfect human logic to yield incorrect conclusions.
 
 In this way, marking out indirect arguments from scripture can signal to readers "you ought to check this section a bit more closely to make sure you see how the conclusions are ultimately traceable to direct scripture."
 
@@ -480,7 +480,7 @@ Arguments from probability are another kind of indirect reasoning that deserve s
 
 ##### What do I mean by "no other good choice?"
 
-Most of the time a topic can be discussed in terms of scripture, even if indirectly, [as just discussed above](#indirect-reasoning-that-uses-scripture). As yet another example, consider that while the Bible doesn't actually explicitly talk about a specific kind of sin relating to cruel physical torture of others, it is not hard to come up with an airtight argument against it from scripture. Ever read Matthew 7:12?
+Most of the time a topic can be discussed in terms of scripture, even if indirectly, [as just discussed above](#indirect-reasoning-that-uses-scripture). As yet another example, consider that while the Bible doesn't actually explicitly talk about a specific kind of named sin relating to cruel physical torture of others, it is not hard to come up with an airtight argument against it from scripture. Ever read Matthew 7:12?
 
 However, occasionally there are topics that cannot be addressed (or at least not fully) using only internal evidence from scripture. Much of the time these topics aren't important enough to even talk about. (Hence why the Bible, in its limited space, doesn't bother addressing them).
 
@@ -561,6 +561,7 @@ In addition to inferred words, I also make use of explanatory remarks in parenth
 - i.e.: coming from Latin *id est*, meaning "that is." The abbreviation I most frequently use, i.e. is used to clarify and explain.
 - e.g.: coming from Latin *exempli gratia*, meaning "for example." This abbreviation, unsurprisingly, is used to introduce examples.
 - cf.: coming from Latin *confer*/*conferatur*, meaning "compare." This abbreviation is used to introduce things that ought to be compared (or possibly contrasted) with the present topic. On this site, it is overwhelming used to introduce scripture passages as cross references: "Salvation comes by grace through faith (cf. Ephesians 2:8-9)."
+- lit.: an abbreviated form of the English word *literally*. I use this abbreviation to give an additional more literal translation of a specific word or phrase. Used especially if the literal meaning is somewhat idiomatic in nature -- which would be why the normal (non-parenthetical) translation doesn't use the literal meaning. This is not something that only happens when translating Greek and Hebrew, by the way, as if these ancient languages were somehow unique in having specialized idioms. For example, you might consider the Chinese idiom [鶴立雞群](https://en.wiktionary.org/wiki/%E9%B6%B4%E7%AB%8B%E9%9B%9E%E7%BE%A4). If I were translating a sentence with this phrase, perhaps it would go something like "Within his studies at University, John was an exceptional person among his peers (lit. "a crane standing in a flock of chickens")."
 
 #### Ichthys translations
 
@@ -572,4 +573,4 @@ Sometimes I decide to quote from places where Ichthys translates directly from t
 
 Ichthys translations are a special subset of scripture quotations, so share the same styling and background color. Just like scripture quotation sections, for each Ichthys translation section, the biblical passage being quoted shows up in the header.
 
-Ichthys follows a similar syntax as myself in adding inferred words and explanatory remarks in translation. [See just above](#original-translations).
+Ichthys follows a similar syntax as myself ([see just above](#original-translations)) in adding inferred words and explanatory remarks in translation (although my practice is modeled on Ichthys' practice, not the other way around).

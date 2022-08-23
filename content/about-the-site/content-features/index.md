@@ -14,7 +14,7 @@ The interface for this site is unapologetically geeky in what it sets out to do.
 
 Now, however, I am pretty happy with the results and overall user experience. While I am of course quite biased, I really do feel like this site offers quite a bit more useful content functionality than most sites out there -- and by several orders of magnitude at that.
 
-I do recommend reading this section pretty thoroughly if you wish to take advantage of all this site has to offer. There may be a bit of a learning curve, but some of the neat things you can do probably won't completely make sense until you do.
+I do recommend reading this page pretty thoroughly if you wish to take advantage of all this site has to offer. There may be a bit of a learning curve, but some of the neat things you can do probably won't completely make sense until you do.
 
 ## Dynamic auto-scrolling tables of contents
 
@@ -25,7 +25,7 @@ Every content page has a table of contents that updates dynamically based on whe
 
 {{< figure src="dynamic-table-of-contents-example.png" caption="Note the bolded sections and the gold lines" height="300px" >}}
 
-Clicking on a link in the table of contents will immediately take you to that section on the page. After using such a TOC link, you can then copy the URL in your browser's address bar to save a link to that page section (that you can share with others, for example).
+Clicking on a link in the table of contents will immediately take you to that section on the page. After using such a TOC link, you can then copy the URL in your browser's address bar to save a link to that page section (that you can then share with others, for example).
 
 ## Subject index
 
@@ -115,7 +115,7 @@ This list is exhaustive. Eventually, I will get around to coding support for dyn
 
 ##### A comparison between English versions: ESV, NASB, NIV, and HCSB
 
-{{% nt t="comparison" h="300px" p="John 1:1" %}}
+{{% nt t="comparison" h="400px" p="John 1:1" %}}
 
 {{% /nt %}}
 
@@ -205,7 +205,7 @@ This notwithstanding, I am a *huge* proponent of intertextuality and rigor in wr
 
 Unfortunately, paywalls cripple usable intertextuality in almost all of academia proper. Scummy for-profit publishing corporations keep human knowledge (even taxpayer-funded human knowledge) behind lock and key. For whatever inexplicable reason, lots of academics also seem hell-bent on keeping everything printed in dusty physical books rather than publishing resources on indexable computer networks. Having dealt with enough inter-library loans in my day -- just to cite a paragraph or two accurately -- I still get depressed at how much knowledge is made largely inaccessible for no particularly good reason.
 
-At any rate, soapbox aside, I wanted a way to make referencing resources other than my own completely seamless -- something instant, something with actually-good user experience. The internet supports general reference to pages and sections with hyperlinks and id attributes (on header tags, for example), but I want to be able to link *directly* to paragraphs or even sentences I reference. Why not? It is technically possible, and has been for many years. So why in the world isn't it done absolutely everywhere, since it is so superior?
+At any rate, soapbox aside, I wanted a way to make referencing resources other than my own completely seamless -- something instant, something with actually-good user experience. The internet supports general reference to pages and sections with hyperlinks and id attributes (on header tags, for example), but I want to be able to link *directly* to the paragraphs or even sentences I reference. Why not? It is technically possible, and has been for many years. So why in the world isn't it done absolutely everywhere, since it is so superior?
 
 While it is still mysterious to me why very few others implement these seemingly-obviously-superior direct sentence-level citation links, I *can* explain how I accomplish such in the materials of this site. This will be the focus of the next several sections.
 
@@ -222,8 +222,8 @@ In practice, this means this functionality will only work if you view this site 
 
 This site uses these links very frequently for:
 
-- Linking to specific things on [Ichthys.com](https://ichthys.com/), the Bible teaching ministry run by my mentor. This is probably the thing I use text fragment links for the most.
-- Linking to public-domain or otherwise freely-available references resources on websites like [StudyLight](https://www.studylight.org/) (technical commentaries and Bible dictionaries), [Blue Letter Bible](https://www.blueletterbible.org/) (lexicons), and others.
+- Linking to specific things on [Ichthys.com](https://ichthys.com/), the Bible teaching ministry run by my mentor and friend. This is probably the thing I use text fragment links for the most.
+- Linking to public-domain or otherwise-freely-available reference resources on websites like [StudyLight](https://www.studylight.org/) (technical commentaries and Bible dictionaries), [Blue Letter Bible](https://www.blueletterbible.org/) (lexicons), and others.
 
 ### Direct links to published resources (like Bible dictionaries, lexicons, and so on)
 
@@ -239,11 +239,15 @@ There are a few resources that Logos doesn't offer that I own in OliveTree. Whil
 
 #### How the direct resource links work
 
-*For easy identification, all links to resources external to Bible software are prefixed with a tilde (~).*
+{{% note %}}
 
-As much as possible, I link to things in Bible study software (Logos and OliveTree) directly. As to things external to Bible software, non-webpage things that I can actually link (e.g., a PDF of something on [archive.org](https://archive.org/)), I do. Otherwise, the link is where to purchase the resource (or at least one option for such -- I generally prioritize Amazon links). Any true web resources are linked the text fragment way, [as described above](#direct-links-to-website-quotes).
+For easy identification, all links to resources external to Bible software are prefixed with a tilde (~).
 
-I create the link text for different resource links a bit differently, so give pertinent examples of all the types here. All resources (both those linked in Bible software and those linked external to it) obey these rules. So, for example, reference works external to Bible software programs are linked in essentially the same way as those that are in them -- that is, [sometimes by section, and sometimes by page number](#digital-reference-works).
+{{% /note %}}
+
+As much as possible, I link to things in Bible study software (Logos and OliveTree) directly. As to things external to Bible software, non-webpage things that I can actually link (e.g., a PDF of something on [Archive.org](https://archive.org/)), I do. Otherwise, the link is where to purchase the resource (or at least one option for such -- I generally prioritize Amazon links). Any true web resources are linked the text fragment way, [as described above](#direct-links-to-website-quotes).
+
+I create the link text for different resource links a bit differently, so give pertinent examples of all the types here. All resources (both those linked in Bible software and those linked external to it) obey these rules. So, for example, reference works external to Bible software programs are linked in essentially the same way as those that are in them -- that is, [sometimes by section name, and sometimes by page number](#digital-reference-works).
 
 You can see the full list of resources I use and quote from in the site's [resource index](/resource-index). Note that I use resource abbreviations (or at least partial abbreviations) quite frequently; these abbreviations are defined in this index.
 
@@ -319,7 +323,7 @@ Examples:
 
 ##### Digital reference works
 
-The links are constructed as {Reference Work} > {Section} (if a specific section is in view) or {Reference Work} > {Location} (if the link is to a specific page/paragraph).
+The links are constructed as {Reference Work} > {Section} (if a specific section is in view) or {Reference Work} > {Location} (if the link is to a specific volume/page).
 
 These sorts of links encompass more general reference works that aren't organized by verse or topic -- books, in other words. Works on systematic theology, church history, and so forth are thus linked in this way.
 

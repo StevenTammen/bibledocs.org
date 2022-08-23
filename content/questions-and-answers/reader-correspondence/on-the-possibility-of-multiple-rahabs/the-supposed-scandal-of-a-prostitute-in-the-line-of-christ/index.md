@@ -10,7 +10,7 @@ layout: content-page
 
 {{% section-navigation %}}
 
-## Video {#video}
+<!-- ## Video {#video}
 
 {{% video
 src=""
@@ -22,13 +22,13 @@ video=""
 audio=""
 
 slides="https://www.steventammen.com/slides/"
-%}}
+%}} -->
 
 ## Summary {#summary}
 
-This lesson spends time focusing on a single thing: refuting the idea that it must be a different Rahab because there couldn't possible be a prostitute in the line of Christ (*gasp in horror*). The problem with this is that there are plenty of people in the genealogy (including men) who were not universally praiseworthy in their choices (not that they were horrible or not believers or anything like that -- the point is that Rahab's prostitution is not the only thing nailed to the cross among those in the genealogy). Further, there is the matter of Matthew's purpose in including the women he did in the genealogy. This lesson argues that the other women in the lineage of Christ are all mentioned specifically to demonstrate God's great love and grace towards humanity, so it makes little sense for the Rahab mentioned here to be some random woman we know nothing else about rather than the reformed prostitute bearing that name. Far from making this unlikely, the context in Matthew practically demands such an identification.
+This lesson spends time focusing on a single thing: refuting the idea that it must be a different Rahab because there couldn't possibly be a prostitute in the line of Christ (\*gasp in horror\*). The problem with this is that there are plenty of people in the genealogy (including men) who were not universally praiseworthy in their choices (not that they were horrible or not believers or anything like that -- the point is that Rahab's prostitution is not the only thing nailed to the cross among those in the genealogy). Further, there is the matter of Matthew's purpose in including the women he did in the genealogy. This lesson argues that the other women in the lineage of Christ are all mentioned specifically to demonstrate God's great love and grace towards humanity, so it makes little sense for the Rahab mentioned here to be some random woman we know nothing else about rather than the reformed prostitute bearing that name. Far from making this unlikely, the context in Matthew practically demands such an identification.
 
-## Timestamps {#timestamps}
+<!-- ## Timestamps {#timestamps} -->
 
 
 
@@ -54,9 +54,9 @@ Ruth is in the lineage of Christ, and she was a Moabitess.
 
 <!-- --- -->
 
-So the fact that Rahab, a prostitute who likely converted to monotheistic Judaism after her inheritance in Canaan with the Israelites (cf. Joshua 6:25), is in the lineage of Christ does not surprise me at all, nor it should it surprise anyone.
+So the fact that Rahab, a prostitute who likely converted to Judaism after her inheritance in Canaan with the Israelites (cf. Joshua 6:25), is in the lineage of Christ does not surprise me at all, nor it should it surprise anyone.
 
-In fact, one might go so far as to say that the onus is on those who want to make Rahab the wife of Salmon out to be some sort of unrealistic virginal figure to give examples of females listed in the line of Christ that didn't receive grace in bounds. Actually, in Matthew 1, the only other women explicitly mentioned are the three above, so to claim that Rahab "has to be" someone other than a prostitute is to create a glaring double standard.
+In fact, one might go so far as to say that the onus is on those who want to make Rahab the wife of Salmon out to be some sort of unrealistic virginal figure to give examples of women listed in the line of Christ that didn't receive grace in bounds. Actually, in Matthew 1, the only other women explicitly mentioned are the three above, so to claim that Rahab "has to be" someone other than a prostitute is to create a glaring double standard.
 
 <!-- --- -->
 
@@ -84,9 +84,9 @@ So tell me, how is it that people cast stones at Rahab -- who scripture itself p
 
 <!-- --- -->
 
-To use another example, where's the outrage over a well-known persecutor of early Christians becoming an Apostle? Ever heard of Paul? Getting early believers imprisoned or worse, approving their executions (compare Acts 7:58), kind of makes prostitution look mild, right? But it must be OK -- he was a man. (/s)
+To use another example, where's the outrage over a well-known persecutor of early Christians becoming an Apostle? Ever heard of Paul? Getting early believers imprisoned or worse, approving -- or at least not challenging -- their executions (compare Acts 7:58), kind of makes prostitution look mild, right? But it must be OK -- he was a man. (/s)
 
-Ever since Adam and Eve, (some) men have tried to blame it all on the women, as if that were some sort of excuse. It wasn't a valid excuse then (Adam's words of blame are no credit to him in Genesis 3), and it won't fly with God now either.
+From Adam onward (inclusive), some men have tried to blame it all on the women, as if that were some sort of excuse. It wasn't a valid excuse then (Adam's words of self-exculpatory blame are no credit to him in Genesis 3), and it won't fly with God now either.
 
 Sin is a human problem, not a woman problem. (Duh).
 
@@ -108,7 +108,7 @@ Not because women are bad or immoral or always in need of redemption away from t
 
 ### I like wording things in terms of grace more than moral redemption {#i-like-wording-things-in-terms-of-grace-more-than-moral-redemption}
 
-Just like basically everyone else, the ladies too needed grace.
+Just like everyone else, the ladies too needed grace.
 
 The language of moral redemption is often used of these women that show up in the genealogy. This is perhaps appropriate to some degree (particularly for Rahab), but I think it is much better to phrase things positively in terms of God's grace, for that is consistent across all four women, and also consistent with Matthew's main purpose for including them in the genealogy, as above.
 
@@ -120,13 +120,13 @@ Ruth was not an Israelite by birth and culture, but a foreigner from Moab, a lan
 
 Since the bloodline of the Savior came through Tamar's son Perez, one of the twins born of Judah, Tamar too is in the lineage of Christ. Despite being sent away unwanted and treated unjustly, her vindication comes in her sons. God's grace is evident in that the bloodline of Christ leads back to a woman cast aside rather than a treasured wife, counter to expectations.
 
-Finally, God delivered the spies of Israel by a prostitute rather than a noble woman of virtue. Of all the people in the land, only a prostitute feared the Lord and acted to save her family. Perhaps most shocking of all our women, Rahab represents the grace of God in full effect. This is not the outward plastering over of dirtiness within -- lipstick on a pig -- but a complete rebirth from the inside out, a woman turning from death to life. God's grace is more than evident in these events -- it practically screams from every word. Even though such shatters expectations.
+Finally, God delivered the spies of Israel by a prostitute rather than a noble woman of virtue. Of all the people in the land, only a prostitute feared the Lord and acted to save her family -- literally only her. Perhaps most shocking of all our women, Rahab represents the grace of God in full effect. This is not the outward plastering over of dirtiness within -- lipstick on a pig -- but a complete rebirth from the inside out, a woman turning from death to life. God's grace is more than evident in these events -- it practically screams from every word. Even though such shatters expectations.
 
 <!-- --- -->
 
 ### Conclusions {#conclusions}
 
-To tie everything together into a nice neat bow, if communicating the above was in fact God's purpose in having the women mentioned in Matthew's genealogy (and there is little other logical explanation for their inclusion), then it actually makes quite a bit more sense for the Rahab mentioned in the genealogy to be the prostitute mentioned in Joshua. Otherwise why would this woman be mentioned by name alongside all the other "trophies of grace" (Bathsheba, Ruth, Tamar)?
+To tie everything together into a nice neat bow, if, [as argued above](#but-they-were-included-in-matthew-s-genealogy-specifically-to-showcase-god-s-surpassing-grace-towards-mankind), communicating His consistent pattern of redemptive grace towards humanity  was in fact God's purpose in having the women mentioned in Matthew's genealogy (and there is little other logical explanation for their inclusion), then it actually makes quite a bit more sense for the Rahab mentioned in the genealogy to be the prostitute mentioned in Joshua. Otherwise why would this woman be mentioned by name alongside all the other "trophies of grace" (Bathsheba, Ruth, Tamar)?
 
 So, far from us having theological problems if we take the Rahab in the genealogy to be the prostitute, the context almost demands it.
 
@@ -136,12 +136,12 @@ If I were to make an another argument about all this from scratch, I would hit t
 
 {{% /content %}}
 
-{{% transcript %}}
+<!-- {{% transcript %}}
 
 ## Video/audio transcript {#video-audio-transcript}
 
 
 
-{{% /transcript %}}
+{{% /transcript %}} -->
 
 {{% section-navigation %}}
