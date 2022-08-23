@@ -25,7 +25,7 @@ The house should be easy to spot since the house number (101) is in white letter
 
 The Zoom meetings happen at the same time as the in-person meetings shown above on the calendar schedule; the Zoom meetings are fully tied-in to the in-person meetings.
 
-The link and passcode to join our Zoom meetings are always visible in the header banner of the forum, and are posted in the common/shared WhatsApp group (BibleDocs: All) before each meeting. (We generally don't change the meeting room or passcode, but these things are not posted publicly here so that if our meeting ever gets invaded by a bad actor or ruined by a troublemaker who refuses to leave even after being kicked, it is easy for us to handle).
+The link to directly join our Zoom meetings is always visible in the header banner of the forum, and is posted in the common/shared WhatsApp group (BibleDocs: All) before each meeting. (We generally don't change the meeting room/passcode, but we don't post the meeting information publicly here so that if our meeting ever gets invaded by a bad actor or ruined by a troublemaker who refuses to leave even after being kicked, it is easy for us to handle).
 
 Thus, once you are active on either WhatsApp or the forum, you will be able to join our meetings over Zoom. You can join us on WhatsApp or the forum (or both) by filling out the signup form [here](/community-overview/#the-registration-form).
 
