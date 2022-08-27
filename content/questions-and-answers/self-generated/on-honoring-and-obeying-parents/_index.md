@@ -33,7 +33,7 @@ slides="https://www.steventammen.com/slides/"
 
 ### Summary {#scripture-is-clear-that-we-are-to-honor-and-obey-our-parents-summary}
 
-There are certain areas of application in the Christian life that almost all people will likely find themselves pondering at some point in their lives, and one such area is making sense of the duty that we as Christians owe our parents given that their ideas and our ideas will likely not always line up with 100% accuracy. Even though the indignant teenage rebel would probably like to hear otherwise, the Bible is actually clearer on this one than many other important matters of application: we are duty-bound to not only honor our parents, but also to obey them. This first lesson examines the scriptural support for these assertions -- sets out to show the high degree of regard we ought to have for our parents and their guidance. Future lessons will inject a bit more nuance into the relationship, making things less clear-cut than the blind obedience that might otherwise reign unopposed as the proper course of action.
+There are certain areas of application in the Christian walk that almost all people will likely find themselves pondering at some point in their lives, and one such area is making sense of the duty that we as Christians owe our parents, given that their ideas and our ideas will likely not always line up with 100% accuracy. Even though the indignant teenage rebel would probably like to hear otherwise, the Bible is actually clearer on this one than many other important matters of application: we are duty-bound to not only honor our parents, but also to obey them. This first lesson examines the scriptural support for these assertions -- sets out to show the high degree of regard we ought to have for our parents and their guidance. Future lessons will inject a bit more nuance into the relationship, making things less clear-cut than the blind obedience that might otherwise reign unopposed as the proper course of action.
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -241,7 +241,7 @@ Christians are called to provide for those in their house (1 Timothy 5:8). If pa
 
 Children in this situation owe their "parents" nothing at all -- and would be best served cutting ties and minimizing contact, if at all possible. Forgiveness is mandatory for us as Christians, but that doesn't mean continued contact or trust is mandatory.
 
-To use an analogy, anybody who wrongs us terribly is free to approach us to ask forgiveness (and it is right and proper for us to give it to them -- and mean it), but they ought not be surprised to find the business end of a shotgun aimed squarely at their chest the entire time. Forgiving does not mean foolish.
+To use an analogy, anybody who has beaten us to the point of hospitalization is free to approach us to ask forgiveness (and it is right and proper for us to give it to them -- and mean it), but they ought not be surprised to find the business end of a shotgun aimed squarely at their chest the entire time. Forgiving does not mean foolish.
 
 Some people are best loved from a distance. Perhaps even with a restraining order or two between us and them.
 
@@ -257,15 +257,15 @@ Some people are best loved from a distance. Perhaps even with a restraining orde
 <a href="/subject-index/#divorce-abuse-exception">Divorce > Abuse exception</a>
 {{< /subjects >}}
 
-Incidentally, the above holds true not just for children, but also for women who are victims of spousal abuse. The Bible may not directly mention domestic abuse as valid grounds for divorce as it does infidelity -- compare Matthew 19:9 -- but if women are already allowed to sever contact with husbands not willing to honor the marriage bed, it is inconceivable that God's Will is that women suffer years of terrible abuse at the hands of men worse than unbelievers, as 1 Timothy 5:8 puts it.
+The above holds true not just for children, but also for women who are victims of spousal abuse. The Bible may not directly mention domestic abuse as valid grounds for divorce as it does infidelity -- compare Matthew 19:9 -- but if women are already allowed to sever contact with husbands not willing to honor the marriage bed, it is inconceivable that God's Will is that women suffer years of terrible abuse at the hands of men worse than unbelievers, as 1 Timothy 5:8 puts it.
 
 My counsel for all women who are victims of domestic abuse is to make every effort to leave (heads high -- the shameful behavior of their abusive husbands is not their fault in any way) so as to protect themselves and any children in the equation.
 
 <!-- --- -->
 
-In such situations, women have *every* right to divorce and leave (...duh). Just because reconciliation would be ideal does not mean it is mandatory, and it is especially reprehensible to force such a position upon women who already have to deal with abuse from the very people that are supposed to love and cherish them.
+In such situations, women have *every* right to divorce and leave (...duh). Just because continued marriage would be ideal does not mean it is mandatory, and it is especially reprehensible to force such a position upon women who already have to deal with abuse from the very people that are supposed to love and cherish them. It's not *them* who are causing the marriage to fall apart, after all. They are the victims here.
 
-It blows my mind that there are teachers (or rather, "teachers") who teach and promote points of view along the lines of "the Bible never makes an abuse exception for divorce, so women have no right to leave, and if they do divorce their abusive husbands, they can never get into any other relationship without committing adultery."
+It blows my mind that there are teachers (or rather, "teachers") who teach and promote points of view along the lines of "the Bible never directly makes an abuse exception for divorce, so women have no right to leave, and if they do divorce their abusive husbands, they can never get into any other relationship without committing adultery."
 
 Matthew 18:6 comes to mind -- such gross and hypocritical legalism, especially coming from people who ought to know better, will in no way go unpunished. (Compare James 3:1).
 
@@ -291,7 +291,7 @@ Not everything is so cut-and-dry as this though. There certainly are parents out
 <a href="/subject-index/#minding-your-own-business">Minding your own business</a>
 {{< /subjects >}}
 
-As long as what we perceive does not seem to cross the lines of actual abuse (i.e., that which would be reportable to the authorities), then it is not really for us as third parties to try and step in and meddle -- it's none of our business (compare 1 Thessalonians 4:11-2, 2 Thessalonians 3:11-13, Romans 14:4).
+As long as what we perceive does not seem to cross the lines of actual abuse (i.e., that which would be reportable to the authorities), then it is not really for us as third parties to try and step in and meddle -- it's none of our business (compare 1 Thessalonians 4:11-12, 2 Thessalonians 3:11-13, Romans 14:4).
 
 According to scripture, we are not to be meddlesome busybodies.
 
@@ -301,10 +301,10 @@ Moreover, there are plenty of factors that make getting a true "read" of situati
 
 - Parenting is hard and parents are just imperfect human beings too, so sometimes they may come down too hard on their kids without any malevolent intent. In fact, their intent may be completely pure even while they end up being overly harsh: they want to discipline and correct their kids for their own good. Most parents hate punishing their kids as much as their kids hate the punishment, if not more.
 - Kids (even relatively young kids) can be manipulative and only present a skewed version of things to outside parties if they think it will help them get what they want.
-- Sometimes our own views as to what is or is not proper are very much culturally conditioned (compare physical punishment of children *à la* Proverbs 13:24 with modern American sensibilities) -- and even unconsciously so. Things are further complicated by the fact that certain brash, headstrong children may need a good bit more punishing to get the point through their thick heads, while you might just look at a quieter child the wrong way and they'll burst into tears. In other words, what might in fact be cruel treatment for one child will be entirely necessary to discipline another... but since they aren't *our* kids, there is no way for us as outsiders to know the one from the other.
+- Sometimes our own views as to what is or is not proper are very much culturally conditioned (contrast physical punishment of children *à la* Proverbs 13:24 with modern American sensibilities) -- and even unconsciously so. Things are further complicated by the fact that certain brash, headstrong children may need a good bit more punishing to get the point through their unrepentant heads, while you might just look at a quieter child the wrong way and they'll burst into tears. In other words, what might in fact be cruel treatment for one child will be entirely necessary to discipline another... but since they aren't *our* kids, there is no way for us as outsiders to know the one from the other.
 - Etc.
 
-The parties involved know the realities at hand, as does God. If a child is arrogantly resisting their parents' legitimate authority, God won't let it stand. He also won't let actual parental abuse stand.
+The parties involved know the realities at hand, as does God. If a child is arrogantly resisting their parents' legitimate authority, God won't let it stand. He also won't let actual parental abuse stand. In the final accounting of things, all will be revealed, and justice will be perfectly rendered.
 
 {{% /toggleable-content %}}
 
@@ -345,7 +345,7 @@ slides="https://www.steventammen.com/slides/"
 
 ### Summary {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white-summary}
 
-In the first lesson, we argued that the Bible clearly teaches that we need to honor and obey our parents, and in the second lesson we said "well, but except when obviously not." Now we get to the much thornier and more complex case of when things don't so easily line up one way or the other. It is tempting to say you should always listen to your parents because scripture is pretty black-and-white on the matter... but because parents are only human too, such a rule devoid of all context and nuance would occasionally lead you astray. How? Well, what if your parents push you toward a career of high prestige while God is in fact calling you to a career of humble ministry? What if your parents want you to marry someone from a rich and powerful family, while you want to marry someone who is spiritually mature? What if you've found a close spiritual friend who is presently red-hot for Christ, but they have some somewhat-public skeletons hanging out of their closet, things that your parents object to in a legalistic fashion? What if your parents try to force their bad theology down your throat rather than supporting your true zeal for the Lord? All of these things may sound pretty easy to discern ("Well, of course if your parents push you towards that you are justified in saying no!"), but that was intentionally to show how there are plenty more exceptions than might immediately meet the eye. And of course, in practice, things will usually tend to be much messier and murkier. Only by trusting God can we truly figure out when we need to obey and when we need to respectfully disagree. It's complicated.
+In the first lesson, we argued that the Bible clearly teaches that we need to honor and obey our parents, and in the second lesson we said "well, but except when obviously not." Now we get to the much thornier and more complex case of when things don't so easily line up one way or the other. It is tempting to say you should always listen to your parents because scripture is pretty black-and-white on the matter... but because parents are only human too, such a rule devoid of all context and nuance would occasionally lead you astray. How? Well, what if your parents push you towards a career of high prestige while God is in fact calling you to a career of humble ministry? What if your parents want you to marry someone from a rich and powerful family, while you want to marry someone who is spiritually mature? What if you've found a close spiritual friend who is presently red-hot for Christ, but they have some rather-public skeletons hanging out in their closet, things that your parents object to in a legalistic fashion? What if your parents try to force their bad theology down your throat rather than supporting your true zeal for the Lord? All of these things may sound pretty easy to discern ("well, of course if your parents push you towards that you are justified in saying no!"), but that was intentionally to show how there are plenty more exceptions than might immediately meet the eye. And of course, in practice, things will usually tend to be much messier and murkier. Only by trusting God can we truly figure out when we need to obey and when we need to respectfully disagree. It's complicated.
 
 <!-- ## Timestamps {#timestamps}
  -->
@@ -365,7 +365,7 @@ In the first lesson, we argued that the Bible clearly teaches that we need to ho
 
 So what of situations when our parents aren't really being abusive *per se*, but are also being a bit unreasonable (at least as it seems to us)? For example, what if our parents think it is their right to determine our career path, marriage partner, and even what we spend our independently-earned money on?
 
-In general, such matters fall between the explicit scriptural directives to obey our parents and clear-cut situations of abuse or improper/illegal commands on the part of our parents. This would put such things in the realm of application (hence why most of the rest of this response is in an [application section](/about-the-site/content-features/#application)).
+In general, such matters fall between the explicit scriptural directives to obey our parents and the clear-cut situations of abuse, improper/illegal commands on the part of our parents, and so on. This would put such things firmly in the realm of application (hence why most of the rest of this response is in an [application section](/about-the-site/content-organization/#application)).
 
 Note, however, that scripture is strong enough in its exhortations to obey our parents that always obeying our parents should be our default mindset. There's no two ways about it.
 
@@ -380,11 +380,11 @@ Note, however, that scripture is strong enough in its exhortations to obey our p
 <a href="/subject-index/#culture-may-be-relevant-in-application">Culture > May be relevant in application</a>
 {{< /subjects >}}
 
-There are collectivist cultures in the world wherein it is normal for the leader of a family/clan (typically an older male) to decide the affairs of everyone in the group (children being just part of the collective).
+There are collectivist cultures in the world wherein it is normal for the leader of a family/clan (typically an older man) to decide the affairs of everyone in the group (children being just part of the collective).
 
 This typically horrifies certain individuals from Western cultures ("what do you mean her father gets to pick who she marries?!"), but then again, most of these horrified individuals did not grow up in the society in question. By putting themselves in the shoes of the person they feel has been wronged and projecting their own culture, self-righteous condemnation comes all too easily.
 
-Now, I'm *not* saying that it is impossible that some of these situations are problematic -- I have no doubt some (and perhaps even many) are. The point is that unless it is really us in these circumstances, it is once again none of our business.
+Now, I'm *not* saying that it is impossible that some of these situations are problematic -- I have no doubt some (and perhaps even many) are. The point is that unless it is really us in these circumstances, it is once again none of *our* business.
 
 On the other hand, if, for example, my American parents suddenly decided that they ought to get to pick out who my wife will be without my say, this action, *here in America*, would be considered strange. As a matter of application, even if they positively commanded me to marry someone, it would not be at all unreasonable for me to question things rather than meekly submitting to such a directive.
 
@@ -417,7 +417,7 @@ Sometimes we really will have to weigh the input of our parents and decide wheth
 
 Sometimes we can gain insight into the proper path of action by considering the spiritual dimension, and whether or not what our parents want for us really squares with what God wants for us.
 
-As a rule of thumb, if put on the scale, God's Will for us outweighs parental preference every time. However, you actually have to have some conviction of what it is God wants for you for this to hold (and you can't just use it as a convenient excuse -- "God wants me party and live it up in college, so I don't have to listen to you and study!").
+As a rule of thumb, if put on the scale, God's Will for us outweighs parental preference every time. However, you actually have to have some conviction on what it is God wants for you for this to hold (and you can't just use it as a convenient excuse -- "God wants me party and live it up in college, so I don't have to listen to you and study!").
 
 <!-- --- -->
 
@@ -427,7 +427,7 @@ As a rule of thumb, if put on the scale, God's Will for us outweighs parental pr
 <a href="/subject-index/#parents-disagreement-with-career">Parents > Disagreement with > Career</a>
 {{< /subjects >}}
 
-Parents generally want their kids to live a better life -- becoming doctors, lawyers, accountants, engineers, and so forth rather than blue-collar day laborers like themselves (e.g.). One less-meddlesome approach parents can take is to just highly encourage education and self-discipline and leave their kids to work out the specifics.
+Parents generally want their kids to live a better life -- becoming doctors, lawyers, accountants, engineers, and so forth rather than blue-collar day-laborers like themselves (e.g.). One less-meddlesome approach parents can take is to just highly encourage education and self-discipline and leave their kids to work out the specifics.
 
 Problems can arise when kids aren't interested in the things their parents think are best. For example, if Mom and Dad want you to become a doctor but you want to study history and become a professor at a quiet rural school (a job with a much lower salary and much less prestige), what should you do when Mom and Dad start trying to strong-arm you into applying to Med School (by, e.g., threatening to cut off all financial support)?
 
@@ -469,7 +469,7 @@ Usually things won't be so clear-cut. The main idea is to take your parents' opi
 
 Since friendships are much less set-in-stone than marriages, the stakes here are lower; however, many of the same considerations apply. Parents are naturally going to want to steer their children away from negative influences.
 
-While anyone who remembers their teenage years can likely sympathize with the perspective of children (the sentiment of righteous and indignant outrage regarding parental authority "overstepping its rightful bounds"), it is important to note that scripture directly calls out bad company in 1 Corinthians 15:33. To the extent that your parents disapprove of your friend(s) on these terms, to that extent there is actually little room for you to argue.
+While anyone who remembers their teenage years can likely sympathize with the perspective of children (the sentiment of indignant outrage regarding parental authority "overstepping its rightful bounds"), it is important to note that scripture directly calls out bad company in 1 Corinthians 15:33. To the extent that your parents disapprove of your friend(s) on these terms, to that extent there is actually little room for you to argue.
 
 There is, however, the issue of legalism. If you take a look at Jesus' circle of contacts, you do find prostitutes and tax collectors... or rather ex-prostitutes and reformed tax collectors. And we are not Jesus of course. The point I am making is that people on the upswing need friends too -- people that are a good influence on them rather than an influence likely to drag them back into their old habits. (And it is a mistake for us to talk about "these people" entirely in the third person -- *we* are these people, all of us, at least to an extent: Romans 3:23).
 
@@ -483,7 +483,7 @@ As you might have been able to guess, there is a middle road to be walked here a
 <a href="/subject-index/#parents-disagreement-with-spiritual-approach">Parents > Disagreement with > Spiritual approach</a>
 {{< /subjects >}}
 
-Aside from the avoiding negative influence bit, there is with friends also the possible area of parental disagreement regarding how much spiritual dedication is expected among those we associate with, and of exactly what sort (i.e., do friends have to belong to the specific religious group or subgroup as your parents to gain their approval?).
+Aside from the avoiding negative influence bit, there is with friends also the potential area of parental disagreement regarding how much spiritual dedication is expected among those we associate with, and of exactly what sort (i.e., do friends have to belong to the specific religious group or subgroup as your parents to gain their approval?).
 
 This consideration is a subset of our spiritual approach in general. While many children end up adopting the religious practices of their parents without a great deal of scrutiny, there may come a point when they break with their parents on some or even many spiritual matters.
 
@@ -491,17 +491,17 @@ This is most apparent when parents are unbelievers and a child is a believer, or
 
 <!-- --- -->
 
-Any time there is a wide gap in beliefs -- Catholic vs. Mormon, traditional mainline Protestant vs. Charismatic, Mega Church vs. Independent Evangelical, anything vs. Cult -- there are bound to be times when parents push for a certain course of action that their kid will oppose on spiritual grounds.
+Any time there is a wide gap in beliefs -- Catholic vs. Mormon, traditional mainline Protestant vs. Charismatic, Mega Church vs. Independent Evangelical, anything vs. Cult -- there are bound to be times when parents push for a certain course of action that their child will oppose on spiritual grounds.
 
 Conflicts in this regard really boil almost entirely down to the individuals in question and God. While it is tempting to make age a proxy for spiritual maturity (and it is, to a very limited degree), the truth of the matter is that spiritual dedication and/or commitment (a measure of "red-hotness") is a much better predictor of spiritual maturity.
 
-I know of some people who have "been Christians" their whole lives with little to show for it, and others who already had a full ministry of their own just several years after being saved, dedicating almost all their time to the Lord. For this reason, there is little basis for giving parents' spiritual approaches higher weight simply on account of their age.
+I know of some people who have "been Christians" their whole lives with little to show for it, and others who already had a full evangelism ministry of their own just several years after being saved, dedicating almost all their time to the Lord. For this reason, there is little basis for giving parents' spiritual approaches higher weight simply on account of their age.
 
 <!-- --- -->
 
 ##### Recap and summary {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white-recap-and-summary}
 
-The four areas touched on in this subsection -- common areas of disagreement between parents and children -- help highlight the best path to take in all situations that are shades of gray rather than black-and-white: trying to figure out exactly what God would have you do, and then acting according to His Will.
+The four areas touched on in this subsection -- common areas of disagreement between parents and children -- help highlight the best path to take in all situations that are shades of gray rather than black and white: trying to figure out exactly what God would have you do, and then acting according to His Will.
 
 This may seem like intensely unhelpful advice (...well of course that’s what should be done!), but it really is the only way to consistently "get things right" when confronted with the messy and complicated situations of this life -- here specifically whether or not to listen to your parents' wishes in less-than-clear circumstances.
 
@@ -548,7 +548,7 @@ slides="https://www.steventammen.com/slides/"
 
 ### Summary {#specifics-can-only-be-properly-discerned-by-people-themselves-summary}
 
-Oftentimes people want a binary answer -- want someone else to give them permission to do what it is they've already decided in their mind. If you are in any position of authority or regularly find people coming to you for advice, you should not indulge people in this. At worst, if it all blows up in their face, they'll blame you. But even at best, giving too much specific advice will tend to cripple the spiritual discernment that people ought to be honing by praying through things themselves. And if all this weren't motivation enough to steer clear of actually answering such questions, there is also the (not so) small problem that as a third-party outsider, you have absolutely no way of knowing many of the facts that would be relevant in obtaining a full view of the situation. All this to say, since only the people in question have any chance of getting things right, you should probably stay irritatingly evasive if pressed on specifics. Even if it annoys them.
+Oftentimes people want a binary answer -- want someone else to give them permission to do whatever it is that they've already decided in their mind. If you are in any position of authority or regularly find people coming to you for advice, you should not indulge people in this. At worst, if it all blows up in their face, they'll use you as a scapegoat and blame you. But even at best, giving too much specific advice will tend to cripple the spiritual discernment that people ought to be honing by praying through things themselves. And if all this weren't motivation enough to steer clear of actually answering such questions, there is also the (not so) small problem that as a third-party outsider, you have absolutely no way of knowing many of the facts that would be relevant in obtaining a full view of the situation. All this to say, since only the people in question have any chance of getting things right, you should probably stay irritatingly evasive if pressed on specifics... even if this leaves people a bit unsatisfied with your answers. Sometimes the only way to spur new growth is to gently push people into making their own important decisions.
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -568,7 +568,7 @@ You didn't really answer my question. Do I have to obey my parents' wishes for m
 
 #### Third parties should not weigh in on specifics {#specifics-can-only-be-properly-discerned-by-people-themselves-third-parties-should-not-weigh-in-on-specifics}
 
-It's not that simple. As discussed above, a third party has no possible hope of knowing the full picture, and for that reason, should refrain from weighing in on specifics.
+It's not that simple. As previously discussed, a third party has no possible hope of knowing the full picture, and for that reason, should refrain from weighing in on specifics.
 
 Have you figured out what it is God is calling you to? Perhaps the simplest way to come to a Yes-or-No answer in matters like this is to figure out what you are called to. If you are reasonably certain about what God would have of you, then it's just a matter of comparing your parents' wishes against what you feel like you are supposed to do.
 

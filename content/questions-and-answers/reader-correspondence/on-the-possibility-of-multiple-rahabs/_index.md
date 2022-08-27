@@ -32,7 +32,7 @@ slides="https://www.steventammen.com/slides/"
 
 ### Summary {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-summary}
 
-A curious friend emailed me wondering about whether the Rahab mentioned in the genealogy of Christ is the same Rahab as the prostitute in Joshua 2. It's a good question, since scripture does contain a number of different individuals sharing identical names (e.g., people named Mary, people named John). In the first part of my response here, I mostly focused on finding a reasonably-representative position to argue against (to make sure I addressed contrary arguments that my friend might have come across), picking things apart point-by-point. At the end of it all, when the dust settles, most of the opposing argument seems to hinge on the fact that when Rahab is mentioned in Hebrews 11 and James 2, her profession and actions of faith are mentioned explicitly, while that is not the case in Matthew's genealogy. The problem is that assuming that this is supposed to signify a different person to prove that this is in fact a different person is inherently circular. It would be kind of like saying there must be two Jesus's in the New Testament because His identity as the Son of God is only mentioned in some places (e.g., His baptism), but not all!
+A curious friend emailed me wondering about whether the Rahab mentioned in the genealogy of Christ is the same Rahab as the prostitute in Joshua 2. It's a good question, since scripture does contain a number of different individuals sharing identical names (e.g., people named Mary, people named John). In the first part of my response here, I mostly focused on finding a reasonably-representative position to argue against (to make sure I addressed contrary arguments that my friend might have come across), picking things apart point-by-point. At the end of it all, when the dust settles, most of the opposing argument seemed to hinge on the fact that when Rahab is mentioned in Hebrews 11 and James 2, her profession and actions of faith are mentioned explicitly, while that is not the case in Matthew's genealogy. The problem is that assuming that this is supposed to signify a different person to prove that this is in fact a different person is inherently circular. It would be kind of like saying there must be two Jesus's in the New Testament because His identity as the Son of God is only mentioned in some places (e.g., His baptism), but not all!
 
 <!-- 
 ### Timestamps {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-timestamps}
@@ -136,8 +136,8 @@ On the other hand, in Matthew 1:5 Rachab the wife of Salmon is clearly distingui
 
 1. by the different spelling of her name in the 'original' Greek,
 2. by the different pronunciation of her name,
-3. by the absence of any offensive designation attached to her name,
-4. by the absence of any reference to Jericho or any activity that took place there.
+3. **by the absence of any offensive designation attached to her name,**
+4. **by the absence of any reference to Jericho or any activity that took place there.**
 
 {{% /quote %}}
 
@@ -153,8 +153,8 @@ So once again, the claim that this Rahab is "clearly distinguished from ANY iden
 
 On the other hand, in Matthew 1:5 Rachab the wife of Salmon is clearly distinguished from ANY identification or association in any way with the harlot of Jericho:
 
-1. by the different spelling of her name in the 'original' Greek,
-2. by the different pronunciation of her name,
+1. **by the different spelling of her name in the 'original' Greek,**
+2. **by the different pronunciation of her name,**
 3. by the absence of any offensive designation attached to her name,
 4. by the absence of any reference to Jericho or any activity that took place there.
 
@@ -176,7 +176,7 @@ In the newer critical editions, there actually is no difference between Matthew 
 
 So this "problem" only exists if you believe the TR is the correct tradition, which, guess what, **is another unproven assumption** in this fellow's argument. [**Post hoc note:** To be fair, it is also possible the person making this argument I refuted simply didn't know about textual criticism generally or details here specifically, rather than him taking a hard position on the matter of the Textus Receptus].
 
-Now certainly, there are those who make that argument, but it must be backed up with evidence and textual analysis (sometimes called textual criticism). In short, without being fully convinced that the TR has the right reading here (in fact, I am almost certainly convinced that it is the edition that errs, as it does in other places), I would give this reason approximately zero weight when making a decision about the validity of the positions. [**Post hoc note:** Also, I honestly should have  also been pointing out how silly it is to pin one's argument on this point anyway. [As discussed below](http://localhost:1313/questions-and-answers/reader-correspondence/on-the-possibility-of-multiple-rahabs/dr-luginbill-of-ichthys-com-responding), making great hay out of different writers transliterating from Hebrew into Greek differently is very much misguided, even if the texts really were to differ here].
+Now certainly, there are those who make that argument, but it must be backed up with evidence and textual analysis (sometimes called textual criticism). In short, without being fully convinced that the TR has the right reading here (in fact, I am almost certainly convinced that it is the edition that errs, as it does in other places), I would give this reason approximately zero weight when making a decision about the validity of the positions. [**Post hoc note:** Also, I honestly should have here been pointing out how silly it is to pin one's argument on this point anyway. [As discussed later on in this Q&A](/questions-and-answers/reader-correspondence/on-the-possibility-of-multiple-rahabs/handling-several-other-matters/#dr-luginbill-of-ichthys-com-responding), making great hay out of different writers transliterating from Hebrew into Greek differently is very much misguided, even if the texts really were to differ here].
 
 <!-- --- -->
 
@@ -231,7 +231,7 @@ slides="https://www.steventammen.com/slides/"
 
 ### Summary {#the-supposed-scandal-of-a-prostitute-in-the-line-of-christ-summary}
 
-This lesson spends time focusing on a single thing: refuting the idea that it must be a different Rahab because there couldn't possible be a prostitute in the line of Christ (*gasp in horror*). The problem with this is that there are plenty of people in the genealogy (including men) who were not universally praiseworthy in their choices (not that they were horrible or not believers or anything like that -- the point is that Rahab's prostitution is not the only thing nailed to the cross among those in the genealogy). Further, there is the matter of Matthew's purpose in including the women he did in the genealogy. This lesson argues that the other women in the lineage of Christ are all mentioned specifically to demonstrate God's great love and grace towards humanity, so it makes little sense for the Rahab mentioned here to be some random woman we know nothing else about rather than the reformed prostitute bearing that name. Far from making this unlikely, the context in Matthew practically demands such an identification.
+This lesson spends time focusing on a single thing: refuting the idea that it must be a different Rahab because there couldn't possibly be a prostitute in the line of Christ (\*gasp in horror\*). The problem with this is that there are plenty of people in the genealogy (including men) who were not universally praiseworthy in their choices (not that they were horrible or not believers or anything like that -- the point is that Rahab's prostitution is not the only thing nailed to the cross among those in the genealogy). Further, there is the matter of Matthew's purpose in including the women he did in the genealogy. This lesson argues that the other women in the lineage of Christ are all mentioned specifically to demonstrate God's great love and grace towards humanity, so it makes little sense for the Rahab mentioned here to be some random woman we know nothing else about rather than the reformed prostitute bearing that name. Far from making this unlikely, the context in Matthew practically demands such an identification.
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -261,7 +261,7 @@ Ruth is in the lineage of Christ, and she was a Moabitess.
 
 So the fact that Rahab, a prostitute who likely converted to Judaism after her inheritance in Canaan with the Israelites (cf. Joshua 6:25), is in the lineage of Christ does not surprise me at all, nor it should it surprise anyone.
 
-In fact, one might go so far as to say that the onus is on those who want to make Rahab the wife of Salmon out to be some sort of unrealistic virginal figure to give examples of females listed in the line of Christ that didn't receive grace in bounds. Actually, in Matthew 1, the only other women explicitly mentioned are the three above, so to claim that Rahab "has to be" someone other than a prostitute is to create a glaring double standard.
+In fact, one might go so far as to say that the onus is on those who want to make Rahab the wife of Salmon out to be some sort of unrealistic virginal figure to give examples of women listed in the line of Christ that didn't receive grace in bounds. Actually, in Matthew 1, the only other women explicitly mentioned are the three above, so to claim that Rahab "has to be" someone other than a prostitute is to create a glaring double standard.
 
 <!-- --- -->
 
@@ -289,9 +289,9 @@ So tell me, how is it that people cast stones at Rahab -- who scripture itself p
 
 <!-- --- -->
 
-To use another example, where's the outrage over a well-known persecutor of early Christians becoming an Apostle? Ever heard of Paul? Getting early believers imprisoned or worse, approving their executions (compare Acts 7:58), kind of makes prostitution look mild, right? But it must be OK -- he was a man. (/s)
+To use another example, where's the outrage over a well-known persecutor of early Christians becoming an Apostle? Ever heard of Paul? Getting early believers imprisoned or worse, approving -- or at least not challenging -- their executions (compare Acts 7:58), kind of makes prostitution look mild, right? But it must be OK -- he was a man. (/s)
 
-From Adam onward (inclusive), some men have tried to blame it all on the women, as if that were some sort of excuse. It wasn't a valid excuse then (Adam's words of blame are no credit to him in Genesis 3), and it won't fly with God now either.
+From Adam onward (inclusive), some men have tried to blame it all on the women, as if that were some sort of excuse. It wasn't a valid excuse then (Adam's words of self-exculpatory blame are no credit to him in Genesis 3), and it won't fly with God now either.
 
 Sin is a human problem, not a woman problem. (Duh).
 
@@ -313,7 +313,7 @@ Not because women are bad or immoral or always in need of redemption away from t
 
 #### I like wording things in terms of grace more than moral redemption {#the-supposed-scandal-of-a-prostitute-in-the-line-of-christ-i-like-wording-things-in-terms-of-grace-more-than-moral-redemption}
 
-Just like basically everyone else, the ladies too needed grace.
+Just like everyone else, the ladies too needed grace.
 
 The language of moral redemption is often used of these women that show up in the genealogy. This is perhaps appropriate to some degree (particularly for Rahab), but I think it is much better to phrase things positively in terms of God's grace, for that is consistent across all four women, and also consistent with Matthew's main purpose for including them in the genealogy, as above.
 
@@ -325,13 +325,13 @@ Ruth was not an Israelite by birth and culture, but a foreigner from Moab, a lan
 
 Since the bloodline of the Savior came through Tamar's son Perez, one of the twins born of Judah, Tamar too is in the lineage of Christ. Despite being sent away unwanted and treated unjustly, her vindication comes in her sons. God's grace is evident in that the bloodline of Christ leads back to a woman cast aside rather than a treasured wife, counter to expectations.
 
-Finally, God delivered the spies of Israel by a prostitute rather than a noble woman of virtue. Of all the people in the land, only a prostitute feared the Lord and acted to save her family. Perhaps most shocking of all our women, Rahab represents the grace of God in full effect. This is not the outward plastering over of dirtiness within -- lipstick on a pig -- but a complete rebirth from the inside out, a woman turning from death to life. God's grace is more than evident in these events -- it practically screams from every word. Even though such shatters expectations.
+Finally, God delivered the spies of Israel by a prostitute rather than a noble woman of virtue. Of all the people in the land, only a prostitute feared the Lord and acted to save her family -- literally only her. Perhaps most shocking of all our women, Rahab represents the grace of God in full effect. This is not the outward plastering over of dirtiness within -- lipstick on a pig -- but a complete rebirth from the inside out, a woman turning from death to life. God's grace is more than evident in these events -- it practically screams from every word. Even though such shatters expectations.
 
 <!-- --- -->
 
 #### Conclusions {#the-supposed-scandal-of-a-prostitute-in-the-line-of-christ-conclusions}
 
-To tie everything together into a nice neat bow, if communicating the above was in fact God's purpose in having the women mentioned in Matthew's genealogy (and there is little other logical explanation for their inclusion), then it actually makes quite a bit more sense for the Rahab mentioned in the genealogy to be the prostitute mentioned in Joshua. Otherwise why would this woman be mentioned by name alongside all the other "trophies of grace" (Bathsheba, Ruth, Tamar)?
+To tie everything together into a nice neat bow, if, [as argued above](#but-they-were-included-in-matthew-s-genealogy-specifically-to-showcase-god-s-surpassing-grace-towards-mankind), communicating His consistent pattern of redemptive grace towards humanity  was in fact God's purpose in having the women mentioned in Matthew's genealogy (and there is little other logical explanation for their inclusion), then it actually makes quite a bit more sense for the Rahab mentioned in the genealogy to be the prostitute mentioned in Joshua. Otherwise why would this woman be mentioned by name alongside all the other "trophies of grace" (Bathsheba, Ruth, Tamar)?
 
 So, far from us having theological problems if we take the Rahab in the genealogy to be the prostitute, the context almost demands it.
 
@@ -404,9 +404,9 @@ This is an argument that deals with the chronology of Israel before the Davidic 
 
 <!-- --- -->
 
-Here is what a friend and mentor of mine has to say about the matter (please see [this email posting](http://ichthys.com/mail-Bible-InterpretationV.htm), question/response 8):
+Here is what a friend and mentor of mine has to say about the matter (please see [here](https://ichthys.com/mail-Bible-InterpretationV.htm#:~:text=Bob%20L.-,question%20%238), question/response 8):
 
-{{% quote src="http://ichthys.com/mail-Bible-InterpretationV.htm" text="Ichthys" %}}
+{{% quote src="https://ichthys.com/mail-Bible-InterpretationV.htm#:~:text=Bob%20L.-,question%20%238" text="Ichthys" %}}
 "The chronology here has bothered some in the past, and some have tried to solve the "problem" of too much time between Salmon and David by suggesting that some names have been left out of the list and only the famous included. That, I think, is a questionable approach. Extremely long life-spans among Old Testament believers are certainly not unprecedented, even after the flood. Jacob lived to be over 130 years old (Gen.47:9), and given that Benjamin still seems to be a fairly young lad during the episode of Joseph's time in Egypt, it seems that he must have been at least a hundred when Benjamin was born. We should therefore understand that the generation which entered into the land of promise and those immediately thereafter must likewise have been blessed with exceptional length of days and continued fecundity into old age (at least among the godly believers) which would be remarkable by today's standards. After all, even before he entered into the land, Caleb could say in truth "So here I am today, eighty-five years old! I am still as strong today as the day Moses sent me out; I'm just as vigorous to go out to battle now as I was then" (Josh.14:10-11 NIV). And Caleb was still active in the period of conquering the land for many years to come thereafter (cf. Judg.1:12-15). So the fact that between Salmon (who I would argue must have been one of the two spies whom Rahab protected) to Solomon's reign we have well over four hundred years but only four additional males in the line (i.e., Boaz, Obed, Jesse, David) only seems problematic for those who wish to overlook these other biblical facts. David, for example, was the youngest of eight brothers (1Sam.16:10), so we are safe to conclude that Jesse sired him in his old age. And of course Boaz was also an older man when he married Ruth (cf. Ruth 2:1; 3:10). As I say, while this sequence would be remarkable in our day and age, it would have been much less so at the time -- and what genealogy, after all, is more remarkable in every way than that of our Lord?"
 {{% /quote %}}
 
@@ -424,7 +424,7 @@ Joshua 6:25 states that Rahab was given land in the midst of Israel in return fo
 
 First off, Josephus is hardly a paragon of historical accuracy (ask any Classicist worth his salt). [**Post hoc note**: What I meant by this is the following: how likely do you think it is that a Judean prisoner-cum-turncoat granted amnesty under the emperor Vespasian would write things truly unfavorable to Rome? And again, how likely do you think it is that Rome was in reality as whitewashed as the portrayal coming out of Josephus' mouth?] People always like to pull in Josephus as "proof" for something or other (most commonly, actually, to combat the ridiculous notion that Jesus Christ was not a historical person), but in fact it does not really matter what Josephus says or does not say because Josephus was not writing under the influence of the Holy Spirit (i.e., his writings aren't in the Bible, so we can't rely on them unconditionally). Like all historians, he is only as good as his sources, and he happens to be a bit more biased than most. [**Post hoc note**: For the reasons adduced above].
 
-Disregarding the above, this is another classic example of the statement "the absence of proof is not the proof of absence." Silence on an issue does not mean that you get to make the Bible mean whatever you want it to mean. For example, the Bible does not explicitly condemn abortion, yet most Christians have no problems identifying it as sinful even so.
+Disregarding the above, this is another classic example of the statement "the absence of proof is not the proof of absence." Silence on an issue does not mean that you get to make the Bible mean whatever you want it to mean. For example, the Bible does not explicitly condemn abortion in so many words, yet most Christians have no problems identifying it as sinful even so.
 
 Hopefully all this has answered your question. Do feel free to email back if you have more questions!
 

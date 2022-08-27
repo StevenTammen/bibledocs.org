@@ -44,7 +44,7 @@ Genesis 1:1 (in the original Hebrew and Greek Septuagint both) and John 1:1 do n
 #### The "beginning" mentioned in Genesis 1:1 (and also John 1:1) is indefinite not definite {#genesis-1-1-what-beginning-is-in-view-the-beginning-mentioned-in-genesis-1-1-and-also-john-1-1-is-indefinite-not-definite}
 
 {{< subjects >}}
-<a href="/subject-index/#definite-article">Definite article</a>
+<a href="/subject-index/#definite-articles-importance-of">Definite articles > Importance of</a>
 {{< /subjects >}}
 
 Genesis 1:1 is the first verse in the Bible. It mentions the word "beginning." The question is then, what beginning is in view? One possibility is that the beginning is referring to the beginning of God's actions regarding the material universe. Another possibility is that the beginning is referring to the beginning of the material universe itself.
@@ -53,7 +53,7 @@ If the beginning is referring to the beginning of God's actions regarding the ma
 
 {{% original-translation p="Genesis 1:1" %}}
 
-In beginning [His actions regarding the material universe], God created the heavens and the earth (i.e., created the material universe itself — which was not previously existent).
+In beginning [His actions regarding the material universe], God created the heavens and the earth (i.e., created the material universe itself -- which was not previously existent).
 
 {{% /original-translation %}}
 
@@ -111,7 +111,7 @@ We have בְּרֵאשִׁית not בָּרֵאשִׁית in Genesis 1:1. We hav
 
 Aside from the textual evidence, taking the beginning in a definite way would seem to imply that space and time were somehow already in existence during God's creation of the heavens and the Earth. This causes theological problems (or at least can) as it muddles God's eternal existence and externality to material creation.
 
-God exists as three persons that share one essence. This doctrine is known as the Trinity. All three members of the Trinity existed before the material universe itself existed. God exists "outside" spacetime. (Sometimes "space and time" are written together as "spacetime," since physicists have shown that the two things are closely related).
+God exists as three persons that share one essence. This doctrine is known as the Trinity. All three members of the Trinity existed together in perfect unity before the material universe itself existed. God exists "outside" spacetime. (Sometimes "space and time" are written together as "spacetime," since physicists have shown that the two things are closely related).
 
 When God commanded spacetime to come into existence from nothing, it did. God's existence is in no way linked to the beginning of the material universe. In fact, it is actually right and proper to say that God existed *before* time, because he created time.
 
@@ -173,7 +173,7 @@ The second step is understanding God's identity as I AM. In Exodus 3:14–15 God
 
 <!-- --- -->
 
-Liberal scholars squabble endlessly about the etymology of the tetragrammaton, but it is clear from usage that the divine the name of God is fundamentally connected to existence, just as in this passage from Exodus.
+Some scholars squabble endlessly about the etymology of the tetragrammaton, but it is clear from usage that the divine the name of God is fundamentally connected to existence, just as in this passage from Exodus.
 
 I've honestly always found the ink spilled here somewhat regrettable, inasmuch as actual *usage* is always king in lexicography, not etymology. For another example of scholars getting off in the weeds of etymology and muddling themselves theologically, compare all the confusion over the Greek adjective [μονογενής](https://biblehub.com/greek/3439.htm). (Ichthys hits interpretive issues surrounding μονογενής [here](https://ichthys.com/mail-Only-Begotten-Mother-Of-God-On-This-Rock.htm) and [here](https://ichthys.com/mail-Jesus-is-God-and-Man.htm#monogenes--only-begotten), for example).
 
@@ -185,7 +185,7 @@ To be clear, it's not even that the etymology of יהוה has been settled contr
 Scholars now generally agree, however, that the name is connected with the verb *hāwâ*, itself an archaic form of *hāyâ*, “be, become, happen.” What is in doubt, however, is the form of the verb. Some scholars have seen it as simply a combination of the root *hwh* plus prefixed *y* to make a personal name. Much more common is the view that it is the qal (simple) conjugation of the verb, with either a present sense—“He who is,” “the self-existent one”—or an imperfect, future sense—“He who will continue to be (present with His people).” Another common view is that it is the hiphil (causative) conjugation: “He who causes to be, who brings into existence,” i.e., “the Creator.” Although this last explanation is attractive and has had much support, it is doubtful for two reasons. First, there is no known example of *hāyâ* in the hiphil. Second, on the only occasion where an apparent attempt is made to explain the name (Ex. 3:14f), Yahweh’s character and acts as Israel’s redeeming, covenant God, not His role as Creator, are indicated.
 {{% /quote %}}
 
-The point is simply that all of this doesn't really matter in the grand scheme of things. Anyone who reads Exodus 3:14-15 with an open mind will get the gist of *what God himself says His name means*. I'll take that over scholarly speculation any day of the week.
+The point is simply that all of this doesn't really matter in the grand scheme of things. Anyone who reads Exodus 3:14-15 with an open mind will get the gist of *what God himself says His name means* (at least in terms of how He has revealed himself to humanity). I'll take that over scholarly speculation any day of the week.
 
 If you like, though, read what some scholars have to say on the divine name:
 

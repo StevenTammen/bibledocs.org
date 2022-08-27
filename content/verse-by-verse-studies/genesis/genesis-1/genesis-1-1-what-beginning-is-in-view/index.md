@@ -41,7 +41,7 @@ Genesis 1:1 (in the original Hebrew and Greek Septuagint both) and John 1:1 do n
 ### The "beginning" mentioned in Genesis 1:1 (and also John 1:1) is indefinite not definite {#the-beginning-mentioned-in-genesis-1-1-and-also-john-1-1-is-indefinite-not-definite}
 
 {{< subjects >}}
-<a href="/subject-index/#definite-article">Definite articles > Importance of</a>
+<a href="/subject-index/#definite-articles-importance-of">Definite articles > Importance of</a>
 {{< /subjects >}}
 
 Genesis 1:1 is the first verse in the Bible. It mentions the word "beginning." The question is then, what beginning is in view? One possibility is that the beginning is referring to the beginning of God's actions regarding the material universe. Another possibility is that the beginning is referring to the beginning of the material universe itself.

@@ -53,9 +53,7 @@ Every day people give honor to distinguished service and scorn laziness. The ide
 #### However, when the rewards in question are eternal, people seem to be a bit more skittish {#introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others-however-when-the-rewards-in-question-are-eternal-people-seem-to-be-a-bit-more-skittish}
 
 {{< subjects >}}
-<a href="/subject-index/#eternal-rewards-people-s-hesitancy-regarding">Eternal rewards > people's hesitancy regarding</a>
-<a href="/subject-index/#new-tag">New tag</a>
-<a href="/subject-index/#another-new-tag">Another new tag</a>
+<a href="/subject-index/#eternal-rewards-people-s-hesitancy-regarding">Eternal rewards > People's hesitancy regarding</a>
 {{< /subjects >}}
 
 However, some people seem to have a problem when the rewards in question are not physical rewards in this temporary world of ours, but eternal spiritual rewards. There are several reasons why people might take issue:
@@ -64,7 +62,7 @@ However, some people seem to have a problem when the rewards in question are not
 - Maybe because people are familiar with the correct teaching that salvation comes by grace through faith and not by works, they think eternal rewards must work in exactly the same way. 
 - Maybe they want everyone to be rewarded the same because if we are instead rewarded according to service they will not do very well!
 
-Whatever the reasons, this idea of different levels of eternal reward for different levels of service seems to be hard for many people to accept. The goal of this short study is to briefly put forward some of the scriptural evidence for the concept.
+Whatever the reasons, this idea of different levels of eternal reward for different levels of merit-based service seems to be hard for many people to accept. The goal of this short study is to briefly put forward some of the scriptural evidence for the concept.
 
 <!-- --- -->
 
@@ -119,13 +117,13 @@ Paul gives us some more detail on the process of evaluation in 1 Corinthians 3:
 {{% nt t="esv" h="400px" p="1 Corinthians 3:10-15" %}}
 
 {{% scripture-h p="1 Corinthians 3:10-15 | NIV84" %}}
-(10) By the grace God has given me, I laid a foundation as an expert builder, and someone else is building on it. But each one should be careful how he builds. (11) For no one can lay any foundation other than the one already laid, which is Jesus Christ. (12) If any man builds on this foundation using gold, silver, costly stones, wood, hay or straw, (13) his work will be shown for what it is, because the Day will bring it to light. It will be revealed with fire, and the fire will test the quality of each man’s work. (14) If what he has built survives, he will receive his reward. (15) If it is burned up, he will suffer loss; he himself will be saved, but only as one escaping through the flames.
+**10** By the grace God has given me, I laid a foundation as an expert builder, and someone else is building on it. But each one should be careful how he builds. **11** For no one can lay any foundation other than the one already laid, which is Jesus Christ. **12** If any man builds on this foundation using gold, silver, costly stones, wood, hay or straw, **13** his work will be shown for what it is, because the Day will bring it to light. It will be revealed with fire, and the fire will test the quality of each man’s work. **14** If what he has built survives, he will receive his reward. **15** If it is burned up, he will suffer loss; he himself will be saved, but only as one escaping through the flames.
 {{% /scripture-h %}}
 
 {{% scripture-l p="1 Corinthians 3:10-15 | NIrV" %}}
-(10) God has given me the grace to lay a foundation as a master builder. Now someone else is building on it. But each one should build carefully. (11) No one can lay any other foundation than the one that has already been laid. That foundation is Jesus Christ.
+**10** God has given me the grace to lay a foundation as a master builder. Now someone else is building on it. But each one should build carefully. **11** No one can lay any other foundation than the one that has already been laid. That foundation is Jesus Christ.
 
-(12) A person may build on it using gold, silver, jewels, wood, hay or straw. (13) But each person’s work will be shown for what it is. On judgment day it will be brought to light. It will be put through fire. The fire will test how good everyone’s work is. (14) If the building doesn’t burn up, God will give the builder a reward for his work. (15) If the building burns up, the builder will lose everything. The builder will be saved, but only like one escaping through the flames. 
+**12** A person may build on it using gold, silver, jewels, wood, hay or straw. **13** But each person’s work will be shown for what it is. On judgment day it will be brought to light. It will be put through fire. The fire will test how good everyone’s work is. **14** If the building doesn’t burn up, God will give the builder a reward for his work. **15** If the building burns up, the builder will lose everything. The builder will be saved, but only like one escaping through the flames. 
 {{% /scripture-l %}}
 
 {{% /nt %}}
@@ -234,35 +232,35 @@ The two parables are not exactly identical, but they do both teach this general 
 
 {{% scripture-h p="Matthew 25:14-30 | NIV84" %}}
 
-(14) “Again, it will be like a man going on a journey, who called his servants and entrusted his property to them. (15) To one he gave five talents of money, to another two talents, and to another one talent, each according to his ability. Then he went on his journey. (16) The man who had received the five talents went at once and put his money to work and gained five more. (17) So also, the one with the two talents gained two more. (18) But the man who had received the one talent went off, dug a hole in the ground and hid his master’s money. 
-(19) “After a long time the master of those servants returned and settled accounts with them. (20) The man who had received the five talents brought the other five. ‘Master,’ he said, ‘you entrusted me with five talents. See, I have gained five more.’
+**14** “Again, it will be like a man going on a journey, who called his servants and entrusted his property to them. **15** To one he gave five talents of money, to another two talents, and to another one talent, each according to his ability. Then he went on his journey. **16** The man who had received the five talents went at once and put his money to work and gained five more. **17** So also, the one with the two talents gained two more. **18** But the man who had received the one talent went off, dug a hole in the ground and hid his master’s money. 
+**19** “After a long time the master of those servants returned and settled accounts with them. **20** The man who had received the five talents brought the other five. ‘Master,’ he said, ‘you entrusted me with five talents. See, I have gained five more.’
 
-(21) “His master replied, ‘Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Come and share your master’s happiness!’ 
-(22) “The man with the two talents also came. ‘Master,’ he said, ‘you entrusted me with two talents; see, I have gained two more.’ 
-(23) “His master replied, ‘Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Come and share your master’s happiness!’ 
-(24) “Then the man who had received the one talent came. ‘Master,’ he said, ‘I knew that you are a hard man, harvesting where you have not sown and gathering where you have not scattered seed. (25) So I was afraid and went out and hid your talent in the ground. See, here is what belongs to you.’ 
-(26) “His master replied, ‘You wicked, lazy servant! So you knew that I harvest where I have not sown and gather where I have not scattered seed? (27) Well then, you should have put my money on deposit with the bankers, so that when I returned I would have received it back with interest.
+**21** “His master replied, ‘Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Come and share your master’s happiness!’ 
+**22** “The man with the two talents also came. ‘Master,’ he said, ‘you entrusted me with two talents; see, I have gained two more.’ 
+**23** “His master replied, ‘Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Come and share your master’s happiness!’ 
+**24** “Then the man who had received the one talent came. ‘Master,’ he said, ‘I knew that you are a hard man, harvesting where you have not sown and gathering where you have not scattered seed. **25** So I was afraid and went out and hid your talent in the ground. See, here is what belongs to you.’ 
+**26** “His master replied, ‘You wicked, lazy servant! So you knew that I harvest where I have not sown and gather where I have not scattered seed? **27** Well then, you should have put my money on deposit with the bankers, so that when I returned I would have received it back with interest.
 
-(28) “‘Take the talent from him and give it to the one who has the ten talents. (29) For everyone who has will be given more, and he will have an abundance. Whoever does not have, even what he has will be taken from him. (30) And throw that worthless servant outside, into the darkness, where there will be weeping and gnashing of teeth.
+**28** “‘Take the talent from him and give it to the one who has the ten talents. **29** For everyone who has will be given more, and he will have an abundance. Whoever does not have, even what he has will be taken from him. **30** And throw that worthless servant outside, into the darkness, where there will be weeping and gnashing of teeth.
 
 {{% /scripture-h %}}
 
 {{% scripture-l p="Matthew 25:14-30 | NIrV" %}}
 
-(14) “Again, here is what the kingdom of heaven will be like. A man was going on a journey. He sent for his servants and put them in charge of his property. (15) He gave $10,000 to one. He gave $4,000 to another. And he gave $2,000 to the third. The man gave each servant the amount of money he knew the servant could take care of. Then he went on his journey. 
+**14** “Again, here is what the kingdom of heaven will be like. A man was going on a journey. He sent for his servants and put them in charge of his property. **15** He gave $10,000 to one. He gave $4,000 to another. And he gave $2,000 to the third. The man gave each servant the amount of money he knew the servant could take care of. Then he went on his journey. 
 
-16“The servant who had received the $10,000 went at once and put his money to work. He earned $10,000 more. (17) The one with the $4,000 earned $4,000 more. (18) But the man who had received $2,000 went and dug a hole in the ground. He hid his master’s money in it. 
+16“The servant who had received the $10,000 went at once and put his money to work. He earned $10,000 more. **17** The one with the $4,000 earned $4,000 more. **18** But the man who had received $2,000 went and dug a hole in the ground. He hid his master’s money in it. 
 
-19“After a long time the master of those servants returned. He wanted to collect all the money they had earned. (20) The man who had received $10,000 brought the other $10,000. ‘Master,’ he said, ‘you trusted me with $10,000. See, I have earned $10,000 more.’
+19“After a long time the master of those servants returned. He wanted to collect all the money they had earned. **20** The man who had received $10,000 brought the other $10,000. ‘Master,’ he said, ‘you trusted me with $10,000. See, I have earned $10,000 more.’
 
 21“His master replied, ‘You have done well, good and faithful servant! You have been faithful with a few things. I will put you in charge of many things. Come and share your master’s happiness!’ 
 22“The man with $4,000 also came. ‘Master,’ he said, ‘you trusted me with $4,000. See, I have earned $4,000 more.’
 
 23“His master replied, ‘You have done well, good and faithful servant! You have been faithful with a few things. I will put you in charge of many things. Come and share your master’s happiness!’ 
-24“Then the man who had received $2,000 came. ‘Master,’ he said, ‘I knew that you are a hard man. You harvest where you have not planted. You gather crops where you have not scattered seed. (25) So I was afraid. I went out and hid your $2,000 in the ground. See, here is what belongs to you.’ 
-26“His master replied, ‘You evil, lazy servant! So you knew that I harvest where I have not planted? You knew that I gather crops where I have not scattered seed? (27) Well then, you should have put my money in the bank. When I returned, I would have received it back with interest.’
+24“Then the man who had received $2,000 came. ‘Master,’ he said, ‘I knew that you are a hard man. You harvest where you have not planted. You gather crops where you have not scattered seed. **25** So I was afraid. I went out and hid your $2,000 in the ground. See, here is what belongs to you.’ 
+26“His master replied, ‘You evil, lazy servant! So you knew that I harvest where I have not planted? You knew that I gather crops where I have not scattered seed? **27** Well then, you should have put my money in the bank. When I returned, I would have received it back with interest.’
 
-28“Then his master commanded the other servants, ‘Take the $2,000 from him. Give it to the one who has $20,000. (29) Everyone who has will be given more. He will have more than enough. And what about anyone who doesn’t have? Even what he has will be taken away from him. (30) Throw that worthless servant outside. There in the darkness, people will sob and grind their teeth.’
+28“Then his master commanded the other servants, ‘Take the $2,000 from him. Give it to the one who has $20,000. **29** Everyone who has will be given more. He will have more than enough. And what about anyone who doesn’t have? Even what he has will be taken away from him. **30** Throw that worthless servant outside. There in the darkness, people will sob and grind their teeth.’
 {{% /scripture-l %}}
 
 {{% /nt %}}
@@ -308,34 +306,34 @@ The point of all this discussion is not necessarily to condemn translations that
 {{% nt t="esv" h="800px" p="Luke 19:11-27" %}}
 
 {{% scripture-h p="Luke 19:11-27 | NIV84" %}}
-(11) While they were listening to this, he went on to tell them a parable, because he was near Jerusalem and the people thought that the kingdom of God was going to appear at once. (12) He said: “A man of noble birth went to a distant country to have himself appointed king and then to return. (13) So he called ten of his servants and gave them ten minas. ‘Put this money to work,’ he said, ‘until I come back.’ 
-(14) “But his subjects hated him and sent a delegation after him to say, ‘We don’t want this man to be our king.’
-(15) “He was made king, however, and returned home. Then he sent for the servants to whom he had given the money, in order to find out what they had gained with it. 
-(16) “The first one came and said, ‘Sir, your mina has earned ten more.’ 
-(17) “ ‘Well done, my good servant!’ his master replied. ‘Because you have been trustworthy in a very small matter, take charge of ten cities.’ 
-(18) “The second came and said, ‘Sir, your mina has earned five more.’ 
-(19) “His master answered, ‘You take charge of five cities.’ 
-(20) “Then another servant came and said, ‘Sir, here is your mina; I have kept it laid away in a piece of cloth. (21) I was afraid of you, because you are a hard man. You take out what you did not put in and reap what you did not sow.’ 
-(22) “His master replied, ‘I will judge you by your own words, you wicked servant! You knew, did you, that I am a hard man, taking out what I did not put in, and reaping what I did not sow? (23) Why then didn’t you put my money on deposit, so that when I came back, I could have collected it with interest?’ 
-(24) “Then he said to those standing by, ‘Take his mina away from him and give it to the one who has ten minas.’ 
-(25) “ ‘Sir,’ they said, ‘he already has ten!’ 
-(26) “He replied, ‘I tell you that to everyone who has, more will be given, but as for the one who has nothing, even what he has will be taken away. (27) But those enemies of mine who did not want me to be king over them—bring them here and kill them in front of me.’ ”
+**11** While they were listening to this, he went on to tell them a parable, because he was near Jerusalem and the people thought that the kingdom of God was going to appear at once. **12** He said: “A man of noble birth went to a distant country to have himself appointed king and then to return. **13** So he called ten of his servants and gave them ten minas. ‘Put this money to work,’ he said, ‘until I come back.’ 
+**14** “But his subjects hated him and sent a delegation after him to say, ‘We don’t want this man to be our king.’
+**15** “He was made king, however, and returned home. Then he sent for the servants to whom he had given the money, in order to find out what they had gained with it. 
+**16** “The first one came and said, ‘Sir, your mina has earned ten more.’ 
+**17** “ ‘Well done, my good servant!’ his master replied. ‘Because you have been trustworthy in a very small matter, take charge of ten cities.’ 
+**18** “The second came and said, ‘Sir, your mina has earned five more.’ 
+**19** “His master answered, ‘You take charge of five cities.’ 
+**20** “Then another servant came and said, ‘Sir, here is your mina; I have kept it laid away in a piece of cloth. **21** I was afraid of you, because you are a hard man. You take out what you did not put in and reap what you did not sow.’ 
+**22** “His master replied, ‘I will judge you by your own words, you wicked servant! You knew, did you, that I am a hard man, taking out what I did not put in, and reaping what I did not sow? **23** Why then didn’t you put my money on deposit, so that when I came back, I could have collected it with interest?’ 
+**24** “Then he said to those standing by, ‘Take his mina away from him and give it to the one who has ten minas.’ 
+**25** “ ‘Sir,’ they said, ‘he already has ten!’ 
+**26** “He replied, ‘I tell you that to everyone who has, more will be given, but as for the one who has nothing, even what he has will be taken away. **27** But those enemies of mine who did not want me to be king over them—bring them here and kill them in front of me.’ ”
 {{% /scripture-h %}}
 
 {{% scripture-l p="Luke 19:11-27 | NIrV" %}}
-(11) While the people were listening to these things, Jesus told them a story. He was near Jerusalem. The people thought that God’s kingdom was going to appear right away. 
-(12) Jesus said, “A man from an important family went to a country far away. He went there to be made king and then return home. (13) So he sent for ten of his servants. He gave them each about three months’ pay. ‘Put this money to work until I come back,’ he said. 
-(14) “But those he ruled over hated him. They sent some messengers after him. They were sent to say, ‘We don’t want this man to be our king.’ 
-(15) “But he was made king and returned home. Then he sent for the servants he had given the money to. He wanted to find out what they had earned with it. 
-(16) “The first one came to him. He said, ‘Sir, your money has earned ten times as much.’ 
-(17) “ ‘You have done well, my good servant!’ his master replied. ‘You have been faithful in a very small matter. So I will put you in charge of ten towns.’ 
-(18) “The second servant came to his master. He said, ‘Sir, your money has earned five times as much.’ 
-(19) “His master answered, ‘I will put you in charge of five towns.’ 
-(20) “Then another servant came. He said, ‘Sir, here is your money. I have kept it hidden in a piece of cloth. (21) I was afraid of you. You are a hard man. You take out what you did not put in. You harvest what you did not plant.’ 
-(22) “His master replied, ‘I will judge you by your own words, you evil servant! So you knew that I am a hard man? You knew that I take out what I did not put in? You knew that I harvest what I did not plant? (23) Then why didn’t you put my money in the bank? When I came back, I could have collected it with interest.’ 
-(24) “Then he said to those standing by, ‘Take his money away from him. Give it to the one who has ten times as much.’ 
-(25) “ ‘Sir,’ they said, ‘he already has ten times as much!’ 
-(26) “He replied, ‘I tell you that everyone who has will be given more. But here is what will happen to anyone who has nothing. Even what he has will be taken away from him. (27) And what about my enemies who did not want me to be king over them? Bring them here! Kill them in front of me!’”
+**11** While the people were listening to these things, Jesus told them a story. He was near Jerusalem. The people thought that God’s kingdom was going to appear right away. 
+**12** Jesus said, “A man from an important family went to a country far away. He went there to be made king and then return home. **13** So he sent for ten of his servants. He gave them each about three months’ pay. ‘Put this money to work until I come back,’ he said. 
+**14** “But those he ruled over hated him. They sent some messengers after him. They were sent to say, ‘We don’t want this man to be our king.’ 
+**15** “But he was made king and returned home. Then he sent for the servants he had given the money to. He wanted to find out what they had earned with it. 
+**16** “The first one came to him. He said, ‘Sir, your money has earned ten times as much.’ 
+**17** “ ‘You have done well, my good servant!’ his master replied. ‘You have been faithful in a very small matter. So I will put you in charge of ten towns.’ 
+**18** “The second servant came to his master. He said, ‘Sir, your money has earned five times as much.’ 
+**19** “His master answered, ‘I will put you in charge of five towns.’ 
+**20** “Then another servant came. He said, ‘Sir, here is your money. I have kept it hidden in a piece of cloth. **21** I was afraid of you. You are a hard man. You take out what you did not put in. You harvest what you did not plant.’ 
+**22** “His master replied, ‘I will judge you by your own words, you evil servant! So you knew that I am a hard man? You knew that I take out what I did not put in? You knew that I harvest what I did not plant? **23** Then why didn’t you put my money in the bank? When I came back, I could have collected it with interest.’ 
+**24** “Then he said to those standing by, ‘Take his money away from him. Give it to the one who has ten times as much.’ 
+**25** “ ‘Sir,’ they said, ‘he already has ten times as much!’ 
+**26** “He replied, ‘I tell you that everyone who has will be given more. But here is what will happen to anyone who has nothing. Even what he has will be taken away from him. **27** And what about my enemies who did not want me to be king over them? Bring them here! Kill them in front of me!’”
 {{% /scripture-l %}}
 
 {{% /nt %}}
@@ -349,7 +347,7 @@ The point of all this discussion is not necessarily to condemn translations that
 <a href="/subject-index/#parables-parable-of-the-minas">Parables > Parable of the minas</a>
 {{< /subjects >}}
 
-While these two parables are not identical in all the particulars, they teach more or less the same thing. When interpreting a parable, an important first step is identifying exactly what things in the parable stand for. With this in mind:
+While these two parables are not identical in all the particulars, they teach more or less the same thing. When interpreting a parable, an important first step is identifying exactly what things in the parable stand for/represent. With this in mind:
 
 - In both these parables, the master represents our Lord, Jesus Christ.
 - In both these parables, the servants represent believers. An exception is the servant who buries his money and is subsequently thrown into the darkness (see Matthew 25:30). This servant did not do anything with all that God had given him. As the Bible makes clear elsewhere, faith without works is dead (compare James 2:17). That means faith without works is not true faith at all. (As a sidenote, it is sometimes helpful to put this dead faith in scare quotes when discussing it, as this "faith" can otherwise get confused with actual faith). 
@@ -375,7 +373,7 @@ But he doesn't reward everyone in such measure. Some people are thrown out into 
 
 So no, we will not all share the same level of reward in eternity, but some people will receive more. For though none of us will ever be perfect -- far from it -- that does not mean some people do not get a whole awful lot closer than others. (Such is obvious to all who are honest: spiritual excellence always stands out quite distinctly down here in this moral cesspit, this present *kosmos* under Satan's control). And while God is not obligated to give us anything for rendering unto him the service that is His right to demand of us as King of the Universe, the Bible makes it clear that He will in fact fabulously reward all those who choose to follow Him with distinction. So that is exactly what we should aspire to do.
 
-If we end up ranking poorly in eternity, the only people we have to blame are ourselves, because God gives equal opportunity to all, judging us completely perfectly according to our specific circumstances (as only an Omniscient being can). No one gets more or less than exactly that which they deserve.
+If we end up ranking poorly in eternity, the only people we have to blame are ourselves, because God gives equal opportunity to all, judging us completely perfectly according to our specific circumstances (as only an Omniscient Being can). No one gets more or less than exactly that which they deserve.
 
 Keeping this in mind, may we live our lives in such a way that we bring glory to God by receiving a bountiful reward on that Great Day of Days!
 

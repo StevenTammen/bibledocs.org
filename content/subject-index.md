@@ -28,15 +28,15 @@ page-title="However, if Our Parents Are Out of Line, There Are Exceptions"
 header-title="Spousal abuse and divorce"
 %}}
 
-## Another new tag {#another-new-tag}
+## Adam and Eve {#adam-and-eve}
 
 {{% subject-index-link
-content-type="Shorter Topical"
-content-type-slugified="shorter-topical"
-link="/shorter-topical-studies/some-christians-will-achieve-greater-eternal-rewards-than-others/introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others/#however-when-the-rewards-in-question-are-eternal-people-seem-to-be-a-bit-more-skittish"
-study-title="Some Christians Will Achieve Greater Eternal Rewards Than Others"
-page-title="Introduction to the idea that some Christians will receive greater eternal rewards than others"
-header-title="However, when the rewards in question are eternal, people seem to be a bit more skittish"
+content-type="Longer Topical"
+content-type-slugified="longer-topical"
+link="/longer-topical-studies/ichthys-sr4-satans-world-system/like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devil-s-realm/#the-actual-introduction-adam-and-eve-and-us"
+study-title="Ichthys' SR4 - Satans World System"
+page-title="Like Adam and Eve, we live in a broken world - as strangers in the devil's realm"
+header-title="The actual introduction: Adam and Eve, and us"
 %}}
 
 ## Apologetics {#apologetics}
@@ -126,7 +126,9 @@ page-title="But What About Matters That Tend Toward Gray More Than Black or Whit
 header-title="Cultural context is important"
 %}}
 
-## Definite article {#definite-article}
+## Definite articles {#definite-articles}
+
+### Definite articles > Importance of {#definite-articles-importance-of}
 
 {{% subject-index-link
 content-type="Verse-by-verse"
@@ -163,6 +165,17 @@ page-title="Introduction to the idea that some Christians will receive greater e
 
 %}}
 
+### Eternal rewards > People's hesitancy regarding {#eternal-rewards-people-s-hesitancy-regarding}
+
+{{% subject-index-link
+content-type="Shorter Topical"
+content-type-slugified="shorter-topical"
+link="/shorter-topical-studies/some-christians-will-achieve-greater-eternal-rewards-than-others/introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others/#however-when-the-rewards-in-question-are-eternal-people-seem-to-be-a-bit-more-skittish"
+study-title="Some Christians Will Achieve Greater Eternal Rewards Than Others"
+page-title="Introduction to the idea that some Christians will receive greater eternal rewards than others"
+header-title="However, when the rewards in question are eternal, people seem to be a bit more skittish"
+%}}
+
 ### Eternal rewards > Scripture about {#eternal-rewards-scripture-about}
 
 {{% subject-index-link
@@ -174,15 +187,17 @@ page-title="Introduction to the idea that some Christians will receive greater e
 header-title="Some general passages dealing with differing levels of eternal reward"
 %}}
 
-### Eternal rewards > people's hesitancy regarding {#eternal-rewards-people-s-hesitancy-regarding}
+## Fall {#fall}
+
+### Fall > Effects on mankind {#fall-effects-on-mankind}
 
 {{% subject-index-link
-content-type="Shorter Topical"
-content-type-slugified="shorter-topical"
-link="/shorter-topical-studies/some-christians-will-achieve-greater-eternal-rewards-than-others/introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others/#however-when-the-rewards-in-question-are-eternal-people-seem-to-be-a-bit-more-skittish"
-study-title="Some Christians Will Achieve Greater Eternal Rewards Than Others"
-page-title="Introduction to the idea that some Christians will receive greater eternal rewards than others"
-header-title="However, when the rewards in question are eternal, people seem to be a bit more skittish"
+content-type="Longer Topical"
+content-type-slugified="longer-topical"
+link="/longer-topical-studies/ichthys-sr4-satans-world-system/like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devil-s-realm/#the-contrast-between-pre-fall-paradise-and-post-fall-realities"
+study-title="Ichthys' SR4 - Satans World System"
+page-title="Like Adam and Eve, we live in a broken world - as strangers in the devil's realm"
+header-title="The contrast between pre-fall paradise and post-fall realities"
 %}}
 
 ## Genealogy of Christ {#genealogy-of-christ}
@@ -281,17 +296,6 @@ link="/questions-and-answers/self-generated/on-honoring-and-obeying-parents/howe
 study-title="On Honoring and Obeying Parents"
 page-title="However, if Our Parents Are Out of Line, There Are Exceptions"
 header-title="Should we step in if people aren't parenting how we would?"
-%}}
-
-## New tag {#new-tag}
-
-{{% subject-index-link
-content-type="Shorter Topical"
-content-type-slugified="shorter-topical"
-link="/shorter-topical-studies/some-christians-will-achieve-greater-eternal-rewards-than-others/introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others/#however-when-the-rewards-in-question-are-eternal-people-seem-to-be-a-bit-more-skittish"
-study-title="Some Christians Will Achieve Greater Eternal Rewards Than Others"
-page-title="Introduction to the idea that some Christians will receive greater eternal rewards than others"
-header-title="However, when the rewards in question are eternal, people seem to be a bit more skittish"
 %}}
 
 ## Parables {#parables}
@@ -410,6 +414,17 @@ page-title="Scripture Is Clear That We Are to Honor and Obey Our Parents"
 header-title="Some direct quotes from scripture: obeying parents"
 %}}
 
+## Protoevangelium {#protoevangelium}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical"
+link="/longer-topical-studies/ichthys-sr4-satans-world-system/like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devil-s-realm/#god-s-promise-of-deliverance"
+study-title="Ichthys' SR4 - Satans World System"
+page-title="Like Adam and Eve, we live in a broken world - as strangers in the devil's realm"
+header-title="God's promise of deliverance"
+%}}
+
 ## Rahab the prostitute {#rahab-the-prostitute}
 
 {{% subject-index-link
@@ -419,6 +434,19 @@ link="/questions-and-answers/reader-correspondence/on-the-possibility-of-multipl
 study-title="On the Possibility of Multiple Rahabs"
 page-title="Dealing With the Main Arguments Against a Single Rahab Interpretation"
 
+%}}
+
+## Satan's rebellion {#satan-s-rebellion}
+
+### Satan's rebellion > Is the backdrop of all creature history {#satan-s-rebellion-is-the-backdrop-of-all-creature-history}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical"
+link="/longer-topical-studies/ichthys-sr4-satans-world-system/like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devil-s-realm/#the-introduction-s-title-satan-s-rebellion-and-fall"
+study-title="Ichthys' SR4 - Satans World System"
+page-title="Like Adam and Eve, we live in a broken world - as strangers in the devil's realm"
+header-title="The Introduction's title: Satan's rebellion and fall"
 %}}
 
 ## Spousal abuse {#spousal-abuse}
