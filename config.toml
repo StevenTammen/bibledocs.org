@@ -60,6 +60,12 @@ paginate = 10
     weight = 4
     identifier = "about-the-site"
     url = "/about-the-site/"
+  [[menu.navigation]]  
+    name = "Progress Summaries"
+    pre = "<i class='fa fa-calendar fa-fw'></i>"
+    weight = 5
+    identifier = "ministry-progress-summaries"
+    url = "/ministry-progress-summaries/"
 	
 	
 #  [[menu.content]]
