@@ -21,7 +21,7 @@ video=""
 
 audio=""
 
-slides="https://www.steventammen.com/slides/ministry-progress-summaries/2022/introduction/"
+slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/introduction/"
 %}}
 
 ## Summary {#summary}

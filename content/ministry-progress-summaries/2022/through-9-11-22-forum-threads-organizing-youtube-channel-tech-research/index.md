@@ -21,7 +21,7 @@ video=""
 
 audio=""
 
-slides="https://www.steventammen.com/slides/ministry-progress-summaries/2022/through-9-11-22-forum-threads-organizing-youtube-channel-tech-research/"
+slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/through-9-11-22-forum-threads-organizing-youtube-channel-tech-research/"
 %}}
 
 ## Summary {#summary}
