@@ -1,5 +1,5 @@
 ---
-title: Ichthys' SR4 - Satans World System
+title: Ichthys' SR4 - Satan's World System
 weight: 
 contentlevel: intermediate
 layout: aggregation-page

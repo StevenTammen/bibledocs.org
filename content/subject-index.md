@@ -34,7 +34,7 @@ header-title="Spousal abuse and divorce"
 content-type="Longer Topical"
 content-type-slugified="longer-topical"
 link="/longer-topical-studies/ichthys-sr4-satans-world-system/like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devil-s-realm/#the-actual-introduction-adam-and-eve-and-us"
-study-title="Ichthys' SR4 - Satans World System"
+study-title="Ichthys' SR4 - Satan's World System"
 page-title="Like Adam and Eve, we live in a broken world - as strangers in the devil's realm"
 header-title="The actual introduction: Adam and Eve, and us"
 %}}
@@ -111,6 +111,17 @@ link="/questions-and-answers/reader-correspondence/on-the-possibility-of-multipl
 study-title="On the Possibility of Multiple Rahabs"
 page-title="Handling Several Other Matters"
 header-title="\"It's not the same Rahab because the chronology does not work\""
+%}}
+
+## Confession {#confession}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical"
+link="/longer-topical-studies/ichthys-bb6a-the-christian-walk/confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall/#confess-to-the-lord"
+study-title="Ichthys' BB6A Peripateology - The Christian Walk"
+page-title="Confession, forgiveness, avoiding self-loathing, and reorienting towards God after we fall"
+header-title="Confess to the Lord"
 %}}
 
 ## Culture {#culture}
@@ -195,9 +206,22 @@ header-title="Some general passages dealing with differing levels of eternal rew
 content-type="Longer Topical"
 content-type-slugified="longer-topical"
 link="/longer-topical-studies/ichthys-sr4-satans-world-system/like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devil-s-realm/#the-contrast-between-pre-fall-paradise-and-post-fall-realities"
-study-title="Ichthys' SR4 - Satans World System"
+study-title="Ichthys' SR4 - Satan's World System"
 page-title="Like Adam and Eve, we live in a broken world - as strangers in the devil's realm"
 header-title="The contrast between pre-fall paradise and post-fall realities"
+%}}
+
+## Forgiveness {#forgiveness}
+
+### Forgiveness > Even if Jesus paid it all, it can be hard for us to embrace the forgiveness as we ought {#forgiveness-even-if-jesus-paid-it-all-it-can-be-hard-for-us-to-embrace-the-forgiveness-as-we-ought}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical"
+link="/longer-topical-studies/ichthys-bb6a-the-christian-walk/confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall/#accept-god-s-forgiveness"
+study-title="Ichthys' BB6A Peripateology - The Christian Walk"
+page-title="Confession, forgiveness, avoiding self-loathing, and reorienting towards God after we fall"
+header-title="Accept God's forgiveness"
 %}}
 
 ## Genealogy of Christ {#genealogy-of-christ}
@@ -414,13 +438,26 @@ page-title="Scripture Is Clear That We Are to Honor and Obey Our Parents"
 header-title="Some direct quotes from scripture: obeying parents"
 %}}
 
+## Penance {#penance}
+
+### Penance > Is bad theology {#penance-is-bad-theology}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical"
+link="/longer-topical-studies/ichthys-bb6a-the-christian-walk/confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall/#avoid-self-loathing"
+study-title="Ichthys' BB6A Peripateology - The Christian Walk"
+page-title="Confession, forgiveness, avoiding self-loathing, and reorienting towards God after we fall"
+header-title="Avoid self-loathing"
+%}}
+
 ## Protoevangelium {#protoevangelium}
 
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical"
 link="/longer-topical-studies/ichthys-sr4-satans-world-system/like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devil-s-realm/#god-s-promise-of-deliverance"
-study-title="Ichthys' SR4 - Satans World System"
+study-title="Ichthys' SR4 - Satan's World System"
 page-title="Like Adam and Eve, we live in a broken world - as strangers in the devil's realm"
 header-title="God's promise of deliverance"
 %}}
@@ -444,9 +481,57 @@ page-title="Dealing With the Main Arguments Against a Single Rahab Interpretatio
 content-type="Longer Topical"
 content-type-slugified="longer-topical"
 link="/longer-topical-studies/ichthys-sr4-satans-world-system/like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devil-s-realm/#the-introduction-s-title-satan-s-rebellion-and-fall"
-study-title="Ichthys' SR4 - Satans World System"
+study-title="Ichthys' SR4 - Satan's World System"
 page-title="Like Adam and Eve, we live in a broken world - as strangers in the devil's realm"
 header-title="The Introduction's title: Satan's rebellion and fall"
+%}}
+
+## Sin {#sin}
+
+### Sin > God already disciplines us perfectly, so we ought not discipline ourselves more {#sin-god-already-disciplines-us-perfectly-so-we-ought-not-discipline-ourselves-more}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical"
+link="/longer-topical-studies/ichthys-bb6a-the-christian-walk/confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall/#avoid-self-loathing"
+study-title="Ichthys' BB6A Peripateology - The Christian Walk"
+page-title="Confession, forgiveness, avoiding self-loathing, and reorienting towards God after we fall"
+header-title="Avoid self-loathing"
+%}}
+
+### Sin > Universality {#sin-universality}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical"
+link="/longer-topical-studies/ichthys-bb6a-the-christian-walk/confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall/#what-to-make-of-the-fact-that-we-all-sin"
+study-title="Ichthys' BB6A Peripateology - The Christian Walk"
+page-title="Confession, forgiveness, avoiding self-loathing, and reorienting towards God after we fall"
+header-title="What to make of the fact that we all sin?"
+%}}
+
+### Sin > We should not dwell on the past, but keep our eyes fixed forward {#sin-we-should-not-dwell-on-the-past-but-keep-our-eyes-fixed-forward}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical"
+link="/longer-topical-studies/ichthys-bb6a-the-christian-walk/confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall/#looking-back-is-not-productive-for-us-as-christians"
+study-title="Ichthys' BB6A Peripateology - The Christian Walk"
+page-title="Confession, forgiveness, avoiding self-loathing, and reorienting towards God after we fall"
+header-title="Looking back is not productive for us as Christians"
+%}}
+
+## Spiritual perspective {#spiritual-perspective}
+
+### Spiritual perspective > Eyes on the prize {#spiritual-perspective-eyes-on-the-prize}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical"
+link="/longer-topical-studies/ichthys-bb6a-the-christian-walk/confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall/#reorient"
+study-title="Ichthys' BB6A Peripateology - The Christian Walk"
+page-title="Confession, forgiveness, avoiding self-loathing, and reorienting towards God after we fall"
+header-title="Reorient"
 %}}
 
 ## Spousal abuse {#spousal-abuse}
@@ -505,7 +590,7 @@ header-title="Dr. Luginbill of Ichthys.com responding"
 content-type="Longer Topical"
 content-type-slugified="longer-topical"
 link="/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr4-satans-world-system/#plato-s-allegory-of-the-cave"
-study-title="Ichthys' SR4 - Satans World System"
+study-title="Ichthys' SR4 - Satan's World System"
 page-title="Introduction to SR4 - Satan's World System"
 header-title="Plato's Allegory of the Cave"
 %}}
