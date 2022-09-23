@@ -2,6 +2,12 @@
 content/drafts/
 static/drafts/
 
+# Ignore content not to be displayed. Mostly things to build various sets of
+# presentation slides
+layouts/not-displayed
+content/not-displayed
+content/slides/not-displayed
+
 # Ignore information that is intentionally kept out of repo
 private/
 

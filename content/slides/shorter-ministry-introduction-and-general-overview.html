@@ -1,0 +1,435 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Slides</title>
+  <meta charset="utf-8">
+  <link
+  rel="stylesheet"
+  href="https://unpkg.com/littlefoot/dist/littlefoot.css"
+/>
+  <style>
+   @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+   @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+   body { 
+    font-family: 'Georgia';
+   }
+
+   ::selection{
+    background-color: #fff6bd;
+   }
+
+   h1, h2, h3, h4, h5, h6 {
+    font-family: 'Verdana';
+    font-weight: bold;
+   }
+
+   h2 {
+    display: block;
+    font-size: 30px !important;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+   }
+
+   /* Style most headers the same across slides, for visual consistency */
+   h3, h4, h5, h6 {
+    display: block;
+    font-size: 18px !important;
+    margin-block-start: 1.2em;
+    margin-block-end: 1.2em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+   }
+
+   /*
+    Don't need extra padding when headers aren't in a special content section
+    with the special content section name in a strong tag (when the header is
+    the very first thing in the sepcial content section div). Too much space otherwise
+   */
+   .special-content h3:first-child,
+   .special-content h4:first-child,
+   .special-content h5:first-child,
+   .special-content h6:first-child
+    {
+      margin-top: 0px;
+    }
+
+   .remark-code, .remark-inline-code {
+    font-family: 'Ubuntu Mono';
+   }
+   
+   .footer {
+    position: absolute;
+    bottom: 5px;
+    right: 50px;
+    height: 40px;
+    width: 800px;
+    color: #006400;
+   }
+
+   a {
+    color: #3b8bba;
+    text-decoration: none;
+  }
+
+  /* Special content sections */
+
+  .special-content {
+    border-radius: 5px;
+    padding: 20px 10px 20px 10px;
+  }
+
+  .special-content >  .special-content {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .special-content > strong {
+    display: block;
+    text-align: center;
+    border-bottom: 1px solid black;
+    margin-top: -15px;
+  }
+
+  .special-content.cautionary-note {
+    background: #ffe6e6;
+  }
+
+  .special-content.technical-discussion {
+    background: #ffe0cc;
+  }
+
+  .special-content.sidenote {
+    background: #fffae6;
+  }
+
+  .special-content.application {
+    background: #ebfaeb;
+  }
+
+  .special-content.note {
+	  background: #e6ffff
+  }
+
+  .special-content.indirect-reasoning {
+    background: #e6f5ff;
+  }
+
+  .special-content.example {
+    background: #f2e6ff;
+  }
+
+  .special-content.post-hoc-note {
+    background: #ffe6f2;
+  }
+
+  .special-content.quote {
+    background: #e6e6e6;
+  }
+
+  .special-content.scripture {
+    background: #f2e6d9;
+  }
+
+
+  /* Littlefoot footnotes */
+
+  .littlefoot__button {
+    background-color: #dddddd;
+    color: #777777;
+    height: 1rem;
+    padding: 0rem 0.8rem;
+    margin: 0rem 0.1rem;
+    border: none;
+    border-radius: 10px;
+    vertical-align: middle;
+    display: inline-flex;
+    align-items: center; 
+  }
+  </style>
+	<script>
+		var refTagger = {
+			settings: {
+				addLogosLink: true,
+				bibleVersion: "NASB",
+				convertHyperlinks: true,
+				logosLinkIcon: "light",			
+				socialSharing: [],
+				tagChapters: true
+			}
+		};
+	</script>
+ </head>
+ <body>
+  <textarea id="source">
+
+class: center, middle
+
+## Shorter Ministry Introduction and General Overview
+
+
+
+---
+
+
+### Summary
+
+These slides go over the same information as the [Full Ministry Introduction and General Overview Video](https://www.youtube.com/watch?v=OVKDoAWI_20), but just in much less depth. Links to the full treatment of any given topic are found at the top of each slide.
+
+---
+
+
+#### Outline
+
+- [The full video vs. this video](#3)
+- [About me and my path to ministry](#4)
+- [on the backend and Angular on the frontend, building out some of the core financial and logistical infrastructure for the Air Force's complex network of assets.](#5)
+- [This ministry targets text, audio, and video content all three](#6)
+- [The YouTube channel has many of the same useful content enhancements](#7)
+- [Page types used in main content: list pages, aggregation pages, and content pages](#8)
+- [Other notable content-related things](#9)
+- [Dynamic auto-scrolling tables of contents](#10)
+- [Special content sections](#11)
+- [Embedded Bible app windows](#12)
+- [Subject index](#13)
+- [The BibleDocs community: Forum, WhatsApp](#14)
+- [Mailing list](#15)
+- [Community meetings](#16)
+
+---
+
+
+### The full video vs. this video
+
+There's nothing wrong with the full video, and in fact I highly recommend it for anyone interested in taking a deeper dive into what this ministry offers.
+
+It's just, well, longer than I had thought it might end up -- far longer than I wanted for the banner video on the channel. So here we are now, to make a video that is more in line with that purpose. Y'know, *actually* short, rather than 45+ minutes long. Whoopsies.
+
+---
+
+
+### About me and my path to ministry
+
+Link to full treatment: [here](https://www.youtube.com/watch?v=OVKDoAWI_20&t=85s).
+
+My name is Steven Tammen. At the time of this video, I'm 26 years old, and I work as a civilian software engineer for the United States Air Force. At present, I lead an agile software development team of about 6 people. We make full-stack microservice-driven business web applications with C# on the backend and Angular on the frontend, building out some of the core financial and logistical infrastructure for the Air Force's complex network of assets.
+
+College was a long, complicated affair for me (I changed majors twice, changed universities, and ended up a triple major), but when the dust settled, I graduated from the University of Georgia in December 2019 with degrees in Computer Science, Ancient Greek, and Classics (the study of the histories and cultures of Ancient Greece and Rome). I also took a full year of Hebrew.
+
+I ended up doing things this way because I had decided when I was leading a Bible study at Georgia Tech that I wanted to learn relevant things to help me lead such studies better. So I set out on a course to learn the original languages and some ancient history and culture to make me more qualified in these endeavors. I flirted briefly with the idea of seminary, but felt called to the path I took instead, working to support myself.
+
+---
+
+
+### This ministry targets text, audio, and video content all three
+
+Link to full treatment: [here](https://www.youtube.com/watch?v=OVKDoAWI_20&t=312s).
+
+Most content that this ministry offers can be accessed in 4 primary ways:
+
+- As text webpages on the Bible study site (with headers and a table of contents)
+- As slideshow presentations, covering the same material
+- As YouTube videos (going over the slideshow presentations)
+- As audio alone, ripped from the YouTube videos
+
+Everything has summaries, timestamps, hyperlinked transcripts, and all that other cool stuff too. Timestamps are super important for video content, to be able to outline videos topically. Long videos are terribly hard to navigate otherwise.
+
+
+
+---
+
+
+### The YouTube channel has many of the same useful content enhancements
+
+Link to full treatment: [here](https://www.youtube.com/watch?v=OVKDoAWI_20&t=709s).
+
+You can access all the same useful things on the YouTube videos themselves, if you'd rather just subscribe to the YouTube channel and mostly roll video-only. So, for example, the:
+
+- Titles
+- Summaries
+- Timestamps
+- Transcripts
+- Etc.
+
+
+
+---
+
+
+### Page types used in main content: list pages, aggregation pages, and content pages
+
+Link to full treatment: [here](https://www.youtube.com/watch?v=OVKDoAWI_20&t=936s).
+
+The site organizes content in a specific way.
+
+List pages list out studies within any given content type.
+
+Aggregation pages smoosh all the content together so that you can search through it and skim it.
+
+And finally, content pages break things down into bite-sized chunks that can be gone through sequentially, to keep things focused and manageable.
+
+I recommend most people go through studies one content page at a time, but use the larger aggregation pages for searching and skimming.
+
+---
+
+
+### Other notable content-related things
+
+Link to full treatment: [here](https://www.youtube.com/watch?v=OVKDoAWI_20&t=1424s).
+
+I custom-coded a lot of other cool stuff for the site too. So we'll do a brief drive-by overview of some of that
+
+---
+
+
+#### Dynamic auto-scrolling tables of contents
+
+Link to full treatment: [here](https://www.youtube.com/watch?v=OVKDoAWI_20&t=1435s).
+
+The tables of contents on site are smart and always show you where you are in the studies.
+
+
+
+---
+
+
+#### Special content sections
+
+Link to full treatment: [here](https://www.youtube.com/watch?v=OVKDoAWI_20&t=1543s).
+
+I break different types of content out into specific sections with different background colors, to make it easy to find or avoid such sections, depending upon your preferences.
+
+
+
+---
+
+
+#### Embedded Bible app windows
+
+Link to full treatment: [here](https://www.youtube.com/watch?v=OVKDoAWI_20&t=1636s).
+
+I embed windows from a Bible study application directly onto site webpages. Using these windows, you can, for example, directly access lexicons and a full original-language concordance, all without knowing a lick of Greek or Hebrew.
+
+
+
+---
+
+
+#### Subject index
+
+Link to full treatment: [here](https://www.youtube.com/watch?v=OVKDoAWI_20&t=2005s).
+
+Unlike many subject index implementations on other sites, the subject index on this site links down to the section level, rather than just the page level.
+
+Subject links are also bidirectional, meaning sections link back to the subject index in addition to the subject index linking to the sections. This makes subjects instantly discoverable, and is very intuitive.
+
+
+
+---
+
+
+### The BibleDocs community: Forum, WhatsApp
+
+Link to full treatment: [here](https://www.youtube.com/watch?v=OVKDoAWI_20&t=2132s).
+
+This ministry formally runs a web forum. It runs on open-source forum software called [Discourse](https://www.discourse.org/).
+
+We also have more informal conversations on WhatsApp. We use WhatsApp because we have a number of international folks in our community.
+
+You can easily sign up for our community using the registration form on the site, and I'll invite you. Things are private and gatekept rather than being completely public for privacy and security reasons.
+
+---
+
+
+### Mailing list
+
+Link to full treatment: [here](https://www.youtube.com/watch?v=OVKDoAWI_20&t=2372s).
+
+You can also [sign up for the mailing list](https://www.bibledocs.org/mailing-list/) on the site to be kept up to date.
+
+Or subscribe to [the YouTube channel](https://www.youtube.com/channel/UCFk7khraAKf68DZ5GeYEFIw).
+
+Or like [the Facebook page](https://www.facebook.com/BibleDocs/).
+
+Or follow [the Twitter page](https://twitter.com/BibleDocs).
+
+---
+
+
+### Community meetings
+
+Link to full treatment: [here](https://www.youtube.com/watch?v=OVKDoAWI_20&t=2407s).
+
+This ministry runs weekly formal Bible studies, as well as more-casual fellowship meetings.
+
+There is a [meetings page on the site](https://www.bibledocs.org/community-meetings/) entirely dedicated to explaining our meetings. It has a calendar and a map embedded on it.
+
+People who are local to me (in Warner Robins, Georgia, USA, and surrounding environs) are welcome to join us in person, but all the meetings are also completely tied-in to Zoom, so everyone is welcome, no matter where you live in the world.
+
+
+<!-- Footnote List -->
+<div class="footnotes">
+<ol>
+
+  </ol>
+</div>
+  
+
+---
+
+
+#### Outline
+
+- [The full video vs. this video](#3)
+- [About me and my path to ministry](#4)
+- [on the backend and Angular on the frontend, building out some of the core financial and logistical infrastructure for the Air Force's complex network of assets.](#5)
+- [This ministry targets text, audio, and video content all three](#6)
+- [The YouTube channel has many of the same useful content enhancements](#7)
+- [Page types used in main content: list pages, aggregation pages, and content pages](#8)
+- [Other notable content-related things](#9)
+- [Dynamic auto-scrolling tables of contents](#10)
+- [Special content sections](#11)
+- [Embedded Bible app windows](#12)
+- [Subject index](#13)
+- [The BibleDocs community: Forum, WhatsApp](#14)
+- [Mailing list](#15)
+- [Community meetings](#16)
+
+
+
+  </textarea>
+  <script src="https://remarkjs.com/downloads/remark-latest.min.js">
+  </script>
+  <script>
+   var slideshow = remark.create({ ratio: "16:9" });
+  </script>
+<script
+src="https://unpkg.com/littlefoot/dist/littlefoot.js"
+type="application/javascript"
+></script>
+<script type="application/javascript"> littlefoot.default({
+    activateOnHover: true,
+    dismissOnUnhover: true,
+    hoverDelay: 200,
+    buttonTemplate: `
+    <button
+    aria-label="Footnote <% number %>"
+    class="littlefoot__button"
+    id="<% reference %>"
+    />
+    <% number %>
+    </button>
+    `,
+  }) </script>
+  <script>
+   function downloadJSAtOnload() {
+    var element = document.createElement("script");
+    element.src = "https://api.reftagger.com/v2/RefTagger.js";
+    document.body.appendChild(element);
+   }
+   window.addEventListener("load", downloadJSAtOnload, false);
+  </script>
+ </body>
+</html>
