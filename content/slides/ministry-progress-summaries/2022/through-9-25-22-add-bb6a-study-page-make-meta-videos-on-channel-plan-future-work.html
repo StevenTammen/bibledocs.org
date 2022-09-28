@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Slides</title>
+  <meta charset="utf-8">
+  <link
+  rel="stylesheet"
+  href="https://unpkg.com/littlefoot/dist/littlefoot.css"
+/>
+  <style>
+   @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+   @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+   body { 
+    font-family: 'Georgia';
+   }
+
+   ::selection{
+    background-color: #fff6bd;
+   }
+
+   h1, h2, h3, h4, h5, h6 {
+    font-family: 'Verdana';
+    font-weight: bold;
+   }
+
+   h2 {
+    display: block;
+    font-size: 30px !important;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+   }
+
+   /* Style most headers the same across slides, for visual consistency */
+   h3, h4, h5, h6 {
+    display: block;
+    font-size: 18px !important;
+    margin-block-start: 1.2em;
+    margin-block-end: 1.2em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+   }
+
+   /*
+    Don't need extra padding when headers aren't in a special content section
+    with the special content section name in a strong tag (when the header is
+    the very first thing in the sepcial content section div). Too much space otherwise
+   */
+   .special-content h3:first-child,
+   .special-content h4:first-child,
+   .special-content h5:first-child,
+   .special-content h6:first-child
+    {
+      margin-top: 0px;
+    }
+
+   .remark-code, .remark-inline-code {
+    font-family: 'Ubuntu Mono';
+   }
+   
+   .footer {
+    position: absolute;
+    bottom: 5px;
+    right: 50px;
+    height: 40px;
+    width: 800px;
+    color: #006400;
+   }
+
+   a {
+    color: #3b8bba;
+    text-decoration: none;
+  }
+
+  /* Special content sections */
+
+  .special-content {
+    border-radius: 5px;
+    padding: 20px 10px 20px 10px;
+  }
+
+  .special-content >  .special-content {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .special-content > strong {
+    display: block;
+    text-align: center;
+    border-bottom: 1px solid black;
+    margin-top: -15px;
+  }
+
+  .special-content.cautionary-note {
+    background: #ffe6e6;
+  }
+
+  .special-content.technical-discussion {
+    background: #ffe0cc;
+  }
+
+  .special-content.sidenote {
+    background: #fffae6;
+  }
+
+  .special-content.application {
+    background: #ebfaeb;
+  }
+
+  .special-content.note {
+	  background: #e6ffff
+  }
+
+  .special-content.indirect-reasoning {
+    background: #e6f5ff;
+  }
+
+  .special-content.example {
+    background: #f2e6ff;
+  }
+
+  .special-content.post-hoc-note {
+    background: #ffe6f2;
+  }
+
+  .special-content.quote {
+    background: #e6e6e6;
+  }
+
+  .special-content.scripture {
+    background: #f2e6d9;
+  }
+
+
+  /* Littlefoot footnotes */
+
+  .littlefoot__button {
+    background-color: #dddddd;
+    color: #777777;
+    height: 1rem;
+    padding: 0rem 0.8rem;
+    margin: 0rem 0.1rem;
+    border: none;
+    border-radius: 10px;
+    vertical-align: middle;
+    display: inline-flex;
+    align-items: center; 
+  }
+  </style>
+	<script>
+		var refTagger = {
+			settings: {
+				addLogosLink: true,
+				bibleVersion: "NASB",
+				convertHyperlinks: true,
+				logosLinkIcon: "light",			
+				socialSharing: [],
+				tagChapters: true
+			}
+		};
+	</script>
+ </head>
+ <body>
+  <textarea id="source">
+
+class: center, middle
+
+## Through 9/25/22 - Add BB6A study page, make meta videos on channel, plan future work
+
+
+
+---
+
+
+### Summary
+
+Well, it's now been a full month since initial launch. I might wish I had gotten more done thus far, but slow and steady wins the race. I'm still sort of in the set up phase -- in more ways than one. This cycle, I did all the things for the first video of the focused BB6A playlist on the channel, so that I could set up the BB6A study page on the website. I also made 7 meta-related videos for the YouTube channel. 4 of those videos dealt with explaining playlist structure for existing conternt playlists, 2 were content introductions for both BB6A playlists (the more focused version, and the full version), and the last video was a new banner video for the channel that condensed all of the content from the initial intro video I had made... the one that ended up around ~45 minutes long. That was too long for the general banner video (in my opinion), hence the new shorter version too.
+
+The desktop computer I'd ordered also came this cycle, so I spent a good bit of time setting it up. This entire ministry progress summary was produced on the new computer. It is many times more powerful than the old tablet it is replacing.
+---
+
+
+#### Outline
+
+- [Added transcripts](#3)
+- [Considered upcoming future work, somewhat gloomily](#4)
+- [But then came up with a detailed plan of attack](#5)
+- [Phase I: Polishing the basic content related to initial launch](#6)
+- [Phase II: Supporting discussion pages/videos fully, organizing all the already-existing SR4 content](#7)
+- [Phase III: Organizing all the already-existing BB6A content, setting up the fully-optimized video creation workflow, and catching up in other areas so that I can more fully focus on ministry without feeling like I'm behind elsewhere](#8)
+- [Finished all the Phase I tasks this cycle](#9)
+- [Did all the things for the first focused BB6A video, so that I could get the BB6A study page up and started on the website](#10)
+- [Created additional meta-related videos on the YouTube channel](#11)
+- [Did some miscellaneous styling bug-fixes and improvements](#12)
+- [Set up new computer (for the most part)](#13)
+- [Upcoming work](#14)
+
+---
+
+
+### Added transcripts
+
+I added transcripts to the webpages for several of the recent videos I'd worked on organizing.
+
+---
+
+
+### Considered upcoming future work, somewhat gloomily
+
+- There is still a depressingly large backlog of rather unpleasant tasks that must be done.
+  - Some are boring, tedious, busywork (e.g, formatting all the already-existing content appropriately, writing more documentation).
+  - Others are difficult, time-consuming, and unpleasant -- largely due to a bunch of unknowns and the great complexity of the overall system (modifying the codebase for the preprocessor application to support discussion pages)
+  - Then there's a lot of set up I still need to do to be able to do all the video-related things I'd like to in the future. Using a teleprompter with full scripts for every video (made with voice recognition to make it sustainable time-wise), a whiteboard in the background (or drawing on-screen with my tablet?), etc.
+- I had a walk with my roommate to vent a bit, and also to talk through my plans and goals. I'm launched now, to be sure, but there's still so much to be done before I'll feel like I'm truly where I want to be, and that's a bit discouraging. Talking through it with someone who truly understands helps a lot.
+
+---
+
+
+### But then came up with a detailed plan of attack
+
+Deciding that the best way to tackle the large pile of work was with a detailed plan, I set out to make exactly that.
+
+I settled on a plan that has three phases. After each phase (at which point some sort of milestone will be reached), a certain set of things will be able to be done that could not be done before. We'll get to the three phases in a sec, but first, some other general notes on what I decided:
+
+I made the call to put off fully scripted videos, the teleprompter, and whiteboard-type-things (that is, the completely ideal video-generation setup, as things seem to me) as long as I need to, until these things are truly ready. But the change is, I'm going to keep going with the SR4 series in the meantime (making "less-optimal" videos without the scripts/teleprompter and whiteboard demonstrations), even though I hadn't intended to make any videos at all until I got the new setup completely operational. That had been the plan even as recently as a week ago.
+
+Basically, I just don't want to let the perfect get in the way of the good, and I very much wish to do some actual ministry production alongside all the tedious busywork tasks I still need to finish here at the beginning of things. If I just do the latter (as I have been for the last little bit), everything is too painful, and burnout sets in. Which is no good.
+
+Now, as to the actual phases:
+
+---
+
+
+#### Phase I: Polishing the basic content related to initial launch
+
+The Phase I tasks are as follows:
+
+- Doing all the things for the first focused BB6A video, so that I can get the BB6A study page up and started on the website
+- Making some additional meta-related videos on the YouTube channel, to get the content in a more polished state. Videos discussing playlist structure, videos discussing playlist content (introduction videos), and a shorter version of the ministry intro video that ended up over 45 minutes long, to be used as the channel banner video.
+
+The things that can be accomplished after Phase I is completed:
+
+- I can be a bit more vocal about sharing the ministry, even more than I have been. My mentor can link to it in the weekly email posting on his ministry site, to hopefully get a bit more exposure. After I had identified these improvements to make, I wanted to get them done before further trying to increase exposure.
+
+I actually finished all the Phase I tasks this cycle. We'll go over them shortly.
+
+---
+
+
+#### Phase II: Supporting discussion pages/videos fully, organizing all the already-existing SR4 content
+
+The Phase II tasks are as follows:
+
+- Fully coding support for discussion pages in the preprocessor application
+- Writing documentation for discussion pages on the content organization page
+- Catching up on completely polishing all the content from all the already-existing SR4 videos, reviewing the material at the same time (so that I will be able to pick back up more seamlessly when resuming new content generation for the series).
+
+The things that can be accomplished after Phase II is completed:
+
+- I can start making new ministry content: more SR4 videos.
+- Given that I'll finally be adding new content on a consistent schedule, I'll feel even more comfortable with additional ministry exposure -- to the degree that I'll be ready to start getting more involved in local church groups again, something that I have thus far been holding off on in large part. I wanted to completely have the ministry live first.
+- If there is sufficient interest after meeting some local folks, the in-person Bible studies at the house might be started at any point after Phase II is completed (after I am regularly making new content again). It may take some time for this to happen, however, and it ought to be something organic, not forced.
+
+I'm really looking forward to having a social life again (I've been pretty head-down with nose-to-the-grindstone since I graduated from college several years ago -- in order to get the ministry website/YouTube channel launched), so I'd like to get through Phase II ASAP, so I can start getting involved once more in local church groups. I'm also looking forward to the opportunity to serve in these communities too, as I am able.
+
+---
+
+
+#### Phase III: Organizing all the already-existing BB6A content, setting up the fully-optimized video creation workflow, and catching up in other areas so that I can more fully focus on ministry without feeling like I'm behind elsewhere
+
+The Phase III tasks are as follows:
+
+- Catching up on all the already-existing focused BB6A content = ~38 videos or so, which do not follow as strict a structure as the SR4 videos (that is, as completely follow a set of slides), and will therefore be much more painful and time-consuming to timestamp and organize effectively.
+- Getting the voice recognition (to quickly dictate full scripts), teleprompter, and whiteboard parts of my video creation workflow set up, so that the workflow will then be configured exactly as I wish for it to be, with no further outstanding TODOs. Also make several changes to the slides part of the preprocessor to further improve the slides the videos are based on. (For example, not using embedded Bible app windows in order to save space, supporting header nesting in the construction of the auto-generated slides outlines, etc.).
+- Catching up on the huge backlogs of daily progress summaries and random ramblings videos on my other YouTube channels that I need to make/process/post.
+
+The things that can be accomplished after Phase III is completed:
+
+- I'll be able to focus much closer to 100% of my attention on content production, rather than having these other matters steal away my attention. I'm hoping to be able to really crank up the production pace once I'm no longer pulled as many different directions all the time.
+
+Phase III is the last phase. After Phase III I'll be done with everything on my list, and making all new video content with the workflow I've thought out and wish to use in the long-term. Things will then mostly just be a matter of which content I make first.
+
+---
+
+
+### Finished all the Phase I tasks this cycle
+
+Both main categories of tasks.
+
+---
+
+
+#### Did all the things for the first focused BB6A video, so that I could get the BB6A study page up and started on the website
+
+As part of Phase I. In getting this first focused BB6A video organized and formatted, I:
+
+- Built content for it (copy-pasted from Ichthys study, formatted with special content sections as appropriate)
+- Added timestamps (trickier/more time-consuming since this one wasn't directly based off of slides)
+- Subject-tagged all the sections (this took a while)
+- Built video description
+- Pushed everything live on YouTube and on the site
+- Etc.
+
+---
+
+
+#### Created additional meta-related videos on the YouTube channel
+
+As part of Phase I. There were 7 videos that I made:
+
+- [Structure intro for focused BB6A series](https://www.youtube.com/watch?v=dyYkvRs_jt0)
+- [Structure into for full BB6A series](https://www.youtube.com/watch?v=Xxh62cohdRU)
+- [Content intro for focused BB6A series](https://www.youtube.com/watch?v=k179eIM_rVo)
+- [Content intro for full BB6A series](https://www.youtube.com/watch?v=WgJ4WJJMNXI)
+- [Structure intro for full playlists with discussion videos](https://www.youtube.com/watch?v=JFyRsp1DA1o)
+- [Structure intro for focused playlists without discussion videos](https://www.youtube.com/watch?v=u4chzuOlsG8)
+- [A shorter, more-focused version of the general ministry introduction video](https://www.youtube.com/watch?v=zvOO6FoxgYM), around 18 minutes long as opposed to the ~45 minutes of the initial intro video recording.
+
+Prior to making all these recordings, I had to draft content and make slides (at least for most of them). I made a new "not-displayed" content type to generate .gitignore'd slides for all these videos that won't have actual deployed pages of their own. I had to ensure that the appropriate structure was still followed so that the preprocessor application would still work properly to generate slides for things in this new content type. Needed all the right folder nesting with _index.md files, etc.
+
+After recording the 7 videos, I had to do all the post-processing on the videos, upload them to YouTube with appropriate thumbnails, and then organize them appropriately in the relevant playlists. And so on.
+
+Because I was concatenating several different takes this time to be able to share identical content across the two videos in each of the structure intro video types (discussion vs. no discussion, full BB6A vs. focused BB6A), I bumped into issues I hadn't had before (dealing with variable vs. constant frame rate recordings not concatenating properly, and differing audio channels not concatenating properly). I'll spare you the boring details, but it took a lot of research to fix things, and I had to delete and then completely re-do some processing steps partway through. At least now I think I understand everything better, so hopefully things will only go smoother in the future.
+
+---
+
+
+### Did some miscellaneous styling bug-fixes and improvements
+
+- Made a CSS tweak to the slides template to make the highlight background color yellow rather than blue. Looks better in presentations, I think.
+- Fixed CSS bug: Centered icons better (more towards middle of lines) in subject index link shortcode.
+- Fixed CSS bug: Resolved positioning issue with TOC container being offset somewhat from the top of the page.
+
+---
+
+
+### Set up new computer (for the most part)
+
+- The desktop computer I'd ordered finally came. I spent a good bit of time compiling a list of applications I use to make sure I installed everything I wanted to. I'm shifting into using a package manager (called [Chocolatey](https://chocolatey.org/)) for as much as possible too, which should help maintainability in the future.
+- This is the first time I've set up a new computer in like 6 years or something.
+- It went relatively well, but there's just a lot to set up, is all. I still have a few more things to do, which will carry into the next work cycle. I'm hoping to start using the new computer (which is much faster and more powerful) for absolutely everything within the next few days. It should speed up the content generation process, as it has approximately 4x the CPU power and 8x the RAM of the computer it is replacing, with much faster generation 4 NVMe SSD read/write speeds too.
+
+---
+
+
+### Upcoming work
+
+- As mentioned, I actually finished Phase I this cycle, making all the new meta-related videos, as well as finishing things for the first focused BB6A video.
+- So my main focus in the coming days will be the tasks from Phase II. I'm going to focus on coding support for discussion pages first (and then writing documentation for how they work). This means that I will do the review of the SR4 content I've made thus far at the very end of Phase II, right before I start back up content creation in that series. That way things will be maximally fresh in my head, and I can resume more seamlessly.
+
+
+
+
+<!-- Footnote List -->
+<div class="footnotes">
+<ol>
+
+  </ol>
+</div>
+  
+
+---
+
+
+#### Outline
+
+- [Added transcripts](#3)
+- [Considered upcoming future work, somewhat gloomily](#4)
+- [But then came up with a detailed plan of attack](#5)
+- [Phase I: Polishing the basic content related to initial launch](#6)
+- [Phase II: Supporting discussion pages/videos fully, organizing all the already-existing SR4 content](#7)
+- [Phase III: Organizing all the already-existing BB6A content, setting up the fully-optimized video creation workflow, and catching up in other areas so that I can more fully focus on ministry without feeling like I'm behind elsewhere](#8)
+- [Finished all the Phase I tasks this cycle](#9)
+- [Did all the things for the first focused BB6A video, so that I could get the BB6A study page up and started on the website](#10)
+- [Created additional meta-related videos on the YouTube channel](#11)
+- [Did some miscellaneous styling bug-fixes and improvements](#12)
+- [Set up new computer (for the most part)](#13)
+- [Upcoming work](#14)
+
+
+
+  </textarea>
+  <script src="https://remarkjs.com/downloads/remark-latest.min.js">
+  </script>
+  <script>
+   var slideshow = remark.create({ ratio: "16:9" });
+  </script>
+<script
+src="https://unpkg.com/littlefoot/dist/littlefoot.js"
+type="application/javascript"
+></script>
+<script type="application/javascript"> littlefoot.default({
+    activateOnHover: true,
+    dismissOnUnhover: true,
+    hoverDelay: 200,
+    buttonTemplate: `
+    <button
+    aria-label="Footnote <% number %>"
+    class="littlefoot__button"
+    id="<% reference %>"
+    />
+    <% number %>
+    </button>
+    `,
+  }) </script>
+  <script>
+   function downloadJSAtOnload() {
+    var element = document.createElement("script");
+    element.src = "https://api.reftagger.com/v2/RefTagger.js";
+    document.body.appendChild(element);
+   }
+   window.addEventListener("load", downloadJSAtOnload, false);
+  </script>
+ </body>
+</html>
