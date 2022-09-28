@@ -1358,8 +1358,8 @@ The desktop computer I'd ordered also came this cycle, so I spent a good bit of 
 &nbsp;&nbsp;&nbsp;[11:44](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=704s) - Phase II: Supporting discussion pages/videos fully, organizing all the already-existing SR4 content  
 &nbsp;&nbsp;&nbsp;[18:50](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=1130s) - Phase III: Organizing all the already-existing BB6A content, setting up the fully-optimized video creation workflow, and catching up in other areas so that I can more fully focus on ministry without feeling like I'm behind elsewhere  
 [23:19](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=1399s) - Finished all the Phase I tasks this cycle  
-[23:36](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=1416s) - Did all the things for the first focused BB6A video, so that I could get the BB6A study page up and started on the website  
-[25:01](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=1501s) - Created additional meta-related videos on the YouTube channel  
+&nbsp;&nbsp;&nbsp;[23:36](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=1416s) - Did all the things for the first focused BB6A video, so that I could get the BB6A study page up and started on the website  
+&nbsp;&nbsp;&nbsp;[25:01](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=1501s) - Created additional meta-related videos on the YouTube channel  
 [30:45](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=1845s) - Did some miscellaneous styling bug-fixes and improvements  
 [31:34](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=1894s) - Set up new computer (for the most part)  
 [33:55](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=2035s) - Upcoming work  
