@@ -36,9 +36,9 @@ The desktop computer I'd ordered also came this cycle, so I spent a good bit of 
 [02:13](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=133s) - Added transcripts  
 [02:40](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=160s) - Considered upcoming future work, somewhat gloomily  
 [06:28](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=388s) - But then came up with a detailed plan of attack  
-   [08:43](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=523s) - Phase I: Polishing the basic content related to initial launch  
-   [11:44](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=704s) - Phase II: Supporting discussion pages/videos fully, organizing all the already-existing SR4 content  
-   [18:50](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=1130s) - Phase III: Organizing all the already-existing BB6A content, setting up the fully-optimized video creation workflow, and catching up in other areas so that I can more fully focus on ministry without feeling like I'm behind elsewhere  
+&nbsp;&nbsp;&nbsp;[08:43](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=523s) - Phase I: Polishing the basic content related to initial launch  
+&nbsp;&nbsp;&nbsp;[11:44](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=704s) - Phase II: Supporting discussion pages/videos fully, organizing all the already-existing SR4 content  
+&nbsp;&nbsp;&nbsp;[18:50](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=1130s) - Phase III: Organizing all the already-existing BB6A content, setting up the fully-optimized video creation workflow, and catching up in other areas so that I can more fully focus on ministry without feeling like I'm behind elsewhere  
 [23:19](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=1399s) - Finished all the Phase I tasks this cycle  
 [23:36](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=1416s) - Did all the things for the first focused BB6A video, so that I could get the BB6A study page up and started on the website  
 [25:01](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=1501s) - Created additional meta-related videos on the YouTube channel  
