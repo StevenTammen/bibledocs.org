@@ -973,4 +973,8 @@ In fact, God soon will put down the beast forever, but in the meantime, we belie
 
 {{% /transcript %}}
 
+{{% discussion-pages %}}
+
+{{% /discussion-pages %}}
+
 {{% section-navigation %}}

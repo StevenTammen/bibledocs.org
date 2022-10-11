@@ -1,29 +1,68 @@
+
+{{ if .Page.IsSection}}
+
+{{ $siblings := .Page.Parent.Sections }}
 <div class="prev-next-post pure-g">
 <div class="pure-u-1-24" style="text-align: left;">
-{{ if .Page.NextInSection }}
-<a href="{{ .Page.NextInSection.Permalink }}"><i class="fa fa-chevron-left"></i></a>
+{{ with $siblings.ByWeight.Next .Page }}
+<a href="{{ .Permalink }}"><i class="fa fa-chevron-left"></i></a>
 {{ end }}
 </div>
 <div class="pure-u-9-24">
-{{ if .Page.NextInSection }}
+{{ with $siblings.ByWeight.Next .Page }}
 <nav class="prev">
-<a href="{{ .Page.NextInSection.Permalink }}">{{ .Page.NextInSection.Title }}</a>
+<a href="{{ .Permalink }}">{{ .Title }}</a>
 </nav>
 {{ end }}
 </div>
 <div class="pure-u-4-24" style="text-align: center;">
-<a href="{{ .Page.CurrentSection.Permalink }}">Index</a>
+<a href="{{ .Page.Parent.Permalink }}">Index</a>
 </div>
 <div class="pure-u-9-24">
-{{ if .Page.PrevInSection }}
+{{ with $siblings.ByWeight.Prev .Page }}
 <nav class="next">
-<a href="{{ .Page.PrevInSection.Permalink }}">{{ .Page.PrevInSection.Title }}</a>
+<a href="{{ .Permalink }}">{{ .Title }}</a>
 </nav>
 {{ end }}
 </div>
 <div class="pure-u-1-24" style="text-align: right;">
-{{ if .Page.PrevInSection }}
-<a href="{{ .Page.PrevInSection.Permalink }}"><i class="fa fa-chevron-right"></i></a>
+{{ with $siblings.ByWeight.Prev .Page }}
+<a href="{{ .Permalink }}"><i class="fa fa-chevron-right"></i></a>
 {{ end }}
 </div>
 </div>
+
+{{ else }}
+
+{{ $siblings := .Page.Parent.RegularPages }}
+<div class="prev-next-post pure-g">
+<div class="pure-u-1-24" style="text-align: left;">
+{{ with $siblings.ByWeight.Next .Page }}
+<a href="{{ .Permalink }}"><i class="fa fa-chevron-left"></i></a>
+{{ end }}
+</div>
+<div class="pure-u-9-24">
+{{ with $siblings.ByWeight.Next .Page }}
+<nav class="prev">
+<a href="{{ .Permalink }}">{{ .Title }}</a>
+</nav>
+{{ end }}
+</div>
+<div class="pure-u-4-24" style="text-align: center;">
+<a href="{{ .Page.Parent.Permalink }}">Index</a>
+</div>
+<div class="pure-u-9-24">
+{{ with $siblings.ByWeight.Prev .Page }}
+<nav class="next">
+<a href="{{ .Permalink }}">{{ .Title }}</a>
+</nav>
+{{ end }}
+</div>
+<div class="pure-u-1-24" style="text-align: right;">
+{{ with $siblings.ByWeight.Prev .Page }}
+<a href="{{ .Permalink }}"><i class="fa fa-chevron-right"></i></a>
+{{ end }}
+</div>
+</div>
+
+{{ end }}

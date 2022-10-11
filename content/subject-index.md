@@ -10,7 +10,7 @@ title: Subject Index
 
 {{% subject-index-link
 content-type="Self-gen Q&A"
-content-type-slugified="self-gen-q-a"
+content-type-slugified="questions-and-answers"
 link="/questions-and-answers/self-generated/on-honoring-and-obeying-parents/however-if-our-parents-are-out-of-line-there-are-exceptions/#abuse"
 study-title="On Honoring and Obeying Parents"
 page-title="However, if Our Parents Are Out of Line, There Are Exceptions"
@@ -21,7 +21,7 @@ header-title="Abuse"
 
 {{% subject-index-link
 content-type="Self-gen Q&A"
-content-type-slugified="self-gen-q-a"
+content-type-slugified="questions-and-answers"
 link="/questions-and-answers/self-generated/on-honoring-and-obeying-parents/however-if-our-parents-are-out-of-line-there-are-exceptions/#spousal-abuse-and-divorce"
 study-title="On Honoring and Obeying Parents"
 page-title="However, if Our Parents Are Out of Line, There Are Exceptions"
@@ -32,7 +32,7 @@ header-title="Spousal abuse and divorce"
 
 {{% subject-index-link
 content-type="Longer Topical"
-content-type-slugified="longer-topical"
+content-type-slugified="longer-topical-studies"
 link="/longer-topical-studies/ichthys-sr4-satans-world-system/like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devil-s-realm/#the-actual-introduction-adam-and-eve-and-us"
 study-title="Ichthys' SR4 - Satan's World System"
 page-title="Like Adam and Eve, we live in a broken world - as strangers in the devil's realm"
@@ -45,7 +45,7 @@ header-title="The actual introduction: Adam and Eve, and us"
 
 {{% subject-index-link
 content-type="Reader Q&A"
-content-type-slugified="reader-q-a"
+content-type-slugified="questions-and-answers"
 link="/questions-and-answers/reader-correspondence/on-the-possibility-of-multiple-rahabs/dealing-with-the-main-arguments-against-a-single-rahab-interpretation/#an-approach-to-answering-this-question-refuting-an-argument-representative-of-the-the-opposing-position-point-by-point"
 study-title="On the Possibility of Multiple Rahabs"
 page-title="Dealing With the Main Arguments Against a Single Rahab Interpretation"
@@ -58,7 +58,7 @@ header-title="An approach to answering this question: refuting an argument repre
 
 {{% subject-index-link
 content-type="Self-gen Q&A"
-content-type-slugified="self-gen-q-a"
+content-type-slugified="questions-and-answers"
 link="/questions-and-answers/self-generated/on-honoring-and-obeying-parents/but-what-about-matters-that-tend-toward-gray-more-than-black-or-white/#cultural-context-is-important"
 study-title="On Honoring and Obeying Parents"
 page-title="But What About Matters That Tend Toward Gray More Than Black or White?"
@@ -69,7 +69,7 @@ header-title="Cultural context is important"
 
 {{% subject-index-link
 content-type="Self-gen Q&A"
-content-type-slugified="self-gen-q-a"
+content-type-slugified="questions-and-answers"
 link="/questions-and-answers/self-generated/on-honoring-and-obeying-parents/but-what-about-matters-that-tend-toward-gray-more-than-black-or-white/#back-to-the-main-thrust-of-the-question"
 study-title="On Honoring and Obeying Parents"
 page-title="But What About Matters That Tend Toward Gray More Than Black or White?"
@@ -82,7 +82,7 @@ header-title="Back to the main thrust of the question"
 
 {{% subject-index-link
 content-type="Self-gen Q&A"
-content-type-slugified="self-gen-q-a"
+content-type-slugified="questions-and-answers"
 link="/questions-and-answers/self-generated/on-honoring-and-obeying-parents/however-if-our-parents-are-out-of-line-there-are-exceptions/#should-we-step-in-if-people-aren-t-parenting-how-we-would"
 study-title="On Honoring and Obeying Parents"
 page-title="However, if Our Parents Are Out of Line, There Are Exceptions"
@@ -93,7 +93,7 @@ header-title="Should we step in if people aren't parenting how we would?"
 
 {{% subject-index-link
 content-type="Self-gen Q&A"
-content-type-slugified="self-gen-q-a"
+content-type-slugified="questions-and-answers"
 link="/questions-and-answers/self-generated/on-honoring-and-obeying-parents/however-if-our-parents-are-out-of-line-there-are-exceptions/#abuse"
 study-title="On Honoring and Obeying Parents"
 page-title="However, if Our Parents Are Out of Line, There Are Exceptions"
@@ -106,7 +106,7 @@ header-title="Abuse"
 
 {{% subject-index-link
 content-type="Reader Q&A"
-content-type-slugified="reader-q-a"
+content-type-slugified="questions-and-answers"
 link="/questions-and-answers/reader-correspondence/on-the-possibility-of-multiple-rahabs/handling-several-other-matters/#it-s-not-the-same-rahab-because-the-chronology-does-not-work"
 study-title="On the Possibility of Multiple Rahabs"
 page-title="Handling Several Other Matters"
@@ -117,7 +117,7 @@ header-title="\"It's not the same Rahab because the chronology does not work\""
 
 {{% subject-index-link
 content-type="Longer Topical"
-content-type-slugified="longer-topical"
+content-type-slugified="longer-topical-studies"
 link="/longer-topical-studies/ichthys-bb6a-the-christian-walk/confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall/#confess-to-the-lord"
 study-title="Ichthys' BB6A Peripateology - The Christian Walk"
 page-title="Confession, forgiveness, avoiding self-loathing, and reorienting towards God after we fall"
@@ -130,7 +130,7 @@ header-title="Confess to the Lord"
 
 {{% subject-index-link
 content-type="Self-gen Q&A"
-content-type-slugified="self-gen-q-a"
+content-type-slugified="questions-and-answers"
 link="/questions-and-answers/self-generated/on-honoring-and-obeying-parents/but-what-about-matters-that-tend-toward-gray-more-than-black-or-white/#cultural-context-is-important"
 study-title="On Honoring and Obeying Parents"
 page-title="But What About Matters That Tend Toward Gray More Than Black or White?"
@@ -142,8 +142,8 @@ header-title="Cultural context is important"
 ### Definite articles > Importance of {#definite-articles-importance-of}
 
 {{% subject-index-link
-content-type="Verse-by-verse"
-content-type-slugified="verse-by-verse"
+content-type="Genesis"
+content-type-slugified="verse-by-verse-studies"
 link="/verse-by-verse-studies/genesis/genesis-1/genesis-1-1-what-beginning-is-in-view/#the-beginning-mentioned-in-genesis-1-1-and-also-john-1-1-is-indefinite-not-definite"
 study-title="Genesis 1"
 page-title="Genesis 1:1 - What \"Beginning\" Is in View?"
@@ -156,7 +156,7 @@ header-title="The \"beginning\" mentioned in Genesis 1:1 (and also John 1:1) is 
 
 {{% subject-index-link
 content-type="Self-gen Q&A"
-content-type-slugified="self-gen-q-a"
+content-type-slugified="questions-and-answers"
 link="/questions-and-answers/self-generated/on-honoring-and-obeying-parents/however-if-our-parents-are-out-of-line-there-are-exceptions/#spousal-abuse-and-divorce"
 study-title="On Honoring and Obeying Parents"
 page-title="However, if Our Parents Are Out of Line, There Are Exceptions"
@@ -169,7 +169,7 @@ header-title="Spousal abuse and divorce"
 
 {{% subject-index-link
 content-type="Shorter Topical"
-content-type-slugified="shorter-topical"
+content-type-slugified="shorter-topical-studies"
 link="/shorter-topical-studies/some-christians-will-achieve-greater-eternal-rewards-than-others/introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others/"
 study-title="Some Christians Will Achieve Greater Eternal Rewards Than Others"
 page-title="Introduction to the idea that some Christians will receive greater eternal rewards than others"
@@ -180,7 +180,7 @@ page-title="Introduction to the idea that some Christians will receive greater e
 
 {{% subject-index-link
 content-type="Shorter Topical"
-content-type-slugified="shorter-topical"
+content-type-slugified="shorter-topical-studies"
 link="/shorter-topical-studies/some-christians-will-achieve-greater-eternal-rewards-than-others/introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others/#however-when-the-rewards-in-question-are-eternal-people-seem-to-be-a-bit-more-skittish"
 study-title="Some Christians Will Achieve Greater Eternal Rewards Than Others"
 page-title="Introduction to the idea that some Christians will receive greater eternal rewards than others"
@@ -191,7 +191,7 @@ header-title="However, when the rewards in question are eternal, people seem to 
 
 {{% subject-index-link
 content-type="Shorter Topical"
-content-type-slugified="shorter-topical"
+content-type-slugified="shorter-topical-studies"
 link="/shorter-topical-studies/some-christians-will-achieve-greater-eternal-rewards-than-others/introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others/#some-general-passages-dealing-with-differing-levels-of-eternal-reward"
 study-title="Some Christians Will Achieve Greater Eternal Rewards Than Others"
 page-title="Introduction to the idea that some Christians will receive greater eternal rewards than others"
@@ -204,7 +204,7 @@ header-title="Some general passages dealing with differing levels of eternal rew
 
 {{% subject-index-link
 content-type="Longer Topical"
-content-type-slugified="longer-topical"
+content-type-slugified="longer-topical-studies"
 link="/longer-topical-studies/ichthys-sr4-satans-world-system/like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devil-s-realm/#the-contrast-between-pre-fall-paradise-and-post-fall-realities"
 study-title="Ichthys' SR4 - Satan's World System"
 page-title="Like Adam and Eve, we live in a broken world - as strangers in the devil's realm"
@@ -217,7 +217,7 @@ header-title="The contrast between pre-fall paradise and post-fall realities"
 
 {{% subject-index-link
 content-type="Longer Topical"
-content-type-slugified="longer-topical"
+content-type-slugified="longer-topical-studies"
 link="/longer-topical-studies/ichthys-bb6a-the-christian-walk/confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall/#accept-god-s-forgiveness"
 study-title="Ichthys' BB6A Peripateology - The Christian Walk"
 page-title="Confession, forgiveness, avoiding self-loathing, and reorienting towards God after we fall"
@@ -230,7 +230,7 @@ header-title="Accept God's forgiveness"
 
 {{% subject-index-link
 content-type="Reader Q&A"
-content-type-slugified="reader-q-a"
+content-type-slugified="questions-and-answers"
 link="/questions-and-answers/reader-correspondence/on-the-possibility-of-multiple-rahabs/the-supposed-scandal-of-a-prostitute-in-the-line-of-christ/#more-on-the-women-in-the-genealogy-of-christ"
 study-title="On the Possibility of Multiple Rahabs"
 page-title="The Supposed Scandal of a Prostitute in the Line of Christ"
@@ -241,7 +241,7 @@ header-title="More on the women in the genealogy of Christ"
 
 {{% subject-index-link
 content-type="Reader Q&A"
-content-type-slugified="reader-q-a"
+content-type-slugified="questions-and-answers"
 link="/questions-and-answers/reader-correspondence/on-the-possibility-of-multiple-rahabs/the-supposed-scandal-of-a-prostitute-in-the-line-of-christ/#but-they-were-included-in-matthew-s-genealogy-specifically-to-showcase-god-s-surpassing-grace-towards-mankind"
 study-title="On the Possibility of Multiple Rahabs"
 page-title="The Supposed Scandal of a Prostitute in the Line of Christ"
@@ -253,8 +253,8 @@ header-title="But they were included in Matthew's genealogy specifically to show
 ### God > Externality to spacetime {#god-externality-to-spacetime}
 
 {{% subject-index-link
-content-type="Verse-by-verse"
-content-type-slugified="verse-by-verse"
+content-type="Genesis"
+content-type-slugified="verse-by-verse-studies"
 link="/verse-by-verse-studies/genesis/genesis-1/genesis-1-1-what-beginning-is-in-view/#how-did-god-exist-before-space-and-time"
 study-title="Genesis 1"
 page-title="Genesis 1:1 - What \"Beginning\" Is in View?"
@@ -264,8 +264,8 @@ header-title="How did God exist before space and time?"
 ### God > Name of God {#god-name-of-god}
 
 {{% subject-index-link
-content-type="Verse-by-verse"
-content-type-slugified="verse-by-verse"
+content-type="Genesis"
+content-type-slugified="verse-by-verse-studies"
 link="/verse-by-verse-studies/genesis/genesis-1/genesis-1-1-what-beginning-is-in-view/#how-did-god-exist-before-space-and-time"
 study-title="Genesis 1"
 page-title="Genesis 1:1 - What \"Beginning\" Is in View?"
@@ -276,7 +276,7 @@ header-title="How did God exist before space and time?"
 
 {{% subject-index-link
 content-type="Reader Q&A"
-content-type-slugified="reader-q-a"
+content-type-slugified="questions-and-answers"
 link="/questions-and-answers/reader-correspondence/on-the-possibility-of-multiple-rahabs/handling-several-other-matters/#neither-josephus-nor-joshua-mention-a-marriage-between-the-prostitute-rahab-and-salmon"
 study-title="On the Possibility of Multiple Rahabs"
 page-title="Handling Several Other Matters"
@@ -291,7 +291,7 @@ header-title="\"Neither Josephus nor Joshua mention a marriage between the prost
 
 {{% subject-index-link
 content-type="Reader Q&A"
-content-type-slugified="reader-q-a"
+content-type-slugified="questions-and-answers"
 link="/questions-and-answers/reader-correspondence/on-the-possibility-of-multiple-rahabs/the-supposed-scandal-of-a-prostitute-in-the-line-of-christ/#there-could-never-be-a-harlot-in-the-line-of-jesus-christ-how-heretical"
 study-title="On the Possibility of Multiple Rahabs"
 page-title="The Supposed Scandal of a Prostitute in the Line of Christ"
@@ -304,7 +304,7 @@ header-title="There could never be a harlot in the line of Jesus Christ! How her
 
 {{% subject-index-link
 content-type="Self-gen Q&A"
-content-type-slugified="self-gen-q-a"
+content-type-slugified="questions-and-answers"
 link="/questions-and-answers/self-generated/on-honoring-and-obeying-parents/however-if-our-parents-are-out-of-line-there-are-exceptions/#should-we-step-in-if-people-aren-t-parenting-how-we-would"
 study-title="On Honoring and Obeying Parents"
 page-title="However, if Our Parents Are Out of Line, There Are Exceptions"
@@ -315,7 +315,7 @@ header-title="Should we step in if people aren't parenting how we would?"
 
 {{% subject-index-link
 content-type="Self-gen Q&A"
-content-type-slugified="self-gen-q-a"
+content-type-slugified="questions-and-answers"
 link="/questions-and-answers/self-generated/on-honoring-and-obeying-parents/however-if-our-parents-are-out-of-line-there-are-exceptions/#should-we-step-in-if-people-aren-t-parenting-how-we-would"
 study-title="On Honoring and Obeying Parents"
 page-title="However, if Our Parents Are Out of Line, There Are Exceptions"
@@ -328,7 +328,7 @@ header-title="Should we step in if people aren't parenting how we would?"
 
 {{% subject-index-link
 content-type="Shorter Topical"
-content-type-slugified="shorter-topical"
+content-type-slugified="shorter-topical-studies"
 link="/shorter-topical-studies/some-christians-will-achieve-greater-eternal-rewards-than-others/the-parable-of-the-talents-and-the-parable-of-the-minas/#interpreting-the-parable-of-the-talents-and-the-parable-of-the-minas"
 study-title="Some Christians Will Achieve Greater Eternal Rewards Than Others"
 page-title="The Parable of the Talents and the Parable of the Minas"
@@ -339,7 +339,7 @@ header-title="Interpreting the parable of the talents and the parable of the min
 
 {{% subject-index-link
 content-type="Shorter Topical"
-content-type-slugified="shorter-topical"
+content-type-slugified="shorter-topical-studies"
 link="/shorter-topical-studies/some-christians-will-achieve-greater-eternal-rewards-than-others/the-parable-of-the-talents-and-the-parable-of-the-minas/#interpreting-the-parable-of-the-talents-and-the-parable-of-the-minas"
 study-title="Some Christians Will Achieve Greater Eternal Rewards Than Others"
 page-title="The Parable of the Talents and the Parable of the Minas"
@@ -354,7 +354,7 @@ header-title="Interpreting the parable of the talents and the parable of the min
 
 {{% subject-index-link
 content-type="Self-gen Q&A"
-content-type-slugified="self-gen-q-a"
+content-type-slugified="questions-and-answers"
 link="/questions-and-answers/self-generated/on-honoring-and-obeying-parents/but-what-about-matters-that-tend-toward-gray-more-than-black-or-white/#career"
 study-title="On Honoring and Obeying Parents"
 page-title="But What About Matters That Tend Toward Gray More Than Black or White?"
@@ -365,7 +365,7 @@ header-title="Career"
 
 {{% subject-index-link
 content-type="Self-gen Q&A"
-content-type-slugified="self-gen-q-a"
+content-type-slugified="questions-and-answers"
 link="/questions-and-answers/self-generated/on-honoring-and-obeying-parents/but-what-about-matters-that-tend-toward-gray-more-than-black-or-white/#choice-of-friends"
 study-title="On Honoring and Obeying Parents"
 page-title="But What About Matters That Tend Toward Gray More Than Black or White?"
@@ -376,7 +376,7 @@ header-title="Choice of friends"
 
 {{% subject-index-link
 content-type="Self-gen Q&A"
-content-type-slugified="self-gen-q-a"
+content-type-slugified="questions-and-answers"
 link="/questions-and-answers/self-generated/on-honoring-and-obeying-parents/but-what-about-matters-that-tend-toward-gray-more-than-black-or-white/#choice-of-significant-other"
 study-title="On Honoring and Obeying Parents"
 page-title="But What About Matters That Tend Toward Gray More Than Black or White?"
@@ -387,7 +387,7 @@ header-title="Choice of significant other"
 
 {{% subject-index-link
 content-type="Self-gen Q&A"
-content-type-slugified="self-gen-q-a"
+content-type-slugified="questions-and-answers"
 link="/questions-and-answers/self-generated/on-honoring-and-obeying-parents/but-what-about-matters-that-tend-toward-gray-more-than-black-or-white/#spiritual-approach"
 study-title="On Honoring and Obeying Parents"
 page-title="But What About Matters That Tend Toward Gray More Than Black or White?"
@@ -398,7 +398,7 @@ header-title="Spiritual approach"
 
 {{% subject-index-link
 content-type="Self-gen Q&A"
-content-type-slugified="self-gen-q-a"
+content-type-slugified="questions-and-answers"
 link="/questions-and-answers/self-generated/on-honoring-and-obeying-parents/scripture-is-clear-that-we-are-to-honor-and-obey-our-parents/"
 study-title="On Honoring and Obeying Parents"
 page-title="Scripture Is Clear That We Are to Honor and Obey Our Parents"
@@ -409,7 +409,7 @@ page-title="Scripture Is Clear That We Are to Honor and Obey Our Parents"
 
 {{% subject-index-link
 content-type="Self-gen Q&A"
-content-type-slugified="self-gen-q-a"
+content-type-slugified="questions-and-answers"
 link="/questions-and-answers/self-generated/on-honoring-and-obeying-parents/scripture-is-clear-that-we-are-to-honor-and-obey-our-parents/#some-direct-quotes-from-scripture-honoring-parents"
 study-title="On Honoring and Obeying Parents"
 page-title="Scripture Is Clear That We Are to Honor and Obey Our Parents"
@@ -420,7 +420,7 @@ header-title="Some direct quotes from scripture: honoring parents"
 
 {{% subject-index-link
 content-type="Self-gen Q&A"
-content-type-slugified="self-gen-q-a"
+content-type-slugified="questions-and-answers"
 link="/questions-and-answers/self-generated/on-honoring-and-obeying-parents/scripture-is-clear-that-we-are-to-honor-and-obey-our-parents/"
 study-title="On Honoring and Obeying Parents"
 page-title="Scripture Is Clear That We Are to Honor and Obey Our Parents"
@@ -431,7 +431,7 @@ page-title="Scripture Is Clear That We Are to Honor and Obey Our Parents"
 
 {{% subject-index-link
 content-type="Self-gen Q&A"
-content-type-slugified="self-gen-q-a"
+content-type-slugified="questions-and-answers"
 link="/questions-and-answers/self-generated/on-honoring-and-obeying-parents/scripture-is-clear-that-we-are-to-honor-and-obey-our-parents/#some-direct-quotes-from-scripture-obeying-parents"
 study-title="On Honoring and Obeying Parents"
 page-title="Scripture Is Clear That We Are to Honor and Obey Our Parents"
@@ -444,7 +444,7 @@ header-title="Some direct quotes from scripture: obeying parents"
 
 {{% subject-index-link
 content-type="Longer Topical"
-content-type-slugified="longer-topical"
+content-type-slugified="longer-topical-studies"
 link="/longer-topical-studies/ichthys-bb6a-the-christian-walk/confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall/#avoid-self-loathing"
 study-title="Ichthys' BB6A Peripateology - The Christian Walk"
 page-title="Confession, forgiveness, avoiding self-loathing, and reorienting towards God after we fall"
@@ -455,7 +455,7 @@ header-title="Avoid self-loathing"
 
 {{% subject-index-link
 content-type="Longer Topical"
-content-type-slugified="longer-topical"
+content-type-slugified="longer-topical-studies"
 link="/longer-topical-studies/ichthys-sr4-satans-world-system/like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devil-s-realm/#god-s-promise-of-deliverance"
 study-title="Ichthys' SR4 - Satan's World System"
 page-title="Like Adam and Eve, we live in a broken world - as strangers in the devil's realm"
@@ -466,11 +466,53 @@ header-title="God's promise of deliverance"
 
 {{% subject-index-link
 content-type="Reader Q&A"
-content-type-slugified="reader-q-a"
+content-type-slugified="questions-and-answers"
 link="/questions-and-answers/reader-correspondence/on-the-possibility-of-multiple-rahabs/dealing-with-the-main-arguments-against-a-single-rahab-interpretation/"
 study-title="On the Possibility of Multiple Rahabs"
 page-title="Dealing With the Main Arguments Against a Single Rahab Interpretation"
 
+%}}
+
+## Satan {#satan}
+
+### Satan > Is already positionally defeated {#satan-is-already-positionally-defeated}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr4-satans-world-system/level-of-depth-calling-many-deceived-too-harsh-why-god-allows-satan-control/#why-doesn-t-god-just-defeat-satan-already"
+study-title="Ichthys' SR4 - Satan's World System"
+page-title="Discussion - Level of depth; calling many deceived -- too harsh?; why God allows Satan control"
+header-title="Why doesn't God just defeat Satan already?"
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr4-satans-world-system/#why-doesn-t-god-just-defeat-satan-already"
+study-title="Ichthys' SR4 - Satan's World System"
+page-title="Introduction to SR4 - Satan's World System"
+header-title="Why doesn't God just defeat Satan already?"
+%}}
+
+### Satan > The enemy of believers {#satan-the-enemy-of-believers}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr4-satans-world-system/level-of-depth-calling-many-deceived-too-harsh-why-god-allows-satan-control/#is-this-much-depth-really-necessary"
+study-title="Ichthys' SR4 - Satan's World System"
+page-title="Discussion - Level of depth; calling many deceived -- too harsh?; why God allows Satan control"
+header-title="Is this much depth really necessary?"
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr4-satans-world-system/#is-this-much-depth-really-necessary"
+study-title="Ichthys' SR4 - Satan's World System"
+page-title="Introduction to SR4 - Satan's World System"
+header-title="Is this much depth really necessary?"
 %}}
 
 ## Satan's rebellion {#satan-s-rebellion}
@@ -479,7 +521,7 @@ page-title="Dealing With the Main Arguments Against a Single Rahab Interpretatio
 
 {{% subject-index-link
 content-type="Longer Topical"
-content-type-slugified="longer-topical"
+content-type-slugified="longer-topical-studies"
 link="/longer-topical-studies/ichthys-sr4-satans-world-system/like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devil-s-realm/#the-introduction-s-title-satan-s-rebellion-and-fall"
 study-title="Ichthys' SR4 - Satan's World System"
 page-title="Like Adam and Eve, we live in a broken world - as strangers in the devil's realm"
@@ -492,7 +534,7 @@ header-title="The Introduction's title: Satan's rebellion and fall"
 
 {{% subject-index-link
 content-type="Longer Topical"
-content-type-slugified="longer-topical"
+content-type-slugified="longer-topical-studies"
 link="/longer-topical-studies/ichthys-bb6a-the-christian-walk/confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall/#avoid-self-loathing"
 study-title="Ichthys' BB6A Peripateology - The Christian Walk"
 page-title="Confession, forgiveness, avoiding self-loathing, and reorienting towards God after we fall"
@@ -503,7 +545,7 @@ header-title="Avoid self-loathing"
 
 {{% subject-index-link
 content-type="Longer Topical"
-content-type-slugified="longer-topical"
+content-type-slugified="longer-topical-studies"
 link="/longer-topical-studies/ichthys-bb6a-the-christian-walk/confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall/#what-to-make-of-the-fact-that-we-all-sin"
 study-title="Ichthys' BB6A Peripateology - The Christian Walk"
 page-title="Confession, forgiveness, avoiding self-loathing, and reorienting towards God after we fall"
@@ -514,7 +556,7 @@ header-title="What to make of the fact that we all sin?"
 
 {{% subject-index-link
 content-type="Longer Topical"
-content-type-slugified="longer-topical"
+content-type-slugified="longer-topical-studies"
 link="/longer-topical-studies/ichthys-bb6a-the-christian-walk/confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall/#looking-back-is-not-productive-for-us-as-christians"
 study-title="Ichthys' BB6A Peripateology - The Christian Walk"
 page-title="Confession, forgiveness, avoiding self-loathing, and reorienting towards God after we fall"
@@ -527,7 +569,7 @@ header-title="Looking back is not productive for us as Christians"
 
 {{% subject-index-link
 content-type="Longer Topical"
-content-type-slugified="longer-topical"
+content-type-slugified="longer-topical-studies"
 link="/longer-topical-studies/ichthys-bb6a-the-christian-walk/confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall/#reorient"
 study-title="Ichthys' BB6A Peripateology - The Christian Walk"
 page-title="Confession, forgiveness, avoiding self-loathing, and reorienting towards God after we fall"
@@ -538,7 +580,7 @@ header-title="Reorient"
 
 {{% subject-index-link
 content-type="Self-gen Q&A"
-content-type-slugified="self-gen-q-a"
+content-type-slugified="questions-and-answers"
 link="/questions-and-answers/self-generated/on-honoring-and-obeying-parents/however-if-our-parents-are-out-of-line-there-are-exceptions/#spousal-abuse-and-divorce"
 study-title="On Honoring and Obeying Parents"
 page-title="However, if Our Parents Are Out of Line, There Are Exceptions"
@@ -548,8 +590,8 @@ header-title="Spousal abuse and divorce"
 ## Tetragrammaton {#tetragrammaton}
 
 {{% subject-index-link
-content-type="Verse-by-verse"
-content-type-slugified="verse-by-verse"
+content-type="Genesis"
+content-type-slugified="verse-by-verse-studies"
 link="/verse-by-verse-studies/genesis/genesis-1/genesis-1-1-what-beginning-is-in-view/#how-did-god-exist-before-space-and-time"
 study-title="Genesis 1"
 page-title="Genesis 1:1 - What \"Beginning\" Is in View?"
@@ -562,7 +604,7 @@ header-title="How did God exist before space and time?"
 
 {{% subject-index-link
 content-type="Shorter Topical"
-content-type-slugified="shorter-topical"
+content-type-slugified="shorter-topical-studies"
 link="/shorter-topical-studies/some-christians-will-achieve-greater-eternal-rewards-than-others/the-parable-of-the-talents-and-the-parable-of-the-minas/#tangential-aside-on-bible-versions-that-translate-talent-with-some-actual-dollar-amount"
 study-title="Some Christians Will Achieve Greater Eternal Rewards Than Others"
 page-title="The Parable of the Talents and the Parable of the Minas"
@@ -575,7 +617,7 @@ header-title="Tangential aside: On Bible versions that translate 'talent' with s
 
 {{% subject-index-link
 content-type="Reader Q&A"
-content-type-slugified="reader-q-a"
+content-type-slugified="questions-and-answers"
 link="/questions-and-answers/reader-correspondence/on-the-possibility-of-multiple-rahabs/handling-several-other-matters/#dr-luginbill-of-ichthys-com-responding"
 study-title="On the Possibility of Multiple Rahabs"
 page-title="Handling Several Other Matters"
@@ -584,11 +626,31 @@ header-title="Dr. Luginbill of Ichthys.com responding"
 
 ## Truth {#truth}
 
+### Truth > Most people are blind to it {#truth-most-people-are-blind-to-it}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr4-satans-world-system/level-of-depth-calling-many-deceived-too-harsh-why-god-allows-satan-control/#are-many-christians-really-so-helpless"
+study-title="Ichthys' SR4 - Satan's World System"
+page-title="Discussion - Level of depth; calling many deceived -- too harsh?; why God allows Satan control"
+header-title="Are many Christians really so helpless?"
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr4-satans-world-system/#are-many-christians-really-so-helpless"
+study-title="Ichthys' SR4 - Satan's World System"
+page-title="Introduction to SR4 - Satan's World System"
+header-title="Are many Christians really so helpless?"
+%}}
+
 ### Truth > Plato's allegory of the cave {#truth-plato-s-allegory-of-the-cave}
 
 {{% subject-index-link
 content-type="Longer Topical"
-content-type-slugified="longer-topical"
+content-type-slugified="longer-topical-studies"
 link="/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr4-satans-world-system/#plato-s-allegory-of-the-cave"
 study-title="Ichthys' SR4 - Satan's World System"
 page-title="Introduction to SR4 - Satan's World System"

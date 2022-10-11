@@ -27,6 +27,18 @@
   <li class="pure-menu-item" id="menu-writing-level" >
     <a class="pure-menu-link" href="javascript:toggleWritingLevel();"><i class='fas fa-toggle-on fa-fw'></i>Toggle Writing Level</a>
   </li>
+  <li class="pure-menu-item" id="menu-content-toggle-on" >
+    <a class="pure-menu-link" href="javascript:showAllContentSections();"><i class='fas fa-toggle-on fa-fw'></i>Show Content</a>
+  </li>
+  <li class="pure-menu-item" id="menu-content-toggle-off" >
+    <a class="pure-menu-link" href="javascript:hideAllContentSections();"><i class='fas fa-toggle-off fa-fw'></i>Hide Content</a>
+  </li>
+  <li class="pure-menu-item" id="menu-transcripts-toggle-on" >
+    <a class="pure-menu-link" href="javascript:showAllTranscriptSections();"><i class='fas fa-toggle-on fa-fw'></i>Show Transcripts</a>
+  </li>
+  <li class="pure-menu-item" id="menu-transcripts-toggle-off" >
+    <a class="pure-menu-link" href="javascript:hideAllTranscriptSections();"><i class='fas fa-toggle-off fa-fw'></i>Hide Transcripts</a>
+  </li>
   <!-- <li class="pure-menu-item">
     <a class="pure-menu-link" {{ printf "href=https://github.com/StevenTammen/bibledocs.org/edit/master/content%s.md" (strings.TrimSuffix "/" .Permalink) | safeHTMLAttr }}>
       <i class='fab fa-github fa-fw'></i>Edit on GitHub

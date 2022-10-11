@@ -452,6 +452,102 @@ initialTranscriptSectionsDisplay();
 var transcriptSectionsPreference=getCookie("transcriptSectionsPreference");
 </script>
 
+<script>
+function showDiscussionPage(selector) {
+	$('.discussion-pages.' + selector).removeClass("display-none");
+	$('.discussion-pages-header.show.' + selector).addClass("display-none");
+	$('.discussion-pages-header.hide.' + selector).removeClass("display-none");
+
+	// Add links relating to content section to TOC
+	$('.discussion-pages.' + selector).each(function(i, el) {
+		$(el).children(':header').each(function(j, header) {
+			var link = $(header).attr('id');
+			var selector = `#toc li a[href="#${link}"]`;
+			$(selector).parent().show(); // show li's not links
+		});
+	});
+}
+
+function hideDiscussionPage(selector) {
+	$('.discussion-pages.' + selector).addClass("display-none");
+	$('.discussion-pages-header.hide.' + selector).addClass("display-none");
+	$('.discussion-pages-header.show.' + selector).removeClass("display-none");
+
+	// Remove links relating to content section from TOC
+	$('.discussion-pages.' + selector).each(function(i, el) {
+		$(el).children(':header').each(function(j, header) {
+			var link = $(header).attr('id');
+			var selector = `#toc li a[href="#${link}"]`;
+			$(selector).parent().hide(); // hide li's not links
+		});
+	});
+}
+
+function showAllDiscussionPages() {
+	$('.discussion-pages').removeClass("display-none");
+	$('.discussion-pages-header.show').addClass("display-none");
+	$('.discussion-pages-header.hide').removeClass("display-none");
+
+	// Add links relating to discussion pages to TOC
+	$('.discussion-pages').each(function(i, el) {
+		$(el).children(':header').each(function(j, header) {
+			var link = $(header).attr('id');
+			var selector = `#toc li a[href="#${link}"]`;
+			$(selector).parent().show(); // show li's not links
+		});
+	});
+}
+
+function hideAllDiscussionPages() {
+	$('.discussion-pages').addClass("display-none");
+	$('.discussion-pages-header.hide').addClass("display-none");
+	$('.discussion-pages-header.show').removeClass("display-none");
+
+	// Remove links relating to discussion pages from TOC
+	$('.discussion-pages').each(function(i, el) {
+		$(el).children(':header').each(function(j, header) {
+			var link = $(header).attr('id');
+			var selector = `#toc li a[href="#${link}"]`;
+			$(selector).parent().hide(); // hide li's not links
+		});
+	});
+}
+
+function initialDiscussionPagesDisplay() {
+	var discussionPagesPreference=getCookie("discussionPagesPreference");
+	if(discussionPagesPreference == "show")
+	{
+		showAllDiscussionPages();
+	}
+	else if(discussionPagesPreference == "hide")
+	{
+		hideAllDiscussionPages();
+	}
+	// if user hasn't set cookie, set cookie and hide discussion pages
+	else { // discussionPagesPreference = ""
+		setCookie('discussionPagesPreference', 'hide', 1825);
+		hideAllDiscussionPages();
+	}
+}
+
+function toggleDiscussionPages() {
+	// If currently showing discussion pages
+	if(discussionPagesPreference == "show") {
+		hideAllDiscussionPages();
+		discussionPagesPreference = "hide";
+	}
+
+	// If currently hiding discussion pages
+	else if(discussionPagesPreference == "hide") {
+		showAllDiscussionPages();
+		discussionPagesPreference = "show";
+	}
+}
+
+initialDiscussionPagesDisplay();
+var discussionPagesPreference=getCookie("discussionPagesPreference");
+</script>
+
 <script src="/js/littlefoot.js" type="application/javascript" ></script> 
 <script type="application/javascript"> littlefoot.default({
   activateOnHover: true,

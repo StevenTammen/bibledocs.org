@@ -13,3 +13,5 @@ private/
 
 # Ignore Python virtual environment folder (for the preprocessor application)
 .venv/
+
+.idea/

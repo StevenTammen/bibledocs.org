@@ -183,15 +183,15 @@ code {
 
 .basic, .intermediate, .advanced, .mixed,
 .basic:visited, .intermediate:visited, .advanced:visited, .mixed:visited,
-.shorter-topical, .longer-topical, .reader-q-a, .self-gen-q-a, .verse-by-verse,
-.shorter-topical:visited, .longer-topical:visited, .reader-q-a:visited, .self-gen-q-a:visited, .verse-by-verse:visited {
+.shorter-topical-studies, .longer-topical-studies, .questions-and-answers, .verse-by-verse-studies,
+.shorter-topical-studies:visited, .longer-topical-studies:visited, .questions-and-answers:visited, .verse-by-verse-studies:visited {
 	color: #f7f7f7; 
 }
 
 /* .basic:focus, .intermediate:focus, .advanced:focus, .mixed:focus,
 .basic:hover, .intermediate:hover, .advanced:hover, .mixed:hover,
-.shorter-topical:focus, .longer-topical:focus, .reader-q-a:focus, .self-gen-q-a:focus, .verse-by-verse:focus,
-.shorter-topical:hover, .longer-topical:hover, .reader-q-a:hover, .self-gen-q-a:hover, .verse-by-verse:hover { */
+.shorter-topical-studies:focus, .longer-topical-studies:focus, .questions-and-answers:focus, .verse-by-verse-studies:focus,
+.shorter-topical-studies:hover, .longer-topical-studies:hover, .questions-and-answers:hover, .verse-by-verse-studies:hover { */
 .list-item a, .list-item a:focus, .list-item a:hover {
 	text-decoration: none;
 }
@@ -212,23 +212,19 @@ code {
 	background: #734d26;
 }
 
-.shorter-topical {
+.shorter-topical-studies {
 	background: #cc0000
 }
 
-.longer-topical {
+.longer-topical-studies {
 	background: #ff3300
 }
 
-.reader-q-a {
+.questions-and-answers {
 	background: #248f24;
 }
 
-.self-gen-q-a {
-	background: #0059b3;
-}
-
-.verse-by-verse {
+.verse-by-verse-studies {
 	background: #4700b3;
 }
 

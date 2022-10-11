@@ -475,4 +475,8 @@ It should also be noted that long post-mortems following spiritual defeats serve
 
 {{% /transcript %}}
 
+{{% discussion-pages %}}
+
+{{% /discussion-pages %}}
+
 {{% section-navigation %}}
