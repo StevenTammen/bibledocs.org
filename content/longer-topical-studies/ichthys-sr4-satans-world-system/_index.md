@@ -742,7 +742,7 @@ video=""
 
 audio=""
 
-slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr4-satans-world-system/level-of-depth-calling-many-deceived-too harsh-why-god-allows-satan-control/"
+slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr4-satans-world-system/level-of-depth-calling-many-deceived-too-harsh-why-god-allows-satan-control/"
 %}}
 
 #### Summary {#discussion-level-of-depth-calling-many-deceived-too-harsh-why-god-allows-satan-control-summary}
