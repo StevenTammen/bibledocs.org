@@ -13,7 +13,7 @@ layout: content-page
 ## Video {#video}
 
 {{% video
-src=""
+src="https://www.youtube.com/embed/HpKO1ZHIzPQ"
 
 playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
 
@@ -21,7 +21,7 @@ video=""
 
 audio=""
 
-slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/"
+slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/through-10-9-22/"
 %}}
 
 ## Summary {#summary}
