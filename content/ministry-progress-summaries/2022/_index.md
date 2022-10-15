@@ -271,14 +271,14 @@ Although, if you wish to get a better idea of who I am as an individual -- to pu
 
 
 
-## [Through 9/11/22 - forum threads, organizing YouTube Channel, tech research](/ministry-progress-summaries/2022/through-9-11-22-forum-threads-organizing-youtube-channel-tech-research) {#through-9-11-22-forum-threads-organizing-youtube-channel-tech-research}
+## [Through 9/11/22](/ministry-progress-summaries/2022/through-9-11-22-forum-threads-organizing-youtube-channel-tech-research) {#through-9-11-22}
 {{< subjects >}}
 
 {{< /subjects >}}
 
 
 
-### Video {#through-9-11-22-forum-threads-organizing-youtube-channel-tech-research-video}
+### Video {#through-9-11-22-video}
 
 {{% video
 src="https://www.youtube.com/embed/COWc4Fo8t40"
@@ -292,11 +292,11 @@ audio=""
 slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/through-9-11-22-forum-threads-organizing-youtube-channel-tech-research/"
 %}}
 
-### Summary {#through-9-11-22-forum-threads-organizing-youtube-channel-tech-research-summary}
+### Summary {#through-9-11-22-summary}
 
 This first summary video here, I go over all of the things that happened in the first couple weeks since ministry launch. Even though we had a three-day weekend in here, I got really caught up in a forum conversation, and didn't perhaps make as much forward progress as I had initially thought I might. I also spent a lot of time researching various things relating to technology to hopefully make future video content better for this ministry. But, nonetheless, I did get a number of things done, especially in terms of organizing the YouTube channel more. 
 
-### Timestamps {#through-9-11-22-forum-threads-organizing-youtube-channel-tech-research-timestamps}
+### Timestamps {#through-9-11-22-timestamps}
 
 [00:00](https://www.youtube.com/watch?v=COWc4Fo8t40&t=0s) - Introduction  
 [00:35](https://www.youtube.com/watch?v=COWc4Fo8t40&t=35s) - Outline  
@@ -314,11 +314,11 @@ This first summary video here, I go over all of the things that happened in the 
 
 {{% toggleable-content %}}
 
-### Content {#through-9-11-22-forum-threads-organizing-youtube-channel-tech-research-content}
+### Content {#through-9-11-22-content}
 
 <!-- --- -->
 
-#### Emailing back people who responded to ministry launch email {#through-9-11-22-forum-threads-organizing-youtube-channel-tech-research-emailing-back-people-who-responded-to-ministry-launch-email}
+#### Emailing back people who responded to ministry launch email {#through-9-11-22-emailing-back-people-who-responded-to-ministry-launch-email}
 
 Thanks to all who took the time to reach out after launch. I got to have a couple conversations with people I hadn't talked to in a while, and it really made my day.
 
@@ -330,7 +330,7 @@ But hey, starting small is no big deal. I'm not doing it for fame or money, afte
 
 <!-- --- -->
 
-#### A debate on the forum about matters concerning submitting to government authority, and what exactly that means {#through-9-11-22-forum-threads-organizing-youtube-channel-tech-research-a-debate-on-the-forum-about-matters-concerning-submitting-to-government-authority-and-what-exactly-that-means}
+#### A debate on the forum about matters concerning submitting to government authority, and what exactly that means {#through-9-11-22-a-debate-on-the-forum-about-matters-concerning-submitting-to-government-authority-and-what-exactly-that-means}
 
 The timing wasn't the best considering I'd just launched, but a good friend and I had an extremely active debate going on on the forum for the span of a few days in this cycle. I spent a lot of my time outside of my 9-5 job there, including most of the three day weekend over labor day.
 
@@ -359,7 +359,7 @@ Most of the forum isn't that over-the-top! I promise.
 
 <!-- --- -->
 
-#### Discussion about forum structure moving forward {#through-9-11-22-forum-threads-organizing-youtube-channel-tech-research-discussion-about-forum-structure-moving-forward}
+#### Discussion about forum structure moving forward {#through-9-11-22-discussion-about-forum-structure-moving-forward}
 
 I won't put everyone to sleep by spending much time here, but now that I formally launched, I had some necessary conversations with folks about exactly what that means for the forum I've been sysadmin-ing for several years, and what it will mean moving forward.
 
@@ -371,7 +371,7 @@ As I say, practical admin stuff.
 
 <!-- --- -->
 
-#### Helping my good friend start setting up a ministry website of his own {#through-9-11-22-forum-threads-organizing-youtube-channel-tech-research-helping-my-good-friend-start-setting-up-a-ministry-website-of-his-own}
+#### Helping my good friend start setting up a ministry website of his own {#through-9-11-22-helping-my-good-friend-start-setting-up-a-ministry-website-of-his-own}
 
 He'd already converted all of his content into markdown, but we spent a couple hours getting the local webserver and template/theme set up on his computer, so he can see what everything looks like as a website.
 
@@ -379,7 +379,7 @@ I had to rework some of the templating for him since he is laying his content ou
 
 <!-- --- -->
 
-#### Researching/buying technology of various forms, things that will help future content {#through-9-11-22-forum-threads-organizing-youtube-channel-tech-research-researching-buying-technology-of-various-forms-things-that-will-help-future-content}
+#### Researching/buying technology of various forms, things that will help future content {#through-9-11-22-researching-buying-technology-of-various-forms-things-that-will-help-future-content}
 
 First of all, I ordered a new desktop computer to help smooth everything out in the workflow by means of lots more power (it should be here in a few days). This has been a long time in coming, since the Surface Pro tablet I've been using since mid-college is getting pretty long-in-the-tooth at this point.
 
@@ -409,7 +409,7 @@ I haven't purchased these things yet, but probably will soon, after the new comp
 
 <!-- --- -->
 
-#### Doing everything to be able to resume the SR4 video series, when the time is right {#through-9-11-22-forum-threads-organizing-youtube-channel-tech-research-doing-everything-to-be-able-to-resume-the-sr4-video-series-when-the-time-is-right}
+#### Doing everything to be able to resume the SR4 video series, when the time is right {#through-9-11-22-doing-everything-to-be-able-to-resume-the-sr4-video-series-when-the-time-is-right}
 
 I had a document mapping out all the remaining content in the section from the study I have yet to cover. But I couldn't find it!
 
@@ -417,7 +417,7 @@ So I spent a looong time looking for it, and finally found it. Then I verified i
 
 <!-- --- -->
 
-#### Planning out BB6A content grouping {#through-9-11-22-forum-threads-organizing-youtube-channel-tech-research-planning-out-bb6a-content-grouping}
+#### Planning out BB6A content grouping {#through-9-11-22-planning-out-bb6a-content-grouping}
 
 I watched all the way through what had been weeks 53, 54, and 55, where I had intentionally taught through all the points upfront before any discussion.
 
@@ -427,7 +427,7 @@ All of these will be split out into a separate playlist from the earlier videos 
 
 <!-- --- -->
 
-#### Organizing the YouTube channel better {#through-9-11-22-forum-threads-organizing-youtube-channel-tech-research-organizing-the-youtube-channel-better}
+#### Organizing the YouTube channel better {#through-9-11-22-organizing-the-youtube-channel-better}
 
 SR4 series
 
@@ -446,13 +446,13 @@ Both
 
 <!-- --- -->
 
-#### Asking a nearby school about parking policy and grounds use after-hours {#through-9-11-22-forum-threads-organizing-youtube-channel-tech-research-asking-a-nearby-school-about-parking-policy-and-grounds-use-after-hours}
+#### Asking a nearby school about parking policy and grounds use after-hours {#through-9-11-22-asking-a-nearby-school-about-parking-policy-and-grounds-use-after-hours}
 
 Just as it sounds. Will be relevant for potentially improving the parking situation for the in-person side of Bible studies, eventually. Still no response, unfortunately.
 
 <!-- --- -->
 
-#### Upcoming work {#through-9-11-22-forum-threads-organizing-youtube-channel-tech-research-upcoming-work}
+#### Upcoming work {#through-9-11-22-upcoming-work}
 
 One immediate focus will be finishing off the initial organization of already-existing content on the YouTube channel (the ~115 videos or so that are already there, about 60 of which are more organized and focused). In that vein, I'm planning on making a few more initial videos:
 
@@ -469,7 +469,7 @@ Finally, I'm planning to keep researching all that I need to do to finish prepar
 
 {{% toggleable-transcript %}}
 
-### Video/audio transcript {#through-9-11-22-forum-threads-organizing-youtube-channel-tech-research-video-audio-transcript}
+### Video/audio transcript {#through-9-11-22-video-audio-transcript}
 
 <a href="https://www.youtube.com/watch?v=COWc4Fo8t40&t=0">0:00</a> - hey guys so right now i'm going to be<br/>
 <a href="https://www.youtube.com/watch?v=COWc4Fo8t40&t=2">0:02</a> - making the ministry progress summary<br/>
@@ -1321,14 +1321,14 @@ Finally, I'm planning to keep researching all that I need to do to finish prepar
 
 
 
-## [Through 9/25/22 - Add BB6A study page, make meta videos on channel, plan future work](/ministry-progress-summaries/2022/through-9-25-22-add-bb6a-study-page-make-meta-videos-on-channel-plan-future-work) {#through-9-25-22-add-bb6a-study-page-make-meta-videos-on-channel-plan-future-work}
+## [Through 9/25/22](/ministry-progress-summaries/2022/through-9-25-22-add-bb6a-study-page-make-meta-videos-on-channel-plan-future-work) {#through-9-25-22}
 {{< subjects >}}
 
 {{< /subjects >}}
 
 
 
-### Video {#through-9-25-22-add-bb6a-study-page-make-meta-videos-on-channel-plan-future-work-video}
+### Video {#through-9-25-22-video}
 
 {{% video
 src="https://www.youtube.com/embed/XFEHTiaqGU0"
@@ -1342,13 +1342,13 @@ audio=""
 slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/through-9-25-22-add-bb6a-study-page-make-meta-videos-on-channel-plan-future-work/"
 %}}
 
-### Summary {#through-9-25-22-add-bb6a-study-page-make-meta-videos-on-channel-plan-future-work-summary}
+### Summary {#through-9-25-22-summary}
 
 Well, it's now been a full month since initial launch. I might wish I had gotten more done thus far, but slow and steady wins the race. I'm still sort of in the set up phase -- in more ways than one. This cycle, I did all the things for the first video of the focused BB6A playlist on the channel, so that I could set up the BB6A study page on the website. I also made 7 meta-related videos for the YouTube channel. 4 of those videos dealt with explaining playlist structure for existing conternt playlists, 2 were content introductions for both BB6A playlists (the more focused version, and the full version), and the last video was a new banner video for the channel that condensed all of the content from the initial intro video I had made... the one that ended up around ~45 minutes long. That was too long for the general banner video (in my opinion), hence the new shorter version too.
 
 The desktop computer I'd ordered also came this cycle, so I spent a good bit of time setting it up. This entire ministry progress summary was produced on the new computer. It is many times more powerful than the old tablet it is replacing.
 
-### Timestamps {#through-9-25-22-add-bb6a-study-page-make-meta-videos-on-channel-plan-future-work-timestamps}
+### Timestamps {#through-9-25-22-timestamps}
 
 [00:00](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=0s) - Introduction  
 [02:13](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=133s) - Added transcripts  
@@ -1367,17 +1367,17 @@ The desktop computer I'd ordered also came this cycle, so I spent a good bit of 
 
 {{% toggleable-content %}}
 
-### Content {#through-9-25-22-add-bb6a-study-page-make-meta-videos-on-channel-plan-future-work-content}
+### Content {#through-9-25-22-content}
 
 <!-- --- -->
 
-#### Added transcripts {#through-9-25-22-add-bb6a-study-page-make-meta-videos-on-channel-plan-future-work-added-transcripts}
+#### Added transcripts {#through-9-25-22-added-transcripts}
 
 I added transcripts to the webpages for several of the recent videos I'd worked on organizing.
 
 <!-- --- -->
 
-#### Considered upcoming future work, somewhat gloomily {#through-9-25-22-add-bb6a-study-page-make-meta-videos-on-channel-plan-future-work-considered-upcoming-future-work-somewhat-gloomily}
+#### Considered upcoming future work, somewhat gloomily {#through-9-25-22-considered-upcoming-future-work-somewhat-gloomily}
 
 - There is still a depressingly large backlog of rather unpleasant tasks that must be done.
   - Some are boring, tedious, busywork (e.g, formatting all the already-existing content appropriately, writing more documentation).
@@ -1387,7 +1387,7 @@ I added transcripts to the webpages for several of the recent videos I'd worked 
 
 <!-- --- -->
 
-#### But then came up with a detailed plan of attack {#through-9-25-22-add-bb6a-study-page-make-meta-videos-on-channel-plan-future-work-but-then-came-up-with-a-detailed-plan-of-attack}
+#### But then came up with a detailed plan of attack {#through-9-25-22-but-then-came-up-with-a-detailed-plan-of-attack}
 
 Deciding that the best way to tackle the large pile of work was with a detailed plan, I set out to make exactly that.
 
@@ -1401,7 +1401,7 @@ Now, as to the actual phases:
 
 <!-- --- -->
 
-##### Phase I: Polishing the basic content related to initial launch {#through-9-25-22-add-bb6a-study-page-make-meta-videos-on-channel-plan-future-work-phase-i-polishing-the-basic-content-related-to-initial-launch}
+##### Phase I: Polishing the basic content related to initial launch {#through-9-25-22-phase-i-polishing-the-basic-content-related-to-initial-launch}
 
 The Phase I tasks are as follows:
 
@@ -1416,7 +1416,7 @@ I actually finished all the Phase I tasks this cycle. We'll go over them shortly
 
 <!-- --- -->
 
-##### Phase II: Supporting discussion pages/videos fully, organizing all the already-existing SR4 content {#through-9-25-22-add-bb6a-study-page-make-meta-videos-on-channel-plan-future-work-phase-ii-supporting-discussion-pages-videos-fully-organizing-all-the-already-existing-sr4-content}
+##### Phase II: Supporting discussion pages/videos fully, organizing all the already-existing SR4 content {#through-9-25-22-phase-ii-supporting-discussion-pages-videos-fully-organizing-all-the-already-existing-sr4-content}
 
 The Phase II tasks are as follows:
 
@@ -1434,7 +1434,7 @@ I'm really looking forward to having a social life again (I've been pretty head-
 
 <!-- --- -->
 
-##### Phase III: Organizing all the already-existing BB6A content, setting up the fully-optimized video creation workflow, and catching up in other areas so that I can more fully focus on ministry without feeling like I'm behind elsewhere {#through-9-25-22-add-bb6a-study-page-make-meta-videos-on-channel-plan-future-work-phase-iii-organizing-all-the-already-existing-bb6a-content-setting-up-the-fully-optimized-video-creation-workflow-and-catching-up-in-other-areas-so-that-i-can-more-fully-focus-on-ministry-without-feeling-like-i-m-behind-elsewhere}
+##### Phase III: Organizing all the already-existing BB6A content, setting up the fully-optimized video creation workflow, and catching up in other areas so that I can more fully focus on ministry without feeling like I'm behind elsewhere {#through-9-25-22-phase-iii-organizing-all-the-already-existing-bb6a-content-setting-up-the-fully-optimized-video-creation-workflow-and-catching-up-in-other-areas-so-that-i-can-more-fully-focus-on-ministry-without-feeling-like-i-m-behind-elsewhere}
 
 The Phase III tasks are as follows:
 
@@ -1450,13 +1450,13 @@ Phase III is the last phase. After Phase III I'll be done with everything on my 
 
 <!-- --- -->
 
-#### Finished all the Phase I tasks this cycle {#through-9-25-22-add-bb6a-study-page-make-meta-videos-on-channel-plan-future-work-finished-all-the-phase-i-tasks-this-cycle}
+#### Finished all the Phase I tasks this cycle {#through-9-25-22-finished-all-the-phase-i-tasks-this-cycle}
 
 Both main categories of tasks.
 
 <!-- --- -->
 
-##### Did all the things for the first focused BB6A video, so that I could get the BB6A study page up and started on the website {#through-9-25-22-add-bb6a-study-page-make-meta-videos-on-channel-plan-future-work-did-all-the-things-for-the-first-focused-bb6a-video-so-that-i-could-get-the-bb6a-study-page-up-and-started-on-the-website}
+##### Did all the things for the first focused BB6A video, so that I could get the BB6A study page up and started on the website {#through-9-25-22-did-all-the-things-for-the-first-focused-bb6a-video-so-that-i-could-get-the-bb6a-study-page-up-and-started-on-the-website}
 
 As part of Phase I. In getting this first focused BB6A video organized and formatted, I:
 
@@ -1469,7 +1469,7 @@ As part of Phase I. In getting this first focused BB6A video organized and forma
 
 <!-- --- -->
 
-##### Created additional meta-related videos on the YouTube channel {#through-9-25-22-add-bb6a-study-page-make-meta-videos-on-channel-plan-future-work-created-additional-meta-related-videos-on-the-youtube-channel}
+##### Created additional meta-related videos on the YouTube channel {#through-9-25-22-created-additional-meta-related-videos-on-the-youtube-channel}
 
 As part of Phase I. There were 7 videos that I made:
 
@@ -1489,7 +1489,7 @@ Because I was concatenating several different takes this time to be able to shar
 
 <!-- --- -->
 
-#### Did some miscellaneous styling bug-fixes and improvements {#through-9-25-22-add-bb6a-study-page-make-meta-videos-on-channel-plan-future-work-did-some-miscellaneous-styling-bug-fixes-and-improvements}
+#### Did some miscellaneous styling bug-fixes and improvements {#through-9-25-22-did-some-miscellaneous-styling-bug-fixes-and-improvements}
 
 - Made a CSS tweak to the slides template to make the highlight background color yellow rather than blue. Looks better in presentations, I think.
 - Fixed CSS bug: Centered icons better (more towards middle of lines) in subject index link shortcode.
@@ -1497,7 +1497,7 @@ Because I was concatenating several different takes this time to be able to shar
 
 <!-- --- -->
 
-#### Set up new computer (for the most part) {#through-9-25-22-add-bb6a-study-page-make-meta-videos-on-channel-plan-future-work-set-up-new-computer-for-the-most-part}
+#### Set up new computer (for the most part) {#through-9-25-22-set-up-new-computer-for-the-most-part}
 
 - The desktop computer I'd ordered finally came. I spent a good bit of time compiling a list of applications I use to make sure I installed everything I wanted to. I'm shifting into using a package manager (called [Chocolatey](https://chocolatey.org/)) for as much as possible too, which should help maintainability in the future.
 - This is the first time I've set up a new computer in like 6 years or something.
@@ -1505,7 +1505,7 @@ Because I was concatenating several different takes this time to be able to shar
 
 <!-- --- -->
 
-#### Upcoming work {#through-9-25-22-add-bb6a-study-page-make-meta-videos-on-channel-plan-future-work-upcoming-work}
+#### Upcoming work {#through-9-25-22-upcoming-work}
 
 - As mentioned, I actually finished Phase I this cycle, making all the new meta-related videos, as well as finishing things for the first focused BB6A video.
 - So my main focus in the coming days will be the tasks from Phase II. I'm going to focus on coding support for discussion pages first (and then writing documentation for how they work). This means that I will do the review of the SR4 content I've made thus far at the very end of Phase II, right before I start back up content creation in that series. That way things will be maximally fresh in my head, and I can resume more seamlessly.
@@ -1514,7 +1514,7 @@ Because I was concatenating several different takes this time to be able to shar
 
 {{% toggleable-transcript %}}
 
-### Video/audio transcript {#through-9-25-22-add-bb6a-study-page-make-meta-videos-on-channel-plan-future-work-video-audio-transcript}
+### Video/audio transcript {#through-9-25-22-video-audio-transcript}
 
 <a href="https://www.youtube.com/watch?v=XFEHTiaqGU0&t=0">0:00</a> - hey guys so right now I'm going to be making the second Ministry progress summary update here and so it's been<br/>
 <a href="https://www.youtube.com/watch?v=XFEHTiaqGU0&t=7">0:07</a> - about a month here since the ministry launched and uh I'm going to be going over some of the things that I've got<br/>
@@ -1883,6 +1883,180 @@ Because I was concatenating several different takes this time to be able to shar
 <a href="https://www.youtube.com/watch?v=XFEHTiaqGU0&t=2167">36:07</a> - of new content which is again something I have a much easier time kind of getting myself to do<br/>
 <a href="https://www.youtube.com/watch?v=XFEHTiaqGU0&t=2173">36:13</a> - with all of the busy work uh tedious tasks that I still have to do here in the initial setup phase and so<br/>
 <a href="https://www.youtube.com/watch?v=XFEHTiaqGU0&t=2180">36:20</a> - um with that I will talk to everyone again next time<br/>
+
+{{% /toggleable-transcript %}}
+
+
+
+<br/>
+
+
+
+## [Through 10/9/22](/ministry-progress-summaries/2022/through-10-9-22) {#through-10-9-22}
+{{< subjects >}}
+
+{{< /subjects >}}
+
+
+
+### Video {#through-10-9-22-video}
+
+{{% video
+src=""
+
+playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
+
+video=""
+
+audio=""
+
+slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/"
+%}}
+
+### Summary {#through-10-9-22-summary}
+
+This cycle was dominated by two primary areas: tech research and setup, and coding support for discussion pages.
+
+On the tech side of things, I did research, bought, and started setting up several different things. A stenomask and voice recognition software to be able to dictate prose at high speeds, a separate wireless lapel mic system to use for content recordings and live presentations, and a portable monitor setup for working on-the-go, so that I can perhaps work in a local public library on the weekends, as sometimes I find that working in a public place can help me focus better.
+
+Aside from all that, the biggest task knocked out this cycle was coding support for discussion pages in the Python preprocessor application for static sites that I've been developing over the last few months. This was a large coding effort, taking me many days. But I'm very glad to have it behind me now, so that it will no longer be hanging over my head.
+
+### Timestamps {#through-10-9-22-timestamps}
+
+[00:00](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=0s) - Introduction  
+[04:54](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=294s) - Outline  
+[06:34](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=394s) - Did lots, lots more computer setup stuff, including things related to the video recording workflow  
+[08:10](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=490s) - Researched, ordered, and started to set up things related to voice recognition  
+[13:45](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=825s) - Researched and ordered a better mic setup for making content videos  
+[16:33](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=993s) - Researched, ordered, and planned out a portable computer setup to work at a local public library on weekends  
+[18:40](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=1120s) - Pondered the multi-website future that is coming  
+[21:44](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=1304s) - Misc. discussions from the ministry community  
+[26:34](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=1594s) - Modified the preprocessor Python application to support discussion pages  
+[32:42](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=1962s) - Upcoming work  
+[35:40](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=2140s) - Outro  
+
+{{% toggleable-content %}}
+
+### Content {#through-10-9-22-content}
+
+<!-- --- -->
+
+#### Did lots, lots more computer setup stuff, including things related to the video recording workflow {#through-10-9-22-did-lots-lots-more-computer-setup-stuff-including-things-related-to-the-video-recording-workflow}
+
+- Set up SSH keypair on new computer, added it to GitHub, SourceTree, DigitalOcean
+- Installed Snagit. Set TV monitor to run at 4K (but upscale text so that text size doesn't change much). So that Snagit recordings will be at much higher resolution, and hopefully webcam footage will be much clearer/sharper than it has been. Toggle off reduce-to-1080p Snagit setting
+- Made new GoPro video profiles to shoot in 4K, linear mode, without video stabilization. Hopefully better color balance too.
+- Set up Python 3 on new computer, built new local virtual environments
+- Set up properly ignoring .git/, .venv/ folders in project repos on new computer. There's a specific DropBox command to run
+- Installed Auto-Editor in the global Python environment via `pip`
+- Removed OneDrive-related folders on Windows 11, cleaning up after its sloppy uninstaller. Boo.
+- Debugged framerate matters (converting variable framerate to constant framerate, and how it impacts editing/video concatenation). Also some audio bugs in concatenating video fragments.
+- Moved all ~440 GB of videos that were being stored on a backup hard drive onto the new desktop computer, and started backing up with DropBox too. Will try to upload much of the backlog to YouTube in the near-ish future to reclaim the space. It took a while for Dropbox to sync all this, given my relatively slow ~10 Mbps internet upload speed
+- Set up Cold Turkey on the new computer, and adjusted automated lockout times across both the new computer and the old computer.
+- Imported phrase express phrase list to match the old computer's list. Computer access restrictions are now set up completely. Helps me better stay on-task and better maintain a consistent sleep schedule.
+
+<!-- --- -->
+
+#### Researched, ordered, and started to set up things related to voice recognition {#through-10-9-22-researched-ordered-and-started-to-set-up-things-related-to-voice-recognition}
+
+- I bought a stenomask, specifically a wireless model called the [Privo](https://talktech.com/shop/stenomask-store/privo-wireless/). This is the microphone I will be using when interacting with my computer via voice recognition.
+- Once the mic came (and I had tested it out and gotten comfortable using it), I bought voice recognition software called [Dragon](https://www.nuance.com/dragon/business-solutions/dragon-professional-individual.html), downloaded and installed it, and followed a couple [excellent tutorial videos](https://www.youtube.com/playlist?list=PLOJQA3XA9IBsygttlHqROgk1ZGSRFLrY3) to get the initial setup completed (user profiles, etc.)
+- Spent time playing around with Dragon, and testing out dictation. Right out of the box, I can already dictate quite quickly, with good accuracy.
+- Verified it will play nice with AutoHotkey. It seems to! Hurray!
+- Tested out what things are and are not supported in dictation mode alone. Punctuation, new line, and new paragraph all are, which is mainly what I wanted to verify.
+- Spent a long time figuring out some final aspects of my keyboard layout design (on one of the custom movement layers), now that I have a better feel for how the voice recognition works, and where its functional holes are.
+- After getting the hang of adding vocabulary entries to Dragon, added some initial entries for making things bold, making things italic, making things both bold and italic, and then some core punctuation (period, comma, question mark, exclamation mark). I'll be adding more custom stuff over time, to increase the speed at which I can dictate by eliminating ambiguity for the recognition engine.
+- I still have plenty more punctuation and stuff to figure out, but this was a good start.
+
+<!-- --- -->
+
+#### Researched and ordered a better mic setup for making content videos {#through-10-9-22-researched-and-ordered-a-better-mic-setup-for-making-content-videos}
+
+After some research, I also bought a different mic system, both for when I'm recording content videos, and presenting live. It's called the Rode Wireless Go II.
+
+* Dual-channel wireless mic receiver, two transmitters
+* High quality lapel mic
+* An accessory that lets you turn the wireless transmitter (that has a built-in omnidirectional microphone) into a hand-held mic. I'll use this for questions when presenting live.
+* [Amazon.com: Rode Wireless GO II Dual Channel Wireless Microphone System](https://www.amazon.com/gp/product/B08XFQ6KP9/)
+* [Amazon.com: Rode Lavalier GO Professional Wearable Microphone](https://www.amazon.com/gp/product/B07WM65GTF/?th=1)
+* [Amazon.com: Rode Interview GO Handheld Adaptor for Wireless GO](https://www.amazon.com/gp/product/B086YXCDYC/)
+
+I've been busy so I haven't set up and tested these things yet, but I will soon.
+
+<!-- --- -->
+
+#### Researched, ordered, and planned out a portable computer setup to work at a local public library on weekends {#through-10-9-22-researched-ordered-and-planned-out-a-portable-computer-setup-to-work-at-a-local-public-library-on-weekends}
+
+Well, first off, I went to my local library, got a library card, and walked around to get myself familiar with it. I also got my devices connected to the wifi there, and so on.
+
+I know from my experiences in college that it is sometimes easier for me to stay on-task when I work in public places, and with that in mind, I set out to be able to bring a multi-monitor setup with me when I go to work in the library (which will probably primarily be on Saturdays and Sundays).
+
+The setup I decided on (to be used in addition to, at the time being, my tablet, Bluetooth mechanical keyboard, wireless trackball, and Bluetooth noise-cancelling headphones):
+
+* [2x Folding monitor stands](https://www.amazon.com/Wearson-WS-03A-Adjustable-Folding-100x100mm/dp/B00XUF2GBI)
+* [2x Quick-release Vesa adapter plates](https://www.amazon.com/VIVO-Attachment-Removable-Mounting-STAND-VAD2/dp/B01BTAAUV8/)
+* [2x 24" Monitors](https://www.amazon.com/gp/product/B092XF3W9T/)
+* [A padded monitor carrying case than can haul two 24" monitors](https://www.amazon.com/Trunab-Carrying-Compatible-Computer-Accessories/dp/B096V6H4GC)
+* [A USB docking station to get additional HDMI connections to support the monitors](https://www.amazon.com/Docking-Station-Adapter-Monitors-Compatible/dp/B08R9WZKFN/)
+
+All this was pretty expensive when taken together, but I have high hopes for this setup. I think it is rather clever, and ought to work very well.
+
+<!-- --- -->
+
+#### Pondered the multi-website future that is coming {#through-10-9-22-pondered-the-multi-website-future-that-is-coming}
+
+I helped my roommate come up with ideas for his ministry website's domain name. I sent him a list of suggestions from my past research, and he used one of those. I also helped him register it with a domain name registrar.
+
+This got me thinking a bit about the next steps I will need to take to get my website theme in the state it needs to be in to be shared across multiple websites. Both this one I'm helping my roommate set up, and my own other planned websites (personal, and business-focused). I probably ought to make this theme organization stuff happen sooner rather than later. Some of the things I was thinking about here were related to combining all of the CSS into one file, and then making it SCSS to be able to use variables for accent colors and so on.
+
+<!-- --- -->
+
+#### Misc. discussions from the ministry community {#through-10-9-22-misc-discussions-from-the-ministry-community}
+
+Several of us in the community had a long discussion about cryptocurrencies, investing, and what our attitudes towards these things ought to be as Christians.
+
+One of the Bible studies on Saturday afternoons turned into a discussion of apologetics approaches. One of the folks in our community has an atheist friend he is trying to send good reading materials to, and the question was how to best do all this. The atheist friend is very much on the scientific/philosophical side of things, a super-logical sort of person. It is my opinion that most apologetics resources end up being too lightweight and airy-fairy to be convincing for very smart people (my friend had initially asked for book suggestions to have his intellectually-inclined friend read), so we talked a bunch about what then, if not actual book suggestions.
+
+After much discussion on the call, I scrounged up a bunch of links for this friend who is involved with this other guy. I went with links regarding the mind body problem, critiques of logical positivism and prevailing oversimplistic views regarding philosophy of science (at least from a strict materialist perspective), and so on. I did a lot of research myself since I found the topics and arguments here interesting.
+
+<!-- --- -->
+
+#### Modified the preprocessor Python application to support discussion pages {#through-10-9-22-modified-the-preprocessor-python-application-to-support-discussion-pages}
+
+Knocking out this coding got me a good bit of the way towards finishing Phase II in my plan of attack, which I'm happy about.
+
+- The first thing I did was take stock of all I needed to do, and then I came up with with a plan of attack -- getting the tasks written down in a list and roughly sequencing them.
+- After that, I powered through it. It was probably a solid 20 hours of coding (lots of debugging during the refactor), so I wasn't wrong to have been dreading it some. Hopefully, this will be one of the last big functional coding efforts I'll have to drag myself through, at least for a while. Although this preprocessor app is in need of better error handling, general refactoring to make the codebase cleaner and more organized, documentation... etc. Sigh. Some day.
+- After validating that everything worked properly with some fake test content, I organized everything for the first discussion video in the SR4 series, and then replaced the test content with that. You can have a look at it [here](https://www.bibledocs.org/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr4-satans-world-system/level-of-depth-calling-many-deceived-too-harsh-why-god-allows-satan-control/). Note that it also shows up on the related [content page](https://www.bibledocs.org/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr4-satans-world-system/), and [aggregation page](https://www.bibledocs.org/longer-topical-studies/ichthys-sr4-satans-world-system/) too. The UX is slightly different in each case, according to what I think makes the most sense.
+- Then I checked over everything and pushed it all live on the site.
+
+Just to get a sense of the scale here, [this](https://github.com/StevenTammen/bibledocs.org/commit/ef31f39ab0ecb49811050ff86800772f77b840ac) is the big-bang commit for the website-related changes related to this effort to refactoring to support discussion pages.
+
+I've been lazy and haven't been committing as consistently in the preprocessor repo (among other reasons, just because I know it's not really ready for public use anyway, so it doesn't matter too much at the moment), so I can't presently show the changes there in the same way. But it was a really big changeset spanning across many files.
+
+<!-- --- -->
+
+#### Upcoming work {#through-10-9-22-upcoming-work}
+
+- Write up documentation on the content organization page about discussion pages
+- Get all videos/audio recordings uploaded to Archive.org for all the relevant recent videos
+  - Shorter ministry intro video
+  - Longer ministry intro video
+  - BB6A first focused video
+  - SR4 video 1 Introduction
+  - SR4 video 2 Adam and Eve
+  - All ministry progress summary videos
+  - Etc.
+- Organize all the remaining videos in the SR4 series. This is the other big thing I need to finish before I'll be done with Phase II in my plan.
+- Set up the Rode Wireless Go II microphone system, and test it thoroughly
+- Continue making progress on the voice recognition front
+
+{{% /toggleable-content %}}
+
+{{% toggleable-transcript %}}
+
+### Video/audio transcript {#through-10-9-22-video-audio-transcript}
+
 
 {{% /toggleable-transcript %}}
 

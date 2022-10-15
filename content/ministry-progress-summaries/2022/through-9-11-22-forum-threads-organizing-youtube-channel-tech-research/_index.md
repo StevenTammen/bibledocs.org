@@ -1,5 +1,5 @@
 ---
-title: Through 9/11/22 - forum threads, organizing YouTube Channel, tech research
+title: Through 9/11/22
 weight: 10
 layout: content-page
 ---

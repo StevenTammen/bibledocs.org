@@ -1,5 +1,5 @@
 ---
-title: Through 9/25/22 - Add BB6A study page, make meta videos on channel, plan future work
+title: Through 9/25/22
 weight: 20
 layout: content-page
 ---
