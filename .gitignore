@@ -7,6 +7,8 @@ static/drafts/
 layouts/not-displayed
 content/not-displayed
 content/slides/not-displayed
+layouts/daily-progress-summaries
+content/daily-progress-summaries
 
 # Ignore information that is intentionally kept out of repo
 private/

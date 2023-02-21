@@ -1,25 +1,60 @@
 <div class="pure-menu">
   <strong style="font-weight:800;">&nbsp Page Nav</strong>
+
+  {{ if .Page.IsSection}}
+
+  {{ $siblings := .Page.Parent.Sections }}
   <ul class="pure-menu-list">
-    {{ if .NextInSection }}
+    {{ with $siblings.ByWeight.Next .Page }}
     <li class="pure-menu-item">
-      <a class="pure-menu-link" href="{{ .NextInSection.Permalink }}">
+      <a class="pure-menu-link" href="{{ .Permalink }}">
         <i class='fas fa-chevron-left fa-fw'></i>Prev in Study
       </a>
     </li>
     {{ end }}
-    {{ if .PrevInSection }}
+    {{ with $siblings.ByWeight.Prev .Page }}
     <li class="pure-menu-item">
-      <a class="pure-menu-link" href="{{ .PrevInSection.Permalink }}">
+      <a class="pure-menu-link" href="{{ .Permalink }}">
         <i class='fas fa-chevron-right fa-fw'></i>Next in Study
       </a>
     </li>
     {{ end }}
+    {{ if (or ($siblings.ByWeight.Next .Page) ($siblings.ByWeight.Prev .Page)) }}
     <li class="pure-menu-item">
-      <a class="pure-menu-link" href="{{ .CurrentSection.Permalink }}">
+      <a class="pure-menu-link" href="{{ .Page.Parent.Permalink }}">
         <i class='fas fa-list fa-fw'></i>Study Index
       </a>
     </li>
+    {{ end }}
+
+    {{ else }}
+
+    {{ $siblings := .Page.Parent.RegularPages }}
+    <ul class="pure-menu-list">
+      {{ with $siblings.ByWeight.Next .Page }}
+      <li class="pure-menu-item">
+        <a class="pure-menu-link" href="{{ .Permalink }}">
+          <i class='fas fa-chevron-left fa-fw'></i>Prev in Study
+        </a>
+      </li>
+      {{ end }}
+      {{ with $siblings.ByWeight.Prev .Page }}
+      <li class="pure-menu-item">
+        <a class="pure-menu-link" href="{{ .Permalink }}">
+          <i class='fas fa-chevron-right fa-fw'></i>Next in Study
+        </a>
+      </li>
+      {{ end }}
+      {{ if (or ($siblings.ByWeight.Next .Page) ($siblings.ByWeight.Prev .Page)) }}
+      <li class="pure-menu-item">
+        <a class="pure-menu-link" href="{{ .Page.Parent.Permalink }}">
+          <i class='fas fa-list fa-fw'></i>Study Index
+        </a>
+      </li>
+      {{ end }}
+
+    {{ end }}
+    
     <li class="pure-menu-item">
       <a class="pure-menu-link" {{ printf "href=%s%s" .Permalink  "#" | safeHTMLAttr }}>
         <i class='fas fa-level-up-alt fa-fw'></i>Back to Top

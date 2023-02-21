@@ -54,7 +54,7 @@ It is a trap to chase perfection in preparation to the point that one never gets
 Based on this understanding, while I can in no way to claim to be even close to perfect in my knowledge and preparation, I do have behind me years of formal study in Greek, Hebrew, and Ancient History/Culture (specifically relating to Greece and Rome) at a well-respected research University, along with personal study in all the areas listed above. As mentioned in the previous section, I do hope that in terms of quality, these materials will speak for themselves.
 
 {{% note %}}
-While I have studied Greek and Hebrew formally -- receiving very high marks in all my University classes across both languages, and even having a full college degree in the former -- it is a decided challenge to keep up with them nearly as well as I would like on top of my full-time job as a software engineer, and nowadays other ministry obligations too.
+While I have studied Greek and Hebrew formally -- receiving very high marks in all my University classes across both languages, and even having a full four-year college degree in the former -- it is a decided challenge to keep up with them nearly as well as I would like on top of my full-time job as a software engineer, and nowadays other ministry obligations too.
 
 This does not mean that I have no idea what I am talking about (or that I have no knowledge whatsoever in the languages) -- and I am quite careful not to speak with authority on matters I have no business opining on given the practical limitations of my situation -- but this is nonetheless an unfortunate fact that I wish to be transparent and upfront about.
 
