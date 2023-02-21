@@ -92,9 +92,13 @@ We can keep going, too. Genesis 3:14 speaks of the serpent being driven down to 
 
 In the Greek in Revelation 12:9, we have "ὁ δράκων ὁ μέγας ὁ ὄφις ὁ ἀρχαῖος ὁ καλούμενος Διάβολος καὶ ὁ Σατανᾶς." That's a lot of articles!
 
-{{% scripture t="greek" p="Revelation 12:9" h="300px" %}}
+{{%nt t="greek" p="Revelation 12:9" h="300px" %}}
 
-{{% /scripture  %}}
+{{% scripture-h p="Revelation 12:9 | THGNT" %}}
+καὶ ἐβλήθη ὁ δράκων ὁ μέγας, ὁ ὄφις ὁ ἀρχαῖος, ὁ καλούμενος διάβολος καὶ ὁ σατανᾶς ὁ πλανῶν τὴν οἰκουμένην ὅλην, ἐβλήθη εἰς τὴν γῆν, καὶ οἱ ἄγγελοι αὐτοῦ μετ᾽ αὐτοῦ ἐβλήθησαν.
+{{% /scripture-h %}}
+
+{{% /nt  %}}
 
 The adjectives μέγας (great/large) and ἀρχαῖος (ancient) go with δράκων (dragon) and ὄφις (serpent), respectively. The particular construct being used here follows the format "article > noun > article > adjective", putting the adjective in [the attributive position](https://books.openbookpublishers.com/10.11647/obp.0264/ch16.xhtml#:~:text=Attributive%20position%20tells%20us%20that%20a%20noun%20is,road%20into%20attributive%20position%20with%20the%20noun%20woman.).
 
