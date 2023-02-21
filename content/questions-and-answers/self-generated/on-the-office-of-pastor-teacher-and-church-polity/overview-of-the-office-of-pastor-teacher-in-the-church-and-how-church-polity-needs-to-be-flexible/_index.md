@@ -60,11 +60,11 @@ In the "qualification lists" for elders (see 1 Timothy 3:1-7 and Titus 1:6-9), s
 
 One particularly important thing to note is that these folks must be "able to teach" (1 Timothy 3:2). To emphasize this crucial point, myself and others often refer to the group of people under discussion here as "pastor-teachers."
 
-Using this less-common label instead of more conventional ones (like "pastor" and "elder") is advantageous since these more conventional ones have much problematic connotational baggage that has been built up over the years (centuries, even).
+Using this less-common label instead of more conventional ones (like "pastor" and "elder") can be advantageous since these more conventional ones -- at least depending upon who is using them -- have much problematic connotational baggage that has been built up over the years (centuries, even).
 
-For example, some people tend to view "pastors" with blinders on -- the people who conduct marriages and funerals, visit the sick in the hospital, and deliver motivational speeches like clockwork on Sunday mornings, sprinkled liberally with anecdotes, pop-psychology, and rhetorical flourish (but sometimes surprisingly little scripture). The problem is that these expectations can in reality have little to do with the Church office as it is outlined in scripture.
+For example, some people tend to view "pastors" with blinders on -- the people who conduct marriages and funerals, the people who visit the sick in the hospital, and unfortunately -- much, much more commonly than we would wish, though not universally the case -- the people whose "teaching" consists of nothing more than the delivering of motivational speeches like clockwork on Sunday mornings, sprinkled liberally with anecdotes, pop-psychology, and rhetorical flourish (but shockingly little scripture and exegesis). The problem with all this is that these expectations can in reality have little to do with the Church office as it is outlined in scripture, inasmuch as these folks actually ought to be nearly 100% focused upon studying and teaching the Word of God, rather than having their attention constantly stolen away by other things (compare Acts 6:2-4). If the Church dumps all the work the body of Christ ought to be about onto the shoulders of these men alone, how can they possibly do their real jobs properly? Where did we pick up the idea that so many obligations fall to them, but somehow not to us? This ought not be so.
 
-Elders/overseers/shepherds/teachers/stewards have a whole host of responsibilities that can vary from individual to individual -- but everything revolves around the Word of God:
+Anyhow, elders/overseers/shepherds/teachers/stewards have a whole host of responsibilities that can vary from individual to individual -- but everything revolves around the Word of God:
 
 - Elders dispense wisdom based on their advanced knowledge of the Word of God. (Age has little to do with it -- see 1 Timothy 4:12. It is spiritual maturity that is important).
 - Overseers steer the Church, making decisions and determinations based on their detailed understanding of the Word of God.
@@ -116,11 +116,13 @@ I submit that this is nonsense. Access to God is not gatekept by mere human auth
 
 {{% /cautionary-note %}}
 
-##### Despite this fact, the Church visible squabbles about church polity all the time {#despite-this-fact-the-church-visible-squabbles-about-church-polity-all-the-time}
+##### Despite this fact, many modern churches squabble about church polity all the time {#despite-this-fact-many-modern-churches-squabble-about-church-polity-all-the-time}
 
-One of the most telling symptoms of decay presently apparent in the Church visible is the willingness people have to fight about and divide over matters of church polity *that are intentionally left vague in scripture*. The irony would be most amusing were it not so chilling as a symptom of Laodicean lukewarmness.
+One telling symptom of decay presently apparent in the Church visible is the willingness people have to fight about and divide over matters of church polity *that are intentionally left vague in scripture*. The irony would be amusing were it not so chilling as a symptom of Laodicean lukewarmness.
 
-In this way, people will wage bloody battles down to the last man on issues of church polity that scripture says nothing about, while completely neglecting to study and teach the Word of God, which is the only thing that actually matters.
+In this way, some people will wage bloody battles down to the last man on issues of church polity that scripture says nothing about, while completely neglecting to properly study and teach the Word of God, which is the only thing that actually matters.
+
+That this is not the case for absolutely all modern churches in no way diminishes the point that it is the case for a large number, truly.
 
 {{% /content %}}
 

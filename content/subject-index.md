@@ -33,7 +33,7 @@ header-title="Spousal abuse and divorce"
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
-link="/longer-topical-studies/ichthys-sr4-satans-world-system/like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devil-s-realm/#the-actual-introduction-adam-and-eve-and-us"
+link="/longer-topical-studies/ichthys-sr4-satans-world-system/like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devils-realm/#the-actual-introduction-adam-and-eve-and-us"
 study-title="Ichthys' SR4 - Satan's World System"
 page-title="Like Adam and Eve, we live in a broken world - as strangers in the devil's realm"
 header-title="The actual introduction: Adam and Eve, and us"
@@ -163,6 +163,19 @@ page-title="However, if Our Parents Are Out of Line, There Are Exceptions"
 header-title="Spousal abuse and divorce"
 %}}
 
+## Eden {#eden}
+
+### Eden > Contrasted with this present world {#eden-contrasted-with-this-present-world}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-sr4-satans-world-system/purpose-in-this-dark-world-only-comes-by-faith-which-makes-us-outcasts-here-but-chosen-by-god/#the-fallen-world"
+study-title="Ichthys' SR4 - Satan's World System"
+page-title="Purpose in This Dark World Only Comes by Faith, Which Makes Us Outcasts Here but Chosen by God"
+header-title="The fallen world"
+%}}
+
 ## Eternal rewards {#eternal-rewards}
 
 ### Eternal rewards > Not all people will receive the same amount {#eternal-rewards-not-all-people-will-receive-the-same-amount}
@@ -205,7 +218,7 @@ header-title="Some general passages dealing with differing levels of eternal rew
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
-link="/longer-topical-studies/ichthys-sr4-satans-world-system/like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devil-s-realm/#the-contrast-between-pre-fall-paradise-and-post-fall-realities"
+link="/longer-topical-studies/ichthys-sr4-satans-world-system/like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devils-realm/#the-contrast-between-pre-fall-paradise-and-post-fall-realities"
 study-title="Ichthys' SR4 - Satan's World System"
 page-title="Like Adam and Eve, we live in a broken world - as strangers in the devil's realm"
 header-title="The contrast between pre-fall paradise and post-fall realities"
@@ -272,6 +285,17 @@ page-title="Genesis 1:1 - What \"Beginning\" Is in View?"
 header-title="How did God exist before space and time?"
 %}}
 
+## In the world, but not of the world {#in-the-world-but-not-of-the-world}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-sr4-satans-world-system/purpose-in-this-dark-world-only-comes-by-faith-which-makes-us-outcasts-here-but-chosen-by-god/#though-strangers-and-outcasts-in-this-world-our-faith-marks-us-out-as-god-s-chosen-people"
+study-title="Ichthys' SR4 - Satan's World System"
+page-title="Purpose in This Dark World Only Comes by Faith, Which Makes Us Outcasts Here but Chosen by God"
+header-title="Though strangers and outcasts in this world, our faith marks us out as God's chosen people"
+%}}
+
 ## Josephus {#josephus}
 
 {{% subject-index-link
@@ -296,6 +320,19 @@ link="/questions-and-answers/reader-correspondence/on-the-possibility-of-multipl
 study-title="On the Possibility of Multiple Rahabs"
 page-title="The Supposed Scandal of a Prostitute in the Line of Christ"
 header-title="There could never be a harlot in the line of Jesus Christ! How heretical!"
+%}}
+
+## Meaning in life {#meaning-in-life}
+
+### Meaning in life > Only comes through faith {#meaning-in-life-only-comes-through-faith}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-sr4-satans-world-system/purpose-in-this-dark-world-only-comes-by-faith-which-makes-us-outcasts-here-but-chosen-by-god/#true-meaning-in-this-life-only-comes-through-faith"
+study-title="Ichthys' SR4 - Satan's World System"
+page-title="Purpose in This Dark World Only Comes by Faith, Which Makes Us Outcasts Here but Chosen by God"
+header-title="True meaning in this life only comes through faith"
 %}}
 
 ## Meddling {#meddling}
@@ -456,7 +493,7 @@ header-title="Avoid self-loathing"
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
-link="/longer-topical-studies/ichthys-sr4-satans-world-system/like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devil-s-realm/#god-s-promise-of-deliverance"
+link="/longer-topical-studies/ichthys-sr4-satans-world-system/like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devils-realm/#god-s-promise-of-deliverance"
 study-title="Ichthys' SR4 - Satan's World System"
 page-title="Like Adam and Eve, we live in a broken world - as strangers in the devil's realm"
 header-title="God's promise of deliverance"
@@ -522,7 +559,7 @@ header-title="Is this much depth really necessary?"
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
-link="/longer-topical-studies/ichthys-sr4-satans-world-system/like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devil-s-realm/#the-introduction-s-title-satan-s-rebellion-and-fall"
+link="/longer-topical-studies/ichthys-sr4-satans-world-system/like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devils-realm/#the-introduction-s-title-satan-s-rebellion-and-fall"
 study-title="Ichthys' SR4 - Satan's World System"
 page-title="Like Adam and Eve, we live in a broken world - as strangers in the devil's realm"
 header-title="The Introduction's title: Satan's rebellion and fall"
@@ -655,6 +692,19 @@ link="/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr
 study-title="Ichthys' SR4 - Satan's World System"
 page-title="Introduction to SR4 - Satan's World System"
 header-title="Plato's Allegory of the Cave"
+%}}
+
+## World {#world}
+
+### World > Fallen state of {#world-fallen-state-of}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-sr4-satans-world-system/purpose-in-this-dark-world-only-comes-by-faith-which-makes-us-outcasts-here-but-chosen-by-god/#the-darkness-all-around-us-in-the-world"
+study-title="Ichthys' SR4 - Satan's World System"
+page-title="Purpose in This Dark World Only Comes by Faith, Which Makes Us Outcasts Here but Chosen by God"
+header-title="The darkness all around us in the world"
 %}}
 
 

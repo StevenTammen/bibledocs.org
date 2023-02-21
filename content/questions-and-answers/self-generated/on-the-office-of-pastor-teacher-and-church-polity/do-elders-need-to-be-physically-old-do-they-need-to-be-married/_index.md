@@ -57,6 +57,7 @@ Also, etymology does not at all matter in translation. I truly mean this -- not 
 This may come as a shock if you've never heard it explained before, but in determining the meaning of words in translation and interpretation, rather than etymology, the things that matter are how words were actually used in the time period that they show up in scripture, their specific context (i.e., other nearby words in the passage, the structure of the specific sentence, whether the passage they show up in is poetry or prose, etc.), and a couple other such considerations.
 
 The fact that words can and do change their meanings over time (no matter what their original etymology-derived meanings may have been) complicates lexicography to an exceptional degree -- not just Biblical lexicography, [but also lexicography generally](https://www.thoughtco.com/etymological-fallacy-words-1690613). Biblical lexicography is no exception, however.
+
 {{% /sidenote %}}
 
 What we might say is that it is common for older people to be wiser and have more experience, such that Church leadership often does end up as a collection of old men in practice. As a tendency or heuristic, it's reasonably accurate.

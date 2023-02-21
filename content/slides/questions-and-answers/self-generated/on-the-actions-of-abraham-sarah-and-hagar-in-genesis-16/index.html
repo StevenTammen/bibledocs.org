@@ -1,41 +1,206 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Slides</title>
+  <meta charset="utf-8">
+  <link
+  rel="stylesheet"
+  href="https://unpkg.com/littlefoot/dist/littlefoot.css"
+/>
+  <style>
+   @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+   @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+   body { 
+    font-family: 'Georgia';
+   }
+
+   ::selection{
+    background-color: #fff6bd;
+   }
+
+   h1, h2, h3, h4, h5, h6 {
+    font-family: 'Verdana';
+    font-weight: bold;
+   }
+
+   h2 {
+    display: block;
+    font-size: 30px !important;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+   }
+
+   /* Style most headers the same across slides, for visual consistency */
+   h3, h4, h5, h6 {
+    display: block;
+    font-size: 18px !important;
+    margin-block-start: 1.2em;
+    margin-block-end: 1.2em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+   }
+
+   /*
+    Don't need extra padding when headers aren't in a special content section
+    with the special content section name in a strong tag (when the header is
+    the very first thing in the sepcial content section div). Too much space otherwise
+   */
+   .special-content h3:first-child,
+   .special-content h4:first-child,
+   .special-content h5:first-child,
+   .special-content h6:first-child
+    {
+      margin-top: 0px;
+    }
+
+   .remark-code, .remark-inline-code {
+    font-family: 'Ubuntu Mono';
+   }
+   
+   .footer {
+    position: absolute;
+    bottom: 5px;
+    right: 50px;
+    height: 40px;
+    width: 800px;
+    color: #006400;
+   }
+
+   a {
+    color: #3b8bba;
+    text-decoration: none;
+  }
+
+  /* Special content sections */
+
+  .special-content {
+    border-radius: 5px;
+    padding: 20px 10px 20px 10px;
+  }
+
+  .special-content >  .special-content {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .special-content > strong {
+    display: block;
+    text-align: center;
+    border-bottom: 1px solid black;
+    margin-top: -15px;
+  }
+
+  .special-content.cautionary-note {
+    background: #ffe6e6;
+  }
+
+  .special-content.technical-discussion {
+    background: #ffe0cc;
+  }
+
+  .special-content.sidenote {
+    background: #fffae6;
+  }
+
+  .special-content.application {
+    background: #ebfaeb;
+  }
+
+  .special-content.note {
+	  background: #e6ffff
+  }
+
+  .special-content.indirect-reasoning {
+    background: #e6f5ff;
+  }
+
+  .special-content.example {
+    background: #f2e6ff;
+  }
+
+  .special-content.post-hoc-note {
+    background: #ffe6f2;
+  }
+
+  .special-content.quote {
+    background: #e6e6e6;
+  }
+
+  .special-content.scripture {
+    background: #f2e6d9;
+  }
+
+
+  /* Littlefoot footnotes */
+
+  .littlefoot__button {
+    background-color: #dddddd;
+    color: #777777;
+    height: 1rem;
+    padding: 0rem 0.8rem;
+    margin: 0rem 0.1rem;
+    border: none;
+    border-radius: 10px;
+    vertical-align: middle;
+    display: inline-flex;
+    align-items: center; 
+  }
+  </style>
+	<script>
+		var refTagger = {
+			settings: {
+				addLogosLink: true,
+				bibleVersion: "NASB",
+				convertHyperlinks: true,
+				logosLinkIcon: "light",			
+				socialSharing: [],
+				tagChapters: true
+			}
+		};
+	</script>
+ </head>
+ <body>
+  <textarea id="source">
+
+class: center, middle
+
+## On the Actions of Abraham, Sarah, and Hagar in Genesis 16
+
+
+
+(Before reading this discussion, I recommend reading through Genesis chapter 16 several times)
+
 ---
-title: On the Actions of Abraham, Sarah, and Hagar in Genesis 16
-weight: 
-contentlevel: intermediate
-layout: single-page
-summary: >-
-   Is it proper to say that the morality of actions depends upon cultural context? That aside, was Hagar a young girl taken advantage of and pressured into Abraham's bed against her will, or was she a willing adult participant who came to arrogantly disrespect the legitimate authority of her mistress? We will be addressing these matters in our discussion here.
----
 
-<!-- ## Video {#video}
 
-{{% video
-src=""
-
-playlist=""
-
-video=""
-
-audio=""
-
-slides="https://www.bibledocs.org/slides/"
-%}} -->
-
-## Summary {#summary}
+### Summary
 
 Is it proper to say that the morality of actions depends upon cultural context? That aside, was Hagar a young girl taken advantage of and pressured into Abraham's bed against her will, or was she a willing adult participant who came to arrogantly disrespect the legitimate authority of her mistress? We will be addressing these matters in our discussion here.
 
 <!-- ## Timestamps {#timestamps} -->
 
 {{% content %}}
+---
 
-## Content {#content}
 
-(Before reading this discussion, I recommend reading through Genesis chapter 16 several times)
+#### Outline
 
-<!-- --- -->
+- [Q: God's judgment doesn't let people off-the-hook just due to cultural background, right?](#3)
+- [No, of course not. But there is much more to this particular situation than might meet the modern Western eye](#4)
+- [God's standard of right and wrong is objective, and for all time](#5)
+- [God's judgment will perfectly take into account all circumstances, but this is not something we ought to worry ourselves about](#6)
+- [So what actually happened in Genesis 16?](#7)
+- [An incorrect, culturally-conditioned interpretation of Genesis 16](#8)
+- [The correct interpretation of Genesis 16](#9)
+- [How should we assign blame in this story?](#10)
 
-### Q: God's judgment doesn't let people off-the-hook just due to cultural background, right? {#q-god-s-judgment-doesn-t-let-people-off-the-hook-just-due-to-cultural-background-right}
+---
+
+
+### Q: God's judgment doesn't let people off-the-hook just due to cultural background, right?
 
 In Genesis 16, when Hagar is given to Abraham to conceive a son in Sarah's place, there was presumably a large power gap between her and Abraham, right? Didn't women have less equality in antiquity to begin with? And Abraham was influential and powerful. And he was also old -- really old!
 
@@ -47,13 +212,13 @@ So it is wrong now... but wasn't wrong then because it was considered culturally
 
 So what gives?
 
-### No, of course not. But there is much more to this particular situation than might meet the modern Western eye {#no-of-course-not-but-there-is-much-more-to-this-particular-situation-than-might-meet-the-modern-western-eye}
+### No, of course not. But there is much more to this particular situation than might meet the modern Western eye
 
 One initial point: it is true that relative to Abraham (and Sarah), Hagar may have been younger, although we can't even say that with great certainty. But at the point in history during which this story occurs, general life expectancy seems to have been quite a bit higher than today (as various accounts in Genesis show us), with continued fecundity into old age. For this reason, it is likely improper to be picturing Abraham as a stooped white-haired geezer in the context of this story, with Hagar as a young teenager; in other words, any knee-jerk disgust from that sort of mental picture is likely entirely misplaced. 
 
 There are several other very important clarifications that need to be made about exactly what went down in Genesis 16, but before we get to those, let's answer the core question, making pretend that Abraham was truly a monster in this situation. (Even if, as we shall see, he wasn't in reality).
 
-#### God's standard of right and wrong is objective, and for all time {#god-s-standard-of-right-and-wrong-is-objective-and-for-all-time}
+#### God's standard of right and wrong is objective, and for all time
 
 Restating the question then, we would get something like this:
 
@@ -71,7 +236,7 @@ So, to turn back to the question, wrong is wrong -- what one's surrounding cultu
 
 Trafficking vulnerable young women is wrong (obviously). Rape is wrong (obviously). It doesn't matter what place or time. It doesn't matter if the surrounding culture would treat it as no big deal, or go so far as to chop your head off for engaging in such. The only thing that matters is God's standard. And by that standard, these actions would always be gross sin, no exceptions.
 
-#### God's judgment will perfectly take into account all circumstances, but this is not something we ought to worry ourselves about {#god-s-judgment-will-perfectly-take-into-account-all-circumstances-but-this-is-not-something-we-ought-to-worry-ourselves-about}
+#### God's judgment will perfectly take into account all circumstances, but this is not something we ought to worry ourselves about
 
 Now, on the question of "would God judge the situations differently, based on prevailing cultural assumptions?" that is a question that it is best for us to not weigh in on ourselves. We cannot pretend to know all the things that would go into God's perfect judgment concerning a situation. He knows not only what we say and do, but also what we think, what we intend, what we desire and wish for.
 
@@ -81,7 +246,7 @@ So is it possible that God would deem the person from a culture that views/viewe
 
 Regardless, *everybody gets exactly that which they deserve*. Nobody "gets away with" anything. So we should rest easy in this knowledge, and leave judgment to the Lord.
 
-#### So what actually happened in Genesis 16? {#so-what-actually-happened-in-genesis-16}
+#### So what actually happened in Genesis 16?
 
 I started off by saying that we needed to clarify some additional things about what went down in Genesis 16. We will now turn to that.
 
@@ -99,7 +264,7 @@ I am merely bringing all of these observations up because they "prime us" to vie
 
 So what sorts of things are we sort of inherently set up to think?
 
-##### An incorrect, culturally-conditioned interpretation of Genesis 16 {#an-incorrect-culturally-conditioned-interpretation-of-genesis-16}
+##### An incorrect, culturally-conditioned interpretation of Genesis 16
 
 Something like this:
 
@@ -114,7 +279,7 @@ As I say, this is sort of the version of events that our culture primes us to lo
 
 The problem with all this is that it is complete rubbish. It flips the story exactly on its head, making Sarah the villain and Hagar the victim, rather than vice versa.
 
-##### The correct interpretation of Genesis 16 {#the-correct-interpretation-of-genesis-16}
+##### The correct interpretation of Genesis 16
 
 So why would Sarah kick off this sequence of events to begin with? It seems attractive to say that it is entirely because she wanted to adopt the child of her maidservant as her own to avoid the stigma of not being able to produce an heir (on account of being barren), but then why wouldn't she be cautious to have the child in hand before dealing with Hagar, to make sure her goal was obtained? (I suppose she may not have thought Hagar would run away, and that is a completely fair point).
 
@@ -126,11 +291,15 @@ Regardless, compared to the faulty interpretation from before, the first point o
 
 Perhaps you aren't convinced yet. The Hebrew of verses 4 and 5 ought to help. Before, I mentioned that that we'd revisit the translation "despise." The Hebrew verb here is קָלַל (*qalal*), used in the Qal.
 
-{{% technical-discussion %}}
-If that doesn't mean anything to you, the short version is that the same three-consonant root in Hebrew, when being used as a verb (roots can show up as nouns and adjectives too, e.g. -- Hebrew loves its roots), can have different meanings depending upon which of the "patterns" for the stem (called [*binyanim*](https://blogs.transparent.com/hebrew/the-hebrew-verb-root-and-binyanim/)) is used, as in Qal vs. Piel vs. Niphal vs. Hitpael, etc. Here, we need to look in the lexicons for what meanings the word takes on when being used in the Qal.
+<div class="special-content technical-discussion">
+<strong>
+<a href="/site/content-features/#technical-discussion">Technical discussion</a>
+</strong>
+<p>If that doesn't mean anything to you, the short version is that the same three-consonant root in Hebrew, when being used as a verb (roots can show up as nouns and adjectives too, e.g. -- Hebrew loves its roots), can have different meanings depending upon which of the "patterns" for the stem (called <a href="https://blogs.transparent.com/hebrew/the-hebrew-verb-root-and-binyanim/"><em>binyanim</em></a>) is used, as in Qal vs. Piel vs. Niphal vs. Hitpael, etc. Here, we need to look in the lexicons for what meanings the word takes on when being used in the Qal.</p>
 
-In this passage (both places) קָלַל is being used as a sequential imperfect = *wayyiqtol*, which basically means it functions like a perfect, but is being used to establish a sequence of time. This usage is common in narrative for relaying sequences of events, as here in this story.
-{{% /technical-discussion %}}
+<p>In this passage (both places) קָלַל is being used as a sequential imperfect = <em>wayyiqtol</em>, which basically means it functions like a perfect, but is being used to establish a sequence of time. This usage is common in narrative for relaying sequences of events, as here in this story.</p>
+</div>
+
 
 In the Qal, *qalal* [can mean several different things](https://www.blueletterbible.org/lexicon/h7043/kjv/wlc/0-1/) based on context, but meanings revolve around the idea of something being "slight/light/swift." Metaphorically, when used of people, it means "being lightly esteemed" -- of being taken lightly and treated as of little account. Aside from here (that is, Genesis 16:4; 5), for this particular usage you might also compare 1 Samuel 2:30 where this verb is set opposite [*kabad*](https://www.blueletterbible.org/lexicon/h3513/kjv/wlc/0-1/) (which is the antonym of both the physical and metaphorical aspects of this verb = heavy rather than light, honored rather than being lightly esteemed), and also 2 Samuel 6:22.
 
@@ -146,8 +315,6 @@ That's not perfect as a parallel, but hopefully that helps give a sense of the b
 
 Other cultures that are not so far removed from polygamy may have an easier time understanding all this, especially given that this idea of siring heirs by other women is not unique to this specific situation in scripture. The risk in such a practice is always that when the junior wife/concubine gets pregnant and has children, she will start thinking that because she has children -- sons, even more specifically -- and the primary wife does not,[^no-heirs] that she will on this account now become "woman #1", supplanting the primary wife.
 
-[^no-heirs]: Because of either barrenness, or seemingly only carrying daughters to term.
-
 In any case, this single clarification reframes the entire rest of the story. When Sarah comes to petition Abraham again and says "You are responsible for the wrong I am suffering. I put my slave in your arms, and now that she knows she is pregnant, she despises me. May the Lord judge between you and me" what she is coming to him about is the fact that she is now being unjustly disrespected and scoffed at (something that would be all the more painful for her given her seeming inability to have children -- a fact that Hagar no doubt knew, though that doesn't seem to have stopped her insolence), and that Abraham needs to do something about it. He should not just sit back and let this happen to her.
 
 That brings us to the second word -- "mistreat." In Genesis 16:6, after Abraham has handed Hagar back over to Sarah, Sarah is said to treat Hagar in a way that causes Hagar to flee. It is easy to understand why our minds immediately jump to physical or emotional abuse when we hear "mistreat." But in fact, the Hebrew word here is עָנָה (*ana*), this time in the Piel. In the Piel, [this root means to humble or afflict](https://www.blueletterbible.org/lexicon/h6031/kjv/wlc/0-1/), without necessarily having explicit overtones of cruelty or impropriety. We are not to suppose that Sarah was particularly kind to Hagar when she was handed back into her charge -- in fact, given what traitorous behavior Hagar had just perpetrated against Sarah, we can imagine Sarah probably made Hagar's life rather unpleasant (and justifiably so, to an extent), in an attempt to humble the woman. But in doing this, we cannot say based on the verb's meaning alone that Sarah was horribly out of line and at moral fault. The lexical range of the verb doesn't 100% preclude the possibility either, I suppose, but "mistreat" is far too interpretive a translation choice for my tastes, since it is not neutral connotatively, but quite negative.
@@ -156,7 +323,7 @@ One piece of evidence that would serve to indicate that Sarah's harshness here d
 
 To put all this differently, God tells Hagar to humble herself (verse 9) after she is said to have fled because Sarah was causing her to be humbled (verse 6). So how likely is it that whatever Sarah did in verse 6 was terribly out of line, if God uses the exact same verbal stem in a command to Hagar in reference to Sarah (i.e., Hagar is supposed to humble herself to Sarah specifically)? This observation doesn't necessarily mean that Sarah never did any wrong whatsoever, but it is not nothing either, since context is important in interpretation.
 
-#### How should we assign blame in this story? {#how-should-we-assign-blame-in-this-story}
+#### How should we assign blame in this story?
 
 We shouldn't past a certain point -- judgment is not ours, but the Lord's.
 
@@ -170,12 +337,64 @@ Even noting all of these things, however, it is foolish for us on the outside to
 
 Later interactions (as in Genesis 21) seem to indicate the relationships torn asunder here were never mended completely. Sarah and Hagar probably never really got along properly after this (for reasonably obvious reasons), and Abraham was forced to send his son Ishmael away, even though it pained him. It should not be lost on us that even the family of Abraham and Sarah -- the family of Blessed Promise, the family whom God made an everlasting covenant with -- was not without its own problems. How much less should we despair, then, of our own families being inevitably less than perfect, as if there were something uniquely wrong with us! But just as the answer for Abraham and Sarah lay in trusting God and His promises, so too for us and our problems, whatever they may be. We ought to be pleased to trust Him enough to lay them at His feet and ask for His help, rather than thinking we can do it all on our own.
 
-{{% /content %}}
-
-<!-- {{% transcript %}}
-
-### Video/audio transcript {#video-audio-transcript}
 
 
 
-{{% /transcript %}} -->
+<!-- Footnote List -->
+<div class="footnotes">
+<ol>
+
+  </ol>
+</div>
+  
+
+---
+
+
+#### Outline
+
+- [Q: God's judgment doesn't let people off-the-hook just due to cultural background, right?](#3)
+- [No, of course not. But there is much more to this particular situation than might meet the modern Western eye](#4)
+- [God's standard of right and wrong is objective, and for all time](#5)
+- [God's judgment will perfectly take into account all circumstances, but this is not something we ought to worry ourselves about](#6)
+- [So what actually happened in Genesis 16?](#7)
+- [An incorrect, culturally-conditioned interpretation of Genesis 16](#8)
+- [The correct interpretation of Genesis 16](#9)
+- [How should we assign blame in this story?](#10)
+
+
+
+  </textarea>
+  <script src="https://remarkjs.com/downloads/remark-latest.min.js">
+  </script>
+  <script>
+   var slideshow = remark.create({ ratio: "16:9" });
+  </script>
+<script
+src="https://unpkg.com/littlefoot/dist/littlefoot.js"
+type="application/javascript"
+></script>
+<script type="application/javascript"> littlefoot.default({
+    activateOnHover: true,
+    dismissOnUnhover: true,
+    hoverDelay: 200,
+    buttonTemplate: `
+    <button
+    aria-label="Footnote <% number %>"
+    class="littlefoot__button"
+    id="<% reference %>"
+    />
+    <% number %>
+    </button>
+    `,
+  }) </script>
+  <script>
+   function downloadJSAtOnload() {
+    var element = document.createElement("script");
+    element.src = "https://api.reftagger.com/v2/RefTagger.js";
+    document.body.appendChild(element);
+   }
+   window.addEventListener("load", downloadJSAtOnload, false);
+  </script>
+ </body>
+</html>

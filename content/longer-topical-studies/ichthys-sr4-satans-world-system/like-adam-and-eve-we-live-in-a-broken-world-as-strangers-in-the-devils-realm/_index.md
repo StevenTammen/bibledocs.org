@@ -975,6 +975,56 @@ In fact, God soon will put down the beast forever, but in the meantime, we belie
 
 {{% discussion-pages %}}
 
+## [Discussion - Why care about Satan's rebellion and open with Adam and Eve; why these consequences for Fall](/longer-topical-studies/ichthys-sr4-satans-world-system/like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devils-realm/why-care-about-satans-rebellion-and-open-with-adam-eve-why-these-consequences-for-fall) {#discussion-why-care-about-satan-s-rebellion-and-open-with-adam-and-eve-why-these-consequences-for-fall}
+{{< subjects >}}
+
+{{< /subjects >}}
+
+
+
+### Video {#discussion-why-care-about-satan-s-rebellion-and-open-with-adam-and-eve-why-these-consequences-for-fall-video}
+
+{{% video
+src=""
+
+playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4"
+
+video=""
+
+audio=""
+
+slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr4-satans-world-system/"
+%}}
+
+### Summary {#discussion-why-care-about-satan-s-rebellion-and-open-with-adam-and-eve-why-these-consequences-for-fall-summary}
+
+
+
+### Timestamps {#discussion-why-care-about-satan-s-rebellion-and-open-with-adam-and-eve-why-these-consequences-for-fall-timestamps}
+
+
+
+{{% toggleable-content %}}
+
+### Content {#discussion-why-care-about-satan-s-rebellion-and-open-with-adam-and-eve-why-these-consequences-for-fall-content}
+
+(Derived from https://ichthys.com/SR4(SWS).htm)
+
+<!-- --- -->
+
+
+
+{{% /toggleable-content %}}
+
+{{% toggleable-transcript %}}
+
+### Video/audio transcript {#discussion-why-care-about-satan-s-rebellion-and-open-with-adam-and-eve-why-these-consequences-for-fall-video-audio-transcript}
+
+
+
+{{% /toggleable-transcript %}}
+
+
 {{% /discussion-pages %}}
 
 {{% section-navigation %}}
