@@ -542,7 +542,9 @@ The source for a given quote is linked in the label of the section ("Quote from 
 For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.
 {{% /scripture-h %}}
 
-Scripture quotations are very similar to general quotes, but nonetheless are broken out into their own sections of a different background color, to mark them out separately. For each section, the biblical passage being quoted shows up in the header, as well as the Bible version being quoted from.
+Scripture quotations are very similar to general quotes, but nonetheless are broken out into their own sections, to mark them out separately. For each section, the biblical passage being quoted shows up in the header, as well as the Bible version being quoted from.
+
+Unlike the other special context sections, scripture sections do *not* have a different background color, but instead use a border. They are the only special content section to do this. This is because scripture sections, like quotes, frequently show up in all the other special content sections, so we want them to look good when nested = no matter what the color of the parent section is (since all the other special content sections use different background colors). Quotes look good when nested in all the other special content sections since they are silver (which doesn't clash with any of the other colors), but "transparent with a border" is what I decided looked best aside from silver.
 
 #### Original translations
 
@@ -552,7 +554,7 @@ So now that we have been justified by faith, let us take hold of the peace [we h
 
 Sometimes I decide to translate from the Greek and Hebrew myself instead of using established translations. These are the original translations on this site.
 
-Original translations are a special subset of scripture quotations, so share the same styling and background color. Just like scripture quotation sections, for each original translation section, the biblical passage being quoted shows up in the header.
+Original translations are a special subset of scripture quotations, so share the same styling. Just like scripture quotation sections, for each original translation section, the biblical passage being quoted shows up in the header.
 
 Inferred words are added to the text using square brackets. These words do not appear in the original text, but are added by me to make things more clear. The King James Version does something similar, but added words in the KJV are italicized instead of using brackets. The main difference in what I do versus what the KJV does is frequency -- I generally add many more words than does the KJV. The goal is to make the meaning of the text as clear as possible.
 
@@ -571,6 +573,6 @@ In addition to inferred words, I also make use of explanatory remarks in parenth
 
 Sometimes I decide to quote from places where Ichthys translates directly from the Greek and Hebrew instead of using established translations. These are the Ichthys translations on this site.
 
-Ichthys translations are a special subset of scripture quotations, so share the same styling and background color. Just like scripture quotation sections, for each Ichthys translation section, the biblical passage being quoted shows up in the header.
+Ichthys translations are a special subset of scripture quotations, so share the same styling. Just like scripture quotation sections, for each Ichthys translation section, the biblical passage being quoted shows up in the header.
 
 Ichthys follows a similar syntax as myself ([see just above](#original-translations)) in adding inferred words and explanatory remarks in translation (although my practice is modeled on Ichthys' practice, not the other way around).
