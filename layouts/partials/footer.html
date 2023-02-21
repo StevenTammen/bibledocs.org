@@ -46,8 +46,10 @@ function initialScriptureDisplay() {
 	if(scriptureDisplay == "embedded")
 	{
 		$('.step-iframe').on('load', function() {
-			$(this).removeClass("display-none");
-			$(this).next().addClass("display-none");
+			setTimeout(() => {
+				$(this).removeClass("display-none");
+				$(this).next().addClass("display-none");
+			}, "2000");
 		});
 	}
 	else if(scriptureDisplay == "plaintext")
@@ -58,8 +60,10 @@ function initialScriptureDisplay() {
 	else { // scriptureDisplay = ""
 		setCookie('scriptureDisplay', 'embedded', 1825);
 		$('.step-iframe').on('load', function() {
-			$(this).removeClass("display-none");
-			$(this).next().addClass("display-none");
+			setTimeout(() => {
+				$(this).removeClass("display-none");
+				$(this).next().addClass("display-none");
+			}, "2000");
 		});
 	}
 }
