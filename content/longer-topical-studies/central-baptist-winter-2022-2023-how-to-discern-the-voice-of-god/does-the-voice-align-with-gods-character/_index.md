@@ -64,7 +64,7 @@ We'll be examining this question from several angles, and ultimately conclude th
 This is not at all a simple concept to understand; it is incredibly easy to tie oneself into knots trying to wrap one's head around where the all the lines are here. There are several reasons for this (although these are probably not the only ones/an exhaustive list):
 
 - Ephesians 4:26 is commonly misunderstood and misinterpreted
-- The cleansings of the temple by Jesus are commonly misportrayed in popular imagination. To put it somewhat cheekily, Jesus may have overturned the tables of the money changers and driven them out of the temple, but He was not necessarily (╯°□°)╯︵ ┻━┻
+- The cleansings of the temple by Jesus are commonly misportrayed in popular imagination. Jesus may have overturned the tables of the money changers and driven them out of the temple -- and the text does mention zeal, it is true -- but nowhere do we have any indication that Jesus was acting out of overflowing anger. That is simply an incorrect assumption that has been widely propagated over time.
 - Another thing commonly misunderstood is that the "Wrath of God" is so-called "anthropopathism" -- that is, an attributing of human emotions to God to help us better understand Him, even though God is not actually human with human emotions. This means that using the argument "but God gets angry, and God obviously doesn't sin in doing so because God cannot sin, therefore it is possible to be angry without sinning, QED" is not quite what it seems, since God does not actually "get angry," *per se*.
 
 The following links (some from me, some from [Ichthys](https://ichthys.com/)) may hopefully help explain some of the complexities in all these matters:
@@ -334,8 +334,6 @@ The "tablets of the covenant" with the Decalogue, however, are stored in the ark
 {{% /quote %}}
 
 (We are still focused on Exodus 24:12 here).
-
-We do have a purpose clause here ("the teaching and the commandment I have written *in order to* teach them [the people]"). The problem is not with this observation, but with the interpretation of it.
 
 Our author's argument goes something along the lines of "how can the tablets be said to 'teach the people' if they are locked up in the Ark of the Covenant?"
 

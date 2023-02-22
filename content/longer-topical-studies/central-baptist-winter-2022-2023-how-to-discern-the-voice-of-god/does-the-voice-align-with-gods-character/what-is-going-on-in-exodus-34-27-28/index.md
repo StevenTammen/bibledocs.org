@@ -68,8 +68,6 @@ The "tablets of the covenant" with the Decalogue, however, are stored in the ark
 
 (We are still focused on Exodus 24:12 here).
 
-We do have a purpose clause here ("the teaching and the commandment I have written *in order to* teach them [the people]"). The problem is not with this observation, but with the interpretation of it.
-
 Our author's argument goes something along the lines of "how can the tablets be said to 'teach the people' if they are locked up in the Ark of the Covenant?"
 
 One would think, based on such an argument, that the physical tablets being in the Ark of the Covenant would somehow prevent the words upon them from being discussed or taught in the assembly. An interesting assumption, is it not? I'd like to hear some evidence for it, or otherwise any sort of explanation as to why where the physical tablets are stored matters when it comes to the things upon them being taught.
