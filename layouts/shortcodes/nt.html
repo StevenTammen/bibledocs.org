@@ -25,27 +25,27 @@
 	<a class="{{$idString}} h800 {{if eq $height "800px" }}active{{end}}" href="javascript:adjustIframeHeight('{{$idString}}', 800);"><i class='fas fa-arrows-alt-v fa-fw'></i>Height: 800px</a>
 </div>
 
-{{ if eq $type "esv"}}
+{{ if eq (lower $type) "esv"}}
 <iframe class="step-iframe display-none {{$idString}}" src="https://www.STEPBible.org/?q=version=ESV|reference={{$passage}}&options=VN" width="100%" height="{{ $height }}">
 </iframe>
 {{ end }}
 
-{{ if eq $type "nasb"}}
+{{ if eq (lower $type) "nasb"}}
 <iframe class="step-iframe display-none {{$idString}}" src="https://www.STEPBible.org/?q=version=NASB2020|reference={{$passage}}&options=VN" width="100%" height="{{ $height }}">
 </iframe>
 {{ end }}
 
-{{ if eq $type "comparison"}}
+{{ if eq (lower $type) "comparison"}}
 <iframe class="step-iframe display-none {{$idString}}" src="https://www.STEPBible.org/?q=version=ESV|version=NASB2020|version=NIV|version=HCSB|reference={{$passage}}&options=VN" width="100%" height="{{ $height }}">
 </iframe>
 {{ end }}
 
-{{ if eq $type "greek"}}
+{{ if eq (lower $type) "greek"}}
 <iframe class="step-iframe display-none {{$idString}}" src="https://www.STEPBible.org/?q=version=THGNT|reference={{$passage}}&options=VGN" width="100%" height="{{ $height }}">
 </iframe>
 {{ end }}
 
-{{ if eq $type "greek-i"}}
+{{ if eq (lower $type) "greek-i"}}
 <iframe class="step-iframe display-none {{$idString}}" src="https://www.STEPBible.org/?q=version=THGNT|version=NASB2020|reference={{$passage}}&options=VGN" width="100%" height="{{ $height }}">
 </iframe>
 {{ end }}
