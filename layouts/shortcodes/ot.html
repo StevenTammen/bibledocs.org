@@ -50,12 +50,12 @@
 </iframe>
 {{ end }}
 
-{{ if eq (lower $type) "lxx"}}
+{{ if eq (lower $type) "septuagint"}}
 <iframe class="step-iframe display-none {{$idString}}" src="https://www.STEPBible.org/?q=version=THOT|version=LXX|reference={{$passage}}&options=VGN" width="100%" height="{{ $height }}">
 </iframe>
 {{ end }}
 
-{{ if eq (lower $type) "lxx-i"}}
+{{ if eq (lower $type) "septuagint-i"}}
 <iframe class="step-iframe display-none {{$idString}}" src="https://www.STEPBible.org/?q=version=THOT|version=LXX|version=NASB2020|reference={{$passage}}&options=VGN" width="100%" height="{{ $height }}">
 </iframe>
 {{ end }}
