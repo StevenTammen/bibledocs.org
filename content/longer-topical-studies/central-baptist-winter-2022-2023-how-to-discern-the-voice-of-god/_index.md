@@ -788,6 +788,241 @@ That's just one example, someone might say. Well then, what of Jonah and the fis
 
 {{% /toggleable-content %}}
 
+
+
+<br/>
+
+
+
+### [Drawing Inspiration from the Faith of Others](/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-call-you-to-trust-god/drawing-inspiration-from-the-faith-of-others) {#drawing-inspiration-from-the-faith-of-others}
+{{< subjects >}}
+
+{{< /subjects >}}
+
+
+
+#### Summary {#drawing-inspiration-from-the-faith-of-others-summary}
+
+The passage that our workbook quoted from this week, Hebrews 11, describes some of the "heroes of the faith"---believers of the past who are specially commended for their actions of faith.
+
+Although there is much to say concerning these people specifically, on this page we will be examining the general concept of drawing inspiration from the faith of others, and how we might do that in our personal lives, alongside drawing inspiration from exemplary believers mentioned in scripture.
+
+{{% toggleable-content %}}
+
+#### Content {#drawing-inspiration-from-the-faith-of-others-content}
+
+<!-- --- -->
+
+{{% sidenote %}}
+
+##### What about so-called saints, famous martyrs, church fathers, the reformers, and so on? {#drawing-inspiration-from-the-faith-of-others-what-about-so-called-saints-famous-martyrs-church-fathers-the-reformers-and-so-on}
+
+Some traditions tend to make a practice out of looking to other categories of people for inspiration too: so-called saints, famous martyrs, church fathers, the reformers, and so on.
+
+While we don't want to fall into legalism by banning something scripture does not, it is also true that unverifiable third-party reports may or may not be true. We may glorify God inasmuch as things we hear about these people seem to put Him first and bring Him glory. Perhaps we shouldn't go so far as to say that it is a uniformly terrible idea for us to try to find inspiration in historical Christians who show up only in history rather than inspired scripture. But it is also true that we must be careful in doing such, that's all. Appearances can be deceiving.
+
+This is why this page will mostly be discussing people whom we can have direct relationships with in our own lives, and therefore can have less doubt about. It's hard (perhaps functionally impossible) for someone to fake serious interest in the Bible and actual spiritual growth for a long period of time, and yet not mean it. People who are not genuinely interested will be driven away, because the truth gives no quarter, and it unfailingly divides and convicts (Hebrews 4:12). Any place where the truth is *actually* being taught in a substantive way (rather than just given lip service to, as is unfortunately common in many modern churches, which barely even teach anything at all, much less anything that could be said to be offensive to and truly demanding of their attendees... since that would drive away said attendees, and therefore money and prestige) -- such places actually teaching the truth in a substantive way will be extremely uncomfortable for anyone who doesn't sincerely want the truth.
+
+All that is a long way of saying that it is relatively safer for us to admire people whose spiritual maturity we can observe ourselves. We can do such with a good bit less wariness than that we probably ought to exercise in admiring the supposed spiritual maturity of historical believers whom others have put up on pedestals... even and perhaps especially if by "others" we mean "well, many Christians in our present lukewarm day." Even though it sounds really harsh, since in current times many Christians are not truly all that zealous about the hard work of spiritual growth and production (despite what they say with their lips; their lack of care towards the truth in how they organize their lives clearly and irrefutably puts the lie to their words), how likely is it that the people they think are excellent and praiseworthy are really the ones deserving of the most honor in God's eyes?
+
+See Matthew 19:30; Mark 10:31; Luke 13:30. In my estimation, the believers in eternity who will be most highly rewarded will *not* be the ones most people would guess, but the faithful few who work out God's Will tirelessly, seeking His glory rather than attention for themselves. Compare also Matthew 6:1-2. This idea of "being careful not to perform righteous acts before men to be seen by them" is precisely why you don't hear about them, and why they don't grace the pages of history books as much as the sort that lukewarm believers idolize. Because showing up on magazine covers or the historical equivalent---gaining recognition so that people know of you and say nice things about you---matters not one whit. Only doing the Will of God matters, doing the things He actually demands of us. And God's judgement on that Great Day of Days will make that incontrovertibly clear to all.
+
+I should close by stating that not all well-known believers of the past were necessarily trying to draw attention to themselves in a Pharisaical manner. Some people who seem great really were great, it is true. The point is that it is difficult to know for certain in a great many cases, and for that reason there are many people held up glowingly as examples that ought to instead be held at arms length more than is commonly the case. Our skepticism should only be stoked all the more by the fact that the truth is usually quite unpopular (since it demands so much from us), such that people whose teaching is beloved are commonly not teaching much truth, as a rule of thumb. And we ought not forget that.
+
+{{% /sidenote %}}
+
+##### The dangers in comparison; looking to others for inspiration is not really comparison {#drawing-inspiration-from-the-faith-of-others-the-dangers-in-comparison-looking-to-others-for-inspiration-is-not-really-comparison}
+
+In 1 Corinthians 4:3-5, Paul talks about judging nothing before the time. We are not even supposed to judge ourselves, much less others (whose thoughts and motivations and so on we can never truly know).
+
+Nonetheless, it is oftentimes very tempting to compare ourselves to others. This is true regarding such material things as wealth, status, career prestige, and so on, but it can also be true spiritually. To soothe our own egos, we might engage in the practice of trying to see how our choices and our spiritual progress stack up against the choices and spiritual progress of others.
+
+This practice is dangerous for several reasons. First of all, our minds are entirely self-serving, and comparing ourselves to others tends to lead to legalism very quickly. It is easy to make the sins of others seem so much worse than one's own, to redraw the lines in a way that makes one seem relatively better and others relatively worse than what is accurate to reality.
+
+Secondly, we humans are very poor at judging anything deeper than the surface level. The issue is, what God really cares about most of the time is the heart. It is true that the actions of spiritually mature people---their "spiritual fruit"---will shine forth their faith, but it ought to take only the tiniest bit of honest reflection to realize that it is simply impossible for human beings to really know the hearts of others in the way that would be necessary for us to make completely accurate assessments about "how well they are doing spiritually."
+
+Finally, comparing the skeletons in our closets tends to put the emphasis on the past, rather than focusing on the present. We can't change the past and we can't control the future, so the only day we should care about as Christians is the present. No matter if yesterday holds a long chain of spiritual victories or an unfortunate chain of spiritual defeats, either way, what we ought to be doing today *does not actually change one bit*. Think about that for a second. Our orders from our Commanding Officer will not wait on excuses of past failure. And if we let focus on the past get in the way, then we are failing as soldiers in the present!
+
+For all these reasons, and others besides, comparing ourselves to other Christians is not something that we ought to do as general practice. The natural question to ask then is if it is possible for us to look to the example of other Christians to find inspiration in our own walk without at the same time engaging in this sort of harmful comparison? While one might be able to make a longer argument, we shall here content ourselves with simply asserting that the two things are not identical---that is, that it is entirely possible for us to draw inspiration from our brothers and sisters in Christ without at the same time necessarily slipping into comparison of the problematic variety.
+
+Given that presupposition, well, who is it exactly we are looking to for spiritual inspiration? We can certainly look to those who came long before---like the folks mentioned in Hebrews 11---but we can also actually look to those around us in our own individual circumstances. We can marvel at the work God is doing through them, appreciate the glory their faith brings to God. We can try to make similar choices in our own lives to similarly reflect God's glory, try to also act in such a way that God is not ashamed to call us His people. And we can do all of this without slipping into comparison. It mostly just requires us to firmly keep in mind that we are all of us but tools in the hands of the Master Craftsman, and all glory thus belongs to Him, not ourselves.
+
+##### Examples of Christians in our own lives who we might look to for inspiration {#drawing-inspiration-from-the-faith-of-others-examples-of-christians-in-our-own-lives-who-we-might-look-to-for-inspiration}
+
+###### Our Bible teachers {#drawing-inspiration-from-the-faith-of-others-our-bible-teachers}
+
+If we are going about the process of spiritual growth correctly, each of us should have a Bible teacher that we submit to, the person we look to as our primary point of contact for answering spiritual questions we may have, the person who provides the primary form of spiritual nourishment that we take in.
+
+Put simply, if we have done well in selecting our Bible teachers, they ought to be very natural people for us to be inspired by. Since trusting their character and spiritual knowledge is something that is all but mandatory anyway for us to be able to submit to them and trust what they say, then it ought to be no surprise that lay Christians commonly end up looking up to their Bible teachers. This is completely right and proper.
+
+###### Older mentor figures {#drawing-inspiration-from-the-faith-of-others-older-mentor-figures}
+
+In my own personal experience, I have found it very helpful to cultivate relationships with Christians older than me, treating them as people with experience and perspective that I lack, people I can learn from. Given that sometimes our Bible teachers end up older than us (although sometimes not too, as there is nothing wrong with younger pastor-teachers---cf. 1 Timothy 4:12), then this sort of "looking up to older believers" idea may overlap with what we discussed above with respect to looking up to our Bible teachers. But it can also be true of other lay Christians in the body of Christ---those who perhaps have a similar role to play as the one you may have identified for yourself, for example.
+
+While age is no guarantee of maturity, with greater age comes greater potential. In this way, while it is perhaps accurate to say that age is commonly overrated in terms of what it means for one's spiritual maturity, it is also improper to pretend like older folks have had no more time than younger folks to grow in the truth. It is simply not true.
+
+The trick then is finding the older folks who have *actually* lived lives worthy of emulation, who have made good use of their lives by putting God first and growing spiritually. Not so you can put them up on a pedestal and treat them as some sort of unattainable ideal, but so that you can learn from them---so that the body of Christ might properly build itself up in love.
+
+###### The high outliers {#drawing-inspiration-from-the-faith-of-others-the-high-outliers}
+
+We might also draw inspiration from people who are in our own generational cohort, or even people who are younger than us. If we look towards people's spiritual growth and zeal for God, then there will be times when we ought to marvel at all that someone has done given their relative youth, their relative economic or social disadvantage, or whatever else might tend to set certain expectations that these exceptional folks then shatter.
+
+Put simply, the hottest of the red-hot, no matter their age or relation to us, are always worth looking to for inspiration. It may be human nature to struggle to respect young people or poor people or people without lots of education (and so on), but we ought to fight against that, for if we do not, we will find ourselves incapable of drawing encouragement from God's masterful use of such people, and the example in faith that they set us, if their faith actually is something special.
+
+And that really is all there is to it. Once we recognize, as we ought, that faith is honestly the only thing of importance---and exactly how hard it is to hold tightly onto faith in this world of ours---then in fact it ought to be easy for us to be inspired, even awed, by all those who run an exceptional spiritual race, regardless of everything else about them (like their age or social status or level of education and so on). These other things *simply aren't relevant* when it comes to appreciating the witness of their commitment to the Lord.
+
+##### Conclusions {#drawing-inspiration-from-the-faith-of-others-conclusions}
+
+Alongside the accounts of particularly faithful historical believers we have in scripture, like those mentioned in Hebrews 11, we can also look to Christians in our personal lives for inspiration. The example of these others can serve as a witness to us that the exercising of godly faith was not only something possible for believers of old, but is also something possible for us for us here in the present.
+
+{{% /toggleable-content %}}
+
+
+
+<br/>
+
+
+
+### [	What We Believe Will Always Become a Reality… If and Only If We Target Our Faith Properly](/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-call-you-to-trust-god/what-we-believe-will-always-become-a-reality-if-and-only-if-we-targe) {#what-we-believe-will-always-become-a-reality-if-and-only-if-we-target-our-faith-properly}
+{{< subjects >}}
+
+{{< /subjects >}}
+
+
+
+#### Summary {#what-we-believe-will-always-become-a-reality-if-and-only-if-we-target-our-faith-properly-summary}
+
+This week, our Workbook made several points:
+
+{{% quote %}}
+Our faith gives us assurance that what we believe will become a reality. When we know the character and power of God, and we believe what God has promised, then we can be assured that God will do what He has said He will do.
+
+In the Bible, faith is always God-centered. The writer of Hebrews does not encourage us to have faith in ourselves or in our own desires, but in God. We cannot always make our own dreams successful, regardless of how hard we work to that end. But faith in God is always rewarded. It is not the power of positive thinking, for we are limited in how much we can make our thoughts become a reality. God, however, can bring every one of His purposes to reality in our lives. When we place our faith in Him, we can be absolutely confident that He will do what He has said.
+{{% /quote %}}
+
+On this page, we will be examining the idea that our faith leads to certain outcomes if and only if said outcomes are in the Will of God. In other words, we do not get to twist God's promises into whatever we might want them to be.
+
+{{% toggleable-content %}}
+
+#### Content {#what-we-believe-will-always-become-a-reality-if-and-only-if-we-target-our-faith-properly-content}
+
+<!-- --- -->
+
+##### Not everything we ask for is a guarantee {#what-we-believe-will-always-become-a-reality-if-and-only-if-we-target-our-faith-properly-not-everything-we-ask-for-is-a-guarantee}
+
+Consider John 14:13 as an example. When the Bible tells us that Jesus will do whatever we ask in His name, it is a mistake to get greedy, so to speak, about the "whatever."
+
+God will always do what is best for us spiritually (compare Romans 8:28-30), even unto giving us life eternal. That does not always mean it is what we ourselves might wish for, because very often our perspective is not as complete as God's is. For example, oftentimes we would wish to avoid suffering in life. However, the Bible is clear that suffering provides the testing that refines our faith, meaning that it is an important part of spiritual growth (compare James 1:2-4; Romans 5:3-5). So is praying that we might avoid all suffering really even a good thing for us, spiritually speaking?
+
+Where I'm going with this is not so much that we ought to pray that we might suffer or not pray that we might be delivered from it, but simply that we must make a point to not get angry at God if we pray to avoid suffering yet find ourselves being tested with it nonetheless. Because God knows so much better than we ever could what is truly best for us.
+
+What we are going to talk about now is basically when certain parties take the "whatever" of John 14:13, and start plugging in things that have no business being there. And then get mad at God because "we ought to have certain faith in God's promises, and God promised He would give us whatever we asked!"
+
+Many people might here roll their eyes and remark that they would never engage in a pattern of behavior that is so clearly foolish. However, it is *very* common for us (all of us) to let our own desires or expectations get in the way of our relationship with God on a smaller scale... perhaps even at a level under our conscious attention. We might feel a sense of entitlement, like our prayers deserve an answer, that it is owed to us. Because we prayed earnestly and asked God to do something for us, we might feel put out if it does not happen how we asked.
+
+So, for example, we might become angry at God if a family member is sick and we pray for their healing but they die from their illness instead. Or perhaps we pray for continued employment to provide for our family in the midst of an economic recession, and yet we lose our jobs. We prayed these things in Jesus' name, did we not? So why did they not happen? Doesn't John 14:13 say that whatever we pray in the name of Jesus He will do for us? So what gives?
+
+##### The only things we can be certain of are God's promises as related in the Bible, not our own desires or even what others might call God's promises {#what-we-believe-will-always-become-a-reality-if-and-only-if-we-target-our-faith-properly-the-only-things-we-can-be-certain-of-are-god-s-promises-as-related-in-the-bible-not-our-own-desires-or-even-what-others-might-call-god-s-promises}
+
+The heading of this section is the main point of this page, more or less. It might be tempting sometimes to feel like God is perhaps a bit flaky, if we keep praying for all these things and yet they don't happen how we pray for them to happen. Maybe we are left feeling like we can't trust God to come through for us.
+
+If ever we find ourselves feeling this way, it usually has something to do with us not lining up our prayers with the Will of God as we ought. All the noises we make about being able to boldly trust in all that God has told us and rely upon His promises, all of that rests upon us actually knowing what His promises are, *and also what they are not*.
+
+In broad strokes, God's promises are not individual things in our lives like specific events---a promotion at work, an important medical checkup, or whatever else---but are much broader. For example, He promises that He will never leave us nor forsake us; He promises us that we will have eternal life so long as we believe in Him. These are things that we may have complete and total trust in; this is the certainty that Hebrews 11:1 calls to mind.
+
+Some of the hardest situations we may have to navigate in our lives are when we cannot see the reasons for something---like the death of a loved one, like war and disease and genocide. We might pray for specific outcomes relating to some of the horrors of the world, only to find ourselves still afflicted, not spared in the way we might wish.
+
+When we are tempted to bitterness in such times, it would do us well to remember that God does *not* in fact promise us blissful lives free from suffering and pain, even though some people falsely claim so. He promises us many things, but actually many of the things that people might think would be promises of God---things that they've heard others call promises of God, things that they *want* to be promises of God---many of these things are not in fact promises of the certain variety. And that can be a hard lesson for us.
+
+Rather than immediately getting angry at God when we feel like our expectations have been violated, we should instead check ourselves and first examine whether the Bible really supports what we feel to be necessary, whether it mandates it in a way that would make God's actions certain. If we are honest with ourselves, did God not do something that He promised, or is the thing that we wanted Him to do something that He never actually promised?
+
+It is far better for us to err very much on the side of giving God the benefit of the doubt, to acknowledge that we are but small humans with just a very narrow slice of perspective. Even acknowledging this, however, does not always make things easy in practice. But if we trust in the wider promise that God is always working things for our eternal spiritual good, perhaps it will be easier for us to trust Him in all the rest of the things that we may not understand at present, and in fact may not ever understand until we see Him face-to-face in eternity.
+
+{{% /toggleable-content %}}
+
+
+
+<br/>
+
+
+
+### [Why Was Abel's Sacrifice Acceptable, Even Praised, but Not Cain's?](/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-call-you-to-trust-god/why-was-abels-sacrifice-acceptable-even-praised-but-not-cains) {#why-was-abel-s-sacrifice-acceptable-even-praised-but-not-cain-s}
+{{< subjects >}}
+
+{{< /subjects >}}
+
+
+
+#### Summary {#why-was-abel-s-sacrifice-acceptable-even-praised-but-not-cain-s-summary}
+
+Hebrews 11:4 says that by faith Abel was approved as a righteous man on account of the sacrifice that he gave to God, and that his sacrifice was better than Cain's.
+
+People have an easy time understanding why Cain was punished after he murdered his brother. But why was Abel's sacrifice pleasing to God to begin with, but not Cain's? That is the question that this page will set out to answer.
+
+{{% toggleable-content %}}
+
+#### Content {#why-was-abel-s-sacrifice-acceptable-even-praised-but-not-cain-s-content}
+
+<!-- --- -->
+
+##### The passage in Genesis chapter 4 {#why-was-abel-s-sacrifice-acceptable-even-praised-but-not-cain-s-the-passage-in-genesis-chapter-4}
+
+In Genesis 4:2-5, we have the scriptural account that outlines the fact that God found Abel's sacrifice pleasing, but not Cain's:
+
+{{% ot t="ESV" p="Genesis 4:2-5" h="400px" %}}
+
+{{% scripture-h p="Genesis 4:2-5 | NIV84" %}}
+Now Abel kept flocks, and Cain worked the soil. **3** In the course of time Cain brought some of the fruits of the soil as an offering to the Lord. **4** But Abel brought fat portions from some of the firstborn of his flock. The Lord looked with favor on Abel and his offering, **5** but on Cain and his offering he did not look with favor. So Cain was very angry, and his face was downcast.
+{{% /scripture-h %}}
+
+{{% scripture-l p="Genesis 4:2-5 | NIrV" %}}
+Abel took care of sheep. Cain worked the ground. **3** After some time, Cain gathered some of the things he had grown. He brought them as an offering to the Lord. **4** But Abel brought the fattest parts of some of the lambs from his flock. They were the male animals that were born first to their mothers. The Lord was pleased with Abel and his offering. **5** But he wasn’t pleased with Cain and his offering. So Cain became very angry. His face was sad.
+{{% /scripture-l %}}
+
+{{% /ot %}}
+
+Because we know that God is completely Just, we know that He cannot show favoritism simply because He likes offerings of livestock better than offerings of crops (cf. Deuteronomy 10:17; Job 34:19; Romans 2:11; Acts 10:34-35; etc.). Nor do I personally believe we have ground to stand on to say that this event had much of anything to do with raising livestock being inherently more godly than farming crops. On what basis? That's nonsense.
+
+The thing that makes the interpretation of this passage somewhat difficult is that the text itself does not explain much; it does not have a clear description of why God favored Abel's sacrifice but not Cain's, at least not directly.
+
+##### One possibility is that the only difference between the two was heart state {#why-was-abel-s-sacrifice-acceptable-even-praised-but-not-cain-s-one-possibility-is-that-the-only-difference-between-the-two-was-heart-state}
+
+Let me use an analogy. Let us say that two men both make about the same amount of money, and both contribute about the same amount to support their Bible teacher financially, as is appropriate (cf. 1 Corinthians 9:1-18).
+
+To an outside observer, their actions might appear quite similar. But let us say that the first man gives willingly and joyfully, thankful to be given the honor of directly supporting the teaching of the Word, while the second man only gives because his wife nags him to do so to keep up appearances, so that their neighbors will not view them as miserly.
+
+Do you think that God would be unjust in having a positive attitude towards the first and a negative attitude towards the second?
+
+Mapping this onto our passage, Abel would be like the first man, and Cain like the second.
+
+##### The symbolism of blood sacrifice {#why-was-abel-s-sacrifice-acceptable-even-praised-but-not-cain-s-the-symbolism-of-blood-sacrifice}
+
+I think it would be acceptable to leave things even at just that. That is, I do not think it is *necessary* to spill more ink in order to explain how God's actions in context could be completely Just. Different heart states, in other words, is a perfectly reasonable explanation for why God might treat Abel and Cain differently, even though their sacrifices might seem similar on the surface.
+
+However, I will make one additional point. From the Protoevangelium in Genesis 3 all the way through the temple sacrifices in the Mosaic Law, blood sacrifice was always highly symbolic, pointing to the eventual sacrifice of Christ upon the cross, shedding His blood[^blood-of-christ] in order that we might have life, even eternal life.
+
+[^blood-of-christ]: Figurative blood not literal blood is what is important salvifically: it was Christ taking the divine judgment for our sins upon His shoulders in our place that saves us, not His physical blood. See [here](https://ichthys.com/4A-Christo.htm#4._The_Blood_of_Christ:_) for more on this frequently used metaphor in scripture.
+
+Hebrews 11:4 emphasizes Abel's faith. Quite simply, if the matter of sacrifices in Genesis 4 had just been something along the lines of "giving the first fruits of one's labor to the Lord," then there is little logical basis for why Abel's sacrifice would be marked out as a sign of special faith. It would be the right thing to do, sure, but would that alone make him "Hebrews-11-worthy" (so to speak), alongside the other heroes of the faith?
+
+Both the Genesis passage itself and reference to Abel's faith in Hebrews 11:4 make a great deal more sense if this sacrificing business was really all about acknowledging the fact that it is impossible for us to work our way into God's favor---if Abel's blood sacrifice here was acknowledgment on His part of God's Grace and Mercy. Abel was willing to submit himself to God, looking by faith towards God's eventual sacrifice for sin once for all, while Cain only focused on bragging to God about what he had done himself on his own effort.
+
+Personally, this is how I take the passage in Genesis 4, although I do acknowledge it is somewhat of an inference. This is also the position that Ichthys takes:
+
+{{% quote text="Ichthys" src="https://ichthys.com/mail-Against-Universalism-III.htm#:~:text=Please%20clarify.-,response%20%237%3A%20,-Great%20to%20hear" %}}
+
+"Works" are things "we do for God". That whole mentality is sinful because God doesn't need anything from us (contrary to what pagan religion assumes: Acts 17:25). God doesn't need us – we need God. This principle is seen clearly in the example of Cain and Abel. Cain offered God some vegetables: "Look at what I did! And now I'm giving you some!" This whole attitude is abhorrent to the Lord because 1) He needs nothing from us so to assume He'll reward us for doing something He neither needs nor wants nor asked for is arrogant in the extreme; 2) To think that we can actually "reward God" so that He then "owes us something" (cf. Rom.4:4) is downright blasphemous; and 3) anything we could ever "do" in this life is only possible because God has given us the means to do it (cf. Deut.8:18; 1Chron.29:16).
+
+Faith, on the other hand, is the opposite of work. Faith is being willing to receive a gift. Faith is the completely non-meritorious function of our will. Faith is free-will exercised without effort or sweat. Faith is accepting God's authority, and, in the case of salvation, accepting God's free gift. The difference is profound. If we exert effort for salvation, we are earning it (if it could be earned, which it cannot); we deserve it – in that hypothetical, impossible case. But in fact there is nothing we could do in a thousand lifetimes if we devoted all of our waking efforts to the problem to remove the guilt of the smallest sin we have ever committed. Salvation cannot be earned. It cannot be worked for (efficaciously, at any rate). And trying to work for salvation is the most egregious insult to God the Father who judged all of our sins in His beloved Son so that we might not have to face such an impossible situation, and to God the Son who has born the guilt of all of our sins so that we might be saved in the only way it was possible to be saved: through non-meritorious faith, accepting Him as our Substitute. Abel understood and accepted what Cain would not have. His "offering" was a *symbolic representation* of what Christ would do – die for all sin to open the way for mankind's salvation. Abel's offering was not "work"; Abel's offering was "worship". When Christians "do" anything in a spiritual vein it is "good" because God has planned it and empowered it. Legitimate Christian "good works" follow salvation rather than preceding it and are done in the power of the Holy Spirit not in the power of the sinful flesh.
+
+{{% scripture p="Ephesians 2:8-10 | NIV" %}}
+For it is by grace you have been saved, through faith---and this not from yourselves, it is the gift of God---not by works, so that no one can boast. For we are God's workmanship, created in Christ Jesus to do good works, which God prepared in advance for us to do.
+{{% /scripture %}}
+
+{{% /quote %}}
+
+{{% /toggleable-content %}}
+
 {{% /toggleable-discussion-pages %}}
 
 
@@ -1254,6 +1489,69 @@ This logically necessitates that Paul wrote a shopping list that contains "apple
 
 {{% /toggleable-content %}}
 
+
+
+<br/>
+
+
+
+### [Reflections Upon God’s Love As Expressed in Exodus 34:6–7a, in the Context of the Exodus Generation](/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-align-with-gods-character/reflections-upon-gods-love-as-expressed-in-exodus-34-6-7a-in-the-context-of-the-exodus-generation) {#reflections-upon-gods-love-as-expressed-in-exodus-34-6-7a-in-the-context-of-the-exodus-generation}
+{{< subjects >}}
+
+{{< /subjects >}}
+
+
+
+#### Summary {#reflections-upon-gods-love-as-expressed-in-exodus-34-6-7a-in-the-context-of-the-exodus-generation-summary}
+
+{{% nt t="esv" p="Exodus 34:6-7" h="400px" %}}
+
+{{% scripture-h p="Exodus 34:6-7a | NIV84" %}}
+**6** And he passed in front of Moses, proclaiming, “The Lord, the Lord, the compassionate and gracious God, slow to anger, abounding in love and faithfulness, **7** maintaining love to thousands, and forgiving wickedness, rebellion and sin.
+{{% /scripture-h %}}
+
+{{% scripture-l p="Exodus 34:6-7a | NIrV" %}}
+**6** As he passed in front of Moses, he called out. He said, “I am the Lord, the Lord. I am a God who is tender and kind. I am gracious. I am slow to get angry. I am faithful and full of love. **7** I continue to show my love to thousands of people. I forgive those who do evil. I forgive those who refuse to obey. And I forgive those who sin.
+{{% /scripture-l %}}
+
+{{% /nt %}}
+
+God makes this proclamation right on the heels of the Israelite's sin regarding the golden calf. On this page, we will be examining what it means that God says such things even in this context, and what we might take away from such.
+
+{{% toggleable-content %}}
+
+#### Content {#reflections-upon-gods-love-as-expressed-in-exodus-34-6-7a-in-the-context-of-the-exodus-generation-content}
+
+<!-- --- -->
+
+##### Recall, some of the great things God had shown to this generation {#reflections-upon-gods-love-as-expressed-in-exodus-34-6-7a-in-the-context-of-the-exodus-generation-recall-some-of-the-great-things-god-had-shown-to-this-generation}
+
+God led his people out of slavery in Egypt. He showed them many miraculous signs, sending plagues upon the Egyptians when Pharaoh did not let His people go. Even more, when Pharaoh sent his army in pursuit, God parted the Red Sea for the Israelites, and then utterly destroyed the pursuing army in a breathtaking display of power and glory. After that, God provided for the Israelites in the wilderness, giving them quails and manna for sustenance in an overtly miraculous way.
+
+The Lord did all of these things in the sight of the people. Never once did He fail to provide for them, never once did He fail to deliver them. Instead, they were given to see miracle after miracle as God delivered them from the hand of their enemy and led them into the land He had promised Abraham, their ancestor.
+
+##### But the hearts of the people were hard {#reflections-upon-gods-love-as-expressed-in-exodus-34-6-7a-in-the-context-of-the-exodus-generation-but-the-hearts-of-the-people-were-hard}
+
+So were the people grateful for the deliverance God had worked for them? Did they praise Him for His Mercy and Power?
+
+Unfortunately not. The people whined and grumbled, even pointing their hearts back towards Egypt, where they had been in captivity (Neh.9:16-17; cf. Num.14:1-4). And they did not content themselves to leave their sin at just that, but in Exodus 32 even went so low as to make an idol of gold and worship it instead of contenting themselves to wait for Moses' return.
+
+##### Yet God's Mercy did not utterly turn from them even so {#reflections-upon-gods-love-as-expressed-in-exodus-34-6-7a-in-the-context-of-the-exodus-generation-yet-god-s-mercy-did-not-utterly-turn-from-them-even-so}
+
+Following their idolatry in Exodus 32, the Bible is very clear that God was displeased with the Israelites, to be sure. And He had every right to be, given their poor attitude and evil works.
+
+Yet in Exodus 34:6-7a, God still proclaims to Moses His Grace and Mercy. He did not wipe the Israelites off the face of the Earth, nor, as the following narrative shows (as in the book of Joshua), did He abandon them as they went on to conquer Canaan. Instead, He still lovingly superintended them and led them into their inheritance.
+
+##### What might we take away from all this? {#reflections-upon-gods-love-as-expressed-in-exodus-34-6-7a-in-the-context-of-the-exodus-generation-what-might-we-take-away-from-all-this}
+
+If you have ever been tempted to hide your face from God on account of sin, then God speaking these words to Moses right after the gross sin of the Israelites ought to provide example enough of God's gracious attitude toward sinners. If we refuse to turn back to Him, the only ones we are hurting are ourselves. We will be disciplined for our sin as all true children of God are (compare Hebrews 12:4ff.), but never will God's attitude of Love and Mercy towards us be turned to Wrath and Judgment. All we must do is believe.
+
+Let me phrase this more bluntly: in your sin, did you make a golden calf and bow down to it right after God miraculously delivered you from your enemies? Did you truly spit in His face to such a degree as them? So who are you to doubt that God will forgive you? He said these gracious words after being betrayed by them then, so how much more will He *not* cast us aside now? It is actually subtly arrogant to think that God can't handle our sin, because Jesus already paid for it all, nailed to the cross. So when God tells us we are forgiven when we confess and mean it (not arbitrarily so, but because of that precious blood that has been shed), the correct response on our part should be an immediate "Sir, yes Sir!" with a heart of gratitude, not moping and hand-wringing and worrying that we are too bad to actually be forgiven. Give God some credit here! The cross is not powerless in the face of our sin, but it is in fact very much the other way around.
+
+In any case, the point is not to compare ourselves and our sin to the Israelites and their sin, to think that we might somehow have done better in their circumstances. The point is that God's Graciousness and Mercy are more than sufficient---on account of Jesus' work on the cross---to cover *all* our sin, no matter how wide and dark it may be. This is God's nature, by His choice: not because He is somehow obligated to forgive our sin, but because He loved us so much that he sent His only Son to suffer in our place upon the cross in order that we might be reconciled to Him forevermore.
+
+{{% /toggleable-content %}}
+
 {{% /toggleable-discussion-pages %}}
 
 
@@ -1327,9 +1625,233 @@ Jesus gave up everything for the glory of the Father. Are we willing to do the s
 This week's lesson starts on page 95 of the workbook, and was what we went through on 02/19/2023.
 
 
-{{% discussion-pages %}}
+{{% toggleable-discussion-pages %}}
 
-{{% /discussion-pages %}}
+### [Who Are the People the Father "Gave" Jesus?](/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-honor-god/who-are-the-people-the-father-gave-jesus) {#who-are-the-people-the-father-gave-jesus}
+{{< subjects >}}
+
+{{< /subjects >}}
+
+
+
+#### Summary {#who-are-the-people-the-father-gave-jesus-summary}
+
+In John 17:2, 6 Jesus mentions those "whom the Father gave Him."
+
+This page will examine exactly what that means, in the context of Calvinism, predestination, and free will.
+
+{{% toggleable-content %}}
+
+#### Content {#who-are-the-people-the-father-gave-jesus-content}
+
+<!-- --- -->
+
+##### Foreword: On Calvinism, predestination, and free will {#who-are-the-people-the-father-gave-jesus-foreword-on-calvinism-predestination-and-free-will}
+
+###### Introduction {#who-are-the-people-the-father-gave-jesus-introduction}
+
+In theology, the idea of salvation being all about God's choice (completely ignoring our choice) is usually discussed in terms of so-called "Calvinism," with this idea in particular called "predestination." The idea that God specifically predestined some to heaven and some to hell is called "double predestination" (at least by those of us who disagree with it). The double bit comes from acknowledging explicitly the logical complement of God predestining some for heaven---that He must then *also* predestine some for hell simply because He does not predestine them for heaven. That is, if God chooses to save some arbitrarily, it also means that he chooses to damn others arbitrarily (well, to be precise, He condemns them on the basis of their unbelief---which He doesn't actively coerce within them---but more the operative point is that He arbitrarily decides not to save them by irresistibly drawing them to Himself as He does the elect). Yet, apparently, some parties try to wriggle out of the second bit somehow, and just make it about God saving people.
+
+Even people in the Reformed camp (those actually themselves teaching double predestination) point out the irrationality of arguing for so-called single predestination, which only focuses on the saving bit. For example, [R.C. Sproul of Ligonier](https://www.ligonier.org/learn/articles/double-predestination-biblical). On that page, Sproul does also make the point that the traditional Reformed view of double predestination only makes the positive side irresistible (i.e., coerces man's will therein), not the negative. Put more simply, God is only the author of salvation; when human beings sin and choose unbelief, it is not because "God made them do it." Under Sproul's view, this makes God's actions "asymmetric"---God positively and actively intervenes in the lives of the elect to bring them to salvation, but does *not* positively and actively intervene in the lives of the reprobate to bring them to sin and unbelief.
+
+By way of contrast, those of us who do not believe in any form of arbitrary predestination at all (such as myself) *do* still believe that God is the one who brings the elect to salvation (on His power, and through the sacrifice of His Son on our behalf---*not* on account of our own works), but that our free will is in fact a critical component. Put succinctly, God chooses *all* who choose Him; His election of us specifically is conditional upon our individual choice.
+
+There is still "predestination" in this, the point is just that it isn't arbitrary, but conditional upon our choice. God is outside spacetime, and knows who will choose for Him before they even exist. These people---who both sides in the debate call "the elect" because scripture itself uses that language (cf. Matthew 24:24; Luke 18:7; Romans 8:33; Titus 1:1; etc.)---were known by God and worked into His plan from the very beginning. But they are not elect because God grabbed them by the coat and *made* them elect---as if by dragging them kicking and screaming---but they are elect simply because God foreknew their free will choice for Him.
+
+###### Believing in free will does not mean that we believe that we save ourselves {#who-are-the-people-the-father-gave-jesus-believing-in-free-will-does-not-mean-that-we-believe-that-we-save-ourselves}
+
+A straw man that some Reformed folks might throw up is something like "But you are arguing that humans can save themselves---how arrogant!" No... not in the least. Even believing in free will, we are still in great need of a savior, and if God didn't do all He had in judging Jesus Christ in our place upon the cross, every single one of us would be damned with no hope of saving ourselves on our own power. We *cannot* work our way into heaven in the slightest... and that is not what believing in human free will means. Believing in human free will just means that we think the elect believe not because God brainwashed them into believing, but because they make a *choice* to do so, without any pressure from God.
+
+First of all, we only have free will (the very image of God, cf. Genesis 1:27) because *God* gave it to us; the ability to have a will and to choose is what makes us "godlike", and distinct from the animals. So if we only have the ability to choose because God created us as possessing the ability to choose (not due to any action on our part), how then can we be said to save ourselves, when our very salvation is contingent upon this ability to choose?
+
+Secondly, we would not even know of our need to turn to God if He did not make it clear through natural revelation (compare Psalm 19 and Romans 1)---if He did not first call all of us to Him. If the testimony and warnings of natural revelation are like signs warning of a washed-out road ahead, then we only turn back because *God* put up those signs. Otherwise all of us would simply rush headlong into our doom, none the wiser. This too is worked entirely by God's hands, not our own.
+
+Thirdly, even if we want to heed the signs, we still have need of instruction in what to do next to solve our terrible dilemma (namely, that we are sinful beings, that death is inescapable, and that we will face a Perfect God when we die). This is so-called special revelation: specific knowledge of Christ that God provides to all those who truly heed the warnings of natural revelation in their hearts. If *God* did not tell us how we might be rescued from our plight (that is, by believing in Christ), we would still be helpless to escape our destruction. Even if Christ had died for us already, we wouldn't be able to lay hold of that means of escape if God didn't Himself point it out to us, because we are too blind on our own to see it. Again, all God, none us.
+
+Finally---and most importantly---we cannot actually solve even the tiniest bit of the dilemma on our own power. We are not lambs without blemish; we are not even qualified to pay for our own sin, since we are unworthy sacrifices! Because of this helplessness, 100% of the "payment" for our salvation comes from God, not ourselves. This means we are only saved because *God* did absolutely everything needed for us to be saved (that was the cross, upon which Jesus paid for the sins of "the world" = of everyone who ever has or ever will live---compare John 1:29; John 3:16-17; 1 John 2:2; 1 John 4:14; and also see Romans 3:25-26 for more on the idea of pre-cross sins still being paid for through the blood of Christ, but just "on credit").
+
+So no, believing in free will does *not* mean we believe we save ourselves. Not in the least. Our non-meritorious faith does not bring about our own salvation on its own. It is merely us choosing to grasp the rope that God has thrown down into the pit to save us, instead of stubbornly refusing to grab ahold of it due to the fact that it is God on the other side of that rope.
+
+###### The family of God in eternity will be self-selected {#who-are-the-people-the-father-gave-jesus-the-family-of-god-in-eternity-will-be-self-selected}
+
+God reaches out to *all* and calls *all* to believe, not only those whom He foreknows will actually respond; because Jesus Christ died for the sins of the whole world, every single human being who has ever lived has been given all they need to be saved, if only they would "not say no". It's just that most people choose not to respond positively to that call... due to their free will. And so if they won't choose God, God won't choose them either (even though He greatly wishes for them to be saved too---cf. 2 Peter 3:9; 1 Timothy 2:4), and they will thus not number among the elect.
+
+And so it is that the family of God in eternity will be self-selected, a group of people who esteemed God over the world, who *chose* to love Him despite the fact that doing such earns us the world's hatred and a life of suffering for His glory.
+
+##### So... back to those the Father "gave" Jesus in John 17 {#who-are-the-people-the-father-gave-jesus-so-back-to-those-the-father-gave-jesus-in-john-17}
+
+Maybe that preamble seemed overly long and a bit irrelevant, but it was all so I could now simply say:
+
+> God gives all those to Christ whom He foreknew as believing in Christ.
+
+That really is all there is to it, no Calvinism necessary. This concept works with human free will just fine, it just requires one to acknowledge God's foreknowledge, exactly as the Bible itself does.
+
+##### Eisegesis, exegesis, and Calvinists {#who-are-the-people-the-father-gave-jesus-eisegesis-exegesis-and-calvinists}
+
+This passage in John 17 serves as an excellent showcase of the tendency some Calvinists have to engage in *eisegesis*. You may be more familiar with the term *exegesis*. These words have to do with our approach to interpreting the Bible---the process by which we settle upon its meaning.
+
+Put simply, when we interpret, we must always focus on what the text actually says---taking things *out* of it (hence ex-), not reading them *into* it (hence eis-). If we have presuppositions, we must acknowledge them and not use the passages to circularly prove them.
+
+And this is where certain Calvinists fail here. If you presuppose double predestination, nothing will inherently stop you from interpreting those God gives to Christ here as people God has arbitrarily chosen to give eternal life to. It is textually allowable; it does not engender a logical contradiction to interpret that way in this particular passage.
+
+The point is, it is *also* textually allowable here to take the elect given to Christ as those God has foreknown as believing based upon their own free will choice. And that is exactly why using this passage as "proof" of double predestination is complete nonsense. (To be clear, this particular passage also *cannot* be used as proof for my position either, as both interpretations work fine textually in this specific place). For either side, if you use this passage in John 17 as a proof text, you are assuming the very position you say you are proving!
+
+This split holds absolutely everywhere. Consider John 3:16, a very famous verse to be sure. Calvinists will say that the people who believe and therefore have eternal life have just been irresistibly called by God. The rest of us, myself included, will say that believe just means believe and that there is nothing else "there" in this verse. The thing is, the verse hardly says "double predestination is a false doctrine!"... and thus we end up right back at this problem of *eisegesis*.
+
+Here's the thing though: no matter how many verses you look at (interpreting scripture with scripture, as we are supposed to---that is essentially the cornerstone of hermeneutics), you will not find *any* that directly teach double predestination, the idea that God arbitrarily chooses some people but not others. There are a number of places in scripture that can be made to "work" with such an idea---such as the one we have just gone over above---but none of them actually logically mandate the position, leaving it only ever as a complete assumption.
+
+Now, I would be a hypocrite if I didn't here provide some direct scriptural evidence for the opposing position I'm putting forward, yes? Turnabout being fair play and all that. Well, what about Romans 8:29-30?
+
+{{% scripture p="Romans 8:29-30 | NIV84" %}}
+**29** For **those God foreknew** he also predestined to be conformed to the likeness of his Son, that he might be the firstborn among many brothers. **30** And those he predestined, he also called; those he called, he also justified; those he justified, he also glorified.
+{{% /scripture %}}
+
+It is my opinion that Romans 8:29 is plenty clear about what is going on here. Calvinists still disagree (pointing out, for example, that the verse says just "those God foreknew" and not "those God foreknew [as believing in Jesus Christ of their own free will]"), but one reaches a point where the burden of proof falls squarely upon those who object to what is by far the most straightforward way to take the text. That is to say, I have never come across a single convincing explanation for what sense it makes for "foreknew" to be in this progression of "foreknew, predestined, called, justified, glorified" if those God would foreknow are the very ones He Himself arbitrarily predestined. If He's the one doing the predestining, then what reason would He have for foreknowing before predestining? Since human free will wouldn't matter anyway, there would be nothing to foreknow.
+
+The straightforward reading of this passage logic-wise is that God predestines all those whom He *previously* foreknows (i.e., He foreknows before He then predestines, in the sense of "first this... then this... then this"). The logical causality is clearly in that direction; that is, the predestining does not come logically first (as the Calvinist position would require), but logically second. Just as God calls (in a salvific sense here---contrast the fact God does actually "call" the entire world in the sense of natural revelation) all those He predestines, justifies all those He calls, and glorifies all those He justifies.
+
+*This* is therefore the passage, in my opinion, that one ought to base one's rejection of double predestination on, not John 17. Because while both positions might work relatively OK in John 17 textually, only one works acceptably here in Romans 8:29-30. Otherwise, we read our assumptions into the Bible when interpreting, and fall into *eisegesis* rather than *exegesis*.
+
+{{% /toggleable-content %}}
+
+
+{{% /toggleable-discussion-pages %}}
+
+
+
+
+<br/>
+
+
+
+## [Does the Voice Lead You to Be More Like Jesus?](/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-lead-you-to-be-more-like-jesus) {#does-the-voice-lead-you-to-be-more-like-jesus}
+{{< subjects >}}
+
+{{< /subjects >}}
+
+
+
+### Summary {#does-the-voice-lead-you-to-be-more-like-jesus-summary}
+
+This week, our Workbook used passages from Colossians 3 to discuss the transformation that God works within us as Christians. Over time---if you do as you ought in learning, believing, and applying God's Truth, as contained in the Bible---you will "put off the old self with its practices" (Colossians 3:9) and "put on the new self... being renewed in knowledge according to the image of your Creator" (Colossians 3:10).
+
+This sort of thing is discussed by Paul elsewhere as well, in some of his other letters. Ephesians 4:22-24 is basically directly parallel to Colossians 3:8-10. Romans 12:1-2 is closely parallel too, talking about the transformation effected by the renewing of our minds. And in Romans 6:6 Paul says that our old self has been nailed to the cross with Christ, such that we are no longer slaves to sin.
+
+Ephesians 2:1-10 can help us understand the magnitude of the changes God works within us. We---who were once dead in our transgressions and sins, gratifying the cravings of our flesh and following its desires and thoughts---have not only been saved, but have also been given works from the very hand of God, in order that we might walk in them, and by so doing, bring Him glory. Though once dead, we have been made alive in Christ!
+
+The point of all this is that scripture is full of this talk of us being ever more transformed to conform to the image of Christ---turning away from sin and the lusts of the flesh, and turning towards "the things above" that Colossians 3:1 mentions. And therefore, God's voice will *always* lead us on paths of change and transformation. If a voice doesn't require this of us, then it is certainly not of God.
+
+This week's lesson starts on page 103 of the workbook, and was what we went through on 02/26/2023.
+
+{{% toggleable-discussion-pages %}}
+
+### [On Seeking the Things Above](/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-lead-you-to-be-more-like-jesus/on-seeking-the-things-above) {#on-seeking-the-things-above}
+{{< subjects >}}
+
+{{< /subjects >}}
+
+
+
+#### Summary {#on-seeking-the-things-above-summary}
+
+This week's lesson discussed Colossians 3, including Colossians 3:1-2, verses that talk about setting our minds on things above, rather than on earthly things.
+
+In this world of lust, rust, and dust, it is all too easy to let our focus slip off of higher spiritual things and down into the mud and mire of our lives here in [Satan's world system](/longer-topical-studies/ichthys-sr4-satans-world-system/). And it's not always just us getting distracted by the temptations before us in the world; sometimes it may be pressure that gets to us instead, rather than temptation.
+
+When things get really hard and everything goes sideways, it can be difficult to keep our head up and our eyes quickened with the spiritual perspective that comes through faith. It is all too common for people's Christianity to go out the window when they metaphorically get punched in the face, even though it is the very time they most ought to trust in God rather than themselves.
+
+Instead, we ought to aspire to have the peace and confidence that comes from intentionally holding onto the proper spiritual perspective, even as the world falls to pieces around us (compare Psalm 46:2-3), leaving God to sort out our provision. This page is going to examine this concept.
+
+{{% toggleable-content %}}
+
+#### Content {#on-seeking-the-things-above-content}
+
+<!-- --- -->
+
+##### The answer is always focusing on spiritual things. *Always* {#on-seeking-the-things-above-the-answer-is-always-focusing-on-spiritual-things-always}
+
+Trouble at work? *Think on the things above*.
+
+Politics got you frustrated---with the incompetence and general madness of our trajectory? *Think on the things above*.
+
+Discouraged and disgusted by your sin? *Think on the things above*.
+
+Have worries about finances and making ends meet? *Think on the things above*.
+
+Relationships (family, friendships, marriage, dating) going poorly, even falling apart? *Think on the things above*.
+
+It is hard---*so* hard---to do this as we truly ought. Things will go wrong, even spectacularly so. They always will. But that doesn't matter. Why should it bother us? What is this life, that it should so capture our attention? It is but a single drop of water compared to the endless oceans of eternity. How small is our faith if we don't trust that the Creator and Sustainer of the Universe can handle our problems! Are they really such great matters for an Infinite God, One who is Omniscient and Omnipotent?
+
+Colossians 3:1-2 is not so very difficult to understand conceptually, but you will very quickly find out how hard it it in practice to keep one's mind always focused on the spiritual. The sin nature within our flesh and Satan's world system will together always try to steer us away from the spiritual focus we ought to continuously maintain, but we *can* fight them... if only we trust God enough to lean on His strength in our fight, rather than trying to go it alone.
+
+##### What are the things above? {#on-seeking-the-things-above-what-are-the-things-above}
+
+Spiritual things. The Bible---God's written word---and in-depth Bible teaching coming from it. "Whatever is true, whatever is noble, whatever is right, whatever is pure, whatever is lovely, whatever is admirable---if anything is excellent or praiseworthy" (Philippians 4:8).
+
+We know what these things are. It is no trick question.
+
+##### We have duties, it is true. But priorities are priorities {#on-seeking-the-things-above-we-have-duties-it-is-true-but-priorities-are-priorities}
+
+Consider this passage from Luke 10:
+
+{{% nt t="esv" p="Luke 10:38-42" h="600px" %}}
+
+{{% scripture-h p="Luke 10:38-42 | NIV84" %}}
+**38** As Jesus and his disciples were on their way, he came to a village where a woman named Martha opened her home to him. **39** She had a sister called Mary, who sat at the Lord’s feet listening to what he said. **40** But Martha was distracted by all the preparations that had to be made. She came to him and asked, “Lord, don’t you care that my sister has left me to do the work by myself? Tell her to help me!” **41** “Martha, Martha,” the Lord answered, “you are worried and upset about many things, **42** but only one thing is needed. Mary has chosen what is better, and it will not be taken away from her.” 
+{{% /scripture-h %}}
+
+{{% scripture-l p="Luke 10:38-42 | NIrV" %}}
+**38** Jesus and his disciples went on their way. Jesus came to a village where a woman named Martha lived. She welcomed him into her home. **39** She had a sister named Mary. 
+Mary sat at the Lord’s feet listening to what he said. **40** But Martha was busy with all the things that had to be done. She came to Jesus and said, “Lord, my sister has left me to do the work by myself. Don’t you care? Tell her to help me!” **41** “Martha, Martha,” the Lord answered. “You are worried and upset about many things. **42** But only one thing is needed. Mary has chosen what is better. And it will not be taken away from her.” 
+{{% /scripture-l %}}
+
+{{% /nt %}}
+
+It is probably really easy for us to sympathize with Martha in this passage, especially if we consider ourselves "the responsible sort."
+
+But if what we are about is not truly "Kingdom business," how urgent is it really? How much does it really matter? After all, what do we imagine is more important than sitting at the feet of Jesus and listening to Him?
+
+So yes, we must provide for our families (1 Timothy 5:8), we must work to support ourselves so as not to be a burden to others (2 Thessalonians 3:6-10), and so on. But in truth there are very few things that ought to take us away from the feet of Jesus, out of His Word and His Truth. Don't be like Martha and worry about the things of the world, but be like Mary and choose the better part that comes from focusing single-mindedly upon spiritual truth, and the One who gives it to us.
+
+##### God will provide, if we put our focus in the right place {#on-seeking-the-things-above-god-will-provide-if-we-put-our-focus-in-the-right-place}
+
+Consider this passage as well, this time from Matthew 6:
+
+{{% nt t="esv" p="Matthew 6:25-34" h="800px" %}}
+
+{{% scripture-h p="Matthew 6:25-34" %}}
+**25** “Therefore I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more important than food, and the body more important than clothes? **26** Look at the birds of the air; they do not sow or reap or store away in barns, and yet your heavenly Father feeds them. Are you not much more valuable than they? **27** Who of you by worrying can add a single hour to his life? 
+**28** “And why do you worry about clothes? See how the lilies of the field grow. They do not labor or spin. **29** Yet I tell you that not even Solomon in all his splendor was dressed like one of these. **30** If that is how God clothes the grass of the field, which is here today and tomorrow is thrown into the fire, will he not much more clothe you, O you of little faith? **31** So do not worry, saying, ‘What shall we eat?’ or ‘What shall we drink?’ or ‘What shall we wear?’ **32** For the pagans run after all these things, and your heavenly Father knows that you need them. **33** But seek first his kingdom and his righteousness, and all these things will be given to you as well. **34** Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own. 
+{{% /scripture-h %}}
+
+{{% scripture-l p="Matthew 6:25-34" %}}
+**25** “I tell you, do not worry. Don’t worry about your life and what you will eat or drink. And don’t worry about your body and what you will wear. Isn’t there more to life than eating? Aren’t there more important things for the body than clothes?  
+**26** “Look at the birds of the air. They don’t plant or gather crops. They don’t put away crops in storerooms. But your Father who is in heaven feeds them. Aren’t you worth much more than they are?  
+**27** “Can you add even one hour to your life by worrying?  
+**28** “And why do you worry about clothes? See how the wild flowers grow. They don’t work or make clothing. **29** But here is what I tell you. Not even Solomon in all of his glory was dressed like one of those flowers.  
+**30** “If that is how God dresses the wild grass, won’t he dress you even better? After all, the grass is here only today. Tomorrow it is thrown into the fire. Your faith is so small!  
+**31** “So don’t worry. Don’t say, ‘What will we eat?’ Or, ‘What will we drink?’ Or, ‘What will we wear?’ **32** People who are ungodly run after all of those things. Your Father who is in heaven knows that you need them.  
+**33** “But put God’s kingdom first. Do what he wants you to do. Then all of those things will also be given to you.  
+**34** “So don’t worry about tomorrow. Tomorrow will worry about itself. Each day has enough trouble of its own.  
+{{% /scripture-l %}}
+
+{{% /nt %}}
+
+What use does worrying about worldly things get us if when we "seek first His kingdom and His righteousness" all of our legitimate needs will be given to us? For that is what God promises here. *That* is why we need not worry about tomorrow.
+
+##### So we should err *far* on the side of over-prioritizing spiritual things in our lives {#on-seeking-the-things-above-so-we-should-err-far-on-the-side-of-over-prioritizing-spiritual-things-in-our-lives}
+
+As mentioned briefly above, there are some common-sense lines we cannot cross, such as failing to provide for ourselves and our families.
+
+But Luke 10:38-42 and Matthew 6:25-34 definitely show that the single-minded focus on "things above" that Colossians 3 commands is really that: single-minded. We cannot properly sit at the feet of Jesus and give ourselves over towards His Truth if we let our hearts be split by worldly worries---even things that are far from bad or sinful. It's just that everything in this ephemeral world weighs in as completely inconsequential compared to eternal spiritual realities. We need to be pleased to put God and His Truth first in our lives---making that our primary focus---and hand over the reigns to Him in absolutely everything else.
+
+We may not get everything we *want* when we do this, when we completely hand control over to God, but the Bible is clear that we will get all we truly *need*. And in exchange, we will gain ever so much more on the spiritual front. For the least spiritual reward that is eternal will be worth more than all the wealth in this present world that is passing away. That is the calculus that we should always strive to keep within our minds.
+
+And that is precisely why we should always set our hearts on things above.
+
+{{% /toggleable-content %}}
+
+{{% /toggleable-discussion-pages %}}
 
 
 <!-- aggregate-page-content -->

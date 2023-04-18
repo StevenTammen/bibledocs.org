@@ -1,0 +1,139 @@
+---
+title: Through 4/17/23
+weight: 40
+layout: content-page
+---
+
+{{< subjects >}}
+
+{{< /subjects >}}
+
+{{% section-navigation %}}
+
+## Video {#video}
+
+{{% video
+src="TODO"
+
+playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
+
+video=""
+
+audio=""
+
+slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2023/through-4-17-23/"
+%}}
+
+## Summary {#summary}
+
+Due to various circumstances, I haven't gotten as much done (as quickly) as I might have liked in the last little bit. I'm helping a close friend get content ready for his own ministry website, which has taken up a good bit of my time. I also moved into a new role at work, which had somewhat of a learning curve, and was very busy when sent on a business trip for two weeks. There were other things too, but you get the idea.
+
+Nonetheless, this release brings some new content for many of the lessons in the Winter series from our Sunday School class at Central Baptist, relating to discerning the voice of God.
+
+## Timestamps {#timestamps}
+
+TODO
+
+{{% content %}}
+
+## Content {#content}
+
+<!-- --- -->
+
+### It's been a while... {#it-s-been-a-while}
+
+Even though last time I said I'd try to keep up the production pace, well... it's not that this release brings nothing, but it is less than I'd anticipated, and later than anticipated too.
+
+I'll go over a brief summary of some of the reasons for that at the end of this update. That way people who aren't interested in hearing the details won't have to (you can just stop watching when that part starts).
+
+<!-- --- -->
+
+### Helping my roommate get his content ready for his ministry launch {#helping-my-roommate-get-his-content-ready-for-his-ministry-launch}
+
+Partway through this cycle I started helping my roommate get all his written content ready for the launching of his own online ministry. There's a lot more of it than I'd realized! Which is a very good thing, to be clear.
+
+I'm helping organize it all, and add additional headers for better section linkability, and things like that. I hadn't really anticipated the degree of time this is requiring of me, but it will very much be worth it in the end, once all his stuff goes up. It's just that in the meantime, a good bit of my time is going here, rather than my own content.
+
+<!-- --- -->
+
+### New content this cycle {#new-content-this-cycle}
+
+That said, I still got a number of new things up in this cycle. I have several more things that are decidedly close to being done too, but I decided I'd procrastinated too long already on a progress update, as I kept moving the goalposts forward. So these others can wait until next time. The list for this time:
+
+<!-- --- -->
+
+- Under the wider lesson of [Does the Voice Call You to Trust God?](/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-call-you-to-trust-god)
+  - [Drawing Inspiration from the Faith of Others](/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-call-you-to-trust-god/drawing-inspiration-from-the-faith-of-others)
+  - [What We Believe Will Always Become a Reality… If and Only If We Target Our Faith Properly](/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-call-you-to-trust-god/what-we-believe-will-always-become-a-reality-if-and-only-if-we-targe)
+  - [Why Was Abel’s Sacrifice Acceptable, Even Praised, but Not Cain’s?](/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-call-you-to-trust-god/why-was-abels-sacrifice-acceptable-even-praised-but-not-cains)
+
+<!-- --- -->
+
+- Under the wider lesson of [Does the Voice Align with God’s Character?](/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-align-with-gods-character)
+  - [Reflections Upon God’s Love As Expressed in Exodus 34:6–7a, in the Context of the Exodus Generation](/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-align-with-gods-character/reflections-upon-gods-love-as-expressed-in-exodus-34-6-7a-in-the-context-of-the-exodus-generation)
+
+<!-- --- -->
+
+- Under the wider lesson of [Does the Voice Honor God?](/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-honor-god)
+  - [Who Are the People the Father “Gave” Jesus?](/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-honor-god/who-are-the-people-the-father-gave-jesus)
+
+<!-- --- -->
+
+- Under the wider lesson of [Does the Voice Lead You to Be More Like Jesus?](/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-lead-you-to-be-more-like-jesus)
+  - [On Seeking the Things Above](/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-lead-you-to-be-more-like-jesus/on-seeking-the-things-above)
+
+<!-- --- -->
+
+### Upcoming work {#upcoming-work}
+
+- I'll be trying to mostly focus on finishing helping my roommate with his content for the next little bit. The sooner I can can finish helping with that, the sooner I can stop having to split my focus. This may take a while though, so I think it may be a few weeks until I get another update of my own up, since I'll be tied up with this.
+- Aside from that, I'm going to try to at least finish the other things I am close on. I might be able to get these things up sooner than other new content.
+
+<!-- --- -->
+
+### Excuse for lateness number 1: Microphone debugging {#excuse-for-lateness-number-1-microphone-debugging}
+
+The volume level for recordings has been ending up really quiet (when recording through the wireless microphone I've been using -- the Rode Wireless Go II), and I haven't been happy with the audio quality when I run the quiet audio through audio normalization (even though I did just that for several past videos).
+
+I spent time trying to figure out how to get louder audio when recording, and also figure out why my gain settings were not seeming to be respected when recording. One YouTube video claims that to have adjustable gain with this wireless Rode system, one needs to use an audio cable (3.5mm jack) not USB-C to connect the receiver into a computer, for whatever reason. I have things on order to test this out, and am hopeful, but as of now, still no dice.
+
+<!-- --- -->
+
+### Excuse for lateness number 2: Getting accustomed to new responsibilities at work {#excuse-for-lateness-number-2-getting-accustomed-to-new-responsibilities-at-work}
+
+In my day job as a software engineer, I'm formally shifting into project management, helping our primary PM with her large set of responsibilities. My focus is going to be mostly on the technical requirements side of that set of responsibilities. It's more or less a promotion, and in accordance with that, I'll be getting more responsibility and pressure in some ways (e.g., the number of people whom I am helping sequence work for has tripled from ~6 to ~18). On top of that, this first little bit has had somewhat of a learning curve, as expected for new duties.
+
+Up until this shift in responsibilities, I had been leading an Agile software development subteam as a team lead. Now I am more or less moving into doing requirements refinement and work sequencing full time (in addition to leading my subteam just as I always have). Due to only having so much time in a workday, I'm more or less stepping back from coding myself now. (I'd already been less than full-time coding for some time, instead shouldering other responsibilities in the division of labor. This is just going the complete distance and severing any expectations for me there, instead formally tasking me for more of the PM workload).
+
+<!-- --- -->
+
+### Excuse for lateness number 3: I was very busy when away on a business trip for two weeks {#excuse-for-lateness-number-3-i-was-very-busy-when-away-on-a-business-trip-for-two-weeks}
+
+Soon after I got my new set of PM-related responsibilities, I drove 10 hours up to Ohio to participate in two weeks of meetings with our project's customers. This sucked up a lot of time, because:
+
+- I made the drive (~10 hours one-way) both there and back on weekend days. I'll get the time back later as travel comp time, but it still kind of nuked two weekends in this cycle specifically. This put a damper on ministry stuff since weekends are usually when I have the most free time and therefore tend to get the most ministry stuff done.
+  - Also, the weekend in between the two traveling weekends -- the one when I was up in Ohio -- I was visiting with a friend who lives in Columbus most of Saturday, so didn't get much work done that weekend either.
+- I was tired after every workday on this trip since we had days of ~7 hour meetings for two weeks straight.
+- I also pulled a lot more overtime than I normally do (probably over 15 hours across the two weeks) to try and get more written down when it was all fresh in my mind.
+
+<!-- --- -->
+
+### Excuse for lateness number 4: I spent some time "investing in the future" {#excuse-for-lateness-number-4-i-spent-some-time-investing-in-the-future}
+
+I spent a good bit of time on what I would term "investing in the future." I installed keycaps and such on my custom mechanical keyboard that came in the mail, and worked on the AutoHotkey script to do keyboard remapping, so I can start touch typing full time, which should help boost content production speeds.
+
+I also spent a lot of time considering my teleprompter and video processing workflows to see if I could possibly further automate content production. I have some good ideas now, but more programming/software development work will be needed to get there, unfortunately. This may be what I focus on next, after I help my roommate launch his ministry website. I think it will be necessary before I can start consistently putting out videos with the throughput, quality, and functionality I wish to have all at the same time.
+
+There were some other matters too, but those were a couple of the bigger things in this area.
+
+{{% /content %}}
+
+{{% transcript %}}
+
+## Video/audio transcript {#video-audio-transcript}
+
+
+
+{{% /transcript %}}
+
+{{% section-navigation %}}
