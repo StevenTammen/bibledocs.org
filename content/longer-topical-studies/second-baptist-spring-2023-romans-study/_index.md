@@ -1,5 +1,5 @@
 ---
-title: Second Baptist - 2023 Romans Study
+title: Second Baptist - Spring 2023 Romans Study
 weight: 
 contentlevel: intermediate
 layout: aggregation-page
