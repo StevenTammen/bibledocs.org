@@ -9,7 +9,7 @@ summary: >-
 
 <!-- aggregate-page-content -->
 
-## [Confession, forgiveness, avoiding self-loathing, and reorienting towards God after we fall](/longer-topical-studies/ichthys-bb6a-the-christian-walk/confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall) {#confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall}
+## [Confession, forgiveness, avoiding self-loathing, and reorienting towards God after we fall](/longer-topical-studies/ichthys-bb6a-the-study-of-the-christian-walk/confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall) {#confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall}
 {{< subjects >}}
 
 {{< /subjects >}}
