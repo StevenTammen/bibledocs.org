@@ -1,0 +1,122 @@
+---
+title: "1 Thessalonians 5:13b-14 - How ought we relate to different groups of people?"
+weight: 30
+layout: content-page
+---
+
+{{< subjects >}}
+
+{{< /subjects >}}
+
+{{% section-navigation %}}
+
+<!-- ## Video {#video}
+
+{{% video
+src=""
+
+playlist=""
+
+video=""
+
+audio=""
+
+slides="https://bibledocs.org/slides/"
+%}} -->
+
+## Summary {#summary}
+
+TODO
+
+<!-- ## Timestamps {#timestamps} -->
+
+{{% content %}}
+
+## Content {#content}
+
+<!-- --- -->
+
+### Introduction {#introduction}
+
+First, as a general principle, Paul says we are to "live in peace with each other" (cf. also Psalm 34:14; Matthew 5:9; Mark 9:50; Romans 12:18; Romans 14:19). It is hard to focus upon spiritual growth without peace, is it not? And, moreover, in light of eternity and eternal rewards (which God can give freely to all without scarcity of any kind), what cause exactly do we have to quarrel with one another down here in the world (which ought to hold very little value to us when compared to the weight of eternal glory)? It is simply illogical, if we have the right perspective.
+
+But past that, in 1 Thessalonians 5:14, Paul gives some instructions regarding how we are to deal with various groups. We are to:
+
+- Warn those who are idle and disruptive
+- Encourage the disheartened
+- Help the weak
+- Be patient with everyone
+
+### Warn those who are idle and disruptive {#warn-those-who-are-idle-and-disruptive}
+
+In [our discussion of 1 Thessalonians 4:11-12]() we covered the concepts of minding one's business and working with one's hands. Those things are what we ought to keep in mind when warning those who are idle and disruptive---that is, we should tell them to knock it off and mind themselves in those two ways. For God has things that He wants each of us to do, and we will never accomplish those things by interfering in the lives of others or by sitting on our hands without working hard.
+
+### Encourage the disheartened {#encourage-the-disheartened}
+
+#### Introduction {#introduction}
+
+As to encouraging the disheartened, we ought not look at this one with blinders on, as if it only applied in some particular set of circumstances. People can be disheartened for many reasons: grief at losing a loved one (even if said loved one was a believer), grief at family members rejecting the gospel, physical pain and ailments, mental health challenges that one desperately wishes one did not struggle with (depression, anxiety, and so on), and just general suffering of all kinds. (It can be especially hard to keep one's head up when it is suffering of the undeserved variety, as it was with Job, for example).
+
+What we need to do in all such cases is channel the love of Christ, and be there for our brothers and sisters to share their burdens. This is what it means for us to be one body (cf. 1 Corinthians 12; Ephesians 4:1-16). It can be hard to view this sort of support as being a privilege and and opportunity (rather than a burden), but that is how we need to strive to see it, for God is in fact giving us in all this a chance to fulfill His Will and in so doing, win eternal rewards that will last forevermore. And in truth, if we actually love our brothers and sisters (like we presumably claim we do), comforting them and encouraging them should come naturally to us. That is, we should legitimately *want* to do it. But in all of this, we need to keep our speech seasoned with the Word of God, and base our encouragement off of that source and that source alone. In it lies much encouragement, so it is not as if this is a terribly limiting rule to impose. But it is important, so that our encouragement might have a sure and firm foundation. Else we risk doing more harm than good when we try to encourage our brothers and sisters.
+
+#### The importance of the Word of God in this ministry (like all ministries) {#the-importance-of-the-word-of-god-in-this-ministry-like-all-ministries}
+
+I should note that what I just said often goes unappreciated (or at least underappreciated) in this area in practice. To phrase it more bluntly, you cannot properly comfort and encourage people except through the Word of God; if you have not reached spiritual maturity through diligent effort such that you know what the Word of God says and teaches in full, you are *not* capable of being as effective in this ministry of providing comfort and encouragement as you otherwise would be.
+
+Far be it from me to say that newer believers aren't "good enough" to comfort and encourage others! The point is *not* that you have to be able to pass some sort of test before you can start loving others in the body, or acting out that love in practice. The point is in regards to this area (which is undoubtedly a ministry the Holy Spirit empowers us to be successful in)---just as in all other ministries too---God expects us to do things His way. That is, insofar as our part to play here is concerned, we *must* endeavor to learn the Word of God as much as our circumstances allow, rather than shirking that duty. So while there is absolutely nothing condemnable about new believers acting out their love for their brothers and sisters from day one, there is indeed something condemnable about people who have no excuse of newness of belief remaining perpetually ignorant of the Word of God, and consequently being much less effective in their ministrations on that account.
+
+To use an analogy, would you fault a young child for their obviously well-intentioned (if perhaps somewhat clumsy) attempts to comfort a younger sibling? That situation right there is what baby believers acting out their love for others in the body of Christ will probably look like. But you sure *ought* to fault adults for being callous or careless in such a matter, and causing the distressed younger child harm. Because they ought to know better, and are completely without excuse if they do not.
+
+And so it is that both of these statements are completely true (and without contradiction):
+
+1) Even from our earliest days as a believer, we should seek to do all we can for the body of Christ, without overmuch second-guessing whether we are able or qualified.
+2) Yet in this area (just as basically all others), the importance of learning the Word of God must never be minimized in the slightest. For God is better able to make use of prepared individuals in building up the body of Christ; if you wish to be most effective in a given ministry, you *cannot* skip the spiritual growth part. Only then can God use you as He would wish, rather than being forced to hold back potential ministry opportunities (and so on) on account of your spiritual immaturity.
+
+#### Pulling it all back together {#pulling-it-all-back-together}
+
+In this area of ministry (just like others), God is able to even use even the newest of believers to carry out His Will, so long as they are willing in their hearts. Though we may be unqualified to do something, *He* most certainly is not. We just need to be pleased to have faith that God is able to work through us---not our ability, but His. If we were arbitrarily restrictive, we would be directly contradicting Jesus' example of calling not Jerusalem's most illustrious scholars as his Apostles (for example), but uneducated fishermen, tax collectors, and even a famous persecutor of the early Church.
+
+The twelve Apostles (the initial twelve disciples, less Judas, plus Paul) did *not* see fit to sit on their hands after He called them, but grew in the truth until they were the most capable of all tools---until God could use them according to the massive call of Apostleship He had placed upon their lives. So no, they did not shrink back in cowardice even though the world looked at their pasts and said that these men ought not do XYZ because they were not qualified (be it due to past sin, lack of education, or whatever else). Instead, even from the beginning, they were bold in the truth---for they knew who it was who stood behind them: the very King of the Universe! *But they were not content to leave things at just that*. Instead, they worked tirelessly day and night to grow in the truth, so that they might better be able to serve the Church.
+
+And this too is what we should do. From our earliest days as new believers---still experiencing the joys of salvation, having come from death into life---we can be bold in the truth, just as the Apostles were. We too do not need to worry about what other people think, since just like them, we can have confidence that God has our back. But also just like them, we too must apply serious effort to grow up in the truth so that God might use us ever more effectively to serve the body of Christ.
+
+And once we've endeavored to do that, then we will find that our efforts to comfort and encourage other brothers and sisters in the body of Christ are that much more effective. Not because we ourselves have become so much better (such that we can take any of the credit). But because having grown spiritually, we are much better able to let God work through us (the credit is His). This is what *all* true Christian ministry is, after all---namely, the Holy Spirit working through us according to the gifts and callings we've variously been assigned (cf. 1 Corinthians 12:4-6). It's just that we need to grow spiritually in order to let the Spirit more fully guide our actions and words. There is no substitute---all effective ministry is only accomplished through the Spirit taking ever more control, and that in turn is only made possible through spiritual growth, so therefore all effective ministry essentially has spiritual growth as a formal prerequisite.
+
+And a ministry of comfort and encouragement for our brothers and sisters in the body of Christ is no exception to this principle.
+
+### Help the weak {#help-the-weak}
+
+We ought to view helping the weak in much the same way as encouraging the disheartened, in that we also ought not look at things with blinders on when considering what exactly "weakness" is. For example, while scripture is chock-full of verses about standing up for orphans and widows and sojourners (e.g., one might start [here](https://www.openbible.info/topics/widows_and_orphans)), we hardly ought to restrict ourselves to only these specific groups of people. Instead, we ought to help all of our brothers and sisters who are disadvantaged and downtrodden.
+
+What is in view with this "help" is hardly some sort of patronizing minimization of these people's character or moral backbone. This is not about some sort of relative comparison between our perceived strength and their lowlier position, but about being the hands and feet of Jesus Christ here upon the Earth. Let me be even more blunt: helping the weak is not looking down upon them as inferior, of viewing oneself as their better. It is instead acting willingly as a servant of another, according to the command of our Lord. It is putting their good above your own, and being willing to suffer whatever is necessary to see them safe and well, even if you are not recognized or repaid for your efforts (by them, or by others). Because the one we do this for is God, not man (cf. Matthew 6:1-6).
+
+And those being helped have some responsibilities here too. An attitude of entitlement or anything of that sort is to be avoided. And people need to be pleased to let God use others to help them (that is, gracefully accept godly offers of assistance when it is prudent), rather than getting it through their heads that they always have to be the ones to help themselves, and do it all alone. For example, there is a decidedly harmful form of extreme feminism that preaches that women do not need men. People are different (so, for example, not all are called to get married)---and that is well and good---but the problem is when this hyper-feminist notion of complete independence from men gets in the way of, for example, biblical teaching about marriage roles... for those that actually are married! Within marriage, both men and women need each other, but that hardly works if one side of the equation is convinced they have no need of the other. Of course, some arrogant men have been thinking that way about women since time immemorial, but the point is that the solution to that (very real) issue *isn't to have women join them in such folly*, but is instead to upbraid those arrogant men for not acknowledging the clear truth that women bring essential things to marriage that they lack. Two wrongs don't make a right.
+
+In this way, "willingness to be helped" is a variable in the mix as well. The wider point is that we are *all* nothing more than servants just doing our job (cf. Luke 17:10), so there is no room for posturing here, either on the part of those helping, or those being helped. There is only room for the family of God supporting itself in genuine love.
+
+As to some additional specifics:
+
+- Biblically speaking, women are to be protected by men, provided for by men, and cherished by men, but this does not mean they do not have fire and iron within them just as much as men. To put it somewhat crudely, women are not inherently sissies in the sense that insult is usually meant, and are therefore not uniformly in need of rescuing by men. One scriptural example that comes to mind is Priscilla, who is basically always mentioned in the same breath as her husband, Aquila. The Bible is pretty clear that those two were a powerful ministry team *together*, and she is a good counterexample to any who think that women are somehow only helpless damsels rather than co-heirs in Christ. I daresay she did a good bit more for the truth of Christ than most of the men around her, then *and* now. I am not saying that women are supposed to claim authority and lead (in fact, the Bible is plenty clear that that ought to be the responsibility of men); I am just making the point that the submission women owe men as a general principle and the protection and provision men owe women as a general principle do *not* somehow mean that women are in any way inferior to men. So when brothers in Christ help sisters in Christ (who, even to this day, face certain challenges men tend not to), there is no justified basis for either side getting either prideful about the situation or resentful of the situation. For in all this, the goal of both the helper and the one being helped should be to honor Christ.
+- So too with foreigners/sojourners (we may perhaps call them immigrants nowadays). Such people tend to be in somewhat vulnerable positions socially---especially when they first arrive. But it is not as if these brothers and sisters are necessarily stupid or incapable. If we were uprooted and dumped in another culture overnight, we'd be vulnerable too. Oftentimes, a hand we reach out here can do far more than we might ever know. And so we should seek to serve these brothers and sisters, to show them the love of Christ in a time they may desperately need it.
+- So too with children who have lost their parents (orphans put up for adoption, kids in foster programs, and so on), people who have a lack of higher education and therefore more limited opportunities, people who are sick or unwell (physically or mentally), the elderly, and many other groups who are more vulnerable for one reason or another. In all these cases, we are duty-bound as Christians to step in and help these people. Not because we are inherently better than them, but because God has seen fit to lay these opportunities before us. If we can help those who are in a position of weakness or disadvantage (for whatever reason), we are called to do so as Christians---not merely as a suggestion, but as a command. For Jesus makes it abundantly clear that whatever we do not do for the the least of our brothers and sisters, we do not do for Him (Matthew 25:40-45). 
+
+### Be patient with everyone {#be-patient-with-everyone}
+
+And now we are back to a command without a specific group referent.
+
+We need to exercise patience in all our relationships with others---our marriages, our families, our wider church communities, and so on.
+
+Straightforward enough, but by no means easy. Patience is a virtue, as they say, but like most virtues, it requires hard work and determination to live out properly.
+
+{{% /content %}}
+
+
+<!-- {{% transcript %}}
+
+## Video/audio transcript {#video-audio-transcript}
+
+
+
+{{% /transcript %}} -->
+
+{{% section-navigation %}}

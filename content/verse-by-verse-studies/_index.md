@@ -10,7 +10,7 @@ The verse-by-verse studies on this site provide detailed interpretation, in the 
 So what is the difference between the verse-by-verse studies and study notes on this site? The short version is that the verse-by-verse studies justify the interpretations presented, while the study notes simply assert them. The study notes also contain helpful notes for intermediate students of Greek/Hebrew (notes not so much focused on establishing meaning as saving time for such students), while the verse-by-verse studies often include an embedded original translation of the text (currently more for the Greek New Testament than the Hebrew Old Testament; my Greek is stronger than my Hebrew).
 -->
 
-The Verse-by-verse Studies on this site go over things one verse at a time (sticking with a specific part of scripture rather than tracing a subject). I have adopted the practice of covering verses as I feel led to, which means that rather than going through an entire book of the Bible in order, the verse-by-verse content on this site will tend to be more scattershot, tackling some difficult verses here and there across many different books. Over time, I hope to have the coverage and continuity increase, to the point it isn't so sparse.
+The Verse-by-verse Studies on this site go over things one verse at a time (sticking with a specific part of scripture rather than tracing a subject). I have adopted the practice of covering verses as I feel led to, which means that in addition to going through entire books of the Bible in order, sometimes the verse-by-verse content on this site will tend to be more scattershot, tackling some difficult verses here and there across many different books. Over time, of course, I hope to have the coverage and continuity increase.
 
 Not every single thing written in these verse-by-verse studies on the site will have a video made about it, but only the things of sufficient length and complexity to merit such. This means that there will be a number of shorter notes that will only show up as text on the study webpages (which are organized by chapter).
 
@@ -19,6 +19,18 @@ Not every single thing written in these verse-by-verse studies on the site will 
 <div class="list-item">
 	<div class="list-item-title-row">
 		<a href="genesis" class="list-item-title">Genesis</a>
+	</div>
+</div>
+
+<div class="list-item">
+	<div class="list-item-title-row">
+		<a href="romans" class="list-item-title">Romans</a>
+	</div>
+</div>
+
+<div class="list-item">
+	<div class="list-item-title-row">
+		<a href="1-thessalonians" class="list-item-title">1 Thessalonians</a>
 	</div>
 </div>
 

@@ -1,0 +1,257 @@
+---
+title: Second Baptist - 2023 Romans Study - Romans 8
+weight: 
+chapter: 8
+layout: content-page
+---
+
+{{< subjects >}}
+
+{{< /subjects >}}
+
+{{% section-navigation %}}
+
+<!-- ## Video {#video}
+
+{{% video
+src=""
+
+playlist=""
+
+video=""
+
+audio=""
+
+slides="https://bibledocs.org/slides/"
+%}} -->
+
+## Summary {#summary}
+
+TODO
+
+<!-- ## Timestamps {#timestamps} -->
+
+{{% content %}}
+
+## Content {#content}
+
+<!-- --- -->
+
+### Verses 1-8 {#verses-1-8}
+
+#### What does it mean to be in Jesus Christ? {#what-does-it-mean-to-be-in-jesus-christ}
+
+As Romans 8:1-2 states, for those who are in Christ Jesus, we are set free from the law of sin and death. When the Bible says that Jesus paid the price for our redemption (Greek: [ἀπολύτρωσις](https://biblehub.com/greek/629.htm)), it means that He paid the ransom for our blood debt; He literally bought us out of slavery to sin and death. That is what being redeemed means---not some mere academic theological term, but being freed from bondage.
+
+When we are in Christ, we no longer stand condemned. Our sins have been blotted out, our transgressions washed away. Not because we deserve it on our own account, but because God, in His great Grace and Mercy, judged Jesus Christ in our place some 2,000 years ago, nailing our sin to the cross with Christ (cf. Colossians 2:14, 1 Peter 2:24).
+
+#### How is Jesus as the ultimate sacrifice different than the sacrifices of the Old Testament? {#how-is-jesus-as-the-ultimate-sacrifice-different-than-the-sacrifices-of-the-old-testament}
+
+This question is probably best answered with a passage of scripture: Hebrews 10:1-18.
+
+The blood sacrifices under the law were all shadows, poor simulacrums of The One Sacrifice to come. Believers in the Old Testament were saved "on credit" (cf. Romans 3:25). That is, OT believers did not somehow have their sins forgiven through the sacrificing of animals, but just like us, their sins too were paid for through the blood of Christ! Jesus paid for *all* human sin on the cross (past, present, and future)---the cross is, properly understood, the central event of all History.
+
+So the ritual sacrifices of the Old Testament only had power insofar as they were God's chosen procedure for the Old Testament believers to demonstrate their acknowledgement that they needed forgiveness for their sins. They were merely guideposts pointing towards Christ, not things with power of their own.
+
+For only the blood of Jesus Christ---the true lamb of God without blemish---can actually take away the sins of the world.
+
+#### Do you live a fleshly existence, or do you live a spiritual existence? {#do-you-live-a-fleshly-existence-or-do-you-live-a-spiritual-existence}
+
+Verse 5 states, quite plainly, that:
+
+- Those who live according to the flesh have their minds set on what the flesh desires
+- Those who live in accordance with the Spirit have their minds set on what the Spirit desires
+
+So, go on and hold up that mirror---examine yourself spiritually, and be honest. Where is your mind pointed?
+
+We should note, of course, that this is not some sort of binary distinction. The Spirit and the flesh are always at war within us (cf. Galatians 5:17). Our hearts are a spiritual battlefield every hour, every minute, even every second. We *will* still sin as Christians, still let the flesh win from time to time. If we claim otherwise, we lie (cf. 1 John 1:8-10).
+
+Yet we ought to strive to always make those lapses fewer and smaller in every way, and we ought to live with our minds focused upon what the Spirit desires; namely, to learn God's truth as contained in the Bible, to grow to maturity by passing the tests put before us in life until our faith is strong and refined, and then helping others do likewise through the ministries that God has variously assigned to us (cf. 1 Corinthians 12:4-6).
+
+#### What is the end game for each? {#what-is-the-end-game-for-each}
+
+Verse 6: "The mind governed by the flesh is death, but the mind governed by the Spirit is life and peace."
+
+See also Galatians 5:19-21. Those who live lives characterized by the flesh do not inherit the kingdom of God. Not because sin prevents us from being saved if we believe (we are saved on the basis of belief alone---see John 3:16), but because belief in God is incompatible with these things. Either God will remove a believer unwilling to give up gross sin from the world due to the extraordinarily poor witness such a person gives (known as the "sin unto death"---a very painful way to go, as it involves divine discipline escalating to the point of death), or the person in question will let go of their faith due to the cognitive dissonance inherent to the situation, thereby becoming an apostate. In such a case, they will completely turn their back on God.
+
+To return to Romans 8:6, it is important to note that the "death" and "life" we are talking about here are not just physical death and the simple act of being alive (as in breathing, eating, drinking, sleeping, and so on). There are three aspects to death: physical, spiritual (meaning separation from God), and eternal (meaning eternal separation from God). Sin primary causes the second kind of death (spiritual separation from God), although if left unchecked, it can result in the other two forms as well. So sin is deadly in every sense of the word. And so it is that "the wages of sin is death" (Romans 6:23).
+
+And the life we have as Christians---it is no mere existing, no mere taking up of space. We are free on account of the truth (cf. John 8:31-32), and our lives are shot through with eternal purpose. Our actions will echo in eternity, if in fact we submit to the Spirit and serve in the ways God calls us to. And in all this, we have Peace with the Creator and Sustainer of the universe. Not the absence of problems, but a complete fullness of life and fellowship with God and each other.
+
+#### Do you want to please God, or just provide yourself with "fire insurance"? {#do-you-want-to-please-god-or-just-provide-yourself-with-fire-insurance}
+
+I break with many Christians in not even for a moment condemning and looking down upon the idea of being self-interested, of wanting that "fire insurance". God has been gracious enough to make doing what He wants for us to do be in our self-interest. Moreover, it's not just salvation, but God even entices us with promises of eternal rewards, if we would but seek Him. In fact, the Bible *mandates* this reward-motivation attitude (even calling it necessary, in that we "must believe" it---see Hebrews 11:6).
+
+So don't knock the "fire insurance" incentive. We are by nature craven and cowardly. Wishing to escape judgment turns us to God, and He set up the world that way on purpose. Likewise, desiring rewards inspires us to action and service, and He did that on purpose too. So who are we to question God's wisdom in these matters?
+
+However, there is a key word in the question of this section, and that is the word *just*. You can't fake belief, and all true Christians bear fruit (cf. James 2, John 15). That is to say, all true believers want to please God and act out their faith. So if someone doesn't, it is worth asking whether this "faith" they claim is really anything of the sort (cf. Matthew 7:21-23). For it is not what people say that matters, but the state of their heart. Perhaps we as humans cannot know such things of others, but God can. And God will not be mocked (cf. Galatians 6:7).
+
+### Verses 9-17 {#verses-9-17}
+
+#### Why are we miserable as Christians when we sin? {#why-are-we-miserable-as-christians-when-we-sin}
+
+Put simply, we are miserable when we sin as Christians because we are indwelt by the Holy Spirit. Because we are "in the realm of the Spirit" (Romans 8:9), acting in the flesh is going against our very nature.
+
+Not that sin won't be tempting anyway. But the point is that by nature now, we are set opposed to the flesh and its desires. So just as people with food allergies (such as lactose intolerance) cannot partake in something they are allergic to without suffering for it, so too when it comes to Christians and sin. In a manner of speaking, we Christians are allergic to sin.
+
+#### Why does sin not bother non-Christians? {#why-does-sin-not-bother-non-christians}
+
+Because they do not have consciences quickened by the Holy Spirit, unbelievers are unaware of even the most fundamental spiritual truths. God gives them over to their free will decisions, and blinds them to their folly, so that they may each eat and drink and be merry in their numbered days upon this earth, before going down to the grave (cf. 1 Corinthians 15:32).
+
+With this being said, even unbelievers know right from wrong deep down. Romans 1 and Psalm 19 speak of so-called "natural revelation", and make it clear that all humans are without excuse. Knowing good from evil is the inheritance of humanity, ever since our forebears ate the fruit from the Tree of the Knowledge of Good and Evil on that fateful day so long ago.
+
+So it is that unbelievers too know right from wrong. They just don't have the Holy Spirit to empower their consciences such that they are more "stabby", for lack of a better word. And so it is that they can sin with without being bothered by it in the way that Christians are.
+
+#### Which spirit dwells in you? Do you want to be eternally alive or eternally dead? {#which-spirit-dwells-in-you-do-you-want-to-be-eternally-alive-or-eternally-dead}
+
+It is the very Spirit of God that lives within us. Romans 8:11 says "the Spirit of him who raised Jesus from the dead is living in you".
+
+Human spirits have eternal existence. Once we come into the world, all people must choose; there is no "sitting this one out."
+
+If we have the Spirit living within us, we will be given life just as Jesus Christ was when He was raised from the dead (Romans 8:11). That is, we will have life eternal. But if we do not have the Spirit, our life is subject to death because of sin (Romans 8:10).
+
+Why? Because "If you live according to the flesh, you will die; but if by the Spirit you put to death the misdeeds of the body, you will live" (Romans 8:13).
+
+Let us choose eternal life by choosing to submit to God!
+
+#### What influences lead your life? {#what-influences-lead-your-life}
+
+We are not to live according to the flesh (Romans 8:12), but we are to be led by the Spirit (Romans 8:14).
+
+This is a question that calls for sober self-reflection. You might think that "living according to the flesh" is easy to avoid---as if it is just gross depravity. Murder, orgies, those sorts of things.
+
+But when we spend more time on TV shows and social media than God and His truth, we are not being led by the Spirit now, are we? And since there is no middle ground in this war of ours (cf. Matthew 6:24, 12:30; James 4:4), if we are not living by the Spirit, we are necessarily living by the flesh, and gratifying its desires. Idolatry is a sin too, after all.
+
+So God must be first place in our hearts, always. Not just in our words, but also in our actions---in how we allocate our time and live our lives.
+
+#### Do you realize you have the same inheritance as Christ? {#do-you-realize-you-have-the-same-inheritance-as-christ}
+
+Romans 8:17 says we are heirs of God and co-heirs with Christ. Pretty mind-blowing stuff, huh?
+
+This is not to say that we are exactly like Jesus, of course. The point is that we too will inherit eternal life along with the other blessings of God if, just like Christ, we submit to the Father's Will, "[sharing] in [Christ's] sufferings in order that we may also share in His glory" (Romans 8:17).
+
+### Verses 18-25 {#verses-18-25}
+
+#### Have you ever had to suffer for a while to realize that the suffering you had to go through was small in comparison to what you gained? Ask your mother! {#have-you-ever-had-to-suffer-for-a-while-to-realize-that-the-suffering-you-had-to-go-through-was-small-in-comparison-to-what-you-gained-ask-your-mother}
+
+Sometimes---most of the time even, I would say---such perspective only comes with hindsight. Sometimes, in fact, it only comes after a long while indeed!
+
+The Bible clearly teaches that suffering has spiritual benefits (Romans 5:3-5; James 1:2-4), so we must always strive to make this our perspective. Sometimes it will no doubt feel impossible to see what benefit some particular bout of suffering is bringing us, but that doesn't mean things are not so.
+
+When we are forced to put our trust in the Lord (rather than just relying on our own ability) in the midst of heavy suffering, our faith is strengthened. So while we need not go seek out suffering, we should nonetheless objectively acknowledge what it does do for us in a spiritual sense. God always has His Perfect Purposes in allowing things to happen, whether they are apparent to us at present or not. 
+
+#### What is meant by creation was "subjected to futility"? {#what-is-meant-by-creation-was-subjected-to-futility}
+
+The so-called "Genesis curse" in Genesis 3:17-19 says that only by the sweat of our brow will the ground produce sustenance for us. Contrast this with the previous life Adam and Eve enjoyed in Eden---wherein all their needs were provided for without them having to lift a finger.
+
+In short, after the fall, man was cast out of paradise, and Satan usurped (temporary) control over this present *kosmos*. Jesus Christ will come to cast the tyrant down at the end of creature history, but in the meantime, the world is under his sway (cf. Satan being "the ruler of the kingdom of the air", Ephesians 2:2).
+
+One might compare the book of Ecclesiastes---basically the whole book. Ecclesiastes describes this world of ours that has been subjected to futility:
+
+- A world wherein the race does not always go to the swift, nor the prize to the wise, but chance and circumstance happen to them all.
+- A world wherein we cannot really safeguard our very lives (much less our property or possessions)---not now, and not ever.
+- A world wherein nothing under the sun is truly new; what has been will be again, what has been done will be done again (cf. Ecclesiastes 1:9).
+
+It is not until the Universe is made anew---both the Heavens and the Earth---that the world will truly be set to rights. At that time, all evil will be cast into the Lake of Fire forevermore, and there will only be glorious Peace. The New Jerusalem will descend, and we will have perfect fellowship with God and each other for all eternity.
+
+But in the meantime? This world will be going through the pains of childbirth (cf. Romans 8:22), in great anticipation of the newness of life that will come about "when the children of God are revealed" (Romans 8:19) at the end of history. For then---once the labor pains have ended---new life indeed will come into being. Our eternal existence of peace, with all creation restored to its proper state.
+
+#### Do you eagerly await life after death? Why, or why not? {#do-you-eagerly-await-life-after-death-why-or-why-not}
+
+Anyone honest will probably shake their head at this one. None of us keep our eyes upon heaven as much as we should---looking, like Moses, towards our eternal reward (cf. Hebrews 11:26).
+
+The problem we face is that the world is right before our eyes, whereas we can only see our eternal inheritance "as through a glass, darkly" (1 Corinthians 13:12). That is, because heaven is veiled from us, but the world is right before our eyes, it is all too easy to lose sight of the one for the other.
+
+But we should eagerly anticipate life on the other side. It will be more perfect and glorious than we can even imagine. For "Things that no eye has seen, nor ear heard, nor mind imagined---these are the things God has prepared for those who love Him" (1 Corinthians 2:9).
+
+#### How is hope defined? {#how-is-hope-defined}
+
+Verse 24 says we were saved in "this" hope, where "this" points back to what was just said. That is, the hope we are saved in is "adoption to sonship, the redemption of our bodies" (Romans 8:23).
+
+Paul goes on to say that hope that is seen is no hope at all, since who hopes for something they already have? But we should hope for what we do not already have, waiting for it patiently.
+
+And we most assuredly do not already have the redemption of our bodies and full adoption to sonship. To put in in more theological terms, we may have been sanctified positionally, and even experientially, but we will not be sanctified in an eternal sense until the other side. Only then will our bodies be without sin, and only then we will come into our full inheritance as sons and daughters of the Living God, having fellowship not only with Jesus Christ, but also God the Father.
+
+I should say that the eager expectation described in Romans 8:23 is different from "hope" as is sometimes used in common parlance. In other words, when we say something like "Gee, I hope it doesn't rain on our picnic tomorrow", that is a lot different from the hope we have in the eternal promises of God. The one thing is indeterminate; the other is certain and sure. In other words, Christian hope is eager expectation of certain future events not yet actualized (bit of a mouthful, isn't it?), not wishy-washy desire for something that may or may not actually come about.
+
+### Verses 26-30 {#verses-26-30}
+
+#### How do we convince ourselves of the Spirit's effective intercession for us when life is tough? {#how-do-we-convince-ourselves-of-the-spirit-s-effective-intercession-for-us-when-life-is-tough}
+
+Romans 8:26-27 says the Spirit intercedes for us even when we cannot ourselves find the words. This ought to be an immense comfort to us, just as the knowledge that Jesus Christ intercedes for us as another divine advocate (cf. Romans 8:34; Hebrews 7:25, 9:24; 1 John 2:1) should also comfort us.
+
+But one thing about this that can be a test for our faith is wrapping our heads around the fact that even with the Spirit (and Jesus too!) interceding for us, our lives will not necessarily be smooth and painless. This is because sometimes it is the Will of God that we suffer. Not because God inherently wants us to face pain and hardship, but because in so doing we will grow and refine our faith, and be molded into the good Christian soldiers He wants us to be.
+
+So the best way to bolster our belief in the Spirit's *effective* intercession for us (for how could it be anything less?) is understanding that the "Spirit intercedes for God's people in accordance with the Will of God" (Romans 8:27). And sometimes the Will of God is not exactly what we might ourselves think best.
+
+But that's a perspective problem. We are small finite creatures, incapable of seeing the full picture like God does. So when in the next verse (Romans 8:28) Paul says God works all things together for the good of those who love Him, we need to be pleased to trust Him in faith.
+
+#### Who is predestined for salvation and adoption? {#who-is-predestined-for-salvation-and-adoption}
+
+Put simply, God chooses all those who choose Him. He foreknew our choice before we were even born, *but it is still our free will choice*. In this there is no contradiction. Romans 8:29 clearly states that God's predestination happens according to his foreknowledge, which makes little sense if we are arbitrarily saved on account of His predestination. Why mention foreknowledge at all in that case?
+
+The interpretive perils do not end there. Other people sometimes get hung up on the "Who exactly does God call?" question. The short answer to that one is that Jesus Christ died for the sins of all, so all have an equal opportunity to be saved. Therefore, in some sense, God calls the whole world to repentance and salvation---the offer is "live" and truly available for every human being that ever has and ever will live. (Contrast the false doctrine of so-called "limited atonement", which holds that Christ only paid for the sins of those who would actually believe in Him).
+
+Nothing about the first part of verse 30 ("those He predestined, He also called") is at all inconsistent with this teaching that God in fact calls all. For it is trivially true that if God calls all human beings, then God calls those human beings whom He foreknew as believing (i.e., the people that are the subject of Romans 8:29-30, often called "the elect"). Because those whom He foreknew as believing are a proper subset of all human beings.
+
+If all the specifics in that logic-talk make you go a bit cross-eyed, the short version is that:
+
+1) God calls the whole world to repentance and salvation.
+2) But based on His perfect foreknowledge, only those whom He foreknew as believing are actually predestined for salvation and adoption
+
+And so it is that everything (and I mean *everything*) is foreordained and predestined in the Plan of God, yet we humans still have free will. This somewhat boggles the human mind (since humans can in no way know the future before it happens), but for God---who is external to spacetime, and exceeds it to an infinite degree---this is no great thing.
+
+### Verses 31-39 {#verses-31-39}
+
+#### Do you take comfort in verse 31? {#do-you-take-comfort-in-verse-31}
+
+We should. Do we? Probably not nearly as much as would be ideal.
+
+We have the Omnipotent Creator of the Universe on our side, so long as we are acting according to His Will. Nothing, *nothing* can stand against Him. Not in the least.
+
+But, of course, we only have God on our side when we are acting within His Will. Otherwise this promise will do little for us. In other words, God will not be on our side no matter what we do, but only when we do what He wants us to do. Big difference, that!
+
+This is a verse to call to mind when God calls you to step out in faith, despite what your eyes may see or your ears hear. If you are called to make a dubious-seeming charge across the battlefield of this life, then so long as God is in fact the one blowing the trumpet to signal attack, you should straighten those knocking knees, square those shoulders, and boldly advance. That is the sort of thing this verse calls us to.
+
+Even more than sketchy-seeming odds though, the thing that makes applying this verse so difficult in practice is that any mature believer knows that even though God is Omnipotent, that does not prevent us from suffering pain or even death, because sometimes such is the Will of God. Sometimes when God blows that trumpet of attack to go storm the enemy bunker, you really are spearheading a charge leading to your death.
+
+If you are tempted to say that this verse no longer seems comforting when viewed in such a light, I might suggest trying to look more towards the eternal perspective. It can be a decidedly hard perspective shift (especially at the beginning), but honestly, what is there to fear in death (cf. Philippians 1:21)? Especially if we are killed in the "line of duty" (so to speak), only glorious rewards will await us in eternity. And if we die, it is only because God saw fit to use our death as a witness in His Plan. He is still in complete control, and only blessing will come to us on account of such.
+
+But that doesn't make it any easier in practice to go charge the enemy bunker when the trumpet gets blown. And that's why how effectively you can hold onto the true perspective behind this verse is really what separates the men from the boys in this life (at least in a spiritual sense). Do you really believe what this verse says, even if God is calling for you to lay down your life---that God can be on your side, yet call for you to undergo suffering or even death for His glory?
+
+#### Do *you* deserve to be spared from suffering, when Jesus Christ suffered more than anyone else in history? {#do-you-deserve-to-be-spared-from-suffering-when-jesus-christ-suffered-more-than-anyone-else-in-history}
+
+Jesus was the only person in history undeserving of suffering, yet He suffered more than any other human being ever has and ever will suffer in the history of the world. So who are we to complain about fair, huh? Are we good?
+
+Only God is good (Mark 10:18). All of us, down to a person, already stand condemned, on account of our sin (cf. Romans 3:23; James 3:2; 1 John 1:8-10). We are altogether worthy of death and condemnation. So our words only ever ought to be "There by the grace of God go I," and nothing more. No whining should cross our lips. Because Jesus died so that we might live, and this is a gift given to us by grace alone.
+
+#### How do we overcome our suffering? {#how-do-we-overcome-our-suffering}
+
+According to Romans 8:35-39, no suffering that this world could ever throw at us can separate us from the love of Christ.
+
+So, quite simply, the way we overcome our suffering is by actually believing that. By walking the walk, not just talking the talk. By laying down our lives for Christ in faith, if that is what we are called to do. For we know that doing so will not separate us from the Savior we love so much, but will just bring us out of this world of pain and tears, into a glorious eternity.
+
+With a perspective such as that, we can eventually come to eat suffering for breakfast... if only we have faith as we ought.
+
+#### What can separate you from the love of our Savior? {#what-can-separate-you-from-the-love-of-our-savior}
+
+It might be tempting say "nothing!" Certainly, the general emphasis of Romans 8:35-39 is that most of the things people might think would have us separate from the love of Christ do not in fact have us separate from the love of Christ.
+
+There is one thing that can keep us separate from His love, however, and that is unbelief---a free will choice on our part to turn our back on God.
+
+There are many who do not think that people who truly believe can ever fall away. (Such a teaching is usually called "perseverance of the saints" or "once saved always saved"). However, the Bible fairly clearly teaches that people can stop believing, and therefore stop being saved. For example, Luke 8:13 (a verse that is part of the Parable of the Sower) says that there are some who "believe for a while", but fall away during the time of testing. And since John 3:18 (among other passages) teaches that those who do not believe are not saved, one arrives at the clear conclusion.
+
+The sense of Romans 8:35-39 then is that we don't have to worry about anything external getting in the way of our salvation if we want to be saved (not even suffering and death). It's only ever about our belief.
+
+{{% /content %}}
+
+
+<!-- {{% transcript %}}
+
+## Video/audio transcript {#video-audio-transcript}
+
+
+
+{{% /transcript %}} -->
+
+{{% section-navigation %}}

@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Slides</title>
+  <meta charset="utf-8">
+  <link
+  rel="stylesheet"
+  href="https://unpkg.com/littlefoot/dist/littlefoot.css"
+/>
+  <style>
+   @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+   @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+   body { 
+    font-family: 'Georgia';
+   }
+
+   ::selection{
+    background-color: #fff6bd;
+   }
+
+   h1, h2, h3, h4, h5, h6 {
+    font-family: 'Verdana';
+    font-weight: bold;
+   }
+
+   h2 {
+    display: block;
+    font-size: 30px !important;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+   }
+
+   /* Style most headers the same across slides, for visual consistency */
+   h3, h4, h5, h6 {
+    display: block;
+    font-size: 18px !important;
+    margin-block-start: 1.2em;
+    margin-block-end: 1.2em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+   }
+
+   /*
+    Don't need extra padding when headers aren't in a special content section
+    with the special content section name in a strong tag (when the header is
+    the very first thing in the sepcial content section div). Too much space otherwise
+   */
+   .special-content h3:first-child,
+   .special-content h4:first-child,
+   .special-content h5:first-child,
+   .special-content h6:first-child
+    {
+      margin-top: 0px;
+    }
+
+   .remark-code, .remark-inline-code {
+    font-family: 'Ubuntu Mono';
+   }
+   
+   .footer {
+    position: absolute;
+    bottom: 5px;
+    right: 50px;
+    height: 40px;
+    width: 800px;
+    color: #006400;
+   }
+
+   a {
+    color: #3b8bba;
+    text-decoration: none;
+  }
+
+  table, th, td {
+    border: 1px solid black;
+  }
+
+  /* Special content sections */
+
+  .special-content {
+    border-radius: 5px;
+    padding: 20px 10px 20px 10px;
+  }
+
+  .special-content >  .special-content {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .special-content > strong {
+    display: block;
+    text-align: center;
+    border-bottom: 1px solid black;
+    margin-top: -15px;
+  }
+
+  .special-content.cautionary-note {
+    background: #ffe6e6;
+  }
+
+  .special-content.technical-discussion {
+    background: #ffe0cc;
+  }
+
+  .special-content.sidenote {
+    background: #fffae6;
+  }
+
+  .special-content.application {
+    background: #ebfaeb;
+  }
+
+  .special-content.note {
+	  background: #e6ffff
+  }
+
+  .special-content.indirect-reasoning {
+    background: #e6f5ff;
+  }
+
+  .special-content.example {
+    background: #f2e6ff;
+  }
+
+  .special-content.post-hoc-note {
+    background: #ffe6f2;
+  }
+
+  .special-content.quote {
+    background: #e6e6e6;
+  }
+
+  .special-content.scripture {
+    background: #f2e6d9;
+  }
+
+
+  /* Littlefoot footnotes */
+
+  .littlefoot__button {
+    background-color: #dddddd;
+    color: #777777;
+    height: 1rem;
+    padding: 0rem 0.8rem;
+    margin: 0rem 0.1rem;
+    border: none;
+    border-radius: 10px;
+    vertical-align: middle;
+    display: inline-flex;
+    align-items: center; 
+  }
+  </style>
+	<script>
+		var refTagger = {
+			settings: {
+				addLogosLink: true,
+				bibleVersion: "NASB",
+				convertHyperlinks: true,
+				logosLinkIcon: "light",			
+				socialSharing: [],
+				tagChapters: true
+			}
+		};
+	</script>
+ </head>
+ <body>
+  <textarea id="source">
+
+class: center, middle
+
+## Romans 1
+
+
+
+---
+
+
+### Summary
+
+TODO
+
+<!-- ## Timestamps {#timestamps} -->
+
+{{% content %}}
+---
+
+
+#### Outline
+
+- [What is a bondservant?](#3)
+- [What does it mean to be declared "Son of God"](#4)
+- [How should we approach other sinners?](#5)
+- [Does faith make an impact?](#6)
+- [How important is encouragement?](#7)
+- [Are we righteous?](#8)
+- [Who gets a pass?](#9)
+- [Do we still have idolatry today?](#10)
+- [What does vile mean (verse 24)](#11)
+- [Why choose the lie of the world over the truth of God (verse 25)?](#12)
+- [Does God give up on sinners (verse 26)?](#13)
+- [What is a "degrading passion" (verse 26)?](#14)
+- [Love is love, right (verse 27)?](#15)
+- [What is the penalty (verse 27)?](#16)
+- [Are people born gay (verse 28)?](#17)
+- [What is the result of our passions (verse 28)?](#18)
+- [What is considered natural (verse 28)?](#19)
+- [What is not proper in God's eyes (verses 29-30)?](#20)
+- [How does this describe certain modern "social justice" movements that in truth have darker motives (verse 31)?](#21)
+- [How about the concept of "live and let live" (verse 32)?](#22)
+- [Who are "they" (verse 32)?](#23)
+
+---
+
+
+## Romans 1
+
+{{% note %}}
+For most of the sections on this page, I link to pages from my [verse-by-verse study on Romans](/verse-by-verse-studies/romans/). I started writing responses to the questions here, but then the scope grew and I decided to convert it to a formal verse-by-verse study.
+
+Later chapters in this Second Baptist series will have sections that are much shorter, and will also stay standalone.
+{{% /note %}}
+
+
+
+### What is a bondservant?
+
+See [here](/verse-by-verse-studies/romans/romans-1/romans-1-1-what-is-a-bondservant/).
+
+### What does it mean to be declared "Son of God"
+
+See [here](/verse-by-verse-studies/romans/romans-1/romans-1-3-4-what-does-it-mean-for-jesus-to-be-declared-son-of-god/).
+
+### How should we approach other sinners?
+
+See [here](/verse-by-verse-studies/romans/romans-1/romans-1-5-7-how-should-we-approach-other-sinners/).
+
+
+
+### Does faith make an impact?
+
+See [here](/verse-by-verse-studies/romans/romans-1/romans-1-8-does-faith-truly-make-an-impact/).
+
+### How important is encouragement?
+
+See [here](/verse-by-verse-studies/romans/romans-1/romans-1-11-12-how-important-is-encouragement/).
+
+### Are we righteous?
+
+See [here](/verse-by-verse-studies/romans/romans-1/romans-1-17-are-we-righteous/).
+
+
+
+### Who gets a pass?
+
+See [here](/verse-by-verse-studies/romans/romans-1/romans-1-18-25-who-gets-a-pass/).
+
+### Do we still have idolatry today?
+
+See [here](/verse-by-verse-studies/romans/romans-1/romans-1-22-25-what-are-our-modern-day-idols-given-that-the-worshiping-of-animal-statues-isnt-so-much-a-thing-anymore/).
+
+### What does vile mean (verse 24)
+
+See [here](/verse-by-verse-studies/romans/romans-1/romans-1-24-what-ought-we-make-of-the-vile-impurity-or-uncleanness-mentioned-here/).
+
+### Why choose the lie of the world over the truth of God (verse 25)?
+
+See [here](/verse-by-verse-studies/romans/romans-1/romans-1-25-why-would-people-choose-the-lie-of-the-world-over-the-truth-of-god/).
+
+
+
+### Does God give up on sinners (verse 26)?
+
+See [here](/verse-by-verse-studies/romans/romans-1/romans-1-26-does-god-give-up-on-sinners/).
+
+### What is a "degrading passion" (verse 26)?
+
+See [here](/verse-by-verse-studies/romans/romans-1/romans-1-26-what-is-a-dishonorable-passion-or-shameful-lust-in-this-context/).
+
+### Love is love, right (verse 27)?
+
+See [here](/verse-by-verse-studies/romans/romans-1/romans-1-27-love-is-love-right-you-cant-be-against-love/).
+
+### What is the penalty (verse 27)?
+
+See [here](/verse-by-verse-studies/romans/romans-1/romans-1-27-what-is-the-due-penalty-within-themselves/).
+
+### Are people born gay (verse 28)?
+
+See [here](/verse-by-verse-studies/romans/romans-1/romans-1-28-are-people-born-gay/).
+
+### What is the result of our passions (verse 28)?
+
+See [here](/verse-by-verse-studies/romans/romans-1/romans-1-28-what-is-the-result-of-our-passions/).
+
+### What is considered natural (verse 28)?
+
+See [here](/verse-by-verse-studies/romans/romans-1/romans-1-28-what-is-considered-natural/).
+
+### What is not proper in God's eyes (verses 29-30)?
+
+See [here](/verse-by-verse-studies/romans/romans-1/romans-1-29-31-what-is-not-proper-in-gods-eyes/).
+
+### How does this describe certain modern "social justice" movements that in truth have darker motives (verse 31)?
+
+See [here](/verse-by-verse-studies/romans/romans-1/romans-1-29-31-what-is-not-proper-in-gods-eyes/).
+
+### How about the concept of "live and let live" (verse 32)?
+
+See [here](/verse-by-verse-studies/romans/romans-1/romans-1-32-what-does-this-verse-have-to-say-about-the-notion-of-live-and-let-live/).
+
+### Who are "they" (verse 32)?
+
+This verse has in mind not only those who *do* evil, but also those who *approve* of it. Those who sit on the sidelines and applaud when people do "what ought not to be done" (verse 28).
+
+To use modern examples, those who actively lobby for homosexuality and promote it, even encourage it... these people will come in for judgement too. Not just those people who are themselves practicing homosexuals.
+
+
+
+
+<!-- Footnote List -->
+<div class="footnotes">
+<ol>
+
+  </ol>
+</div>
+  
+
+---
+
+
+#### Outline
+
+- [What is a bondservant?](#3)
+- [What does it mean to be declared "Son of God"](#4)
+- [How should we approach other sinners?](#5)
+- [Does faith make an impact?](#6)
+- [How important is encouragement?](#7)
+- [Are we righteous?](#8)
+- [Who gets a pass?](#9)
+- [Do we still have idolatry today?](#10)
+- [What does vile mean (verse 24)](#11)
+- [Why choose the lie of the world over the truth of God (verse 25)?](#12)
+- [Does God give up on sinners (verse 26)?](#13)
+- [What is a "degrading passion" (verse 26)?](#14)
+- [Love is love, right (verse 27)?](#15)
+- [What is the penalty (verse 27)?](#16)
+- [Are people born gay (verse 28)?](#17)
+- [What is the result of our passions (verse 28)?](#18)
+- [What is considered natural (verse 28)?](#19)
+- [What is not proper in God's eyes (verses 29-30)?](#20)
+- [How does this describe certain modern "social justice" movements that in truth have darker motives (verse 31)?](#21)
+- [How about the concept of "live and let live" (verse 32)?](#22)
+- [Who are "they" (verse 32)?](#23)
+
+
+
+  </textarea>
+  <script src="https://remarkjs.com/downloads/remark-latest.min.js">
+  </script>
+  <script>
+   var slideshow = remark.create({ ratio: "16:9" });
+  </script>
+<script
+src="https://unpkg.com/littlefoot/dist/littlefoot.js"
+type="application/javascript"
+></script>
+<script type="application/javascript"> littlefoot.default({
+    activateOnHover: true,
+    dismissOnUnhover: true,
+    hoverDelay: 200,
+    buttonTemplate: `
+    <button
+    aria-label="Footnote <% number %>"
+    class="littlefoot__button"
+    id="<% reference %>"
+    />
+    <% number %>
+    </button>
+    `,
+  }) </script>
+  <!-- RefTagger -->
+  <script>
+    var refTagger = {
+      settings: {
+        bibleVersion: "NASB",
+        convertHyperlinks: false,		
+        roundCorners: true,
+        socialSharing: [],
+        tagChapters: true
+      } 
+    };
+    
+    (function(d, t) { 
+      var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; 
+      g.src = 'https://api.reftagger.com/v2/RefTagger.js'; 
+      s.parentNode.insertBefore(g, s); 
+    }(document, 'script'));
+  </script>
+ </body>
+</html>
