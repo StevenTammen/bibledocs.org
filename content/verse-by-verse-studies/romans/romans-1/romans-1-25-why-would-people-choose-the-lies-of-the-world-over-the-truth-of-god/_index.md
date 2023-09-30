@@ -1,5 +1,5 @@
 ---
-title: "Romans 1:25 - Why would people choose the lie of the world over the truth of God?"
+title: Romans 1:25 - Why would people choose the lies of the world over the truth of God?
 weight: 90
 layout: content-page
 ---
@@ -26,7 +26,7 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-TODO
+It can be tempting to choose the lies of the world over the truth of God because choosing the truth of God makes the world hate us. If we do not look with eyes of faith, it can be easy to only see what we imagine we are losing, without keeping our eyes fixed on the eternal things we are gaining. For the former is right before our eyes, while the latter is veiled from our sight.
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -40,7 +40,7 @@ Do you wish to be popular? To be accepted? To not face ridicule and scorn?
 
 Then being a Christian is probably not for you. Compare John 15:18-20.
 
-Because God has temporarily given Satan leave to manipulate and control the systems of this world in order to test humanity, we are very much in enemy territory. This world is not our home (at least it is not supposed to be); we are merely sojourners here.
+Because God has temporarily allowed Satan to manipulate and control the systems of this world in order to test humanity, we are very much in "enemy territory". This world is not our home (at least it is not supposed to be); we are merely sojourners here.
 
 Governments, media, corporations, nonprofit organizations, even culture itself---all largely dance to Satan's tune, not God's. And so it is that we Christians tend to find ourselves faced with the choice of either falling into line and conforming, or sticking out and facing the consequences of such.
 

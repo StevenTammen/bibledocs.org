@@ -1,5 +1,5 @@
 ---
-title: "Romans 1:22-25 - What are our modern day idols, given that the worshiping of animal statues isn't so much a thing anymore?"
+title: Romans 1:22-25 - What are our modern day idols, given that the worshiping of animal statues isn't so much a thing anymore?
 weight: 70
 layout: content-page
 ---
@@ -26,7 +26,7 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-TODO
+Idolatry is not just bowing to down to statues of wood and stone, but is any time we place something above God in our lives. Therefore, it is very much *not* "just a thing of the past" that only superstitious ancient peoples participated in (as opposed to us modern enlightened people---or so the thought goes). On the contrary, it is a very real problem in our day as well.
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -42,7 +42,7 @@ To be clear, there is nothing wrong with enjoying the company of and advocating 
 
 Next time someone you know treats idolatry as "something in the past" that only those naïve ancients engaged in, ask them how much time they spent last week reading their Bible or taking in in-depth Bible teaching vs. how much time they spent watching things on Netflix or other streaming services. Ask them whether they think their Christianity is really more important to them than social media, given that they may be on Facebook, Twitter, Instagram, Snapchat, TikTok, and so on for hours every day, but fail to seriously pray daily, or even any frequency approaching daily.
 
-And for those who think they're in the clear even still... ask them whether they value their family and/or career more than their faith. Work is a good thing (cf. Ecclesiastes 2:24), and obviously so is family. But compared to God, they ought to be such a distant second that they are barely even noticeable. Compare Luke 14:26ff. We are not to actually "hate" our family---we are to love God so much more that by comparison, it seems that way by a relative measure.
+And for those who think they're in the clear even still... ask them whether they value their family and/or career more than their faith. Work is a good thing (cf. Ecclesiastes 2:24), and obviously so is family. But compared to God, they ought to be such a distant second that they are barely even noticeable. Compare Luke 14:26ff. We are not to actually "hate" our family---we are to prioritize God so much more that by comparison, it seems that way by a relative measure.
 
 Nobody is perfect in this---not even close. The point is that we should stop lying to ourselves that idolatry is just bowing down to statues and the like. Idolatry is whenever we put anything in the world (even things that are otherwise good and proper) above God---He who not only made us, but redeemed us with the precious blood of His one and only Son, in order that we might have eternal life with Him, if we would but believe.
 
