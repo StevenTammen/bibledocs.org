@@ -1,5 +1,5 @@
 ---
-title: "Romans 1:27 - What is the \"due penalty within themselves\"?"
+title: Romans 1:27 - What exactly does "receiving in themselves the due penalty for their error" mean?
 weight: 130
 layout: content-page
 ---
@@ -26,7 +26,7 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-TODO
+The text in Romans 1:27 ("receiving in themselves the due penalty for their error") is sort of ambiguous as to what the error in view is, as well as what the penalty (or negative result/consequence) for said error is. As I see things, things make the most sense if you view this clause as being inclusive and broad in its application rather than exclusive and specific.
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -35,6 +35,8 @@ TODO
 ## Content {#content}
 
 <!-- --- -->
+
+### The interpretive challenge: identifying the specific referents for the error and the penalty
 
 There are two fundamental questions when it comes to interpreting the latter part of verse 27:
 
@@ -67,25 +69,27 @@ Since it is decidedly ambiguous in the Greek, leaving it ambiguous when translat
 
 You'll note that of the translations, the NLT actually does not leave things ambiguous, but chooses to interpret in its translation, making the penalty explicitly/specifically tied to the homosexuality. This is typical of the NLT, which is a highly interpretive translation. Like the little girl from the Longfellow poem, when the NLT is good, it is very, very good, but when it is bad, it is horrid. The NIV is much the same, although it is somewhat less interpretive overall.
 
-The issue with this is that it makes it seem like the text could not at all support taking the error as the idolatry/unbelief mentioned earlier in the passage, with the penalty in view then being removal of restraint such that the people in question are given over to the unnatural sexual desires. Some interpreters in fact think that is really more what is in view here. For example, you might have a look at these posts on the Hermeneutics StackExchange:
+The issue with this is that it makes it seem like the text could not at all support taking the error as the idolatry/unbelief mentioned earlier in the passage, with the penalty in view then being removal of restraint such that the people in question are given over to the unnatural sexual desires (compare [our past discussion re: God's removal of restraint](/verse-by-verse-studies/romans/romans-1/romans-1-26-does-god-give-up-on-sinners/#gods-removal-of-restraint-does-not-violate-creature-free-will)). Some interpreters in fact think that is really more what is in view here. For example, you might have a look at these posts on the Hermeneutics StackExchange:
 
 - https://hermeneutics.stackexchange.com/a/35806
 - https://hermeneutics.stackexchange.com/a/35804
 
 These takes are completely different from the interpretation that the NLT's translation forces. So, what are we to make of all this? Which way ought we take things?
 
+### We do not need to make an exclusive choice in interpretation here
+
 I actually do not view this as an exclusive choice at all. Verse 24 directly says that as a result of their unbelief and idolatry, God gave them over to the shameful behavior relating to homosexuality (and compare also the first part of verse 26). But this new sinful behavior had negative consequences of its own too, in turn. In a manner of speaking then, the clause "receiving in themselves the due penalty for their error" is serving to speak to "all of the above":
 
 - Because of their idolatry, God gave them over to the unnatural lusts involved in homosexuality (verse 24 and 26a)
 - But also because of this shameful behavior, additional negative consequences too will follow
 
-To the extent that the error is "suppressing the truth" (Rom.1:18), the penalty is "handing them over to a reprobate mind" (Rom.1:28); to the extent that the error is specifically "abandoning natural relations", then the penalty is the natural results of such degrading behavior (see below---the result of sin is always death, and sexual sin specifically comes in for special reproof). This concept of compounding choices and consequences is akin to the virtuous cycle of spiritual growth, but the opposite---a feedback loop of depravity.
+To the extent that the error is "suppressing the truth" (Romans 1:18), the penalty is "handing them over to a reprobate mind" (Romans 1:28); to the extent that the error is specifically "abandoning natural relations," then the penalty is the natural results of such degrading behavior (see below---the result of sin is always death, and sexual sin specifically comes in for special reproof). This concept of compounding choices and consequences is akin to the virtuous cycle of spiritual growth, but the opposite---a feedback loop of depravity.
 
 Hopefully this explanation makes sense. It can take a bit of squinting to see how the all the bits fit together, but the passage really does make the most sense if you view this clause as being inclusive and broad in its application rather than exclusive and specific.
 
-#### The penalty for sin generally: death {#the-penalty-for-sin-generally-death}
+### The penalty for sin generally: death {#the-penalty-for-sin-generally-death}
 
-To go a bit deeper into what sort of "general consequences" come from sinful behavior (like the degrading of one's body in unnatural sexual relations in this specific context):
+To go a bit deeper into what sort of "general consequences" come from sinful behavior (like the degrading of one's body in unnatural sexual relations, as in this specific context):
 
 {{% scripture p="Romans 6:23a | KJV" %}}
 The wages of sin is **death**
@@ -99,9 +103,9 @@ The Bible is very clear that sin leads to death. There are actually [three aspec
 
 For believers, sin separates us from God until we confess and restore our relationship with Him; it *does* inherently cause spiritual death. And if we keep on sinning despite mounting divine discipline, one of the other two types of death will inevitably come into play too. Either God will take us out of the world due to our exceedingly poor witness for His Name (the so-called "sin unto death"), or we will harden ourselves to the truth enough that we actually stop believing (apostasy).
 
-So sin is serious business. We do not at all lose our salvation the moment we sin (or anything close to that), but should we ever give ourselves over to it completely, well, the Bible says:
+So sin is serious business. We do not at all lose our salvation the moment we sin (or anything even remotely close to that), but should we ever give ourselves over to it completely such that we turn our backs on God, well, the Bible says:
 
-{{% nt t="esv" p="Corinthians 6:9-10" h="400px" %}}
+{{% nt t="esv" p="1 Corinthians 6:9-10" h="400px" %}}
 
 {{% scripture-h p="1 Corinthians 6:9-10 | NIV84" %}}
 **9** Do you not know that the wicked will not inherit the kingdom of God? Do not be deceived: Neither the sexually immoral nor idolaters nor adulterers nor male prostitutes nor homosexual offenders **10** nor thieves nor the greedy nor drunkards nor slanderers nor swindlers will inherit the kingdom of God.
@@ -119,7 +123,7 @@ Not inheriting the kingdom of God means not being saved: being subject to the se
 
 The passage we just quoted from in 1 Corinthians 6 is quite relevant to our specific context here in Romans 1, for it also goes on to describe the severity of sexual sin specifically:
 
-{{% nt t="esv" p="Corinthians 6:13-20" h="800px" %}}
+{{% nt t="esv" p="1 Corinthians 6:13-20" h="600px" %}}
 
 {{% scripture-h p="Corinthians 6:13-20 | NIV84" %}}
 **13** The body is not meant for sexual immorality, but for the Lord, and the Lord for the body. **14** By his power God raised the Lord from the dead, and he will raise us also. **15** Do you not know that your bodies are members of Christ himself? Shall I then take the members of Christ and unite them with a prostitute? Never! **16** Do you not know that he who unites himself with a prostitute is one with her in body? For it is said, “The two will become one flesh.” **17** But he who unites himself with the Lord is one with him in spirit. 

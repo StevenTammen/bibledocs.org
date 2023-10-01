@@ -1,5 +1,5 @@
 ---
-title: "Romans 1:28 - What is considered \"natural\"?"
+title: Romans 1:28 - What is considered "natural"?
 weight: 160
 layout: content-page
 ---
@@ -36,13 +36,15 @@ TODO
 
 <!-- --- -->
 
+### The basic idea
+
 Genesis 2:23-24 and Matthew 19:4-6 make it very clear what God holds to be natural in terms of human sexual behavior. There is exactly zero wiggle room here.
 
-It is almost amusing how clear the text is. If people would just read this passage in Matthew with an open mind, it inherently rejects all sexual deviance in that it clearly states that God's intention is that a man and his wife be joined together as one flesh.
+It is almost amusing how clear the text is. If people would just read this passage in Matthew with an open mind, it inherently rejects all sexual deviance in that it clearly states that God's intention is that a husband and his wife be joined together as one flesh.
 
-In other words, even if we had absolutely no other passages forbidding various forms of sexual sin, Matthew 19:4-6 alone would be sufficient, in that it clearly states what God's intent is with respect to human sexuality.
+In other words, even if we had absolutely no other passages forbidding various forms of sexual sin, Matthew 19:4-6 alone would be sufficient, in that it clearly states what God's intent is with respect to human sexuality: that it to be limited to one man and one women who are married.
 
-{{% sidenote %}}
+### It is "wife" not just "woman" in these passages
 
 I suppose I should note that in Genesis 2:25 and Matthew 19:5 both, the word translated as "wife" also means woman generally. The word is *ishsha* (Hebrew: [אִשָּׁה](https://www.blueletterbible.org/lexicon/h802/esv/wlc/0-1/)) in Genesis, and *gune* (Greek: [γυνή](https://www.blueletterbible.org/lexicon/g1135/esv/tr/0-1/)) in Matthew.
 
@@ -56,7 +58,6 @@ But other passages in the Bible make it plenty clear which way we *must* transla
 
 So I suppose it would more precise to say Matthew 19:4-6 makes everything crystal clear when taken alongside Hebrews 13:4.
 
-{{% /sidenote %}}
 
 {{% /content %}}
 
