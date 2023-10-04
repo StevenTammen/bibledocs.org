@@ -1,5 +1,5 @@
 ---
-title: Romans 1:28 - Are people "born gay"?
+title: Romans 1:26-27 - Are people "born gay"?
 weight: 140
 layout: content-page
 ---

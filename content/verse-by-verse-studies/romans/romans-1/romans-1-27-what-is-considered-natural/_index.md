@@ -1,5 +1,5 @@
 ---
-title: Romans 1:28 - What is considered "natural"?
+title: Romans 1:27 - What is considered "natural"?
 weight: 160
 layout: content-page
 ---
@@ -26,7 +26,7 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-TODO
+Genesis 2:23-24 and Matthew 19:4-6 make it clear what God holds to be natural in human sexuality: that sexual relations are to be limited to a man and a woman who are married to each other. From the outset, this inherently rules out all other "possibilities".
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -42,7 +42,7 @@ Genesis 2:23-24 and Matthew 19:4-6 make it very clear what God holds to be natur
 
 It is almost amusing how clear the text is. If people would just read this passage in Matthew with an open mind, it inherently rejects all sexual deviance in that it clearly states that God's intention is that a husband and his wife be joined together as one flesh.
 
-In other words, even if we had absolutely no other passages forbidding various forms of sexual sin, Matthew 19:4-6 alone would be sufficient, in that it clearly states what God's intent is with respect to human sexuality: that it to be limited to one man and one women who are married.
+In other words, even if we had absolutely no other passages forbidding various forms of sexual sin, Matthew 19:4-6 alone would be sufficient, in that it clearly states what God's intent is with respect to human sexuality: that it is to be limited to a man and a woman who are married to each other. All other permutations (man and man, woman and woman, man and woman that are not married) are off-limits.
 
 ### It is "wife" not just "woman" in these passages
 
@@ -58,6 +58,13 @@ But other passages in the Bible make it plenty clear which way we *must* transla
 
 So I suppose it would more precise to say Matthew 19:4-6 makes everything crystal clear when taken alongside Hebrews 13:4.
 
+<!-- ### What about polygamy?
+
+The fact that Genesis 2:23-24, Matthew 19:4-6, and Ephesians 5:21-33 all simply presuppose one man and one woman is strong inferential evidence that this is the normal state of affairs when it comes to human marriage. Such an idea can be confirmed by observation as well, simply by looking at the witness of scripture: we have no documented cases of polygamy in the New Testament, and only a few cases in the Old Testament, out of all the believers mentioned therein. That is, while Abraham, Jacob, David, and Solomon may have had multiple wives and/or concubines, the vast majority of Old Testament believers did not.
+
+Polygamy is not sinful *per se*, but that also doesn't make it something that we should necessarily seek to practice (cf. 1 Corinthians 10:23). See [here](todo) for my full thoughts on polygamy. 
+
+ -->
 
 {{% /content %}}
 

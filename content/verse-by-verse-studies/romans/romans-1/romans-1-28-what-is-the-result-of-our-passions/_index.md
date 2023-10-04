@@ -1,5 +1,5 @@
 ---
-title: "Romans 1:28 - What is the result of our passions?"
+title: Romans 1:28 - What is the result of our passions?
 weight: 150
 layout: content-page
 ---

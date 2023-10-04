@@ -26,7 +26,7 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-There is no point after which a sinner is too far gone. God will *always* accept repentant sinners back with open arms---praise be to Him! However, God does give us the ability to actually choose; if we decide we want to throw Him and His truth away and bury our heads in the sand, He is involved in that choice of ours as well, in that He hardens our hearts to make that choice even possible to begin with (since it violates natural logic and instinct). In other words, God removes His blessings of restraint and spiritual insight from wayward creatures who have decided that they want nothing to do with Him.
+There is no point after which a sinner is too far gone. God will *always* accept repentant sinners back with open arms---praise be to Him! However, God does give us the ability to actually choose; if we decide we want to throw Him and His truth away and bury our heads in the sand, He is involved in that choice of ours as well, in that He hardens our hearts to make that choice even possible to begin with (since it violates natural logic and instinct). In other words, God actively removes His blessings of restraint and spiritual insight from wayward creatures who have decided that they want nothing to do with Him.
 
 <!-- ## Timestamps {#timestamps} -->
 
