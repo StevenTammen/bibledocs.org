@@ -36,7 +36,7 @@ In Romans 1:18ff. and Psalm 19, the Bible teaches that all human beings are with
 
 <!-- --- -->
 
-### Natural revelation holds that no mentally mature humans get a pass
+### Natural revelation holds that no mentally mature humans get a pass {#natural-revelation-holds-that-no-mentally-mature-humans-get-a-pass}
 
 Paul doesn't stutter in Romans 1:18ff., even if what these verses clearly teach will no doubt offend people. *No one* gets a pass. No one at all. Every human being that has ever grown to maturity will be justly condemned, if in fact they have chosen to harden their hearts to the truth of God's existence and their need for a savior.
 
@@ -46,7 +46,7 @@ In theology, this teaching that creation itself tells us of God (thereby leaving
 
 I should note that many theologians (including myself) hold that children who die before reaching a certain degree of self-awareness (as well as people with severe enough mental handicaps that they never reach such a point) are automatically saved. This doesn't contradict natural revelation in a general sense, since both of these groups are obviously not "the normal human condition." And so it is that there will be in heaven people "from every nation, from all tribes and peoples and languages" (Revelation 7:9), despite the fact that some people cry contradiction since many parts of the world throughout history seem to have not received the gospel of Jesus Christ, and the Bible makes it *very* clear that we are saved through Him and only Him (cf. John 10:9, 14:6; Acts 4:12). 
 
-### If people must be saved through belief in Jesus Christ, does that inherently mean that places that never got the gospel had no people who accepted natural revelation?
+### If people must be saved through belief in Jesus Christ, does that inherently mean that places that never got the gospel had no people who accepted natural revelation? {#if-people-must-be-saved-through-belief-in-jesus-christ-does-that-inherently-mean-that-places-that-never-got-the-gospel-had-no-people-who-accepted-natural-revelation}
 
 We do not know specifics in all these situations, and God is more than capable of using overtly supernatural means (such as dreams) to communicate the truth, were someone in such a circumstance to legitimately desire the gospel (that is, not reject natural revelation). 
 

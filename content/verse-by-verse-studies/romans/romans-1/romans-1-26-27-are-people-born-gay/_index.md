@@ -1,6 +1,6 @@
 ---
 title: Romans 1:26-27 - Are people "born gay"?
-weight: 140
+weight: 130
 layout: content-page
 ---
 
@@ -36,14 +36,14 @@ Since all of us struggle with different areas of sin, it does not seem to me to 
 
 <!-- --- -->
 
-### Introduction: distinguishing between temptation and sin
+### Introduction: distinguishing between temptation and sin {#introduction-distinguishing-between-temptation-and-sin}
 
 We need to be careful and precise when discussing this topic. What do I mean by that? Well:
 
 1) Thought, word, and deed are always choices under the purview of human free will. So choosing to actually involve oneself sexually with someone of the same sex (or nurse lust for them in one's mind, etc.) is *entirely a free will decision*. Full stop. One can *always* choose to resist temptation rather that giving into it.
 2) But what about the desires/temptations themselves? Can people just "think themselves out of" improper attraction?
 
-### Perils in interpretation
+### Perils in interpretation {#perils-in-interpretation}
 
 It might be tempting to say that it doesn't matter whether or not homosexual temptation is under the control of human will. After all, it wouldn't change a single thing about what is allowable or not. That is, the sinful things are sinful regardless of where the temptation to do these sinful things comes from, and to what degree such temptation is under our control.
 
@@ -51,7 +51,7 @@ The problem with just leaving things at that is that a certain legalistic attitu
 
 Now, to be fair, the Bible never says the opposite either (that is, that it is definitely the case that some people are tested in this area completely aside from any free will choices of their own). 
 
-### Different people struggle with different areas of sin
+### Different people struggle with different areas of sin {#different-people-struggle-with-different-areas-of-sin}
 
 With that being said, it is rather obvious from scripture and everyday experience that different people have different strengths and weaknesses. The sin that might so easily trip you up (cf. Hebrews 12:1) might be no big deal for me... but perhaps what so easily trips me up is likewise no big deal for you! This does not make either of us better or worse than the other, just different.
 
@@ -61,7 +61,7 @@ And even more to the point, honest people possessing heterosexual attraction wil
 
 At the very least, we need to be consistent in discussing the matter, and not have glaring double standards when it comes to judging sexual sin specifically of the homosexual variety.
 
-### But the waters get muddied by "copycat effects"
+### But the waters get muddied by "copycat effects" {#but-the-waters-get-muddied-by-copycat-effects}
 
 On the other hand, I think it would be blatantly irresponsible not to also point out that there is a large potential for "copycat effects" coming through culture and the media (cf. [copycat crimes](https://en.wikipedia.org/wiki/Copycat_crime) and [copycat suicides](https://en.wikipedia.org/wiki/Copycat_suicide)).
 
@@ -69,7 +69,7 @@ People in the LGBTQ+ (or whatever the acronym is nowadays) community commonly st
 
 This would seem to muddy the waters to me, as it would suggest that the number of people who identify as homosexual may include people for whom the same-sex attraction is more learned cultural impulse than raw biology. Or at least that seems to be a distinct possibility that cannot be ruled out in any sort of deterministic fashion, since you cannot inherently separate people from their culture, making literally the entire statistical sample biased.
 
-### Conclusions, unsatisfying as they may be
+### Conclusions, unsatisfying as they may be {#conclusions-unsatisfying-as-they-may-be}
 
 So... maybe it is not controllable in some cases, *and* maybe our current culture's idolization of sexual deviance artificially creates it where it otherwise wouldn't be naturally (cf. advertising stirring up materialistic desire in consumers that wouldn't otherwise be there)? Can we really say for sure about all the specifics?
 

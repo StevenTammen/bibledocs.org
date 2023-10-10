@@ -1,6 +1,6 @@
 ---
 title: Romans 1:27 - What exactly does "receiving in themselves the due penalty for their error" mean?
-weight: 130
+weight: 140
 layout: content-page
 ---
 
@@ -36,7 +36,7 @@ The text in Romans 1:27 ("receiving in themselves the due penalty for their erro
 
 <!-- --- -->
 
-### The interpretive challenge: identifying the specific referents for the error and the penalty
+### The interpretive challenge: identifying the specific referents for the error and the penalty {#the-interpretive-challenge-identifying-the-specific-referents-for-the-error-and-the-penalty}
 
 There are two fundamental questions when it comes to interpreting the latter part of verse 27:
 
@@ -76,7 +76,7 @@ The issue with this is that it makes it seem like the text could not at all supp
 
 These takes are completely different from the interpretation that the NLT's translation forces. So, what are we to make of all this? Which way ought we take things?
 
-### We do not need to make an exclusive choice in interpretation here
+### We do not need to make an exclusive choice in interpretation here {#we-do-not-need-to-make-an-exclusive-choice-in-interpretation-here}
 
 I actually do not view this as an exclusive choice at all. Verse 24 directly says that as a result of their unbelief and idolatry, God gave them over to the shameful behavior relating to homosexuality (and compare also the first part of verse 26). But this new sinful behavior had negative consequences of its own too, in turn. In a manner of speaking then, the clause "receiving in themselves the due penalty for their error" is serving to speak to "all of the above":
 

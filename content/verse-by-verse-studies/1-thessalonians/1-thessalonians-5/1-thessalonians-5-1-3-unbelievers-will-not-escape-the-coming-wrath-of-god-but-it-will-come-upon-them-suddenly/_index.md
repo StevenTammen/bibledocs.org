@@ -1,5 +1,5 @@
 ---
-title: "1 Thessalonians 5:1-3 - Unbelievers will not escape the coming Wrath of God, but it will come upon them suddenly"
+title: 1 Thessalonians 5:1-3 - Unbelievers will not escape the coming Wrath of God, but it will come upon them suddenly
 weight: 1
 layout: content-page
 ---
@@ -26,7 +26,7 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-TODO
+So sudden will be the coming of the Son of Man that it will catch those who do not see fit to watch for Him completely off guard. They will be utterly destroyed---they will not be able to resist, no one will help them, and they will not get up after being felled. Their doom has been foretold, and it will surely come to pass.
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -36,13 +36,13 @@ TODO
 
 <!-- --- -->
 
-This is not the only place in scripture where we hear about the sudden destruction of those who refuse to follow God (and therefore the path of true righteousness). For example:
+1 Thessalonians 5:1-3 is not the only place in scripture where we hear about the sudden destruction of those who refuse to follow God (and therefore the path of true righteousness). For example:
 
 - Proverbs 6:12-15
 - Proverbs 24:21-22
 - Proverbs 29:1
 
-There are also other passages of formal prophecy (rather than just general principles) dealing with sudden destruction:
+There are also other passages of formal prophecy (rather than just general principles) dealing with destruction:
 
 - Isaiah 47
 - Lamentations 4

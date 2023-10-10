@@ -1,6 +1,6 @@
 ---
 title: Romans 1:27 - What is considered "natural"?
-weight: 160
+weight: 150
 layout: content-page
 ---
 
@@ -36,7 +36,7 @@ Genesis 2:23-24 and Matthew 19:4-6 make it clear what God holds to be natural in
 
 <!-- --- -->
 
-### The basic idea
+### The basic idea {#the-basic-idea}
 
 Genesis 2:23-24 and Matthew 19:4-6 make it very clear what God holds to be natural in terms of human sexual behavior. There is exactly zero wiggle room here.
 
@@ -44,7 +44,7 @@ It is almost amusing how clear the text is. If people would just read this passa
 
 In other words, even if we had absolutely no other passages forbidding various forms of sexual sin, Matthew 19:4-6 alone would be sufficient, in that it clearly states what God's intent is with respect to human sexuality: that it is to be limited to a man and a woman who are married to each other. All other permutations (man and man, woman and woman, man and woman that are not married) are off-limits.
 
-### It is "wife" not just "woman" in these passages
+### It is "wife" not just "woman" in these passages {#it-is-wife-not-just-woman-in-these-passages}
 
 I suppose I should note that in Genesis 2:25 and Matthew 19:5 both, the word translated as "wife" also means woman generally. The word is *ishsha* (Hebrew: [אִשָּׁה](https://www.blueletterbible.org/lexicon/h802/esv/wlc/0-1/)) in Genesis, and *gune* (Greek: [γυνή](https://www.blueletterbible.org/lexicon/g1135/esv/tr/0-1/)) in Matthew.
 

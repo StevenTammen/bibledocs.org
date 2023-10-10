@@ -327,6 +327,7 @@ span.mixed {
 	display: block;
 	text-align: center;
 	border-bottom: 1px solid black;
+	margin-bottom: 10px;
 }
 
 .special-content.cautionary-note {
@@ -499,11 +500,17 @@ figure.captioned {
 	.mobile-bar {
 		display: none;
 	}
+	.content {
+		margin-bottom: 30px;
+	}
 }
 
 @media (max-width: 48em) {
 	.mobile-bar {
 		display: flex;
+	}
+	.content {
+		margin-bottom: 80px;
 	}
 }
 

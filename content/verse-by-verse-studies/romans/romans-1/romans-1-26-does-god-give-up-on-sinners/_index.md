@@ -36,7 +36,7 @@ There is no point after which a sinner is too far gone. God will *always* accept
 
 <!-- --- -->
 
-### Introduction
+### Introduction {#introduction}
 
 1 Timothy 2:4 and John 3:17 say that God wants all to be saved. When people end up not saved, then, are we to think it is God's fault somehow?
 
@@ -44,7 +44,7 @@ No, such is not the case. People are only ever not saved because they choose aga
 
 Put simply, God allows us to delude ourselves exactly as much as we ourselves want to be deluded. He gives us what we want (even if it is bad for us)---not maliciously to hurt us, but because He really does give us the ability to choose, and anything less would not be true freedom.
 
-### Hardness of heart - Pharaoh, Satan
+### Hardness of heart - Pharaoh, Satan {#hardness-of-heart-pharaoh-satan}
 
 The thing in all this that ought to inspire fearful reverence and awe is that God is *even said to be the one hardening hearts* (keep reading if this active way of phrasing it seems "off" to you---explanation will be forthcoming). Romans 1:26 aside, Exodus 14 showcases this phenomenon, when God hardened Pharaoh's heart so that the Egyptians foolishly chased after the Israelites, even after having already tasted of the supernatural consequences of such a path.
 
@@ -66,7 +66,7 @@ All this to say, God's progressive removal of restraint from wayward children is
 
 As another example of God giving creatures over to their folly, consider Satan's rebellion against God. Satan is an angel far more intelligent and capable than we can even imagine. He was the preeminent created being---the one tasked with warding off evil from the throne of God (cf. Ezekiel 28:11ff.). Satan *knew* God. But he still chose to raise his arm against his Creator. It is utter madness, complete insanity. How could a finite created being ever defeat his Infinite Maker?!
 
-### God's removal of restraint does *not* violate creature free will
+### God's removal of restraint does *not* violate creature free will {#god-s-removal-of-restraint-does-not-violate-creature-free-will}
 
 God removing restraint from those choosing a path of rebellion is basically synonymous with Him removing His blessings of natural instinct and insight/understanding from them. These things---cf. the human conscience---are gifts God gives humanity out of His great mercy and grace, not because He must. But when people turn away from Him, He merely removes some of these blessings He would not need to give us to begin with. Without these blessings He gives, we would *all* be in this sorry state of utter blindness, lacking the ability to understand even the most basic of spiritual truths. Praise be to God that He only removes His insight from us if that is well and truly what we have decided in our heart of hearts that we want, and never for any other reason!
 
@@ -87,7 +87,7 @@ So it is best to view hardness of heart as removal of restraint/insight accordin
 
 There will come a time when God will remove the veil, remove the hardness by which He allows humanity to deceive itself, and thereby reject Him. At that time, "every knee will bow, and every tongue will confess" (cf. Isaiah 45:23; Romans 14:11; Philippians 2:10-11). (**Note**: this does not teach Universalism, the notion that somehow all will be saved in the end. Instead, it is more along the lines of hitting the back of an unwilling prisoner's knees to make him bow before the King. On that Great Day of Days, people will be powerless to deny the truth, and the weight of it will force out an acknowledgement of God's righteous authority, completely against their will). The only reason why people aren't forced to their knees in the present---overwhelmed by the sheer majesty of the Almighty---is because He hardens their hearts according to their desire to not be with Him.
 
-### So no, God does not ever "give up" on sinners
+### So no, God does not ever "give up" on sinners {#so-no-god-does-not-ever-give-up-on-sinners}
 
 So to bring us full circle, God never gives up on sinners; the door is *always* open. At any moment, if we would but turn to Him instead of refusing to submit to Him, He would stop giving us over to our stubborn hearts, and instead deliver us from our afflictions (cf. Psalm 81:11-16, and also cf. the parable of the prodigal son, Luke 15:11-32). But He will also let us freely toss Him aside without cognitive dissonance or discomfort---if it is what we decide we truly want---since He will harden our hearts ever more if we continually choose against Him. And *that* is a most sobering thought indeed. May we ever choose to submit to Him rather than forcing Him to harden our hearts!
 
