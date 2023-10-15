@@ -1,5 +1,5 @@
 ---
-title: "Romans 2:4 - How exactly does God's kindness lead to repentance?"
+title: Romans 2:4 - How exactly does God's kindness lead to repentance?
 weight: 30
 layout: content-page
 ---
@@ -26,7 +26,7 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-TODO
+God's kindness leads to repentance in the sense that He spares sinners from His judgement for some long time, to give them space for repentance. If He always rendered immediate judgement upon sinners, then absolutely none of us would have a chance at being saved. But instead, God is incredibly patient with humanity---even those deeply ensnared by evil. Because He spares people in such a way, some *do* come to repentance, like the people of Ninevah in the Old Testament book of Jonah. And this is not something we should be bitter about ("God, why were those sinners given such chances for repentance when XYZ good person died young?"), but instead celebrate joyfully, as people who were once dead have now found life (cf. Luke 15:24).
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -36,13 +36,13 @@ TODO
 
 <!-- --- -->
 
-Like, what exactly does it mean for God's kindness to lead to repentance? Wouldn't God's divine discipline generally be what leads us to repentance? Cf. Hebrews 12:4-11.
+In asking "how exactly does God's kindness lead to repentance?", the idea behind the question is sort of that discipline not kindness might seem like a likelier motivator for repentance. Compare Hebrews 12:4-11---the Bible is clear that God disciplines all those who are truly His children (for our own good, of course). So then why wouldn't God's divine discipline generally be what leads us to repentance, not "kindness"? 
 
-Taking "kindness" here to be the warm, fuzzy kind is not really proper, even if that may be what we generally tend to make of the word. In fact, the best way to take the "kindness" that Paul mentions here is really more in line with mercy---delayed judgment such that people are given the opportunity to repent.
+It is a perfectly valid question... but it is sort of grounded on a couple implicit assumptions. For example, what comes to mind when you think of "kindness"? Probably doing nice things for someone, giving them things, letting them know your love and care, things of that sort.
 
-Romans 2:4 is an example of the longsuffering of the Lord. These individuals Paul has been discussing are despising God's mercy and forbearance by continuing on in their evil ways. Eventually, the time for mercy for them will expire. (Cf. the whole chapter of 2 Peter 2, and perhaps especially 2 Peter 2:3b---"their judgment from long ago is not idle, and their destruction is not asleep").
+But what about not punishing someone when they deserve it? Mercy is kindness too. And when you view the verse with this sort of "kindness" in view... suddenly things start making a bit more sense. God would be justified in wiping out sinners the instant they transgress His perfect Holiness. And if He would be justified in doing such with no delay, giving sinful man a short period of delay as an opportunity to repent is already kinder than God would need to be. But it is not just some short delay God gives sinners to repent---it is weeks, months, years of continual chances to turn from their folly. God holds back His judgement for literal *eons* so that people might turn to Him, if only they would not say no. For "The Lord is compassionate and gracious, slow to anger, abounding in love" (Psalm 103:8, NIV11).
 
-That God does not blot them from the face of the Earth immediately is a kindness. It is a kindness that God does not do this to us *all* as sinners (for we are all sinners, every last one of us; cf. Romans 3:23)---but that He does not do so even in cases like the people of Romans 1:18ff. is a true testament to his patience with humanity. By not immediately destroying the sinful/evil, God gives them space for repentance... and some do repent (which they would not be able to do if He had not in mercy spared them for some long time).
+So Romans 2:4 is an example of the longsuffering of the Lord. These individuals Paul has been discussing are despising God's mercy and forbearance by continuing on in their evil ways. Eventually, the time for mercy for them will expire. (Cf. the whole chapter of 2 Peter 2, and perhaps especially 2 Peter 2:3b---"their judgment from long ago is not idle, and their destruction is not asleep"). That God does not blot them from the face of the Earth immediately is a kindness. It is a kindness that God does not do this to us *all* as sinners (for we are all sinners, every last one of us; cf. Romans 3:23)---but that He does not do so even in cases like the people of Romans 1:18ff. is a true testament to His patience with humanity. By not immediately destroying the sinful/evil, God gives them space for repentance... and some *do* repent (which they would not be able to do if He had not in mercy spared them for some long time).
 
 We might compare the people of Nineveh in the Old Testament book of Jonah. That is the sense of God's kindness we ought to have in mind here.
 

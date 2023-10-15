@@ -1,5 +1,5 @@
 ---
-title: "Romans 2:1 - What is the sense of the \"therefore\" in this verse?"
+title: Romans 2:1 - What is the sense of the "therefore" in this verse?
 weight: 1
 layout: content-page
 ---
@@ -26,7 +26,7 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-TODO
+The "therefore" in Romans 2:1 is pointing back to the entire preceding passage in chapter 1 (Romans 1:18-32)---the fact of divine justice being perfect, absolute, and imminent for anyone who trifles with it. Chapter divisions were added later (are not part of the inspired text itself), so the air of separation that may be introduced by the chapter break is not actually inherent to the text.
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -36,11 +36,11 @@ TODO
 
 <!-- --- -->
 
-Along these lines:
+We might phrase the general question something like:
 
 {{% quote %}}
 
-What's the sense of the "therefore" (διό) in Romans 2:1? What exactly is it from chapter 1 that makes it so that they have no excuse? What's the specific antecedent? Natural revelation generally?
+What's the sense of the "therefore" (διό) in Romans 2:1? What exactly is it from chapter 1 that makes it so that they have no excuse? What's the specific antecedent? Is it just natural revelation generally?
 
 {{% /quote %}}
 

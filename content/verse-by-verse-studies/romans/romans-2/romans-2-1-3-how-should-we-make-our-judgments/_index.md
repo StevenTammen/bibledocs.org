@@ -1,5 +1,5 @@
 ---
-title: "Romans 2:1-3 - How should we make our judgments?"
+title: Romans 2:1-3 - How should we make our judgments?
 weight: 10
 layout: content-page
 ---
@@ -26,7 +26,7 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-TODO
+According to this passage (as well as others like Matthew 7:1-5; Luke 6:37-42), we are to avoid self-righteous hypocritical condemnation of others. However, this does not mean that we are not to evaluate the behavior of others against the standards of the Bible in an impartial fashion---in order to exercise proper spiritual discernment, like we are called to do as believers (cf. Matthew 10:16). In fact, failing to apply ourselves in such a fashion out of fear of offending others is shirking our duty as salt and light in the world. The truth is the truth, and we have nothing to be ashamed of in simply sticking with it, wherever it leads.
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -46,7 +46,7 @@ There are extremes to be avoided here. On the one hand, the Bible is objective t
 
 On the other hand, human arrogance makes it very easy for self-righteousness to take hold in our hearts, and blind us to our own sinfulness. As soon as we cross that line in our hearts where we go from impartially evaluating the facts of a situation in a manner we might term "evaluative discernment" to instead presuming to look down on others in a manner we might term "self-righteous condemnation", that is the instant that we run afoul of these passages.
 
-It is nonsense to say that we cannot evaluate the behavior of those around us in terms of whether it is right or wrong, sinful or not. That is part of our job in being "wise as serpents" (Matthew 10:16), especially since we need to be able to determine "bad company" so as to avoid it (1 Corinthians 15:33). But at the same time, we cannot pretend to know all of the circumstances of others, much less their heart intentions. And it is for these reasons that going much further than applying a binary right or wrong evaluation of their words or behavior under the power and guidance of the Holy Spirit puts us at great risk for legalistic hypocritical judgment, the thing this passage tells us to assiduously avoid.
+It is nonsense to say that we cannot evaluate the behavior of those around us in terms of whether or not it conforms with the standards scripture lays out for us---whether or not it conforms with the words of the Bible. That is part of our job in being "wise as serpents" (Matthew 10:16), especially since we need to be able to determine "bad company" so as to avoid it (1 Corinthians 15:33). But at the same time, we cannot pretend to know all of the circumstances of others, much less their heart intentions. And it is for these reasons that going much further than simply comparing the behavior of others against the Bible---under the power and guidance of the Holy Spirit---puts us at great risk for legalistic hypocritical judgment, the thing this passage tells us to assiduously avoid.
 
 ### You have to know the truth before you can hold yourself and others to it! {#you-have-to-know-the-truth-before-you-can-hold-yourself-and-others-to-it}
 
@@ -54,11 +54,11 @@ One point that often goes overlooked and unappreciated in regards to these matte
 
 For us to do our jobs properly speaking truth into the lives of others, in other words, we actually have to know the truth first! This might seem like an overly pedestrian point to make, but it is of the utmost importance.
 
-It is not only a matter of knowing what things the Bible might prohibit, but also knowing what things it does not prohibit in a black-and-white sort of way. One might compare Prohibition in America during the early 1900s. The Bible does not outright ban alcohol, although it does condemn drunkenness. When some groups of Christians were insisting that alcohol itself was sinful and therefore needed to be banned---and more to the point in our context here, were looking down their noses at others who partook to any degree whatsoever---well, their legalism came about primarily as a result of being ignorant of the scriptures, which never make any such rule concerning alcohol.
+It is not only a matter of knowing what things the Bible might prohibit, but also knowing what things it does not prohibit in a black and white sort of way. One might compare Prohibition in America during the 1920s and thereabouts. The Bible does not outright ban alcohol, although it does condemn drunkenness. When some groups of Christians were insisting that alcohol itself was sinful and therefore needed to be banned---and more to the point in our context here, were looking down their noses at others who partook to any degree whatsoever---well, their legalism came about primarily as a result of being ignorant of the scriptures, which never make any such rule concerning alcohol.
 
 ### Psychology's idea of "projection" {#psychology-s-idea-of-projection}
 
-Psychology has a concept it calls "[projection](https://en.wikipedia.org/wiki/Psychological_projection)." The phenomenon goes something like this: person A goes on a tirade against topic X. Person B then looks very confused because they they know that person A in fact does X themselves.
+Psychology has a concept it calls "[projection](https://en.wikipedia.org/wiki/Psychological_projection)". The phenomenon goes something like this: person A goes on a tirade against topic X. Person B then looks very confused because they they know that person A in fact does X themselves.
 
 Sometimes the people who most loudly and passionately criticize something are the ones who struggle with it the most, and their overly-impassioned criticisms are more or less a psychological defense mechanism. It may seem very strange and irrational when observing such situations from the outside, yet human self-deception can be decidedly hard to spot within oneself.
 
@@ -70,7 +70,7 @@ At any rate, this is the very phenomenon that the Bible warns us against here. V
 
 Remember how Romans 1:32 speaks against the practice of approving evil?
 
-Yeah, that verse literally comes right before the ones we are talking about here (as mentioned before, there were no chapter or verse divisions in the original text). The idea then that "judge not" means that we are not supposed to ever stand our ground on right and wrong is therefore complete nonsense.
+Yeah, that verse literally comes right before the ones we are talking about here ([as mentioned before](todo), there were no chapter or verse divisions in the original text). The idea then that "judge not" means that we are not supposed to ever stand our ground on right and wrong is therefore complete nonsense.
 
 Our culture at present---in 21st-century America---is vehemently opposed to taking hard and fast moral positions, and especially calling out the behavior of others based upon them. But even as we make efforts to guard against hypocritical legalism, we must also make efforts to speak up when we need to. Not because we ourselves are without sin or qualified on our own authority to pass judgment upon other humans, but because we are servants of a God who has all the authority in the world to do so, and He calls us to stand up for the truth as good Christian soldiers.
 

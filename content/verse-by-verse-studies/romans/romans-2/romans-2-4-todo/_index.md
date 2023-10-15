@@ -1,5 +1,5 @@
 ---
-title: "Romans 2:4 - Is the point of this verse to equate passing judgment upon others with showing contempt for God's kindness, forbearance, and patience?"
+title: Romans 2:4 - Is the point of this verse to equate passing judgment upon others with showing contempt for God's kindness, forbearance, and patience?
 weight: 20
 layout: content-page
 ---
@@ -28,7 +28,7 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-TODO
+In essence, Romans 2:4 introduces another "possible explanation" for how the people in view here can be so insane as to to ignore natural revelation and natural behavior---in the manner Paul talks about in Romans 1:18ff. In verse 3, Paul asks if maybe it is because they somehow think they won't face the judgement. But in verse 4, he uses a connecting conjunction ("or") to introduce another possibility: perhaps these people persist in this folly not for the former reason, bit instead because they show contempt for God's kindness (in delaying judgement). The sense is that were they to not make light of God's kindness and patience, then they would not act in such a depraved way.
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -38,11 +38,11 @@ TODO
 
 <!-- --- -->
 
-In a word, no. Verse 4 is set more opposite the "do you think you will escape judgment?" part of verse 3, rather than the "when you pass judgement yet do the same things" part.
+Is the point of Romans 2:4 to equate passing judgment upon others with showing contempt for God's kindness, forbearance, and patience? In a word, no. Verse 4 is set more opposite the "do you think you will escape judgment?" part of verse 3, rather than the "when you pass judgement yet do the same things" part.
 
 The structure here in Romans 2:3-4 is similar to Matthew 7:3-4, in terms of how the Greek word [ἤ](https://www.blueletterbible.org/lexicon/g2228/esv/mgnt/0-1/) is used in the latter verse in either context.
 
-In both places, it is *not* a mutually-exclusive or, but rather a construction to introduce an additional question (i.e., interrogative clause) to provide more evidence in another way. Thayer's lexicon gives the following cross-references for this sort of usage of [ἤ](https://www.blueletterbible.org/lexicon/g2228/esv/mgnt/0-1/):  Matthew 7:4, 9; Matthew 12:29; Matthew 16:26; Matthew 26:53; Mark 8:37; Luke 13:4; Luke 14:31; Luke 15:8; Romans 9:21; Romans 14:10; 1 Corinthians 6:16.
+In both places, it is *not* a mutually-exclusive or, but rather a construction to introduce an additional question (i.e., interrogative clause) to provide more evidence in another way. Thayer's lexicon gives the following cross-references for this sort of usage of [ἤ](https://www.blueletterbible.org/lexicon/g2228/esv/mgnt/0-1/): Matthew 7:4, 9; Matthew 12:29; Matthew 16:26; Matthew 26:53; Mark 8:37; Luke 13:4; Luke 14:31; Luke 15:8; Romans 9:21; Romans 14:10; 1 Corinthians 6:16.
 
 In Matthew 7 we have:
 
