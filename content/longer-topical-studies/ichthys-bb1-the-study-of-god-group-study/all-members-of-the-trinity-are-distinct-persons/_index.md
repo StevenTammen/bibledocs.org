@@ -26,7 +26,7 @@ slides=""
 
 ## Summary {#summary}
 
-TODO
+This lesson's main focus is examining the point that God is *one* in essence, but that does *not* mean that the Trinity is only one person (merely displaying three modes or aspects of Himself).
 
 ## Timestamps {#timestamps}
 

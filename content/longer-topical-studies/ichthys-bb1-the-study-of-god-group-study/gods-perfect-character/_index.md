@@ -56,11 +56,11 @@ So be perfect, just as your Father in heaven is perfect.
 
 {{% /nt %}}
 
-When firmly grasped, God's perfection – perfection in every way and according to any conceivable true standard – is a clarifying concept, *illuminating His motives*. God's perfect character will never be less than the highest, the best and the purest that the human mind can comprehend.
+When firmly grasped, God's perfection---perfection in every way and according to any conceivable true standard---is a clarifying concept, *illuminating His motives*. God's perfect character will never be less than the highest, the best, and the purest that the human mind can comprehend.
 
 <!-- --- -->
 
-### Q: Why are we told to be perfect like God in Matthew 5:48 if we can never live up to that standard? {#q-why-are-we-told-to-be-perfect-like-god-in-matthew-5-48-if-we-can-never-live-up-to-that-standard}
+#### Q: Why are we told to be perfect like God in Matthew 5:48 if we can never live up to that standard? {#q-why-are-we-told-to-be-perfect-like-god-in-matthew-5-48-if-we-can-never-live-up-to-that-standard}
 
 {{% note %}}
 This is a video-only section.
@@ -92,13 +92,13 @@ Sovereignty comes from God's perfect character. No one else has a legitimate rig
 
 From the standpoint of His *transcendence* of the moral universe, He is sovereign by virtue of His goodness, holiness and truth (essential qualities independent of His creation). From the standpoint of His *supremacy* within the moral universe, He is sovereign by virtue of His love, justice, and life (qualities applying to His creation which correspond to goodness, holiness and truth).
 
-Only God is qualified to be the ultimate judge of the morally accountable creatures He has created, and thus to hold them responsible for their actions. As de facto ruler of the universe (through His perfect nature) and de jure ruler of the universe (through His perfect character):
+Only God is qualified to be the ultimate judge of the morally accountable creatures He has created, and thus to hold them responsible for their actions. As *de facto* ruler of the universe (through His infinite nature) and *de jure* ruler of the universe (through His perfect character):
 
 <!-- --- -->
 
 #### God possesses the sovereign authority to demonstrate *love* to His sinful creatures out of His own *goodness* {#god-possesses-the-sovereign-authority-to-demonstrate-love-to-his-sinful-creatures-out-of-his-own-goodness}
 
-Not ignoring their sins, as evil suggests He should, but *paying* for them Himself by the death on the cross of His Son, Jesus Christ, in their place (redemption). We call the result of this act of His sovereignty **grace** (Hebrew *chen*: חן; Greek *charis*: χάρις ).
+Not ignoring their sins, as evil suggests He should, but *paying* for them Himself by the death on the cross of His Son, Jesus Christ, in their place (redemption). We call the result of this act of His sovereignty **grace** (Hebrew *chen*: חן; Greek *charis*: χάρις).
 
 <!-- --- -->
 
@@ -122,7 +122,7 @@ Not allowing them to die in their sins, as evil suggests He will, but *reconcili
 | Holiness          | Justice                    | Forgiving sin                     | Mercy                               | Justification  |
 | Truth             | Life                       | Reconciling sinful man to Himself | Peace                               | Reconciliation |
 
-In this, God's full plan for saving sinful man, absolutely everything relies upon the cross, the blood of Jesus Christ. One particularly memorable way I have heard it described is that "God's Mercy and Justice intersect in the cross."
+In this---God's full plan for saving sinful man---absolutely everything relies upon the cross, the blood of Jesus Christ. One particularly memorable way I have heard it described is that "God's Mercy and Justice intersect in the cross."
 
 <!-- --- -->
 
@@ -140,7 +140,7 @@ Demanding justice for His creatures is a natural consequence of God's holiness. 
 
 ### God is Life {#god-is-life}
 
-Saving the lives of His creatures is a natural consequence of God's truth and faithfulness. Out of the intrinsic veracity and trustworthiness of His character, God honors His gracious and merciful promise to restore us to Himself and thereby to eternal life, delivering us from the condemnation of death accruing to us in our sinful state. In doing so, however, He has not failed to resolve the competing demands of His goodness and love on the one hand, with those of His holiness and justice on the other (as evil suggests He must). For God has found a way in accordance with His character to *eliminate the wall of sin and consequent wrath which separates us from Him*, and has done so through the gift and sacrifice of His only Son on our behalf (He died that we might have life). *Peace* is the biblical name for God's life-giving policy of reconciling us to Himself on the basis of the work of Jesus Christ. We accept and receive God's offer of life, peace and reconciliation by accepting and receiving the Lord Jesus Christ as our Savior.
+Saving the lives of His creatures is a natural consequence of God's truth and faithfulness. Out of the intrinsic veracity and trustworthiness of His character, God honors His gracious and merciful promise to restore us to Himself and thereby to eternal life, delivering us from the condemnation of death accruing to us in our sinful state. In doing so, however, He has not failed to resolve the competing demands of His goodness and love on the one hand, with those of His holiness and justice on the other (as evil suggests He must). For God has found a way in accordance with His character to *eliminate the wall of sin and consequent wrath which separates us from Him*, and has done so through the gift and sacrifice of His only Son on our behalf (He died that we might have life). *Peace* is the biblical name for God's life-giving policy of reconciling us to Himself on the basis of the work of Jesus Christ. We accept and receive God's offer of life, peace, and reconciliation by accepting and receiving the Lord Jesus Christ as our Savior.
 
 {{% /content %}}
 

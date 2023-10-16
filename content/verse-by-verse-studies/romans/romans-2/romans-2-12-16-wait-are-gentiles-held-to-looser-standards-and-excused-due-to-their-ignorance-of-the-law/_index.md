@@ -26,7 +26,9 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-TODO
+Romans 2:12-16, far from saying that the Gentiles who die without ever having the words of the Law will somehow be excused on account of ignorance, is instead more making the point that even if people hear the words of the Law, they will not be saved merely on account of hearing it, but must actually obey it in the true sense. And so it is that Jews who trusted only in the Law for their salvation will find themselves condemned on Judgement Day just like those Gentiles who never even heard the Law to begin with---for no man can be justified by the works of the Law (Romans 3:20)---while Gentiles who ended up submitting to the Law in practice (by following their consciences), despite not having the blessing of its actual words, will at that time nonetheless be declared righteous.
+
+This is because there is no salvation to be had by Law-keeping; we cannot work our way into heaven. "Obeying the Law", then, is not mere physical observance of this rule or that regulation, but believing in the Law's true message: that we are hopeless sinners incapable of making it on our own, in great need of God's mercy to provide a substitute for us.
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -38,7 +40,7 @@ TODO
 
 ### The general question {#the-general-question}
 
-Verse 12 in particular is not the simplest to explain. Compare these two interpretations:
+Does Romans 2:12-26 say that Gentiles held to looser standards and excused due to their ignorance of the Law? Verse 12 in particular is not the simplest to explain. Compare these two interpretations:
 
 > "Perishing apart from the Law" means the Gentiles were not held responsible for following the Law.
 
@@ -108,7 +110,7 @@ I am focusing on this technical gee-whiz information about Paul's writing style 
 
 The KJV and NKJV take the digression as verses 13-15. This is what I personally agree with. Some other translations (e.g., NIV11) do not include verse 13 in what they set apart with parentheses, but just verses 14-15. Other translations yet (e.g., NASB95, NLT, ESV) don't even use parentheses it all, which I personally find suboptimal because it makes it a lot harder to "get" that there is a digression here. Since I believe that failing to set it apart in any way makes proper interpretation more difficult, I like this translation decision the least by far.
  
-Verses 12, 13, and 14 all begin with *gar* ([γὰρ](https://www.blueletterbible.org/lexicon/g1063/esv/mgnt/0-1/), a Greek particle that we typically translate as "for". It is used a lot in Greek to introduce more information, in order to explain what was just said.
+Verses 12, 13, and 14 all begin with *gar* ([γὰρ](https://www.blueletterbible.org/lexicon/g1063/esv/mgnt/0-1/)), a Greek particle that we typically translate as "for". It is used a lot in Greek to introduce more information, in order to explain what was just said.
 
 Verse 12 is explaining exactly how God is impartial (verse 11), which is straightforward enough. By way of contrast, the topic transition to verse 13 is difficult to understand without properly understanding verse 12 (which I explain more fully below)---basically, Paul is weighing in against the school of thought that elevated the Jews just/only because they had the Law, and he is using that to support what he said in verse 12 (that the Law will judge those under it---which is everybody, positionally... but the critical point is that the Jews are included too). And then verse 14 gives more information about Gentiles following the Law by nature, helping explain and clarify what Paul meant by "doers of the Law" in verse 13. Those are more or less the "sense of the γὰρ's".
 
@@ -121,13 +123,13 @@ In any case, it honestly doesn't change the meaning all that much one way or the
 
 If one remembers that the epistles were circulated throughout the Mediterranean among the churches, *and read through as letters in a way that we often fail to do in the present*, then the words Paul spoke about natural revelation in Romans 1:18ff. were perhaps only a minute past in the minds of those listening to the letter being read. (Most people in antiquity were illiterate, so the letters would be read out loud to the group by a single individual who could read). Those past verses already make it *very* clear that no humans can ever use ignorance as an excuse, and nobody reading the letter through like this would forget that those past verses were there just before this present passage.
 
-That notwithstanding, if Paul *were* to be making such a point about ignorance being an excuse in verse 12, then we would expect the direction he took in verses 13-15 to focus on matters relating to such. In actuality, Paul does talk about Gentiles, but rather than arguing that Gentiles under the grip of sin are in some way excused from it due to ignorance, he discusses those Gentiles that end up doing the things required by the Law simply by following their consciences. Put simply, the points that Paul makes here (namely, that it is obeying not hearing that matters in God's eyes, that the human conscience leads all humans to follow the Law implicitly if they listen to it) *do not* at all support taking verse 12 as saying that ignorance is some sort of excuse. Quite the opposite, actually.
+That notwithstanding, if Paul *were* to be making such a point about ignorance being an excuse in verse 12, then we would expect the direction he took in verses 13-15 to focus on matters relating to such. In actuality, Paul does talk about Gentiles, but rather than arguing that Gentiles under the grip of sin are in some way excused from it due to ignorance, he discusses those Gentiles that end up doing the things required by the Law simply by following their consciences. Put simply, the points that Paul makes here (namely, that it is obeying not hearing that matters in God's eyes, that the human conscience actually leads all humans to follow the Law implicitly if they listen to it) *do not* at all support taking verse 12 as saying that ignorance is some sort of excuse. Quite the opposite, actually.
 
 ### OK, so what *is* verse 12 getting at then? {#ok-so-what-is-verse-12-getting-at-then}
 
 The verse is getting at something like this (this is a very interpretive/loose paraphrase on my part):
 
-{{% scripture p="Romans 2:12" %}}
+{{% scripture p="Romans 2:12 | loose paraphrase" %}}
 All the Gentiles who live in sin and don't obey the Law will obviously perish (i.e., face the second death), since they don't have the Law helping them see right from wrong. (Duh---you arrogant "Law keepers" already agree with this, that these people are hopeless). But hear this too: all those who know the Law yet have sinned under the Law in even the smallest way will be justly condemned by it. So have you people ever sinned under the Law, you who think you are so great because you know the Law?
 {{% /scripture %}}
 
@@ -135,7 +137,7 @@ I should be clear again that this is a *very* interpretive/loose paraphrase. I a
 
 It is ironic (in a darkly amusing sort of way) that so many people stumble in thinking that this verse is a fig leaf for Gentiles. In reality, the unbelieving Gentiles mentioned in this verse are essentially presupposed as being doomed: they stand condemned, under the grip of sin, and entirely apart from the Law that would help instruct them. Rather, Paul is largely targeting this verse---as well as all those that follow, as we shall see---towards his Jewish listeners who consider themselves superior simply on account of having the Law, as if merely possessing it (rather than following it) were the important part.
 
-The gist of the verse is that the Jews with the Law who try to work their way into heaven through Law-keeping are actually hopeless too (just like those Gentiles without the Law they are so quick to look down on), since no human can actually keep the Law properly. *They too will die under sin, judged and condemned by the words of their precious Law*.
+The gist of the verse is that the Jews with the Law who try to work their way into heaven through Law-keeping are actually hopeless too (just like those Gentiles without the Law they are so quick to look down upon), since no human can actually keep the Law properly. *They too will die under sin, judged and condemned by the words of their precious Law*.
 
 {{% sidenote %}}
 
@@ -164,27 +166,27 @@ A: "With and without the Law" means the end result of death without belief is co
 
 Putting it all together now, these verses fit together in this way:
 
-- In verse 12, Paul informs his listeners that they are just as hopeless as the sinful Gentiles who don't have the Law if they trust in the Law for salvation, for they too will be judged by this precious Law of theirs, and justly condemned by it.
+- In verse 12, Paul informs his listeners that they are just as hopeless as the sinful Gentiles who don't have the Law if they try to trust in the Law for salvation, for in that case, they too will be judged by this Law of theirs---the Law that they say is so dear to them---and justly condemned by it. Compare Romans 3:20. It is *impossible* for the works of the Law to justify us before God.
 
 He then digresses a bit:
 
-- In verse 13, Paul explains that this is because God does not care about who hears the words of the Law, but who actually acts righteously and does what it says.
-- In verse 14, Paul likely blows their minds by informing them that Gentiles can "keep the Law" too, by acting in accordance with their consciences, thus becoming a law to themselves. This implicitly means that the Gentiles (negatively) mentioned in verse 12 are *not* all Gentiles, but only those who do not obey the Law. (Inasmuch as by "obey the Law" we mean in the real sense, rather than seeking salvation by means of legalistic Law-keeping).
+- In verse 13, Paul explains that this is because God does not care about who hears the words of the Law, but instead cares about who actually acts righteously and does what it says.
+- In verse 14, Paul likely blows their minds by informing them that Gentiles can "keep the Law" too, by acting in accordance with their consciences, thus becoming a law unto themselves. This implicitly means that the Gentiles that are mentioned negatively in verse 12 are *not* all Gentiles, but only those who do not obey the Law. (Inasmuch as by "obey the Law" we mean in the real sense, rather than seeking salvation by means of legalistic Law-keeping).
 - In verse 15, Paul explains the mechanics of this a bit more, outlining how the words of the Law written upon the human heart, alongside the human conscience, accuse or excuse us as we go through life, making it possible to determine right from wrong, if only we care to listen.
 
 And then finally he returns to the main point:
 
-- In verse 16, Paul says that the perishing of the unbelieving Gentiles apart from the Law and the judgement under the Law of those Jews who trusted only in the Law for salvation (i.e., both the things that were mentioned in verse 12) will take place on That Great Day of Judgement. It is also then that, by way of contrast to these two groups, those who are doers of the Law will be declared righteous (verse 13)---be they believing Jews who saw the real message behind the Law (rather than trying work their way into heaven ), or Gentiles who followed their consciences (in the way that verses 14-15 describe).
+- In verse 16, Paul says that the perishing of the unbelieving Gentiles apart from the Law and the judgement under the Law of those Jews who trusted only in the Law for salvation (i.e., both the things that were mentioned in verse 12) will take place on the Great Day of Judgement. It is also then that, by way of contrast to these two groups, those who are doers of the Law will be declared righteous (verse 13)---be they believing Jews who saw the real message behind the Law (rather than trying work their way into heaven), or Gentiles who followed their consciences (in the way that verses 14-15 describe).
 
-As a closing thought, I've always found the way other translations and interpretations deal with the prepositional phrase in verse 16 more than a bit confusing. A lot of translators and interpreters follow what would be "normal grammar" and try to force it to go with the accusing/excusing of the human heart and conscience in verse 15. I submit that trying to force that leads to all sorts of nonsense. Because rather than hearts or consciences accusing or excusing people on the Day of Judgement (what would that even mean, exactly?), on That Great Day of Days:
+As a closing thought, I've always found the way other translations and interpretations deal with the prepositional phrase in verse 16 more than a bit confusing. A lot of translators and interpreters follow what would be "normal grammar" and try to force it to go with the accusing/excusing of the human heart and conscience in verse 15. I submit that trying to force that leads to all sorts of nonsense. Because rather than hearts or consciences accusing or excusing people on the Day of Judgement (what would that even mean, exactly?), on that Great Day of Days:
 
--  People who lived lives of sinful unbelief without hearing or knowing of the Law will face the second death (the unbelieving Gentiles of verse 12)
-- People who did hear and know of the Law but tried to work their way into heaven through Law-keeping will be judged---and justly condemned---by the Law (the unbelieving Jews of verse 12; these people are not facing the second death without ever hearing or knowing of the Law like the first group---quite to the contrary, the very reason why these people too will be facing condemnation and the second death is because despite having the mirror of the Law to show them their own need for a savior, they did not care to truly comprehend it or understand it, instead trying to claim a hollow righteousness of their own works)
-- People who obeyed the Law---whether because they actually had and understood the words of it, or instead obeyed their consciences---will be declared righteous (Jew and Gentile alike; those mentioned in verse 13).
+-  People who lived lives of sinful unbelief without hearing or knowing of the Law will face the second death (the unbelieving Gentiles of verse 12).
+- People who did hear and know of the Law but tried to work their way into heaven through Law-keeping will be judged---and justly condemned---by the Law (the unbelieving Jews of verse 12; these people are not facing the second death without ever hearing or knowing of the Law like the first group---quite to the contrary, the very reason why these people too will be facing condemnation and the second death is because despite having the mirror of the Law to show them their own need for a savior, they did not care to truly comprehend it or understand it, instead trying to claim a hollow righteousness of their own works).
+- People who obeyed the Law---whether because they actually had it and truly comprehended what it represented, or instead did not have it but merely obeyed their consciences---will be declared righteous (Jew and Gentile alike; those mentioned in verse 13).
 
 In short, the prepositional phrase of verse 16 has nothing to do with verse 15, the verse that immediately precedes it.
 
-And this is again why I focused so much on explaining the digression present in this passage. The grammar is a bit weird when you take things this way (i.e., why is there this random prepositional phrase chilling 4 verses after the things it goes with?), but that doesn't make it the wrong interpretation. It need not dent our faith in inspiration to have some hard passages to parse out grammatically. And I should note that to native Greek speakers, what Paul did would have been completely intelligible, if perhaps still a bit hard to follow. As Dr. Luginbill put it, it is simply a distinguishing quirk of Paul's Greek writing style.
+And this is again why I focused so much on explaining the digression present in this passage. The grammar is a bit weird when you take things this way (i.e., why is there this random prepositional phrase chilling 4 verses after the things it goes with?), but that doesn't make it the wrong interpretation. It need not dent our faith in inspiration to have some passages that are hard to parse out grammatically. And I should note that to native Greek speakers, what Paul did would have been completely intelligible, if perhaps still a bit hard to follow. As Dr. Luginbill put it, this sort of digression is simply a distinguishing quirk of Paul's Greek writing style.
 
 {{% /content %}}
 

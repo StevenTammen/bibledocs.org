@@ -70,7 +70,7 @@ At any rate, this is the very phenomenon that the Bible warns us against here. V
 
 Remember how Romans 1:32 speaks against the practice of approving evil?
 
-Yeah, that verse literally comes right before the ones we are talking about here ([as mentioned before](todo), there were no chapter or verse divisions in the original text). The idea then that "judge not" means that we are not supposed to ever stand our ground on right and wrong is therefore complete nonsense.
+Yeah, that verse literally comes right before the ones we are talking about here ([as mentioned before](/verse-by-verse-studies/romans/romans-2/romans-2-1-what-is-the-sense-of-the-therefore-in-this-verse/), there were no chapter or verse divisions in the original text). The idea then that "judge not" means that we are not supposed to ever stand our ground on right and wrong is therefore complete nonsense.
 
 Our culture at present---in 21st-century America---is vehemently opposed to taking hard and fast moral positions, and especially calling out the behavior of others based upon them. But even as we make efforts to guard against hypocritical legalism, we must also make efforts to speak up when we need to. Not because we ourselves are without sin or qualified on our own authority to pass judgment upon other humans, but because we are servants of a God who has all the authority in the world to do so, and He calls us to stand up for the truth as good Christian soldiers.
 

@@ -4,7 +4,7 @@ weight:
 contentlevel: intermediate
 layout: book
 summary: >-
-   Study of Romans
+   This series is a verse-by-verse study of Romans based upon an in-person Bible study from the college/career group at Second Baptist in 2023. The contents of this study are more my thoughts on the discussion questions raised as part of this Bible study than an accurate reflection of what we went over as a group.
 ---
 
 ## About this study {#about-this-study}

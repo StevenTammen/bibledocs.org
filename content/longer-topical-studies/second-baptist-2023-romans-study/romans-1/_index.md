@@ -27,7 +27,7 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-TODO
+Notes on Romans 1.
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -87,7 +87,7 @@ See [here](/verse-by-verse-studies/romans/romans-1/romans-1-24-what-ought-we-mak
 
 ### Why choose the lie of the world over the truth of God (verse 25)? {#why-choose-the-lie-of-the-world-over-the-truth-of-god-verse-25}
 
-See [here](/verse-by-verse-studies/romans/romans-1/romans-1-25-why-would-people-choose-the-lie-of-the-world-over-the-truth-of-god/).
+See [here](/verse-by-verse-studies/romans/romans-1/romans-1-25-why-would-people-choose-the-lies-of-the-world-over-the-truth-of-god/).
 
 ## Verses 26-32 {#verses-26-32}
 
@@ -99,27 +99,27 @@ See [here](/verse-by-verse-studies/romans/romans-1/romans-1-26-does-god-give-up-
 
 See [here](/verse-by-verse-studies/romans/romans-1/romans-1-26-what-is-a-dishonorable-passion-or-shameful-lust-in-this-context/).
 
-### Love is love, right (verse 27)? {#love-is-love-right-verse-27}
+### Love is love, right (verses 26-27)? {#love-is-love-right-verses-26-27}
 
-See [here](/verse-by-verse-studies/romans/romans-1/romans-1-27-love-is-love-right-you-cant-be-against-love/).
+See [here](/verse-by-verse-studies/romans/romans-1/romans-1-26-27-love-is-love-right-you-cant-be-against-love/).
+
+### Are people born gay (verses 26-27)? {#are-people-born-gay-verses-26-27}
+
+See [here](/verse-by-verse-studies/romans/romans-1/romans-1-26-27-are-people-born-gay/).
 
 ### What is the penalty (verse 27)? {#what-is-the-penalty-verse-27}
 
-See [here](/verse-by-verse-studies/romans/romans-1/romans-1-27-what-is-the-due-penalty-within-themselves/).
+See [here](/verse-by-verse-studies/romans/romans-1/romans-1-27-what-exactly-does-receiving-in-themselves-the-due-penalty-for-their-error-mean/).
 
-### Are people born gay (verse 28)? {#are-people-born-gay-verse-28}
+### What is considered natural (verse 27)? {#what-is-considered-natural-verse-27}
 
-See [here](/verse-by-verse-studies/romans/romans-1/romans-1-28-are-people-born-gay/).
+See [here](/verse-by-verse-studies/romans/romans-1/romans-1-27-what-is-considered-natural/).
 
 ### What is the result of our passions (verse 28)? {#what-is-the-result-of-our-passions-verse-28}
 
 See [here](/verse-by-verse-studies/romans/romans-1/romans-1-28-what-is-the-result-of-our-passions/).
 
-### What is considered natural (verse 28)? {#what-is-considered-natural-verse-28}
-
-See [here](/verse-by-verse-studies/romans/romans-1/romans-1-28-what-is-considered-natural/).
-
-### What is not proper in God's eyes (verses 29-30)? {#what-is-not-proper-in-god-s-eyes-verses-29-30}
+### What is not proper in God's eyes (verses 29-31)? {#what-is-not-proper-in-god-s-eyes-verses-29-31}
 
 See [here](/verse-by-verse-studies/romans/romans-1/romans-1-29-31-what-is-not-proper-in-gods-eyes/).
 

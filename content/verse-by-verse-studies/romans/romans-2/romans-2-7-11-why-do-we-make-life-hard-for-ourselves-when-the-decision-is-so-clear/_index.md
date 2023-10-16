@@ -26,7 +26,7 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-If we are honest with ourselves, the paths before us are actually rather clear: on the one side, blessing and eternal life; on the other, cursing and wrath. Given this, we should just stop choosing the bad! God really does give us free will, which means we do have the ability to choose between these two paths. So rather than deluding ourselves with a pile of excuses, we should buckle down and start doing what God wants us to do---not on our own strength (for there is no success in that approach), but instead by admitting that we cannot do it on our own, and leaning into God for help.
+If we are honest with ourselves, the paths before us are actually rather clear: on the one side, blessing and eternal life; on the other, cursing and wrath. Given this, we should just stop choosing the bad! God really does give us free will, which means we really do have the ability to choose between these two paths. So rather than deluding ourselves with a pile of excuses, we should buckle down and start doing what God wants us to do---not on our own strength (for there is no success in that approach), but instead by admitting that we cannot do it on our own, and leaning into God for help.
 
 <!-- ## Timestamps {#timestamps} -->
 

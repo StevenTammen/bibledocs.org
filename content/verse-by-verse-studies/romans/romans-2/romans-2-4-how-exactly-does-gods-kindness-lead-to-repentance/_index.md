@@ -44,7 +44,7 @@ But what about not punishing someone when they deserve it? Mercy is kindness too
 
 So Romans 2:4 is an example of the longsuffering of the Lord. These individuals Paul has been discussing are despising God's mercy and forbearance by continuing on in their evil ways. Eventually, the time for mercy for them will expire. (Cf. the whole chapter of 2 Peter 2, and perhaps especially 2 Peter 2:3b---"their judgment from long ago is not idle, and their destruction is not asleep"). That God does not blot them from the face of the Earth immediately is a kindness. It is a kindness that God does not do this to us *all* as sinners (for we are all sinners, every last one of us; cf. Romans 3:23)---but that He does not do so even in cases like the people of Romans 1:18ff. is a true testament to His patience with humanity. By not immediately destroying the sinful/evil, God gives them space for repentance... and some *do* repent (which they would not be able to do if He had not in mercy spared them for some long time).
 
-We might compare the people of Nineveh in the Old Testament book of Jonah. That is the sense of God's kindness we ought to have in mind here.
+We might compare the people of Nineveh in the Old Testament book of Jonah. That is the "kindness of God" we ought to have in mind here.
 
 {{% /content %}}
 

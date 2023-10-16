@@ -4,7 +4,7 @@ weight:
 contentlevel: intermediate
 layout: aggregation-page
 summary: >-
-   A video series going through Bible Basics Part 1 (BB1) on Ichthys, a study of theology proper -- of who God is, and what He is like.
+   This video series is a discussion-based group Bible study going through Bible Basics Part 1 (BB1) on Ichthys, a study of theology proper—of who God is, and what He is like.
 ---
 
 <!-- aggregate-page-content -->
@@ -219,13 +219,13 @@ From the standpoint of His *transcendence* of the physical universe, He is uniqu
 | Being eternal (rather than bound by time)       | Omniscience (God knows everything in creation from beginning to end, and even what could have been)                   |
 | Being immeasurable (rather than bound by space) | Omnipresence (God is ever-present in creation: as far as the East is from the West, nothing can separate us from God) |
 
-While we may not be properly able to fully grasp God's true nature since we are small, finite beings bound by spacetime, it should nonetheless be clearly apparent that it is not possible for any created creature to compare with the Creator. Even creatures far more powerful than ourselves -- Satan and the other angels -- are bound and limited in ways God is not, leaving God completely alone and unique in His transcendence of and supremacy within the physical universe.
+While we may not be properly able to fully grasp God's true nature since we are small, finite beings bound by spacetime, it should nonetheless be clearly apparent that it is not possible for any created creature to compare with the Creator. Even creatures far more powerful than ourselves---Satan and the other angels---are bound and limited in ways God is not, leaving God completely alone and unique in His transcendence of and supremacy within the physical universe.
 
 <!-- --- -->
 
 #### God is Omnipotent {#god-s-infinite-nature-god-is-omnipotent}
 
-God is all-powerful, irrespective of matter. He can effect anything He desires in the material realm, and nothing can transpire apart from His will. Therefore there is no deed, nor was there ever, nor will there ever be which God is unable to do, small or great.
+God is all-powerful, irrespective of matter. He can effect anything He desires in the material realm, and nothing can transpire apart from His will. Therefore there is no deed (nor was there ever, nor will there ever be) which God is unable to do, small or great.
 
 <!-- --- -->
 
@@ -247,13 +247,13 @@ My counsel would be to avoid all such nonsense. God can do "it", whatever "it" m
 
 #### God is Omniscient {#god-s-infinite-nature-god-is-omniscient}
 
-God is all-knowing, irrespective of time. He can effect anything He desires in the temporal realm. Therefore God knows, always has known and always will know everything, the end from the beginning. As the Everlasting One (Ps.90:2; 90:4), His knowledge of every event that ever has or will or even could occur within His creation is comprehensive and absolute.
+God is all-knowing, irrespective of time. He can effect anything He desires in the temporal realm. Therefore God knows (has always known, and always will know) everything, the end from the beginning. As the Everlasting One (Ps.90:2; 90:4), His knowledge of every event that ever has or will or even could occur within His creation is comprehensive and absolute.
 
 <!-- --- -->
 
 The "could occur" bit is important. God's knowledge of all possible hypotheticals is sometimes discussed in terms of so-called ["Molinism"](https://en.wikipedia.org/wiki/Molinism) and "middle knowledge". I prefer to discuss it independent from all the baggage there, however.
 
-Here's an example: if the Bible says that God will never test us past what we can bear (1 Corinthians 10:13), then that implies He knows what we would and would not be able to bear. He wouldn't be able to perfectly test us to refine our faith unless He knew all information like this.
+Here's an example: since the Bible says that God will never test us past what we can bear (1 Corinthians 10:13), then that implies He knows what we would and would not be able to bear. He wouldn't be able to perfectly test us to refine our faith unless He knew all information like this.
 
 Same deal with perfectly disciplining us, and plenty of other matters besides. Put simply, God's perfect foreordination of all things logically requires that He know everything about all potential paths in the mind-bogglingly complex decision tree that spans the history of the entire universe. It has always puzzled me why people would ever think to argue against such a notion, but alas, some people do for some reason. Perhaps it is because such a belief requires one to appreciate how truly "big" and unlike us (with our very finite perspective) God really is?
 
@@ -265,7 +265,7 @@ For now, you should mostly ignore the fact that some people have again put God i
 
 #### God is Omnipresent {#god-s-infinite-nature-god-is-omnipresent}
 
-God is ever-present, irrespective of space. He can effect anything He desires in the spatial realm (Job 26:7). Therefore God has the ability, has always had and always will have, to be anywhere and everywhere, local and universal.
+God is ever-present, irrespective of space. He can effect anything He desires in the spatial realm (Job 26:7). Therefore God has the ability (has always had, and always will have) to be anywhere and everywhere, local and universal.
 
 Of particular note is that this means God sees all. Nobody can sneak anything past God, and on that Great Day of Days, all will be revealed. It also means it is completely futile to try to run away from God. Like Jonah, we will find that no matter where we go, God and His purposes for us will always be there too.
 
@@ -343,11 +343,11 @@ So be perfect, just as your Father in heaven is perfect.
 
 {{% /nt %}}
 
-When firmly grasped, God's perfection – perfection in every way and according to any conceivable true standard – is a clarifying concept, *illuminating His motives*. God's perfect character will never be less than the highest, the best and the purest that the human mind can comprehend.
+When firmly grasped, God's perfection---perfection in every way and according to any conceivable true standard---is a clarifying concept, *illuminating His motives*. God's perfect character will never be less than the highest, the best, and the purest that the human mind can comprehend.
 
 <!-- --- -->
 
-#### Q: Why are we told to be perfect like God in Matthew 5:48 if we can never live up to that standard? {#god-s-perfect-character-q-why-are-we-told-to-be-perfect-like-god-in-matthew-5-48-if-we-can-never-live-up-to-that-standard}
+##### Q: Why are we told to be perfect like God in Matthew 5:48 if we can never live up to that standard? {#god-s-perfect-character-q-why-are-we-told-to-be-perfect-like-god-in-matthew-5-48-if-we-can-never-live-up-to-that-standard}
 
 {{% note %}}
 This is a video-only section.
@@ -379,13 +379,13 @@ Sovereignty comes from God's perfect character. No one else has a legitimate rig
 
 From the standpoint of His *transcendence* of the moral universe, He is sovereign by virtue of His goodness, holiness and truth (essential qualities independent of His creation). From the standpoint of His *supremacy* within the moral universe, He is sovereign by virtue of His love, justice, and life (qualities applying to His creation which correspond to goodness, holiness and truth).
 
-Only God is qualified to be the ultimate judge of the morally accountable creatures He has created, and thus to hold them responsible for their actions. As de facto ruler of the universe (through His perfect nature) and de jure ruler of the universe (through His perfect character):
+Only God is qualified to be the ultimate judge of the morally accountable creatures He has created, and thus to hold them responsible for their actions. As *de facto* ruler of the universe (through His infinite nature) and *de jure* ruler of the universe (through His perfect character):
 
 <!-- --- -->
 
 ##### God possesses the sovereign authority to demonstrate *love* to His sinful creatures out of His own *goodness* {#god-s-perfect-character-god-possesses-the-sovereign-authority-to-demonstrate-love-to-his-sinful-creatures-out-of-his-own-goodness}
 
-Not ignoring their sins, as evil suggests He should, but *paying* for them Himself by the death on the cross of His Son, Jesus Christ, in their place (redemption). We call the result of this act of His sovereignty **grace** (Hebrew *chen*: חן; Greek *charis*: χάρις ).
+Not ignoring their sins, as evil suggests He should, but *paying* for them Himself by the death on the cross of His Son, Jesus Christ, in their place (redemption). We call the result of this act of His sovereignty **grace** (Hebrew *chen*: חן; Greek *charis*: χάρις).
 
 <!-- --- -->
 
@@ -409,7 +409,7 @@ Not allowing them to die in their sins, as evil suggests He will, but *reconcili
 | Holiness          | Justice                    | Forgiving sin                     | Mercy                               | Justification  |
 | Truth             | Life                       | Reconciling sinful man to Himself | Peace                               | Reconciliation |
 
-In this, God's full plan for saving sinful man, absolutely everything relies upon the cross, the blood of Jesus Christ. One particularly memorable way I have heard it described is that "God's Mercy and Justice intersect in the cross."
+In this---God's full plan for saving sinful man---absolutely everything relies upon the cross, the blood of Jesus Christ. One particularly memorable way I have heard it described is that "God's Mercy and Justice intersect in the cross."
 
 <!-- --- -->
 
@@ -427,7 +427,7 @@ Demanding justice for His creatures is a natural consequence of God's holiness. 
 
 #### God is Life {#god-s-perfect-character-god-is-life}
 
-Saving the lives of His creatures is a natural consequence of God's truth and faithfulness. Out of the intrinsic veracity and trustworthiness of His character, God honors His gracious and merciful promise to restore us to Himself and thereby to eternal life, delivering us from the condemnation of death accruing to us in our sinful state. In doing so, however, He has not failed to resolve the competing demands of His goodness and love on the one hand, with those of His holiness and justice on the other (as evil suggests He must). For God has found a way in accordance with His character to *eliminate the wall of sin and consequent wrath which separates us from Him*, and has done so through the gift and sacrifice of His only Son on our behalf (He died that we might have life). *Peace* is the biblical name for God's life-giving policy of reconciling us to Himself on the basis of the work of Jesus Christ. We accept and receive God's offer of life, peace and reconciliation by accepting and receiving the Lord Jesus Christ as our Savior.
+Saving the lives of His creatures is a natural consequence of God's truth and faithfulness. Out of the intrinsic veracity and trustworthiness of His character, God honors His gracious and merciful promise to restore us to Himself and thereby to eternal life, delivering us from the condemnation of death accruing to us in our sinful state. In doing so, however, He has not failed to resolve the competing demands of His goodness and love on the one hand, with those of His holiness and justice on the other (as evil suggests He must). For God has found a way in accordance with His character to *eliminate the wall of sin and consequent wrath which separates us from Him*, and has done so through the gift and sacrifice of His only Son on our behalf (He died that we might have life). *Peace* is the biblical name for God's life-giving policy of reconciling us to Himself on the basis of the work of Jesus Christ. We accept and receive God's offer of life, peace, and reconciliation by accepting and receiving the Lord Jesus Christ as our Savior.
 
 {{% /toggleable-content %}}
 
@@ -615,9 +615,9 @@ The explanation that makes the most sense is simply that John, inspired by the H
 
 <!-- --- -->
 
-The Apostolic Fathers, the generation that followed the men who actually penned the New Testament, also felt that merely quoting scriptures was an entirely adequate way of discussing the relationship between Father, Son and Holy Spirit.
+The Apostolic Fathers, the generation that followed the men who actually penned the New Testament, also felt that merely quoting scriptures was an entirely adequate way of discussing the relationship between Father, Son, and Holy Spirit.
 
-Not until the late second and early third centuries did the term "Trinity" itself come into general use as a way of defending (against a variety of heresies which sought to deny various aspects of the unique triune nature of God) what earlier generations of Christians had taken completely for granted based upon their common-sense approach to reading the Bible: that God the Father, the Lord Jesus Christ, and the Holy Spirit are all God, and that at the same time they are – in what we may call a "personal" way – also distinct from each other.
+Not until the late second and early third centuries did the term "Trinity" itself come into general use as a way of defending (against a variety of heresies which sought to deny various aspects of the unique triune nature of God) what earlier generations of Christians had taken completely for granted based upon their common-sense approach to reading the Bible: that God the Father, the Lord Jesus Christ, and the Holy Spirit are all God, and that at the same time they are---in what we may call a "personal" way---also distinct from each other.
 
 God is one. God is also three. And there is no contradiction between these statements.
 
@@ -673,7 +673,7 @@ slides=""
 
 ### Summary {#all-members-of-the-trinity-are-deity-summary}
 
-TODO
+In this lesson we kick off a series of discussions we will be having about what the Trinity is *not*, to help throw into starker relief what it actually is. This lesson's main focus is examining the point that God is *one* in essence, but that does *not* mean that only one person of the Trinity is deity.
 
 ### Timestamps {#all-members-of-the-trinity-are-deity-timestamps}
 
@@ -697,7 +697,7 @@ We can better understand what the Trinity is by first considering what it is *no
 
 #### Key point: God is *one* in essence, but that does *not* mean that only one person of the Trinity is deity {#all-members-of-the-trinity-are-deity-key-point-god-is-one-in-essence-but-that-does-not-mean-that-only-one-person-of-the-trinity-is-deity}
 
-God is *three* in person, and all three persons of the Trinity (the Father, the Son and the Holy Spirit) are divine. Heresies of the past which have challenged the divinity of members of the Trinity include adoptionism (asserting that Christ is the Son of God only in the sense of adoption), the Ebionite heresy (teaching that Christ had only a human nature empowered by God's Spirit), and Unitarianism (which asserts the uni-personality of God, denying the deity of Christ and the Holy Spirit).
+God is *three* in person, and all three persons of the Trinity (the Father, the Son, and the Holy Spirit) are divine. Heresies of the past which have challenged the divinity of members of the Trinity include adoptionism (asserting that Christ is the Son of God only in the sense of adoption), the Ebionite heresy (teaching that Christ had only a human nature empowered by God's Spirit), and Unitarianism (which asserts the uni-personality of God, denying the deity of Christ and the Holy Spirit).
 
 But the Bible teaches that all three members of the Trinity are deity. Compare: Is.63:9-14; Matt. 3:16-17; 28:19; Jn.14:16-17; 1Cor.12:4-6; 2Cor.13:14; Eph.4:4-6; 1Pet.1:1-2; Rev.1:4-6.
 
@@ -775,7 +775,7 @@ slides=""
 
 ### Summary {#all-members-of-the-trinity-are-distinct-persons-summary}
 
-TODO
+This lesson's main focus is examining the point that God is *one* in essence, but that does *not* mean that the Trinity is only one person (merely displaying three modes or aspects of Himself).
 
 ### Timestamps {#all-members-of-the-trinity-are-distinct-persons-timestamps}
 
@@ -865,7 +865,7 @@ slides=""
 
 ### Summary {#all-members-of-the-trinity-are-coequal-coeternal-and-consubstantial-summary}
 
-TODO
+This lesson's main focus is examining the point that God is *three* in person, but that does *not* mean that there is any inferiority or disparity of status, activity, or substance between the members of the Trinity.
 
 ### Timestamps {#all-members-of-the-trinity-are-coequal-coeternal-and-consubstantial-timestamps}
 
@@ -881,15 +881,15 @@ TODO
 
 #### Key point: God is *three* in person, but that does *not* mean that there is any inferiority or disparity of status, activity, or substance between the members of the Trinity {#all-members-of-the-trinity-are-coequal-coeternal-and-consubstantial-key-point-god-is-three-in-person-but-that-does-not-mean-that-there-is-any-inferiority-or-disparity-of-status-activity-or-substance-between-the-members-of-the-trinity}
 
-In any human associations, there is always inferiority or disparity of status, activity, or substance -- always. People are separate beings, and these are the simple consequences of that. However, this is not the case for God -- the Trinity shares completely perfect unity and equality.
+In any human association, there is always inherent inferiority and disparity present---in practice, if not perhaps on paper. People are separate beings, and these are the simple consequences of that. However, this is not the case for God; the Trinity shares completely perfect unity and equality.
 
-God is *one* in essence and all three members of the Trinity (the Father and the Son and the Holy Spirit) are coequal, coeternal and con-substantial partners in one and the same essence. Heresies of the past which have challenged the coequality of members of the Trinity include subordinationism (which alternatively asserts that either Christ or the Spirit is by nature inferior to the Father) and Arianism (which teaches a Christ not entirely equal in divinity to the Father). But the Bible teaches that all three members of the Trinity are coequal partakers of the same essence.
+God is *one* in essence and all three members of the Trinity (the Father and the Son and the Holy Spirit) are coequal, coeternal, and con-substantial partners in one and the same essence. Heresies of the past which have challenged the coequality of members of the Trinity include subordinationism (which alternatively asserts that either Christ or the Spirit is by nature inferior to the Father) and Arianism (which teaches a Christ not entirely equal in divinity to the Father). But the Bible teaches that all three members of the Trinity are coequal partakers of the same essence.
 
 <!-- --- -->
 
 ##### They all possess a full and equal share of the *status* of deity {#all-members-of-the-trinity-are-coequal-coeternal-and-consubstantial-they-all-possess-a-full-and-equal-share-of-the-status-of-deity}
 
-As seen from the equal rank accorded to each in the formula for profession of faith at the point of spiritual baptism into the body of Christ:
+As seen from the equal rank accorded to each in the formula for profession of faith at the point of spiritual (*not* physical) baptism into the body of Christ:
 
 {{% scripture-h p="Matthew 28:19-20" %}}
 Then Jesus came over and said to them, "All authority in heaven and on earth has been given to me, so go and make all nations my followers by baptizing them into the name of the Father and of the Son and of the Holy Spirit, and by teaching them to observe everything I have commanded you."
@@ -901,7 +901,7 @@ Then Jesus came over and said to them, "All authority in heaven and on earth has
 
 As seen from their joint participation in creation:
 
-{{% scripture-h p="Matthew 28:19-20" %}}
+{{% scripture-h p="Genesis 1:26" %}}
 Then God said, "Let ***Us*** make man in ***Our*** image, according to ***Our*** pattern.  
 {{% /scripture-h %}}
 
@@ -909,12 +909,11 @@ Then God said, "Let ***Us*** make man in ***Our*** image, according to ***Our***
 
 ##### They all possess a full and equal share of the *substance* of deity {#all-members-of-the-trinity-are-coequal-coeternal-and-consubstantial-they-all-possess-a-full-and-equal-share-of-the-substance-of-deity}
 
-As seen from the attribution of goodness to all three members in the apostolic benediction of 2nd Corinthians, where grace (the policy of the goodness of God), love (the natural consequence [or emanation] of the goodness of God), and fellowship (the ultimate result of the goodness of God) are respectively attributed to the Son, the Father, and the Holy Spirit:
+As seen from the attribution of goodness to all three members in the apostolic benediction of 2 Corinthians, where grace (the policy of the goodness of God), love (the natural consequence---or "emanation"---of the goodness of God), and fellowship (the ultimate result of the goodness of God) are respectively attributed to the Son, the Father, and the Holy Spirit:
 
-{{% scripture-h p="2nd Corinthians 13:14" %}}
-May the grace of the Lord Jesus Christ, and the love of (the [Father]) God, and the fellowship of the Holy Spirit be with you all.
+{{% scripture-h p="2 Corinthians 13:14" %}}
+May the grace of the Lord Jesus Christ, and the love of God [the Father], and the fellowship of the Holy Spirit be with you all.
 {{% /scripture-h %}}
-
 
 {{% /toggleable-content %}}
 
@@ -960,7 +959,7 @@ slides=""
 
 ### Summary {#all-members-of-the-trinity-are-joint-partakers-of-the-same-essence-summary}
 
-TODO
+This lesson's main focus is examining the point that God is *three* in person, but that does *not* mean that the Trinity is composed of three (or more) different "gods".
 
 ### Timestamps {#all-members-of-the-trinity-are-joint-partakers-of-the-same-essence-timestamps}
 
@@ -1012,7 +1011,6 @@ Some things I'll add here in addition to this one verse Dr. Luginbill quoted, to
 - 2 Peter 1:21
 - Acts 5:3-4
 - Matthew 28:19 -- "name" here is singular, not plural. And it is also not repeated for the Son and the Spirit; i.e., there is one name and it equally applies to all three.
-
 
 {{% /toggleable-content %}}
 

@@ -121,7 +121,7 @@ Admittedly, *prima facie*, taking vv. 27-28 as they are seems to say that God co
 
 There are issues with this, though.
 
-First, the question of what "these words" are in verse 27. If one takes them as retrospective (vv. 10-26), the issue is that the commandments given in vv. 10-26 are *not* the Ten Commandments, which are thing things mentioned in v. 28. So that doesn;t seem to work.
+First, the question of what "these words" are in verse 27. If one takes them as retrospective (vv. 10-26), the issue is that the commandments given in vv. 10-26 are *not* the Ten Commandments, which are thing things mentioned in v. 28. So that doesn't seem to work.
 
 Things work fine if you take the "these words" as prospective: "write down these things -- {list of things coming *after*}." But the problem with taking things prospectively is that v. 28 would then essentially logically mandate that we take Moses to be the subject of וַיִּכְתֹּב (since he is the one commanded to write in v. 27, which we are now prospectively tying with v. 28). In v. 28, this verb meaning "to write" does not have an explicit subject, so the subject must be inferred.
 

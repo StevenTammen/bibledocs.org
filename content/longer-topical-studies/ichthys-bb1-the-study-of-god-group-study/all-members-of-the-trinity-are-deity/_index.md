@@ -26,7 +26,7 @@ slides=""
 
 ## Summary {#summary}
 
-TODO
+In this lesson we kick off a series of discussions we will be having about what the Trinity is *not*, to help throw into starker relief what it actually is. This lesson's main focus is examining the point that God is *one* in essence, but that does *not* mean that only one person of the Trinity is deity.
 
 ## Timestamps {#timestamps}
 
@@ -50,7 +50,7 @@ We can better understand what the Trinity is by first considering what it is *no
 
 ### Key point: God is *one* in essence, but that does *not* mean that only one person of the Trinity is deity {#key-point-god-is-one-in-essence-but-that-does-not-mean-that-only-one-person-of-the-trinity-is-deity}
 
-God is *three* in person, and all three persons of the Trinity (the Father, the Son and the Holy Spirit) are divine. Heresies of the past which have challenged the divinity of members of the Trinity include adoptionism (asserting that Christ is the Son of God only in the sense of adoption), the Ebionite heresy (teaching that Christ had only a human nature empowered by God's Spirit), and Unitarianism (which asserts the uni-personality of God, denying the deity of Christ and the Holy Spirit).
+God is *three* in person, and all three persons of the Trinity (the Father, the Son, and the Holy Spirit) are divine. Heresies of the past which have challenged the divinity of members of the Trinity include adoptionism (asserting that Christ is the Son of God only in the sense of adoption), the Ebionite heresy (teaching that Christ had only a human nature empowered by God's Spirit), and Unitarianism (which asserts the uni-personality of God, denying the deity of Christ and the Holy Spirit).
 
 But the Bible teaches that all three members of the Trinity are deity. Compare: Is.63:9-14; Matt. 3:16-17; 28:19; Jn.14:16-17; 1Cor.12:4-6; 2Cor.13:14; Eph.4:4-6; 1Pet.1:1-2; Rev.1:4-6.
 
