@@ -14,7 +14,7 @@ nav[data-toggle='toc'] ul{
 }
 
 nav[data-toggle='toc'] > ul {
-	height: 99vh;
+	height: 100vh;
 }
 
 .sticky {

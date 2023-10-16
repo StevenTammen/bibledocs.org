@@ -18,17 +18,17 @@ It is my hope that these slides may be a great help to those who wish to use the
 
 {{% /note %}}
 
-As to videos, they primarily live on [this ministry's YouTube channel](https://www.youtube.com/channel/UCFk7khraAKf68DZ5GeYEFIw), but I also provide links to download them from [my page on Archive.org](https://archive.org/details/@steventammen) for offline use. Likewise, as to the audio tracks, you can directly stream them off of Archive.org, and also download them for offline use in exactly the same manner as the videos. The .mp3 files should play on basically all audio playback devices.
+As to videos, they primarily live on [this ministry's YouTube channel](https://www.youtube.com/channel/UCFk7khraAKf68DZ5GeYEFIw).
+
+<!--
+
+TODO: videos and audio on archive.org, set up Podcasts and stream on Google Casts, Apple casts, and Spotify (and any other big Podcast hosting platforms).
+
+, but I also provide links to download them from [my page on Archive.org](https://archive.org/details/@steventammen) for offline use. Likewise, as to the audio tracks, you can directly stream them off of Archive.org, and also download them for offline use in exactly the same manner as the videos. The .mp3 files should play on basically all audio playback devices.-->
 
 ### There will always tend to be at least some text content that is not yet backed by video and audio
 
-{{% note %}}
-
-Since my time is presently greatly stressed from initial ministry launch and all of the things therein, **all video production is on temporary hiatus**. For the first bit here, there will be mostly only be text studies on the site.
-
-{{% /note %}}
-
-The order in which content is filled out is always text ➜ video/audio; that is, at any given point in time, there will almost certainly be some written studies on the site that I have not yet recorded the videos for. Making the videos, ripping the audio, and then subsequently making the timestamps/transcripts is not terribly complicated, but it does take a good bit of time and effort.
+The order in which content is filled out is always text ➜ video/audio; that is, at any given point in time, there will almost certainly be some written studies on the site that I have not yet recorded the videos for. Making the videos<!--, ripping the audio, --> and then subsequently making the timestamps/transcripts is not terribly complicated, but it does take some time and effort.
 
 Once I have checked-over and polished some content, I may be comfortable releasing it on the site (in written form) before I really feel like it is the right time for me to make the video for it. It may prove to be useful to people in written form long before I might be able to get around to making the video, so why wouldn't I let people make use of it in this intervening period?
 
@@ -49,7 +49,9 @@ This is because:
 1. Some people tend to generally learn better via one specific medium, and this can differ by individual. (It is especially important from an accessibility standpoint: dyslexia, blindness, and deafness all pose no issue if you support all three mediums).
 2. Even for the same individual, different mediums can be better at different times. For example, if you are cooking dinner or working out at the gym, it might be difficult to read a text study, but listening to an audio version of it might work.
 
-In general, text specifically is good when you are searching for something, if you want to read back a bit to situate where you are (that is, you find yourself getting lost in the discussion and want to refresh yourself on the context), and/or if you want to compare different parts of a study side-by-side. Other than these considerations, you can go with whichever medium works best for you.
+In general, text specifically is good when you are searching for something, if you want to read back a bit to situate where you are (that is, you find yourself getting lost in the discussion and want to refresh yourself on the context), and/or if you want to compare different parts of a study side-by-side. Put differently, text has certain advantages in serious study that the other mediums simply cannot match, and is for that reason irreplaceable, in my estimation.
+
+Other than these considerations, however, you can go with whichever medium works best for you. I recommend mixing and matching based upon circumstances. (So, for example, text and videos when you have time to sit down and focus, and maybe audio when you are multitasking with other things but still want to listen to the studies).
 
 ### Content supporting all three communication mediums has many facets
 
@@ -57,13 +59,15 @@ There are a great many things that go into the organization of content that span
 
 - A descriptive title
 - A link to the video playlist for the wider study the content is a part of
+<!--
 - A link to download the video for offline use (as an .mp4 file)
 - A link to download the audio for offline use (as an .mp3 file)
+-->
 - A link to see the full slides of the presentation
 - A concise summary of the topics the content discusses
 - Full timestamps by topic (these apply to both the video and the audio)
 - The text of the slides laid out without divisions, to be able to read through it seamlessly, navigate via a dynamic table of contents, and search or skim through it without having to go slide-by-slide
-- The full written transcript of the spoken content (this applies to both the video and the audio), hyperlinked statement-by-statement to the video
+- The full written transcript of the spoken content<!-- (this applies to both the video and the audio)-->, hyperlinked statement-by-statement to the video
 
 ## Content types
 
@@ -79,13 +83,13 @@ The Longer Topical Studies on this site go over things topically (tracing a subj
 
 ### Verse-by-verse studies
 
-The Verse-by-verse Studies on this site go over things one verse at a time (sticking with a specific part of scripture rather than tracing a subject). I have adopted the practice of covering verses as I feel led to, which means that rather than going through an entire book of the Bible in order, the verse-by-verse content on this site will tend to be more scattershot, tackling some difficult verses here and there across many different books. Over time, I hope to have the coverage and continuity increase, to the point it isn’t so sparse.
+The Verse-by-verse Studies on this site go over things one verse at a time (sticking with a specific part of scripture rather than tracing a subject). I have adopted the practice of covering verses as I feel led to, which means that in addition to going through entire books of the Bible in order, sometimes the verse-by-verse content on this site will tend to be more scattershot, tackling some difficult verses here and there across many different books. Over time, of course, I hope to have the coverage and continuity increase.
 
 Not every single thing written in these verse-by-verse studies on the site will have a video made about it, but only the things of sufficient length and complexity to merit such. This means that there will be a number of shorter notes that will only show up as text on the study webpages (which are organized by chapter).
 
 ### Q&As
 
-The Q&As on this site are dedicated to shorter treatments of various topics, organized in a question and answer format. Some of these Q&As come from correspondence with site readers, while others (both questions and answers) are completely of my own creation.
+The Q&As on this site are dedicated to treatments of various topics, organized in a question and answer format. Some of these Q&As come from correspondence with site readers, while others (both questions and answers) are completely of my own creation.
 
 The "answers" contained herein are not necessarily to be taken as holy and unquestionable writ (after all, they are coming from myself, an imperfect human being), but simply as responses to the questions.
 
@@ -224,7 +228,7 @@ To restate the design challenge again, the issue is what to do with discussion c
 
 Just like essentially all other pursuits in life, spiritual knowledge builds on itself progressively, with advanced topics only really becoming understandable once more fundamental ones are understood. (Although there are differences that set spiritual knowledge apart, to be sure: we have the all-important help of the Holy Spirit in quickening our understanding, and even more than head knowledge, actually believing and applying that which we are learning is critical in spiritual growth). 
 
-Anyhow, content on this site is labeled as to its overall spiritual difficulty level (compare Hebrews 5:12-14), as it seems to me, in order to help readers find the content appropriate for their present level. This sort of labeling is subjective and hand-wavy, it is true, but hopefully it can be at least somewhat useful as a guide. The labeling looks like so:
+Anyhow, content on this site is labeled as to its overall spiritual difficulty level (compare Hebrews 5:12-14), as it seems to me, in order to help newer believers sort through where it might be wise for them to start. This sort of labeling is subjective and hand-wavy, it is true, but hopefully it can be at least somewhat useful as a guide. The labeling looks like so:
 
 <ul>
 <li><span class="basic">basic</span>
@@ -241,6 +245,14 @@ The distinction between the bare labels and the "plus versions" (e.g., <span cla
 The main reason why I only define and use three content levels is because the lines are so blurry and indistinct. I would be quite uncomfortable breaking things down any more, since fine-grained categorizations would really imply a level of precision that simply isn't there.
 
 Part of this is because different people find different things hard (i.e., my <span class="intermediate">intermediate</span> might be your <span class="basic">basic</span>), so any labels I affix are really my best guesses as to how "most Christians" will relate to the content. The same goes for my decisions about what content gets the plus distinction and what content does not.
+
+{{% note %}}
+I should emphasize that *all the content is for everyone*. One never outgrows revisiting basic spiritual teachings, in other words.
+
+Just for example, we all need to be reminded that we are sinners in need of redemption, God's enemies by nature, and entirely undeserving of the blessings that we have been given. That Jesus Christ -- fully God, yet fully man -- came and died for us as a perfect living sacrifice, so that we might be reconciled to God. That He laid down His life and bore our sins upon the cross in order that we might be saved from the consequences of our sinfulness. Not that we deserved it, but that God, out of His boundless grace and mercy, saw fit to send His one and only Son and judge Him in our place.
+
+All this to say, these labels are not supposed to be mutually exclusive from the perspective of the reader, as if once you think you can handle intermediate teachings, all the basic topics are somehow unworthy of your attention. The idea is instead to help give a rough sequence to things for newer believers who need to start somewhere, so that they might not be quite so overwhelmed. At least, that's the idea.
+{{% /note %}}
 
 ## Writing level
 
