@@ -13,7 +13,7 @@ layout: content-page
 ## Video {#video}
 
 {{% video
-src=""
+src="https://www.youtube.com/embed/Jm0YvuLAJgA"
 
 playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
 
@@ -32,7 +32,25 @@ There are also *lots* of new pages in new verse-by-verse studies of Romans and 1
 
 ## Timestamps {#timestamps}
 
-
+[0:00](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=0s) - Intro  
+[2:30](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=150s) - Outline  
+[5:23](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=323s) - On the nature of this particular ministry progress summary  
+[8:50](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=530s) - BibleDriven, Jordan Bomberger's online ministry, is now live!  
+[12:54](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=774s) - Our group Bible Study over Zoom has resumed our weekly recordings, this time going through Ichthys' Systematic Theology  
+[19:24](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=1164s) - Discussion questions from a local Bible study covering the book of Romans  
+[22:43](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=1363s) - Verse-by-verse Romans study  
+[25:56](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=1556s) - Another verse-by-verse study, this one for 1 Thessalonians  
+[27:46](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=1666s) - Some other theological conversations  
+[29:26](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=1766s) - Work on some of my planned studies  
+[31:31](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=1891s) - Plans for the future  
+[36:56](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=2216s) - Index of new content this release  
+&emsp;[37:52](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=2272s) - BB1: Theology lessons  
+&emsp;[39:44](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=2384s) - Romans discussion questions and brief notes  
+&emsp;[41:42](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=2502s) - Verse-by-verse Romans study: Romans 1  
+&emsp;[43:43](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=2623s) - Verse-by-verse Romans study: Romans 2  
+&emsp;[44:57](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=2697s) - Verse-by-verse 1 Thessalonians study: 1 Thessalonians 4  
+&emsp;[45:37](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=2737s) - Verse-by-verse 1 Thessalonians study: 1 Thessalonians 5  
+[47:23](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=2843s) - Outro  
 
 {{% content %}}
 
