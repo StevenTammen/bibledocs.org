@@ -27,7 +27,7 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-TODO
+Notes on Romans 9.
 
 <!-- ## Timestamps {#timestamps} -->
 
