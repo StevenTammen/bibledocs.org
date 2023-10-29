@@ -43,17 +43,56 @@ Notes on Romans 11.
 
 It may be tempting to say that Israel is God's chosen people. But then there is Romans 9:6. And actually the thrust of verses 1-6 here in Romans 11 is exactly the same in terms of not all Israel being Israel (but only the remnant chosen by grace). And how about Romans 11:20 later in the chapter (speaking of the people of Israel as the "natural branches")---"they were broken off because of unbelief"? Branches that are cut off are not "chosen", even if they may be "natural".
 
-It might also be tempting to say that all those who choose God---who are then chosen in turn... or actually, more properly, were already chosen from eternity past according to God's perfect foreknowledge---are God's chosen people, and just stop there. After all that is true in the sense of those who belong to the body of Christ, "those in the vine", if you will (cf. verses 11-24 later in this chapter, and also see John 15).
+One might also be tempted to stop after saying that all those who choose God are God's chosen people (in the sense that God foreknew their choice and therefore chose them from eternity past to be His). After all, that is very much true. Those who belong to the body of Christ, "those in the vine", if you will (cf. verses 11-24 later in this chapter, and also see John 15), *are* God's chosen people.
 
-But it also true that the people of (spiritual) Israel have some "unfinished business" with God in a way that Gentile unbelievers do not. The "hardening in part" mentioned in Romans 11:25 will begin to be stripped away under the ministry of the 144,000 prophesied in Revelation, alongside the ministry of the Two Witnesses also mentioned therein. Some will believe through these efforts of evangelization. And then when Jesus returns in glory (and they "look upon him who they pierced"---cf. Romans 1:7 with Zechariah 12:10 and John 19:37), there will be a massive wave of belief among the Jews, and Israel will come to salvation once more, picking back up the torch they had dropped (so to speak).
+But it also true that the people of (spiritual) Israel have some "unfinished business" with God in a way that Gentile unbelievers do not. The "hardening in part" mentioned in Romans 11:25 will begin to be stripped away under the ministry of the 144,000 prophesied in Revelation, alongside the ministry of the Two Witnesses also mentioned therein. Some will believe through these efforts of evangelization. And then when Jesus returns in glory (and they "look upon him who they pierced"---cf. Romans 1:7 with Zechariah 12:10 and John 19:37), there will be a massive wave of belief among the Jews, and Israel will come to salvation once more, picking back up the torch of witness they had dropped (so to speak).
 
 If this all makes things seem more confusing not less, the short of it all is that we *are* chosen---Jew and Gentile alike---when we believe in Jesus Christ. God's chosen people are those who believe, as this chapter here in Romans 11 is perfectly clear about. But the people of Israel (presently experiencing a hardening in part) are prophesied to return to the Lord in the future, and we shouldn't neglect that point either.
 
-#### Why do you think God chose them?
+#### Why do you think God chooses them?
 
-Taking the remnant mentioned in verse 5 as those in view for this question (i.e., the "them" that are chosen), it is an interesting question indeed. Verse 5 and verse 6 are quite emphatic that these people were chosen by grace, *not* on account of works. That is, the existence of this remnant (of belief) among the wider population is entirely because of God's providential ordering of history.
+The short answer to this question is that God chooses all those those who choose Him. (Or, more properly speaking, has chosen from eternity past all those whom He foreknew as choosing Him. The distinction is important, since God is not reactionary, but exists outside spacetime, and has foreordained everything that has, is, and will happen, from beginning to end).
 
-So... why? Let me put it this way. There are plenty of cultures throughout history that have been, as far as we know, entirely devoid of belief in the being whom socialists call the "Judeo-Christian God", and therefore entirely devoid of the sort of believing remnant mentioned here. So why did God providentially shepherd a remnant of believers in Israel, no matter how bad things got (cf. Elijah's proclamation that "he is the only one!" in 1 Kings 19:10, 14---which is what Romans 11:3 is quoting)?
+But I think a more interesting question is why God may have arranged history in such a way that He only ends up choosing X number of people in different times and places in human history (i.e., distributes the proportion of the faithful as He does, across times and cultures). What do I mean by this? If you take the remnant mentioned in verse 5 as those in view for this question (i.e., the "them" that are chosen), well then "why were there 7,000 of them at that time, rather than more or less? Why were these centralized in Israel, rather than spread out across cultures?". One might go on.
+
+Verse 5 and verse 6 are quite emphatic that these people of the remnant were chosen by grace, *not* on account of works. That is, the existence of this remnant (of belief) among the wider population is entirely because of God's providential ordering of history. It is not that these people do not have free will. It is that God's plan will not be moved, since it was made according to perfect foreknowledge.
+
+But even more than that, why is this remnant of grace emphasized as it is in scripture? Why the emphasis on God's ordination through grace? This passage from from Romans 9:
+
+
+
+
+What if God, although choosing to show his wrath and make his power known, bore with great patience the objects of his wrath—prepared for destruction? 23 What if he did this to make the riches of his glory known to the objects of his mercy, whom he prepared in advance for glory— 24 even us, whom he also called, not only from the Jews but also from the Gentiles? 25 As he says in Hosea:
+
+“I will call them ‘my people’ who are not my people;
+    and I will call her ‘my loved one’ who is not my loved one,”[i]
+
+26 and,
+
+“In the very place where it was said to them,
+    ‘You are not my people,’
+    there they will be called ‘children of the living God.’”[j]
+
+27 Isaiah cries out concerning Israel:
+
+“Though the number of the Israelites be like the sand by the sea,
+    only the remnant will be saved.
+28 For the Lord will carry out
+    his sentence on earth with speed and finality.”[k]
+
+29 It is just as Isaiah said previously:
+
+“Unless the Lord Almighty
+    had left us descendants,
+we would have become like Sodom,
+    we would have been like Gomorrah.”
+
+
+
+
+
+
+So... why? Let me put it this way. There are plenty of cultures throughout history that have been, as far as we know, entirely devoid of belief in the being whom sociologists call the "Judeo-Christian God", and therefore entirely devoid of the sort of believing remnant mentioned here. So why did God providentially shepherd a remnant of believers in Israel, no matter how bad things got (cf. Elijah's proclamation that "he is the only one!" in 1 Kings 19:10, 14---which is what Romans 11:3 is quoting)?
 
 Well, let me put it this way, what exactly is the alternative? Even in rebellion, the people of Israel were God's people. With few exceptions (cf. Ruth), foreigners had no interest in the God of Israel. In other words, if God did not preserve a remnant of belief throughout the centuries in Israel according to His foreknowledge and for His glory, well, human belief would die out altogether. And in fact, if God were not constantly shielding humanity from the power or Satan and the demons, this elimination of faith from the world would not be some slow decline, but rather instantaneous. Satan would simply massacre all of the elect in a single moment, if ever God let him.
 
