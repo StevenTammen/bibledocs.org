@@ -1,45 +1,218 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Slides</title>
+  <meta charset="utf-8">
+  <link
+  rel="stylesheet"
+  href="https://unpkg.com/littlefoot/dist/littlefoot.css"
+/>
+  <style>
+   @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+   @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+   body { 
+    font-family: 'Georgia';
+   }
+
+   ::selection{
+    background-color: #fff6bd;
+   }
+
+   h1, h2, h3, h4, h5, h6 {
+    font-family: 'Verdana';
+    font-weight: bold;
+   }
+
+   h2 {
+    display: block;
+    font-size: 30px !important;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+   }
+
+   /* Style most headers the same across slides, for visual consistency */
+   h3, h4, h5, h6 {
+    display: block;
+    font-size: 18px !important;
+    margin-block-start: 1.2em;
+    margin-block-end: 1.2em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+   }
+
+   /*
+    Don't need extra padding when headers aren't in a special content section
+    with the special content section name in a strong tag (when the header is
+    the very first thing in the sepcial content section div). Too much space otherwise
+   */
+   .special-content h3:first-child,
+   .special-content h4:first-child,
+   .special-content h5:first-child,
+   .special-content h6:first-child
+    {
+      margin-top: 0px;
+    }
+
+   .remark-code, .remark-inline-code {
+    font-family: 'Ubuntu Mono';
+   }
+   
+   .footer {
+    position: absolute;
+    bottom: 5px;
+    right: 50px;
+    height: 40px;
+    width: 800px;
+    color: #006400;
+   }
+
+   a {
+    color: #3b8bba;
+    text-decoration: none;
+  }
+
+  table, th, td {
+    border: 1px solid black;
+  }
+
+  /* Special content sections */
+
+  .special-content {
+    border-radius: 5px;
+    padding: 20px 10px 20px 10px;
+  }
+
+  .special-content >  .special-content {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .special-content > strong {
+    display: block;
+    text-align: center;
+    border-bottom: 1px solid black;
+    margin-top: -15px;
+  }
+
+  .special-content.cautionary-note {
+    background: #ffe6e6;
+  }
+
+  .special-content.technical-discussion {
+    background: #ffe0cc;
+  }
+
+  .special-content.sidenote {
+    background: #fffae6;
+  }
+
+  .special-content.application {
+    background: #ebfaeb;
+  }
+
+  .special-content.note {
+	  background: #e6ffff
+  }
+
+  .special-content.indirect-reasoning {
+    background: #e6f5ff;
+  }
+
+  .special-content.example {
+    background: #f2e6ff;
+  }
+
+  .special-content.post-hoc-note {
+    background: #ffe6f2;
+  }
+
+  .special-content.quote {
+    background: #e6e6e6;
+  }
+
+  .special-content.scripture {
+    background: #f2e6d9;
+  }
+
+
+  /* Littlefoot footnotes */
+
+  .littlefoot__button {
+    background-color: #dddddd;
+    color: #777777;
+    height: 1rem;
+    padding: 0rem 0.8rem;
+    margin: 0rem 0.1rem;
+    border: none;
+    border-radius: 10px;
+    vertical-align: middle;
+    display: inline-flex;
+    align-items: center; 
+  }
+  </style>
+	<script>
+		var refTagger = {
+			settings: {
+				addLogosLink: true,
+				bibleVersion: "NASB",
+				convertHyperlinks: true,
+				logosLinkIcon: "light",			
+				socialSharing: [],
+				tagChapters: true
+			}
+		};
+	</script>
+ </head>
+ <body>
+  <textarea id="source">
+
+class: center, middle
+
+## Second Baptist - 2023 Romans Study - Romans 11
+
+
+
 ---
-title: Second Baptist - 2023 Romans Study - Romans 11
-weight: 
-chapter: 11
-layout: content-page
----
 
-{{< subjects >}}
 
-{{< /subjects >}}
-
-{{% section-navigation %}}
-
-<!-- ## Video {#video}
-
-{{% video
-src=""
-
-playlist=""
-
-video=""
-
-audio=""
-
-slides="https://bibledocs.org/slides/"
-%}} -->
-
-## Summary {#summary}
+### Summary
 
 Notes on Romans 11.
 
 <!-- ## Timestamps {#timestamps} -->
 
 {{% content %}}
+---
 
-## Content {#content}
 
-<!-- --- -->
+#### Outline
 
-### Verses 1-10 {#verses-1-10}
+- [Verses 1-10](#3)
+  - [Who is God's chosen people?](#4)
+  - [Why do you think God chooses them?](#5)
+  - [What is the importance of grace (verse 5)?](#6)
+  - [How is grace defined (verse 6)?](#7)
+  - [Why did God harden most of their hearts (verse 4)?](#8)
+- [Verses 11-24](#9)
+  - [Can we understand God's plan?](#10)
+  - [Does this scripture demonstrate Romans 8:28](#11)
+  - [How much appreciation do we show for being grafted into the tree of life?](#12)
+  - [Which is most important, the kindness or severity of God (verse 22)?](#13)
+  - [What does it mean to "continue in His kindness"?](#14)
+- [Verses 25-36](#15)
+  - [Are we ever guilty of being wise in our own eyes?](#16)
+  - [How difficult is it to understand God, His thoughts, or His ways?](#17)
+  - [What does verse 36 mean?](#18)
 
-#### Who is God's chosen people? {#who-is-god-s-chosen-people}
+---
+
+
+### Verses 1-10
+
+#### Who is God's chosen people?
 
 It may be tempting to say that Israel is God's chosen people. But then there is Romans 9:6. And actually the thrust of verses 1-6 here in Romans 11 is exactly the same in terms of not all Israel being Israel (but only the remnant chosen by grace). And how about Romans 11:20 later in the chapter (speaking of the people of Israel as the "natural branches")---"they were broken off because of unbelief"? Branches that are cut off are not "chosen", even if they may be "natural".
 
@@ -49,7 +222,7 @@ But it also true that the people of (spiritual) Israel have some "unfinished bus
 
 If this all makes things seem more confusing not less, the short of it all is that we *are* chosen---Jew and Gentile alike---when we believe in Jesus Christ. God's chosen people are those who believe, as this chapter here in Romans 11 is perfectly clear about. But the people of Israel (presently experiencing a hardening in part) are prophesied to return to the Lord in the future, and we shouldn't neglect that point either.
 
-#### Why do you think God chooses them? {#why-do-you-think-god-chooses-them}
+#### Why do you think God chooses them?
 
 The short answer to this question is that God chooses all those those who choose Him. (Or, more properly speaking, has chosen from eternity past all those whom He foreknew as choosing Him. The distinction is important, since God is not reactionary, but exists outside spacetime, and has foreordained everything that has, is, and will happen, from beginning to end).
 
@@ -102,13 +275,17 @@ But God will never let Satan completely win. That is actually what "the gates of
 
 They would be wrong. Just as there was only a small remnant of *only 7,000 people* in 1 Kings 19 (which remnant is mentioned here in the beginning of Romans 11), so too has there only ever been a small remnant of those truly on the right path (or anything even approaching it) ever since then. Jesus and His followers were certainly excluded and "othered". And in fact, this principle---which certainly held for the entire Old Testament history of believers in Israel, and for Jesus and His disciples---this principle has never ceased being in effect in the slightest. It has applied (and will continue to apply) in the Church Age as well.
 
-{{% sidenote %}}
-It is not necessary---and in fact, is deeply problematic---for us to try to judge the salvation of others in all this. One can freely point out that people are very much not acting in accordance with the Bible (or acting in any way remotely close to such), without ever having to go there.
+<div class="special-content sidenote">
+<strong>
+<a href="/site/content-features/#sidenotes">Sidenote</a>
+</strong>
+<p>It is not necessary---and in fact, is deeply problematic---for us to try to judge the salvation of others in all this. One can freely point out that people are very much not acting in accordance with the Bible (or acting in any way remotely close to such), without ever having to go there.</p>
 
-Having some true belief in Jesus Christ (even if regrettably off-track in many ways) is better than no belief at all, it is true. But the lukewarm, God warns, will be spit out of His mouth (cf. Revelation 3:15-16).
+<p>Having some true belief in Jesus Christ (even if regrettably off-track in many ways) is better than no belief at all, it is true. But the lukewarm, God warns, will be spit out of His mouth (cf. Revelation 3:15-16).</p>
 
-And so it is that we should never seek to personally test the line of whether or not very marginal believers can be "part of the remnant". Rather, we should make every effort to be among the small, select few that actually esteem God over the world as He calls humanity to, following wherever God leads. Because unlike with the lukewarm, God never spits the red-hot out of His mouth---instead, He cherishes this small group, and heaps them with praise and honor and glory.
-{{% /sidenote %}}
+<p>And so it is that we should never seek to personally test the line of whether or not very marginal believers can be "part of the remnant". Rather, we should make every effort to be among the small, select few that actually esteem God over the world as He calls humanity to, following wherever God leads. Because unlike with the lukewarm, God never spits the red-hot out of His mouth---instead, He cherishes this small group, and heaps them with praise and honor and glory.</p>
+</div>
+
 
 To pull us back on topic, God providentially preserves a remnant of true belief across history to preserve His witness in the world, and to show His faithfulness to believing mankind. He wouldn't have to do this, but does so entirely out of His grace. Praise be to Him that He does!
 
@@ -122,21 +299,25 @@ To pull us back on topic, God providentially preserves a remnant of true belief 
 
 
 
-{{% sidenote %}}
+<div class="special-content sidenote">
+<strong>
+<a href="/site/content-features/#sidenotes">Sidenote</a>
+</strong>
 
-Someone may ask then---is not the unconditional blessing of this specific line of descent inherently unfair, since no man can choose to whom he is born? Aren't those of us not born to this line at a disadvantage? Well, not really:
+<p>Someone may ask then---is not the unconditional blessing of this specific line of descent inherently unfair, since no man can choose to whom he is born? Aren't those of us not born to this line at a disadvantage? Well, not really:</p>
 
-Romans 3:22-24
+<p>Romans 3:22-24</p>
 
-This righteousness is given through faith in Jesus Christ to all who believe. There is no difference between Jew and Gentile, 23 for all have sinned and fall short of the glory of God, 24 and all are justified freely by his grace through the redemption that came by Christ Jesus.
+<p>This righteousness is given through faith in Jesus Christ to all who believe. There is no difference between Jew and Gentile, 23 for all have sinned and fall short of the glory of God, 24 and all are justified freely by his grace through the redemption that came by Christ Jesus.</p>
 
-All are saved by grace through faith. All have free will. God's Justice is perfect. That is all we should need to say on these matters... if we would just believe as we ought!
+<p>All are saved by grace through faith. All have free will. God's Justice is perfect. That is all we should need to say on these matters... if we would just believe as we ought!</p>
 
-You might compare the question of "How is it fair for some to be born rich, but others poor?" Well, what does wealth or poverty have to do with salvation and doing what God wants of you? The battlefield may look different, but the battle is the same. It is really no different here in this case of Jews and Gentiles.
+<p>You might compare the question of "How is it fair for some to be born rich, but others poor?" Well, what does wealth or poverty have to do with salvation and doing what God wants of you? The battlefield may look different, but the battle is the same. It is really no different here in this case of Jews and Gentiles.</p>
 
-God foreknows our choices---all of them---and puts us in the perfect place to fulfill His Will, all while completely respecting our free will. So in fulfilling His promise to the Patriarchs (in always placing some believers among their descendants), God in no ways violates human free will, and in no way does anything unfair or unjust.
+<p>God foreknows our choices---all of them---and puts us in the perfect place to fulfill His Will, all while completely respecting our free will. So in fulfilling His promise to the Patriarchs (in always placing some believers among their descendants), God in no ways violates human free will, and in no way does anything unfair or unjust.</p>
 
-{{% /sidenote %}}
+</div>
+
 
 Compare the words of Genesis 12:1-3 (especially verse 3) with 
 Romans 11:11-15 and Romans 11:25-32. It is *not* somehow because God wishes to arbitrarily elevate some group of people while leaving all others to stay cursed and hopeless. No, the calling of Israel was for the blessing of the world! Through their rejection the gospel came to the Gentiles (Romans 11:11, 12, 15), and their return to the fold (Romans 11:25-27) will usher in the Millennium, wherein Jesus Christ will perfectly rule the world from Jerusalem.
@@ -146,59 +327,126 @@ Romans 11:32---God has bound everyone over to disobedience so that he may have m
 
 
 
-#### What is the importance of grace (verse 5)? {#what-is-the-importance-of-grace-verse-5}
+#### What is the importance of grace (verse 5)?
 
-#### How is grace defined (verse 6)? {#how-is-grace-defined-verse-6}
+#### How is grace defined (verse 6)?
 
-#### Why did God harden most of their hearts (verse 4)? {#why-did-god-harden-most-of-their-hearts-verse-4}
+#### Why did God harden most of their hearts (verse 4)?
 
-### Verses 11-24 {#verses-11-24}
+### Verses 11-24
 
-#### Can we understand God's plan? {#can-we-understand-god-s-plan}
+#### Can we understand God's plan?
 
 We won't see the full details. Mystery of the Gentiles -- Acts 10, Peter/Cornelius, John 4 woman at well (bad blood between the Jews and Samaritans), also cf. parable of the good Samaritan.
 
 It needs to be us getting on God's train, not God getting on our train.
 
-#### Does this scripture demonstrate Romans 8:28 {#does-this-scripture-demonstrate-romans-8-28}
+#### Does this scripture demonstrate Romans 8:28
 
 sure. Plan for salvation of all. Everything God does is for his glory.
 
-#### How much appreciation do we show for being grafted into the tree of life? {#how-much-appreciation-do-we-show-for-being-grafted-into-the-tree-of-life}
+#### How much appreciation do we show for being grafted into the tree of life?
 
 Not as much as we should. Joy when people are saved, appreciate His grace in grafting us in.
 
-#### Which is most important, the kindness or severity of God (verse 22)? {#which-is-most-important-the-kindness-or-severity-of-god-verse-22}
+#### Which is most important, the kindness or severity of God (verse 22)?
 
 Both important. Two sides of a road both leading to a ditch.
 
-#### What does it mean to "continue in His kindness"? {#what-does-it-mean-to-continue-in-his-kindness}
+#### What does it mean to "continue in His kindness"?
 
 Verse 22 -- "Otherwise you will be cut off." Thank Him for all the things He has done for us. God's grace. acknowledge that all we have comes from His hand, rather than pretending otherwise.
 
-### Verses 25-36 {#verses-25-36}
+### Verses 25-36
 
-#### Are we ever guilty of being wise in our own eyes? {#are-we-ever-guilty-of-being-wise-in-our-own-eyes}
+#### Are we ever guilty of being wise in our own eyes?
 
 Of course. Unjustifiably so.
 
-#### How difficult is it to understand God, His thoughts, or His ways? {#how-difficult-is-it-to-understand-god-his-thoughts-or-his-ways}
+#### How difficult is it to understand God, His thoughts, or His ways?
 
 Verse 33. Impossible. finite beings vs. infinite Creator.
 
-#### What does verse 36 mean? {#what-does-verse-36-mean}
+#### What does verse 36 mean?
 
 What is ours? Nothing. All the glory goes to God because absolutely everything is God's.
 
-{{% /content %}}
-
-
-<!-- {{% transcript %}}
-
-## Video/audio transcript {#video-audio-transcript}
 
 
 
-{{% /transcript %}} -->
+<!-- Footnote List -->
+<div class="footnotes">
+<ol>
 
-{{% section-navigation %}}
+  </ol>
+</div>
+  
+
+---
+
+
+#### Outline
+
+- [Verses 1-10](#3)
+  - [Who is God's chosen people?](#4)
+  - [Why do you think God chooses them?](#5)
+  - [What is the importance of grace (verse 5)?](#6)
+  - [How is grace defined (verse 6)?](#7)
+  - [Why did God harden most of their hearts (verse 4)?](#8)
+- [Verses 11-24](#9)
+  - [Can we understand God's plan?](#10)
+  - [Does this scripture demonstrate Romans 8:28](#11)
+  - [How much appreciation do we show for being grafted into the tree of life?](#12)
+  - [Which is most important, the kindness or severity of God (verse 22)?](#13)
+  - [What does it mean to "continue in His kindness"?](#14)
+- [Verses 25-36](#15)
+  - [Are we ever guilty of being wise in our own eyes?](#16)
+  - [How difficult is it to understand God, His thoughts, or His ways?](#17)
+  - [What does verse 36 mean?](#18)
+
+
+
+  </textarea>
+  <script src="https://remarkjs.com/downloads/remark-latest.min.js">
+  </script>
+  <script>
+   var slideshow = remark.create({ ratio: "16:9" });
+  </script>
+<script
+src="https://unpkg.com/littlefoot/dist/littlefoot.js"
+type="application/javascript"
+></script>
+<script type="application/javascript"> littlefoot.default({
+    activateOnHover: true,
+    dismissOnUnhover: true,
+    hoverDelay: 200,
+    buttonTemplate: `
+    <button
+    aria-label="Footnote <% number %>"
+    class="littlefoot__button"
+    id="<% reference %>"
+    />
+    <% number %>
+    </button>
+    `,
+  }) </script>
+  <!-- RefTagger -->
+  <script>
+    var refTagger = {
+      settings: {
+        bibleVersion: "NASB",
+        convertHyperlinks: false,		
+        roundCorners: true,
+        socialSharing: [],
+        tagChapters: true
+      } 
+    };
+    
+    (function(d, t) { 
+      var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; 
+      g.src = 'https://api.reftagger.com/v2/RefTagger.js'; 
+      s.parentNode.insertBefore(g, s); 
+    }(document, 'script'));
+  </script>
+ </body>
+</html>

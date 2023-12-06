@@ -2,6 +2,7 @@
 title: God's Infinite Nature
 weight: 20
 layout: content-page
+playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
 ---
 
 {{< subjects >}}
@@ -30,7 +31,16 @@ This lesson, we are going to be talking about God's infinite nature, and what th
 
 ## Timestamps {#timestamps}
 
-
+0:00 - Intro and outline
+02:01 - Introduction: God's infinite nature
+02:57 - God is Spiritual
+16:05 - God is Eternal
+30:03 - God is Immeasurable (in a spatial sense)
+35:38 - God is Unique
+50:17 - God is Omnipotent
+01:08:16 - God is Omniscient
+01:21:58 - God is Omnipresent
+01:26:45 - Review and outro
 
 {{% content %}}
 
@@ -55,9 +65,37 @@ God's being transcends the physical universe. He is not limited or bounded by ma
 
 <!-- --- -->
 
+#### If mankind is at present "a little lower than the angels", why do angels desire physical bodies like ours?
+
+{{% note %}}
+This is a video-only section.
+{{% /note %}}
+
+Compare Hebrews 2:6-8.
+
+<!-- --- -->
+
 ### God is Eternal {#god-is-eternal}
 
 God's being transcends time. He is not limited or bounded by temporal issues or concerns. God is not subject to time in any way. God is not constrained by time – God created time and employs it however He desires.
+
+<!-- --- -->
+
+#### Angels are subject to time
+
+{{% note %}}
+This is a video-only section.
+{{% /note %}}
+
+<!-- --- -->
+
+#### The relationship between future prophecy and the time continuum
+
+{{% note %}}
+This is a video-only section.
+{{% /note %}}
+
+Put differently, were prophets actually transported into the future (i.e., plucked from one point in the "river of time" and dropped at another as an observer), or did they just have visions of the future (i.e., see visions of it like a movie)?
 
 <!-- --- -->
 
@@ -93,6 +131,8 @@ God is all-powerful, irrespective of matter. He can effect anything He desires i
 
 {{% sidenote %}}
 
+#### "Could God create a rock so big even He couldn't lift it?"
+
 You may have come across something like "So, could God create a rock so big even He couldn't lift it?" This is (supposedly) pitting two aspects of omnipotence against each other: God's ability to create anything He wishes *ex nihilo*, and God's strength.
 
 People argue that the two superlatives mandated by omnipotence contradict each other. Supposedly, if God cannot create an object too heavy for Him to lift, he is not omnipotent, because an omnipotent creature would be able to create anything. And likewise, if there would exist some object that God could create but was unable to lift, then He also would not be omnipotent, because an omnipotent creature would be able to lift everything. "See!", they say, "either way, He cannot do something; therefore, He is not omnipotent!"
@@ -112,6 +152,8 @@ My counsel would be to avoid all such nonsense. God can do "it", whatever "it" m
 God is all-knowing, irrespective of time. He can effect anything He desires in the temporal realm. Therefore God knows (has always known, and always will know) everything, the end from the beginning. As the Everlasting One (Ps.90:2; 90:4), His knowledge of every event that ever has or will or even could occur within His creation is comprehensive and absolute.
 
 <!-- --- -->
+
+#### God's knowledge of hypotheticals
 
 The "could occur" bit is important. God's knowledge of all possible hypotheticals is sometimes discussed in terms of so-called ["Molinism"](https://en.wikipedia.org/wiki/Molinism) and "middle knowledge". I prefer to discuss it independent from all the baggage there, however.
 

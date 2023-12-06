@@ -2,6 +2,7 @@
 title: Introduction - The Essence of God
 weight: 10
 layout: content-page
+playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
 ---
 
 {{< subjects >}}
@@ -30,7 +31,14 @@ In this lesson, we are going to be kicking off our new study of BB1: Theology on
 
 ## Timestamps {#timestamps}
 
-
+0:00 - Intro and outline
+01:06 - The essence of God is being. He is the Great I AM
+11:43 - The resplendence of God: light and glory
+&emsp;13:24 - Q: 1 Timothy 6:16 talks about God's unapproachable light. It also says God alone possess immortality. What does that latter statement mean?
+&emsp;25:01 - Q: We say God dwells in this unapproachable light that no one has seen nor ever can see. What then of cases in scripture where people seem to have "seen God?"
+&emsp;35:52 - Comment: God's glory as it relates to "every knee will bow, and every tongue confess"
+49:16 - Essence, nature, character... ???
+59:09 - Summary and outro
 
 {{% content %}}
 
@@ -93,10 +101,6 @@ The visible form of this glory was veiled in Christ's first advent to make the c
 Compare: "Every knee will bow, and every tongue will confess." That is not now, but eventually.
 
 <!-- --- -->
-
-
-
-
 
 ### Essence, nature, character... ??? {#essence-nature-character}
 

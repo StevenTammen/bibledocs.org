@@ -46,7 +46,7 @@ I have organized the prayer list into various sections based on commonalities (a
 
 ### Safety
 
-- For the safety of Odii and his wife in their occasionally dangerous and unstable living circumstances.
+- For the safety of Odii and his fiancée in their occasionally dangerous and unstable living circumstances.
 
 ### School and work
 
