@@ -5,7 +5,7 @@ layout: content-page
 ---
 
 {{< subjects >}}
-
+Trinity > Illustrations
 {{< /subjects >}}
 
 {{% section-navigation %}}
@@ -42,6 +42,10 @@ TODO
 
 ### Perils in attempting to use illustrations for the Trinity {#perils-in-attempting-to-use-illustrations-for-the-trinity}
 
+{{< subjects >}}
+Trinity > Illustrations > Perils of
+{{< /subjects >}}
+
 As we discussed in our last lesson, attempting to illustrate such a carefully protected doctrine as the Trinity has the potential of doing more harm than good. The fundamental problem with illustrations of the type we will consider in a moment is that they all necessarily contain potentially dangerous and untrue points of comparison, which, if too much stress be placed upon them, run the real risk of leading to heretical conclusions, a danger that far outweighs any good they may do in attempting to shed some light on the subject.
 
 The number one objection to such illustrations is that God is divine, and since nothing and no one else is, *any* illustration will needs be imperfect and inaccurate (a fact which may well explain why no such illustrations occur in the Bible: Is.40:18). And there is more. Historically, Satan's attacks on the doctrine of the Trinity – a teaching crucial to the integrity of our Christian faith – have focused on the three-fold sovereign *personality* of God and/or His *deity* in three persons. But this reality of divine, triune personality is precisely the point that all illustrations of the Trinity miss (of necessity, since there is nothing "like" the Trinity).
@@ -49,6 +53,10 @@ The number one objection to such illustrations is that God is divine, and since 
 <!-- --- -->
 
 ### An illustration from the early church: the Trinity "triangle" {#an-illustration-from-the-early-church-the-trinity-triangle}
+
+{{< subjects >}}
+Trinity > Illustrations > Trinity triangle
+{{< /subjects >}}
 
 This oldest of the Trinity illustrations is also in many ways the best, because the non-doctrinal point of comparison (i.e., the triangle) merely serves to organize visually the meaning imparted by the words: all three members of the Trinity are God ("*one in essence*"), yet they are distinct from each other ("*three in person*"):
 

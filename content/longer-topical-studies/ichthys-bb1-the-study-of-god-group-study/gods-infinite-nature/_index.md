@@ -6,7 +6,8 @@ playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcA
 ---
 
 {{< subjects >}}
-
+Infinity
+God > Is infinite in nature
 {{< /subjects >}}
 
 {{% section-navigation %}}
@@ -61,11 +62,20 @@ God's infinity – infinity in every way and according to any conceivable true s
 
 ### God is Spiritual {#god-is-spiritual}
 
+{{< subjects >}}
+God > Is spiritual
+Angels > Are subject to matter
+{{< /subjects >}}
+
 God's being transcends the physical universe. He is not limited or bounded by material issues or concerns. God is not subject to matter in any way. God is not made of matter – God created matter and employs it however He desires.
 
 <!-- --- -->
 
 #### If mankind is at present "a little lower than the angels", why do angels desire physical bodies like ours?
+
+{{< subjects >}}
+Fallen angels > Desire for physical bodies
+{{< /subjects >}}
 
 {{% note %}}
 This is a video-only section.
@@ -77,11 +87,19 @@ Compare Hebrews 2:6-8.
 
 ### God is Eternal {#god-is-eternal}
 
+{{< subjects >}}
+God > Is eternal
+{{< /subjects >}}
+
 God's being transcends time. He is not limited or bounded by temporal issues or concerns. God is not subject to time in any way. God is not constrained by time – God created time and employs it however He desires.
 
 <!-- --- -->
 
 #### Angels are subject to time
+
+{{< subjects >}}
+Angels > Are subject to time
+{{< /subjects >}}
 
 {{% note %}}
 This is a video-only section.
@@ -90,6 +108,10 @@ This is a video-only section.
 <!-- --- -->
 
 #### The relationship between future prophecy and the time continuum
+
+{{< subjects >}}
+Prophecy > mechanics of
+{{< /subjects >}}
 
 {{% note %}}
 This is a video-only section.
@@ -101,11 +123,20 @@ Put differently, were prophets actually transported into the future (i.e., pluck
 
 ### God is Immeasurable (in a spatial sense) {#god-is-immeasurable-in-a-spatial-sense}
 
+{{< subjects >}}
+God > Is immeasurable
+{{< /subjects >}}
+
 God's being transcends space. He is not limited or bounded by spatial issues or concerns. God is not subject to space in any way. God is not confined by space – God created space and employs it however He desires.
 
 <!-- --- -->
 
 ### God is Unique {#god-is-unique}
+
+{{< subjects >}}
+God > Is unique
+God > Is *de facto* ruler of the universe
+{{< /subjects >}}
 
 Uniqueness comes from God's infinite nature. No one else in the universe can reasonably be compared to Him. He is absolutely unique within His own creation, and therefore the one Person to whom all honor is due.
 
@@ -125,6 +156,10 @@ While we may not be properly able to fully grasp God's true nature since we are 
 
 ### God is Omnipotent {#god-is-omnipotent}
 
+{{< subjects >}}
+God > Is omnipotent
+{{< /subjects >}}
+
 God is all-powerful, irrespective of matter. He can effect anything He desires in the material realm, and nothing can transpire apart from His will. Therefore there is no deed (nor was there ever, nor will there ever be) which God is unable to do, small or great.
 
 <!-- --- -->
@@ -132,6 +167,10 @@ God is all-powerful, irrespective of matter. He can effect anything He desires i
 {{% sidenote %}}
 
 #### "Could God create a rock so big even He couldn't lift it?"
+
+{{< subjects >}}
+Apologetics
+{{< /subjects >}}
 
 You may have come across something like "So, could God create a rock so big even He couldn't lift it?" This is (supposedly) pitting two aspects of omnipotence against each other: God's ability to create anything He wishes *ex nihilo*, and God's strength.
 
@@ -149,11 +188,21 @@ My counsel would be to avoid all such nonsense. God can do "it", whatever "it" m
 
 ### God is Omniscient {#god-is-omniscient}
 
+{{< subjects >}}
+God > Is omniscient
+{{< /subjects >}}
+
 God is all-knowing, irrespective of time. He can effect anything He desires in the temporal realm. Therefore God knows (has always known, and always will know) everything, the end from the beginning. As the Everlasting One (Ps.90:2; 90:4), His knowledge of every event that ever has or will or even could occur within His creation is comprehensive and absolute.
 
 <!-- --- -->
 
 #### God's knowledge of hypotheticals
+
+{{< subjects >}}
+Omniscience > includes knowledge of hypotheticals
+Molinism
+Middle knowledge
+{{< /subjects >}}
 
 The "could occur" bit is important. God's knowledge of all possible hypotheticals is sometimes discussed in terms of so-called ["Molinism"](https://en.wikipedia.org/wiki/Molinism) and "middle knowledge". I prefer to discuss it independent from all the baggage there, however.
 
@@ -168,6 +217,10 @@ For now, you should mostly ignore the fact that some people have again put God i
 <!-- --- -->
 
 ### God is Omnipresent {#god-is-omnipresent}
+
+{{< subjects >}}
+God > Is omnipresent
+{{< /subjects >}}
 
 God is ever-present, irrespective of space. He can effect anything He desires in the spatial realm (Job 26:7). Therefore God has the ability (has always had, and always will have) to be anywhere and everywhere, local and universal.
 

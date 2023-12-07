@@ -5,7 +5,7 @@ layout: content-page
 ---
 
 {{< subjects >}}
-
+Trinity > All members fully and equally share status, activity, and substance
 {{< /subjects >}}
 
 {{% section-navigation %}}
@@ -42,6 +42,10 @@ This lesson's main focus is examining the point that God is *three* in person, b
 
 ### Key point: God is *three* in person, but that does *not* mean that there is any inferiority or disparity of status, activity, or substance between the members of the Trinity {#key-point-god-is-three-in-person-but-that-does-not-mean-that-there-is-any-inferiority-or-disparity-of-status-activity-or-substance-between-the-members-of-the-trinity}
 
+{{< subjects >}}
+Trinity > What it is not > A union with inferiority or disparity between members
+{{< /subjects >}}
+
 In any human association, there is always inherent inferiority and disparity present---in practice, if not perhaps on paper. People are separate beings, and these are the simple consequences of that. However, this is not the case for God; the Trinity shares completely perfect unity and equality.
 
 God is *one* in essence and all three members of the Trinity (the Father and the Son and the Holy Spirit) are coequal, coeternal, and con-substantial partners in one and the same essence. Heresies of the past which have challenged the coequality of members of the Trinity include subordinationism (which alternatively asserts that either Christ or the Spirit is by nature inferior to the Father) and Arianism (which teaches a Christ not entirely equal in divinity to the Father). But the Bible teaches that all three members of the Trinity are coequal partakers of the same essence.
@@ -49,6 +53,10 @@ God is *one* in essence and all three members of the Trinity (the Father and the
 <!-- --- -->
 
 #### They all possess a full and equal share of the *status* of deity {#they-all-possess-a-full-and-equal-share-of-the-status-of-deity}
+
+{{< subjects >}}
+Trinity > Share > Status of deity
+{{< /subjects >}}
 
 As seen from the equal rank accorded to each in the formula for profession of faith at the point of spiritual (*not* physical) baptism into the body of Christ:
 
@@ -60,6 +68,10 @@ Then Jesus came over and said to them, "All authority in heaven and on earth has
 
 #### They all possess a full and equal share of the *eternal function* of deity {#they-all-possess-a-full-and-equal-share-of-the-eternal-function-of-deity}
 
+{{< subjects >}}
+Trinity > Share > Eternal function of deity
+{{< /subjects >}}
+
 As seen from their joint participation in creation:
 
 {{% scripture-h p="Genesis 1:26" %}}
@@ -69,6 +81,10 @@ Then God said, "Let ***Us*** make man in ***Our*** image, according to ***Our***
 <!-- --- -->
 
 #### They all possess a full and equal share of the *substance* of deity {#they-all-possess-a-full-and-equal-share-of-the-substance-of-deity}
+
+{{< subjects >}}
+Trinity > Share > Substance of deity
+{{< /subjects >}}
 
 As seen from the attribution of goodness to all three members in the apostolic benediction of 2 Corinthians, where grace (the policy of the goodness of God), love (the natural consequence---or "emanation"---of the goodness of God), and fellowship (the ultimate result of the goodness of God) are respectively attributed to the Son, the Father, and the Holy Spirit:
 

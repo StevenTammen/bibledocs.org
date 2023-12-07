@@ -5,7 +5,7 @@ layout: content-page
 ---
 
 {{< subjects >}}
-
+Trinity > All members are deity
 {{< /subjects >}}
 
 {{% section-navigation %}}
@@ -50,6 +50,10 @@ We can better understand what the Trinity is by first considering what it is *no
 
 ### Key point: God is *one* in essence, but that does *not* mean that only one person of the Trinity is deity {#key-point-god-is-one-in-essence-but-that-does-not-mean-that-only-one-person-of-the-trinity-is-deity}
 
+{{< subjects >}}
+Trinity > What it is not > Only one member possessing divinity
+{{< /subjects >}}
+
 God is *three* in person, and all three persons of the Trinity (the Father, the Son, and the Holy Spirit) are divine. Heresies of the past which have challenged the divinity of members of the Trinity include adoptionism (asserting that Christ is the Son of God only in the sense of adoption), the Ebionite heresy (teaching that Christ had only a human nature empowered by God's Spirit), and Unitarianism (which asserts the uni-personality of God, denying the deity of Christ and the Holy Spirit).
 
 But the Bible teaches that all three members of the Trinity are deity. Compare: Is.63:9-14; Matt. 3:16-17; 28:19; Jn.14:16-17; 1Cor.12:4-6; 2Cor.13:14; Eph.4:4-6; 1Pet.1:1-2; Rev.1:4-6.
@@ -57,6 +61,10 @@ But the Bible teaches that all three members of the Trinity are deity. Compare: 
 <!-- --- -->
 
 #### The Father is God {#the-father-is-god}
+
+{{< subjects >}}
+Trinity > Divinity > Father
+{{< /subjects >}}
 
 See: Matt.6:9; 1Cor.8:6; Eph.3:14-15.
 
@@ -68,6 +76,10 @@ See: Matt.6:9; 1Cor.8:6; Eph.3:14-15.
 
 #### The Son is God {#the-son-is-god}
 
+{{< subjects >}}
+Trinity > Divinity > Son
+{{< /subjects >}}
+
 See: Jn.5:18; 10:30; 10:33; Rom.9:5; 1Cor.8:6; Col.2:9; Heb.1:3.
 
 {{% scripture-h p="John 1:1-2" %}}
@@ -77,6 +89,10 @@ The Word existed in the beginning: the Word was both present with the [Father] G
 <!-- --- -->
 
 #### The Holy Spirit is God {#the-holy-spirit-is-god}
+
+{{< subjects >}}
+Trinity > Divinity > Holy Spirit
+{{< /subjects >}}
 
 See: Gen.1:2; Ps.139:7; Acts 5:3-4; 1Cor.12:11; and compare Heb.3:7-11 with Ps.95:7-11 where the LORD is speaking.
 

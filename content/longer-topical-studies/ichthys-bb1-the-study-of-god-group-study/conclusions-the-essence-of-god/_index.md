@@ -52,6 +52,10 @@ We have been talking about the essence of God: His infinite nature and His perfe
 
 ### An overview in words {#an-overview-in-words}
 
+{{< subjects >}}
+Blood of Christ > Satisfies both God's love and God's justice
+{{< /subjects >}}
+
 God's goodness overflows with love, providing grace for sinful Man:  
 &emsp;though evil says a loving God can't condemn,  
 &emsp;He did condemn His Son that we might live,  
@@ -70,6 +74,10 @@ God's faithfulness and truth overflow in life, producing peace with God for sinf
 <!-- --- -->
 
 ### An overview in picture form {#an-overview-in-picture-form}
+
+{{< subjects >}}
+God > Essence
+{{< /subjects >}}
 
 ![Overall Summary of the Essence of God](https://ichthys.com/1Theo-summary.gif)
 

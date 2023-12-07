@@ -5,7 +5,7 @@ layout: content-page
 ---
 
 {{< subjects >}}
-
+Trinity > All members share the same essence
 {{< /subjects >}}
 
 {{% section-navigation %}}
@@ -42,11 +42,19 @@ This lesson's main focus is examining the point that God is *three* in person, b
 
 ### Key point: God is *three* in person, but that does *not* mean that the Trinity is composed of three (or more) different "gods" {#key-point-god-is-three-in-person-but-that-does-not-mean-that-the-trinity-is-composed-of-three-or-more-different-gods}
 
+{{< subjects >}}
+Trinity > What it is not > A pantheon
+{{< /subjects >}}
+
 God is *one* in essence, and all three members of the Trinity (the Father and the Son and the Holy Spirit) are the sole, joint partakers of that same essence rather than three similar beings of similar essence. All so-called Christian sects which elevate saints and angels to the status of divinity essentially belong to this heretical category (after the manner of pagan pantheons, which also possess numerous "deities" of lesser and greater rank). But the Bible teaches that all three members of the Trinity alone share the same unique essence:
 
 <!-- --- -->
 
 #### The Father is revealed to be uniquely God {#the-father-is-revealed-to-be-uniquely-god}
+
+{{< subjects >}}
+Trinity > Jointly partake in one single essence > Father
+{{< /subjects >}}
 
 {{% scripture-h p="Deuteronomy 4:35" %}}
 You were shown these things so as to know that the Lord, He is God, and there is no other besides Him.
@@ -55,6 +63,10 @@ You were shown these things so as to know that the Lord, He is God, and there is
 <!-- --- -->
 
 #### The Son and the Father are revealed to be uniquely God {#the-son-and-the-father-are-revealed-to-be-uniquely-god}
+
+{{< subjects >}}
+Trinity > Jointly partake in one single essence > Son
+{{< /subjects >}}
 
 {{% scripture-h p="John 10:30" %}}
 I and the Father are one.
@@ -68,6 +80,10 @@ Some things I'll add here in addition to this one verse Dr. Luginbill quoted, to
 <!-- --- -->
 
 #### The Holy Spirit and the Son and the Father are revealed to be uniquely God {#the-holy-spirit-and-the-son-and-the-father-are-revealed-to-be-uniquely-god}
+
+{{< subjects >}}
+Trinity > Jointly partake in one single essence > Holy Spirit
+{{< /subjects >}}
 
 {{% scripture-h p="John 14:16-17" %}}
 I will ask the Father, and He will give you another comforter to be with you forever – the Spirit of truth whom the world cannot receive, for it neither sees Him, nor knows Him. But you know Him, for He abides with you, and will be in you.
