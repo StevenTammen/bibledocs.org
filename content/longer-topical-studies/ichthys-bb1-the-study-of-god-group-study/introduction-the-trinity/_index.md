@@ -2,10 +2,11 @@
 title: Introduction - The Trinity
 weight: 50
 layout: content-page
+playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
 ---
 
 {{< subjects >}}
-Trinity > Definition
+<a href="/subject-index/#trinity-definition">Trinity > Definition</a>
 {{< /subjects >}}
 
 {{% section-navigation %}}
@@ -30,7 +31,14 @@ In this lesson, we are going to be starting an examination of a new topic in our
 
 ## Timestamps {#timestamps}
 
-
+0:00 - Intro and outline
+02:23 - The core definition of the Trinity: God is One in Essence, Three in Person
+09:42 - Is the terminology itself important in considering the development of this doctrine?
+&emsp;36:39 - Even at the time the Bible was written, there were already incipient challenges to the Trinity
+&emsp;38:30 - Not being able to fully understand the Trinity this side of heaven is a human universal equally applying to all
+&emsp;39:37 - Progressive revelation: The Trinity was veiled from believers in the Old Testament
+42:12 - Spelling it out a bit more
+44:03 - Summary and outro
 
 {{% content %}}
 
@@ -49,8 +57,8 @@ We will examine exactly what this statement means as we continue in our study, b
 ### Is the terminology itself important in considering the development of this doctrine? {#is-the-terminology-itself-important-in-considering-the-development-of-this-doctrine}
 
 {{< subjects >}}
-Trinity > Scripture alone is sufficient for establishing the teaching
-Trinity > The teaching existed before the word "Trinity" was used for it
+<a href="/subject-index/#trinity-scripture-alone-is-sufficient-for-establishing-the-teaching">Trinity > Scripture alone is sufficient for establishing the teaching</a>
+<a href="/subject-index/#trinity-the-teaching-existed-before-the-word-trinity-was-used-for-it">Trinity > The teaching existed before the word "Trinity" was used for it</a>
 {{< /subjects >}}
 
 In short, no. The Trinity has always been there in the Bible, for those willing to open their eyes and ears to the truth. How later people came to label the idea is in no way related to the fact that this concept has been there in scripture from day one.

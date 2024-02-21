@@ -2,10 +2,11 @@
 title: All Members of the Trinity Are Joint Partakers of the Same Essence
 weight: 90
 layout: content-page
+playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
 ---
 
 {{< subjects >}}
-Trinity > All members share the same essence
+<a href="/subject-index/#trinity-all-members-share-the-same-essence">Trinity > All members share the same essence</a>
 {{< /subjects >}}
 
 {{% section-navigation %}}
@@ -30,7 +31,13 @@ This lesson's main focus is examining the point that God is *three* in person, b
 
 ## Timestamps {#timestamps}
 
-
+0:00 - Intro and outline
+01:54 - Key point: God is *three* in person, but that does *not* mean that the Trinity is composed of three (or more) different "gods"
+&emsp;15:37 - The Father is revealed to be uniquely God
+&emsp;18:57 - The Son and the Father are revealed to be uniquely God
+&emsp;&emsp;24:06 - Regarding the notion of us being "small G gods", what words are used for such in the Greek and Hebrew?
+&emsp;30:32 - The Holy Spirit and the Son and the Father are revealed to be uniquely God
+41:24 - Summary and outro
 
 {{% content %}}
 
@@ -43,7 +50,7 @@ This lesson's main focus is examining the point that God is *three* in person, b
 ### Key point: God is *three* in person, but that does *not* mean that the Trinity is composed of three (or more) different "gods" {#key-point-god-is-three-in-person-but-that-does-not-mean-that-the-trinity-is-composed-of-three-or-more-different-gods}
 
 {{< subjects >}}
-Trinity > What it is not > A pantheon
+<a href="/subject-index/#trinity-what-it-is-not-a-pantheon">Trinity > What it is not > A pantheon</a>
 {{< /subjects >}}
 
 God is *one* in essence, and all three members of the Trinity (the Father and the Son and the Holy Spirit) are the sole, joint partakers of that same essence rather than three similar beings of similar essence. All so-called Christian sects which elevate saints and angels to the status of divinity essentially belong to this heretical category (after the manner of pagan pantheons, which also possess numerous "deities" of lesser and greater rank). But the Bible teaches that all three members of the Trinity alone share the same unique essence:
@@ -53,7 +60,7 @@ God is *one* in essence, and all three members of the Trinity (the Father and th
 #### The Father is revealed to be uniquely God {#the-father-is-revealed-to-be-uniquely-god}
 
 {{< subjects >}}
-Trinity > Jointly partake in one single essence > Father
+<a href="/subject-index/#trinity-jointly-partake-in-one-single-essence-father">Trinity > Jointly partake in one single essence > Father</a>
 {{< /subjects >}}
 
 {{% scripture-h p="Deuteronomy 4:35" %}}
@@ -65,7 +72,7 @@ You were shown these things so as to know that the Lord, He is God, and there is
 #### The Son and the Father are revealed to be uniquely God {#the-son-and-the-father-are-revealed-to-be-uniquely-god}
 
 {{< subjects >}}
-Trinity > Jointly partake in one single essence > Son
+<a href="/subject-index/#trinity-jointly-partake-in-one-single-essence-son">Trinity > Jointly partake in one single essence > Son</a>
 {{< /subjects >}}
 
 {{% scripture-h p="John 10:30" %}}
@@ -79,10 +86,18 @@ Some things I'll add here in addition to this one verse Dr. Luginbill quoted, to
 
 <!-- --- -->
 
+##### Regarding the notion of us being "small G gods", what words are used for such in the Greek and Hebrew? {#regarding-the-notion-of-us-being-small-g-gods-what-words-are-used-for-such-in-the-greek-and-hebrew}
+
+{{% note %}}
+This is a video-only section.
+{{% /note %}}
+
+<!-- --- -->
+
 #### The Holy Spirit and the Son and the Father are revealed to be uniquely God {#the-holy-spirit-and-the-son-and-the-father-are-revealed-to-be-uniquely-god}
 
 {{< subjects >}}
-Trinity > Jointly partake in one single essence > Holy Spirit
+<a href="/subject-index/#trinity-jointly-partake-in-one-single-essence-holy-spirit">Trinity > Jointly partake in one single essence > Holy Spirit</a>
 {{< /subjects >}}
 
 {{% scripture-h p="John 14:16-17" %}}

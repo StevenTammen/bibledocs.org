@@ -1,10 +1,10 @@
 ---
-title: Ichthys' BB6A Peripateology - The Christian Walk
+title: Group Study - Ichthys' BB6A Peripateology - The Study of the Christian Walk
 weight: 
 contentlevel: intermediate
 layout: aggregation-page
 summary: >-
-   This video series is a discussion-based group Bible study going through Bible Basics Part 6A (BB6A) on Ichthys, a study of the Christian walk—the path of spiritual growth and production that we must all walk as believers. The early recordings in this series were the very first video content that I ever recorded, and we were not particularly organized, because wider distribution was not at that point something I had in mind. All the lessons posted in this study on the website, however, correspond to the later videos in the series, once we started to become more organized and focused.
+   This video series is a discussion-based group Bible study going through Bible Basics Part 6A (BB6A) on Ichthys, a study of the Christian walk—the path of spiritual growth and production that we must all walk as believers. The early recordings in this series were the very first video content that I ever recorded, and we were not particularly organized, because wider distribution was not at that point something I had in mind. All the lessons posted in this study on the website, however, correspond to the later videos in the series, once we started to become (somewhat) more organized and focused.
 ---
 
 <!-- aggregate-page-content -->

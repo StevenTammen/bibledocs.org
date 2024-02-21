@@ -2,10 +2,11 @@
 title: Roles of the Trinity in the Plan of God
 weight: 120
 layout: content-page
+playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
 ---
 
 {{< subjects >}}
-Trinity > Roles
+<a href="/subject-index/#trinity-roles">Trinity > Roles</a>
 {{< /subjects >}}
 
 {{% section-navigation %}}
@@ -57,8 +58,8 @@ No potentially-misleading illustrations necessary
 ### The Names of the Trinity: Shared Names {#the-names-of-the-trinity-shared-names}
 
 {{< subjects >}}
-Trinity > Shared names > *Elohim*
-Trinity > Shared names > *Yahweh*
+<a href="/subject-index/#trinity-shared-names-elohim">Trinity > Shared names > *Elohim*</a>
+<a href="/subject-index/#trinity-shared-names-yahweh">Trinity > Shared names > *Yahweh*</a>
 {{< /subjects >}}
 
 Much can be understood about the Trinity through a consideration of the names by which they are revealed. Collectively, the Trinity refer to themselves as God. In the Old Testament, the Hebrew word for God, *'Elohim* (translated in the New Testament by the common Greek word for God, *theos*), is technically a plural of a word originally meaning "mighty one"; collectively then, the Trinity share this appellation, pluralized to express additional majesty.
@@ -78,7 +79,7 @@ Cf. the general concept of so-called *progressive revelation*. This is an excell
 #### The Father (the 1st Person of the Trinity) {#the-father-the-1st-person-of-the-trinity}
 
 {{< subjects >}}
-Trinity > Roles > Father
+<a href="/subject-index/#trinity-roles-father">Trinity > Roles > Father</a>
 {{< /subjects >}}
 
 *Origin*: The term for and idea of the Fatherhood of God, a designation well known from the New Testament, is also found in the Old Testament from the Pentateuch onward. The word Father is first used for God in Deuteronomy 32:6: "Is He not your Father? The One who bought you? He is the One who made you and established you." Later in verse 18 of the same chapter, God is referred to as "the Rock who fathered you". The concept of the fatherhood of God can also be seen at Exodus 4:22, where Israel is referred to as God's "firstborn son".
@@ -98,7 +99,7 @@ Being human, our earthly fathers had strengths and weaknesses, and despite their
 #### The Son (the 2nd Person of the Trinity) {#the-son-the-2nd-person-of-the-trinity}
 
 {{< subjects >}}
-Trinity > Roles > Son
+<a href="/subject-index/#trinity-roles-son">Trinity > Roles > Son</a>
 {{< /subjects >}}
 
 *Origin*: Along with the holy angels (Job 38:7 [not NIV]), we believers are all "sons" of God (Rom.8:14; Gal.3:26; 4:5; cf. Jn.1:12; 1Jn.3:1-2). This widespread franchise of sonship is based upon the paternal position of the Father relative to all His obedient creatures, but there is only one "*the* Son of God (our Lord, Jesus Christ)".
@@ -125,7 +126,7 @@ A son (especially a king's son) is often more accessible than a father. The role
 #### The Holy Spirit (the 3rd Person of the Trinity) {#the-holy-spirit-the-3rd-person-of-the-trinity}
 
 {{< subjects >}}
-Trinity > Roles > Holy Spirit
+<a href="/subject-index/#trinity-roles-holy-spirit">Trinity > Roles > Holy Spirit</a>
 {{< /subjects >}}
 
 *Origin*: From the first chapter of the Old Testament (Gen.1:2), to the closing chapter of the New Testament (Rev.22:17), the word "spirit" is used to refer to God the Holy Spirit. The Hebrew and Greek words for "spirit", *ruach* and *pneuma* respectively, have the core meaning of "wind" or "breeze", and, again, there are important points to be garnered from the name analogy.
@@ -143,7 +144,7 @@ Trinity > Roles > Holy Spirit
 #### Note: Analogies Are Just Analogies, and Nothing More {#note-analogies-are-just-analogies-and-nothing-more}
 
 {{< subjects >}}
-Interpretation > Not pushing analogies too far
+<a href="/subject-index/#interpretation-not-pushing-analogies-too-far">Interpretation > Not pushing analogies too far</a>
 {{< /subjects >}}
 
 As should be clear from the discussion above, the names Father, Son, and Spirit are thus representative of the Trinity's individual roles in the plan of God for mankind, and have been given to help us understand the relationships and functions of the three divine personalities in that plan.

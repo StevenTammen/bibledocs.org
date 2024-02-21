@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Slides</title>
+  <meta charset="utf-8">
+  <link
+  rel="stylesheet"
+  href="https://unpkg.com/littlefoot/dist/littlefoot.css"
+/>
+  <style>
+   @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+   @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+   body { 
+    font-family: 'Georgia';
+   }
+
+   ::selection{
+    background-color: #fff6bd;
+   }
+
+   h1, h2, h3, h4, h5, h6 {
+    font-family: 'Verdana';
+    font-weight: bold;
+   }
+
+   h2 {
+    display: block;
+    font-size: 30px !important;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+   }
+
+   /* Style most headers the same across slides, for visual consistency */
+   h3, h4, h5, h6 {
+    display: block;
+    font-size: 18px !important;
+    margin-block-start: 1.2em;
+    margin-block-end: 1.2em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+   }
+
+   /*
+    Don't need extra padding when headers aren't in a special content section
+    with the special content section name in a strong tag (when the header is
+    the very first thing in the sepcial content section div). Too much space otherwise
+   */
+   .special-content h3:first-child,
+   .special-content h4:first-child,
+   .special-content h5:first-child,
+   .special-content h6:first-child
+    {
+      margin-top: 0px;
+    }
+
+   .remark-code, .remark-inline-code {
+    font-family: 'Ubuntu Mono';
+   }
+   
+   .footer {
+    position: absolute;
+    bottom: 5px;
+    right: 50px;
+    height: 40px;
+    width: 800px;
+    color: #006400;
+   }
+
+   a {
+    color: #3b8bba;
+    text-decoration: none;
+  }
+
+  table, th, td {
+    border: 1px solid black;
+  }
+
+  /* Special content sections */
+
+  .special-content {
+    border-radius: 5px;
+    padding: 20px 10px 20px 10px;
+  }
+
+  .special-content >  .special-content {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .special-content > strong {
+    display: block;
+    text-align: center;
+    border-bottom: 1px solid black;
+    margin-top: -15px;
+  }
+
+  .special-content.cautionary-note {
+    background: #ffe6e6;
+  }
+
+  .special-content.technical-discussion {
+    background: #ffe0cc;
+  }
+
+  .special-content.sidenote {
+    background: #fffae6;
+  }
+
+  .special-content.application {
+    background: #ebfaeb;
+  }
+
+  .special-content.note {
+	  background: #e6ffff
+  }
+
+  .special-content.indirect-reasoning {
+    background: #e6f5ff;
+  }
+
+  .special-content.example {
+    background: #f2e6ff;
+  }
+
+  .special-content.post-hoc-note {
+    background: #ffe6f2;
+  }
+
+  .special-content.quote {
+    background: #e6e6e6;
+  }
+
+  .special-content.scripture {
+    background: #f2e6d9;
+  }
+
+
+  /* Littlefoot footnotes */
+
+  .littlefoot__button {
+    background-color: #dddddd;
+    color: #777777;
+    height: 1rem;
+    padding: 0rem 0.8rem;
+    margin: 0rem 0.1rem;
+    border: none;
+    border-radius: 10px;
+    vertical-align: middle;
+    display: inline-flex;
+    align-items: center; 
+  }
+  </style>
+	<script>
+		var refTagger = {
+			settings: {
+				addLogosLink: true,
+				bibleVersion: "NASB",
+				convertHyperlinks: true,
+				logosLinkIcon: "light",			
+				socialSharing: [],
+				tagChapters: true
+			}
+		};
+	</script>
+ </head>
+ <body>
+  <textarea id="source">
+
+class: center, middle
+
+## Through 11/6/22
+
+
+
+---
+
+
+### Summary
+
+This cycle I worked some on organizing content pages/videos and discussion pages/videos for the first three lessons in the SR4 series. I also spent some time doing more things to improve my workflow in various ways, all with that hope that these things will set me up for success in the long term.
+---
+
+
+#### Outline
+
+- [Optimize my desk/cubicle environment at work for getting ministry things done over my lunch hour](#3)
+- [Set up audio normalization](#4)
+- [Ordered additional things to hopefully help improve video recording quality even more moving forward](#5)
+- [Made some progress organizing things for the first 3 lessons in the SR4 series](#6)
+- [Upcoming work](#7)
+
+---
+
+
+### Optimize my desk/cubicle environment at work for getting ministry things done over my lunch hour
+
+- Got rid of old monitors and the old keyboard and mouse setup for an admin work laptop that I use infrequently (frees up lots more space on my desk at work). Cleaned off desk thoroughly (wiped it down, got rid of dust, etc.).
+- Assembled the entire portable dual monitor setup, including my own trackball and keyboard. Will just leave everything there for now, but any weekends I plan to work in the library, I'll pack it up at the end of my last in-person day for the week and bring it home with me.
+- Set up humidifier at work
+- Bought and set up a [folding wall](https://www.amazon.com/dp/B0135AV5XC) to block my cubicle off completely when I am on my lunch break (so I don't get interrupted as much when I am trying to *not* be on-the-clock)
+- Worked over my full lunch break a couple days, and am happy with the improvements in productivity from all of this.
+- Soon, I will also start paying for an unlimited phone data plan so that I can have internet at work too (I am not allowed to connect my personal computer to the secure work network, which makes sense). This will further boost productivity, obviously, since not being able to do this (for fear of running out of the finite data on my current plan) has thus far prevented me from using my phone hotspot to have internet access when I work over lunch... which is a pretty serious disadvantage. I'll upgrade to unlimited data when I replace my ~5 year old phone in several week's time.
+
+---
+
+
+### Set up audio normalization
+
+- Set up and started using audio normalization to the EBU R128 standard. Ensures that all my videos will end up at the same final volume, basically.
+- I am doing this mostly to ensure that none of the videos are too quiet. Since YouTube won't ever "boost" the volume of the videos you upload, although it might automatically turn down the volume during its processing step if it perceives your videos are far too loud. Apparently.
+
+---
+
+
+### Ordered additional things to hopefully help improve video recording quality even more moving forward
+
+- Basically, switching all the settings and stuff back and forth between using my GoPro hooked up to my computer as a webcam on a tripod and using it in portable form (= battery powered, no cords, saving to SD card = what it was more designed for) is time inefficient. Plugging and unplugging everything and converting it between the two types of recording is a hassle that wouldn't otherwise need to be there.
+- Also, even though I've been fiddling with it for a good while already, the video quality when using the GoPro as a webcam just doesn't seem to end up nearly as good as I'd like. Shooting outside with lots of light works great (again, kind of what it was designed for), but it just doesn't seem to handle inside shooting very well, no matter what I try. It doesn't have any specific software processing features for dealing with low light.
+- So I decided to buy a dedicated webcam to keep hooked up to my computer all the time. That way I won't have to deal with the hassle of setting something up every time I want to record (or at least every time I am switching from having the GoPro in "mobile mode"), and since webcams are kind of designed for inside light conditions and advertised as handling low-light well out-of-the-box due to fancy software correction or whatever, I'm hopeful the video quality will be a lot better.
+- I also got a teleprompter, which I can start using with transcripts I draft for content, a ring light to get better inside lighting when recording, and another piece of acrylic to use as the base for my standing assembly (I need a second level to put the teleprompter and webcam on (at eye level), as the lower level will have my keyboard and trackball)
+
+---
+
+
+### Ordered additional things to hopefully help improve video recording quality even more moving forward
+
+Here's the basic list of purchases:
+
+- [Webcam](https://www.amazon.com/gp/product/B01LXCDPPK/)
+- [Teleprompter](https://www.amazon.com/gp/product/B08DKG2ZFG/)
+- [Ring light](https://www.amazon.com/gp/product/B095741MZS/)
+- [Acrylic base](https://www.amazon.com/gp/product/B07KCYC7K7/)
+
+I will report back once I have it all set up (right now I just have the webcam and ring light set up).
+
+You can judge the quality improvements for yourself, given that this video right now is being recorded with the new webcam and ring light. I think it looks a lot better, and am happy with the investments.
+
+---
+
+
+### Made some progress organizing things for the first 3 lessons in the SR4 series
+
+- My attention has been split a good bit this cycle (there was a termite inspection I had to set up and deal with, for example) so I have not made as much progress as I would have wanted, but I did subject-tag three discussion pages and a content page in the SR4 series -- finishing most of the legwork for organizing the first three lessons in the series.
+- Because I haven't completely finalized everything yet for these lessons, nothing has gone live on the site. (And so too with the documentation for discussion pages).
+
+---
+
+
+### Upcoming work
+
+- Unfortunately, I am anticipating that I probably won't make tons of forward ministry progress in the next cycle.
+  - I will have a new phone to set up -- I'm anticipating that making sure I have all my apps on the new phone and have everything set up properly and so on will take a good chunk of my time, for a couple days at least.
+  - I also have held off on recording a couple weeks of my daily progress summaries in anticipation of the new recording setup (dedicated webcam + ring light, etc.), so will have many video recordings to catch up on there.
+- However, my overall "next step" goals haven't really changed since last time. The plan is still to finish organizing all the content pages/discussion pages in the SR4 series through the third lesson, then finish the documentation for discussion pages, then finish the organization for content pages and discussion pages for the seven or so other lessons in the series, at which point I'll be done with Phase II in my plan.
+
+
+
+
+<!-- Footnote List -->
+<div class="footnotes">
+<ol>
+
+  </ol>
+</div>
+  
+
+---
+
+
+#### Outline
+
+- [Optimize my desk/cubicle environment at work for getting ministry things done over my lunch hour](#3)
+- [Set up audio normalization](#4)
+- [Ordered additional things to hopefully help improve video recording quality even more moving forward](#5)
+- [Made some progress organizing things for the first 3 lessons in the SR4 series](#6)
+- [Upcoming work](#7)
+
+
+
+  </textarea>
+  <script src="https://remarkjs.com/downloads/remark-latest.min.js">
+  </script>
+  <script>
+   var slideshow = remark.create({ ratio: "16:9" });
+  </script>
+<script
+src="https://unpkg.com/littlefoot/dist/littlefoot.js"
+type="application/javascript"
+></script>
+<script type="application/javascript"> littlefoot.default({
+    activateOnHover: true,
+    dismissOnUnhover: true,
+    hoverDelay: 200,
+    buttonTemplate: `
+    <button
+    aria-label="Footnote <% number %>"
+    class="littlefoot__button"
+    id="<% reference %>"
+    />
+    <% number %>
+    </button>
+    `,
+  }) </script>
+  <!-- RefTagger -->
+  <script>
+    var refTagger = {
+      settings: {
+        bibleVersion: "NASB",
+        convertHyperlinks: false,		
+        roundCorners: true,
+        socialSharing: [],
+        tagChapters: true
+      } 
+    };
+    
+    (function(d, t) { 
+      var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; 
+      g.src = 'https://api.reftagger.com/v2/RefTagger.js'; 
+      s.parentNode.insertBefore(g, s); 
+    }(document, 'script'));
+  </script>
+ </body>
+</html>

@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Slides</title>
+  <meta charset="utf-8">
+  <link
+  rel="stylesheet"
+  href="https://unpkg.com/littlefoot/dist/littlefoot.css"
+/>
+  <style>
+   @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+   @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+   body { 
+    font-family: 'Georgia';
+   }
+
+   ::selection{
+    background-color: #fff6bd;
+   }
+
+   h1, h2, h3, h4, h5, h6 {
+    font-family: 'Verdana';
+    font-weight: bold;
+   }
+
+   h2 {
+    display: block;
+    font-size: 30px !important;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+   }
+
+   /* Style most headers the same across slides, for visual consistency */
+   h3, h4, h5, h6 {
+    display: block;
+    font-size: 18px !important;
+    margin-block-start: 1.2em;
+    margin-block-end: 1.2em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+   }
+
+   /*
+    Don't need extra padding when headers aren't in a special content section
+    with the special content section name in a strong tag (when the header is
+    the very first thing in the sepcial content section div). Too much space otherwise
+   */
+   .special-content h3:first-child,
+   .special-content h4:first-child,
+   .special-content h5:first-child,
+   .special-content h6:first-child
+    {
+      margin-top: 0px;
+    }
+
+   .remark-code, .remark-inline-code {
+    font-family: 'Ubuntu Mono';
+   }
+   
+   .footer {
+    position: absolute;
+    bottom: 5px;
+    right: 50px;
+    height: 40px;
+    width: 800px;
+    color: #006400;
+   }
+
+   a {
+    color: #3b8bba;
+    text-decoration: none;
+  }
+
+  table, th, td {
+    border: 1px solid black;
+  }
+
+  /* Special content sections */
+
+  .special-content {
+    border-radius: 5px;
+    padding: 20px 10px 20px 10px;
+  }
+
+  .special-content >  .special-content {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .special-content > strong {
+    display: block;
+    text-align: center;
+    border-bottom: 1px solid black;
+    margin-top: -15px;
+  }
+
+  .special-content.cautionary-note {
+    background: #ffe6e6;
+  }
+
+  .special-content.technical-discussion {
+    background: #ffe0cc;
+  }
+
+  .special-content.sidenote {
+    background: #fffae6;
+  }
+
+  .special-content.application {
+    background: #ebfaeb;
+  }
+
+  .special-content.note {
+	  background: #e6ffff
+  }
+
+  .special-content.indirect-reasoning {
+    background: #e6f5ff;
+  }
+
+  .special-content.example {
+    background: #f2e6ff;
+  }
+
+  .special-content.post-hoc-note {
+    background: #ffe6f2;
+  }
+
+  .special-content.quote {
+    background: #e6e6e6;
+  }
+
+  .special-content.scripture {
+    background: #f2e6d9;
+  }
+
+
+  /* Littlefoot footnotes */
+
+  .littlefoot__button {
+    background-color: #dddddd;
+    color: #777777;
+    height: 1rem;
+    padding: 0rem 0.8rem;
+    margin: 0rem 0.1rem;
+    border: none;
+    border-radius: 10px;
+    vertical-align: middle;
+    display: inline-flex;
+    align-items: center; 
+  }
+  </style>
+	<script>
+		var refTagger = {
+			settings: {
+				addLogosLink: true,
+				bibleVersion: "NASB",
+				convertHyperlinks: true,
+				logosLinkIcon: "light",			
+				socialSharing: [],
+				tagChapters: true
+			}
+		};
+	</script>
+ </head>
+ <body>
+  <textarea id="source">
+
+class: center, middle
+
+## Through 2/21/23
+
+
+
+---
+
+
+### Summary
+
+This cycle ran long on account of me being busy getting set up and established at some local church fellowships. That said, I got 16 (!) new content pages up on the site, making this the biggest content release since the beginning of this ministry. I'll see if I can keep up the pace as we move forward into the future. Prayers appreciated!
+---
+
+
+#### Outline
+
+- [Making these updates only as more content accumulates](#3)
+- [Squashed some bugs/made some framework improvements](#4)
+- [Got established at some local church fellowships](#5)
+- [New content](#6)
+- [Week 1: Does the Voice Agree with the Bible?](#7)
+- [Week 2: Does the Voice Bring Conviction?](#8)
+- [Week 3: Does the Voice Call You to Trust God?](#9)
+- [Week 4: Does the Voice Align with God's Character?](#10)
+- [Week 5: Does the Voice Honor God?](#11)
+- [Upcoming work](#12)
+
+---
+
+
+### Making these updates only as more content accumulates
+
+For the first while here, I had been making these ministry updates every two weeks. The last couple dragged a bit, as I hadn't at that time had enough new content to really make them particularly interesting.
+
+On that account, I decided to only make these once I have enough content accumulate for me to be able to do interesting updates. In principle, now that I'm truly entering production mode, this will probably end up back at right around every two weeks again (making this ~5 week gap an anomaly).
+
+The reason why this latest update has been so slow in coming was because I was busy getting involved with some local fellowships, and then fleshing out the framework for me to write content relating to said fellowships. More on that later in the update.
+
+I'm also going to try to make the progress update emails and posts on social media a bit less formulaic. Hopefully switching things up here and there will make it more engaging.
+
+---
+
+
+### Squashed some bugs/made some framework improvements
+
+- Updated z-index of TOC sidebar to ensure that footnotes display over it, whenever applicable.
+- Fixed a bug on [this page](https://www.bibledocs.org/questions-and-answers/self-generated/on-the-office-of-pastor-teacher-and-church-polity/additional-clarification-and-other-offices-in-the-church/). I had previously named the headers for the five subquestions and subanswers the same thing, causing the scrollspy behavior in the TOC to behave strangely.
+- Fixed a bug in the preprocessor application wherein links in the subject index were getting added twice/duplicated: once for a discussion page itself (as is proper), and a second time when the discussion page got aggregated onto a content page (which is not proper).
+- Fixed a bug in the preprocessor application related to studies that only have a single page, rather than a series of pages. I added conditionals and such throughout the processing to make it so that such single-page studies are properly processed too.
+- Fixed an issue where Step Bible App iframes were causing the parent page to jump all over the place as they loaded, probably due to an update upstream of me with their API. I added some delay before they are shown, to let them fully load and do their worst in the way of scroll-stealing before I make them visible. This seems to have fixed it quite nicely.
+- Changed the styling of scripture-related special content sections. I made them transparent (as opposed to the light brown they had been), but added a 1px solid black border. I think the new style looks quite nice.
+
+---
+
+
+### Got established at some local church fellowships
+
+I've started going to a Sunday school class on Sunday mornings, as well as a Bible study on Wednesday nights.
+
+As I get more involved, a good bit of my production will probably shift into things relating to these groups, at least for the time being.
+
+---
+
+
+### New content
+
+There is quite a lot this time (a full 16 new pages, to my count!), so we'll go through it bit by bit.
+
+The study that the Sunday school class I've been attending has been going through is about how to discern the voice of God. In the Wednesday night Bible study, we are in Jeremiah at the moment.
+
+I haven't started any writing of my own for the Jeremiah study yet, but plan to this week. I have, however written quite a lot relating to the Sunday school study.
+
+---
+
+
+### Week 1: Does the Voice Agree with the Bible?
+
+- [Link to page](https://www.bibledocs.org/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-agree-with-the-bible/)
+- [Link to discussion page: The Bible Is How We Know What Is from God](https://www.bibledocs.org/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-agree-with-the-bible/the-bible-is-how-we-know-what-is-from-god/)
+- [Link to discussion page: Satan Is the Serpent of Genesis 3](https://www.bibledocs.org/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-agree-with-the-bible/satan-is-the-serpent-of-genesis-3/)
+
+---
+
+
+### Week 2: Does the Voice Bring Conviction?
+
+- [Link to page](https://www.bibledocs.org/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-bring-conviction/)
+- [Link to discussion page: On the Human Capacity for Self-Deception](https://www.bibledocs.org/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-bring-conviction/on-the-human-capacity-for-self-deception/)
+- [Link to discussion page: We Ought Not Have Unrealistic Expectations about Spiritual Conviction](https://www.bibledocs.org/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-bring-conviction/we-ought-not-have-unrealistic-expectations-about-spiritual-conviction/)
+- [Link to discussion page: The Momentousness of Acts 2](https://www.bibledocs.org/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-bring-conviction/the-momentousness-of-acts-2/)
+- [Link to discussion page: Conviction Is Not Based upon Emotion, but upon the Truth](https://www.bibledocs.org/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-bring-conviction/conviction-is-not-based-upon-emotion-but-upon-the-truth/)
+
+---
+
+
+### Week 3: Does the Voice Call You to Trust God?
+
+- [Link to page](https://www.bibledocs.org/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-call-you-to-trust-god/)
+- [Link to discussion page: Faith Is Not Irrational](https://www.bibledocs.org/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-call-you-to-trust-god/faith-is-not-irrational/)
+
+---
+
+
+### Week 4: Does the Voice Align with God's Character?
+
+- [Link to page](https://www.bibledocs.org/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-align-with-gods-character/)
+- [Link to discussion page: Did Moses Do Wrong in Throwing the First Set of Tablets?](https://www.bibledocs.org/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-align-with-gods-character/did-moses-do-wrong-in-throwing-the-first-set-of-tablets/)
+  - [Link to a new related Q&A: On the Emotion of Anger](https://www.bibledocs.org/questions-and-answers/reader-correspondence/on-the-emotion-of-anger/)
+  - [Link to another new related Q&A: Does Ephesians 4:26 Teach That There Is a Form of Righteous Anger?](https://www.bibledocs.org/questions-and-answers/self-generated/does-ephesians-4-26-teach-that-there-is-a-form-of-righteous-anger/)
+- [Link to discussion page: What Is Going on in Exodus 34:27-28?](https://www.bibledocs.org/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-align-with-gods-character/what-is-going-on-in-exodus-34-27-28/)
+
+---
+
+
+### Week 5: Does the Voice Honor God?
+
+- [Link to page](https://www.bibledocs.org/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-honor-god/)
+
+---
+
+
+### Upcoming work
+
+- In addition to continuing work on stuff related to the Sunday school study, I hope to start getting some stuff up related to the Jeremiah Bible study as well, week by week.
+
+
+
+
+<!-- Footnote List -->
+<div class="footnotes">
+<ol>
+
+  </ol>
+</div>
+  
+
+---
+
+
+#### Outline
+
+- [Making these updates only as more content accumulates](#3)
+- [Squashed some bugs/made some framework improvements](#4)
+- [Got established at some local church fellowships](#5)
+- [New content](#6)
+- [Week 1: Does the Voice Agree with the Bible?](#7)
+- [Week 2: Does the Voice Bring Conviction?](#8)
+- [Week 3: Does the Voice Call You to Trust God?](#9)
+- [Week 4: Does the Voice Align with God's Character?](#10)
+- [Week 5: Does the Voice Honor God?](#11)
+- [Upcoming work](#12)
+
+
+
+  </textarea>
+  <script src="https://remarkjs.com/downloads/remark-latest.min.js">
+  </script>
+  <script>
+   var slideshow = remark.create({ ratio: "16:9" });
+  </script>
+<script
+src="https://unpkg.com/littlefoot/dist/littlefoot.js"
+type="application/javascript"
+></script>
+<script type="application/javascript"> littlefoot.default({
+    activateOnHover: true,
+    dismissOnUnhover: true,
+    hoverDelay: 200,
+    buttonTemplate: `
+    <button
+    aria-label="Footnote <% number %>"
+    class="littlefoot__button"
+    id="<% reference %>"
+    />
+    <% number %>
+    </button>
+    `,
+  }) </script>
+  <!-- RefTagger -->
+  <script>
+    var refTagger = {
+      settings: {
+        bibleVersion: "NASB",
+        convertHyperlinks: false,		
+        roundCorners: true,
+        socialSharing: [],
+        tagChapters: true
+      } 
+    };
+    
+    (function(d, t) { 
+      var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; 
+      g.src = 'https://api.reftagger.com/v2/RefTagger.js'; 
+      s.parentNode.insertBefore(g, s); 
+    }(document, 'script'));
+  </script>
+ </body>
+</html>

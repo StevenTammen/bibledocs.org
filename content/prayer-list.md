@@ -21,15 +21,10 @@ I have organized the prayer list into various sections based on commonalities (a
 ## Prayer list
 
 
-### Higher priority requests
-
-- Comfort and encouragement for M., who lost her husband in his 50s to cancer.
-- Healing for Mrs. O.
-
 ### Contemporary wider issues
 
-- For the conflict in the Ukraine -- all those displaced and harmed by the war.
-- For those who have suffered and are suffering as a result of recent economic hiccups: the lousy stock market, inflation, high mortgage rates, and so on.
+- For the conflicts in Russia/Ukraine and Israel/Gaza---for all those displaced and harmed by the wars.
+- For those who have suffered and are suffering as a result of recent economic hiccups: inflation, high mortgage rates, and so on.
 - For persecuted believers in Afghanistan.
 
 ### Ministries
@@ -37,21 +32,34 @@ I have organized the prayer list into various sections based on commonalities (a
 - For this ministry, BibleDocs, and my own dedication and focus.
 - For [Ichthys](https://ichthys.com/) and Dr. Robert Luginbill.
 - For [Bible Academy](https://www.youtube.com/channel/UCkp-J7VPT7NcwmuiNfD2fkg/playlists) and Pastor Curt Omo.
-- For our brothers and sisters who are presently engaging in ministry overseas (or have a recurring focus on such): [Evan and Jodi in Germany](https://evanandjodi.wordpress.com/), [Sandy and Finn (and others) in China](https://www.evergreenchina.net/press/history/), Ruth and Jeff in Indonesia, and others.
+- For [Bible Driven](https://www.bibledriven.org/) and Jordan Bomberger
+- For our brothers and sisters who are presently engaging in ministry overseas (or have a recurring focus on such): [Evan and Jodi in Germany](https://evanandjodi.wordpress.com/), [Evergreen in China](https://www.evergreenchina.net/press/history/), Ruth and Jeff in Indonesia, and others.
 - For our other brothers and sisters preparing for and engaging in ministry: Odii, Jordan, Abby, Jacob, Ryan, Garret, Justin, and others.
 
 ### Health
 
-- For the health and comfort of C., and for her caretakers. Alzheimer's is a very difficult disease to bear for all parties involved.
+- For {Michelle's|M.'s} close friend, who is battling cancer
+- For {Ryan Shelley|R.}, recovering from a double hip replacement
+- For Alice
+
+### Comfort
+
+- For {Michelle's|M.'s} relatives coping with the death of wife and and mother---for the husband and young daughter left behind
+- For M., who lost her husband to cancer
+- For M. and L., who lost their mom to early-onset Alzheimer's
 
 ### Safety
 
-- For the safety of Odii and his fiancée in their occasionally dangerous and unstable living circumstances.
+- For the safety of Odii, his wife, and their baby daughter in their occasionally dangerous and unstable living circumstances.
 
 ### School and work
 
-- For S. and S. in their programs of study and academic circumstances.
+- For M. and family, dealing with the sudden loss of a job. That provision from their small business would see them through, even without the other job.
+- For J., for provision for him and his mother
+- For L., homeschooling her grandchildren. For guidance, wisdom, and peace
+- For S., in balancing teaching and research and stress levels
+- For S., in figuring out what path to take, and what God is calling her to
 - For Odii's successful employment. That opportunities would work out and financial provision from his work would increase.
-- For Jordan: job stuff generally
+- For Jordan's job
 
 <!-- ### Other -->

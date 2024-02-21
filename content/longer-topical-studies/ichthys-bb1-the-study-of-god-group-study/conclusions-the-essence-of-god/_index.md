@@ -2,6 +2,7 @@
 title: Conclusions - The Essence of God
 weight: 40
 layout: content-page
+playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
 ---
 
 {{< subjects >}}
@@ -30,7 +31,10 @@ In this lesson, we are going to be summarizing what we've done in the last sever
 
 ## Timestamps {#timestamps}
 
-
+0:00 - Intro and outline
+00:51 - A reminder of what we've been going over
+05:50 - An overview in words
+08:03 - An overview in picture form
 
 {{% content %}}
 
@@ -53,7 +57,7 @@ We have been talking about the essence of God: His infinite nature and His perfe
 ### An overview in words {#an-overview-in-words}
 
 {{< subjects >}}
-Blood of Christ > Satisfies both God's love and God's justice
+<a href="/subject-index/#blood-of-christ-satisfies-both-god-s-love-and-god-s-justice">Blood of Christ > Satisfies both God's love and God's justice</a>
 {{< /subjects >}}
 
 God's goodness overflows with love, providing grace for sinful Man:  
@@ -76,7 +80,7 @@ God's faithfulness and truth overflow in life, producing peace with God for sinf
 ### An overview in picture form {#an-overview-in-picture-form}
 
 {{< subjects >}}
-God > Essence
+<a href="/subject-index/#god-essence">God > Essence</a>
 {{< /subjects >}}
 
 ![Overall Summary of the Essence of God](https://ichthys.com/1Theo-summary.gif)

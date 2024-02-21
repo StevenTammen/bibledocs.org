@@ -1,5 +1,5 @@
 ---
-title: Ichthys' BB1 Theology - The Study of God
+title: Group Study - Ichthys' BB1 Theology - The Study of God
 weight: 
 contentlevel: intermediate
 layout: aggregation-page
@@ -11,7 +11,7 @@ summary: >-
 
 ## [Introduction - The Essence of God](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-essence-of-god) {#introduction-the-essence-of-god}
 {{< subjects >}}
-
+<a href="/subject-index/#god-essence">God > Essence</a>
 {{< /subjects >}}
 
 
@@ -55,6 +55,12 @@ In this lesson, we are going to be kicking off our new study of BB1: Theology on
 
 #### The essence of God is being. He is the Great I AM {#introduction-the-essence-of-god-the-essence-of-god-is-being-he-is-the-great-i-am}
 
+{{< subjects >}}
+<a href="/subject-index/#tetragrammaton">Tetragrammaton</a>
+<a href="/subject-index/#god-name-of-god">God > Name of God</a>
+<a href="/subject-index/#god-externality-to-spacetime">God > Externality to spacetime</a>
+{{< /subjects >}}
+
 The essence of something is what it really is. "Essence" and "being" are precise synonyms.
 
 God tells us who He is in Exodus 3:14-15.
@@ -67,6 +73,11 @@ Unbelievers scoff at that logic, but it is what the Bible says.
 
 #### The resplendence of God: light and glory {#introduction-the-essence-of-god-the-resplendence-of-god-light-and-glory}
 
+{{< subjects >}}
+<a href="/subject-index/#god-resplendence-unapproachable-light">God > Resplendence > Unapproachable light</a>
+<a href="/subject-index/#god-resplendence-glory">God > Resplendence > Glory</a>
+{{< /subjects >}}
+
 Loosely speaking, light captures the sense that God is sublime and unapproachable (compare squinting at the sun, being blinded by it), while glory represents the side that shines forth visibly to mankind.
 
 God's glory is most directly revealed to mankind through His Son, Jesus Christ. As Hebrews 1:1-3 makes clear.
@@ -74,6 +85,10 @@ God's glory is most directly revealed to mankind through His Son, Jesus Christ. 
 <!-- --- -->
 
 ##### Q: 1 Timothy 6:16 talks about God's unapproachable light. It also says God alone possess immortality. What does that latter statement mean? {#introduction-the-essence-of-god-q-1-timothy-6-16-talks-about-god-s-unapproachable-light-it-also-says-god-alone-possess-immortality-what-does-that-latter-statement-mean}
+
+{{< subjects >}}
+<a href="/subject-index/#god-immortality-antithesis-of-death">God > Immortality > Antithesis of death</a>
+{{< /subjects >}}
 
 {{% note %}}
 This is a video-only section.
@@ -87,6 +102,12 @@ Is it that God *owns* immortality, but that he gives it to us creatures such tha
 
 ##### Q: We say God dwells in this unapproachable light that no one has seen nor ever can see. What then of cases in scripture where people seem to have "seen God?" {#introduction-the-essence-of-god-q-we-say-god-dwells-in-this-unapproachable-light-that-no-one-has-seen-nor-ever-can-see-what-then-of-cases-in-scripture-where-people-seem-to-have-seen-god}
 
+{{< subjects >}}
+<a href="/subject-index/#theophany">Theophany</a>
+<a href="/subject-index/#christophany">Christophany</a>
+<a href="/subject-index/#no-man-may-see-god-and-live">No man may see God and live</a>
+{{< /subjects >}}
+
 {{% note %}}
 This is a video-only section.
 {{% /note %}}
@@ -96,6 +117,11 @@ Did Moses not see this light upon Mount Sinai? What about the Apostles present o
 <!-- --- -->
 
 ##### Comment: God's glory as it relates to "every knee will bow, and every tongue confess" {#introduction-the-essence-of-god-comment-god-s-glory-as-it-relates-to-every-knee-will-bow-and-every-tongue-confess}
+
+{{< subjects >}}
+<a href="/subject-index/#god-resplendence-veiled-to-preserve-human-free-will">God > Resplendence > Veiled to preserve human free will</a>
+<a href="/subject-index/#every-knee-will-bow">Every knee will bow</a>
+{{< /subjects >}}
 
 {{% note %}}
 This is a video-only section.
@@ -108,6 +134,11 @@ Compare: "Every knee will bow, and every tongue will confess." That is not now, 
 <!-- --- -->
 
 #### Essence, nature, character... ??? {#introduction-the-essence-of-god-essence-nature-character}
+
+{{< subjects >}}
+<a href="/subject-index/#essence-essential-characteristics">Essence > Essential characteristics</a>
+<a href="/subject-index/#philosophy-perils-of-getting-off-in-the-weeds">Philosophy > Perils of getting off in the weeds</a>
+{{< /subjects >}}
 
 If you've ever been confused about what the difference between nature and essence is (and we may as well throw form and substance in the mix as well), you are in good company. Philosophers have been arguing about these things for a very long time (compare Plato, Aristotle, Aquinas, Kant, and others).
 
@@ -146,7 +177,8 @@ If someone were to whine that I am question-dodging and not defining terms, I wo
 
 ## [God's Infinite Nature](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature) {#god-s-infinite-nature}
 {{< subjects >}}
-
+<a href="/subject-index/#infinity">Infinity</a>
+<a href="/subject-index/#god-is-infinite-in-nature">God > Is infinite in nature</a>
 {{< /subjects >}}
 
 
@@ -174,13 +206,18 @@ This lesson, we are going to be talking about God's infinite nature, and what th
 0:00 - Intro and outline
 02:01 - Introduction: God's infinite nature
 02:57 - God is Spiritual
+&emsp;09:47 - If mankind is at present "a little lower than the angels", why do angels desire physical bodies like ours?
 16:05 - God is Eternal
+&emsp;23:40 - Angels are subject to time
+&emsp;24:28 - The relationship between future prophecy and the time continuum
 30:03 - God is Immeasurable (in a spatial sense)
 35:38 - God is Unique
 50:17 - God is Omnipotent
+&emsp;51:20 - "Could God create a rock so big even He couldn't lift it?"
 01:08:16 - God is Omniscient
+&emsp;01:08:57 - God's knowledge of hypotheticals
 01:21:58 - God is Omnipresent
-01:26:45 - Review and outro
+01:26:45 - Summary and outro
 
 {{% toggleable-content %}}
 
@@ -201,23 +238,82 @@ God's infinity – infinity in every way and according to any conceivable true s
 
 #### God is Spiritual {#god-s-infinite-nature-god-is-spiritual}
 
+{{< subjects >}}
+<a href="/subject-index/#god-is-spiritual">God > Is spiritual</a>
+<a href="/subject-index/#angels-are-subject-to-matter">Angels > Are subject to matter</a>
+{{< /subjects >}}
+
 God's being transcends the physical universe. He is not limited or bounded by material issues or concerns. God is not subject to matter in any way. God is not made of matter – God created matter and employs it however He desires.
+
+<!-- --- -->
+
+##### If mankind is at present "a little lower than the angels", why do angels desire physical bodies like ours? {#god-s-infinite-nature-if-mankind-is-at-present-a-little-lower-than-the-angels-why-do-angels-desire-physical-bodies-like-ours}
+
+{{< subjects >}}
+<a href="/subject-index/#fallen-angels-desire-for-physical-bodies">Fallen angels > Desire for physical bodies</a>
+{{< /subjects >}}
+
+{{% note %}}
+This is a video-only section.
+{{% /note %}}
+
+Compare Hebrews 2:6-8.
 
 <!-- --- -->
 
 #### God is Eternal {#god-s-infinite-nature-god-is-eternal}
 
+{{< subjects >}}
+<a href="/subject-index/#god-is-eternal">God > Is eternal</a>
+{{< /subjects >}}
+
 God's being transcends time. He is not limited or bounded by temporal issues or concerns. God is not subject to time in any way. God is not constrained by time – God created time and employs it however He desires.
 
 <!-- --- -->
 
+##### Angels are subject to time {#god-s-infinite-nature-angels-are-subject-to-time}
+
+{{< subjects >}}
+<a href="/subject-index/#angels-are-subject-to-time">Angels > Are subject to time</a>
+{{< /subjects >}}
+
+{{% note %}}
+This is a video-only section.
+{{% /note %}}
+
+<!-- --- -->
+
+##### The relationship between future prophecy and the time continuum {#god-s-infinite-nature-the-relationship-between-future-prophecy-and-the-time-continuum}
+
+{{< subjects >}}
+<a href="/subject-index/#prophecy-mechanics-of">Prophecy > mechanics of</a>
+{{< /subjects >}}
+
+{{% note %}}
+This is a video-only section.
+{{% /note %}}
+
+
+Were prophets actually transported into the future (i.e., plucked from one point in the "river of time" and dropped at another as an observer), or did they just have visions of the future (i.e., see visions of it like a movie)?
+
+<!-- --- -->
+
 #### God is Immeasurable (in a spatial sense) {#god-s-infinite-nature-god-is-immeasurable-in-a-spatial-sense}
+
+{{< subjects >}}
+<a href="/subject-index/#god-is-immeasurable">God > Is immeasurable</a>
+{{< /subjects >}}
 
 God's being transcends space. He is not limited or bounded by spatial issues or concerns. God is not subject to space in any way. God is not confined by space – God created space and employs it however He desires.
 
 <!-- --- -->
 
 #### God is Unique {#god-s-infinite-nature-god-is-unique}
+
+{{< subjects >}}
+<a href="/subject-index/#god-is-unique">God > Is unique</a>
+<a href="/subject-index/#god-is-de-facto-ruler-of-the-universe">God > Is *de facto* ruler of the universe</a>
+{{< /subjects >}}
 
 Uniqueness comes from God's infinite nature. No one else in the universe can reasonably be compared to Him. He is absolutely unique within His own creation, and therefore the one Person to whom all honor is due.
 
@@ -237,11 +333,21 @@ While we may not be properly able to fully grasp God's true nature since we are 
 
 #### God is Omnipotent {#god-s-infinite-nature-god-is-omnipotent}
 
+{{< subjects >}}
+<a href="/subject-index/#god-is-omnipotent">God > Is omnipotent</a>
+{{< /subjects >}}
+
 God is all-powerful, irrespective of matter. He can effect anything He desires in the material realm, and nothing can transpire apart from His will. Therefore there is no deed (nor was there ever, nor will there ever be) which God is unable to do, small or great.
 
 <!-- --- -->
 
 {{% sidenote %}}
+
+##### "Could God create a rock so big even He couldn't lift it?" {#god-s-infinite-nature-could-god-create-a-rock-so-big-even-he-couldn-t-lift-it}
+
+{{< subjects >}}
+<a href="/subject-index/#apologetics">Apologetics</a>
+{{< /subjects >}}
 
 You may have come across something like "So, could God create a rock so big even He couldn't lift it?" This is (supposedly) pitting two aspects of omnipotence against each other: God's ability to create anything He wishes *ex nihilo*, and God's strength.
 
@@ -259,9 +365,21 @@ My counsel would be to avoid all such nonsense. God can do "it", whatever "it" m
 
 #### God is Omniscient {#god-s-infinite-nature-god-is-omniscient}
 
+{{< subjects >}}
+<a href="/subject-index/#god-is-omniscient">God > Is omniscient</a>
+{{< /subjects >}}
+
 God is all-knowing, irrespective of time. He can effect anything He desires in the temporal realm. Therefore God knows (has always known, and always will know) everything, the end from the beginning. As the Everlasting One (Ps.90:2; 90:4), His knowledge of every event that ever has or will or even could occur within His creation is comprehensive and absolute.
 
 <!-- --- -->
+
+##### God's knowledge of hypotheticals {#god-s-infinite-nature-god-s-knowledge-of-hypotheticals}
+
+{{< subjects >}}
+<a href="/subject-index/#omniscience-includes-knowledge-of-hypotheticals">Omniscience > includes knowledge of hypotheticals</a>
+<a href="/subject-index/#molinism">Molinism</a>
+<a href="/subject-index/#middle-knowledge">Middle knowledge</a>
+{{< /subjects >}}
 
 The "could occur" bit is important. God's knowledge of all possible hypotheticals is sometimes discussed in terms of so-called ["Molinism"](https://en.wikipedia.org/wiki/Molinism) and "middle knowledge". I prefer to discuss it independent from all the baggage there, however.
 
@@ -276,6 +394,10 @@ For now, you should mostly ignore the fact that some people have again put God i
 <!-- --- -->
 
 #### God is Omnipresent {#god-s-infinite-nature-god-is-omnipresent}
+
+{{< subjects >}}
+<a href="/subject-index/#god-is-omnipresent">God > Is omnipresent</a>
+{{< /subjects >}}
 
 God is ever-present, irrespective of space. He can effect anything He desires in the spatial realm (Job 26:7). Therefore God has the ability (has always had, and always will have) to be anywhere and everywhere, local and universal.
 
@@ -304,7 +426,8 @@ Of particular note is that this means God sees all. Nobody can sneak anything pa
 
 ## [God's Perfect Character](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character) {#god-s-perfect-character}
 {{< subjects >}}
-
+<a href="/subject-index/#perfection">Perfection</a>
+<a href="/subject-index/#god-is-perfect-in-character">God > Is perfect in character</a>
 {{< /subjects >}}
 
 
@@ -329,7 +452,20 @@ This lesson, we are going to be talking about God's perfect character, and what 
 
 ### Timestamps {#god-s-perfect-character-timestamps}
 
-
+0:00 - Intro and outline
+01:40 - Introduction: God's perfect character
+&emsp;08:07 - Q: Why are we told to be perfect like God in Matthew 5:48 if we can never live up to that standard?
+&emsp;11:57 - Q: What does it mean for Noah to be called "perfect in his generations"?
+15:54 - God is Good
+29:56 - God is Holy
+43:22 - God is Faithful and True
+56:51 - God is Sovereign
+01:18:42 - God is Love
+01:34:00 - God is Just
+&emsp;01:53:12 - "How is it just for unbelievers to face infinite, eternal punishment for finite sins?"
+02:17:18 - God is Life
+&emsp;02:23:43 - Contrasting eternal life and eternal death
+02:32:50 - Summary and outro
 
 {{% toggleable-content %}}
 
@@ -359,7 +495,11 @@ When firmly grasped, God's perfection---perfection in every way and according to
 
 <!-- --- -->
 
-##### Q: Why are we told to be perfect like God in Matthew 5:48 if we can never live up to that standard? {#god-s-perfect-character-q-why-are-we-told-to-be-perfect-like-god-in-matthew-5-48-if-we-can-never-live-up-to-that-standard}
+##### Why are we told to be perfect like God in Matthew 5:48 if we can never live up to that standard? {#god-s-perfect-character-why-are-we-told-to-be-perfect-like-god-in-matthew-5-48-if-we-can-never-live-up-to-that-standard}
+
+{{< subjects >}}
+<a href="/subject-index/#perfection-is-impossible-for-fallen-mankind">Perfection > Is impossible for fallen mankind</a>
+{{< /subjects >}}
 
 {{% note %}}
 This is a video-only section.
@@ -367,7 +507,25 @@ This is a video-only section.
 
 <!-- --- -->
 
+##### What does it mean for Noah to be called "perfect in his generations"? {#god-s-perfect-character-what-does-it-mean-for-noah-to-be-called-perfect-in-his-generations}
+
+{{< subjects >}}
+<a href="/subject-index/#nephilim-satan-s-attack-on-the-human-bloodline">Nephilim > Satan's attack on the human bloodline</a>
+{{< /subjects >}}
+
+{{% note %}}
+This is a video-only section.
+{{% /note %}}
+
+As in Genesis 6:9---if you'd like, here's an [interlinear](https://www.blueletterbible.org/esv/gen/6/1/t_concif_6009) for the verse.
+
+<!-- --- -->
+
 #### God is Good {#god-s-perfect-character-god-is-good}
+
+{{< subjects >}}
+<a href="/subject-index/#god-is-good">God > Is good</a>
+{{< /subjects >}}
 
 God's character is good (Hebrew *tov*: טוב); it is the antithesis of evil. So how does goodness respond to sinful man? In His goodness, God always has our best interests at heart. Therefore His desire for us to be free from evil and devoted to good is genuine. Even though we are sinful and by nature unworthy of His blessing, in His goodness God has nevertheless found a *gracious* way to redeem us from sin without compromising His character, namely, by giving us the gift of His Son, Jesus Christ.
 
@@ -375,17 +533,30 @@ God's character is good (Hebrew *tov*: טוב); it is the antithesis of evil. So
 
 #### God is Holy {#god-s-perfect-character-god-is-holy}
 
+{{< subjects >}}
+<a href="/subject-index/#god-is-holy">God > Is holy</a>
+{{< /subjects >}}
+
 God's character is holy (Hebrew *qadosh*: קדוש); it is completely separate from evil. So how does holiness respond to sinful man? In His holiness, God can never compromise His perfect standards for any reason. Therefore His commitment to condemning evil and rewarding good is inviolable. But even though we are sinful and by nature deserving of His judgment, in His holiness God has nevertheless found a *merciful* way to justify us in spite of our sin without violating His character, namely, by judging His Son, Jesus Christ in our place.
 
 <!-- --- -->
 
 #### God is Faithful and True {#god-s-perfect-character-god-is-faithful-and-true}
 
+{{< subjects >}}
+<a href="/subject-index/#god-is-faithful-and-true">God > Is faithful and true</a>
+{{< /subjects >}}
+
 God's character is faithful and true (Hebrew: *omen*, *emeth*: אמת ,אמון); it is actively opposed to evil. So how do truth and faithfulness respond to sinful man? In His faithfulness and truth, God is entirely reliable and trustworthy in all that He promises to us and does for us. Therefore His veracity and dependability in offering us a way through Jesus Christ to escape the evil of death and embrace the good of eternal life are beyond reproach. So even though we are sinful and by nature objects of His wrath, in His faithfulness and truth God has nevertheless found a way to make *peace* between Himself and us and to remove the enmity between Himself and us, caused by our sins, without corrupting His character, namely, by reconciling us to Himself through the death of His Son, Jesus Christ.
 
 <!-- --- -->
 
 #### God is Sovereign {#god-s-perfect-character-god-is-sovereign}
+
+{{< subjects >}}
+<a href="/subject-index/#god-is-sovereign">God > Is sovereign</a>
+<a href="/subject-index/#god-is-de-jure-ruler-of-the-universe">God > Is *de jure* ruler of the universe</a>
+{{< /subjects >}}
 
 Sovereignty comes from God's perfect character. No one else has a legitimate right to rule over the universe. He is the absolute sovereign within His own creation, and therefore the one Person to whom all honor is due. Sovereignty thus speaks to God's *moral authority* and *right* to order the universe however He chooses.
 
@@ -427,19 +598,95 @@ In this---God's full plan for saving sinful man---absolutely everything relies u
 
 #### God is Love {#god-s-perfect-character-god-is-love}
 
+{{< subjects >}}
+<a href="/subject-index/#god-is-love">God > Is love</a>
+{{< /subjects >}}
+
 Having love for His creatures, is a natural consequence of God's goodness. Out of the intrinsic goodness of His character, God loves us with a perfect love, desiring to help us in our sinful state. However, He does not overlook His holiness and justice in the process and forgive our sin without consequence (as evil suggests He should). Therefore God had to find a way to *reach out to us in love* without compromising His character, and did so through the gift and sacrifice of His only Son on our behalf. *Grace* is the biblical name for God's policy of lovingly redeeming us from our sins through Jesus Christ. We accept and receive God's gracious offer of love and redemption by accepting and receiving the Lord Jesus Christ as our Savior.
 
 <!-- --- -->
 
 #### God is Just {#god-s-perfect-character-god-is-just}
 
+{{< subjects >}}
+<a href="/subject-index/#god-is-just">God > Is just</a>
+{{< /subjects >}}
+
 Demanding justice for His creatures is a natural consequence of God's holiness. Out of the intrinsic holiness of His character, God must deal with us in perfect justice, righteously condemning us in our sinful state. However, He does not overlook His goodness and love in the process and abandon us to our sins (as evil suggests He will). For God found a way to *treat us as righteous* without compromising His character, and did so through the gift and sacrifice of His only Son on our behalf. *Mercy* is the biblical name for God's policy of justly forgiving us on the basis of the death of Jesus Christ. We accept and receive God's merciful offer of justification by accepting and receiving the Lord Jesus Christ as our Savior.
+
+<!-- --- -->
+
+##### "How is it just for unbelievers to face infinite, eternal punishment for finite sins?" {#god-s-perfect-character-how-is-it-just-for-unbelievers-to-face-infinite-eternal-punishment-for-finite-sins}
+
+{{< subjects >}}
+<a href="/subject-index/#unlimited-atonement-double-jeopardy">Unlimited atonement > Double jeopardy</a>
+<a href="/subject-index/#hell-people-are-sent-only-because-of-unbelief">Hell > People are sent only because of unbelief</a>
+<a href="/subject-index/#hell-there-are-no-levels-in-hell">Hell > There are no levels in hell</a>
+{{< /subjects >}}
+
+{{% note %}}
+This is a video-only section.
+{{% /note %}}
+
+This question's wording presupposes something that is simply not true: that unbelievers face eternal punishment in hell for sins they commit in this life.
+
+As we go over in the video, hell exists *not* to punish unbelievers for their sins---as if they could somehow pay for or atone for them---but only because of unbelief ("blasphemy against the Holy Spirit"). That hell is not punishment for sins but the consequence of unbelief---of wanting to spend eternity apart from God---is a rather fundamental point about the nature of hell, but is nonetheless widely misunderstood.
+
+Jesus paid for *all* human sin upon the cross, and, moreover, imperfect human beings are not even worthy sacrifices. That is, we could not pay for our sin even if we wanted to; we are not qualified since we are tainted and marred by sin. Only Christ---the true, blameless Lamb of God---can take away the sins of the world with His blood, and He already did so upon the cross some 2,000 years ago.
+
+If God punished unbelievers for their sins in hell after Christ already took the judgement for said sins, the sins would be judged twice ("double jeopardy")---obviously incompatible with justice. Therefore, it is no exaggeration to say that falsely believing that human beings are punished for their sins in hell is no less than a rejection of the efficacy of Jesus' payment for all human sin upon the cross (or perhaps the Father's acceptance of Jesus' work). If you believe in unlimited atonement and penal substitutionary atonement (both true things that are clearly taught in scripture), then the purpose (*telos*) of hell cannot be the punishment of human sins. It is simply theologically unworkable.
+
+**To pull us back to the present question:**
+
+The grace of the cross is positively scandalous:  
+&emsp;That God would judge His own Son for human sin,  
+&emsp;Even for the most gross and reprehensible sins of humanity.
+
+That unbelievers refuse to accept Christ's payment for them is tragic:  
+&emsp;That God's love will go unreciprocated,  
+&emsp;Despite Him laying down His life for their salvation.
+
+But that unbelievers accuse God of injustice is ironic:  
+&emsp;That they scorn the God that loves them so much,  
+&emsp;Who has already saved them from their punishment,  
+&emsp;By taking it upon His own shoulders.
+
+When unbelievers say it is not just for them to face infinite, eternal punishment for finite sins, they miss the fact that God *already judged Jesus for all their sins upon the cross*, and that people in hell are not there to punish them for their sins, but because they chose unbelief and separation from God. God has, out of His unfathomable grace, spared them the true consequences of their sins---Jesus bore these consequences instead, even for the most vile and unrepentant of unbelievers. Nevertheless, He will let all those creatures who choose of their own will to live apart from Him to have their wish. And an eternity apart from God---Who is everything good---will be utterly miserable.
+
+The point is that hell is not miserable on account of punishment for sins committed, but miserable on account of separation from God.
+
+{{% sidenote %}}
+All of this should make it clear why the idea of "levels of hell" (cf. the ["Nine Circles of Hell"](https://en.wikipedia.org/wiki/Inferno_%28Dante%29#Nine_circles_of_Hell) in [Dante's *Inferno*](https://en.wikipedia.org/wiki/Inferno_%28Dante%29)) is so problematic theologically.
+
+Because all people in hell are there for the same reason (unbelief)---not to punish them for their sins---there can be no levels of hell.
+
+That people find this unpalatable ("What do you mean Hitler will be no worse off in hell than my 'nice' unbelieving neighbor?!") does not make it any less true. As I have said before, the cross is truly scandalous grace---and what is even more scandalous is that God gives a real offer of salvation to every single human being who has ever lived... even those who---in our opinion---actually deserve a healthy dose of eternal suffering (e.g., those who rape and murder children). *That* is how far God has gone in offering a genuine choice to all mankind.
+
+For people who still balk at this teaching (viewing it as too lenient upon the truly evil), consider Paul. If God made Paul (who---prior to his conversion in Acts 9---was a fierce persecutor of the Early Church) the Apostle to the Gentiles, then when you find fault with God for showing grace to sinners who you think are too evil, are you saying God made a mistake with Paul?
+{{% /sidenote %}}
 
 <!-- --- -->
 
 #### God is Life {#god-s-perfect-character-god-is-life}
 
+{{< subjects >}}
+<a href="/subject-index/#god-is-life">God > Is life</a>
+{{< /subjects >}}
+
 Saving the lives of His creatures is a natural consequence of God's truth and faithfulness. Out of the intrinsic veracity and trustworthiness of His character, God honors His gracious and merciful promise to restore us to Himself and thereby to eternal life, delivering us from the condemnation of death accruing to us in our sinful state. In doing so, however, He has not failed to resolve the competing demands of His goodness and love on the one hand, with those of His holiness and justice on the other (as evil suggests He must). For God has found a way in accordance with His character to *eliminate the wall of sin and consequent wrath which separates us from Him*, and has done so through the gift and sacrifice of His only Son on our behalf (He died that we might have life). *Peace* is the biblical name for God's life-giving policy of reconciling us to Himself on the basis of the work of Jesus Christ. We accept and receive God's offer of life, peace, and reconciliation by accepting and receiving the Lord Jesus Christ as our Savior.
+
+<!-- --- -->
+
+##### Contrasting eternal life and eternal death {#god-s-perfect-character-contrasting-eternal-life-and-eternal-death}
+
+{{< subjects >}}
+<a href="/subject-index/#believers-live-lives-of-eternal-spiritual-purpose">Believers > Live lives of eternal, spiritual purpose</a>
+<a href="/subject-index/#unbelievers-are-already-positionally-dead-in-their-sins">Unbelievers > Are already positionally dead in their sins</a>
+{{< /subjects >}}
+
+{{% note %}}
+This is a video-only section.
+{{% /note %}}
 
 {{% /toggleable-content %}}
 
@@ -489,7 +736,10 @@ In this lesson, we are going to be summarizing what we've done in the last sever
 
 ### Timestamps {#conclusions-the-essence-of-god-timestamps}
 
-
+0:00 - Intro and outline
+00:51 - A reminder of what we've been going over
+05:50 - An overview in words
+08:03 - An overview in picture form
 
 {{% toggleable-content %}}
 
@@ -511,6 +761,10 @@ We have been talking about the essence of God: His infinite nature and His perfe
 
 #### An overview in words {#conclusions-the-essence-of-god-an-overview-in-words}
 
+{{< subjects >}}
+<a href="/subject-index/#blood-of-christ-satisfies-both-god-s-love-and-god-s-justice">Blood of Christ > Satisfies both God's love and God's justice</a>
+{{< /subjects >}}
+
 God's goodness overflows with love, providing grace for sinful Man:  
 &emsp;though evil says a loving God can't condemn,  
 &emsp;He did condemn His Son that we might live,  
@@ -529,6 +783,10 @@ God's faithfulness and truth overflow in life, producing peace with God for sinf
 <!-- --- -->
 
 #### An overview in picture form {#conclusions-the-essence-of-god-an-overview-in-picture-form}
+
+{{< subjects >}}
+<a href="/subject-index/#god-essence">God > Essence</a>
+{{< /subjects >}}
 
 ![Overall Summary of the Essence of God](https://ichthys.com/1Theo-summary.gif)
 
@@ -555,7 +813,7 @@ God's faithfulness and truth overflow in life, producing peace with God for sinf
 
 ## [Introduction - The Trinity](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity) {#introduction-the-trinity}
 {{< subjects >}}
-
+<a href="/subject-index/#trinity-definition">Trinity > Definition</a>
 {{< /subjects >}}
 
 
@@ -580,7 +838,14 @@ In this lesson, we are going to be starting an examination of a new topic in our
 
 ### Timestamps {#introduction-the-trinity-timestamps}
 
-
+0:00 - Intro and outline
+02:23 - The core definition of the Trinity: God is One in Essence, Three in Person
+09:42 - Is the terminology itself important in considering the development of this doctrine?
+&emsp;36:39 - Even at the time the Bible was written, there were already incipient challenges to the Trinity
+&emsp;38:30 - Not being able to fully understand the Trinity this side of heaven is a human universal equally applying to all
+&emsp;39:37 - Progressive revelation: The Trinity was veiled from believers in the Old Testament
+42:12 - Spelling it out a bit more
+44:03 - Summary and outro
 
 {{% toggleable-content %}}
 
@@ -597,6 +862,11 @@ We will examine exactly what this statement means as we continue in our study, b
 <!-- --- -->
 
 #### Is the terminology itself important in considering the development of this doctrine? {#introduction-the-trinity-is-the-terminology-itself-important-in-considering-the-development-of-this-doctrine}
+
+{{< subjects >}}
+<a href="/subject-index/#trinity-scripture-alone-is-sufficient-for-establishing-the-teaching">Trinity > Scripture alone is sufficient for establishing the teaching</a>
+<a href="/subject-index/#trinity-the-teaching-existed-before-the-word-trinity-was-used-for-it">Trinity > The teaching existed before the word "Trinity" was used for it</a>
+{{< /subjects >}}
 
 In short, no. The Trinity has always been there in the Bible, for those willing to open their eyes and ears to the truth. How later people came to label the idea is in no way related to the fact that this concept has been there in scripture from day one.
 
@@ -664,7 +934,7 @@ To put the doctrine in complete terms, the Father is God, the Son is God and the
 
 ## [All Members of the Trinity Are Deity](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity) {#all-members-of-the-trinity-are-deity}
 {{< subjects >}}
-
+<a href="/subject-index/#trinity-all-members-are-deity">Trinity > All members are deity</a>
 {{< /subjects >}}
 
 
@@ -689,7 +959,18 @@ In this lesson we kick off a series of discussions we will be having about what 
 
 ### Timestamps {#all-members-of-the-trinity-are-deity-timestamps}
 
-
+0:00 - Intro and outline
+01:38 - Our next several discussions: understanding the Trinity in terms of what it is *not*
+03:19 - Key point: God is *one* in essence, but that does *not* mean that only one person of the Trinity is deity
+&emsp;30:14 - What does it mean for God to be Spirit, if the Holy Spirit is just one member of the Trinity?
+&emsp;43:44 - Why wasn't the Spirit sent to indwell believers before He actually was (i.e., only after Christ's ascension)?
+&emsp;56:29 - Revelation 1:4 - What is going on with the mention of seven Spirits?
+&emsp;01:02:42 - What exactly does being baptized into God (becoming united with Him, as part of the body of Christ) actually mean?
+&emsp;01:17:29 - The Father is God
+&emsp;&emsp;01:27:51 - A deeper dive into the interpretation of Ephesians 3:14-15
+&emsp;01:42:17 - The Son is God
+&emsp;02:18:31 - The Holy Spirit is God
+02:51:55 - Summary and outro
 
 {{% toggleable-content %}}
 
@@ -709,6 +990,10 @@ We can better understand what the Trinity is by first considering what it is *no
 
 #### Key point: God is *one* in essence, but that does *not* mean that only one person of the Trinity is deity {#all-members-of-the-trinity-are-deity-key-point-god-is-one-in-essence-but-that-does-not-mean-that-only-one-person-of-the-trinity-is-deity}
 
+{{< subjects >}}
+<a href="/subject-index/#trinity-what-it-is-not-only-one-member-possessing-divinity">Trinity > What it is not > Only one member possessing divinity</a>
+{{< /subjects >}}
+
 God is *three* in person, and all three persons of the Trinity (the Father, the Son, and the Holy Spirit) are divine. Heresies of the past which have challenged the divinity of members of the Trinity include adoptionism (asserting that Christ is the Son of God only in the sense of adoption), the Ebionite heresy (teaching that Christ had only a human nature empowered by God's Spirit), and Unitarianism (which asserts the uni-personality of God, denying the deity of Christ and the Holy Spirit).
 
 But the Bible teaches that all three members of the Trinity are deity. Compare: Is.63:9-14; Matt. 3:16-17; 28:19; Jn.14:16-17; 1Cor.12:4-6; 2Cor.13:14; Eph.4:4-6; 1Pet.1:1-2; Rev.1:4-6.
@@ -716,6 +1001,10 @@ But the Bible teaches that all three members of the Trinity are deity. Compare: 
 <!-- --- -->
 
 ##### The Father is God {#all-members-of-the-trinity-are-deity-the-father-is-god}
+
+{{< subjects >}}
+<a href="/subject-index/#trinity-divinity-father">Trinity > Divinity > Father</a>
+{{< /subjects >}}
 
 See: Matt.6:9; 1Cor.8:6; Eph.3:14-15.
 
@@ -727,6 +1016,10 @@ See: Matt.6:9; 1Cor.8:6; Eph.3:14-15.
 
 ##### The Son is God {#all-members-of-the-trinity-are-deity-the-son-is-god}
 
+{{< subjects >}}
+<a href="/subject-index/#trinity-divinity-son">Trinity > Divinity > Son</a>
+{{< /subjects >}}
+
 See: Jn.5:18; 10:30; 10:33; Rom.9:5; 1Cor.8:6; Col.2:9; Heb.1:3.
 
 {{% scripture-h p="John 1:1-2" %}}
@@ -736,6 +1029,10 @@ The Word existed in the beginning: the Word was both present with the [Father] G
 <!-- --- -->
 
 ##### The Holy Spirit is God {#all-members-of-the-trinity-are-deity-the-holy-spirit-is-god}
+
+{{< subjects >}}
+<a href="/subject-index/#trinity-divinity-holy-spirit">Trinity > Divinity > Holy Spirit</a>
+{{< /subjects >}}
 
 See: Gen.1:2; Ps.139:7; Acts 5:3-4; 1Cor.12:11; and compare Heb.3:7-11 with Ps.95:7-11 where the LORD is speaking.
 
@@ -766,7 +1063,7 @@ Now the Lord is the Spirit, and where the Lord's Spirit is, there is freedom.
 
 ## [All Members of the Trinity Are Distinct Persons](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-distinct-persons) {#all-members-of-the-trinity-are-distinct-persons}
 {{< subjects >}}
-
+<a href="/subject-index/#trinity-all-members-are-distinct-from-one-another">Trinity > All members are distinct from one another</a>
 {{< /subjects >}}
 
 
@@ -791,7 +1088,12 @@ This lesson's main focus is examining the point that God is *one* in essence, bu
 
 ### Timestamps {#all-members-of-the-trinity-are-distinct-persons-timestamps}
 
-
+0:00 - Intro and outline
+02:01 - Key point: God is *one* in essence, but that does *not* mean that the Trinity is only one person (merely displaying three modes or aspects of Himself)
+&emsp;05:32 - The Father is a unique person in His own right (for He is distinct from the Son)
+&emsp;10:55 - The Son is a unique person in His own right (for He is distinct from the Father)
+&emsp;19:28 - The Holy Spirit is a unique person in His own right (for He acts as a distinct person)
+29:30 - Summary and outro
 
 {{% toggleable-content %}}
 
@@ -803,6 +1105,10 @@ This lesson's main focus is examining the point that God is *one* in essence, bu
 
 #### Key point: God is *one* in essence, but that does *not* mean that the Trinity is only one person (merely displaying three modes or aspects of Himself) {#all-members-of-the-trinity-are-distinct-persons-key-point-god-is-one-in-essence-but-that-does-not-mean-that-the-trinity-is-only-one-person-merely-displaying-three-modes-or-aspects-of-himself}
 
+{{< subjects >}}
+<a href="/subject-index/#trinity-what-it-is-not-only-one-person-with-multiple-modes-or-aspects">Trinity > What it is not > Only one person with multiple modes or aspects</a>
+{{< /subjects >}}
+
 God is three in person, and all three members of the Trinity (the Father and the Son and the Holy Spirit) are distinct persons rather than manifestations of a single, multifaceted person.
 
 Heresies of the past which have challenged the distinct personalities of members of the Trinity include modalism (the idea that Christ and the Spirit are mere "modes" of the Father's personality), and docetism (the notion that Christ only seemed real and was in reality merely a phantom of sorts representing the Father's plan). But the Bible teaches that all three members of the Trinity are distinct persons.
@@ -811,6 +1117,10 @@ Heresies of the past which have challenged the distinct personalities of members
 
 ##### The Father is a unique person in His own right (for He is distinct from the Son) {#all-members-of-the-trinity-are-distinct-persons-the-father-is-a-unique-person-in-his-own-right-for-he-is-distinct-from-the-son}
 
+{{< subjects >}}
+<a href="/subject-index/#trinity-distinctness-father">Trinity > Distinctness > Father</a>
+{{< /subjects >}}
+
 {{% scripture-h p="Daniel 7:13" %}}
 I was looking during my vision of that night, and behold – with the clouds of heaven one like a Son of Man was coming up, and He approached the Ancient of Days [i.e, the Father] and they brought Him before Him.
 {{% /scripture-h %}}
@@ -818,6 +1128,10 @@ I was looking during my vision of that night, and behold – with the clouds of 
 <!-- --- -->
 
 ##### The Son is a unique person in His own right (for He is distinct from the Father) {#all-members-of-the-trinity-are-distinct-persons-the-son-is-a-unique-person-in-his-own-right-for-he-is-distinct-from-the-father}
+
+{{< subjects >}}
+<a href="/subject-index/#trinity-distinctness-son">Trinity > Distinctness > Son</a>
+{{< /subjects >}}
 
 {{% scripture-h p="Hebrews 10:7" %}}
 Behold, I have arrived – in the scroll of Your book it is written about Me – to do Your will, O My God.    
@@ -828,6 +1142,10 @@ Behold, I have arrived – in the scroll of Your book it is written about Me –
 <!-- --- -->
 
 ##### The Holy Spirit is a unique person in His own right (for He acts as a distinct person) {#all-members-of-the-trinity-are-distinct-persons-the-holy-spirit-is-a-unique-person-in-his-own-right-for-he-acts-as-a-distinct-person}
+
+{{< subjects >}}
+<a href="/subject-index/#trinity-distinctness-holy-spirit">Trinity > Distinctness > Holy Spirit</a>
+{{< /subjects >}}
 
 {{% scripture-h p="Romans 8:26" %}}
 And the Spirit helps us in our weakness in a similar way. For we do not know what we ought to pray for, but the Spirit Himself intercedes for us also with anguished supplications which words cannot express.  
@@ -856,7 +1174,7 @@ And the Spirit helps us in our weakness in a similar way. For we do not know wha
 
 ## [All Members of the Trinity Are Coequal, Coeternal, and Consubstantial](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-coequal-coeternal-and-consubstantial) {#all-members-of-the-trinity-are-coequal-coeternal-and-consubstantial}
 {{< subjects >}}
-
+<a href="/subject-index/#trinity-all-members-fully-and-equally-share-status-activity-and-substance">Trinity > All members fully and equally share status, activity, and substance</a>
 {{< /subjects >}}
 
 
@@ -881,7 +1199,12 @@ This lesson's main focus is examining the point that God is *three* in person, b
 
 ### Timestamps {#all-members-of-the-trinity-are-coequal-coeternal-and-consubstantial-timestamps}
 
-
+0:00 - Intro and outline
+01:24 - Key point: God is *three* in person, but that does *not* mean that there is any inferiority or disparity of status, activity, or substance between the members of the Trinity
+&emsp;06:16 - They all possess a full and equal share of the *status* of deity
+&emsp;13:29 - They all possess a full and equal share of the *eternal function* of deity
+&emsp;42:26 - They all possess a full and equal share of the *substance* of deity
+57:35 - Summary and outro
 
 {{% toggleable-content %}}
 
@@ -893,6 +1216,10 @@ This lesson's main focus is examining the point that God is *three* in person, b
 
 #### Key point: God is *three* in person, but that does *not* mean that there is any inferiority or disparity of status, activity, or substance between the members of the Trinity {#all-members-of-the-trinity-are-coequal-coeternal-and-consubstantial-key-point-god-is-three-in-person-but-that-does-not-mean-that-there-is-any-inferiority-or-disparity-of-status-activity-or-substance-between-the-members-of-the-trinity}
 
+{{< subjects >}}
+<a href="/subject-index/#trinity-what-it-is-not-a-union-with-inferiority-or-disparity-between-members">Trinity > What it is not > A union with inferiority or disparity between members</a>
+{{< /subjects >}}
+
 In any human association, there is always inherent inferiority and disparity present---in practice, if not perhaps on paper. People are separate beings, and these are the simple consequences of that. However, this is not the case for God; the Trinity shares completely perfect unity and equality.
 
 God is *one* in essence and all three members of the Trinity (the Father and the Son and the Holy Spirit) are coequal, coeternal, and con-substantial partners in one and the same essence. Heresies of the past which have challenged the coequality of members of the Trinity include subordinationism (which alternatively asserts that either Christ or the Spirit is by nature inferior to the Father) and Arianism (which teaches a Christ not entirely equal in divinity to the Father). But the Bible teaches that all three members of the Trinity are coequal partakers of the same essence.
@@ -900,6 +1227,10 @@ God is *one* in essence and all three members of the Trinity (the Father and the
 <!-- --- -->
 
 ##### They all possess a full and equal share of the *status* of deity {#all-members-of-the-trinity-are-coequal-coeternal-and-consubstantial-they-all-possess-a-full-and-equal-share-of-the-status-of-deity}
+
+{{< subjects >}}
+<a href="/subject-index/#trinity-share-status-of-deity">Trinity > Share > Status of deity</a>
+{{< /subjects >}}
 
 As seen from the equal rank accorded to each in the formula for profession of faith at the point of spiritual (*not* physical) baptism into the body of Christ:
 
@@ -911,6 +1242,10 @@ Then Jesus came over and said to them, "All authority in heaven and on earth has
 
 ##### They all possess a full and equal share of the *eternal function* of deity {#all-members-of-the-trinity-are-coequal-coeternal-and-consubstantial-they-all-possess-a-full-and-equal-share-of-the-eternal-function-of-deity}
 
+{{< subjects >}}
+<a href="/subject-index/#trinity-share-eternal-function-of-deity">Trinity > Share > Eternal function of deity</a>
+{{< /subjects >}}
+
 As seen from their joint participation in creation:
 
 {{% scripture-h p="Genesis 1:26" %}}
@@ -920,6 +1255,10 @@ Then God said, "Let ***Us*** make man in ***Our*** image, according to ***Our***
 <!-- --- -->
 
 ##### They all possess a full and equal share of the *substance* of deity {#all-members-of-the-trinity-are-coequal-coeternal-and-consubstantial-they-all-possess-a-full-and-equal-share-of-the-substance-of-deity}
+
+{{< subjects >}}
+<a href="/subject-index/#trinity-share-substance-of-deity">Trinity > Share > Substance of deity</a>
+{{< /subjects >}}
 
 As seen from the attribution of goodness to all three members in the apostolic benediction of 2 Corinthians, where grace (the policy of the goodness of God), love (the natural consequence---or "emanation"---of the goodness of God), and fellowship (the ultimate result of the goodness of God) are respectively attributed to the Son, the Father, and the Holy Spirit:
 
@@ -950,7 +1289,7 @@ May the grace of the Lord Jesus Christ, and the love of God [the Father], and th
 
 ## [All Members of the Trinity Are Joint Partakers of the Same Essence](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-joint-partakers-of-the-same-essence) {#all-members-of-the-trinity-are-joint-partakers-of-the-same-essence}
 {{< subjects >}}
-
+<a href="/subject-index/#trinity-all-members-share-the-same-essence">Trinity > All members share the same essence</a>
 {{< /subjects >}}
 
 
@@ -975,7 +1314,13 @@ This lesson's main focus is examining the point that God is *three* in person, b
 
 ### Timestamps {#all-members-of-the-trinity-are-joint-partakers-of-the-same-essence-timestamps}
 
-
+0:00 - Intro and outline
+01:54 - Key point: God is *three* in person, but that does *not* mean that the Trinity is composed of three (or more) different "gods"
+&emsp;15:37 - The Father is revealed to be uniquely God
+&emsp;18:57 - The Son and the Father are revealed to be uniquely God
+&emsp;&emsp;24:06 - Regarding the notion of us being "small G gods", what words are used for such in the Greek and Hebrew?
+&emsp;30:32 - The Holy Spirit and the Son and the Father are revealed to be uniquely God
+41:24 - Summary and outro
 
 {{% toggleable-content %}}
 
@@ -987,11 +1332,19 @@ This lesson's main focus is examining the point that God is *three* in person, b
 
 #### Key point: God is *three* in person, but that does *not* mean that the Trinity is composed of three (or more) different "gods" {#all-members-of-the-trinity-are-joint-partakers-of-the-same-essence-key-point-god-is-three-in-person-but-that-does-not-mean-that-the-trinity-is-composed-of-three-or-more-different-gods}
 
+{{< subjects >}}
+<a href="/subject-index/#trinity-what-it-is-not-a-pantheon">Trinity > What it is not > A pantheon</a>
+{{< /subjects >}}
+
 God is *one* in essence, and all three members of the Trinity (the Father and the Son and the Holy Spirit) are the sole, joint partakers of that same essence rather than three similar beings of similar essence. All so-called Christian sects which elevate saints and angels to the status of divinity essentially belong to this heretical category (after the manner of pagan pantheons, which also possess numerous "deities" of lesser and greater rank). But the Bible teaches that all three members of the Trinity alone share the same unique essence:
 
 <!-- --- -->
 
 ##### The Father is revealed to be uniquely God {#all-members-of-the-trinity-are-joint-partakers-of-the-same-essence-the-father-is-revealed-to-be-uniquely-god}
+
+{{< subjects >}}
+<a href="/subject-index/#trinity-jointly-partake-in-one-single-essence-father">Trinity > Jointly partake in one single essence > Father</a>
+{{< /subjects >}}
 
 {{% scripture-h p="Deuteronomy 4:35" %}}
 You were shown these things so as to know that the Lord, He is God, and there is no other besides Him.
@@ -1000,6 +1353,10 @@ You were shown these things so as to know that the Lord, He is God, and there is
 <!-- --- -->
 
 ##### The Son and the Father are revealed to be uniquely God {#all-members-of-the-trinity-are-joint-partakers-of-the-same-essence-the-son-and-the-father-are-revealed-to-be-uniquely-god}
+
+{{< subjects >}}
+<a href="/subject-index/#trinity-jointly-partake-in-one-single-essence-son">Trinity > Jointly partake in one single essence > Son</a>
+{{< /subjects >}}
 
 {{% scripture-h p="John 10:30" %}}
 I and the Father are one.
@@ -1012,7 +1369,19 @@ Some things I'll add here in addition to this one verse Dr. Luginbill quoted, to
 
 <!-- --- -->
 
+###### Regarding the notion of us being "small G gods", what words are used for such in the Greek and Hebrew? {#all-members-of-the-trinity-are-joint-partakers-of-the-same-essence-regarding-the-notion-of-us-being-small-g-gods-what-words-are-used-for-such-in-the-greek-and-hebrew}
+
+{{% note %}}
+This is a video-only section.
+{{% /note %}}
+
+<!-- --- -->
+
 ##### The Holy Spirit and the Son and the Father are revealed to be uniquely God {#all-members-of-the-trinity-are-joint-partakers-of-the-same-essence-the-holy-spirit-and-the-son-and-the-father-are-revealed-to-be-uniquely-god}
+
+{{< subjects >}}
+<a href="/subject-index/#trinity-jointly-partake-in-one-single-essence-holy-spirit">Trinity > Jointly partake in one single essence > Holy Spirit</a>
+{{< /subjects >}}
 
 {{% scripture-h p="John 14:16-17" %}}
 I will ask the Father, and He will give you another comforter to be with you forever – the Spirit of truth whom the world cannot receive, for it neither sees Him, nor knows Him. But you know Him, for He abides with you, and will be in you.
@@ -1068,11 +1437,16 @@ slides=""
 
 ### Summary {#introduction-the-trinity-in-the-bible-summary}
 
-TODO
+In this lesson, we go over how the Trinity can be a tricky concept to understand and explain, which makes it very important to keep our focus on the Bible when discussing it. Otherwise, we might otherwise end up off in the weeds, which is certainly not where we want to be in our understanding of this core doctrine of Christianity.
 
 ### Timestamps {#introduction-the-trinity-in-the-bible-timestamps}
 
-
+0:00 - Intro and outline
+01:16 - Review
+03:13 - The Trinity can be hard to explain properly
+12:16 - So keeping the focus on the Bible is necessary
+&emsp;25:35 - Is Jesus "the Father's seed"? Is the Holy Spirit "the Father's spirit"?
+36:24 - Summary and outro
 
 {{% toggleable-content %}}
 
@@ -1083,6 +1457,10 @@ TODO
 <!-- --- -->
 
 #### Review {#introduction-the-trinity-in-the-bible-review}
+
+{{< subjects >}}
+<a href="/subject-index/#trinity-definition">Trinity > Definition</a>
+{{< /subjects >}}
 
 The definition of the Trinity which best does justice to the biblical statements on the subject is the one we have previously stated, namely, that *God is **one** in essence and **three** in person*. We get an even clearer picture of what the Bible has to say about the Trinity when we combine this traditional definition with the four corollaries we've just gone through:
 
@@ -1095,6 +1473,10 @@ The definition of the Trinity which best does justice to the biblical statements
 
 #### The Trinity can be hard to explain properly {#introduction-the-trinity-in-the-bible-the-trinity-can-be-hard-to-explain-properly}
 
+{{< subjects >}}
+<a href="/subject-index/#limited-human-perspective-makes-some-teachings-hard-to-understand">Limited human perspective > Makes some teachings hard to understand</a>
+{{< /subjects >}}
+
 As can be seen from the numerous heresies (touched on some in our previous lessons) that have sprung up to challenge orthodox statements about the Trinity, the doctrine can be a difficult one to state in a proper, biblical way. This is especially true the further any definition of the Trinity moves away from actual statements contained in the Bible (which, as we have already stated, were felt to be sufficient by the Apostles and Apostolic Fathers).
 
 It should be noted here that even the terms "essence" and "person" were felt by some theologians of the early church to be controversial. We may talk of Man's essence (we are all cut from the same spiritual cloth), and Man's personality (we are all unique individuals), but the essence of God is different from the essence of Man (for one thing, all members of the Trinity share *the same* divine essence), and the idea of personality in the Trinity is different from that of human persons (to take but one example, the absolute unity of agreement and purpose of the Trinity throughout all eternity is not only quantitatively but also qualitatively beyond human experience).
@@ -1103,11 +1485,24 @@ It should be noted here that even the terms "essence" and "person" were felt by 
 
 #### So keeping the focus on the Bible is necessary {#introduction-the-trinity-in-the-bible-so-keeping-the-focus-on-the-bible-is-necessary}
 
+{{< subjects >}}
+<a href="/subject-index/#philosophy-perils-of-getting-off-in-the-weeds">Philosophy > Perils of getting off in the weeds</a>
+<a href="/subject-index/#central-doctrines-to-the-christian-faith-satan-attacks-more-fiercely">Central doctrines to the Christian faith > Satan attacks more fiercely</a>
+{{< /subjects >}}
+
 The lesson here is that rationalistic speculation---always dangerous when expounding the Bible---is even more to be avoided in the case of the Trinity, a doctrine that was only fully revealed with the arrival of the New Testament. What God *has* chosen to reveal about this doctrine, He has revealed carefully and gradually. We will cover the subject of the Trinity in the Old Testament more fully in future lessons, but it may be said here that a large part of the reason for this guarded revelation of the doctrine (beyond our human limitations in comprehending it) may be the all too obvious fact (see our prior discussions) that *wrong* ideas about the nature of the Trinity have historically posed such a dire threat to the entire basis of our Christian faith.
 
 Just a little leaven in the loaf, and Satan can make the Trinity seem as an association of "gods" (and so no different from paganism) or one "god" with three hats (thus completely eliminating the importance and efficacy of Christ's incarnation and sacrifice).
 
 In His loving wisdom, God has told us what we most need to know without giving us either information that could be misinterpreted, or less than accurate illustrations that might do more harm than good.
+
+<!-- --- -->
+
+##### Is Jesus "the Father's seed"? Is the Holy Spirit "the Father's spirit"? {#introduction-the-trinity-in-the-bible-is-jesus-the-father-s-seed-is-the-holy-spirit-the-father-s-spirit}
+
+{{% note %}}
+This is a video-only section.
+{{% /note %}}
 
 {{% /toggleable-content %}}
 
@@ -1132,7 +1527,7 @@ In His loving wisdom, God has told us what we most need to know without giving u
 
 ## [Illustrating the Trinity](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/illustrating-the-trinity) {#illustrating-the-trinity}
 {{< subjects >}}
-
+<a href="/subject-index/#trinity-illustrations">Trinity > Illustrations</a>
 {{< /subjects >}}
 
 
@@ -1153,11 +1548,19 @@ slides=""
 
 ### Summary {#illustrating-the-trinity-summary}
 
-TODO
+In this lesson we discuss illustrations that seek to help explain the Trinity. Since nothing in this created universe is truly like God, all of these illustrations are necessarily lacking in one way or another, and it is for this reason that we need to be quite wary of reading too much into them. If they help us better wrap our minds around the core teaching of the Trinity (namely, that God exists in three persons sharing one essence), then all to the good. However, we ought not ever build doctrine on top of things that are merely analogies, and analogies that are not even in scripture at that.
 
 ### Timestamps {#illustrating-the-trinity-timestamps}
 
-
+0:00 - Intro and outline
+02:40 - Perils in attempting to use illustrations for the Trinity
+16:27 - An illustration from the early church: the Trinity "triangle"
+21:10 - The illustration of the family of Man
+30:16 - The illustration of the human mind
+38:03 - Illustrations from the world of nature
+48:31 - Illustrations from the physical realm
+54:57 - Conclusions: these illustrations are only the loosest of analogies at best
+01:03:42 - Summary and outro
 
 {{% toggleable-content %}}
 
@@ -1169,6 +1572,10 @@ TODO
 
 #### Perils in attempting to use illustrations for the Trinity {#illustrating-the-trinity-perils-in-attempting-to-use-illustrations-for-the-trinity}
 
+{{< subjects >}}
+<a href="/subject-index/#trinity-illustrations-perils-of">Trinity > Illustrations > Perils of</a>
+{{< /subjects >}}
+
 As we discussed in our last lesson, attempting to illustrate such a carefully protected doctrine as the Trinity has the potential of doing more harm than good. The fundamental problem with illustrations of the type we will consider in a moment is that they all necessarily contain potentially dangerous and untrue points of comparison, which, if too much stress be placed upon them, run the real risk of leading to heretical conclusions, a danger that far outweighs any good they may do in attempting to shed some light on the subject.
 
 The number one objection to such illustrations is that God is divine, and since nothing and no one else is, *any* illustration will needs be imperfect and inaccurate (a fact which may well explain why no such illustrations occur in the Bible: Is.40:18). And there is more. Historically, Satan's attacks on the doctrine of the Trinity – a teaching crucial to the integrity of our Christian faith – have focused on the three-fold sovereign *personality* of God and/or His *deity* in three persons. But this reality of divine, triune personality is precisely the point that all illustrations of the Trinity miss (of necessity, since there is nothing "like" the Trinity).
@@ -1176,6 +1583,10 @@ The number one objection to such illustrations is that God is divine, and since 
 <!-- --- -->
 
 #### An illustration from the early church: the Trinity "triangle" {#illustrating-the-trinity-an-illustration-from-the-early-church-the-trinity-triangle}
+
+{{< subjects >}}
+<a href="/subject-index/#trinity-illustrations-trinity-triangle">Trinity > Illustrations > Trinity triangle</a>
+{{< /subjects >}}
 
 This oldest of the Trinity illustrations is also in many ways the best, because the non-doctrinal point of comparison (i.e., the triangle) merely serves to organize visually the meaning imparted by the words: all three members of the Trinity are God ("*one in essence*"), yet they are distinct from each other ("*three in person*"):
 
@@ -1242,7 +1653,7 @@ As we have said, however, care must be taken to see that none of these illustrat
 
 ## [Roles of the Trinity in the Plan of God](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god) {#roles-of-the-trinity-in-the-plan-of-god}
 {{< subjects >}}
-
+<a href="/subject-index/#trinity-roles">Trinity > Roles</a>
 {{< /subjects >}}
 
 
@@ -1293,6 +1704,11 @@ No potentially-misleading illustrations necessary
 
 #### The Names of the Trinity: Shared Names {#roles-of-the-trinity-in-the-plan-of-god-the-names-of-the-trinity-shared-names}
 
+{{< subjects >}}
+<a href="/subject-index/#trinity-shared-names-elohim">Trinity > Shared names > *Elohim*</a>
+<a href="/subject-index/#trinity-shared-names-yahweh">Trinity > Shared names > *Yahweh*</a>
+{{< /subjects >}}
+
 Much can be understood about the Trinity through a consideration of the names by which they are revealed. Collectively, the Trinity refer to themselves as God. In the Old Testament, the Hebrew word for God, *'Elohim* (translated in the New Testament by the common Greek word for God, *theos*), is technically a plural of a word originally meaning "mighty one"; collectively then, the Trinity share this appellation, pluralized to express additional majesty.
 
 Individually considered, however, members of the Trinity in the Old Testament are referred to most commonly by the Hebrew word *Yahweh* (translated in the New Testament by the common Greek word for Lord, *kyrios*), a word that, as we have seen, calls special attention to the Lord's timeless and dynamic being (see [section I, note 1](https://ichthys.com/1Theo.htm#N_1_)). These two names, God and Lord, emphasize respectively the unity of the Trinity in its three-fold persons (*'Elohim* is plural but refers to the Trinity collectively), and the joint divine-essence of all three individual members (*Yahweh* is singular but can be used to refer to any of the Trinity's members individually).
@@ -1309,6 +1725,10 @@ Cf. the general concept of so-called *progressive revelation*. This is an excell
 
 ##### The Father (the 1st Person of the Trinity) {#roles-of-the-trinity-in-the-plan-of-god-the-father-the-1st-person-of-the-trinity}
 
+{{< subjects >}}
+<a href="/subject-index/#trinity-roles-father">Trinity > Roles > Father</a>
+{{< /subjects >}}
+
 *Origin*: The term for and idea of the Fatherhood of God, a designation well known from the New Testament, is also found in the Old Testament from the Pentateuch onward. The word Father is first used for God in Deuteronomy 32:6: "Is He not your Father? The One who bought you? He is the One who made you and established you." Later in verse 18 of the same chapter, God is referred to as "the Rock who fathered you". The concept of the fatherhood of God can also be seen at Exodus 4:22, where Israel is referred to as God's "firstborn son".
 
 ---
@@ -1324,6 +1744,10 @@ Being human, our earthly fathers had strengths and weaknesses, and despite their
 ---
 
 ##### The Son (the 2nd Person of the Trinity) {#roles-of-the-trinity-in-the-plan-of-god-the-son-the-2nd-person-of-the-trinity}
+
+{{< subjects >}}
+<a href="/subject-index/#trinity-roles-son">Trinity > Roles > Son</a>
+{{< /subjects >}}
 
 *Origin*: Along with the holy angels (Job 38:7 [not NIV]), we believers are all "sons" of God (Rom.8:14; Gal.3:26; 4:5; cf. Jn.1:12; 1Jn.3:1-2). This widespread franchise of sonship is based upon the paternal position of the Father relative to all His obedient creatures, but there is only one "*the* Son of God (our Lord, Jesus Christ)".
 
@@ -1348,6 +1772,10 @@ A son (especially a king's son) is often more accessible than a father. The role
 
 ##### The Holy Spirit (the 3rd Person of the Trinity) {#roles-of-the-trinity-in-the-plan-of-god-the-holy-spirit-the-3rd-person-of-the-trinity}
 
+{{< subjects >}}
+<a href="/subject-index/#trinity-roles-holy-spirit">Trinity > Roles > Holy Spirit</a>
+{{< /subjects >}}
+
 *Origin*: From the first chapter of the Old Testament (Gen.1:2), to the closing chapter of the New Testament (Rev.22:17), the word "spirit" is used to refer to God the Holy Spirit. The Hebrew and Greek words for "spirit", *ruach* and *pneuma* respectively, have the core meaning of "wind" or "breeze", and, again, there are important points to be garnered from the name analogy.
 
 ---
@@ -1362,6 +1790,10 @@ A son (especially a king's son) is often more accessible than a father. The role
 
 ##### Note: Analogies Are Just Analogies, and Nothing More {#roles-of-the-trinity-in-the-plan-of-god-note-analogies-are-just-analogies-and-nothing-more}
 
+{{< subjects >}}
+<a href="/subject-index/#interpretation-not-pushing-analogies-too-far">Interpretation > Not pushing analogies too far</a>
+{{< /subjects >}}
+
 As should be clear from the discussion above, the names Father, Son, and Spirit are thus representative of the Trinity's individual roles in the plan of God for mankind, and have been given to help us understand the relationships and functions of the three divine personalities in that plan.
 
 The names themselves must not be pushed beyond the clearly intended analogies to our human frame of reference as outlined above. This is no small caveat, for it is largely on the basis of the title "Son" that heresies of the past have sought to deny the full and equal divinity of Christ (e.g., casting Him as subordinate in essence to the Father as hyper-Arianism does). 
@@ -1373,6 +1805,286 @@ The case of the Spirit also shows how wrong-headed such analyses based solely on
 {{% toggleable-transcript %}}
 
 ### Video/audio transcript {#roles-of-the-trinity-in-the-plan-of-god-video-audio-transcript}
+
+
+
+{{% /toggleable-transcript %}}
+
+{{% discussion-pages %}}
+
+{{% /discussion-pages %}}
+
+
+
+
+<br/>
+
+
+
+## [Trinity Roles as Seen from Specific New Testament Scriptures](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-roles-as-seen-from-specific-new-testament-scriptures) {#trinity-roles-as-seen-from-specific-new-testament-scriptures}
+{{< subjects >}}
+<a href="/subject-index/#trinity-roles">Trinity > Roles</a>
+{{< /subjects >}}
+
+
+
+### Video {#trinity-roles-as-seen-from-specific-new-testament-scriptures-video}
+
+{{% video
+src=""
+
+playlist=""
+
+video=""
+
+audio=""
+
+slides=""
+%}}
+
+### Summary {#trinity-roles-as-seen-from-specific-new-testament-scriptures-summary}
+
+TODO
+
+### Timestamps {#trinity-roles-as-seen-from-specific-new-testament-scriptures-timestamps}
+
+
+
+{{% toggleable-content %}}
+
+### Content {#trinity-roles-as-seen-from-specific-new-testament-scriptures-content}
+
+(Derived from https://ichthys.com/1Theo.htm)
+
+<!-- --- -->
+
+#### Matthew 3:16-17 {#trinity-roles-as-seen-from-specific-new-testament-scriptures-matthew-3-16-17}
+
+{{% ichthys-translation p="Matthew 3:16-17" %}}
+Now once **Jesus** had been baptized, He immediately came up out of the water, and, behold!, the heavens opened for Him, and He saw the **Spirit** of God coming down like a dove and lighting upon Him. And, behold!, a **voice** from heaven was saying, "This is My beloved Son, with whom I am well pleased.
+{{% /ichthys-translation %}}
+
+The baptism of Christ had a much different symbolism from any other baptism John ever undertook. John had (rightly) understood the normal meaning of his unique baptism to be a visible act of repentance and a symbolic washing away of sins. This explains why he was reluctant to baptize the sinless Messiah (Matt.3:14). But in the case of Christ, the symbolism is different: His entrance into the water represents His willingness to submerge Himself into our sins (therefore to die for them); whereas His coming up out of the water represents His resurrection. In this, the role of the Trinity in Christ's victory over death at the cross in death and resurrection is symbolized: the Son who undertook the *mission* to save us from our sins comes back to life (in His humanity); the Holy Spirit *quickens* Him (1Pet.3:18); and the Father who sent the Son *pronounces* His work and sacrifice satisfactory, efficacious and well-pleasing.
+
+<!-- --- -->
+
+#### John 14:16 {#trinity-roles-as-seen-from-specific-new-testament-scriptures-john-14-16}
+
+{{% ichthys-translation p="John 14:16" %}}
+And **I** will ask the **Father** and He will give you another **Comforter**, that He may be with you forever.
+{{% /ichthys-translation %}}
+
+This verse shows the Father in a position of *authority*, the Son *interceding* on behalf of believers, and the Holy Spirit being sent *to help* us.
+
+<!-- --- -->
+
+#### 1 Corinthians 12:4-6 {#trinity-roles-as-seen-from-specific-new-testament-scriptures-1-corinthians-12-4-6}
+
+{{% ichthys-translation p="1st Corinthians 12:4-6" %}}
+There are different gifts, but the same **Spirit**; and there are different ministries, but the same **Lord**; and there are different results, but the same **God** who brings about all results in all cases.
+{{% /ichthys-translation %}}
+
+Here we see clearly the respective roles of the Trinity in supporting our Christian ministry in life. The Holy Spirit gives us our particular spiritual gift(s) (cf. 1Cor.12:11); specific ministries are said to be assigned by our Lord Jesus Christ; and the Father is said to oversee and empower the results of those ministries: God gives us the gift (the Holy Spirit: He *empowers* us); God gives us the ministry (the Lord Jesus Christ: we share in His *mission*); God gives us the results (the Father: all effects are part of His *plan*).
+
+<!-- --- -->
+
+#### 2 Corinthians 13:14 {#trinity-roles-as-seen-from-specific-new-testament-scriptures-2-corinthians-13-14}
+
+{{% ichthys-translation p="2 Corinthians 13:14" %}}
+May the grace of the **Lord Jesus Christ**, and the love of **God**, and the fellowship of the **Holy Spirit** be with you all.
+{{% /ichthys-translation %}}
+
+The Trinity is seen here from the standpoint of salvation, before, during and after: The <u>love</u> of the Father *sends* the Son to die for sinful mankind (cf. Jn.3:16); The Son's *sacrifice* reconciles us with the Father by satisfying the requirements of the Father's righteousness, and thus providing <u>grace</u>, that is, salvation free to us since He paid; The Spirit *unites* in <u>fellowship</u> with God all who accept this offer of grace (based on Christ's death) originating in God's love.
+
+<!-- --- -->
+
+#### Ephesians 3:14-17 {#trinity-roles-as-seen-from-specific-new-testament-scriptures-ephesians-3-14-17}
+
+{{% ichthys-translation p="Ephesians 3:14-17" %}}
+For this reason I bow my knees to the **Father**, from whom His entire family in heaven and on earth has received its name, that He may grant you according to the riches of His glory to be powerfully strengthened in your inner person through His **Spirit**, so that, rooted and grounded in love, **Christ** may dwell in your hearts through faith.
+{{% /ichthys-translation %}}
+
+In this apostolic prayer of Paul, we see the Father as the *authority* to whom Paul prays; he prays for us to be *strengthened* by the Holy Spirit; the object of his prayer is that we may grow to be *more like* our Savior, Jesus Christ, and improve our relationship with Him in every way.
+
+<!-- --- -->
+
+#### Ephesians 4:4-6 {#trinity-roles-as-seen-from-specific-new-testament-scriptures-ephesians-4-4-6}
+
+{{% ichthys-translation p="Ephesians 4:4-6" %}}
+There is one body and One **Spirit** – just as when you were called it was in one hope that you were called. There is One **Lord** [Jesus Christ], one faith, one baptism. There is One **God and Father** of all, who is over all and through all and in all.
+{{% /ichthys-translation %}}
+
+In this precís of the "unity of the faith" (Eph.4:3), Paul reminds us of some of the most important common factors of our Christian faith. In doing so, certain aspects of individual Trinity roles are emphasized: the Holy Spirit's role in bringing us into the body of Christ through His baptizing of us into Christ, and our concomitant *hope* of resurrection in Christ; the Lord Jesus Christ's role as our object of *faith* and the Spirit baptism by which we enter into union with Him through that *faith*; the Father's role as the unifying God of *love*, who knits His family of believers together in every way.
+
+<!-- --- -->
+
+#### 1 Peter 1:1-2 {#trinity-roles-as-seen-from-specific-new-testament-scriptures-1-peter-1-1-2}
+
+{{% ichthys-translation p="1 Peter 1:1-2" %}}
+Peter, an apostle of Jesus Christ, to those who, though outcasts dispersed throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, were yet selected in the foreknowledge of **God the Father**, by means of the **Holy Spirit's** consecration, for the obedience in and sprinkling of the blood of **Jesus Christ**.
+{{% /ichthys-translation %}}
+
+Peter tells us that we believers are elected to eternal life according to the Father's *plan* of salvation, the Holy Spirit's *implementation* of salvation for us when we believe, and the Son's *work* of salvation, in which and in whom we put our faith.
+
+<!-- --- -->
+
+#### Revelation 1:4-6 {#trinity-roles-as-seen-from-specific-new-testament-scriptures-revelation-1-4-6}
+
+{{% ichthys-translation p="Revelation 1:4-6" %}}
+Grace to you and peace from the **One who is and was and is coming**, and from the seven **Spirits** which are before His throne, and from **Jesus Christ**, the faithful witness, the firstborn from the dead and the ruler of the kings of the earth.
+{{% /ichthys-translation %}}
+
+In John's salutation from the Trinity, the Father's eternity and imminent taking of *possession of the devil's world*, the Spirit's *supervision of the devil's world* (see Rev.5:6; Is.11:2), and the Son's *victory and conquest over the devil's world* are emphasized.
+
+{{% /toggleable-content %}}
+
+{{% toggleable-transcript %}}
+
+### Video/audio transcript {#trinity-roles-as-seen-from-specific-new-testament-scriptures-video-audio-transcript}
+
+
+
+{{% /toggleable-transcript %}}
+
+{{% discussion-pages %}}
+
+{{% /discussion-pages %}}
+
+
+
+
+<br/>
+
+
+
+## [Introduction - The Trinity in the Old Testament](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-old-testament) {#introduction-the-trinity-in-the-old-testament}
+{{< subjects >}}
+<a href="/subject-index/#trinity-roles">Trinity > Roles</a>
+{{< /subjects >}}
+
+
+
+### Video {#introduction-the-trinity-in-the-old-testament-video}
+
+{{% video
+src=""
+
+playlist=""
+
+video=""
+
+audio=""
+
+slides=""
+%}}
+
+### Summary {#introduction-the-trinity-in-the-old-testament-summary}
+
+TODO
+
+### Timestamps {#introduction-the-trinity-in-the-old-testament-timestamps}
+
+
+
+{{% toggleable-content %}}
+
+### Content {#introduction-the-trinity-in-the-old-testament-content}
+
+(Derived from https://ichthys.com/1Theo.htm)
+
+<!-- --- -->
+
+#### Given the benefit of subsequent clarifying New Testament revelation, the Trinity is visible in the Old Testament {#introduction-the-trinity-in-the-old-testament-given-the-benefit-of-subsequent-clarifying-new-testament-revelation-the-trinity-is-visible-in-the-old-testament}
+
+The Trinity is not only present in the verses of the Old Testament, but portrayed clearly enough to see (with the benefit of New Testament revelation).
+- When God says "let *us* make Man in *our* image (Gen.1:26)
+- When the angels of God praise Him with their three-fold "holy, holy, holy" (Is.6:3)
+- When Aaron's sons are told to "put My name" on the Israelites with a triple blessing (Num.6:24-26)
+
+In these cases and others, the clear intent is to reflect (if not to convey) the triune nature of God. Moreover, some Old Testament scriptures cast the Trinity in even sharper relief, such as king David's last words which in quick succession refer to God as "the Spirit of the Lord", "the God of Israel", and "the Rock of Israel" (2Sam.23:2-3; see 1Cor.10:4 for the image of Christ as Israel's Rock). There are many other passages commonly cited to demonstrate the reality of the Trinity in the Old Testament, a reality shimmering just beneath the veil (e.g., Is.48:15-17; 63:9-10), but perhaps the best example is the one used by our Lord to demonstrate that His divinity was indeed prophesied by scripture (cf. Zech.2:7-13): Matthew 22:41-46. We'll look at this passage next.
+
+<!-- --- -->
+
+#### Matthew 22:41-46 {#introduction-the-trinity-in-the-old-testament-matthew-22-41-46}
+
+{{% ichthys-translation p="Matthew 22:41-46" %}}
+As the Pharisees were gathering together, Jesus put a question to them, saying "What do you think about the Messiah? Whose son is he?" They answered Him, "David's son." Then He said to them, "Well then, how can David, speaking in the Spirit, call Him Lord? For he says,  
+&emsp;&emsp;The Lord said to My Lord,  
+&emsp;&emsp;"Sit down at my right hand,  
+&emsp;&emsp;until I make your enemies a footstool for your feet." [Psalm 110:1]  
+So if David calls Him Lord, how is He his Son?" And no one was able to answer Him a word, nor did anyone dare to question Him any longer from that day forward.                  
+{{% /ichthys-translation %}}
+
+We are not to assume that David, when he penned this prophecy under divine inspiration, saw the coming Christ as clearly as he wished to. Indeed, we have it from Christ that "many prophets and righteous men desired to see" what was being revealed to Jesus' generation face to face, namely, the unveiling of the Messiah (Matt.13:17; Lk.10:24; cf. Jn.8:56; 1Pet.1:10-12). The revelation of Jesus Christ to the world during His 1st Advent, in addition to explaining passages such as Ps.110:1 above (Christ is David's Son in His humanity, but David's Lord in His deity), is also, not coincidentally, the basis for explaining many other Old Testament passages that are only fully understood by means of our likewise now more complete understanding of the Trinity.
+
+<!-- --- -->
+
+#### Prophetic foreshortening {#introduction-the-trinity-in-the-old-testament-prophetic-foreshortening}
+
+In the Old Testament, the three Persons stand in front of us like three mighty mountains, one after the other, all partially visible, but not readily distinguishable from each other. Only with the revelation provided by the incarnation of Jesus Christ and the New Testament do we see the Old Testament picture of the Trinity from a sidelong perspective, so that now the three mountains become visible in their own right when viewed from this new vantage point.
+
+We should note that all three mountains have always been there, even if humanity was not previously able to distinguish them from one another. One did not suddenly become three. Instead, our perspective merely changed.
+
+This illustration of the Trinity in the Old Testament is commonly called "prophetic foreshortening". For more on this phenomenon, see [part 1 of Coming Tribulation, section IV.1.a, "Prophetical Foreshortening"](https://ichthys.com/Tribulation-Part1.htm#Foreshortening).
+
+<!-- --- -->
+
+#### Why did God decide to veil the triune nature of His essence in Old Testament times? {#introduction-the-trinity-in-the-old-testament-why-did-god-decide-to-veil-the-triune-nature-of-his-essence-in-old-testament-times}
+
+Exactly why did God decide to veil the triune nature of His essence in Old Testament times, choosing instead to only foreshadow it, in the manner discussed above?
+
+Sometimes the explanation put forth for this veiling is the prevention of idolatry: God did not make His triune nature known to Israel in Old Testament times to help them avoid falling into idolatry (the mechanics of which we will examine in a moment). While this explanation has merit, it is not alone sufficient. We will instead argue that God did not reveal Himself in triune form before the 1st Advent of Christ simply because the Trinity can only be clearly explained and understood after the 1st Advent of Christ.
+
+In any case, the point is God has good reasons for His progressive revelation of truth to humanity, and we need to have unshakeable faith in His wisdom and judgment. God knows what He is doing... and not in the way we humans think we do. For He is control of *everything*, and nothing happens except that which is part of His Plan.
+
+<!-- --- -->
+
+##### Idolatry as an explanation for God's veiling of His nature {#introduction-the-trinity-in-the-old-testament-idolatry-as-an-explanation-for-god-s-veiling-of-his-nature}
+
+Idolatry, a major problem in ancient times and one of Israel's most serious stumbling blocks, is often adduced as the reason for this veiling in pre-Christian times of our present knowledge of the Trinity. Certainly it is true that the threat of idolatry to the faith and practice of Old Testament believers was a very real one. We need only to consider that the first two of the "ten commandments" deal with this subject (Ex.20:1-6), and that Balaam's counsel of idolatrous seduction was more destructive to Israel than any curse could ever have been (Num.25). The argument suggests that there was, therefore, a need to emphasize the *oneness* of God in the face of this very real polytheistic threat, thus obviating any possible twisting of a proper understanding of the Trinity. This explanation possesses much of value, but it does not entirely resolve the matter.
+
+{{% sidenote %}}
+
+Pagan pantheons (not to mention pagan religions) are different from God and the true worship of Him in every way, and this would have been obvious to true believers, revelation of the Trinity notwithstanding. To state but two obvious points of departure, pagan pantheons are never even close to being "one" in purpose as the Trinity is (Jn.10:30; cf. 1Cor.3:8), nor are their individual members so integral to the existence of the whole.
+
+{{% /sidenote %}}
+
+<!-- --- -->
+
+##### The person of Jesus Christ not yet come as an explanation for God's veiling of His nature {#introduction-the-trinity-in-the-old-testament-the-person-of-jesus-christ-not-yet-come-as-an-explanation-for-god-s-veiling-of-his-nature}
+
+The full answer lies in the person of Jesus Christ. Before the fact, before we see with our own eyes Christ come in the flesh, His humility, His suffering, His sacrifice for us, can we really appreciate in full the Trinity and what God has chosen to do for us in Christ's incarnation and death on the cross? Without the *accomplished reality* of the incarnation of Jesus, how could we ever but dimly conceive the glory of it? And without the accomplished fact of His incarnation, how could we possibly understand and appreciate the triune nature of God? For it is only through Christ – after He has come into the world in person – that we begin to see God with the clarity of vision it has now been given us to possess (Jn.1:18; 14:9).
+
+<!-- --- -->
+
+Just as the temple veil that symbolically separated us from the presence of God was split in two by Christ's sacrifice on our behalf (Matt.27:51), so the veil that in the Old Testament partially obscured the person of Christ from our view has been lifted by His actual advent in the flesh – to die on our behalf. So that now, through our faith in Jesus Christ, we see God the Father, the Son, and the Holy Spirit more clearly than we ever could before:
+
+{{% ichthys-translation p="2 Corinthians 4:6" %}}
+For God who said, "Let light shine forth from the darkness!", is He who has shone forth [His light] into our hearts to illuminate our knowledge of God's glory ***in the person of Jesus Christ***.
+{{% /ichthys-translation %}}
+
+{{% ichthys-translation p="2 Corinthians 3:14" %}}
+For until this very day, the same veil remains [upon their unbelieving hearts] when the Old Testament is read, and it is not removed [when they hear these scriptures], because it is [only] done away with ***in Christ***.
+{{% /ichthys-translation %}}
+
+<!-- --- -->
+
+So:
+
+- We see the Son more clearly after He comes into the world (Jn.1:14).
+- The Son can only reveal the Father more clearly after He comes into the world (Jn.1:18).
+- The Spirit cannot be sent to indwell believers until after the Son has been glorified (Jn.7:39).
+
+And therefore:
+
+- The Trinity can only be clearly explained and understood after the 1st Advent of Christ, a task undertaken by the New Testament.
+- While in the Old Testament, before the 1st Advent, the members of the Trinity are, understandably, not as clearly distinguished as they are in the New Testament.
+
+{{% /toggleable-content %}}
+
+{{% toggleable-transcript %}}
+
+### Video/audio transcript {#introduction-the-trinity-in-the-old-testament-video-audio-transcript}
 
 
 
