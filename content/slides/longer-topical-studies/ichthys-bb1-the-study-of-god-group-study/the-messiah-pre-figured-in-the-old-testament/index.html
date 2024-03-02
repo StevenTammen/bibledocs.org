@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Slides</title>
+  <meta charset="utf-8">
+  <link
+  rel="stylesheet"
+  href="https://unpkg.com/littlefoot/dist/littlefoot.css"
+/>
+  <style>
+
+   /* hebrew */
+   @font-face {
+     font-family: 'Cardo';
+     font-style: normal;
+     font-weight: 400;
+     font-display: swap;
+     src: url(https://fonts.cdnfonts.com/s/71/Cardo-Regular.woff) format('woff');
+     unicode-range: U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+   }
+ 
+   /* hebrew bold */
+   @font-face {
+     font-family: 'Cardo';
+     font-style: normal;
+     font-weight: 700;
+     font-display: swap;
+     src: url(https://fonts.cdnfonts.com/s/71/Cardo-Bold.woff) format('woff');
+     unicode-range: U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+   }
+ 
+   /* greek */
+   @font-face {
+     font-family: 'Cardo';
+     font-style: normal;
+     font-weight: 400;
+     font-display: swap;
+     src: url(https://fonts.cdnfonts.com/s/71/Cardo-Regular.woff) format('woff');
+     unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+   }
+ 
+   /* greek-ext */
+   @font-face {
+     font-family: 'Cardo';
+     font-style: normal;
+     font-weight: 400;
+     font-display: swap;
+     src: url(https://fonts.cdnfonts.com/s/71/Cardo-Regular.woff) format('woff');
+     unicode-range: U+1F00-1FFF;
+   }
+ 
+   /* greek italic */
+   @font-face {
+     font-family: 'Cardo';
+     font-style: italic;
+     font-weight: 400;
+     font-display: swap;
+     src: url(https://fonts.cdnfonts.com/s/71/Cardo-Italic.woff) format('woff');
+     unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+   }
+ 
+   /* greek-ext italic */
+   @font-face {
+     font-family: 'Cardo';
+     font-style: italic;
+     font-weight: 400;
+     font-display: swap;
+     src: url(https://fonts.cdnfonts.com/s/71/Cardo-Italic.woff) format('woff');
+     unicode-range: U+1F00-1FFF;
+   }
+ 
+   /* greek bold */
+   @font-face {
+     font-family: 'Cardo';
+     font-style: normal;
+     font-weight: 700;
+     font-display: swap;
+     src: url(https://fonts.cdnfonts.com/s/71/Cardo-Bold.woff) format('woff');
+     unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+   }
+ 
+   /* greek-ext bold */
+   @font-face {
+     font-family: 'Cardo';
+     font-style: normal;
+     font-weight: 700;
+     font-display: swap;
+     src: url(https://fonts.cdnfonts.com/s/71/Cardo-Bold.woff) format('woff');
+     unicode-range: U+1F00-1FFF;
+   }
+
+   /* everything else */
+   @font-face {
+    font-family: "Georgia Pro";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("https://db.onlinewebfonts.com/t/aa0978a3bd6a626f739efaff3d30955e.woff") format("woff");
+   }
+
+   /* everything else italic */
+   @font-face {
+    font-family: "Georgia Pro";
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url("https://db.onlinewebfonts.com/t/184f83ff9e037daab3becb74fe52d3cc.woff") format("woff");
+   }
+
+   /* everything else bold */
+   @font-face {
+    font-family: "Georgia Pro";
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url("https://db.onlinewebfonts.com/t/57b97bf2f9f803d0578a7f09da4c39ff.woff") format("woff");
+   }
+
+   /* everything else bold italic */
+   @font-face {
+    font-family: "Georgia Pro";
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url("https://db.onlinewebfonts.com/t/f37fe1720dfa97f2de0c896380c08e19.woff") format("woff");
+   }
+
+   @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Hebrew:wght@100..900&display=swap');
+   @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+   body { 
+    font-family: 'Cardo', 'Georgia Pro', serif;
+   }
+
+   ::selection{
+    background-color: #fff6bd;
+   }
+
+   h1, h2, h3, h4, h5, h6 {
+    font-family: 'Noto Sans Hebrew', 'Noto Sans', sans-serif;
+    font-weight: bold;
+   }
+
+   h2 {
+    display: block;
+    font-size: 34px !important;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+   }
+
+   /* Style most headers the same across slides, for visual consistency */
+   h3, h4, h5, h6 {
+    display: block;
+    font-size: 22px !important;
+    margin-block-start: 1.2em;
+    margin-block-end: 1.2em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+   }
+
+   /*
+    Don't need extra padding when headers aren't in a special content section
+    with the special content section name in a strong tag (when the header is
+    the very first thing in the sepcial content section div). Too much space otherwise
+   */
+   .special-content h3:first-child,
+   .special-content h4:first-child,
+   .special-content h5:first-child,
+   .special-content h6:first-child
+    {
+      margin-top: 0px;
+    }
+
+   .remark-code, .remark-inline-code {
+    font-family: 'Ubuntu Mono'; /* TODO */
+   }
+   
+   .footer {
+    position: absolute;
+    bottom: 5px;
+    right: 50px;
+    height: 40px;
+    width: 800px;
+    color: #006400;
+   }
+
+   a {
+    color: #3b8bba;
+    text-decoration: none;
+  }
+
+  table, th, td {
+    border: 1px solid black;
+  }
+
+  /* Special content sections */
+
+  .special-content {
+    border-radius: 5px;
+    padding: 20px 10px 20px 10px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+  }
+
+  .special-content >  .special-content {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .special-content > strong {
+    display: block;
+    text-align: center;
+    border-bottom: 1px solid black;
+    margin-top: -15px;
+  }
+
+.special-content.cautionary-note {
+	background: #ffe6e6;
+}
+
+.special-content.technical-discussion {
+	background: #ffe0cc;
+}
+
+.special-content.sidenote {
+	background: #fffae6;
+}
+
+.special-content.application {
+	background: #ebfaeb;
+}
+
+.special-content.note {
+	background: #e6ffff
+}
+
+.special-content.indirect-reasoning {
+	background: #e6f5ff;
+}
+
+.special-content.example {
+	background: #f2e6ff;
+}
+
+.special-content.post-hoc-note {
+	background: #ffe6f2;
+}
+
+.special-content.quote {
+	background: #e6e6e6;
+}
+
+.special-content.scripture {
+	border: 1px solid black;
+}
+
+
+  /* Littlefoot footnotes */
+
+  .littlefoot__button {
+    background-color: #dddddd;
+    color: #777777;
+    height: 1rem;
+    padding: 0rem 0.8rem;
+    margin: 0rem 0.1rem;
+    border: none;
+    border-radius: 10px;
+    vertical-align: middle;
+    display: inline-flex;
+    align-items: center; 
+  }
+  </style>
+	<script>
+		var refTagger = {
+			settings: {
+				addLogosLink: true,
+				bibleVersion: "NASB",
+				convertHyperlinks: true,
+				logosLinkIcon: "light",			
+				socialSharing: [],
+				tagChapters: true
+			}
+		};
+	</script>
+ </head>
+ <body>
+  <textarea id="source">
+
+class: center, middle
+
+## The Messiah Pre-figured in the Old Testament
+
+
+
+(Derived from https://ichthys.com/1Theo.htm)
+
+---
+
+
+### Summary
+
+TODO
+---
+
+
+#### Outline
+
+- [Introduction: the Old Testament's portrayal of the suffering of Christ](#4)
+- [Blood sacrifice](#5)
+- [Prophecy](#6)
+
+---
+
+
+### Introduction: the Old Testament's portrayal of the suffering of Christ
+
+Contrary to much conventional wisdom about the Old Testament, Jesus Christ and His sacrifice on our behalf is depicted everywhere in the Old Testament. Furthermore, we know from New Testament scripture that the necessity for the mission and suffering of the Messiah was understood clearly enough by Old Testament believers (as Christ explains on the road to Emmaus: Lk.24:27; see also 1Pet.1:10-12 and Heb.11:26).
+
+In fact, there are in the Old Testament a large variety of "types" employed to pre-figure the incarnation, death and suffering of the Son of God on our behalf. The subject of typology will be covered in more extensive detail in [part 4A of this series (Christology)](https://ichthys.com/4A-Christo.htm), but two major categories of the Old Testament's portrayal of the suffering of Christ should be mentioned now:
+
+---
+
+
+### Blood sacrifice
+
+From the coats of skin that God provides for Adam and Eve to indicate that One will die in their place (Gen.3:21), to Abel's sacrifice, superior to Cain's because it depicts the Substitute's death (Gen.4:4), to the Noahic covenant demanding respect for blood that represents the death of Another in our place (Gen.9:4), to the whole elaborate series of sacrifices commanded by the Mosaic law, all of which portray redemption through Another's blood (cf. Heb.9:22ff.), God made extensive use of the "teaching aid" of blood sacrifice in order that it might be crystal clear to all Old Testament believers that forgiveness of their sins was no light matter: it was something that only God could do for them, and it involved a steep and bloody price that God would somehow have to pay Himself on behalf of those who trusted in Him.
+
+---
+
+
+### Prophecy
+
+The substitutionary suffering and death of Christ on our behalf is predicted and prophesied throughout the Old Testament, for example:
+
+- Genesis 3:15: He will crush your head, and you, [serpent], will strike His heel.
+- Numbers 21:9: So Moses made a bronze serpent and put it on a staff. And it came to pass that whoever was bitten by a serpent then looked at the bronze serpent would live.
+- Psalm 22:1: My God, My God, why did You forsake Me?
+- Isaiah 53:3: He was despised and rejected by men, a man of sorrows and acquainted with suffering.
+
+
+
+
+<!-- Footnote List -->
+<div class="footnotes">
+<ol>
+
+  </ol>
+</div>
+  
+
+---
+
+
+#### Outline
+
+- [Introduction: the Old Testament's portrayal of the suffering of Christ](#4)
+- [Blood sacrifice](#5)
+- [Prophecy](#6)
+
+
+
+  </textarea>
+  <script src="https://remarkjs.com/downloads/remark-latest.min.js">
+  </script>
+  <script>
+   var slideshow = remark.create({ ratio: "16:9" });
+  </script>
+<script
+src="https://unpkg.com/littlefoot/dist/littlefoot.js"
+type="application/javascript"
+></script>
+<script type="application/javascript"> littlefoot.default({
+    activateOnHover: true,
+    dismissOnUnhover: true,
+    hoverDelay: 200,
+    buttonTemplate: `
+    <button
+    aria-label="Footnote <% number %>"
+    class="littlefoot__button"
+    id="<% reference %>"
+    />
+    <% number %>
+    </button>
+    `,
+  }) </script>
+  <!-- RefTagger -->
+  <script>
+    var refTagger = {
+      settings: {
+        bibleVersion: "NASB",
+        convertHyperlinks: false,		
+        roundCorners: true,
+        socialSharing: [],
+        tagChapters: true
+      } 
+    };
+    
+    (function(d, t) { 
+      var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; 
+      g.src = 'https://api.reftagger.com/v2/RefTagger.js'; 
+      s.parentNode.insertBefore(g, s); 
+    }(document, 'script'));
+  </script>
+ </body>
+</html>

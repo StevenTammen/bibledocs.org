@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Slides</title>
+  <meta charset="utf-8">
+  <link
+  rel="stylesheet"
+  href="https://unpkg.com/littlefoot/dist/littlefoot.css"
+/>
+  <style>
+
+   /* hebrew */
+   @font-face {
+     font-family: 'Cardo';
+     font-style: normal;
+     font-weight: 400;
+     font-display: swap;
+     src: url(https://fonts.cdnfonts.com/s/71/Cardo-Regular.woff) format('woff');
+     unicode-range: U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+   }
+ 
+   /* hebrew bold */
+   @font-face {
+     font-family: 'Cardo';
+     font-style: normal;
+     font-weight: 700;
+     font-display: swap;
+     src: url(https://fonts.cdnfonts.com/s/71/Cardo-Bold.woff) format('woff');
+     unicode-range: U+0590-05FF, U+200C-2010, U+20AA, U+25CC, U+FB1D-FB4F;
+   }
+ 
+   /* greek */
+   @font-face {
+     font-family: 'Cardo';
+     font-style: normal;
+     font-weight: 400;
+     font-display: swap;
+     src: url(https://fonts.cdnfonts.com/s/71/Cardo-Regular.woff) format('woff');
+     unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+   }
+ 
+   /* greek-ext */
+   @font-face {
+     font-family: 'Cardo';
+     font-style: normal;
+     font-weight: 400;
+     font-display: swap;
+     src: url(https://fonts.cdnfonts.com/s/71/Cardo-Regular.woff) format('woff');
+     unicode-range: U+1F00-1FFF;
+   }
+ 
+   /* greek italic */
+   @font-face {
+     font-family: 'Cardo';
+     font-style: italic;
+     font-weight: 400;
+     font-display: swap;
+     src: url(https://fonts.cdnfonts.com/s/71/Cardo-Italic.woff) format('woff');
+     unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+   }
+ 
+   /* greek-ext italic */
+   @font-face {
+     font-family: 'Cardo';
+     font-style: italic;
+     font-weight: 400;
+     font-display: swap;
+     src: url(https://fonts.cdnfonts.com/s/71/Cardo-Italic.woff) format('woff');
+     unicode-range: U+1F00-1FFF;
+   }
+ 
+   /* greek bold */
+   @font-face {
+     font-family: 'Cardo';
+     font-style: normal;
+     font-weight: 700;
+     font-display: swap;
+     src: url(https://fonts.cdnfonts.com/s/71/Cardo-Bold.woff) format('woff');
+     unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+   }
+ 
+   /* greek-ext bold */
+   @font-face {
+     font-family: 'Cardo';
+     font-style: normal;
+     font-weight: 700;
+     font-display: swap;
+     src: url(https://fonts.cdnfonts.com/s/71/Cardo-Bold.woff) format('woff');
+     unicode-range: U+1F00-1FFF;
+   }
+
+   /* everything else */
+   @font-face {
+    font-family: "Georgia Pro";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("https://db.onlinewebfonts.com/t/aa0978a3bd6a626f739efaff3d30955e.woff") format("woff");
+   }
+
+   /* everything else italic */
+   @font-face {
+    font-family: "Georgia Pro";
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url("https://db.onlinewebfonts.com/t/184f83ff9e037daab3becb74fe52d3cc.woff") format("woff");
+   }
+
+   /* everything else bold */
+   @font-face {
+    font-family: "Georgia Pro";
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url("https://db.onlinewebfonts.com/t/57b97bf2f9f803d0578a7f09da4c39ff.woff") format("woff");
+   }
+
+   /* everything else bold italic */
+   @font-face {
+    font-family: "Georgia Pro";
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url("https://db.onlinewebfonts.com/t/f37fe1720dfa97f2de0c896380c08e19.woff") format("woff");
+   }
+
+   @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Hebrew:wght@100..900&display=swap');
+   @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+   body { 
+    font-family: 'Cardo', 'Georgia Pro', serif;
+   }
+
+   ::selection{
+    background-color: #fff6bd;
+   }
+
+   h1, h2, h3, h4, h5, h6 {
+    font-family: 'Noto Sans Hebrew', 'Noto Sans', sans-serif;
+    font-weight: bold;
+   }
+
+   h2 {
+    display: block;
+    font-size: 34px !important;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+   }
+
+   /* Style most headers the same across slides, for visual consistency */
+   h3, h4, h5, h6 {
+    display: block;
+    font-size: 22px !important;
+    margin-block-start: 1.2em;
+    margin-block-end: 1.2em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+   }
+
+   /*
+    Don't need extra padding when headers aren't in a special content section
+    with the special content section name in a strong tag (when the header is
+    the very first thing in the sepcial content section div). Too much space otherwise
+   */
+   .special-content h3:first-child,
+   .special-content h4:first-child,
+   .special-content h5:first-child,
+   .special-content h6:first-child
+    {
+      margin-top: 0px;
+    }
+
+   .remark-code, .remark-inline-code {
+    font-family: 'Ubuntu Mono'; /* TODO */
+   }
+   
+   .footer {
+    position: absolute;
+    bottom: 5px;
+    right: 50px;
+    height: 40px;
+    width: 800px;
+    color: #006400;
+   }
+
+   a {
+    color: #3b8bba;
+    text-decoration: none;
+  }
+
+  table, th, td {
+    border: 1px solid black;
+  }
+
+  /* Special content sections */
+
+  .special-content {
+    border-radius: 5px;
+    padding: 20px 10px 20px 10px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+  }
+
+  .special-content >  .special-content {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .special-content > strong {
+    display: block;
+    text-align: center;
+    border-bottom: 1px solid black;
+    margin-top: -15px;
+  }
+
+.special-content.cautionary-note {
+	background: #ffe6e6;
+}
+
+.special-content.technical-discussion {
+	background: #ffe0cc;
+}
+
+.special-content.sidenote {
+	background: #fffae6;
+}
+
+.special-content.application {
+	background: #ebfaeb;
+}
+
+.special-content.note {
+	background: #e6ffff
+}
+
+.special-content.indirect-reasoning {
+	background: #e6f5ff;
+}
+
+.special-content.example {
+	background: #f2e6ff;
+}
+
+.special-content.post-hoc-note {
+	background: #ffe6f2;
+}
+
+.special-content.quote {
+	background: #e6e6e6;
+}
+
+.special-content.scripture {
+	border: 1px solid black;
+}
+
+
+  /* Littlefoot footnotes */
+
+  .littlefoot__button {
+    background-color: #dddddd;
+    color: #777777;
+    height: 1rem;
+    padding: 0rem 0.8rem;
+    margin: 0rem 0.1rem;
+    border: none;
+    border-radius: 10px;
+    vertical-align: middle;
+    display: inline-flex;
+    align-items: center; 
+  }
+  </style>
+	<script>
+		var refTagger = {
+			settings: {
+				addLogosLink: true,
+				bibleVersion: "NASB",
+				convertHyperlinks: true,
+				logosLinkIcon: "light",			
+				socialSharing: [],
+				tagChapters: true
+			}
+		};
+	</script>
+ </head>
+ <body>
+  <textarea id="source">
+
+class: center, middle
+
+## Does Jesus' Use of the Sleeping Terminology Have Anything to Do with Resuscitation?
+
+
+
+---
+
+
+### Summary
+
+TODO
+---
+
+
+#### Outline
+
+- [Q: Does Jesus' use of the sleeping terminology have anything to to do with resuscitation?](#4)
+- [Comments on our specific cases](#5)
+  - [Lazarus' case](#6)
+  - [Jairus' daughter's case](#7)
+  - [The basic concept: sleeping is primarily associated with death, not resuscitation](#8)
+- [More explanation about how sleeping and death are tightly linguistically coupled](#9)
+
+---
+
+
+### Q: Does Jesus' use of the sleeping terminology have anything to to do with resuscitation?
+
+Could the reason that Jesus used the sleeping terminology in John 11:11 and Matthew 9:24 have anything to do with the fact that these individuals would be resuscitated and wake up again? (As opposed to people who die but are not resuscitated)?
+
+---
+
+
+### Comments on our specific cases
+
+I think Jesus' use of the sleeping terminology in John 11 and Matthew 9 is completely separate from his foreknowledge that these folks would be resuscitated rather than staying dead.
+
+---
+
+
+#### Lazarus' case
+
+In the case of Lazarus, the euphemism would be just as true in their culture if Lazarus never was resuscitated and stayed dead. That would be how the euphemism was mostly used in practice, after all, since it would be far more normal for people to stay dead than to be raised back to life.
+
+---
+
+
+#### Jairus' daughter's case
+
+And in the case of Jairus' daughter, like I argued, even though she was actually dead and Jesus knew so, He said what he did (that is, took advantage of the euphemism people clearly knew culturally) to make things purposefully ambiguous to others, so that neither He nor the girl and her family would receive as much negative attention from it.
+
+---
+
+
+#### The basic concept: sleeping is primarily associated with death, not resuscitation
+
+In neither case was his usage of this terminology really directly tied to the resuscitation, even though it turned up in both of these places. That is, I see the association of sleeping as being primarily with death, not resuscitation.
+
+We also ought to note that there are places where sleeping is mentioned alongside death but not resuscitation (e.g., 1 Kings 2:10---"Then David slept with his fathers and was buried in the city of David"), and also places where resuscitation is mentioned but not sleeping (e.g., Paul's raising of Eutychus in Acts 20:7-12). These observations mean that we ought to understand the sleep references as being primarily associated with death, not resuscitation.
+
+---
+
+
+### More explanation about how sleeping and death are tightly linguistically coupled
+
+The verb for raising someone from death is the same as awakening/rousing someone from sleep in both Hebrew and Greek---see Hebrew's *qutz* ([קוּץ](https://www.blueletterbible.org/lexicon/h6974/esv/wlc/0-1/)) and Greek's *egeiro* ([ἐγείρω](https://www.blueletterbible.org/lexicon/g1453/esv/mgnt/0-1/)), and the relevant concordance entries for this type of usage (that is, when the verbs are being used of death not sleep).
+
+You might especially compare passages that clearly describe death as a perpetual sleep from which one does not awaken. For example:
+
+- Jeremiah 51:39, 57;
+- Job 14:12
+
+Or passages that describe those that have been buried as sleeping in the ground:
+
+- Daniel 12:2
+
+So it's not just by accident that the verbs overlap in usage, but because of an enduring semantic relationship between the concepts, present in English as well (perhaps most commonly in poetic phrasing---cf. John Donne's famous Sonnet ["Death, be not proud"](https://www.poetryfoundation.org/poems/44107/holy-sonnets-death-be-not-proud)), and actually most other languages too I'd reckon. Not that I've done a formal study of it, but it just makes sense for us humans to associate these two concepts that have similar surface appearances.
+
+
+
+
+<!-- Footnote List -->
+<div class="footnotes">
+<ol>
+
+  </ol>
+</div>
+  
+
+---
+
+
+#### Outline
+
+- [Q: Does Jesus' use of the sleeping terminology have anything to to do with resuscitation?](#4)
+- [Comments on our specific cases](#5)
+  - [Lazarus' case](#6)
+  - [Jairus' daughter's case](#7)
+  - [The basic concept: sleeping is primarily associated with death, not resuscitation](#8)
+- [More explanation about how sleeping and death are tightly linguistically coupled](#9)
+
+
+
+  </textarea>
+  <script src="https://remarkjs.com/downloads/remark-latest.min.js">
+  </script>
+  <script>
+   var slideshow = remark.create({ ratio: "16:9" });
+  </script>
+<script
+src="https://unpkg.com/littlefoot/dist/littlefoot.js"
+type="application/javascript"
+></script>
+<script type="application/javascript"> littlefoot.default({
+    activateOnHover: true,
+    dismissOnUnhover: true,
+    hoverDelay: 200,
+    buttonTemplate: `
+    <button
+    aria-label="Footnote <% number %>"
+    class="littlefoot__button"
+    id="<% reference %>"
+    />
+    <% number %>
+    </button>
+    `,
+  }) </script>
+  <!-- RefTagger -->
+  <script>
+    var refTagger = {
+      settings: {
+        bibleVersion: "NASB",
+        convertHyperlinks: false,		
+        roundCorners: true,
+        socialSharing: [],
+        tagChapters: true
+      } 
+    };
+    
+    (function(d, t) { 
+      var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; 
+      g.src = 'https://api.reftagger.com/v2/RefTagger.js'; 
+      s.parentNode.insertBefore(g, s); 
+    }(document, 'script'));
+  </script>
+ </body>
+</html>
