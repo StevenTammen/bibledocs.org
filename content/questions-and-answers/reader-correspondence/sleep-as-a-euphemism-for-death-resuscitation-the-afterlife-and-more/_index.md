@@ -13,13 +13,9 @@ summary: >-
 ### Video {#lazarus-and-jairus-daughter-are-they-sleeping-or-dead-video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides=""
 %}}
@@ -267,13 +263,9 @@ Bob L.
 ### Video {#does-jesus-use-of-the-sleeping-terminology-have-anything-to-do-with-resuscitation-video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides=""
 %}}
@@ -355,13 +347,9 @@ So it's not just by accident that the verbs overlap in usage, but because of an 
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://www.steventammen.com/slides/"
 %}} -->
@@ -572,13 +560,9 @@ That is to say, when Jairus' daughter died the first time (assuming for the sake
 ### Video {#could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death-video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides=""
 %}}

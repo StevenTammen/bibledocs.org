@@ -19,13 +19,9 @@ summary: >-
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://www.steventammen.com/slides/"
 %}} -->
@@ -218,13 +214,9 @@ Hopefully the above convinced you that the main argument of the link I supplied 
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://www.steventammen.com/slides/"
 %}} -->
@@ -365,13 +357,9 @@ If I were to make an another argument about all this from scratch, I would hit t
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://www.steventammen.com/slides/"
 %}} -->

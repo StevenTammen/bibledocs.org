@@ -13,13 +13,9 @@ layout: content-page
 ## Video {#video}
 
 {{% video
-src="https://www.youtube.com/embed/J8adMBllL7Y"
+videoId="J8adMBllL7Y"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
 
 slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2023/through-4-17-23/"
 %}}
@@ -32,16 +28,16 @@ Nonetheless, this release brings some new content for many of the lessons in the
 
 ## Timestamps {#timestamps}
 
-[00:00](https://www.youtube.com/watch?v=J8adMBllL7Y&t=0s) - Intro  
-[01:03](https://www.youtube.com/watch?v=J8adMBllL7Y&t=63s) - It's been a while...  
-[02:20](https://www.youtube.com/watch?v=J8adMBllL7Y&t=140s) - Helping my roommate get his content ready for his ministry launch  
-[04:44](https://www.youtube.com/watch?v=J8adMBllL7Y&t=284s) - New content this cycle  
-[22:05](https://www.youtube.com/watch?v=J8adMBllL7Y&t=1325s) - Upcoming work  
-[23:30](https://www.youtube.com/watch?v=J8adMBllL7Y&t=1410s) - Excuse for lateness number 1: Microphone debugging  
-[25:44](https://www.youtube.com/watch?v=J8adMBllL7Y&t=1544s) - Excuse for lateness number 2: Getting accustomed to new responsibilities at work  
-[27:24](https://www.youtube.com/watch?v=J8adMBllL7Y&t=1644s) - Excuse for lateness number 3: I was very busy when away on a business trip for two weeks  
-[29:06](https://www.youtube.com/watch?v=J8adMBllL7Y&t=1746s) - Excuse for lateness number 4: I spent some time "investing in the future"  
-[31:10](https://www.youtube.com/watch?v=J8adMBllL7Y&t=1870s) - Outro  
+{{% timestamp videoId="J8adMBllL7Y" time="0" display="00:00" %}} - Intro  
+{{% timestamp videoId="J8adMBllL7Y" time="63" display="01:03" %}} - It's been a while...  
+{{% timestamp videoId="J8adMBllL7Y" time="140" display="02:20" %}} - Helping my roommate get his content ready for his ministry launch  
+{{% timestamp videoId="J8adMBllL7Y" time="284" display="04:44" %}} - New content this cycle  
+{{% timestamp videoId="J8adMBllL7Y" time="1325" display="22:05" %}} - Upcoming work  
+{{% timestamp videoId="J8adMBllL7Y" time="1410" display="23:30" %}} - Excuse for lateness number 1: Microphone debugging  
+{{% timestamp videoId="J8adMBllL7Y" time="1544" display="25:44" %}} - Excuse for lateness number 2: Getting accustomed to new responsibilities at work  
+{{% timestamp videoId="J8adMBllL7Y" time="1644" display="27:24" %}} - Excuse for lateness number 3: I was very busy when away on a business trip for two weeks  
+{{% timestamp videoId="J8adMBllL7Y" time="1746" display="29:06" %}} - Excuse for lateness number 4: I spent some time "investing in the future"  
+{{% timestamp videoId="J8adMBllL7Y" time="1870" display="31:10" %}} - Outro  
 
 {{% content %}}
 

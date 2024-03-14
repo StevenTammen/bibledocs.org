@@ -20,13 +20,9 @@ summary: >-
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://www.steventammen.com/slides/"
 %}} -->
@@ -197,13 +193,9 @@ This is the testimony of scripture.
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://www.steventammen.com/slides/"
 %}} -->
@@ -332,13 +324,9 @@ The parties involved know the realities at hand, as does God. If a child is arro
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://www.steventammen.com/slides/"
 %}} -->
@@ -535,13 +523,9 @@ Prayer is a powerful tool, all the more so for those who have taken the time to 
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://www.steventammen.com/slides/"
 %}} -->

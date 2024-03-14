@@ -16,13 +16,9 @@ layout: aggregation-page
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
@@ -79,13 +75,9 @@ So the short answer to this question is all of chapter 1 from verse 18 onward.  
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
@@ -168,13 +160,9 @@ Our culture at present---in 21st-century America---is vehemently opposed to taki
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
@@ -247,13 +235,9 @@ Verse 4 is therefore just another "possible explanation" for how these people ca
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
@@ -308,13 +292,9 @@ We might compare the people of Nineveh in the Old Testament book of Jonah. That 
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
@@ -367,13 +347,9 @@ So each of us needs to reflexively examine ourselves to make sure that there are
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
@@ -428,13 +404,9 @@ You *do* have free will. So stop making excuses and start making the choices God
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->

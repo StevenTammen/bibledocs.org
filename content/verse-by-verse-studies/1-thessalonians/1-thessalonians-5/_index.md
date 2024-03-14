@@ -16,13 +16,9 @@ layout: aggregation-page
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
@@ -88,13 +84,9 @@ We might also compare Matthew chapters 24 and 25---the so-called "Olivet Discour
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
@@ -232,13 +224,9 @@ And because God has saved us from wrath and appointed us to salvation---dying fo
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
@@ -311,13 +299,9 @@ I shall close this discussion by noting that Bible teachers sometimes need to be
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
@@ -441,13 +425,9 @@ Straightforward enough, but by no means easy. Patience is a virtue, as they say,
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->

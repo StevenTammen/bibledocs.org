@@ -13,13 +13,9 @@ layout: content-page
 ## Video {#video}
 
 {{% video
-src="https://www.youtube.com/embed/XXGlUV2RtnI"
+videoId="XXGlUV2RtnI"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
 
 slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/introduction/"
 %}}
@@ -30,11 +26,11 @@ In this video, I go over exactly what these ministry progress summary videos are
 
 ## Timestamps {#timestamps}
 
-[00:00](https://www.youtube.com/watch?v=XXGlUV2RtnI&t=0s) - Introduction  
-[00:50](https://www.youtube.com/watch?v=XXGlUV2RtnI&t=50s) - Outline  
-[01:12](https://www.youtube.com/watch?v=XXGlUV2RtnI&t=72s) - About these ministry progress summaries  
-[02:44](https://www.youtube.com/watch?v=XXGlUV2RtnI&t=164s) - These are different than the daily progress summary videos on the other YouTube channel  
-[05:23](https://www.youtube.com/watch?v=XXGlUV2RtnI&t=323s) - Summary and outro  
+{{% timestamp videoId="XXGlUV2RtnI" time="0" display="00:00" %}} - Introduction  
+{{% timestamp videoId="XXGlUV2RtnI" time="50" display="00:50" %}} - Outline  
+{{% timestamp videoId="XXGlUV2RtnI" time="72" display="01:12" %}} - About these ministry progress summaries  
+{{% timestamp videoId="XXGlUV2RtnI" time="164" display="02:44" %}} - These are different than the daily progress summary videos on the other YouTube channel  
+{{% timestamp videoId="XXGlUV2RtnI" time="323" display="05:23" %}} - Summary and outro  
 
 {{% content %}}
 

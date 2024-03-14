@@ -16,13 +16,9 @@ layout: aggregation-page
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
@@ -131,13 +127,9 @@ Put bluntly, if you follow things here to their logical conclusions, you won't f
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
@@ -206,13 +198,9 @@ It is also good to compare 1 Corinthians 6:18, which says that unlike many other
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
@@ -265,13 +253,9 @@ And this is why we all have work to do here, why it will always be a constant ba
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
@@ -355,13 +339,9 @@ If we give a good witness---live our lives as salt and light---and then let the 
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->

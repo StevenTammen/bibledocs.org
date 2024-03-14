@@ -13,13 +13,9 @@ layout: content-page
 ## Video {#video}
 
 {{% video
-src="https://www.youtube.com/embed/0lMep2I9sRc"
+videoId="0lMep2I9sRc"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
 
 slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2023/through-1-15-23/"
 %}}
@@ -30,11 +26,11 @@ This cycle was very research-heavy. I worked more on the studies I'm in the proc
 
 ## Timestamps {#timestamps}
 
-[00:00](https://www.youtube.com/watch?v=0lMep2I9sRc&t=0s) - Intro  
-[00:34](https://www.youtube.com/watch?v=0lMep2I9sRc&t=34s) - Worked more on in-progress studies  
-[02:06](https://www.youtube.com/watch?v=0lMep2I9sRc&t=126s) - Researched a couple topics and had long conversations about them  
-[03:43](https://www.youtube.com/watch?v=0lMep2I9sRc&t=223s) - Researched and decided where I want to start getting involved locally  
-[05:43](https://www.youtube.com/watch?v=0lMep2I9sRc&t=343s) - Upcoming work  
+{{% timestamp videoId="0lMep2I9sRc" time="0" display="00:00" %}} - Intro  
+{{% timestamp videoId="0lMep2I9sRc" time="34" display="00:34" %}} - Worked more on in-progress studies  
+{{% timestamp videoId="0lMep2I9sRc" time="126" display="02:06" %}} - Researched a couple topics and had long conversations about them  
+{{% timestamp videoId="0lMep2I9sRc" time="223" display="03:43" %}} - Researched and decided where I want to start getting involved locally  
+{{% timestamp videoId="0lMep2I9sRc" time="343" display="05:43" %}} - Upcoming work  
 
 {{% content %}}
 

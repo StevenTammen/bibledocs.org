@@ -13,13 +13,9 @@ layout: discussion-page
 ## Video {#video}
 
 {{% video
-src="https://www.youtube.com/embed/eqtCDR-RVjc"
+videoId="eqtCDR-RVjc"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4"
 
 slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr4-satans-world-system/level-of-depth-calling-many-deceived-too-harsh-why-god-allows-satan-control/"
 %}}
@@ -30,12 +26,12 @@ Talking in-depth about Satan's world system has enough practical benefit that it
 
 ## Timestamps {#timestamps}
 
-[00:00](https://www.youtube.com/watch?v=eqtCDR-RVjc&list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4&index=3&t=0s) - Introduction  
-[00:54](https://www.youtube.com/watch?v=eqtCDR-RVjc&list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4&index=3&t=54s) - Is this much depth really necessary? (In talking about Satan's web of lies and deceit in the world)  
-[03:40](https://www.youtube.com/watch?v=eqtCDR-RVjc&list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4&index=3&t=220s) - Are many Christians really so helpless? (In terms of being deceived by Satan's lies)  
-[10:25](https://www.youtube.com/watch?v=eqtCDR-RVjc&list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4&index=3&t=625s) - Isn't this too harsh? (Saying that many people really are deceived)  
-[12:38](https://www.youtube.com/watch?v=eqtCDR-RVjc&list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4&index=3&t=758s) - Why doesn't God just defeat Satan already?  
-[20:10](https://www.youtube.com/watch?v=eqtCDR-RVjc&list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4&index=3&t=1210s) - Did God give Satan control? Is that phrasing really appropriate?  
+{{% timestamp videoId="eqtCDR-RVjc" time="0" display="00:00" %}} - Introduction  
+{{% timestamp videoId="eqtCDR-RVjc" time="54" display="00:54" %}} - Is this much depth really necessary? (In talking about Satan's web of lies and deceit in the world)  
+{{% timestamp videoId="eqtCDR-RVjc" time="220s" display="03:40" %}} - Are many Christians really so helpless? (In terms of being deceived by Satan's lie)  
+{{% timestamp videoId="eqtCDR-RVjc" time="625" display="10:25" %}} - Isn't this too harsh? (Saying that many people really are deceived)  
+{{% timestamp videoId="eqtCDR-RVjc" time="758" display="12:38" %}} - Why doesn't God just defeat Satan already?  
+{{% timestamp videoId="eqtCDR-RVjc" time="1210" display="20:10" %}} - Did God give Satan control? Is that phrasing really appropriate?  
 
 {{% content %}}
 

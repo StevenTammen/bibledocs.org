@@ -7,13 +7,9 @@ layout: content-page
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://www.bibledocs.org/slides/"
 %}} -->

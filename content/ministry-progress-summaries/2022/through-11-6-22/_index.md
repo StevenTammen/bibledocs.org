@@ -13,13 +13,9 @@ layout: content-page
 ## Video {#video}
 
 {{% video
-src="https://www.youtube.com/embed/5pwYapEkGL0"
+videoId="5pwYapEkGL0"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
 
 slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/through-11-6-22/"
 %}}
@@ -30,14 +26,14 @@ This cycle I worked some on organizing content pages/videos and discussion pages
 
 ## Timestamps {#timestamps}
 
-[00:00](https://www.youtube.com/watch?v=5pwYapEkGL0&t=0s) - Introduction  
-[01:17](https://www.youtube.com/watch?v=5pwYapEkGL0&t=77s) - Outline  
-[02:27](https://www.youtube.com/watch?v=5pwYapEkGL0&t=147s) - Optimize my desk/cubicle environment at work for getting ministry things done over my lunch hour  
-[08:42](https://www.youtube.com/watch?v=5pwYapEkGL0&t=522s) - Set up audio normalization  
-[10:47](https://www.youtube.com/watch?v=5pwYapEkGL0&t=647s) - Ordered additional things to hopefully help improve video recording quality even more moving forward  
-[18:55](https://www.youtube.com/watch?v=5pwYapEkGL0&t=1135s) - Made some progress organizing things for the first 3 lessons in the SR4 series  
-[21:02](https://www.youtube.com/watch?v=5pwYapEkGL0&t=1262s) - Upcoming work  
-[23:22](https://www.youtube.com/watch?v=5pwYapEkGL0&t=1402s) - Outro  
+{{% timestamp videoId="5pwYapEkGL0" time="0" display="00:00" %}} - Introduction  
+{{% timestamp videoId="5pwYapEkGL0" time="77" display="01:17" %}} - Outline  
+{{% timestamp videoId="5pwYapEkGL0" time="147" display="02:27" %}} - Optimize my desk/cubicle environment at work for getting ministry things done over my lunch hour  
+{{% timestamp videoId="5pwYapEkGL0" time="522" display="08:42" %}} - Set up audio normalization  
+{{% timestamp videoId="5pwYapEkGL0" time="647" display="10:47" %}} - Ordered additional things to hopefully help improve video recording quality even more moving forward  
+{{% timestamp videoId="5pwYapEkGL0" time="1135" display="18:55" %}} - Made some progress organizing things for the first 3 lessons in the SR4 series  
+{{% timestamp videoId="5pwYapEkGL0" time="1262" display="21:02" %}} - Upcoming work  
+{{% timestamp videoId="5pwYapEkGL0" time="1402" display="23:22" %}} - Outro  
 
 {{% content %}}
 

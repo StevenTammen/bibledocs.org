@@ -13,13 +13,9 @@ layout: content-page
 ## Video {#video}
 
 {{% video
-src="https://www.youtube.com/embed/sozA_xvb9Nk"
+videoId="sozA_xvb9Nk"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
 
 slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/through-12-18-22/"
 %}}
@@ -30,9 +26,9 @@ This cycle I started producing new written content again. This time, one study w
 
 ## Timestamps {#timestamps}
 
-[00:00](https://www.youtube.com/watch?v=sozA_xvb9Nk&t=0s) - Foreword  
-[04:00](https://www.youtube.com/watch?v=sozA_xvb9Nk&t=240s) - The new written content  
-[11:57](https://www.youtube.com/watch?v=sozA_xvb9Nk&t=717s) - Upcoming work  
+{{% timestamp videoId="sozA_xvb9Nk" time="0" display="00:00" %}} - Foreword  
+{{% timestamp videoId="sozA_xvb9Nk" time="240" display="04:00" %}} - The new written content  
+{{% timestamp videoId="sozA_xvb9Nk" time="717" display="11:57" %}} - Upcoming work  
 
 {{% content %}}
 

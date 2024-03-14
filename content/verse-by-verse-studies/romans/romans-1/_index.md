@@ -16,13 +16,9 @@ layout: aggregation-page
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
@@ -81,13 +77,9 @@ Think about that next time you talk about redemption! That is how central a meta
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
@@ -140,13 +132,9 @@ Going too far either direction is problematic. Jesus is fully God *and* fully ma
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
@@ -199,13 +187,9 @@ It is of course important to note that in broad strokes *we* are the sinners in 
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
@@ -256,13 +240,9 @@ After all, we are but tools in the hands of the Master Craftsman, and He knows v
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
@@ -319,13 +299,9 @@ But we need to understand what it says and means before we can be encouraged by 
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
@@ -382,13 +358,9 @@ And this is why even when we act righteously, it is not because *we* are righteo
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
@@ -476,13 +448,9 @@ The implication should not be lost on us!
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
@@ -537,13 +505,9 @@ Nobody is perfect in this---not even close. The point is that we should stop lyi
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
@@ -617,13 +581,9 @@ And so as to not have double standards (like some unfortunately do with regards 
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
@@ -682,13 +642,9 @@ But the temptation will always be there, because only those who lose their lives
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
@@ -810,13 +766,9 @@ We ought not cheer about this, *per se* (we ought to instead truly desire the sa
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
@@ -872,13 +824,9 @@ These verses are quite unambiguous. Both homosexual relationships between women 
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
@@ -952,13 +900,9 @@ Finally, if you really love someone, *you do not encourage and enable their gros
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
@@ -1045,13 +989,9 @@ Leaving things here in this discussion may be somewhat unsatisfying in that no h
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
@@ -1201,13 +1141,9 @@ The passage we just quoted from in 1 Corinthians 6 is quite relevant to our spec
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
@@ -1282,13 +1218,9 @@ Polygamy is not sinful *per se*, but that also doesn't make it something that we
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
@@ -1343,13 +1275,9 @@ That is, God arranged the world in such a way that we do not even have to go aga
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
@@ -1439,13 +1367,9 @@ All of this is important for ensuring that we accurately discern the nature of t
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->

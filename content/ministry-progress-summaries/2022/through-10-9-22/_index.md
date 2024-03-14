@@ -13,13 +13,9 @@ layout: content-page
 ## Video {#video}
 
 {{% video
-src="https://www.youtube.com/embed/HpKO1ZHIzPQ"
+videoId="HpKO1ZHIzPQ"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
 
 slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/through-10-9-22/"
 %}}
@@ -34,17 +30,17 @@ Aside from all that, the biggest task knocked out this cycle was coding support 
 
 ## Timestamps {#timestamps}
 
-[00:00](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=0s) - Introduction  
-[04:54](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=294s) - Outline  
-[06:34](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=394s) - Did lots, lots more computer setup stuff, including things related to the video recording workflow  
-[08:10](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=490s) - Researched, ordered, and started to set up things related to voice recognition  
-[13:45](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=825s) - Researched and ordered a better mic setup for making content videos  
-[16:33](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=993s) - Researched, ordered, and planned out a portable computer setup to work at a local public library on weekends  
-[18:40](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=1120s) - Pondered the multi-website future that is coming  
-[21:44](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=1304s) - Misc. discussions from the ministry community  
-[26:34](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=1594s) - Modified the preprocessor Python application to support discussion pages  
-[32:42](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=1962s) - Upcoming work  
-[35:40](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=2140s) - Outro  
+{{% timestamp videoId="HpKO1ZHIzPQ" time="0" display="00:00" %}} - Introduction  
+{{% timestamp videoId="HpKO1ZHIzPQ" time="294" display="04:54" %}} - Outline  
+{{% timestamp videoId="HpKO1ZHIzPQ" time="394" display="06:34" %}} - Did lots, lots more computer setup stuff, including things related to the video recording workflow  
+{{% timestamp videoId="HpKO1ZHIzPQ" time="490" display="08:10" %}} - Researched, ordered, and started to set up things related to voice recognition  
+{{% timestamp videoId="HpKO1ZHIzPQ" time="825" display="13:45" %}} - Researched and ordered a better mic setup for making content videos  
+{{% timestamp videoId="HpKO1ZHIzPQ" time="993" display="16:33" %}} - Researched, ordered, and planned out a portable computer setup to work at a local public library on weekends  
+{{% timestamp videoId="HpKO1ZHIzPQ" time="1120" display="18:40" %}} - Pondered the multi-website future that is coming  
+{{% timestamp videoId="HpKO1ZHIzPQ" time="1304" display="21:44" %}} - Misc. discussions from the ministry community  
+{{% timestamp videoId="HpKO1ZHIzPQ" time="1594" display="26:34" %}} - Modified the preprocessor Python application to support discussion pages  
+{{% timestamp videoId="HpKO1ZHIzPQ" time="1962" display="32:42" %}} - Upcoming work  
+{{% timestamp videoId="HpKO1ZHIzPQ" time="2140" display="35:40" %}} - Outro  
 
 {{% content %}}
 

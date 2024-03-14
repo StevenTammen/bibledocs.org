@@ -5,13 +5,9 @@ title: Ministry Introduction and General Overview
 ## Video {#video}
 
 {{% video
-src="https://www.youtube.com/embed/OVKDoAWI_20"
+videoId="OVKDoAWI_20"
 
-playlist=""
-
-video="https://archive.org/download/bibledocs-ministry-introduction-and-general-overview-video-1/Ministry%20Introduction%20and%20General%20Overview.mp4"
-
-audio="https://archive.org/download/bibledocs-ministry-introduction-and-general-overview-audio-1/Ministry%20Introduction%20and%20General%20Overview.mp3"
+videoPlaylist=""
 
 slides="https://www.bibledocs.org/slides/ministry-introduction-and-general-overview/"
 %}}
@@ -22,20 +18,20 @@ This video provides a summary of this ministry: who is behind it, what resources
 
 ## Timestamps {#timestamps}
 
-[00:00](https://www.youtube.com/watch?v=OVKDoAWI_20&t=0s) - Introduction  
-[01:25](https://www.youtube.com/watch?v=OVKDoAWI_20&t=85s) - About me and my path to ministry  
-[05:12](https://www.youtube.com/watch?v=OVKDoAWI_20&t=312s) - This ministry targets text, audio, and video content all three  
-[11:49](https://www.youtube.com/watch?v=OVKDoAWI_20&t=709s) - The YouTube channel has many of the same useful content enhancements  
-[15:36](https://www.youtube.com/watch?v=OVKDoAWI_20&t=936s) - Page types used in main content: list pages, aggregation pages, and content pages  
-[23:44](https://www.youtube.com/watch?v=OVKDoAWI_20&t=1424s) - Other notable content-related things  
-&nbsp;&nbsp;&nbsp;[23:55](https://www.youtube.com/watch?v=OVKDoAWI_20&t=1435s) - Dynamic auto-scrolling tables of contents  
-&nbsp;&nbsp;&nbsp;[25:43](https://www.youtube.com/watch?v=OVKDoAWI_20&t=1543s) - Special content sections  
-&nbsp;&nbsp;&nbsp;[27:16](https://www.youtube.com/watch?v=OVKDoAWI_20&t=1636s) - Embedded Bible app windows  
-&nbsp;&nbsp;&nbsp;[33:25](https://www.youtube.com/watch?v=OVKDoAWI_20&t=2005s) - Subject index  
-[35:32](https://www.youtube.com/watch?v=OVKDoAWI_20&t=2132s) - The BibleDocs community: Forum, WhatsApp  
-[39:32](https://www.youtube.com/watch?v=OVKDoAWI_20&t=2372s) - Mailing list  
-[40:07](https://www.youtube.com/watch?v=OVKDoAWI_20&t=2407s) - Community meetings  
-[42:34](https://www.youtube.com/watch?v=OVKDoAWI_20&t=2554s) - Closing comments
+{{% timestamp videoId="OVKDoAWI_20" time="0" display="00:00" %}} - Introduction  
+{{% timestamp videoId="OVKDoAWI_20" time="85" display="01:25" %}} - About me and my path to ministry  
+{{% timestamp videoId="OVKDoAWI_20" time="312" display="05:12" %}} - This ministry targets text, audio, and video content all three  
+{{% timestamp videoId="OVKDoAWI_20" time="709" display="11:49" %}} - The YouTube channel has many of the same useful content enhancements  
+{{% timestamp videoId="OVKDoAWI_20" time="936" display="15:36" %}} - Page types used in main content: list pages, aggregation pages, and content pages  
+{{% timestamp videoId="OVKDoAWI_20" time="1424" display="23:44" %}} - Other notable content-related things  
+&nbsp;&nbsp;&nbsp;{{% timestamp videoId="OVKDoAWI_20" time="1435" display="23:55" %}} - Dynamic auto-scrolling tables of contents  
+&nbsp;&nbsp;&nbsp;{{% timestamp videoId="OVKDoAWI_20" time="1543" display="25:43" %}} - Special content sections  
+&nbsp;&nbsp;&nbsp;{{% timestamp videoId="OVKDoAWI_20" time="1636" display="27:16" %}} - Embedded Bible app windows  
+&nbsp;&nbsp;&nbsp;{{% timestamp videoId="OVKDoAWI_20" time="2005" display="33:25" %}} - Subject index  
+{{% timestamp videoId="OVKDoAWI_20" time="2132" display="35:32" %}} - The BibleDocs community: Forum, WhatsApp  
+{{% timestamp videoId="OVKDoAWI_20" time="2372" display="39:32" %}} - Mailing list  
+{{% timestamp videoId="OVKDoAWI_20" time="2407" display="40:07" %}} - Community meetings  
+{{% timestamp videoId="OVKDoAWI_20" time="2554" display="42:34" %}} - Closing comments
 
 
 

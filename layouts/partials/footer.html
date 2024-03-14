@@ -552,6 +552,118 @@ initialDiscussionPagesDisplay();
 var discussionPagesPreference=getCookie("discussionPagesPreference");
 </script>
 
+<script>
+
+	function showInternalTimestamps() {
+		$('.external-timestamp').addClass("display-none");
+		$('.internal-timestamp').removeClass("display-none");
+	}
+	
+	function showExternalTimestamps() {
+		$('.internal-timestamp').addClass("display-none");
+		$('.external-timestamp').removeClass("display-none");
+	}
+	
+	function toggleTimestampsType() {
+		// If currently diplaying internal timestamps
+		if($('.external-timestamp').hasClass("display-none")) {
+			showExternalTimestamps();
+		}
+		// If currently displaying external timestamps
+		else {
+			showInternalTimestamps();
+		}
+	}
+	
+	function initialTimestampsType() {
+		var timestampsType=getCookie("timestampsType");
+		if(timestampsType == "internal")
+		{
+			showInternalTimestamps();
+		}
+		else if(timestampsType == "external")
+		{
+			showExternalTimestamps();
+		}
+		// if user hasn't set cookie, set cookie and use internal timestamps
+		else { // scriptureDisplay = ""
+			setCookie('timestampsType', 'internal', 1825);
+			showInternalTimestamps();
+		}
+	}
+	
+	initialTimestampsType();
+	
+	</script>
+
+<script>
+	// This code loads the YouTube Iframe Player API code asynchronously.
+	var tag = document.createElement('script');
+	tag.src = "https://www.youtube.com/iframe_api";
+	var firstScriptTag = document.getElementsByTagName('script')[0];
+	firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+	// Get list of embedded YouTube video iframes on the page
+	var videoIframes = document.querySelectorAll(".embedded-youtube-video");
+
+	// Once the YouTube API is ready, for each videoIframeId in your array, create
+	// a new YT player. Store them in a map object.
+	var videoIframeMap = new Map();
+	function onYouTubeIframeAPIReady() {
+		videoIframes.forEach(function (videoIframe) {
+			var videoIframeId = videoIframe.id;
+			var player = new YT.Player(videoIframeId, {
+				videoId: videoIframeId,
+				width: "100%",
+				height: "500px",
+				events: {
+					'onStateChange': onPlayerStateChange
+				},
+			});
+			videoIframeMap.set(videoIframeId, player);
+		});
+	}
+
+	// If a video is newly being played, pause all the other videos that are playing.
+	// Applies to both them playing via clicking on an embedded video, or via them
+	// clicking on a timestamp hyperlink.
+	function onPlayerStateChange(event) {
+		if(event.data == YT.PlayerState.PLAYING) {
+			var newlyPlayingPlayer = event.target;
+			// Value in map is a YT Player object, key is the videoId
+			videoIframeMap.forEach(function(player, videoId, map) {
+				var playerState = player.getPlayerState();
+				var isPlaying = playerState == YT.PlayerState.PLAYING || playerState == YT.PlayerState.BUFFERING;
+				if((player != newlyPlayingPlayer) && isPlaying) {
+					player.pauseVideo();
+				}
+			});
+		}
+	}
+
+	
+	function jumpToCurrentlyPlayingVideo() {
+		videoIframeMap.forEach(function(player, videoId, map) {
+			var playerState = player.getPlayerState();
+			var isPlaying = playerState == YT.PlayerState.PLAYING || playerState == YT.PlayerState.BUFFERING;
+			if(isPlaying) {
+				document.getElementById(videoId).scrollIntoView({
+					behavior: 'smooth'
+				});
+			}
+		});
+	}
+
+
+	// Set the video time for the iframe specified.
+	// Look up the player object in the map from before.
+	function setEmbeddedYouTubeVideoTime(iframeId, timeInSeconds) {
+		var player = videoIframeMap.get(iframeId);
+		player.seekTo(timeInSeconds, true);
+		player.playVideo();
+	}
+</script>
+
 <script src="/js/littlefoot.js" type="application/javascript" ></script> 
 <script type="application/javascript"> littlefoot.default({
   activateOnHover: true,

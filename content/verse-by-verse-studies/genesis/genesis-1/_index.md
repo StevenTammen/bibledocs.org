@@ -16,13 +16,9 @@ layout: aggregation-page
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://www.steventammen.com/slides/"
 %}} -->

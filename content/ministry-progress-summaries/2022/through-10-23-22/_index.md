@@ -13,13 +13,9 @@ layout: content-page
 ## Video {#video}
 
 {{% video
-src="https://www.youtube.com/embed/v07AY35_pF4"
+videoId="v07AY35_pF4"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
 
 slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/through-10-23-22/"
 %}}
@@ -30,18 +26,18 @@ Unfortunately, I didn't get through quite as much I had hoped this cycle, in ter
 
 ## Timestamps {#timestamps}
 
-[0:00](https://www.youtube.com/watch?v=v07AY35_pF4&t=0s) - Introduction  
-[01:34](https://www.youtube.com/watch?v=v07AY35_pF4&t=94s) - Outline  
-[03:32](https://www.youtube.com/watch?v=v07AY35_pF4&t=212s) - This video is coming kinda late...  
-[06:02](https://www.youtube.com/watch?v=v07AY35_pF4&t=362s) - Did various things to experiment with improving video quality  
-[08:20](https://www.youtube.com/watch?v=v07AY35_pF4&t=500s) - Set up additional things with voice recognition  
-[12:17](https://www.youtube.com/watch?v=v07AY35_pF4&t=737s) - Figured out how to be able to use Microsoft Word as my primary content editor while at the same time working with Markdown files  
-[19:24](https://www.youtube.com/watch?v=v07AY35_pF4&t=1164s) - Got the wireless Rode Go II mic system set up, for recording content videos  
-[20:33](https://www.youtube.com/watch?v=v07AY35_pF4&t=1233s) - Also got the portable dual 24" monitor arrangement set up properly, and tested it  
-[22:06](https://www.youtube.com/watch?v=v07AY35_pF4&t=1326s) - Got all the documentation for discussion pages written up  
-[23:29](https://www.youtube.com/watch?v=v07AY35_pF4&t=1409s) - Struggling through issues with path length limitations on Microsoft Windows  
-[31:08](https://www.youtube.com/watch?v=v07AY35_pF4&t=1868s) - Upcoming work  
-[33:53](https://www.youtube.com/watch?v=v07AY35_pF4&t=2033s) - Outro  
+{{% timestamp videoId="v07AY35_pF4" time="0" display="0:00" %}} - Introduction  
+{{% timestamp videoId="v07AY35_pF4" time="94" display="01:34" %}} - Outline  
+{{% timestamp videoId="v07AY35_pF4" time="212" display="03:32" %}} - This video is coming kinda late...  
+{{% timestamp videoId="v07AY35_pF4" time="362" display="06:02" %}} - Did various things to experiment with improving video quality  
+{{% timestamp videoId="v07AY35_pF4" time="500" display="08:20" %}} - Set up additional things with voice recognition  
+{{% timestamp videoId="v07AY35_pF4" time="737" display="12:17" %}} - Figured out how to be able to use Microsoft Word as my primary content editor while at the same time working with Markdown files  
+{{% timestamp videoId="v07AY35_pF4" time="1164" display="19:24" %}} - Got the wireless Rode Go II mic system set up, for recording content videos  
+{{% timestamp videoId="v07AY35_pF4" time="1233" display="20:33" %}} - Also got the portable dual 24" monitor arrangement set up properly, and tested it  
+{{% timestamp videoId="v07AY35_pF4" time="1326" display="22:06" %}} - Got all the documentation for discussion pages written up  
+{{% timestamp videoId="v07AY35_pF4" time="1409" display="23:29" %}} - Struggling through issues with path length limitations on Microsoft Windows  
+{{% timestamp videoId="v07AY35_pF4" time="1868" display="31:08" %}} - Upcoming work  
+{{% timestamp videoId="v07AY35_pF4" time="2033" display="33:53" %}} - Outro  
 
 {{% content %}}
 

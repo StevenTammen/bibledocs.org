@@ -13,13 +13,9 @@ summary: >-
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://www.bibledocs.org/slides/"
 %}} -->
@@ -149,13 +145,9 @@ That this is not the case for absolutely all modern churches in no way diminishe
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://www.bibledocs.org/slides/"
 %}} -->
@@ -265,13 +257,9 @@ All of this "noise" also serves to distract from the primary purpose of assembly
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://www.bibledocs.org/slides/"
 %}} -->
