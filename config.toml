@@ -5,10 +5,12 @@ author = "Steven Tammen"
 canonifyurls = true
 paginate = 10
 
+# Ignore assessment files, Anki flashcard files, and checklist files
+ignoreFiles = ["assessment\\.md$", "anki-flashcards\\.md$", "checklist\\.xlsx$"]
+
 [indexes]
   category = "categories"
   tag = "tags"
-
 
 [params]
   # Shown in the home page

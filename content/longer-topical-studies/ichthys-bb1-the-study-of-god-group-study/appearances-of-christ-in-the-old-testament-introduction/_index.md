@@ -1,22 +1,16 @@
 ---
-title: Group Study - Ichthys' BB1 Theology - The Study of God
-weight: 
-contentlevel: intermediate
-layout: aggregation-page
-summary: >-
-   This video series is a discussion-based group Bible study going through Bible Basics Part 1 (BB1) on Ichthys, a study of theology proper—of who God is, and what He is like.
+title: Appearances of Christ in the Old Testament - Introduction
+weight: 160
+layout: content-page
+playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
 ---
 
-<!-- aggregate-page-content -->
-
-## [Introduction - The Essence of God](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-essence-of-god) {#introduction-the-essence-of-god}
 {{< subjects >}}
-<a href="/subject-index/#god-essence">God > Essence</a>
 {{< /subjects >}}
 
+{{% section-navigation %}}
 
-
-### Video {#introduction-the-essence-of-god-video}
+## Video {#video}
 
 {{% video
 videoId=""
@@ -26,184 +20,23 @@ videoPlaylist=""
 slides=""
 %}}
 
-### Summary {#introduction-the-essence-of-god-summary}
-
-In this lesson, we are going to be kicking off our new study of BB1: Theology on Ichthys by starting to discuss the Essence of God. We'll talk about how God is being (Exodus 3:14-15), as well as exactly what essence means as a concept.
-
-### Timestamps {#introduction-the-essence-of-god-timestamps}
-
-0:00 - Intro and outline
-01:06 - The essence of God is being. He is the Great I AM
-11:43 - The resplendence of God: light and glory
-&emsp;13:24 - Q: 1 Timothy 6:16 talks about God's unapproachable light. It also says God alone possess immortality. What does that latter statement mean?
-&emsp;25:01 - Q: We say God dwells in this unapproachable light that no one has seen nor ever can see. What then of cases in scripture where people seem to have "seen God?"
-&emsp;35:52 - Comment: God's glory as it relates to "every knee will bow, and every tongue confess"
-49:16 - Essence, nature, character... ???
-59:09 - Summary and outro
-
-{{% toggleable-content %}}
-
-### Content {#introduction-the-essence-of-god-content}
-
-(Derived from https://ichthys.com/1Theo.htm)
-
-<!-- --- -->
-
-#### The essence of God is being. He is the Great I AM {#introduction-the-essence-of-god-the-essence-of-god-is-being-he-is-the-great-i-am}
-
-{{< subjects >}}
-<a href="/subject-index/#tetragrammaton">Tetragrammaton</a>
-<a href="/subject-index/#god-name-of-god">God > Name of God</a>
-<a href="/subject-index/#god-externality-to-spacetime">God > Externality to spacetime</a>
-{{< /subjects >}}
-
-The essence of something is what it really is. "Essence" and "being" are precise synonyms.
-
-God tells us who He is in Exodus 3:14-15.
-
-If you've ever thought about the question "Well, if the universe exists because God made it, then why does God exist? Did something or someone likewise make God?" then the answer is no---God exists simply because God *is* being.
-
-Unbelievers scoff at that logic, but it is what the Bible says.
-
-<!-- --- -->
-
-#### The resplendence of God: light and glory {#introduction-the-essence-of-god-the-resplendence-of-god-light-and-glory}
-
-{{< subjects >}}
-<a href="/subject-index/#god-resplendence-unapproachable-light">God > Resplendence > Unapproachable light</a>
-<a href="/subject-index/#god-resplendence-glory">God > Resplendence > Glory</a>
-{{< /subjects >}}
-
-Loosely speaking, light captures the sense that God is sublime and unapproachable (compare squinting at the sun, being blinded by it), while glory represents the side that shines forth visibly to mankind.
-
-God's glory is most directly revealed to mankind through His Son, Jesus Christ. As Hebrews 1:1-3 makes clear.
-
-<!-- --- -->
-
-{{% video-only %}}
-
-##### Q: 1 Timothy 6:16 talks about God's unapproachable light. It also says God alone possess immortality. What does that latter statement mean? {#introduction-the-essence-of-god-q-1-timothy-6-16-talks-about-god-s-unapproachable-light-it-also-says-god-alone-possess-immortality-what-does-that-latter-statement-mean}
-
-{{< subjects >}}
-<a href="/subject-index/#god-immortality-antithesis-of-death">God > Immortality > Antithesis of death</a>
-{{< /subjects >}}
-
-{{% note %}}
-This is a video-only section.
-{{% /note %}}
-
-When 1 Timothy 6:16 says that only God possess immortality, what about the fact that both humans and angels have eternal existence?
-
-Is it that God *owns* immortality, but that he gives it to us creatures such that we too now possess it (some to eternal life, and some to eternal death, based upon that which we choose)? Is this another aspect of God's Uniqueness?
-
-
-##### Q: We say God dwells in this unapproachable light that no one has seen nor ever can see. What then of cases in scripture where people seem to have "seen God?" {#introduction-the-essence-of-god-q-we-say-god-dwells-in-this-unapproachable-light-that-no-one-has-seen-nor-ever-can-see-what-then-of-cases-in-scripture-where-people-seem-to-have-seen-god}
-
-{{< subjects >}}
-<a href="/subject-index/#theophany">Theophany</a>
-<a href="/subject-index/#christophany">Christophany</a>
-<a href="/subject-index/#no-man-may-see-god-and-live">No man may see God and live</a>
-{{< /subjects >}}
-
-{{% note %}}
-This is a video-only section.
-{{% /note %}}
-
-Did Moses not see this light upon Mount Sinai? What about the Apostles present on the mount of transfiguration? What about Paul on the road to Damascus? What about John in His visions of God, recorded in Revelation?
-
-
-##### Comment: God's glory as it relates to "every knee will bow, and every tongue confess" {#introduction-the-essence-of-god-comment-god-s-glory-as-it-relates-to-every-knee-will-bow-and-every-tongue-confess}
-
-{{< subjects >}}
-<a href="/subject-index/#god-resplendence-veiled-to-preserve-human-free-will">God > Resplendence > Veiled to preserve human free will</a>
-<a href="/subject-index/#every-knee-will-bow">Every knee will bow</a>
-{{< /subjects >}}
-
-{{% note %}}
-This is a video-only section.
-{{% /note %}}
-
-The visible form of this glory was veiled in Christ's first advent to make the choice for Him genuine. The glory was, however, revealed in His words and works.
-
-Compare: "Every knee will bow, and every tongue will confess." That is not now, but eventually.
-
-{{% /video-only %}}
-
-#### Essence, nature, character... ??? {#introduction-the-essence-of-god-essence-nature-character}
-
-{{< subjects >}}
-<a href="/subject-index/#essence-essential-characteristics">Essence > Essential characteristics</a>
-<a href="/subject-index/#philosophy-perils-of-getting-off-in-the-weeds">Philosophy > Perils of getting off in the weeds</a>
-{{< /subjects >}}
-
-If you've ever been confused about what the difference between nature and essence is (and we may as well throw form and substance in the mix as well), you are in good company. Philosophers have been arguing about these things for a very long time (compare Plato, Aristotle, Aquinas, Kant, and others).
-
-Arguments usually seem to hinge on how "inherent" something is to an object. For example, a triangle must have three sides, otherwise it is no longer a triangle. Things that are "essential" (compare the word essence!) are things without which the object is not whatever we are saying it is.
-
-Compare this link: https://chrismlegg.com/2018/06/19/what-do-essence-and-nature-mean-a-simple-explanation/
-
-<!-- --- -->
-
-So, on our topic, must God be infinite and perfect in character to be God? Are these essential characteristics of God?
-
-It is my opinion that wandering too far in this direction rapidly leads one to theosophy (in the negative sense). God *is* infinite and perfect in character. So what were we arguing about again?
-
-If someone were to whine that I am question-dodging and not defining terms, I would say that God's nature deals with His infinite abilities, God's character deals with His moral perfection, and both are fundamental parts of who He is as God.
-
-{{% /toggleable-content %}}
-
-{{% toggleable-transcript %}}
-
-### Video/audio transcript {#introduction-the-essence-of-god-video-audio-transcript}
-
-
-
-{{% /toggleable-transcript %}}
-
-{{% discussion-pages %}}
-
-{{% /discussion-pages %}}
-
-
-
-
-<br/>
-
-
-
-## [Appearances of Christ in the Old Testament - Introduction](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament-introduction) {#appearances-of-christ-in-the-old-testament-introduction}
-{{< subjects >}}
-{{< /subjects >}}
-
-
-
-### Video {#appearances-of-christ-in-the-old-testament-introduction-video}
-
-{{% video
-videoId=""
-
-videoPlaylist=""
-
-slides=""
-%}}
-
-### Summary {#appearances-of-christ-in-the-old-testament-introduction-summary}
+## Summary {#summary}
 
 TODO
 
-### Timestamps {#appearances-of-christ-in-the-old-testament-introduction-timestamps}
+## Timestamps {#timestamps}
 
 
 
-{{% toggleable-content %}}
+{{% content %}}
 
-### Content {#appearances-of-christ-in-the-old-testament-introduction-content}
+## Content {#content}
 
 (Derived from https://ichthys.com/1Theo.htm)
 
 <!-- --- -->
 
-#### Overview {#appearances-of-christ-in-the-old-testament-introduction-overview}
+### Overview {#overview}
 
 In terms of their presentation of the Trinity, the main difference between the Old and New Testaments is that in the New Testament, Christ is clearly visible and distinct from the Father, while in the Old Testament, the Father and Son are often difficult to distinguish. Despite the discussion immediately above, there is a common misconception – even in many Christian circles – that the fact that the exact details about Christ's incarnation were shielded in the Old Testament means that the *visible* person in the Old Testament is primarily God the Father.
 
@@ -217,7 +50,7 @@ So whatever I say is just what the Father has told me to say.
 
 <!-- --- -->
 
-#### Definition of Theophany and Christophany {#appearances-of-christ-in-the-old-testament-introduction-definition-of-theophany-and-christophany}
+### Definition of Theophany and Christophany {#definition-of-theophany-and-christophany}
 
 The words "Theophany" and "Christophany" mean, respectively, "an appearance of God" and "an appearance of Christ", the second part of each being derived from the Greek root *phan*, "appear" (from which we get the word "phenomenon"). In this section it will be argued that in biblical terms, at any rate, the only category of event we really need to be concerned with here is Christophany, for, in my view, all cases of Theophany in the Old Testament are really Christophanies.
 
@@ -225,7 +58,7 @@ It needs to be made clear right at the outset that by Christophany we are defini
 
 <!-- --- -->
 
-#### The invisibility of the Father {#appearances-of-christ-in-the-old-testament-introduction-the-invisibility-of-the-father}
+### The invisibility of the Father {#the-invisibility-of-the-father}
 
 Until we get to heaven, we will not see the Father. We know that the Father is not invisible to the angels, for they "constantly see the face of My Father in heaven" (Matt.18:10). But He is our *heavenly* Father (Matt.6:9, 26, et passim), and as long as the earthly conflict between His would-be usurper, Satan, and His designated regent, Christ, still rages, in heaven He remains for His majesty's sake, speaking and working His will through His Servant. Until the final and ultimate victory, and only after the complete purging of the universe will the Father come to the new earth to make His abode with us forever (Rev.21:1-3). Until that time, the Father, though acting and speaking through His representative, His Son Jesus Christ, remains invisible to human eye.
 
@@ -257,7 +90,7 @@ No one has ever seen God.
 
 <!-- --- -->
 
-#### The inaccessibility of the Father apart from Christ {#appearances-of-christ-in-the-old-testament-introduction-the-inaccessibility-of-the-father-apart-from-christ}
+### The inaccessibility of the Father apart from Christ {#the-inaccessibility-of-the-father-apart-from-christ}
 
 If mankind were able to see God the Father in all His glory without perishing in the process, it is at least safe to say that the issue of human free-will would be seriously compromised from that point forward. Confronted with the magnitude and majesty of God, not only would it be impossible to deny His existence, but it is also likely that even against their will most men would find themselves obliged to follow Him and His will out of sheer terror (rather than from a truly free choice). Along with the principle of preserving mankind's free-will, the issue of *access* to the Father also helps to explain why the Father remains unseen to us in this present life.
 
@@ -299,7 +132,7 @@ The fact that through faith in the Son we now have full ***access*** to the Fath
 
 <!-- --- -->
 
-#### The dignity of the Father {#appearances-of-christ-in-the-old-testament-introduction-the-dignity-of-the-father}
+### The dignity of the Father {#the-dignity-of-the-father}
 
 The fact that the angelic rebellion led by Satan precedes the creation of man (Job 38:7; Is.14:12-15; Ezek.28:12-19) explains much about the Father's modus operandi of working through the One who will ultimately replace Satan as ruler of this world, His Son Jesus Christ (Lk.10:18; Jn.12:31; 16:11; 1Cor.15:24-25; Col.2:15; Rev.11:15). As the Trinity's figure of authority and majesty, the Father chooses a representative to wage the struggle against Satan, even He who by His sacrifice will redeem sinful mankind and replace our adversary, the Morning Star replacing Lucifer (compare Is.14:12 with Rev.22:16). So it should not be surprising that throughout the Old Testament too, the Son is the One representing the Father, speaking His words whenever He appears (in Christophany), for He is the anointed One, the Messiah, the One sent into the world by the Father (Matt.10:40; 21:37; Lk.9:48; 10:16; Jn.12:44; 13:20). This principle of the Son *representing* the Father as His agent in the plan of salvation can also be seen from Christ's...
 
@@ -321,23 +154,22 @@ All the above examples of Christ's role of *representing* the Father in God's pl
 
 <!-- --- -->
 
-#### The visibility, accessibility and humility of the Son {#appearances-of-christ-in-the-old-testament-introduction-the-visibility-accessibility-and-humility-of-the-son}
+### The visibility, accessibility and humility of the Son {#the-visibility-accessibility-and-humility-of-the-son}
 
 While we cannot initially see the Father, we can see the Son and the Father through the Son (Jn.14:9). While we could not initially approach the Father, through the Son we have gained access to Him (Jn.14:6). And while our sinfulness kept us separated from the perfect holiness of the Father, the work of the Son has rendered us holy and has reconciled us to the Father (Col.1:22). As the visible, accessible member of the Trinity who was willing to humble Himself and associate with us to die for us (Phil.2:5-11), Christ has always been our point of contact with the Godhead, whether in Old Testament Christophany, or after His appearance in true humanity following His incarnation.
 
-{{% /toggleable-content %}}
+{{% /content %}}
 
-{{% toggleable-transcript %}}
+{{% transcript %}}
 
-### Video/audio transcript {#appearances-of-christ-in-the-old-testament-introduction-video-audio-transcript}
+## Video/audio transcript {#video-audio-transcript}
 
 
 
-{{% /toggleable-transcript %}}
+{{% /transcript %}}
 
 {{% discussion-pages %}}
 
 {{% /discussion-pages %}}
 
-
-<!-- aggregate-page-content -->
+{{% section-navigation %}}

@@ -3,6 +3,9 @@ drafts/
 content/drafts/
 static/drafts/
 
+# Ignore local published website, if running hugo serve with --renderToDisk
+public/
+
 # Ignore content not to be displayed. Mostly things to build various sets of
 # presentation slides
 layouts/not-displayed
