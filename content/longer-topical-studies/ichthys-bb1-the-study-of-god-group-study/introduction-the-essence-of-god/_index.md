@@ -76,6 +76,8 @@ God's glory is most directly revealed to mankind through His Son, Jesus Christ. 
 
 <!-- --- -->
 
+{{% video-only %}}
+
 #### Q: 1 Timothy 6:16 talks about God's unapproachable light. It also says God alone possess immortality. What does that latter statement mean? {#q-1-timothy-6-16-talks-about-god-s-unapproachable-light-it-also-says-god-alone-possess-immortality-what-does-that-latter-statement-mean}
 
 {{< subjects >}}
@@ -90,7 +92,6 @@ When 1 Timothy 6:16 says that only God possess immortality, what about the fact 
 
 Is it that God *owns* immortality, but that he gives it to us creatures such that we too now possess it (some to eternal life, and some to eternal death, based upon that which we choose)? Is this another aspect of God's Uniqueness?
 
-<!-- --- -->
 
 #### Q: We say God dwells in this unapproachable light that no one has seen nor ever can see. What then of cases in scripture where people seem to have "seen God?" {#q-we-say-god-dwells-in-this-unapproachable-light-that-no-one-has-seen-nor-ever-can-see-what-then-of-cases-in-scripture-where-people-seem-to-have-seen-god}
 
@@ -106,7 +107,6 @@ This is a video-only section.
 
 Did Moses not see this light upon Mount Sinai? What about the Apostles present on the mount of transfiguration? What about Paul on the road to Damascus? What about John in His visions of God, recorded in Revelation?
 
-<!-- --- -->
 
 #### Comment: God's glory as it relates to "every knee will bow, and every tongue confess" {#comment-god-s-glory-as-it-relates-to-every-knee-will-bow-and-every-tongue-confess}
 
@@ -123,7 +123,7 @@ The visible form of this glory was veiled in Christ's first advent to make the c
 
 Compare: "Every knee will bow, and every tongue will confess." That is not now, but eventually.
 
-<!-- --- -->
+{{% /video-only %}}
 
 ### Essence, nature, character... ??? {#essence-nature-character}
 
