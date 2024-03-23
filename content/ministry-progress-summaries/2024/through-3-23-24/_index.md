@@ -34,7 +34,7 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2023/throug
 
 <!-- --- -->
 
-### Foreword: things I did not do, despite some of my prior plans
+### Foreword: things I did not do, despite some of my prior plans {#foreword-things-i-did-not-do-despite-some-of-my-prior-plans}
 
 Well, time flew by, and it has been a while again. I should say upfront I did rather poorly at spending my time according to my plans in the last ministry progress summary. Not that I wasn't productive, but I just didn't do the things I had thought I might. For example:
 
@@ -48,7 +48,7 @@ So that's a list of things I didn't do, even though I had been thinking these th
 
 <!-- --- -->
 
-### So what *did* I actually do?
+### So what *did* I actually do? {#so-what-did-i-actually-do}
 
 Here's a high-level overview of some of the tasks I focused on:
 
@@ -60,7 +60,7 @@ Here's a high-level overview of some of the tasks I focused on:
 
 I also coded. *A lot*.
 
-- I built out [a command-line video processing application](https://github.com/StevenTammen/command-line-video-and-audio), and formalized an entire video processing workflow, with hundreds of lines of code to completely automate large chunks of the process.
+- I built out [a command-line video processing application](https://github.com/StevenTammen/command-line-video-and-audio), and formalized an entire video processing workflow, with hundreds of lines of code to completely automate large chunks of the video generation process.
 - I set up [a better command-line Python development workflow](https://github.com/StevenTammen/dotfiles) as part of setting up the video processing scripts. I decided to use the [xonsh shell](https://xon.sh/) on the [Windows subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/about#what-is-wsl-2) (Ubuntu), with a package called [vox](https://github.com/xonsh/xontrib-vox) to seamlessly manage Python virtual environments.
 - I cleaned up the codebase for [my keyboard layout project](https://github.com/StevenTammen/taser). I'm still not quite done, but I'm now a good bit closer to being ready to use it full-time, since the codebase is much more understandable and maintainable. I have been trying to start using this full-time before I *really* ramp up content production, so that I am more efficient when I am typing out large volumes of text. It has been a long-standing goal of mine.
 - I figured out [how to support page-internal timestamps for embedded YouTube videos](https://github.com/StevenTammen/youtube-iframe-api-multiple-videos-example), and fully implemented them on the site. All this is JavaScript, interacting with the [YouTube Iframe API](https://developers.google.com/youtube/iframe_api_reference).
@@ -70,7 +70,7 @@ I'm not going to go over absolutely all of these coding-relating things in furth
 
 <!-- --- -->
 
-### Why did things turn out delayed this way? Mostly because I wanted to finish the bulk of the video processing automation before I processed all the videos
+### Why did things turn out delayed this way? Mostly because I wanted to finish the bulk of the video processing automation before I processed all the videos {#why-did-things-turn-out-delayed-this-way-mostly-because-i-wanted-to-finish-the-bulk-of-the-video-processing-automation-before-i-processed-all-the-videos}
 
 I wanted to mostly finish the Python application to automate all the video processing stuff before I processed all the BB1 videos, so I'd avoid a lot of time opportunity cost. Long story short, wiring it all up just proved to be harder than might be first apparent.
 
@@ -83,7 +83,7 @@ And across the many, many hours of video content we've recorded for BB1, having 
 
 <!-- --- -->
 
-### A brief overview of the video processing workflow
+### A brief overview of the video processing workflow {#a-brief-overview-of-the-video-processing-workflow}
 
 I will be going over a few concepts:
 
@@ -98,7 +98,7 @@ The short version is that all of this together automates a lot of the video proc
 
 <!-- --- -->
 
-### What the output videos look like on YouTube/the website
+### What the output videos look like on YouTube/the website {#what-the-output-videos-look-like-on-youtube-the-website}
 
 The big things to note are the clean title-slide transitions between topics, and the accurate timestamps for every single section/topic.
 
@@ -106,7 +106,7 @@ Seeing it all in action will help make it a lot more obvious what I am talking a
 
 <!-- --- -->
 
-### Page-internal timestamps and the YouTube Iframe API
+### Page-internal timestamps and the YouTube Iframe API {#page-internal-timestamps-and-the-youtube-iframe-api}
 
 I added a site setting cookie on the site that lets you pick whether you want timestamps to open the videos in a new tab, or change the time of the page-embedded video (the default behavior now). I also set up a couple other things with the YouTube Iframe API, like making it so that only one embedded video can be played at a time, and implementing a menu navigation link that automatically scrolls to you to whatever video is currently playing.
 
@@ -116,7 +116,7 @@ Seeing it all in action will help make it a lot more obvious what I am talking a
 
 <!-- --- -->
 
-### So now that all of that is set up, releases will be more consistent. I promise
+### So now that all of that is set up, releases will be more consistent. I promise {#so-now-that-all-of-that-is-set-up-releases-will-be-more-consistent-i-promise}
 
 I just very recently finished getting everything just discussed set up, and decided to make this ministry progress update even before actually putting up more of the content I have in in my ready backlog. I released [the first BB1 video]() before putting up this ministry progress summary (so that I could use it as an example in demoing all the new functionality), but all the other videos aren't actually up yet.
 
@@ -124,7 +124,7 @@ I'm planning to release at least a couple videos a week for the next few weeks, 
 
 <!-- --- -->
 
-### Upcoming plans
+### Upcoming plans {#upcoming-plans}
 
 First of all, I'm going to be working on getting the full backlog of ready videos posted (as just discussed), so that will be my top priority.
 
@@ -134,8 +134,8 @@ In our BB1 study, we are still talking about the Trinity, but are now in the las
 
 In the immediate short term, I have three other primary goals:
 
-- Setting up completely automatic silence removal in the video editing process (to further save me time---right now it is still a bit tedious, since I have to process segment by segment using a GUI tool). This will entail switching away from Zoom, since Zoom recordings don't seem to play nice with the scriptable command-line tool I'd like to use, for some strange reason. I'm going have us try Microsoft Teams next, I think.
-- Setting up further automation with the topic transitions in videos. I would like to automatically generate the video segments in a hands-off (completely automated) way. Right now I have to manually record the short segments one by one.
+- Setting up completely automatic silence removal in the video editing process (to further save me time---right now it is still a bit tedious, since I have to process segment by segment using a GUI tool). This will entail switching us away from Zoom, since Zoom recordings don't seem to play nice with the scriptable command-line tool I'd like to use, for some strange reason. I'm going have us try Microsoft Teams next, I think.
+- Setting up further automation with the topic transitions in videos. I would like to automatically generate the top transition video segments in a hands-off (completely automated) way. Right now I have to manually record the short segments one by one.
 - Setting up a BibleDocs podcast on the podcasting platform [PodBean](https://www.podbean.com/), to include all the content from our Ichthys group Bible studies (at least that is the content stream I'll start with for podcasting---I will probably expand to others too, later). I need to support ripping mp3 audio off of the mp4 videos, and generating proper mp3 metadata/episode descriptions so that podcast episode timestamps will work properly on Apple Podcasts and Spotify (the two most dominant podcast apps, at present).
 
 <!-- --- -->

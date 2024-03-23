@@ -1,45 +1,44 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Slides</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="https://unpkg.com/littlefoot/dist/littlefoot.css" />
+  <link rel="stylesheet" href="/css/slides.css"/>
+ </head>
+ <body>
+  <textarea id="source">
+
+class: center, middle
+
+## Through 3/17/24
+
+
+
 ---
-title: 2023 Ministry Progress Summaries
-weight: 
-layout: aggregation-page
-summary: >-
-   TODO: Give a meaningful summary of the developments in 2023, as things play out. Hopefully, this year we'll get Bible studies at the house church off the ground, and build the beginnings of a stable local community. At least that is what we have been praying for.
+
+
+### Summary
+
+
 ---
 
-<!-- aggregate-page-content -->
 
-## [Through 3/17/24](/ministry-progress-summaries/2024/through-3-23-24) {#through-3-17-24}
-{{< subjects >}}
+#### Outline
 
-{{< /subjects >}}
+- [Foreword: things I did not do, despite some of my prior plans](#4)
+- [So what *did* I actually do?](#5)
+- [Why did things turn out delayed this way? Mostly because I wanted to finish the bulk of the video processing automation before I processed all the videos](#6)
+- [A brief overview of the video processing workflow](#7)
+- [What the output videos look like on YouTube/the website](#8)
+- [Page-internal timestamps and the YouTube Iframe API](#9)
+- [So now that all of that is set up, releases will be more consistent. I promise](#10)
+- [Upcoming plans](#11)
 
-
-
-### Video {#through-3-17-24-video}
-
-{{% video
-videoId="C_RCnuxTSHo"
-
-videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
-
-slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2023/through-1-1-23/"
-%}}
-
-### Summary {#through-3-17-24-summary}
+---
 
 
-
-### Timestamps {#through-3-17-24-timestamps}
-
-
-
-{{% toggleable-content %}}
-
-### Content {#through-3-17-24-content}
-
-<!-- --- -->
-
-#### Foreword: things I did not do, despite some of my prior plans {#through-3-17-24-foreword-things-i-did-not-do-despite-some-of-my-prior-plans}
+### Foreword: things I did not do, despite some of my prior plans
 
 Well, time flew by, and it has been a while again. I should say upfront I did rather poorly at spending my time according to my plans in the last ministry progress summary. Not that I wasn't productive, but I just didn't do the things I had thought I might. For example:
 
@@ -51,9 +50,10 @@ Well, time flew by, and it has been a while again. I should say upfront I did ra
 
 So that's a list of things I didn't do, even though I had been thinking these things were where I was going to turn next, as of a few months ago.
 
-<!-- --- -->
+---
 
-#### So what *did* I actually do? {#through-3-17-24-so-what-did-i-actually-do}
+
+### So what *did* I actually do?
 
 Here's a high-level overview of some of the tasks I focused on:
 
@@ -61,7 +61,10 @@ Here's a high-level overview of some of the tasks I focused on:
 - When I got a series of questions (about sleep as a metaphor for death, resuscitation, the afterlife, etc.) from a friend, I made a series of in-depth videos to answer the questions. This turned into a four-part series, with ballpark four hours of pretty dense recorded content.
 - Since MailChimp deprecated TinyLetter (the mailing list service I'd been using on [BibleDocs](https://www.bibledocs.org/), and also had set up for Jordan's ministry site [BibleDriven](https://www.bibledriven.org/)), I had to switch both of us over to a different mailing list service. I decided to go with [Buttondown](https://buttondown.email/). This took some work.
 
-<!-- --- -->
+---
+
+
+### So what *did* I actually do?
 
 I also coded. *A lot*.
 
@@ -73,9 +76,10 @@ I also coded. *A lot*.
 
 I'm not going to go over absolutely all of these coding-relating things in further depth in this video, but I will talk somewhat more about the general video processing steps, as well as page-internal timestamps, since I can sort of demo those visually, and they are probably the most important things of the lot.
 
-<!-- --- -->
+---
 
-#### Why did things turn out delayed this way? Mostly because I wanted to finish the bulk of the video processing automation before I processed all the videos {#through-3-17-24-why-did-things-turn-out-delayed-this-way-mostly-because-i-wanted-to-finish-the-bulk-of-the-video-processing-automation-before-i-processed-all-the-videos}
+
+### Why did things turn out delayed this way? Mostly because I wanted to finish the bulk of the video processing automation before I processed all the videos
 
 I wanted to mostly finish the Python application to automate all the video processing stuff before I processed all the BB1 videos, so I'd avoid a lot of time opportunity cost. Long story short, wiring it all up just proved to be harder than might be first apparent.
 
@@ -86,9 +90,10 @@ Even as it is now, it is not perfect. I'll talk more about a couple planned impr
 
 And across the many, many hours of video content we've recorded for BB1, having these things automated will save me a massive amount of time. That's why I chose to wait until I had all the automation more in place before doing the BB1 videos.
 
-<!-- --- -->
+---
 
-#### A brief overview of the video processing workflow {#through-3-17-24-a-brief-overview-of-the-video-processing-workflow}
+
+### A brief overview of the video processing workflow
 
 I will be going over a few concepts:
 
@@ -101,17 +106,19 @@ I will be going over a few concepts:
 
 The short version is that all of this together automates a lot of the video processing steps that would otherwise be tedious and time-consuming (not to mention more error-prone) to do by hand.
 
-<!-- --- -->
+---
 
-#### What the output videos look like on YouTube/the website {#through-3-17-24-what-the-output-videos-look-like-on-youtube-the-website}
+
+### What the output videos look like on YouTube/the website
 
 The big things to note are the clean title-slide transitions between topics, and the accurate timestamps for every single section/topic.
 
 Seeing it all in action will help make it a lot more obvious what I am talking about, so I'll just demo the main functionality in the ministry progress video here.
 
-<!-- --- -->
+---
 
-#### Page-internal timestamps and the YouTube Iframe API {#through-3-17-24-page-internal-timestamps-and-the-youtube-iframe-api}
+
+### Page-internal timestamps and the YouTube Iframe API
 
 I added a site setting cookie on the site that lets you pick whether you want timestamps to open the videos in a new tab, or change the time of the page-embedded video (the default behavior now). I also set up a couple other things with the YouTube Iframe API, like making it so that only one embedded video can be played at a time, and implementing a menu navigation link that automatically scrolls to you to whatever video is currently playing.
 
@@ -119,23 +126,28 @@ One thing that is very useful that is now better supported is being able to full
 
 Seeing it all in action will help make it a lot more obvious what I am talking about, so I'll just demo the main functionality in the ministry progress video here.
 
-<!-- --- -->
+---
 
-#### So now that all of that is set up, releases will be more consistent. I promise {#through-3-17-24-so-now-that-all-of-that-is-set-up-releases-will-be-more-consistent-i-promise}
+
+### So now that all of that is set up, releases will be more consistent. I promise
 
 I just very recently finished getting everything just discussed set up, and decided to make this ministry progress update even before actually putting up more of the content I have in in my ready backlog. I released [the first BB1 video]() before putting up this ministry progress summary (so that I could use it as an example in demoing all the new functionality), but all the other videos aren't actually up yet.
 
 I'm planning to release at least a couple videos a week for the next few weeks, until I run out of ready content. If you aren't already subscribed to [the YouTube channel](https://www.youtube.com/channel/UCFk7khraAKf68DZ5GeYEFIw), you might consider doing that, since from here on out, there ought to be more consistent new video content.
 
-<!-- --- -->
+---
 
-#### Upcoming plans {#through-3-17-24-upcoming-plans}
+
+### Upcoming plans
 
 First of all, I'm going to be working on getting the full backlog of ready videos posted (as just discussed), so that will be my top priority.
 
 In our BB1 study, we are still talking about the Trinity, but are now in the last section of the study, going over Christophanies in the Old Testament. We will probably finish this study in several more weeks. I'm planning to have us start either Christology or Soteriology next (parts 4A and 4B, respectively, of the Bible Basics series on Ichthys), but I haven't picked which yet.
 
-<!-- --- -->
+---
+
+
+### Upcoming plans
 
 In the immediate short term, I have three other primary goals:
 
@@ -143,21 +155,83 @@ In the immediate short term, I have three other primary goals:
 - Setting up further automation with the topic transitions in videos. I would like to automatically generate the top transition video segments in a hands-off (completely automated) way. Right now I have to manually record the short segments one by one.
 - Setting up a BibleDocs podcast on the podcasting platform [PodBean](https://www.podbean.com/), to include all the content from our Ichthys group Bible studies (at least that is the content stream I'll start with for podcasting---I will probably expand to others too, later). I need to support ripping mp3 audio off of the mp4 videos, and generating proper mp3 metadata/episode descriptions so that podcast episode timestamps will work properly on Apple Podcasts and Spotify (the two most dominant podcast apps, at present).
 
-<!-- --- -->
+---
+
+
+### Upcoming plans
 
 After all of that, I want to turn my full focus back to launching an in-person Bible study at my house. There are a ton of TODOs left there, but I'll leave all those aside for now, until we get a bit closer.
 
 This will definitely be my next longer-term goal. I've been meaning to make this happen now for literally years, but now that all the content production automation is coming together, I think I'm finally about ready to get it going in a fully sustainable fashion.
 
-{{% /toggleable-content %}}
-
-{{% toggleable-transcript %}}
-
-### Video/audio transcript {#through-3-17-24-video-audio-transcript}
 
 
 
-{{% /toggleable-transcript %}}
+<!-- Footnote List -->
+<div class="footnotes">
+<ol>
+
+  </ol>
+</div>
+  
+
+---
 
 
-<!-- aggregate-page-content -->
+#### Outline
+
+- [Foreword: things I did not do, despite some of my prior plans](#4)
+- [So what *did* I actually do?](#5)
+- [Why did things turn out delayed this way? Mostly because I wanted to finish the bulk of the video processing automation before I processed all the videos](#6)
+- [A brief overview of the video processing workflow](#7)
+- [What the output videos look like on YouTube/the website](#8)
+- [Page-internal timestamps and the YouTube Iframe API](#9)
+- [So now that all of that is set up, releases will be more consistent. I promise](#10)
+- [Upcoming plans](#11)
+
+
+
+  </textarea>
+  <script src="https://remarkjs.com/downloads/remark-latest.min.js">
+  </script>
+  <script>
+   var slideshow = remark.create({ ratio: "16:9" });
+  </script>
+<script
+src="https://unpkg.com/littlefoot/dist/littlefoot.js"
+type="application/javascript"
+></script>
+<script type="application/javascript"> littlefoot.default({
+    activateOnHover: true,
+    dismissOnUnhover: true,
+    hoverDelay: 200,
+    buttonTemplate: `
+    <button
+    aria-label="Footnote <% number %>"
+    class="littlefoot__button"
+    id="<% reference %>"
+    />
+    <% number %>
+    </button>
+    `,
+  }) </script>
+  <!-- RefTagger -->
+  <script>
+    var refTagger = {
+      settings: {
+        bibleVersion: "NASB",
+        convertHyperlinks: false,		
+        roundCorners: true,
+        socialSharing: [],
+        tagChapters: true
+      } 
+    };
+    
+    (function(d, t) { 
+      var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; 
+      g.src = 'https://api.reftagger.com/v2/RefTagger.js'; 
+      s.parentNode.insertBefore(g, s); 
+    }(document, 'script'));
+  </script>
+ </body>
+</html>
