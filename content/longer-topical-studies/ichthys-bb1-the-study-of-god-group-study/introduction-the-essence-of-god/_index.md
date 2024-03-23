@@ -2,6 +2,7 @@
 title: Introduction - The Essence of God
 weight: 10
 layout: content-page
+video: https://www.youtube.com/watch?v=otO3Nt6Xu9I
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
 ---
 
@@ -14,11 +15,11 @@ playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcA
 ## Video {#video}
 
 {{% video
-videoId=""
+videoId="otO3Nt6Xu9I"
 
-videoPlaylist=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8"
 
-slides=""
+slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-essence-of-god"
 %}}
 
 ## Summary {#summary}
@@ -27,14 +28,14 @@ In this lesson, we are going to be kicking off our new study of BB1: Theology on
 
 ## Timestamps {#timestamps}
 
-0:00 - Intro and outline
-01:06 - The essence of God is being. He is the Great I AM
-11:43 - The resplendence of God: light and glory
-&emsp;13:24 - Q: 1 Timothy 6:16 talks about God's unapproachable light. It also says God alone possess immortality. What does that latter statement mean?
-&emsp;25:01 - Q: We say God dwells in this unapproachable light that no one has seen nor ever can see. What then of cases in scripture where people seem to have "seen God?"
-&emsp;35:52 - Comment: God's glory as it relates to "every knee will bow, and every tongue confess"
-49:16 - Essence, nature, character... ???
-59:09 - Summary and outro
+{{% timestamp videoId="otO3Nt6Xu9I" time="0" display="0:00" %}} - Intro and outline  
+{{% timestamp videoId="otO3Nt6Xu9I" time="66" display="01:06" %}} - The essence of God is being. He is the Great I AM  
+{{% timestamp videoId="otO3Nt6Xu9I" time="703" display="11:43" %}} - The resplendence of God: light and glory  
+&emsp;{{% timestamp videoId="otO3Nt6Xu9I" time="804" display="13:24" %}} - Q: 1 Timothy 6:16 talks about God's unapproachable light. It also says God alone possess immortality. What does that latter statement mean?  
+&emsp;{{% timestamp videoId="otO3Nt6Xu9I" time="1501" display="25:01" %}} - Q: We say God dwells in this unapproachable light that no one has seen nor ever can see. What then of cases in scripture where people seem to have "seen God?"  
+&emsp;{{% timestamp videoId="otO3Nt6Xu9I" time="2152" display="35:52" %}} - Comment: God's glory as it relates to "every knee will bow, and every tongue confess"  
+{{% timestamp videoId="otO3Nt6Xu9I" time="2956" display="49:16" %}} - Essence, nature, character... ???  
+{{% timestamp videoId="otO3Nt6Xu9I" time="3549" display="59:09" %}} - Summary and outro  
 
 {{% content %}}
 
