@@ -3,7 +3,7 @@ title: 2023 Ministry Progress Summaries
 weight: 
 layout: aggregation-page
 summary: >-
-   TODO: Give a meaningful summary of the developments in 2023, as things play out. Hopefully, this year we'll get Bible studies at the house church off the ground, and build the beginnings of a stable local community. At least that is what we have been praying for.
+   In 2023, aside from getting involved in some local churches, I added a good bit of initial written content to the site: some verse by verse content for Romans 1, Romans 2, 1 Thessalonians 4, and 1 Thessalonians 5; a longer topical study about discerning the voice of God; and so on. I also helped my friend launch his ministry website, and our Ichthys Zoom Bible study started going through BB1: Theology in our weekly meetings.
 ---
 
 <!-- aggregate-page-content -->

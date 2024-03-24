@@ -52,6 +52,7 @@ In this lesson, we are going to be kicking off our new study of BB1: Theology on
 <a href="/subject-index/#god-name-of-god">God > Name of God</a>
 <a href="/subject-index/#god-externality-to-spacetime">God > Externality to spacetime</a>
 {{< /subjects >}}
+<!-- p="Exodus 3:14-15" -->
 
 The essence of something is what it really is. "Essence" and "being" are precise synonyms.
 
@@ -83,6 +84,7 @@ God's glory is most directly revealed to mankind through His Son, Jesus Christ. 
 {{< subjects >}}
 <a href="/subject-index/#god-immortality-antithesis-of-death">God > Immortality > Antithesis of death</a>
 {{< /subjects >}}
+<!-- p="1 Timothy 6:16" -->
 
 {{% note %}}
 This is a video-only section.
