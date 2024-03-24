@@ -15,11 +15,11 @@ playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-a
 ## Video {#video}
 
 {{% video
-videoId="C_RCnuxTSHo"
+videoId="UjHR0HJJbyw"
 
 videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
 
-slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2023/through-1-1-23/"
+slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2024/through-3-23-24"
 %}}
 
 ## Summary {#summary}
@@ -28,7 +28,16 @@ This cycle I mostly focused on completing a large chunk of the development effor
 
 ## Timestamps {#timestamps}
 
-
+{{% timestamp videoId="UjHR0HJJbyw" time="0" display="0:00" %}} - Intro and outline  
+{{% timestamp videoId="UjHR0HJJbyw" time="105" display="01:45" %}} - Foreword: things I did not do, despite some of my prior plans  
+{{% timestamp videoId="UjHR0HJJbyw" time="389" display="06:29" %}} - So what *did* I actually do?  
+{{% timestamp videoId="UjHR0HJJbyw" time="1047" display="17:27" %}} - Why did things turn out delayed this way? Mostly because I wanted to finish the bulk of the video processing automation before I processed all the videos  
+{{% timestamp videoId="UjHR0HJJbyw" time="1304" display="21:44" %}} - A brief overview of the video processing workflow  
+{{% timestamp videoId="UjHR0HJJbyw" time="1740" display="29:00" %}} - What the output videos look like on YouTube/the website  
+{{% timestamp videoId="UjHR0HJJbyw" time="1811" display="30:11" %}} - Page-internal timestamps and the YouTube Iframe API  
+{{% timestamp videoId="UjHR0HJJbyw" time="2161" display="36:01" %}} - So now that all of that is set up, releases will be more consistent. I promise  
+{{% timestamp videoId="UjHR0HJJbyw" time="2354" display="39:14" %}} - Upcoming plans  
+{{% timestamp videoId="UjHR0HJJbyw" time="3006" display="50:06" %}} - Summary and outro  
 
 {{% content %}}
 
