@@ -13,13 +13,9 @@ layout: content-page
 ## Video {#video}
 
 {{% video
-src="https://www.youtube.com/embed/C_RCnuxTSHo"
+videoId="C_RCnuxTSHo"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
 
 slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2023/through-1-1-23/"
 %}}
@@ -30,11 +26,11 @@ This cycle I spent time relaxing over the holidays with family. I also made a go
 
 ## Timestamps {#timestamps}
 
-[00:00](https://www.youtube.com/watch?v=C_RCnuxTSHo&t=0s) - Intro  
-[01:07](https://www.youtube.com/watch?v=C_RCnuxTSHo&t=67s) - Relaxing with family  
-[01:37](https://www.youtube.com/watch?v=C_RCnuxTSHo&t=97s) - Progress on various studies  
-[09:17](https://www.youtube.com/watch?v=C_RCnuxTSHo&t=557s) - Practical matters  
-[12:52](https://www.youtube.com/watch?v=C_RCnuxTSHo&t=772s) - Upcoming work  
+{{% timestamp videoId="C_RCnuxTSHo" time="0" display="00:00" %}} - Intro  
+{{% timestamp videoId="C_RCnuxTSHo" time="67" display="01:07" %}} - Relaxing with family  
+{{% timestamp videoId="C_RCnuxTSHo" time="97" display="01:37" %}} - Progress on various studies  
+{{% timestamp videoId="C_RCnuxTSHo" time="557" display="09:17" %}} - Practical matters  
+{{% timestamp videoId="C_RCnuxTSHo" time="772" display="12:52" %}} - Upcoming work  
 
 {{% content %}}
 

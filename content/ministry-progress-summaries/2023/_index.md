@@ -3,7 +3,7 @@ title: 2023 Ministry Progress Summaries
 weight: 
 layout: aggregation-page
 summary: >-
-   TODO: Give a meaningful summary of the developments in 2023, as things play out. Hopefully, this year we'll get Bible studies at the house church off the ground, and build the beginnings of a stable local community. At least that is what we have been praying for.
+   In 2023, aside from getting involved in some local churches, I added a good bit of initial written content to the site: some verse by verse content for Romans 1, Romans 2, 1 Thessalonians 4, and 1 Thessalonians 5; a longer topical study about discerning the voice of God; and so on. I also helped my friend launch his ministry website, and our Ichthys Zoom Bible study started going through BB1: Theology in our weekly meetings.
 ---
 
 <!-- aggregate-page-content -->
@@ -18,13 +18,9 @@ summary: >-
 ### Video {#through-1-1-23-video}
 
 {{% video
-src="https://www.youtube.com/embed/C_RCnuxTSHo"
+videoId="C_RCnuxTSHo"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
 
 slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2023/through-1-1-23/"
 %}}
@@ -35,11 +31,11 @@ This cycle I spent time relaxing over the holidays with family. I also made a go
 
 ### Timestamps {#through-1-1-23-timestamps}
 
-[00:00](https://www.youtube.com/watch?v=C_RCnuxTSHo&t=0s) - Intro  
-[01:07](https://www.youtube.com/watch?v=C_RCnuxTSHo&t=67s) - Relaxing with family  
-[01:37](https://www.youtube.com/watch?v=C_RCnuxTSHo&t=97s) - Progress on various studies  
-[09:17](https://www.youtube.com/watch?v=C_RCnuxTSHo&t=557s) - Practical matters  
-[12:52](https://www.youtube.com/watch?v=C_RCnuxTSHo&t=772s) - Upcoming work  
+{{% timestamp videoId="C_RCnuxTSHo" time="0" display="00:00" %}} - Intro  
+{{% timestamp videoId="C_RCnuxTSHo" time="67" display="01:07" %}} - Relaxing with family  
+{{% timestamp videoId="C_RCnuxTSHo" time="97" display="01:37" %}} - Progress on various studies  
+{{% timestamp videoId="C_RCnuxTSHo" time="557" display="09:17" %}} - Practical matters  
+{{% timestamp videoId="C_RCnuxTSHo" time="772" display="12:52" %}} - Upcoming work  
 
 {{% toggleable-content %}}
 
@@ -107,13 +103,9 @@ At any rate, exactly what I mean by all of these things will be more clear as I 
 ### Video {#through-1-15-23-video}
 
 {{% video
-src="https://www.youtube.com/embed/0lMep2I9sRc"
+videoId="0lMep2I9sRc"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
 
 slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2023/through-1-15-23/"
 %}}
@@ -124,11 +116,11 @@ This cycle was very research-heavy. I worked more on the studies I'm in the proc
 
 ### Timestamps {#through-1-15-23-timestamps}
 
-[00:00](https://www.youtube.com/watch?v=0lMep2I9sRc&t=0s) - Intro  
-[00:34](https://www.youtube.com/watch?v=0lMep2I9sRc&t=34s) - Worked more on in-progress studies  
-[02:06](https://www.youtube.com/watch?v=0lMep2I9sRc&t=126s) - Researched a couple topics and had long conversations about them  
-[03:43](https://www.youtube.com/watch?v=0lMep2I9sRc&t=223s) - Researched and decided where I want to start getting involved locally  
-[05:43](https://www.youtube.com/watch?v=0lMep2I9sRc&t=343s) - Upcoming work  
+{{% timestamp videoId="0lMep2I9sRc" time="0" display="00:00" %}} - Intro  
+{{% timestamp videoId="0lMep2I9sRc" time="34" display="00:34" %}} - Worked more on in-progress studies  
+{{% timestamp videoId="0lMep2I9sRc" time="126" display="02:06" %}} - Researched a couple topics and had long conversations about them  
+{{% timestamp videoId="0lMep2I9sRc" time="223" display="03:43" %}} - Researched and decided where I want to start getting involved locally  
+{{% timestamp videoId="0lMep2I9sRc" time="343" display="05:43" %}} - Upcoming work  
 
 {{% toggleable-content %}}
 
@@ -192,13 +184,9 @@ I'm hoping to start getting involved in the next week or two.
 ### Video {#through-2-21-23-video}
 
 {{% video
-src="https://www.youtube.com/embed/wab28hfPOl8"
+videoId="wab28hfPOl8"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
 
 slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2023/through-2-21-23/"
 %}}
@@ -209,18 +197,18 @@ This cycle ran long on account of me being busy getting set up and established a
 
 ### Timestamps {#through-2-21-23-timestamps}
 
-[00:00](https://www.youtube.com/watch?v=wab28hfPOl8&t=0s) - Intro  
-[00:59](https://www.youtube.com/watch?v=wab28hfPOl8&t=59s) - Making these updates only as more content accumulates  
-[02:58](https://www.youtube.com/watch?v=wab28hfPOl8&t=178s) - Squashed some bugs/made some framework improvements  
-[06:15](https://www.youtube.com/watch?v=wab28hfPOl8&t=375s) - Got established at some local church fellowships  
-[07:00](https://www.youtube.com/watch?v=wab28hfPOl8&t=420s) - New content  
-[08:05](https://www.youtube.com/watch?v=wab28hfPOl8&t=485s) - Week 1: Does the Voice Agree with the Bible?  
-[10:33](https://www.youtube.com/watch?v=wab28hfPOl8&t=633s) - Week 2: Does the Voice Bring Conviction?  
-[13:51](https://www.youtube.com/watch?v=wab28hfPOl8&t=831s) - Week 3: Does the Voice Call You to Trust God?  
-[16:03](https://www.youtube.com/watch?v=wab28hfPOl8&t=963s) - Week 4: Does the Voice Align with God's Character?  
-[26:55](https://www.youtube.com/watch?v=wab28hfPOl8&t=1615s) - Week 5: Does the Voice Honor God?  
-[29:07](https://www.youtube.com/watch?v=wab28hfPOl8&t=1747s) - Upcoming work  
-[29:40](https://www.youtube.com/watch?v=wab28hfPOl8&t=1780s) - Outro  
+{{% timestamp videoId="wab28hfPOl8" time="0" display="00:00" %}} - Intro  
+{{% timestamp videoId="wab28hfPOl8" time="59" display="00:59" %}} - Making these updates only as more content accumulates  
+{{% timestamp videoId="wab28hfPOl8" time="178" display="02:58" %}} - Squashed some bugs/made some framework improvements  
+{{% timestamp videoId="wab28hfPOl8" time="375" display="06:15" %}} - Got established at some local church fellowships  
+{{% timestamp videoId="wab28hfPOl8" time="420" display="07:00" %}} - New content  
+{{% timestamp videoId="wab28hfPOl8" time="485" display="08:05" %}} - Week 1: Does the Voice Agree with the Bible?  
+{{% timestamp videoId="wab28hfPOl8" time="633" display="10:33" %}} - Week 2: Does the Voice Bring Conviction?  
+{{% timestamp videoId="wab28hfPOl8" time="831" display="13:51" %}} - Week 3: Does the Voice Call You to Trust God?  
+{{% timestamp videoId="wab28hfPOl8" time="963" display="16:03" %}} - Week 4: Does the Voice Align with God's Character?  
+{{% timestamp videoId="wab28hfPOl8" time="1615" display="26:55" %}} - Week 5: Does the Voice Honor God?  
+{{% timestamp videoId="wab28hfPOl8" time="1747" display="29:07" %}} - Upcoming work  
+{{% timestamp videoId="wab28hfPOl8" time="1780" display="29:40" %}} - Outro  
 
 {{% toggleable-content %}}
 
@@ -341,13 +329,9 @@ I haven't started any writing of my own for the Jeremiah study yet, but plan to 
 ### Video {#through-4-17-23-video}
 
 {{% video
-src="https://www.youtube.com/embed/J8adMBllL7Y"
+videoId="J8adMBllL7Y"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
 
 slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2023/through-4-17-23/"
 %}}
@@ -360,16 +344,16 @@ Nonetheless, this release brings some new content for many of the lessons in the
 
 ### Timestamps {#through-4-17-23-timestamps}
 
-[00:00](https://www.youtube.com/watch?v=J8adMBllL7Y&t=0s) - Intro  
-[01:03](https://www.youtube.com/watch?v=J8adMBllL7Y&t=63s) - It's been a while...  
-[02:20](https://www.youtube.com/watch?v=J8adMBllL7Y&t=140s) - Helping my roommate get his content ready for his ministry launch  
-[04:44](https://www.youtube.com/watch?v=J8adMBllL7Y&t=284s) - New content this cycle  
-[22:05](https://www.youtube.com/watch?v=J8adMBllL7Y&t=1325s) - Upcoming work  
-[23:30](https://www.youtube.com/watch?v=J8adMBllL7Y&t=1410s) - Excuse for lateness number 1: Microphone debugging  
-[25:44](https://www.youtube.com/watch?v=J8adMBllL7Y&t=1544s) - Excuse for lateness number 2: Getting accustomed to new responsibilities at work  
-[27:24](https://www.youtube.com/watch?v=J8adMBllL7Y&t=1644s) - Excuse for lateness number 3: I was very busy when away on a business trip for two weeks  
-[29:06](https://www.youtube.com/watch?v=J8adMBllL7Y&t=1746s) - Excuse for lateness number 4: I spent some time "investing in the future"  
-[31:10](https://www.youtube.com/watch?v=J8adMBllL7Y&t=1870s) - Outro  
+{{% timestamp videoId="J8adMBllL7Y" time="0" display="00:00" %}} - Intro  
+{{% timestamp videoId="J8adMBllL7Y" time="63" display="01:03" %}} - It's been a while...  
+{{% timestamp videoId="J8adMBllL7Y" time="140" display="02:20" %}} - Helping my roommate get his content ready for his ministry launch  
+{{% timestamp videoId="J8adMBllL7Y" time="284" display="04:44" %}} - New content this cycle  
+{{% timestamp videoId="J8adMBllL7Y" time="1325" display="22:05" %}} - Upcoming work  
+{{% timestamp videoId="J8adMBllL7Y" time="1410" display="23:30" %}} - Excuse for lateness number 1: Microphone debugging  
+{{% timestamp videoId="J8adMBllL7Y" time="1544" display="25:44" %}} - Excuse for lateness number 2: Getting accustomed to new responsibilities at work  
+{{% timestamp videoId="J8adMBllL7Y" time="1644" display="27:24" %}} - Excuse for lateness number 3: I was very busy when away on a business trip for two weeks  
+{{% timestamp videoId="J8adMBllL7Y" time="1746" display="29:06" %}} - Excuse for lateness number 4: I spent some time "investing in the future"  
+{{% timestamp videoId="J8adMBllL7Y" time="1870" display="31:10" %}} - Outro  
 
 {{% toggleable-content %}}
 
@@ -798,13 +782,9 @@ There were some other matters too, but those were a couple of the bigger things 
 ### Video {#through-10-16-23-video}
 
 {{% video
-src="https://www.youtube.com/embed/Jm0YvuLAJgA"
+videoId="Jm0YvuLAJgA"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
 
 slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2023/through-10-16-23/"
 %}}
@@ -817,25 +797,25 @@ There are also *lots* of new pages in new verse-by-verse studies of Romans and 1
 
 ### Timestamps {#through-10-16-23-timestamps}
 
-[0:00](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=0s) - Intro  
-[2:30](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=150s) - Outline  
-[5:23](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=323s) - On the nature of this particular ministry progress summary  
-[8:50](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=530s) - BibleDriven, Jordan Bomberger's online ministry, is now live!  
-[12:54](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=774s) - Our group Bible Study over Zoom has resumed our weekly recordings, this time going through Ichthys' Systematic Theology  
-[19:24](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=1164s) - Discussion questions from a local Bible study covering the book of Romans  
-[22:43](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=1363s) - Verse-by-verse Romans study  
-[25:56](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=1556s) - Another verse-by-verse study, this one for 1 Thessalonians  
-[27:46](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=1666s) - Some other theological conversations  
-[29:26](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=1766s) - Work on some of my planned studies  
-[31:31](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=1891s) - Plans for the future  
-[36:56](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=2216s) - Index of new content this release  
-&emsp;[37:52](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=2272s) - BB1: Theology lessons  
-&emsp;[39:44](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=2384s) - Romans discussion questions and brief notes  
-&emsp;[41:42](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=2502s) - Verse-by-verse Romans study: Romans 1  
-&emsp;[43:43](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=2623s) - Verse-by-verse Romans study: Romans 2  
-&emsp;[44:57](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=2697s) - Verse-by-verse 1 Thessalonians study: 1 Thessalonians 4  
-&emsp;[45:37](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=2737s) - Verse-by-verse 1 Thessalonians study: 1 Thessalonians 5  
-[47:23](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=2843s) - Outro  
+{{% timestamp videoId="Jm0YvuLAJgA" time="0" display="0:00" %}} - Intro  
+{{% timestamp videoId="Jm0YvuLAJgA" time="150" display="2:30" %}} - Outline  
+{{% timestamp videoId="Jm0YvuLAJgA" time="323" display="5:23" %}} - On the nature of this particular ministry progress summary  
+{{% timestamp videoId="Jm0YvuLAJgA" time="530" display="8:50" %}} - BibleDriven, Jordan Bomberger's online ministry, is now live!  
+{{% timestamp videoId="Jm0YvuLAJgA" time="774" display="12:54" %}} - Our group Bible Study over Zoom has resumed our weekly recordings, this time going through Ichthys' Systematic Theology  
+{{% timestamp videoId="Jm0YvuLAJgA" time="1164" display="19:24" %}} - Discussion questions from a local Bible study covering the book of Romans  
+{{% timestamp videoId="Jm0YvuLAJgA" time="1363" display="22:43" %}} - Verse-by-verse Romans study  
+{{% timestamp videoId="Jm0YvuLAJgA" time="1556" display="25:56" %}} - Another verse-by-verse study, this one for 1 Thessalonians  
+{{% timestamp videoId="Jm0YvuLAJgA" time="1666" display="27:46" %}} - Some other theological conversations  
+{{% timestamp videoId="Jm0YvuLAJgA" time="1766" display="29:26" %}} - Work on some of my planned studies  
+{{% timestamp videoId="Jm0YvuLAJgA" time="1891" display="31:31" %}} - Plans for the future  
+{{% timestamp videoId="Jm0YvuLAJgA" time="2216" display="36:56" %}} - Index of new content this release  
+&emsp;{{% timestamp videoId="Jm0YvuLAJgA" time="2272" display="37:52" %}} - BB1: Theology lessons  
+&emsp;{{% timestamp videoId="Jm0YvuLAJgA" time="2384" display="39:44" %}} - Romans discussion questions and brief notes  
+&emsp;{{% timestamp videoId="Jm0YvuLAJgA" time="2502" display="41:42" %}} - Verse-by-verse Romans study: Romans 1  
+&emsp;{{% timestamp videoId="Jm0YvuLAJgA" time="2623" display="43:43" %}} - Verse-by-verse Romans study: Romans 2  
+&emsp;{{% timestamp videoId="Jm0YvuLAJgA" time="2697" display="44:57" %}} - Verse-by-verse 1 Thessalonians study: 1 Thessalonians 4  
+&emsp;{{% timestamp videoId="Jm0YvuLAJgA" time="2737" display="45:37" %}} - Verse-by-verse 1 Thessalonians study: 1 Thessalonians 5  
+{{% timestamp videoId="Jm0YvuLAJgA" time="2843" display="47:23" %}} - Outro  
 
 {{% toggleable-content %}}
 

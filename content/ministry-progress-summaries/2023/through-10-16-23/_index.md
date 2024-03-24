@@ -13,13 +13,9 @@ layout: content-page
 ## Video {#video}
 
 {{% video
-src="https://www.youtube.com/embed/Jm0YvuLAJgA"
+videoId="Jm0YvuLAJgA"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
 
 slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2023/through-10-16-23/"
 %}}
@@ -32,25 +28,25 @@ There are also *lots* of new pages in new verse-by-verse studies of Romans and 1
 
 ## Timestamps {#timestamps}
 
-[0:00](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=0s) - Intro  
-[2:30](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=150s) - Outline  
-[5:23](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=323s) - On the nature of this particular ministry progress summary  
-[8:50](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=530s) - BibleDriven, Jordan Bomberger's online ministry, is now live!  
-[12:54](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=774s) - Our group Bible Study over Zoom has resumed our weekly recordings, this time going through Ichthys' Systematic Theology  
-[19:24](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=1164s) - Discussion questions from a local Bible study covering the book of Romans  
-[22:43](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=1363s) - Verse-by-verse Romans study  
-[25:56](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=1556s) - Another verse-by-verse study, this one for 1 Thessalonians  
-[27:46](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=1666s) - Some other theological conversations  
-[29:26](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=1766s) - Work on some of my planned studies  
-[31:31](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=1891s) - Plans for the future  
-[36:56](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=2216s) - Index of new content this release  
-&emsp;[37:52](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=2272s) - BB1: Theology lessons  
-&emsp;[39:44](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=2384s) - Romans discussion questions and brief notes  
-&emsp;[41:42](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=2502s) - Verse-by-verse Romans study: Romans 1  
-&emsp;[43:43](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=2623s) - Verse-by-verse Romans study: Romans 2  
-&emsp;[44:57](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=2697s) - Verse-by-verse 1 Thessalonians study: 1 Thessalonians 4  
-&emsp;[45:37](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=2737s) - Verse-by-verse 1 Thessalonians study: 1 Thessalonians 5  
-[47:23](https://www.youtube.com/watch?v=Jm0YvuLAJgA&t=2843s) - Outro  
+{{% timestamp videoId="Jm0YvuLAJgA" time="0" display="0:00" %}} - Intro  
+{{% timestamp videoId="Jm0YvuLAJgA" time="150" display="2:30" %}} - Outline  
+{{% timestamp videoId="Jm0YvuLAJgA" time="323" display="5:23" %}} - On the nature of this particular ministry progress summary  
+{{% timestamp videoId="Jm0YvuLAJgA" time="530" display="8:50" %}} - BibleDriven, Jordan Bomberger's online ministry, is now live!  
+{{% timestamp videoId="Jm0YvuLAJgA" time="774" display="12:54" %}} - Our group Bible Study over Zoom has resumed our weekly recordings, this time going through Ichthys' Systematic Theology  
+{{% timestamp videoId="Jm0YvuLAJgA" time="1164" display="19:24" %}} - Discussion questions from a local Bible study covering the book of Romans  
+{{% timestamp videoId="Jm0YvuLAJgA" time="1363" display="22:43" %}} - Verse-by-verse Romans study  
+{{% timestamp videoId="Jm0YvuLAJgA" time="1556" display="25:56" %}} - Another verse-by-verse study, this one for 1 Thessalonians  
+{{% timestamp videoId="Jm0YvuLAJgA" time="1666" display="27:46" %}} - Some other theological conversations  
+{{% timestamp videoId="Jm0YvuLAJgA" time="1766" display="29:26" %}} - Work on some of my planned studies  
+{{% timestamp videoId="Jm0YvuLAJgA" time="1891" display="31:31" %}} - Plans for the future  
+{{% timestamp videoId="Jm0YvuLAJgA" time="2216" display="36:56" %}} - Index of new content this release  
+&emsp;{{% timestamp videoId="Jm0YvuLAJgA" time="2272" display="37:52" %}} - BB1: Theology lessons  
+&emsp;{{% timestamp videoId="Jm0YvuLAJgA" time="2384" display="39:44" %}} - Romans discussion questions and brief notes  
+&emsp;{{% timestamp videoId="Jm0YvuLAJgA" time="2502" display="41:42" %}} - Verse-by-verse Romans study: Romans 1  
+&emsp;{{% timestamp videoId="Jm0YvuLAJgA" time="2623" display="43:43" %}} - Verse-by-verse Romans study: Romans 2  
+&emsp;{{% timestamp videoId="Jm0YvuLAJgA" time="2697" display="44:57" %}} - Verse-by-verse 1 Thessalonians study: 1 Thessalonians 4  
+&emsp;{{% timestamp videoId="Jm0YvuLAJgA" time="2737" display="45:37" %}} - Verse-by-verse 1 Thessalonians study: 1 Thessalonians 5  
+{{% timestamp videoId="Jm0YvuLAJgA" time="2843" display="47:23" %}} - Outro  
 
 {{% content %}}
 

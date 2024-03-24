@@ -13,13 +13,9 @@ layout: content-page
 ## Video {#video}
 
 {{% video
-src="https://www.youtube.com/embed/CnIpsUyhN10"
+videoId="CnIpsUyhN10"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4"
-
-video="https://archive.org/download/bibledocs-lt-introduction-to-sr4-satans-world-system-video/Introduction%20to%20SR4%20-%20Satan%27s%20World%20System.mp4"
-
-audio="https://archive.org/download/bibledocs-lt-introduction-to-sr4-satans-world-system-audio/Introduction%20to%20SR4%20-%20Satan%27s%20World%20System.mp3"
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4"
 
 slides="https://bibledocs.org/slides/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr4-satans-world-system"
 %}}
@@ -30,14 +26,14 @@ slides="https://bibledocs.org/slides/longer-topical-studies/ichthys-sr4-satans-w
 
 ## Timestamps {#timestamps}
 
-[00:00](https://www.youtube.com/watch?v=CnIpsUyhN10&t=0s) - Introduction  
-[00:10](https://www.youtube.com/watch?v=CnIpsUyhN10&t=10s) - Outline  
-[01:24](https://www.youtube.com/watch?v=CnIpsUyhN10&t=84s) - Why do this study in particular?  
-[02:45](https://www.youtube.com/watch?v=CnIpsUyhN10&t=165s) - Plato's Allegory of the Cave  
-[05:00](https://www.youtube.com/watch?v=CnIpsUyhN10&t=300s) - Satan the puppet-master  
-[09:54](https://www.youtube.com/watch?v=CnIpsUyhN10&t=594s) - The outline for SR4 on Ichthys  
-[17:04](https://www.youtube.com/watch?v=CnIpsUyhN10&t=1024s) - Steven's high-level introduction  
-[18:13](https://www.youtube.com/watch?v=CnIpsUyhN10&t=1093s) - Recap  
+{{% timestamp videoId="CnIpsUyhN10" time="0" display="00:00" %}} - Introduction  
+{{% timestamp videoId="CnIpsUyhN10" time="10" display="00:10" %}} - Outline  
+{{% timestamp videoId="CnIpsUyhN10" time="84" display="01:24" %}} - Why do this study in particular?  
+{{% timestamp videoId="CnIpsUyhN10" time="165" display="02:45" %}} - Plato's Allegory of the Cave  
+{{% timestamp videoId="CnIpsUyhN10" time="300" display="05:00" %}} - Satan the puppet-master  
+{{% timestamp videoId="CnIpsUyhN10" time="594" display="09:54" %}} - The outline for SR4 on Ichthys  
+{{% timestamp videoId="CnIpsUyhN10" time="1024" display="17:04" %}} - Steven's high-level introduction  
+{{% timestamp videoId="CnIpsUyhN10" time="1093" display="18:13" %}} - Recap  
 
 {{% content %}}
 
@@ -728,13 +724,9 @@ If we study the tactics Satan uses in his pursuit of his objectives, we can come
 ### Video {#discussion-level-of-depth-calling-many-deceived-too-harsh-why-god-allows-satan-control-video}
 
 {{% video
-src="https://www.youtube.com/embed/eqtCDR-RVjc"
+videoId="eqtCDR-RVjc"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4"
 
 slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr4-satans-world-system/level-of-depth-calling-many-deceived-too-harsh-why-god-allows-satan-control/"
 %}}
@@ -745,12 +737,12 @@ Talking in-depth about Satan's world system has enough practical benefit that it
 
 ### Timestamps {#discussion-level-of-depth-calling-many-deceived-too-harsh-why-god-allows-satan-control-timestamps}
 
-[00:00](https://www.youtube.com/watch?v=eqtCDR-RVjc&list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4&index=3&t=0s) - Introduction  
-[00:54](https://www.youtube.com/watch?v=eqtCDR-RVjc&list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4&index=3&t=54s) - Is this much depth really necessary? (In talking about Satan's web of lies and deceit in the world)  
-[03:40](https://www.youtube.com/watch?v=eqtCDR-RVjc&list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4&index=3&t=220s) - Are many Christians really so helpless? (In terms of being deceived by Satan's lies)  
-[10:25](https://www.youtube.com/watch?v=eqtCDR-RVjc&list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4&index=3&t=625s) - Isn't this too harsh? (Saying that many people really are deceived)  
-[12:38](https://www.youtube.com/watch?v=eqtCDR-RVjc&list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4&index=3&t=758s) - Why doesn't God just defeat Satan already?  
-[20:10](https://www.youtube.com/watch?v=eqtCDR-RVjc&list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4&index=3&t=1210s) - Did God give Satan control? Is that phrasing really appropriate?  
+{{% timestamp videoId="eqtCDR-RVjc" time="0" display="00:00" %}} - Introduction  
+{{% timestamp videoId="eqtCDR-RVjc" time="54" display="00:54" %}} - Is this much depth really necessary? (In talking about Satan's web of lies and deceit in the world)  
+{{% timestamp videoId="eqtCDR-RVjc" time="220s" display="03:40" %}} - Are many Christians really so helpless? (In terms of being deceived by Satan's lie)  
+{{% timestamp videoId="eqtCDR-RVjc" time="625" display="10:25" %}} - Isn't this too harsh? (Saying that many people really are deceived)  
+{{% timestamp videoId="eqtCDR-RVjc" time="758" display="12:38" %}} - Why doesn't God just defeat Satan already?  
+{{% timestamp videoId="eqtCDR-RVjc" time="1210" display="20:10" %}} - Did God give Satan control? Is that phrasing really appropriate?  
 
 {{% toggleable-content %}}
 

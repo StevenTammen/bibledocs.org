@@ -13,13 +13,9 @@ layout: content-page
 ## Video {#video}
 
 {{% video
-src="https://www.youtube.com/embed/wab28hfPOl8"
+videoId="wab28hfPOl8"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
 
 slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2023/through-2-21-23/"
 %}}
@@ -30,18 +26,18 @@ This cycle ran long on account of me being busy getting set up and established a
 
 ## Timestamps {#timestamps}
 
-[00:00](https://www.youtube.com/watch?v=wab28hfPOl8&t=0s) - Intro  
-[00:59](https://www.youtube.com/watch?v=wab28hfPOl8&t=59s) - Making these updates only as more content accumulates  
-[02:58](https://www.youtube.com/watch?v=wab28hfPOl8&t=178s) - Squashed some bugs/made some framework improvements  
-[06:15](https://www.youtube.com/watch?v=wab28hfPOl8&t=375s) - Got established at some local church fellowships  
-[07:00](https://www.youtube.com/watch?v=wab28hfPOl8&t=420s) - New content  
-[08:05](https://www.youtube.com/watch?v=wab28hfPOl8&t=485s) - Week 1: Does the Voice Agree with the Bible?  
-[10:33](https://www.youtube.com/watch?v=wab28hfPOl8&t=633s) - Week 2: Does the Voice Bring Conviction?  
-[13:51](https://www.youtube.com/watch?v=wab28hfPOl8&t=831s) - Week 3: Does the Voice Call You to Trust God?  
-[16:03](https://www.youtube.com/watch?v=wab28hfPOl8&t=963s) - Week 4: Does the Voice Align with God's Character?  
-[26:55](https://www.youtube.com/watch?v=wab28hfPOl8&t=1615s) - Week 5: Does the Voice Honor God?  
-[29:07](https://www.youtube.com/watch?v=wab28hfPOl8&t=1747s) - Upcoming work  
-[29:40](https://www.youtube.com/watch?v=wab28hfPOl8&t=1780s) - Outro  
+{{% timestamp videoId="wab28hfPOl8" time="0" display="00:00" %}} - Intro  
+{{% timestamp videoId="wab28hfPOl8" time="59" display="00:59" %}} - Making these updates only as more content accumulates  
+{{% timestamp videoId="wab28hfPOl8" time="178" display="02:58" %}} - Squashed some bugs/made some framework improvements  
+{{% timestamp videoId="wab28hfPOl8" time="375" display="06:15" %}} - Got established at some local church fellowships  
+{{% timestamp videoId="wab28hfPOl8" time="420" display="07:00" %}} - New content  
+{{% timestamp videoId="wab28hfPOl8" time="485" display="08:05" %}} - Week 1: Does the Voice Agree with the Bible?  
+{{% timestamp videoId="wab28hfPOl8" time="633" display="10:33" %}} - Week 2: Does the Voice Bring Conviction?  
+{{% timestamp videoId="wab28hfPOl8" time="831" display="13:51" %}} - Week 3: Does the Voice Call You to Trust God?  
+{{% timestamp videoId="wab28hfPOl8" time="963" display="16:03" %}} - Week 4: Does the Voice Align with God's Character?  
+{{% timestamp videoId="wab28hfPOl8" time="1615" display="26:55" %}} - Week 5: Does the Voice Honor God?  
+{{% timestamp videoId="wab28hfPOl8" time="1747" display="29:07" %}} - Upcoming work  
+{{% timestamp videoId="wab28hfPOl8" time="1780" display="29:40" %}} - Outro  
 
 {{% content %}}
 

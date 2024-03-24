@@ -3,168 +3,8 @@
  <head>
   <title>Slides</title>
   <meta charset="utf-8">
-  <link
-  rel="stylesheet"
-  href="https://unpkg.com/littlefoot/dist/littlefoot.css"
-/>
-  <style>
-   @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
-   @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
-
-   body { 
-    font-family: 'Georgia';
-   }
-
-   ::selection{
-    background-color: #fff6bd;
-   }
-
-   h1, h2, h3, h4, h5, h6 {
-    font-family: 'Verdana';
-    font-weight: bold;
-   }
-
-   h2 {
-    display: block;
-    font-size: 30px !important;
-    margin-block-start: 1.33em;
-    margin-block-end: 1.33em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-   }
-
-   /* Style most headers the same across slides, for visual consistency */
-   h3, h4, h5, h6 {
-    display: block;
-    font-size: 18px !important;
-    margin-block-start: 1.2em;
-    margin-block-end: 1.2em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-   }
-
-   /*
-    Don't need extra padding when headers aren't in a special content section
-    with the special content section name in a strong tag (when the header is
-    the very first thing in the sepcial content section div). Too much space otherwise
-   */
-   .special-content h3:first-child,
-   .special-content h4:first-child,
-   .special-content h5:first-child,
-   .special-content h6:first-child
-    {
-      margin-top: 0px;
-    }
-
-   .remark-code, .remark-inline-code {
-    font-family: 'Ubuntu Mono';
-   }
-   
-   .footer {
-    position: absolute;
-    bottom: 5px;
-    right: 50px;
-    height: 40px;
-    width: 800px;
-    color: #006400;
-   }
-
-   a {
-    color: #3b8bba;
-    text-decoration: none;
-  }
-
-  table, th, td {
-    border: 1px solid black;
-  }
-
-  /* Special content sections */
-
-  .special-content {
-    border-radius: 5px;
-    padding: 20px 10px 20px 10px;
-  }
-
-  .special-content >  .special-content {
-    margin-left: 10px;
-    margin-right: 10px;
-  }
-
-  .special-content > strong {
-    display: block;
-    text-align: center;
-    border-bottom: 1px solid black;
-    margin-top: -15px;
-  }
-
-  .special-content.cautionary-note {
-    background: #ffe6e6;
-  }
-
-  .special-content.technical-discussion {
-    background: #ffe0cc;
-  }
-
-  .special-content.sidenote {
-    background: #fffae6;
-  }
-
-  .special-content.application {
-    background: #ebfaeb;
-  }
-
-  .special-content.note {
-	  background: #e6ffff
-  }
-
-  .special-content.indirect-reasoning {
-    background: #e6f5ff;
-  }
-
-  .special-content.example {
-    background: #f2e6ff;
-  }
-
-  .special-content.post-hoc-note {
-    background: #ffe6f2;
-  }
-
-  .special-content.quote {
-    background: #e6e6e6;
-  }
-
-  .special-content.scripture {
-    background: #f2e6d9;
-  }
-
-
-  /* Littlefoot footnotes */
-
-  .littlefoot__button {
-    background-color: #dddddd;
-    color: #777777;
-    height: 1rem;
-    padding: 0rem 0.8rem;
-    margin: 0rem 0.1rem;
-    border: none;
-    border-radius: 10px;
-    vertical-align: middle;
-    display: inline-flex;
-    align-items: center; 
-  }
-  </style>
-	<script>
-		var refTagger = {
-			settings: {
-				addLogosLink: true,
-				bibleVersion: "NASB",
-				convertHyperlinks: true,
-				logosLinkIcon: "light",			
-				socialSharing: [],
-				tagChapters: true
-			}
-		};
-	</script>
+  <link rel="stylesheet" href="https://unpkg.com/littlefoot/dist/littlefoot.css" />
+  <link rel="stylesheet" href="/css/slides.css"/>
  </head>
  <body>
   <textarea id="source">
@@ -192,12 +32,12 @@ This is because there is no salvation to be had by Law-keeping; we cannot work o
 
 #### Outline
 
-- [The general question](#3)
-- [No, Romans 2:12 does not say that ignorance is an excuse](#4)
-  - [Why is the immediate context hard too?](#5)
-  - [If Paul were saying ignorance were an excuse in Romans 2:12, we'd expect verses 13-15 to be a digression about how morality is somehow conditioned by personal knowledge](#6)
-- [OK, so what *is* verse 12 getting at then?](#7)
-- [Back to verses 12-16 as a whole](#8)
+- [The general question](#4)
+- [No, Romans 2:12 does not say that ignorance is an excuse](#5)
+  - [Why is the immediate context hard too?](#6)
+  - [If Paul were saying ignorance were an excuse in Romans 2:12, we'd expect verses 13-15 to be a digression about how morality is somehow conditioned by personal knowledge](#7)
+- [OK, so what *is* verse 12 getting at then?](#8)
+- [Back to verses 12-16 as a whole](#9)
 
 ---
 
@@ -214,15 +54,19 @@ Vs.
 
 It's not so much that the correct (second) interpretation is so impossible to understand once explained, as that the incorrect (first) interpretation complicates what would otherwise be a reasonably straightforward discussion.
 
-{{% note %}}
+<div class="special-content note">
+<strong>
+<a href="/about-the-site/content-organization/#general-notes">Note</a>
+</strong>
 
-If you read the correct (second) interpretation and think something along the lines of "How is it at all fair for people to be judged by a Law they were never even informed of?", remember that just before this (Romans 1:18ff.), Paul had just spent time talking about how no one at all has any excuse. None, whatsoever.
+<p>If you read the correct (second) interpretation and think something along the lines of "How is it at all fair for people to be judged by a Law they were never even informed of?", remember that just before this (Romans 1:18ff.), Paul had just spent time talking about how no one at all has any excuse. None, whatsoever.</p>
 
-In short, if a person rejects natural revelation, what's the point in giving them more (here, the Law)? They already made their choice.
+<p>In short, if a person rejects natural revelation, what's the point in giving them more (here, the Law)? They already made their choice.</p>
 
-We'll circle back to this previous text of Romans 1:18ff. in a bit, to make much the same point again. The connection bears repeating, for it really is central to the correct interpretation of these verses here in Romans 2:12-16.
+<p>We'll circle back to this previous text of Romans 1:18ff. in a bit, to make much the same point again. The connection bears repeating, for it really is central to the correct interpretation of these verses here in Romans 2:12-16.</p>
 
-{{% /note %}}
+</div>
+
 
 ### No, Romans 2:12 does not say that ignorance is an excuse
 
@@ -243,7 +87,8 @@ Because Paul here digresses on a tangent (verses 13-15) before getting back to h
 
 <p>[...] Paul has a unique tendency to defer his main point and digress through the use of a subordinate clause which, if translated literally into English, would confuse most English readers (and no doubt confused more than a few Greek readers; cf. 2Pet.3:15-16).</p>
 
-<p>{{% scripture p="Romans 2:12-16 | NKJV" %}}</p>
+<div class="special-content scripture">
+<strong>Romans 2:12-16 | NKJV</strong>
 
 <p><strong>12</strong> For as many as have sinned without law will also perish without law, and as many as have sinned in the law will be judged by the law...</p>
 
@@ -251,11 +96,13 @@ Because Paul here digresses on a tangent (verses 13-15) before getting back to h
 
 <p>...<strong>16</strong> in the day when God will judge the secrets of men by Jesus Christ, according to my gospel.</p>
 
-<p>{{% /scripture %}}</p>
+</div>
+
 
 <p>The above would be red-penciled by most English composition teachers, but it is not unique in Paul's corpus (e.g., Rom.1:13; 1Cor.1:2; Col.2:22; 2Thes.1:10; 2Thes.2:8; and cf. 1Cor.1:4 to which the relative pronoun of verse 8 refers; also in 1Cor.12:2 the hyperbaton of the participle from the main verb). It is also strikingly present in Hebrews:</p>
 
-<p>{{% scripture p="Hebrews 2:9 | NKJV" %}}</p>
+<div class="special-content scripture">
+<strong>Hebrews 2:9 | NKJV</strong>
 
 <p>But we see Jesus, who was made a little lower than the angels...</p>
 
@@ -263,7 +110,8 @@ Because Paul here digresses on a tangent (verses 13-15) before getting back to h
 
 <p>...that He, by the grace of God, might taste death for everyone.</p>
 
-<p>{{% /scripture %}}</p>
+</div>
+
 
 <p>Both of these examples, necessarily cleaned up as much as possible in the English versions, are even more striking and vivid when read in the Greek.</p>
 
@@ -300,9 +148,11 @@ That notwithstanding, if Paul *were* to be making such a point about ignorance b
 
 The verse is getting at something like this (this is a very interpretive/loose paraphrase on my part):
 
-{{% scripture p="Romans 2:12 | loose paraphrase" %}}
-All the Gentiles who live in sin and don't obey the Law will obviously perish (i.e., face the second death), since they don't have the Law helping them see right from wrong. (Duh---you arrogant "Law keepers" already agree with this, that these people are hopeless). But hear this too: all those who know the Law yet have sinned under the Law in even the smallest way will be justly condemned by it. So have you people ever sinned under the Law, you who think you are so great because you know the Law?
-{{% /scripture %}}
+<div class="special-content scripture">
+<strong>Romans 2:12 | loose paraphrase</strong>
+<p>All the Gentiles who live in sin and don't obey the Law will obviously perish (i.e., face the second death), since they don't have the Law helping them see right from wrong. (Duh---you arrogant "Law keepers" already agree with this, that these people are hopeless). But hear this too: all those who know the Law yet have sinned under the Law in even the smallest way will be justly condemned by it. So have you people ever sinned under the Law, you who think you are so great because you know the Law?</p>
+</div>
+
 
 I should be clear again that this is a *very* interpretive/loose paraphrase. I added a lot that is simply not there in the text. But this is the essential meaning of verse 12 in how I interpret it.
 
@@ -391,12 +241,12 @@ And this is again why I focused so much on explaining the digression present in 
 
 #### Outline
 
-- [The general question](#3)
-- [No, Romans 2:12 does not say that ignorance is an excuse](#4)
-  - [Why is the immediate context hard too?](#5)
-  - [If Paul were saying ignorance were an excuse in Romans 2:12, we'd expect verses 13-15 to be a digression about how morality is somehow conditioned by personal knowledge](#6)
-- [OK, so what *is* verse 12 getting at then?](#7)
-- [Back to verses 12-16 as a whole](#8)
+- [The general question](#4)
+- [No, Romans 2:12 does not say that ignorance is an excuse](#5)
+  - [Why is the immediate context hard too?](#6)
+  - [If Paul were saying ignorance were an excuse in Romans 2:12, we'd expect verses 13-15 to be a digression about how morality is somehow conditioned by personal knowledge](#7)
+- [OK, so what *is* verse 12 getting at then?](#8)
+- [Back to verses 12-16 as a whole](#9)
 
 
 

@@ -12,13 +12,9 @@ weight:
 ## Video
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://www.steventammen.com/slides/"
 %}}

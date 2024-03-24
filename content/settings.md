@@ -44,6 +44,24 @@ While you can always go back and forth between the higher level version and lowe
 
 Keep in mind that if you clear your browser cookies, your preferences here will be lost, and you'll have to select them again.
 
+## Timestamps
+
+For pages that have embedded videos, you can choose whether you want to have timestamps on the page change the time of the embedded video (internal to the page), or have them open the video at the given time in a new tab (external to the page).
+
+<div id="timestampsTypeContainer" class="settingsContainer">
+	<div id="timestampsTypeDisplay"></div>
+	<div><input id="embedded" onclick="javascript:toInternalTimestampsOption();" type="button" value="Make timestamps internal" /></div>
+	<div><input id="plaintext" onclick="javascript:toExternalTimestampsOption();" type="button" value="Make timestamps external" /></div>
+</div>
+
+<style>
+	#timestampsTypeContainer input {
+		width: 300px;
+	}
+</style>
+
+Keep in mind that if you clear your browser cookies, your preferences here will be lost, and you'll have to select them again.
+
 ## STEP Bible app embedded windows
 
 <!-- As explained at [/about-the-site/#step-bible-app-embedded-windows](/about-the-site/#step-bible-app-embedded-windows), --> This site offers the option of viewing most verse quotations in embedded windows from a Bible software application. This allows for a lot of advanced functionality (built right into the webpages of this site), but it does add some complexity that some people may not want. For this reason, this site also offers a simpler option where verse quotations appear as plain text.
@@ -181,6 +199,34 @@ Keep in mind that if you clear your browser cookies, your preferences here will 
 			displayDiv.innerHTML = "Current writing level: higher";
 		}
 	}
+
+	function toInternalTimestampsOption() {
+		setCookie('timestampsType', 'internal', 1825);
+		displayTimestampsType();
+	}
+
+	function toExternalTimestampsOption() {
+		setCookie('timestampsType', 'external', 1825);
+		displayTimestampsType();
+	}
+
+	function displayTimestampsType() {
+		var timestampsType=getCookie("timestampsType");
+		var displayDiv = document.getElementById("timestampsTypeDisplay");
+		if(timestampsType == "internal")
+		{
+			displayDiv.innerHTML = "Current timestamps setting: internal";
+		}
+		else if(timestampsType == "external")
+		{
+			displayDiv.innerHTML = "Current timestamps setting: external";
+		}
+		// if user hasn't set cookie, set cookie and use internal timestamps
+		else { // scriptureDisplay = ""
+			setCookie('timestampsType', 'internal', 1825);
+			displayDiv.innerHTML = "Current timestamps setting: internal";
+		}
+	}
 	
 	function toEmbeddedDisplayOption() {
 		setCookie('scriptureDisplay', 'embedded', 1825);
@@ -239,6 +285,7 @@ Keep in mind that if you clear your browser cookies, your preferences here will 
 	}
 	
 	displayWritingLevel();
+	displayTimestampsType();
 	displayScriptureDisplay();
 	displaySummariesPreference();
 </script>

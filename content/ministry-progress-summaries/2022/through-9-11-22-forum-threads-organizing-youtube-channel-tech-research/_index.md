@@ -13,13 +13,9 @@ layout: content-page
 ## Video {#video}
 
 {{% video
-src="https://www.youtube.com/embed/COWc4Fo8t40"
+videoId="COWc4Fo8t40"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
 
 slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/through-9-11-22-forum-threads-organizing-youtube-channel-tech-research/"
 %}}
@@ -30,19 +26,19 @@ This first summary video here, I go over all of the things that happened in the 
 
 ## Timestamps {#timestamps}
 
-[00:00](https://www.youtube.com/watch?v=COWc4Fo8t40&t=0s) - Introduction  
-[00:35](https://www.youtube.com/watch?v=COWc4Fo8t40&t=35s) - Outline  
-[02:17](https://www.youtube.com/watch?v=COWc4Fo8t40&t=137s) - Emailing back people who responded to ministry launch email  
-[03:41](https://www.youtube.com/watch?v=COWc4Fo8t40&t=221s) - A debate on the forum about matters concerning submitting to government authority, and what exactly that means  
-[07:37](https://www.youtube.com/watch?v=COWc4Fo8t40&t=457s) - Discussion about forum structure moving forward  
-[08:57](https://www.youtube.com/watch?v=COWc4Fo8t40&t=537s) - Helping my good friend start setting up a ministry website of his own  
-[10:29](https://www.youtube.com/watch?v=COWc4Fo8t40&t=629s) - Researching/buying technology of various forms, things that will help future content  
-[16:33](https://www.youtube.com/watch?v=COWc4Fo8t40&t=993s) - Doing everything to be able to resume the SR4 video series, when the time is right  
-[17:41](https://www.youtube.com/watch?v=COWc4Fo8t40&t=1061s) - Planning out BB6A content grouping  
-[19:47](https://www.youtube.com/watch?v=COWc4Fo8t40&t=1187s) - Organizing the YouTube channel better  
-[21:57](https://www.youtube.com/watch?v=COWc4Fo8t40&t=1317s) - Asking a nearby school about parking policy and grounds use after-hours  
-[22:30](https://www.youtube.com/watch?v=COWc4Fo8t40&t=1350s) - Upcoming work  
-[25:35](https://www.youtube.com/watch?v=COWc4Fo8t40&t=1535s) - Outro  
+{{% timestamp videoId="COWc4Fo8t40" time="0" display="00:00" %}} - Introduction  
+{{% timestamp videoId="COWc4Fo8t40" time="35" display="00:35" %}} - Outline  
+{{% timestamp videoId="COWc4Fo8t40" time="137" display="02:17" %}} - Emailing back people who responded to ministry launch email  
+{{% timestamp videoId="COWc4Fo8t40" time="221" display="03:41" %}} - A debate on the forum about matters concerning submitting to government authority, and what exactly that means  
+{{% timestamp videoId="COWc4Fo8t40" time="457" display="07:37" %}} - Discussion about forum structure moving forward  
+{{% timestamp videoId="COWc4Fo8t40" time="537" display="08:57" %}} - Helping my good friend start setting up a ministry website of his own  
+{{% timestamp videoId="COWc4Fo8t40" time="629" display="10:29" %}} - Researching/buying technology of various forms, things that will help future content  
+{{% timestamp videoId="COWc4Fo8t40" time="993" display="16:33" %}} - Doing everything to be able to resume the SR4 video series, when the time is right  
+{{% timestamp videoId="COWc4Fo8t40" time="1061" display="17:41" %}} - Planning out BB6A content grouping  
+{{% timestamp videoId="COWc4Fo8t40" time="1187" display="19:47" %}} - Organizing the YouTube channel better  
+{{% timestamp videoId="COWc4Fo8t40" time="1317" display="21:57" %}} - Asking a nearby school about parking policy and grounds use after-hours  
+{{% timestamp videoId="COWc4Fo8t40" time="1350" display="22:30" %}} - Upcoming work  
+{{% timestamp videoId="COWc4Fo8t40" time="1535" display="25:35" %}} - Outro  
 
 {{% content %}}
 

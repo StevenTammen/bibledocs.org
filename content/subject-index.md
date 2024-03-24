@@ -100,6 +100,17 @@ page-title="However, if Our Parents Are Out of Line, There Are Exceptions"
 header-title="Abuse"
 %}}
 
+## Christophany {#christophany}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-essence-of-god/#q-we-say-god-dwells-in-this-unapproachable-light-that-no-one-has-seen-nor-ever-can-see-what-then-of-cases-in-scripture-where-people-seem-to-have-seen-god"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Essence of God"
+header-title="Q: We say God dwells in this unapproachable light that no one has seen nor ever can see. What then of cases in scripture where people seem to have \"seen God?\""
+%}}
+
 ## Chronology {#chronology}
 
 ### Chronology > Long lifespans do not necessarily pose problems {#chronology-long-lifespans-do-not-necessarily-pose-problems}
@@ -119,7 +130,7 @@ header-title="\"It's not the same Rahab because the chronology does not work\""
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
 link="/longer-topical-studies/ichthys-bb6a-the-study-of-the-christian-walk-group-study/confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall/#confess-to-the-lord"
-study-title="Ichthys' BB6A Peripateology - The Christian Walk"
+study-title="Group Study - Ichthys' BB6A Peripateology - The Study of the Christian Walk"
 page-title="Confession, forgiveness, avoiding self-loathing, and reorienting towards God after we fall"
 header-title="Confess to the Lord"
 %}}
@@ -176,6 +187,19 @@ page-title="Purpose in This Dark World Only Comes by Faith, Which Makes Us Outca
 header-title="The fallen world"
 %}}
 
+## Essence {#essence}
+
+### Essence > Essential characteristics {#essence-essential-characteristics}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-essence-of-god/#essence-nature-character"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Essence of God"
+header-title="Essence, nature, character... ???"
+%}}
+
 ## Eternal rewards {#eternal-rewards}
 
 ### Eternal rewards > Not all people will receive the same amount {#eternal-rewards-not-all-people-will-receive-the-same-amount}
@@ -211,6 +235,17 @@ page-title="Introduction to the idea that some Christians will receive greater e
 header-title="Some general passages dealing with differing levels of eternal reward"
 %}}
 
+## Every knee will bow {#every-knee-will-bow}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-essence-of-god/#comment-god-s-glory-as-it-relates-to-every-knee-will-bow-and-every-tongue-confess"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Essence of God"
+header-title="Comment: God's glory as it relates to \"every knee will bow, and every tongue confess\""
+%}}
+
 ## Fall {#fall}
 
 ### Fall > Effects on mankind {#fall-effects-on-mankind}
@@ -232,7 +267,7 @@ header-title="The contrast between pre-fall paradise and post-fall realities"
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
 link="/longer-topical-studies/ichthys-bb6a-the-study-of-the-christian-walk-group-study/confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall/#accept-god-s-forgiveness"
-study-title="Ichthys' BB6A Peripateology - The Christian Walk"
+study-title="Group Study - Ichthys' BB6A Peripateology - The Study of the Christian Walk"
 page-title="Confession, forgiveness, avoiding self-loathing, and reorienting towards God after we fall"
 header-title="Accept God's forgiveness"
 %}}
@@ -263,6 +298,17 @@ header-title="But they were included in Matthew's genealogy specifically to show
 
 ## God {#god}
 
+### God > Essence {#god-essence}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-essence-of-god/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Essence of God"
+
+%}}
+
 ### God > Externality to spacetime {#god-externality-to-spacetime}
 
 {{% subject-index-link
@@ -274,6 +320,28 @@ page-title="Genesis 1:1 - What \"Beginning\" Is in View?"
 header-title="How did God exist before space and time?"
 %}}
 
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-essence-of-god/#the-essence-of-god-is-being-he-is-the-great-i-am"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Essence of God"
+header-title="The essence of God is being. He is the Great I AM"
+%}}
+
+### God > Immortality {#god-immortality}
+
+#### God > Immortality > Antithesis of death {#god-immortality-antithesis-of-death}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-essence-of-god/#q-1-timothy-6-16-talks-about-god-s-unapproachable-light-it-also-says-god-alone-possess-immortality-what-does-that-latter-statement-mean"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Essence of God"
+header-title="Q: 1 Timothy 6:16 talks about God's unapproachable light. It also says God alone possess immortality. What does that latter statement mean?"
+%}}
+
 ### God > Name of God {#god-name-of-god}
 
 {{% subject-index-link
@@ -283,6 +351,50 @@ link="/verse-by-verse-studies/genesis/genesis-1/genesis-1-1-what-beginning-is-in
 study-title="Genesis 1"
 page-title="Genesis 1:1 - What \"Beginning\" Is in View?"
 header-title="How did God exist before space and time?"
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-essence-of-god/#the-essence-of-god-is-being-he-is-the-great-i-am"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Essence of God"
+header-title="The essence of God is being. He is the Great I AM"
+%}}
+
+### God > Resplendence {#god-resplendence}
+
+#### God > Resplendence > Glory {#god-resplendence-glory}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-essence-of-god/#the-resplendence-of-god-light-and-glory"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Essence of God"
+header-title="The resplendence of God: light and glory"
+%}}
+
+#### God > Resplendence > Unapproachable light {#god-resplendence-unapproachable-light}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-essence-of-god/#the-resplendence-of-god-light-and-glory"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Essence of God"
+header-title="The resplendence of God: light and glory"
+%}}
+
+#### God > Resplendence > Veiled to preserve human free will {#god-resplendence-veiled-to-preserve-human-free-will}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-essence-of-god/#comment-god-s-glory-as-it-relates-to-every-knee-will-bow-and-every-tongue-confess"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Essence of God"
+header-title="Comment: God's glory as it relates to \"every knee will bow, and every tongue confess\""
 %}}
 
 ## In the world, but not of the world {#in-the-world-but-not-of-the-world}
@@ -357,6 +469,17 @@ link="/questions-and-answers/self-generated/on-honoring-and-obeying-parents/howe
 study-title="On Honoring and Obeying Parents"
 page-title="However, if Our Parents Are Out of Line, There Are Exceptions"
 header-title="Should we step in if people aren't parenting how we would?"
+%}}
+
+## No man may see God and live {#no-man-may-see-god-and-live}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-essence-of-god/#q-we-say-god-dwells-in-this-unapproachable-light-that-no-one-has-seen-nor-ever-can-see-what-then-of-cases-in-scripture-where-people-seem-to-have-seen-god"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Essence of God"
+header-title="Q: We say God dwells in this unapproachable light that no one has seen nor ever can see. What then of cases in scripture where people seem to have \"seen God?\""
 %}}
 
 ## Parables {#parables}
@@ -483,9 +606,22 @@ header-title="Some direct quotes from scripture: obeying parents"
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
 link="/longer-topical-studies/ichthys-bb6a-the-study-of-the-christian-walk-group-study/confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall/#avoid-self-loathing"
-study-title="Ichthys' BB6A Peripateology - The Christian Walk"
+study-title="Group Study - Ichthys' BB6A Peripateology - The Study of the Christian Walk"
 page-title="Confession, forgiveness, avoiding self-loathing, and reorienting towards God after we fall"
 header-title="Avoid self-loathing"
+%}}
+
+## Philosophy {#philosophy}
+
+### Philosophy > Perils of getting off in the weeds {#philosophy-perils-of-getting-off-in-the-weeds}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-essence-of-god/#essence-nature-character"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Essence of God"
+header-title="Essence, nature, character... ???"
 %}}
 
 ## Protoevangelium {#protoevangelium}
@@ -573,7 +709,7 @@ header-title="The Introduction's title: Satan's rebellion and fall"
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
 link="/longer-topical-studies/ichthys-bb6a-the-study-of-the-christian-walk-group-study/confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall/#avoid-self-loathing"
-study-title="Ichthys' BB6A Peripateology - The Christian Walk"
+study-title="Group Study - Ichthys' BB6A Peripateology - The Study of the Christian Walk"
 page-title="Confession, forgiveness, avoiding self-loathing, and reorienting towards God after we fall"
 header-title="Avoid self-loathing"
 %}}
@@ -584,7 +720,7 @@ header-title="Avoid self-loathing"
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
 link="/longer-topical-studies/ichthys-bb6a-the-study-of-the-christian-walk-group-study/confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall/#what-to-make-of-the-fact-that-we-all-sin"
-study-title="Ichthys' BB6A Peripateology - The Christian Walk"
+study-title="Group Study - Ichthys' BB6A Peripateology - The Study of the Christian Walk"
 page-title="Confession, forgiveness, avoiding self-loathing, and reorienting towards God after we fall"
 header-title="What to make of the fact that we all sin?"
 %}}
@@ -595,7 +731,7 @@ header-title="What to make of the fact that we all sin?"
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
 link="/longer-topical-studies/ichthys-bb6a-the-study-of-the-christian-walk-group-study/confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall/#looking-back-is-not-productive-for-us-as-christians"
-study-title="Ichthys' BB6A Peripateology - The Christian Walk"
+study-title="Group Study - Ichthys' BB6A Peripateology - The Study of the Christian Walk"
 page-title="Confession, forgiveness, avoiding self-loathing, and reorienting towards God after we fall"
 header-title="Looking back is not productive for us as Christians"
 %}}
@@ -608,7 +744,7 @@ header-title="Looking back is not productive for us as Christians"
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
 link="/longer-topical-studies/ichthys-bb6a-the-study-of-the-christian-walk-group-study/confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall/#reorient"
-study-title="Ichthys' BB6A Peripateology - The Christian Walk"
+study-title="Group Study - Ichthys' BB6A Peripateology - The Study of the Christian Walk"
 page-title="Confession, forgiveness, avoiding self-loathing, and reorienting towards God after we fall"
 header-title="Reorient"
 %}}
@@ -633,6 +769,26 @@ link="/verse-by-verse-studies/genesis/genesis-1/genesis-1-1-what-beginning-is-in
 study-title="Genesis 1"
 page-title="Genesis 1:1 - What \"Beginning\" Is in View?"
 header-title="How did God exist before space and time?"
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-essence-of-god/#the-essence-of-god-is-being-he-is-the-great-i-am"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Essence of God"
+header-title="The essence of God is being. He is the Great I AM"
+%}}
+
+## Theophany {#theophany}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-essence-of-god/#q-we-say-god-dwells-in-this-unapproachable-light-that-no-one-has-seen-nor-ever-can-see-what-then-of-cases-in-scripture-where-people-seem-to-have-seen-god"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Essence of God"
+header-title="Q: We say God dwells in this unapproachable light that no one has seen nor ever can see. What then of cases in scripture where people seem to have \"seen God?\""
 %}}
 
 ## Translation {#translation}

@@ -19,13 +19,9 @@ summary: >-
 ### Video {#introduction-to-sr4-satan-s-world-system-video}
 
 {{% video
-src="https://www.youtube.com/embed/CnIpsUyhN10"
+videoId="CnIpsUyhN10"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4"
-
-video="https://archive.org/download/bibledocs-lt-introduction-to-sr4-satans-world-system-video/Introduction%20to%20SR4%20-%20Satan%27s%20World%20System.mp4"
-
-audio="https://archive.org/download/bibledocs-lt-introduction-to-sr4-satans-world-system-audio/Introduction%20to%20SR4%20-%20Satan%27s%20World%20System.mp3"
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4"
 
 slides="https://bibledocs.org/slides/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr4-satans-world-system"
 %}}
@@ -36,14 +32,14 @@ slides="https://bibledocs.org/slides/longer-topical-studies/ichthys-sr4-satans-w
 
 ### Timestamps {#introduction-to-sr4-satan-s-world-system-timestamps}
 
-[00:00](https://www.youtube.com/watch?v=CnIpsUyhN10&t=0s) - Introduction  
-[00:10](https://www.youtube.com/watch?v=CnIpsUyhN10&t=10s) - Outline  
-[01:24](https://www.youtube.com/watch?v=CnIpsUyhN10&t=84s) - Why do this study in particular?  
-[02:45](https://www.youtube.com/watch?v=CnIpsUyhN10&t=165s) - Plato's Allegory of the Cave  
-[05:00](https://www.youtube.com/watch?v=CnIpsUyhN10&t=300s) - Satan the puppet-master  
-[09:54](https://www.youtube.com/watch?v=CnIpsUyhN10&t=594s) - The outline for SR4 on Ichthys  
-[17:04](https://www.youtube.com/watch?v=CnIpsUyhN10&t=1024s) - Steven's high-level introduction  
-[18:13](https://www.youtube.com/watch?v=CnIpsUyhN10&t=1093s) - Recap  
+{{% timestamp videoId="CnIpsUyhN10" time="0" display="00:00" %}} - Introduction  
+{{% timestamp videoId="CnIpsUyhN10" time="10" display="00:10" %}} - Outline  
+{{% timestamp videoId="CnIpsUyhN10" time="84" display="01:24" %}} - Why do this study in particular?  
+{{% timestamp videoId="CnIpsUyhN10" time="165" display="02:45" %}} - Plato's Allegory of the Cave  
+{{% timestamp videoId="CnIpsUyhN10" time="300" display="05:00" %}} - Satan the puppet-master  
+{{% timestamp videoId="CnIpsUyhN10" time="594" display="09:54" %}} - The outline for SR4 on Ichthys  
+{{% timestamp videoId="CnIpsUyhN10" time="1024" display="17:04" %}} - Steven's high-level introduction  
+{{% timestamp videoId="CnIpsUyhN10" time="1093" display="18:13" %}} - Recap  
 
 {{% toggleable-content %}}
 
@@ -734,13 +730,9 @@ If we study the tactics Satan uses in his pursuit of his objectives, we can come
 #### Video {#discussion-level-of-depth-calling-many-deceived-too-harsh-why-god-allows-satan-control-video}
 
 {{% video
-src="https://www.youtube.com/embed/eqtCDR-RVjc"
+videoId="eqtCDR-RVjc"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4"
 
 slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr4-satans-world-system/level-of-depth-calling-many-deceived-too-harsh-why-god-allows-satan-control/"
 %}}
@@ -751,12 +743,12 @@ Talking in-depth about Satan's world system has enough practical benefit that it
 
 #### Timestamps {#discussion-level-of-depth-calling-many-deceived-too-harsh-why-god-allows-satan-control-timestamps}
 
-[00:00](https://www.youtube.com/watch?v=eqtCDR-RVjc&list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4&index=3&t=0s) - Introduction  
-[00:54](https://www.youtube.com/watch?v=eqtCDR-RVjc&list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4&index=3&t=54s) - Is this much depth really necessary? (In talking about Satan's web of lies and deceit in the world)  
-[03:40](https://www.youtube.com/watch?v=eqtCDR-RVjc&list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4&index=3&t=220s) - Are many Christians really so helpless? (In terms of being deceived by Satan's lies)  
-[10:25](https://www.youtube.com/watch?v=eqtCDR-RVjc&list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4&index=3&t=625s) - Isn't this too harsh? (Saying that many people really are deceived)  
-[12:38](https://www.youtube.com/watch?v=eqtCDR-RVjc&list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4&index=3&t=758s) - Why doesn't God just defeat Satan already?  
-[20:10](https://www.youtube.com/watch?v=eqtCDR-RVjc&list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4&index=3&t=1210s) - Did God give Satan control? Is that phrasing really appropriate?  
+{{% timestamp videoId="eqtCDR-RVjc" time="0" display="00:00" %}} - Introduction  
+{{% timestamp videoId="eqtCDR-RVjc" time="54" display="00:54" %}} - Is this much depth really necessary? (In talking about Satan's web of lies and deceit in the world)  
+{{% timestamp videoId="eqtCDR-RVjc" time="220s" display="03:40" %}} - Are many Christians really so helpless? (In terms of being deceived by Satan's lie)  
+{{% timestamp videoId="eqtCDR-RVjc" time="625" display="10:25" %}} - Isn't this too harsh? (Saying that many people really are deceived)  
+{{% timestamp videoId="eqtCDR-RVjc" time="758" display="12:38" %}} - Why doesn't God just defeat Satan already?  
+{{% timestamp videoId="eqtCDR-RVjc" time="1210" display="20:10" %}} - Did God give Satan control? Is that phrasing really appropriate?  
 
 {{% toggleable-content %}}
 
@@ -1714,13 +1706,9 @@ It is important for us to actually believe these things, because these things ar
 ### Video {#like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devil-s-realm-video}
 
 {{% video
-src="https://www.youtube.com/embed/Qg__DVAQPSI"
+videoId="Qg__DVAQPSI"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4"
-
-video="https://archive.org/download/bibledocs-lt-like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devils-realm-video/Like%20Adam%20and%20Eve%2C%20we%20live%20in%20a%20broken%20world%20-%20as%20strangers%20in%20the%20devil%27s%20realm.mp4"
-
-audio="https://archive.org/download/bibledocs-lt-like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devils-realm-audio/Like%20Adam%20and%20Eve%2C%20we%20live%20in%20a%20broken%20world%20-%20as%20strangers%20in%20the%20devil%27s%20realm.mp3"
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4"
 
 slides="https://bibledocs.org/slides/longer-topical-studies/ichthys-sr4-satans-world-system/like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devil-s-realm"
 %}}
@@ -1731,20 +1719,20 @@ This lesson we first go over why the title of the introduction to SR4 mentions S
 
 ### Timestamps {#like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devil-s-realm-timestamps}
 
-[00:00](https://www.youtube.com/watch?v=Qg__DVAQPSI&t=0s) - Introduction and review   
-[00:24](https://www.youtube.com/watch?v=Qg__DVAQPSI&t=24s) - Outline   
-[01:42](https://www.youtube.com/watch?v=Qg__DVAQPSI&t=102s) - The title of the Introduction in SR4: Satan's rebellion and fall   
-[06:39](https://www.youtube.com/watch?v=Qg__DVAQPSI&t=399s) - The actual introduction: Adam and Eve, and us  
-&nbsp;&nbsp;&nbsp;[08:18](https://www.youtube.com/watch?v=Qg__DVAQPSI&t=498s) - The contrast between pre-fall paradise and post-fall realities   
-&nbsp;&nbsp;&nbsp;[10:46](https://www.youtube.com/watch?v=Qg__DVAQPSI&t=646s) - God's promise of deliverance   
-&nbsp;&nbsp;&nbsp;[13:21](https://www.youtube.com/watch?v=Qg__DVAQPSI&t=801s) - Us now vs. them then   
-[16:22](https://www.youtube.com/watch?v=Qg__DVAQPSI&t=982s) - The first big section of SR4: We are strangers in the devil's realm   
-&nbsp;&nbsp;&nbsp;[17:01](https://www.youtube.com/watch?v=Qg__DVAQPSI&t=1021s) - Sojourners in the devil's world   
-&nbsp;&nbsp;&nbsp;[18:02](https://www.youtube.com/watch?v=Qg__DVAQPSI&t=1082s) - The vanity of life   
-&nbsp;&nbsp;&nbsp;[19:52](https://www.youtube.com/watch?v=Qg__DVAQPSI&t=1192s) - The hostility of the world   
-&nbsp;&nbsp;&nbsp;[21:12](https://www.youtube.com/watch?v=Qg__DVAQPSI&t=1272s) - The battlefield   
-&nbsp;&nbsp;&nbsp;[22:13](https://www.youtube.com/watch?v=Qg__DVAQPSI&t=1333s) - The enemy   
-[23:36](https://www.youtube.com/watch?v=Qg__DVAQPSI&t=1416s) - Recap
+{{% timestamp videoId="Qg__DVAQPSI" time="0" display="00:00" %}} - Introduction and review   
+{{% timestamp videoId="Qg__DVAQPSI" time="24" display="00:24" %}} - Outline   
+{{% timestamp videoId="Qg__DVAQPSI" time="102" display="01:42" %}} - The title of the Introduction in SR4: Satan's rebellion and fall   
+{{% timestamp videoId="Qg__DVAQPSI" time="399" display="06:39" %}} - The actual introduction: Adam and Eve, and us  
+&nbsp;&nbsp;&nbsp;{{% timestamp videoId="Qg__DVAQPSI" time="498" display="08:18" %}} - The contrast between pre-fall paradise and post-fall realities   
+&nbsp;&nbsp;&nbsp;{{% timestamp videoId="Qg__DVAQPSI" time="646" display="10:46" %}} - God's promise of deliverance   
+&nbsp;&nbsp;&nbsp;{{% timestamp videoId="Qg__DVAQPSI" time="801" display="13:21" %}} - Us now vs. them then   
+{{% timestamp videoId="Qg__DVAQPSI" time="982" display="16:22" %}} - The first big section of SR4: We are strangers in the devil's realm   
+&nbsp;&nbsp;&nbsp;{{% timestamp videoId="Qg__DVAQPSI" time="1021" display="17:01" %}} - Sojourners in the devil's world   
+&nbsp;&nbsp;&nbsp;{{% timestamp videoId="Qg__DVAQPSI" time="1082" display="18:02" %}} - The vanity of life   
+&nbsp;&nbsp;&nbsp;{{% timestamp videoId="Qg__DVAQPSI" time="1192" display="19:52" %}} - The hostility of the world   
+&nbsp;&nbsp;&nbsp;{{% timestamp videoId="Qg__DVAQPSI" time="1272" display="21:12" %}} - The battlefield   
+&nbsp;&nbsp;&nbsp;{{% timestamp videoId="Qg__DVAQPSI" time="1333" display="22:13" %}} - The enemy   
+{{% timestamp videoId="Qg__DVAQPSI" time="1416" display="23:36" %}} - Recap
 
 {{% toggleable-content %}}
 
@@ -2686,13 +2674,9 @@ In fact, God soon will put down the beast forever, but in the meantime, we belie
 #### Video {#discussion-why-care-about-satan-s-rebellion-and-open-with-adam-and-eve-why-these-consequences-for-fall-video}
 
 {{% video
-src=""
+videoId=""
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4"
 
 slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr4-satans-world-system/"
 %}}
@@ -2745,13 +2729,9 @@ slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-sr4-sata
 ### Video {#purpose-in-this-dark-world-only-comes-by-faith-which-makes-us-outcasts-here-but-chosen-by-god-video}
 
 {{% video
-src=""
+videoId=""
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4"
 
 slides="https://bibledocs.org/slides/longer-topical-studies/ichthys-sr4-satans-world-system/"
 %}}
@@ -2893,13 +2873,9 @@ For this reason, we can expect the world's hostility, as our Lord warned us (Joh
 #### Video {#sr4-discussion-page-video}
 
 {{% video
-src=""
+videoId=""
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4"
 
 slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr4-satans-world-system/" 
 %}}

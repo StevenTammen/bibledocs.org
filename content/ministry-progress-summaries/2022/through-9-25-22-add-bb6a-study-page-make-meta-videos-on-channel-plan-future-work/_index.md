@@ -13,13 +13,9 @@ layout: content-page
 ## Video {#video}
 
 {{% video
-src="https://www.youtube.com/embed/XFEHTiaqGU0"
+videoId="XFEHTiaqGU0"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
 
 slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/through-9-25-22-add-bb6a-study-page-make-meta-videos-on-channel-plan-future-work/"
 %}}
@@ -32,20 +28,20 @@ The desktop computer I'd ordered also came this cycle, so I spent a good bit of 
 
 ## Timestamps {#timestamps}
 
-[00:00](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=0s) - Introduction  
-[02:13](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=133s) - Added transcripts  
-[02:40](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=160s) - Considered upcoming future work, somewhat gloomily  
-[06:28](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=388s) - But then came up with a detailed plan of attack  
-&nbsp;&nbsp;&nbsp;[08:43](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=523s) - Phase I: Polishing the basic content related to initial launch  
-&nbsp;&nbsp;&nbsp;[11:44](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=704s) - Phase II: Supporting discussion pages/videos fully, organizing all the already-existing SR4 content  
-&nbsp;&nbsp;&nbsp;[18:50](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=1130s) - Phase III: Organizing all the already-existing BB6A content, setting up the fully-optimized video creation workflow, and catching up in other areas so that I can more fully focus on ministry without feeling like I'm behind elsewhere  
-[23:19](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=1399s) - Finished all the Phase I tasks this cycle  
-&nbsp;&nbsp;&nbsp;[23:36](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=1416s) - Did all the things for the first focused BB6A video, so that I could get the BB6A study page up and started on the website  
-&nbsp;&nbsp;&nbsp;[25:01](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=1501s) - Created additional meta-related videos on the YouTube channel  
-[30:45](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=1845s) - Did some miscellaneous styling bug-fixes and improvements  
-[31:34](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=1894s) - Set up new computer (for the most part)  
-[33:55](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=2035s) - Upcoming work  
-[35:34](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=2134s) - Outro  
+{{% timestamp videoId="XFEHTiaqGU0" time="0" display="00:00" %}} - Introduction  
+{{% timestamp videoId="XFEHTiaqGU0" time="133" display="02:13" %}} - Added transcripts  
+{{% timestamp videoId="XFEHTiaqGU0" time="160" display="02:40" %}} - Considered upcoming future work, somewhat gloomily  
+{{% timestamp videoId="XFEHTiaqGU0" time="388" display="06:28" %}} - But then came up with a detailed plan of attack  
+&nbsp;&nbsp;&nbsp;{{% timestamp videoId="XFEHTiaqGU0" time="523" display="08:43" %}} - Phase I: Polishing the basic content related to initial launch  
+&nbsp;&nbsp;&nbsp;{{% timestamp videoId="XFEHTiaqGU0" time="704" display="11:44" %}} - Phase II: Supporting discussion pages/videos fully, organizing all the already-existing SR4 content  
+&nbsp;&nbsp;&nbsp;{{% timestamp videoId="XFEHTiaqGU0" time="1130" display="18:50" %}} - Phase III: Organizing all the already-existing BB6A content, setting up the fully-optimized video creation workflow, and catching up in other areas so that I can more fully focus on ministry without feeling like I'm behind elsewhere  
+{{% timestamp videoId="XFEHTiaqGU0" time="1399" display="23:19" %}} - Finished all the Phase I tasks this cycle  
+&nbsp;&nbsp;&nbsp;{{% timestamp videoId="XFEHTiaqGU0" time="1416" display="23:36" %}} - Did all the things for the first focused BB6A video, so that I could get the BB6A study page up and started on the website  
+&nbsp;&nbsp;&nbsp;{{% timestamp videoId="XFEHTiaqGU0" time="1501" display="25:01" %}} - Created additional meta-related videos on the YouTube channel  
+{{% timestamp videoId="XFEHTiaqGU0" time="1845" display="30:45" %}} - Did some miscellaneous styling bug-fixes and improvements  
+{{% timestamp videoId="XFEHTiaqGU0" time="1894" display="31:34" %}} - Set up new computer (for the most part)  
+{{% timestamp videoId="XFEHTiaqGU0" time="2035" display="33:55" %}} - Upcoming work  
+{{% timestamp videoId="XFEHTiaqGU0" time="2134" display="35:34" %}} - Outro  
 
 {{% content %}}
 

@@ -3,168 +3,8 @@
  <head>
   <title>Slides</title>
   <meta charset="utf-8">
-  <link
-  rel="stylesheet"
-  href="https://unpkg.com/littlefoot/dist/littlefoot.css"
-/>
-  <style>
-   @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
-   @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
-
-   body { 
-    font-family: 'Georgia';
-   }
-
-   ::selection{
-    background-color: #fff6bd;
-   }
-
-   h1, h2, h3, h4, h5, h6 {
-    font-family: 'Verdana';
-    font-weight: bold;
-   }
-
-   h2 {
-    display: block;
-    font-size: 30px !important;
-    margin-block-start: 1.33em;
-    margin-block-end: 1.33em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-   }
-
-   /* Style most headers the same across slides, for visual consistency */
-   h3, h4, h5, h6 {
-    display: block;
-    font-size: 18px !important;
-    margin-block-start: 1.2em;
-    margin-block-end: 1.2em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-   }
-
-   /*
-    Don't need extra padding when headers aren't in a special content section
-    with the special content section name in a strong tag (when the header is
-    the very first thing in the sepcial content section div). Too much space otherwise
-   */
-   .special-content h3:first-child,
-   .special-content h4:first-child,
-   .special-content h5:first-child,
-   .special-content h6:first-child
-    {
-      margin-top: 0px;
-    }
-
-   .remark-code, .remark-inline-code {
-    font-family: 'Ubuntu Mono';
-   }
-   
-   .footer {
-    position: absolute;
-    bottom: 5px;
-    right: 50px;
-    height: 40px;
-    width: 800px;
-    color: #006400;
-   }
-
-   a {
-    color: #3b8bba;
-    text-decoration: none;
-  }
-
-  table, th, td {
-    border: 1px solid black;
-  }
-
-  /* Special content sections */
-
-  .special-content {
-    border-radius: 5px;
-    padding: 20px 10px 20px 10px;
-  }
-
-  .special-content >  .special-content {
-    margin-left: 10px;
-    margin-right: 10px;
-  }
-
-  .special-content > strong {
-    display: block;
-    text-align: center;
-    border-bottom: 1px solid black;
-    margin-top: -15px;
-  }
-
-  .special-content.cautionary-note {
-    background: #ffe6e6;
-  }
-
-  .special-content.technical-discussion {
-    background: #ffe0cc;
-  }
-
-  .special-content.sidenote {
-    background: #fffae6;
-  }
-
-  .special-content.application {
-    background: #ebfaeb;
-  }
-
-  .special-content.note {
-	  background: #e6ffff
-  }
-
-  .special-content.indirect-reasoning {
-    background: #e6f5ff;
-  }
-
-  .special-content.example {
-    background: #f2e6ff;
-  }
-
-  .special-content.post-hoc-note {
-    background: #ffe6f2;
-  }
-
-  .special-content.quote {
-    background: #e6e6e6;
-  }
-
-  .special-content.scripture {
-    background: #f2e6d9;
-  }
-
-
-  /* Littlefoot footnotes */
-
-  .littlefoot__button {
-    background-color: #dddddd;
-    color: #777777;
-    height: 1rem;
-    padding: 0rem 0.8rem;
-    margin: 0rem 0.1rem;
-    border: none;
-    border-radius: 10px;
-    vertical-align: middle;
-    display: inline-flex;
-    align-items: center; 
-  }
-  </style>
-	<script>
-		var refTagger = {
-			settings: {
-				addLogosLink: true,
-				bibleVersion: "NASB",
-				convertHyperlinks: true,
-				logosLinkIcon: "light",			
-				socialSharing: [],
-				tagChapters: true
-			}
-		};
-	</script>
+  <link rel="stylesheet" href="https://unpkg.com/littlefoot/dist/littlefoot.css" />
+  <link rel="stylesheet" href="/css/slides.css"/>
  </head>
  <body>
   <textarea id="source">
@@ -190,12 +30,12 @@ This page will examine exactly what that means, in the context of Calvinism, pre
 
 #### Outline
 
-- [Foreword: On Calvinism, predestination, and free will](#3)
-  - [Introduction](#4)
-  - [Believing in free will does not mean that we believe that we save ourselves](#5)
-  - [The family of God in eternity will be self-selected](#6)
-- [So... back to those the Father "gave" Jesus in John 17](#7)
-- [Eisegesis, exegesis, and Calvinists](#8)
+- [Foreword: On Calvinism, predestination, and free will](#4)
+  - [Introduction](#5)
+  - [Believing in free will does not mean that we believe that we save ourselves](#6)
+  - [The family of God in eternity will be self-selected](#7)
+- [So... back to those the Father "gave" Jesus in John 17](#8)
+- [Eisegesis, exegesis, and Calvinists](#9)
 
 ---
 
@@ -256,9 +96,11 @@ Here's the thing though: no matter how many verses you look at (interpreting scr
 
 Now, I would be a hypocrite if I didn't here provide some direct scriptural evidence for the opposing position I'm putting forward, yes? Turnabout being fair play and all that. Well, what about Romans 8:29-30?
 
-{{% scripture p="Romans 8:29-30 | NIV84" %}}
-**29** For **those God foreknew** he also predestined to be conformed to the likeness of his Son, that he might be the firstborn among many brothers. **30** And those he predestined, he also called; those he called, he also justified; those he justified, he also glorified.
-{{% /scripture %}}
+<div class="special-content scripture">
+<strong>Romans 8:29-30 | NIV84</strong>
+<p><strong>29</strong> For <strong>those God foreknew</strong> he also predestined to be conformed to the likeness of his Son, that he might be the firstborn among many brothers. <strong>30</strong> And those he predestined, he also called; those he called, he also justified; those he justified, he also glorified.</p>
+</div>
+
 
 It is my opinion that Romans 8:29 is plenty clear about what is going on here. Calvinists still disagree (pointing out, for example, that the verse says just "those God foreknew" and not "those God foreknew [as believing in Jesus Christ of their own free will]"), but one reaches a point where the burden of proof falls squarely upon those who object to what is by far the most straightforward way to take the text. That is to say, I have never come across a single convincing explanation for what sense it makes for "foreknew" to be in this progression of "foreknew, predestined, called, justified, glorified" if those God would foreknow are the very ones He Himself arbitrarily predestined. If He's the one doing the predestining, then what reason would He have for foreknowing before predestining? Since human free will wouldn't matter anyway, there would be nothing to foreknow.
 
@@ -282,12 +124,12 @@ The straightforward reading of this passage logic-wise is that God predestines a
 
 #### Outline
 
-- [Foreword: On Calvinism, predestination, and free will](#3)
-  - [Introduction](#4)
-  - [Believing in free will does not mean that we believe that we save ourselves](#5)
-  - [The family of God in eternity will be self-selected](#6)
-- [So... back to those the Father "gave" Jesus in John 17](#7)
-- [Eisegesis, exegesis, and Calvinists](#8)
+- [Foreword: On Calvinism, predestination, and free will](#4)
+  - [Introduction](#5)
+  - [Believing in free will does not mean that we believe that we save ourselves](#6)
+  - [The family of God in eternity will be self-selected](#7)
+- [So... back to those the Father "gave" Jesus in John 17](#8)
+- [Eisegesis, exegesis, and Calvinists](#9)
 
 
 

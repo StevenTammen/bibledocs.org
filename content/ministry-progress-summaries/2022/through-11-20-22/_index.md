@@ -13,13 +13,9 @@ layout: content-page
 ## Video {#video}
 
 {{% video
-src="https://www.youtube.com/embed/MFcLOjJJems"
+videoId="MFcLOjJJems"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
 
 slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/through-11-20-22/"
 %}}
@@ -30,14 +26,14 @@ This cycle I was mostly stuck working on personal matters that needed to get don
 
 ## Timestamps {#timestamps}
 
-[00:00](https://www.youtube.com/watch?v=MFcLOjJJems&t=0s) - Introduction  
-[00:09](https://www.youtube.com/watch?v=MFcLOjJJems&t=9s) - Outline  
-[01:21](https://www.youtube.com/watch?v=MFcLOjJJems&t=81s) - Set up new phone  
-[02:56](https://www.youtube.com/watch?v=MFcLOjJJems&t=176s) - Set up full teleprompter assembly, including software for reversing the computer display that is reflected  
-[07:14](https://www.youtube.com/watch?v=MFcLOjJJems&t=434s) - Created a spreadsheet to automate the creation of update messages for these ministry progress summaries  
-[09:03](https://www.youtube.com/watch?v=MFcLOjJJems&t=543s) - Set up a new framework for daily progress summaries moving forward  
-[10:43](https://www.youtube.com/watch?v=MFcLOjJJems&t=643s) - Upcoming work  
-[13:07](https://www.youtube.com/watch?v=MFcLOjJJems&t=787s) - Outro  
+{{% timestamp videoId="MFcLOjJJems" time="0" display="00:00" %}} - Introduction  
+{{% timestamp videoId="MFcLOjJJems" time="9" display="00:09" %}} - Outline  
+{{% timestamp videoId="MFcLOjJJems" time="81" display="01:21" %}} - Set up new phone  
+{{% timestamp videoId="MFcLOjJJems" time="176" display="02:56" %}} - Set up full teleprompter assembly, including software for reversing the computer display that is reflected  
+{{% timestamp videoId="MFcLOjJJems" time="434" display="07:14" %}} - Created a spreadsheet to automate the creation of update messages for these ministry progress summaries  
+{{% timestamp videoId="MFcLOjJJems" time="543" display="09:03" %}} - Set up a new framework for daily progress summaries moving forward  
+{{% timestamp videoId="MFcLOjJJems" time="643" display="10:43" %}} - Upcoming work  
+{{% timestamp videoId="MFcLOjJJems" time="787" display="13:07" %}} - Outro  
 
 {{% content %}}
 

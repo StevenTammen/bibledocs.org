@@ -13,13 +13,9 @@ layout: content-page
 ## Video {#video}
 
 {{% video
-src="https://www.youtube.com/embed/Pyau8RYPYsE"
+videoId="Pyau8RYPYsE"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
 
 slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/through-12-4-22/"
 %}}
@@ -30,13 +26,13 @@ Like in past cycles, there's a fair bit of setup stuff still going on. However, 
 
 ## Timestamps {#timestamps}
 
-[00:00](https://www.youtube.com/watch?v=Pyau8RYPYsE&t=0s) - Intro  
-[01:58](https://www.youtube.com/watch?v=Pyau8RYPYsE&t=118s) - Some miscellaneous practical matters  
-[07:03](https://www.youtube.com/watch?v=Pyau8RYPYsE&t=423s) - Some thinking and decisions  
-[11:00](https://www.youtube.com/watch?v=Pyau8RYPYsE&t=660s) - Some conversations  
-[14:35](https://www.youtube.com/watch?v=Pyau8RYPYsE&t=875s) - Video processing shell script  
-[17:40](https://www.youtube.com/watch?v=Pyau8RYPYsE&t=1060s) - Upcoming work  
-[21:56](https://www.youtube.com/watch?v=Pyau8RYPYsE&t=1316s) - Outro  
+{{% timestamp videoId="Pyau8RYPYsE" time="0" display="00:00" %}} - Intro  
+{{% timestamp videoId="Pyau8RYPYsE" time="118" display="01:58" %}} - Some miscellaneous practical matters  
+{{% timestamp videoId="Pyau8RYPYsE" time="423" display="07:03" %}} - Some thinking and decisions  
+{{% timestamp videoId="Pyau8RYPYsE" time="660" display="11:00" %}} - Some conversations  
+{{% timestamp videoId="Pyau8RYPYsE" time="875" display="14:35" %}} - Video processing shell script  
+{{% timestamp videoId="Pyau8RYPYsE" time="1060" display="17:40" %}} - Upcoming work  
+{{% timestamp videoId="Pyau8RYPYsE" time="1316" display="21:56" %}} - Outro  
 
 {{% content %}}
 

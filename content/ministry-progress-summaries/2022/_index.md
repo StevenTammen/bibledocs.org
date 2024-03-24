@@ -18,13 +18,9 @@ summary: >-
 ### Video {#introduction-video}
 
 {{% video
-src="https://www.youtube.com/embed/XXGlUV2RtnI"
+videoId="XXGlUV2RtnI"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
 
 slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/introduction/"
 %}}
@@ -35,11 +31,11 @@ In this video, I go over exactly what these ministry progress summary videos are
 
 ### Timestamps {#introduction-timestamps}
 
-[00:00](https://www.youtube.com/watch?v=XXGlUV2RtnI&t=0s) - Introduction  
-[00:50](https://www.youtube.com/watch?v=XXGlUV2RtnI&t=50s) - Outline  
-[01:12](https://www.youtube.com/watch?v=XXGlUV2RtnI&t=72s) - About these ministry progress summaries  
-[02:44](https://www.youtube.com/watch?v=XXGlUV2RtnI&t=164s) - These are different than the daily progress summary videos on the other YouTube channel  
-[05:23](https://www.youtube.com/watch?v=XXGlUV2RtnI&t=323s) - Summary and outro  
+{{% timestamp videoId="XXGlUV2RtnI" time="0" display="00:00" %}} - Introduction  
+{{% timestamp videoId="XXGlUV2RtnI" time="50" display="00:50" %}} - Outline  
+{{% timestamp videoId="XXGlUV2RtnI" time="72" display="01:12" %}} - About these ministry progress summaries  
+{{% timestamp videoId="XXGlUV2RtnI" time="164" display="02:44" %}} - These are different than the daily progress summary videos on the other YouTube channel  
+{{% timestamp videoId="XXGlUV2RtnI" time="323" display="05:23" %}} - Summary and outro  
 
 {{% toggleable-content %}}
 
@@ -281,13 +277,9 @@ Although, if you wish to get a better idea of who I am as an individual -- to pu
 ### Video {#through-9-11-22-video}
 
 {{% video
-src="https://www.youtube.com/embed/COWc4Fo8t40"
+videoId="COWc4Fo8t40"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
 
 slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/through-9-11-22-forum-threads-organizing-youtube-channel-tech-research/"
 %}}
@@ -298,19 +290,19 @@ This first summary video here, I go over all of the things that happened in the 
 
 ### Timestamps {#through-9-11-22-timestamps}
 
-[00:00](https://www.youtube.com/watch?v=COWc4Fo8t40&t=0s) - Introduction  
-[00:35](https://www.youtube.com/watch?v=COWc4Fo8t40&t=35s) - Outline  
-[02:17](https://www.youtube.com/watch?v=COWc4Fo8t40&t=137s) - Emailing back people who responded to ministry launch email  
-[03:41](https://www.youtube.com/watch?v=COWc4Fo8t40&t=221s) - A debate on the forum about matters concerning submitting to government authority, and what exactly that means  
-[07:37](https://www.youtube.com/watch?v=COWc4Fo8t40&t=457s) - Discussion about forum structure moving forward  
-[08:57](https://www.youtube.com/watch?v=COWc4Fo8t40&t=537s) - Helping my good friend start setting up a ministry website of his own  
-[10:29](https://www.youtube.com/watch?v=COWc4Fo8t40&t=629s) - Researching/buying technology of various forms, things that will help future content  
-[16:33](https://www.youtube.com/watch?v=COWc4Fo8t40&t=993s) - Doing everything to be able to resume the SR4 video series, when the time is right  
-[17:41](https://www.youtube.com/watch?v=COWc4Fo8t40&t=1061s) - Planning out BB6A content grouping  
-[19:47](https://www.youtube.com/watch?v=COWc4Fo8t40&t=1187s) - Organizing the YouTube channel better  
-[21:57](https://www.youtube.com/watch?v=COWc4Fo8t40&t=1317s) - Asking a nearby school about parking policy and grounds use after-hours  
-[22:30](https://www.youtube.com/watch?v=COWc4Fo8t40&t=1350s) - Upcoming work  
-[25:35](https://www.youtube.com/watch?v=COWc4Fo8t40&t=1535s) - Outro  
+{{% timestamp videoId="COWc4Fo8t40" time="0" display="00:00" %}} - Introduction  
+{{% timestamp videoId="COWc4Fo8t40" time="35" display="00:35" %}} - Outline  
+{{% timestamp videoId="COWc4Fo8t40" time="137" display="02:17" %}} - Emailing back people who responded to ministry launch email  
+{{% timestamp videoId="COWc4Fo8t40" time="221" display="03:41" %}} - A debate on the forum about matters concerning submitting to government authority, and what exactly that means  
+{{% timestamp videoId="COWc4Fo8t40" time="457" display="07:37" %}} - Discussion about forum structure moving forward  
+{{% timestamp videoId="COWc4Fo8t40" time="537" display="08:57" %}} - Helping my good friend start setting up a ministry website of his own  
+{{% timestamp videoId="COWc4Fo8t40" time="629" display="10:29" %}} - Researching/buying technology of various forms, things that will help future content  
+{{% timestamp videoId="COWc4Fo8t40" time="993" display="16:33" %}} - Doing everything to be able to resume the SR4 video series, when the time is right  
+{{% timestamp videoId="COWc4Fo8t40" time="1061" display="17:41" %}} - Planning out BB6A content grouping  
+{{% timestamp videoId="COWc4Fo8t40" time="1187" display="19:47" %}} - Organizing the YouTube channel better  
+{{% timestamp videoId="COWc4Fo8t40" time="1317" display="21:57" %}} - Asking a nearby school about parking policy and grounds use after-hours  
+{{% timestamp videoId="COWc4Fo8t40" time="1350" display="22:30" %}} - Upcoming work  
+{{% timestamp videoId="COWc4Fo8t40" time="1535" display="25:35" %}} - Outro  
 
 {{% toggleable-content %}}
 
@@ -1331,13 +1323,9 @@ Finally, I'm planning to keep researching all that I need to do to finish prepar
 ### Video {#through-9-25-22-video}
 
 {{% video
-src="https://www.youtube.com/embed/XFEHTiaqGU0"
+videoId="XFEHTiaqGU0"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
 
 slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/through-9-25-22-add-bb6a-study-page-make-meta-videos-on-channel-plan-future-work/"
 %}}
@@ -1350,20 +1338,20 @@ The desktop computer I'd ordered also came this cycle, so I spent a good bit of 
 
 ### Timestamps {#through-9-25-22-timestamps}
 
-[00:00](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=0s) - Introduction  
-[02:13](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=133s) - Added transcripts  
-[02:40](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=160s) - Considered upcoming future work, somewhat gloomily  
-[06:28](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=388s) - But then came up with a detailed plan of attack  
-&nbsp;&nbsp;&nbsp;[08:43](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=523s) - Phase I: Polishing the basic content related to initial launch  
-&nbsp;&nbsp;&nbsp;[11:44](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=704s) - Phase II: Supporting discussion pages/videos fully, organizing all the already-existing SR4 content  
-&nbsp;&nbsp;&nbsp;[18:50](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=1130s) - Phase III: Organizing all the already-existing BB6A content, setting up the fully-optimized video creation workflow, and catching up in other areas so that I can more fully focus on ministry without feeling like I'm behind elsewhere  
-[23:19](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=1399s) - Finished all the Phase I tasks this cycle  
-&nbsp;&nbsp;&nbsp;[23:36](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=1416s) - Did all the things for the first focused BB6A video, so that I could get the BB6A study page up and started on the website  
-&nbsp;&nbsp;&nbsp;[25:01](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=1501s) - Created additional meta-related videos on the YouTube channel  
-[30:45](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=1845s) - Did some miscellaneous styling bug-fixes and improvements  
-[31:34](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=1894s) - Set up new computer (for the most part)  
-[33:55](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=2035s) - Upcoming work  
-[35:34](https://www.youtube.com/watch?v=XFEHTiaqGU0&t=2134s) - Outro  
+{{% timestamp videoId="XFEHTiaqGU0" time="0" display="00:00" %}} - Introduction  
+{{% timestamp videoId="XFEHTiaqGU0" time="133" display="02:13" %}} - Added transcripts  
+{{% timestamp videoId="XFEHTiaqGU0" time="160" display="02:40" %}} - Considered upcoming future work, somewhat gloomily  
+{{% timestamp videoId="XFEHTiaqGU0" time="388" display="06:28" %}} - But then came up with a detailed plan of attack  
+&nbsp;&nbsp;&nbsp;{{% timestamp videoId="XFEHTiaqGU0" time="523" display="08:43" %}} - Phase I: Polishing the basic content related to initial launch  
+&nbsp;&nbsp;&nbsp;{{% timestamp videoId="XFEHTiaqGU0" time="704" display="11:44" %}} - Phase II: Supporting discussion pages/videos fully, organizing all the already-existing SR4 content  
+&nbsp;&nbsp;&nbsp;{{% timestamp videoId="XFEHTiaqGU0" time="1130" display="18:50" %}} - Phase III: Organizing all the already-existing BB6A content, setting up the fully-optimized video creation workflow, and catching up in other areas so that I can more fully focus on ministry without feeling like I'm behind elsewhere  
+{{% timestamp videoId="XFEHTiaqGU0" time="1399" display="23:19" %}} - Finished all the Phase I tasks this cycle  
+&nbsp;&nbsp;&nbsp;{{% timestamp videoId="XFEHTiaqGU0" time="1416" display="23:36" %}} - Did all the things for the first focused BB6A video, so that I could get the BB6A study page up and started on the website  
+&nbsp;&nbsp;&nbsp;{{% timestamp videoId="XFEHTiaqGU0" time="1501" display="25:01" %}} - Created additional meta-related videos on the YouTube channel  
+{{% timestamp videoId="XFEHTiaqGU0" time="1845" display="30:45" %}} - Did some miscellaneous styling bug-fixes and improvements  
+{{% timestamp videoId="XFEHTiaqGU0" time="1894" display="31:34" %}} - Set up new computer (for the most part)  
+{{% timestamp videoId="XFEHTiaqGU0" time="2035" display="33:55" %}} - Upcoming work  
+{{% timestamp videoId="XFEHTiaqGU0" time="2134" display="35:34" %}} - Outro  
 
 {{% toggleable-content %}}
 
@@ -1902,13 +1890,9 @@ Because I was concatenating several different takes this time to be able to shar
 ### Video {#through-10-9-22-video}
 
 {{% video
-src="https://www.youtube.com/embed/HpKO1ZHIzPQ"
+videoId="HpKO1ZHIzPQ"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
 
 slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/through-10-9-22/"
 %}}
@@ -1923,17 +1907,17 @@ Aside from all that, the biggest task knocked out this cycle was coding support 
 
 ### Timestamps {#through-10-9-22-timestamps}
 
-[00:00](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=0s) - Introduction  
-[04:54](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=294s) - Outline  
-[06:34](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=394s) - Did lots, lots more computer setup stuff, including things related to the video recording workflow  
-[08:10](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=490s) - Researched, ordered, and started to set up things related to voice recognition  
-[13:45](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=825s) - Researched and ordered a better mic setup for making content videos  
-[16:33](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=993s) - Researched, ordered, and planned out a portable computer setup to work at a local public library on weekends  
-[18:40](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=1120s) - Pondered the multi-website future that is coming  
-[21:44](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=1304s) - Misc. discussions from the ministry community  
-[26:34](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=1594s) - Modified the preprocessor Python application to support discussion pages  
-[32:42](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=1962s) - Upcoming work  
-[35:40](https://www.youtube.com/watch?v=HpKO1ZHIzPQ&t=2140s) - Outro  
+{{% timestamp videoId="HpKO1ZHIzPQ" time="0" display="00:00" %}} - Introduction  
+{{% timestamp videoId="HpKO1ZHIzPQ" time="294" display="04:54" %}} - Outline  
+{{% timestamp videoId="HpKO1ZHIzPQ" time="394" display="06:34" %}} - Did lots, lots more computer setup stuff, including things related to the video recording workflow  
+{{% timestamp videoId="HpKO1ZHIzPQ" time="490" display="08:10" %}} - Researched, ordered, and started to set up things related to voice recognition  
+{{% timestamp videoId="HpKO1ZHIzPQ" time="825" display="13:45" %}} - Researched and ordered a better mic setup for making content videos  
+{{% timestamp videoId="HpKO1ZHIzPQ" time="993" display="16:33" %}} - Researched, ordered, and planned out a portable computer setup to work at a local public library on weekends  
+{{% timestamp videoId="HpKO1ZHIzPQ" time="1120" display="18:40" %}} - Pondered the multi-website future that is coming  
+{{% timestamp videoId="HpKO1ZHIzPQ" time="1304" display="21:44" %}} - Misc. discussions from the ministry community  
+{{% timestamp videoId="HpKO1ZHIzPQ" time="1594" display="26:34" %}} - Modified the preprocessor Python application to support discussion pages  
+{{% timestamp videoId="HpKO1ZHIzPQ" time="1962" display="32:42" %}} - Upcoming work  
+{{% timestamp videoId="HpKO1ZHIzPQ" time="2140" display="35:40" %}} - Outro  
 
 {{% toggleable-content %}}
 
@@ -2443,13 +2427,9 @@ I've been lazy and haven't been committing as consistently in the preprocessor r
 ### Video {#through-10-23-22-video}
 
 {{% video
-src="https://www.youtube.com/embed/v07AY35_pF4"
+videoId="v07AY35_pF4"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
 
 slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/through-10-23-22/"
 %}}
@@ -2460,18 +2440,18 @@ Unfortunately, I didn't get through quite as much I had hoped this cycle, in ter
 
 ### Timestamps {#through-10-23-22-timestamps}
 
-[0:00](https://www.youtube.com/watch?v=v07AY35_pF4&t=0s) - Introduction  
-[01:34](https://www.youtube.com/watch?v=v07AY35_pF4&t=94s) - Outline  
-[03:32](https://www.youtube.com/watch?v=v07AY35_pF4&t=212s) - This video is coming kinda late...  
-[06:02](https://www.youtube.com/watch?v=v07AY35_pF4&t=362s) - Did various things to experiment with improving video quality  
-[08:20](https://www.youtube.com/watch?v=v07AY35_pF4&t=500s) - Set up additional things with voice recognition  
-[12:17](https://www.youtube.com/watch?v=v07AY35_pF4&t=737s) - Figured out how to be able to use Microsoft Word as my primary content editor while at the same time working with Markdown files  
-[19:24](https://www.youtube.com/watch?v=v07AY35_pF4&t=1164s) - Got the wireless Rode Go II mic system set up, for recording content videos  
-[20:33](https://www.youtube.com/watch?v=v07AY35_pF4&t=1233s) - Also got the portable dual 24" monitor arrangement set up properly, and tested it  
-[22:06](https://www.youtube.com/watch?v=v07AY35_pF4&t=1326s) - Got all the documentation for discussion pages written up  
-[23:29](https://www.youtube.com/watch?v=v07AY35_pF4&t=1409s) - Struggling through issues with path length limitations on Microsoft Windows  
-[31:08](https://www.youtube.com/watch?v=v07AY35_pF4&t=1868s) - Upcoming work  
-[33:53](https://www.youtube.com/watch?v=v07AY35_pF4&t=2033s) - Outro  
+{{% timestamp videoId="v07AY35_pF4" time="0" display="0:00" %}} - Introduction  
+{{% timestamp videoId="v07AY35_pF4" time="94" display="01:34" %}} - Outline  
+{{% timestamp videoId="v07AY35_pF4" time="212" display="03:32" %}} - This video is coming kinda late...  
+{{% timestamp videoId="v07AY35_pF4" time="362" display="06:02" %}} - Did various things to experiment with improving video quality  
+{{% timestamp videoId="v07AY35_pF4" time="500" display="08:20" %}} - Set up additional things with voice recognition  
+{{% timestamp videoId="v07AY35_pF4" time="737" display="12:17" %}} - Figured out how to be able to use Microsoft Word as my primary content editor while at the same time working with Markdown files  
+{{% timestamp videoId="v07AY35_pF4" time="1164" display="19:24" %}} - Got the wireless Rode Go II mic system set up, for recording content videos  
+{{% timestamp videoId="v07AY35_pF4" time="1233" display="20:33" %}} - Also got the portable dual 24" monitor arrangement set up properly, and tested it  
+{{% timestamp videoId="v07AY35_pF4" time="1326" display="22:06" %}} - Got all the documentation for discussion pages written up  
+{{% timestamp videoId="v07AY35_pF4" time="1409" display="23:29" %}} - Struggling through issues with path length limitations on Microsoft Windows  
+{{% timestamp videoId="v07AY35_pF4" time="1868" display="31:08" %}} - Upcoming work  
+{{% timestamp videoId="v07AY35_pF4" time="2033" display="33:53" %}} - Outro  
 
 {{% toggleable-content %}}
 
@@ -2950,13 +2930,9 @@ Unfortunately, I didn't get through quite as much I had hoped this cycle, in ter
 ### Video {#through-11-6-22-video}
 
 {{% video
-src="https://www.youtube.com/embed/5pwYapEkGL0"
+videoId="5pwYapEkGL0"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
 
 slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/through-11-6-22/"
 %}}
@@ -2967,14 +2943,14 @@ This cycle I worked some on organizing content pages/videos and discussion pages
 
 ### Timestamps {#through-11-6-22-timestamps}
 
-[00:00](https://www.youtube.com/watch?v=5pwYapEkGL0&t=0s) - Introduction  
-[01:17](https://www.youtube.com/watch?v=5pwYapEkGL0&t=77s) - Outline  
-[02:27](https://www.youtube.com/watch?v=5pwYapEkGL0&t=147s) - Optimize my desk/cubicle environment at work for getting ministry things done over my lunch hour  
-[08:42](https://www.youtube.com/watch?v=5pwYapEkGL0&t=522s) - Set up audio normalization  
-[10:47](https://www.youtube.com/watch?v=5pwYapEkGL0&t=647s) - Ordered additional things to hopefully help improve video recording quality even more moving forward  
-[18:55](https://www.youtube.com/watch?v=5pwYapEkGL0&t=1135s) - Made some progress organizing things for the first 3 lessons in the SR4 series  
-[21:02](https://www.youtube.com/watch?v=5pwYapEkGL0&t=1262s) - Upcoming work  
-[23:22](https://www.youtube.com/watch?v=5pwYapEkGL0&t=1402s) - Outro  
+{{% timestamp videoId="5pwYapEkGL0" time="0" display="00:00" %}} - Introduction  
+{{% timestamp videoId="5pwYapEkGL0" time="77" display="01:17" %}} - Outline  
+{{% timestamp videoId="5pwYapEkGL0" time="147" display="02:27" %}} - Optimize my desk/cubicle environment at work for getting ministry things done over my lunch hour  
+{{% timestamp videoId="5pwYapEkGL0" time="522" display="08:42" %}} - Set up audio normalization  
+{{% timestamp videoId="5pwYapEkGL0" time="647" display="10:47" %}} - Ordered additional things to hopefully help improve video recording quality even more moving forward  
+{{% timestamp videoId="5pwYapEkGL0" time="1135" display="18:55" %}} - Made some progress organizing things for the first 3 lessons in the SR4 series  
+{{% timestamp videoId="5pwYapEkGL0" time="1262" display="21:02" %}} - Upcoming work  
+{{% timestamp videoId="5pwYapEkGL0" time="1402" display="23:22" %}} - Outro  
 
 {{% toggleable-content %}}
 
@@ -3062,13 +3038,9 @@ You can judge the quality improvements for yourself, given that this video right
 ### Video {#through-11-20-22-video}
 
 {{% video
-src="https://www.youtube.com/embed/MFcLOjJJems"
+videoId="MFcLOjJJems"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
 
 slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/through-11-20-22/"
 %}}
@@ -3079,14 +3051,14 @@ This cycle I was mostly stuck working on personal matters that needed to get don
 
 ### Timestamps {#through-11-20-22-timestamps}
 
-[00:00](https://www.youtube.com/watch?v=MFcLOjJJems&t=0s) - Introduction  
-[00:09](https://www.youtube.com/watch?v=MFcLOjJJems&t=9s) - Outline  
-[01:21](https://www.youtube.com/watch?v=MFcLOjJJems&t=81s) - Set up new phone  
-[02:56](https://www.youtube.com/watch?v=MFcLOjJJems&t=176s) - Set up full teleprompter assembly, including software for reversing the computer display that is reflected  
-[07:14](https://www.youtube.com/watch?v=MFcLOjJJems&t=434s) - Created a spreadsheet to automate the creation of update messages for these ministry progress summaries  
-[09:03](https://www.youtube.com/watch?v=MFcLOjJJems&t=543s) - Set up a new framework for daily progress summaries moving forward  
-[10:43](https://www.youtube.com/watch?v=MFcLOjJJems&t=643s) - Upcoming work  
-[13:07](https://www.youtube.com/watch?v=MFcLOjJJems&t=787s) - Outro  
+{{% timestamp videoId="MFcLOjJJems" time="0" display="00:00" %}} - Introduction  
+{{% timestamp videoId="MFcLOjJJems" time="9" display="00:09" %}} - Outline  
+{{% timestamp videoId="MFcLOjJJems" time="81" display="01:21" %}} - Set up new phone  
+{{% timestamp videoId="MFcLOjJJems" time="176" display="02:56" %}} - Set up full teleprompter assembly, including software for reversing the computer display that is reflected  
+{{% timestamp videoId="MFcLOjJJems" time="434" display="07:14" %}} - Created a spreadsheet to automate the creation of update messages for these ministry progress summaries  
+{{% timestamp videoId="MFcLOjJJems" time="543" display="09:03" %}} - Set up a new framework for daily progress summaries moving forward  
+{{% timestamp videoId="MFcLOjJJems" time="643" display="10:43" %}} - Upcoming work  
+{{% timestamp videoId="MFcLOjJJems" time="787" display="13:07" %}} - Outro  
 
 {{% toggleable-content %}}
 
@@ -3154,13 +3126,9 @@ This cycle I was mostly stuck working on personal matters that needed to get don
 ### Video {#through-12-4-22-video}
 
 {{% video
-src="https://www.youtube.com/embed/Pyau8RYPYsE"
+videoId="Pyau8RYPYsE"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
 
 slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/through-12-4-22/"
 %}}
@@ -3171,13 +3139,13 @@ Like in past cycles, there's a fair bit of setup stuff still going on. However, 
 
 ### Timestamps {#through-12-4-22-timestamps}
 
-[00:00](https://www.youtube.com/watch?v=Pyau8RYPYsE&t=0s) - Intro  
-[01:58](https://www.youtube.com/watch?v=Pyau8RYPYsE&t=118s) - Some miscellaneous practical matters  
-[07:03](https://www.youtube.com/watch?v=Pyau8RYPYsE&t=423s) - Some thinking and decisions  
-[11:00](https://www.youtube.com/watch?v=Pyau8RYPYsE&t=660s) - Some conversations  
-[14:35](https://www.youtube.com/watch?v=Pyau8RYPYsE&t=875s) - Video processing shell script  
-[17:40](https://www.youtube.com/watch?v=Pyau8RYPYsE&t=1060s) - Upcoming work  
-[21:56](https://www.youtube.com/watch?v=Pyau8RYPYsE&t=1316s) - Outro  
+{{% timestamp videoId="Pyau8RYPYsE" time="0" display="00:00" %}} - Intro  
+{{% timestamp videoId="Pyau8RYPYsE" time="118" display="01:58" %}} - Some miscellaneous practical matters  
+{{% timestamp videoId="Pyau8RYPYsE" time="423" display="07:03" %}} - Some thinking and decisions  
+{{% timestamp videoId="Pyau8RYPYsE" time="660" display="11:00" %}} - Some conversations  
+{{% timestamp videoId="Pyau8RYPYsE" time="875" display="14:35" %}} - Video processing shell script  
+{{% timestamp videoId="Pyau8RYPYsE" time="1060" display="17:40" %}} - Upcoming work  
+{{% timestamp videoId="Pyau8RYPYsE" time="1316" display="21:56" %}} - Outro  
 
 {{% toggleable-content %}}
 
@@ -3258,13 +3226,9 @@ Together these things reduce some of the time opportunity cost that goes into ma
 ### Video {#through-12-18-22-video}
 
 {{% video
-src="https://www.youtube.com/embed/sozA_xvb9Nk"
+videoId="sozA_xvb9Nk"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb"
 
 slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/through-12-18-22/"
 %}}
@@ -3275,9 +3239,9 @@ This cycle I started producing new written content again. This time, one study w
 
 ### Timestamps {#through-12-18-22-timestamps}
 
-[00:00](https://www.youtube.com/watch?v=sozA_xvb9Nk&t=0s) - Foreword  
-[04:00](https://www.youtube.com/watch?v=sozA_xvb9Nk&t=240s) - The new written content  
-[11:57](https://www.youtube.com/watch?v=sozA_xvb9Nk&t=717s) - Upcoming work  
+{{% timestamp videoId="sozA_xvb9Nk" time="0" display="00:00" %}} - Foreword  
+{{% timestamp videoId="sozA_xvb9Nk" time="240" display="04:00" %}} - The new written content  
+{{% timestamp videoId="sozA_xvb9Nk" time="717" display="11:57" %}} - Upcoming work  
 
 {{% toggleable-content %}}
 

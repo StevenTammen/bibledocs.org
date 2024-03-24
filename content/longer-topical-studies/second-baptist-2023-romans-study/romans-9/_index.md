@@ -14,20 +14,16 @@ layout: content-page
 <!-- ## Video {#video}
 
 {{% video
-src=""
+videoId=""
 
-playlist=""
-
-video=""
-
-audio=""
+videoPlaylist=""
 
 slides="https://bibledocs.org/slides/"
 %}} -->
 
 ## Summary {#summary}
 
-TODO
+Notes on Romans 9.
 
 <!-- ## Timestamps {#timestamps} -->
 

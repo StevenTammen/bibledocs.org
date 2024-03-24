@@ -1,10 +1,10 @@
 ---
-title: Ichthys' BB6A Peripateology - The Christian Walk
+title: Group Study - Ichthys' BB6A Peripateology - The Study of the Christian Walk
 weight: 
 contentlevel: intermediate
 layout: aggregation-page
 summary: >-
-   This video series is a discussion-based group Bible study going through Bible Basics Part 6A (BB6A) on Ichthys, a study of the Christian walk—the path of spiritual growth and production that we must all walk as believers. The early recordings in this series were the very first video content that I ever recorded, and we were not particularly organized, because wider distribution was not at that point something I had in mind. All the lessons posted in this study on the website, however, correspond to the later videos in the series, once we started to become more organized and focused.
+   This video series is a discussion-based group Bible study going through Bible Basics Part 6A (BB6A) on Ichthys, a study of the Christian walk—the path of spiritual growth and production that we must all walk as believers. The early recordings in this series were the very first video content that I ever recorded, and we were not particularly organized, because wider distribution was not at that point something I had in mind. All the lessons posted in this study on the website, however, correspond to the later videos in the series, once we started to become (somewhat) more organized and focused.
 ---
 
 <!-- aggregate-page-content -->
@@ -19,13 +19,9 @@ summary: >-
 ### Video {#confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall-video}
 
 {{% video
-src="https://www.youtube.com/embed/7bNd_L2O4qA"
+videoId="7bNd_L2O4qA"
 
-playlist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_uRvVSiW6YthJl2QqUf5pB"
-
-video=""
-
-audio=""
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_uRvVSiW6YthJl2QqUf5pB"
 
 slides="https://bibledocs.org/slides/longer-topical-studies/ichthys-bb6a-the-christian-walk/confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall"
 %}}
@@ -36,13 +32,13 @@ This week we talked about how to recover after we have stumbled in sin -- the pr
 
 ### Timestamps {#confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall-timestamps}
 
-[00:00](https://www.youtube.com/watch?v=7bNd_L2O4qA&t=0s) - Introduction  
-[02:21](https://www.youtube.com/watch?v=7bNd_L2O4qA&t=141s) - Confess to the Lord  
-[16:20](https://www.youtube.com/watch?v=7bNd_L2O4qA&t=980s) - Accept God's forgiveness  
-[21:15](https://www.youtube.com/watch?v=7bNd_L2O4qA&t=1275s) - Avoid self-loathing  
-[24:45](https://www.youtube.com/watch?v=7bNd_L2O4qA&t=1485s) - Reorient  
-[26:52](https://www.youtube.com/watch?v=7bNd_L2O4qA&t=1612s) - Looking back is not productive for us as Christians  
-[30:46](https://www.youtube.com/watch?v=7bNd_L2O4qA&t=1846s) - Summary/recap  
+{{% timestamp videoId="7bNd_L2O4qA" time="0" display="00:00" %}} - Introduction  
+{{% timestamp videoId="7bNd_L2O4qA" time="141" display="02:21" %}} - Confess to the Lord  
+{{% timestamp videoId="7bNd_L2O4qA" time="980" display="16:20" %}} - Accept God's forgiveness  
+{{% timestamp videoId="7bNd_L2O4qA" time="1275" display="21:15" %}} - Avoid self-loathing  
+{{% timestamp videoId="7bNd_L2O4qA" time="1485" display="24:45" %}} - Reorient  
+{{% timestamp videoId="7bNd_L2O4qA" time="1612" display="26:52" %}} - Looking back is not productive for us as Christians  
+{{% timestamp videoId="7bNd_L2O4qA" time="1846" display="30:46" %}} - Summary/recap  
 
 {{% toggleable-content %}}
 
