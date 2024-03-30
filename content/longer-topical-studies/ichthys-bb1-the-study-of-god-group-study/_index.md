@@ -730,4 +730,310 @@ If someone were to whine that I am question-dodging and not defining terms, I wo
 {{% /discussion-pages %}}
 
 
+
+
+<br/>
+
+
+
+## [Appearances of Christ in the Old Testament - Introduction](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament-introduction) {#appearances-of-christ-in-the-old-testament-introduction}
+{{< subjects >}}
+{{< /subjects >}}
+
+
+
+### Video {#appearances-of-christ-in-the-old-testament-introduction-video}
+
+{{% video
+videoId=""
+
+videoPlaylist=""
+
+slides=""
+%}}
+
+### Summary {#appearances-of-christ-in-the-old-testament-introduction-summary}
+
+TODO
+
+### Timestamps {#appearances-of-christ-in-the-old-testament-introduction-timestamps}
+
+
+
+{{% toggleable-content %}}
+
+### Content {#appearances-of-christ-in-the-old-testament-introduction-content}
+
+(Derived from https://ichthys.com/1Theo.htm)
+
+<!-- --- -->
+
+#### Overview {#appearances-of-christ-in-the-old-testament-introduction-overview}
+
+In terms of their presentation of the Trinity, the main difference between the Old and New Testaments is that in the New Testament, Christ is clearly visible and distinct from the Father, while in the Old Testament, the Father and Son are often difficult to distinguish. Despite the discussion immediately above, there is a common misconception – even in many Christian circles – that the fact that the exact details about Christ's incarnation were shielded in the Old Testament means that the *visible* person in the Old Testament is primarily God the Father.
+
+This is not entirely accurate, for the Father has always appeared to the world *through* the person of His Son, Jesus Christ, and this fact was just as true in the Old Testament as it is in the New Testament; only the *manner* of the Father's representation of Himself through His Son changed: in the New Testament, an *incarnate* Jesus Christ becomes visible to the world (only His true glory is shielded), while in the Old Testament, Christ also represents the Father – but not in *incarnate* form.
+
+Additionally, in the New Testament, when our Lord says "I and the Father are one" (Jn.10:30), or otherwise speaks the Father's words (Jn.8:28; 14:24), the distinction between the Father and the Son (along with this unity) is perfectly clear and obvious. However, in the Old Testament, when God appears, it is consistently the Son who appears, but as the representative of the Father, speaking the Father's words, so that the distinction between the two was not, at the time, completely understood or appreciated (Jn.8:26 & 28):
+
+{{% scripture p="John 12:50b | NIV11" %}}
+So whatever I say is just what the Father has told me to say.
+{{% /scripture %}}
+
+<!-- --- -->
+
+#### Definition of Theophany and Christophany {#appearances-of-christ-in-the-old-testament-introduction-definition-of-theophany-and-christophany}
+
+The words "Theophany" and "Christophany" mean, respectively, "an appearance of God" and "an appearance of Christ", the second part of each being derived from the Greek root *phan*, "appear" (from which we get the word "phenomenon"). In this section it will be argued that in biblical terms, at any rate, the only category of event we really need to be concerned with here is Christophany, for, in my view, all cases of Theophany in the Old Testament are really Christophanies.
+
+It needs to be made clear right at the outset that by Christophany we are definitely not referring to the literal, physical appearance of our Lord Jesus Christ in His true humanity – ever since His deity assumed true humanity at the incarnation, Christ has not again appeared in temporary, Christophanic form. The position that all Old Testament appearances of God are, in reality, appearances of Christ, also allows for the possibility of other sorts of manifestations of the Father other than an ostensibly corporeal appearance here on earth, such as a dream or vision (Daniel's vision of the "Ancient of Days" being the prime example: Dan.7:13-14).
+
+<!-- --- -->
+
+#### The invisibility of the Father {#appearances-of-christ-in-the-old-testament-introduction-the-invisibility-of-the-father}
+
+Until we get to heaven, we will not see the Father. We know that the Father is not invisible to the angels, for they "constantly see the face of My Father in heaven" (Matt.18:10). But He is our *heavenly* Father (Matt.6:9, 26, et passim), and as long as the earthly conflict between His would-be usurper, Satan, and His designated regent, Christ, still rages, in heaven He remains for His majesty's sake, speaking and working His will through His Servant. Until the final and ultimate victory, and only after the complete purging of the universe will the Father come to the new earth to make His abode with us forever (Rev.21:1-3). Until that time, the Father, though acting and speaking through His representative, His Son Jesus Christ, remains invisible to human eye.
+
+{{% ichthys-translation p="Exodus 33:20" %}}
+"But", He said, "you cannot see My face. For a man may not see My face and live."   
+{{% /ichthys-translation %}}
+
+{{% ichthys-translation p="Isaiah 45:15" %}}
+Surely, You are a God who hides Himself. 
+{{% /ichthys-translation %}}
+
+<!-- --- -->
+
+{{% ichthys-translation p="John 1:18" %}}
+No one has ever seen God. God the only Son – the One who has always been at the Father's side – He has made Him known. 
+{{% /ichthys-translation %}}
+
+{{% ichthys-translation p="John 6:46" %}}
+Not that anyone has seen the Father except He [the Son] who has always been with the Father; He has seen the Father.                     
+{{% /ichthys-translation %}}
+
+{{% ichthys-translation p="1st Timothy 6:16" %}}
+He [the Father] who alone possesses immortality, dwelling in ***unapproachable*** light, whom no man has ever seen, nor can see.                 
+{{% /ichthys-translation %}}
+
+{{% ichthys-translation p="1st John 4:12" %}}
+No one has ever seen God.
+{{% /ichthys-translation %}}
+
+<!-- --- -->
+
+#### The inaccessibility of the Father apart from Christ {#appearances-of-christ-in-the-old-testament-introduction-the-inaccessibility-of-the-father-apart-from-christ}
+
+If mankind were able to see God the Father in all His glory without perishing in the process, it is at least safe to say that the issue of human free-will would be seriously compromised from that point forward. Confronted with the magnitude and majesty of God, not only would it be impossible to deny His existence, but it is also likely that even against their will most men would find themselves obliged to follow Him and His will out of sheer terror (rather than from a truly free choice). Along with the principle of preserving mankind's free-will, the issue of *access* to the Father also helps to explain why the Father remains unseen to us in this present life.
+
+Although, as discussed earlier in this study, the Father is omnipresent in His creation, for purposes of visibility to His creatures, he is invariably described in the scriptures as residing in heaven (e.g., Matt.6:9, 26). Obviously, as long as we live in these physical bodies, we cannot go to heaven to "seek God" (Deut.30:12-13; Rom.10:6). The Father, by virtue of the fact that His throne room is in heaven (Rev.4:2; Heb.4:16), is inaccessible to us. This "physical" distance which separates us from the Father is indicative of the *spiritual* distance between God and mankind. As the person of the Trinity representing the authority and holiness of the Godhead, the righteous Father keeps Himself completely separate from human sin; it is in no small part because of mankind's sinfulness that face to face fellowship with the Father is impossible. In fact, for sinful human beings to be confronted by God brings immediate realization that we are worthy of death by our very nature (Gen.32:30):
+
+{{% ichthys-translation p="Isaiah 6:5" %}}
+"Woe is me! I am done for! For I am a man of unclean lips and I live among a people of unclean lips. For my eyes have seen the King, the Lord of hosts."
+{{% /ichthys-translation %}}
+
+<!-- --- -->
+
+Though we cannot go to heaven to plead our case with the Father, Christ Jesus is the one who has come down from heaven on our account (Jn.3:13). Through faith in Him and His death for us, we now have ***access*** to the Father in His name. By His blood (that is, His death on the cross on our behalf), Christ has broken down the barrier of hostility between the Father and those who believe in His Son. Jesus Christ has made peace between us, and, as a result, we now have been granted entrance into the throne room of heaven and the presence of the Father. This means that on the basis of the acceptability of Christ's sacrifice and our acceptance of Him, our prayers and petitions are heard by the Father now, and we ourselves shall enter into the heavenly holy of holies in His good time:
+
+{{% ichthys-translation p="Romans 5:1-2a" %}}
+So now that we have been justified by faith, let us take hold of the peace [we have] with God [the Father] through our Lord Jesus Christ, through whom we have also obtained our ***access*** into this grace in which we stand.
+{{% /ichthys-translation %}}
+
+{{% ichthys-translation p="Ephesians 2:18" %}}
+For through Him [Jesus Christ] we both [Jews and gentiles] have ***access*** to the Father by one Spirit.
+{{% /ichthys-translation %}}
+
+<!-- --- -->
+
+{{% ichthys-translation p="Ephesians 3:12" %}}
+Being in Him [Jesus Christ] and having confidence through our faith in Him we possess this ***access*** [to the Father] and freedom to speak [to Him].
+{{% /ichthys-translation %}}
+
+{{% ichthys-translation p="Hebrews 4:16" %}}
+So let us ***approach*** with confident free speech to the throne of grace [of the Father] that we might receive [His] mercy and gain [His] favor for timely help.
+{{% /ichthys-translation %}}
+
+{{% ichthys-translation p="1 Peter 3:18" %}}
+For Christ died once for us on account of our sins, the righteous for the unrighteous, that He might ***bring*** us to God.
+{{% /ichthys-translation %}}
+
+<!-- --- -->
+
+The fact that through faith in the Son we now have full ***access*** to the Father (sonship, fellowship, acceptance of prayer, and eternal life with Him), shows that before the Son came and died for us, such access was at least *limited*. The Father's splitting of the temple's veil at the conclusion of our Lord's sacrifice on our behalf is a dramatic indication that through His death the barrier that had previously separated us from the Father (that is, our sins) has now been removed (Lk.23:45). Now we have access to the Father in prayer, though we still cannot enter into His presence in heaven as long as we remain in these earthly bodies. Before the cross, the Father was even more inaccessible to sinful mankind. It would be surprising, therefore, if the instances of Theophany in the Old Testament are actual appearances of the Father. It is much more likely (based upon this principle of greater access *after* the cross, less beforehand) that just as the Father made Himself known through His Son in the New Testament (Heb.1:1-2), so also in the Old Testament His appearances were mediated by this same Son, that is to say, by Christophany.
+
+<!-- --- -->
+
+#### The dignity of the Father {#appearances-of-christ-in-the-old-testament-introduction-the-dignity-of-the-father}
+
+The fact that the angelic rebellion led by Satan precedes the creation of man (Job 38:7; Is.14:12-15; Ezek.28:12-19) explains much about the Father's modus operandi of working through the One who will ultimately replace Satan as ruler of this world, His Son Jesus Christ (Lk.10:18; Jn.12:31; 16:11; 1Cor.15:24-25; Col.2:15; Rev.11:15). As the Trinity's figure of authority and majesty, the Father chooses a representative to wage the struggle against Satan, even He who by His sacrifice will redeem sinful mankind and replace our adversary, the Morning Star replacing Lucifer (compare Is.14:12 with Rev.22:16). So it should not be surprising that throughout the Old Testament too, the Son is the One representing the Father, speaking His words whenever He appears (in Christophany), for He is the anointed One, the Messiah, the One sent into the world by the Father (Matt.10:40; 21:37; Lk.9:48; 10:16; Jn.12:44; 13:20). This principle of the Son *representing* the Father as His agent in the plan of salvation can also be seen from Christ's...
+
+<!-- --- -->
+
+1) **Message**: Christ is the Word (Jn.1:1-3). This means that He is the embodiment of the message and truth of the Father, and speaks the Father's words truly and precisely at all times (Deut.18:18; Jn.8:55; 14:10&24). Christ is the Father's ultimate message (Heb.1:1), the messenger of the Father's new covenant in His blood (Is.42:6; Jer.31:31ff.; Mal.3:1; Matt.26:28; 1Cor.11:25).
+
+2) **Mediation**: Christ is the Mediator between God the Father and sinful mankind (Gal.3:19-20; 1Tim.2:5), the One who reconciles us to the Father by His blood (Rom.5:10-11; 2Cor.5:18-21; Eph.2:14-16; Col.1:20-22).
+
+3) **Mission**: Christ is the One anointed and sent by the Father to offer Himself as a sacrifice for our sins (Heb.9:11-14). He is thus the ultimate high priest who makes atonement to the Father on our behalf (Heb.5:5-10).
+
+4) **Monarchy**: In recognition of His victory at the cross, the Father has "appointed Him Lord and Christ" (Acts 2:36), that is "the Lord anointed (to rule the world)". This passage signals not only Christ's replacement of Satan as ruler of the world, but His acceptance of the regency of the world as the Father's representative (explaining many Old Testament passages referring to the Father's impending return being applied to the Son in the New Testament):
+
+a) the Son's ascension into heaven (Ps.110:1 with Matt.22:44);  
+b) the Son's ascension to the throne on earth (Ps.45:6-7 with Heb.1:8-9);  
+c) the Son's primacy from creation to eternity (Ps.97:7b with Heb.1:6).  
+
+All the above examples of Christ's role of *representing* the Father in God's plan of salvation support the position that all Old Testament Theophany is truly Christophany, the Son appearing, representing, and speaking for the Father before His incarnation.
+
+<!-- --- -->
+
+#### The visibility, accessibility and humility of the Son {#appearances-of-christ-in-the-old-testament-introduction-the-visibility-accessibility-and-humility-of-the-son}
+
+While we cannot initially see the Father, we can see the Son and the Father through the Son (Jn.14:9). While we could not initially approach the Father, through the Son we have gained access to Him (Jn.14:6). And while our sinfulness kept us separated from the perfect holiness of the Father, the work of the Son has rendered us holy and has reconciled us to the Father (Col.1:22). As the visible, accessible member of the Trinity who was willing to humble Himself and associate with us to die for us (Phil.2:5-11), Christ has always been our point of contact with the Godhead, whether in Old Testament Christophany, or after His appearance in true humanity following His incarnation.
+
+{{% /toggleable-content %}}
+
+{{% toggleable-transcript %}}
+
+### Video/audio transcript {#appearances-of-christ-in-the-old-testament-introduction-video-audio-transcript}
+
+
+
+{{% /toggleable-transcript %}}
+
+{{% discussion-pages %}}
+
+{{% /discussion-pages %}}
+
+
+
+
+<br/>
+
+
+
+## [Appearances of Christ in the Old Testament](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament) {#appearances-of-christ-in-the-old-testament}
+{{< subjects >}}
+{{< /subjects >}}
+
+
+
+### Video {#appearances-of-christ-in-the-old-testament-video}
+
+{{% video
+videoId=""
+
+videoPlaylist=""
+
+slides=""
+%}}
+
+### Summary {#appearances-of-christ-in-the-old-testament-summary}
+
+TODO
+
+### Timestamps {#appearances-of-christ-in-the-old-testament-timestamps}
+
+
+
+{{% toggleable-content %}}
+
+### Content {#appearances-of-christ-in-the-old-testament-content}
+
+(Derived from https://ichthys.com/1Theo.htm)
+
+<!-- --- -->
+
+#### Overview {#appearances-of-christ-in-the-old-testament-overview}
+
+We have been in the process of demonstrating that the appearances of God to believers in the Old Testament (Theophanies), are really pre-incarnate appearances of the Father's representative, our Lord Jesus Christ, acting for the Father and speaking in His stead. In the majority (though not all) of these cases, the Old Testament identifies such appearances as "***the*** Angel of the Lord". Sometimes when God appears, however, as in His interrogation of Adam and Eve in the garden of Eden (Gen.3:8ff), there is no mention of "angels". Yet it seems clear from a number of passages discussed below, where the "Angel" is variously described as the Lord and "***the*** Angel of the Lord", that all such appearances are an essentially similar phenomenon: God appearing to Man in a recognizable form.
+
+The word "angel" is potentially confusing here on account of all the centuries of non-scriptural misinformation we have suffered through. "Angel" is a borrowing of the Greek *angelos*, meaning "messenger", and is itself a translation of the Hebrew *malach* bearing the same meaning. It is important to note that neither word inherently signifies heavenly creatures; both were originally applied to human messengers. Messengers from God would, of necessity, have to be supernatural, and on many occasions these are "angels" in the traditional English sense of the word, that is, that heavenly race of creatures who serve and minister to God (Gabriel, for example: Dan.8:16; 9:21; Lk.1:21-26).
+
+<!-- --- -->
+
+But ***the*** Angel of the Lord is an entirely different story, for scripture uses this phrase to designate an "appearance" of God Himself, taking on messenger form to deliver a message personally. As we have seen above, it is best to take these appearances of ***the*** Angel (messenger-servant) of the Lord to be appearances of ***the*** Messenger and Minister of the Father, Jesus Christ our Lord. For example, when we read of Isaiah's vision of the Lord (Is.6), it is understandable to assume at first that Isaiah's vision was of the Father, but John 12:41 tells us that Isaiah was beholding *Christ's* glory, and we understand (with our New Testament perspective) that this was a vision of our Lord in His capacity of King of Kings and Lord of Lords, the glorified ruler of the earth who has accepted the mantle of rulership from the Father (as He will return to reign until "He has placed all enemies under His feet" 1Cor.15:25).
+
+The appearance of the Lord to Moses in giving the Mosaic Law presents a case similar to the vision of Isaiah. At first glance, we may assume that Moses is actually viewing the Father (or His likeness: i.e., a Theophany). But the New Testament is quite explicit in stating that the law was given "through angels" (Greek: *di' angelon*: Gal.3:19-20; Heb.2:2; Acts 7:38 & 53). Since we know that these "angelic appearances" are represented in the Old Testament as appearances of God (e.g., Ex.34:5ff.), it must be the case that the New Testament passages which ascribe the giving of the Law to "angels" are in fact indicating that the Father spoke the Law to Moses through appearances of ***the*** Angel of the Lord, a manifestation of our pre-incarnate Lord, Jesus Christ (i.e., a Christophany).
+
+<!-- --- -->
+
+#### The Angel of the Exodus {#appearances-of-christ-in-the-old-testament-the-angel-of-the-exodus}
+
+The case of the Angel of the Exodus demonstrates both the divinity of the Angel of the Lord and His identification as a pre-incarnate manifestation of our Lord Jesus Christ.
+
+You'll see exactly what we mean by "the Angel of the Exodus" as we go through the next bit. The specific focus here is on passages from the first few books of the Bible---from the calling of Moses, to Israel's flight from Egypt, to their settlement in the promised land. At every step of the way, they were guided by a pre-incarnate Jesus Christ, on behalf of the Father.
+
+<!-- --- -->
+
+##### The burning bush {#appearances-of-christ-in-the-old-testament-the-burning-bush}
+
+The Angel first appears to Moses in the burning bush (Ex.3:2ff.). It is the Angel of the Lord who appeared to Moses in the fiery flames (v.2), but shortly thereafter the Angel represents Himself as God the Father, saying "I am the God of your father, the God of Abraham, the God of Isaac and the God of Jacob (v.6), and "I shall be who I am" (v.14), and is further identified as "the Lord" (in v.7). The symbolism of the fire and the bush is important: the bush calls attention to Christ, the Messiah, as the Branch (Is.4:2; 11:1; 53:2; Jer.23:5; 33:15; Zech.3:8; 6:12), while the fire represents the fiery judgment of the cross that does not consume Him (cf., for example, the burnt offerings of Lev.1 which represent Christ's work on the cross). This first appearance of the Angel of the Lord to Moses, then, is a Christophany, an appearance of the pre-incarnate Christ representing and speaking for the Father.
+
+<!-- --- -->
+
+##### The column of cloud and fire {#appearances-of-christ-in-the-old-testament-the-column-of-cloud-and-fire}
+
+The Angel is called "of God" at Exodus 14:19 as He appears in the column of cloud and fire. Previously, at Exodus 13:21, Jehovah Himself is said to have been the one going ahead of the Israelites in the column of cloud and fire. Once again, the Lord and the Angel are identified as one and the same, and by appearing from within the fire of the column (which would later stand over the place of the ark in the tabernacle where the blood representing Christ's sacrifice would be sprinkled on the day of atonement: Num.9:15 with Lev.16), we again have a picture of Christ's saving work, enduring judgment on our behalf.
+
+<!-- --- -->
+
+##### The angel sent before the Israelites to guard them on the way {#appearances-of-christ-in-the-old-testament-the-angel-sent-before-the-israelites-to-guard-them-on-the-way}
+
+At Exodus 23:20-23 as part of the giving of the Law to Moses on Sinai, the Angel of the Lord (identified as such as we saw above from New Testament passages such as Gal.3:19-20; Heb.2:2; Acts 7:38 & 53) proclaims that He is going to "send" the Angel before the Israelites to lead and guard them (as Christ is sent by the Father). Moses is also told that they are to obey the Angel "because My Name is in Him" (v.21), a similar description to that of the returning Son of Man in Revelation 19:11-16.
+
+<!-- --- -->
+
+##### The one whom Moses (among others) knew and spoke to "face to face" {#appearances-of-christ-in-the-old-testament-the-one-whom-moses-among-others-knew-and-spoke-to-face-to-face}
+
+Despite the fact that no one has ever seen the Father while on this earth (see above), we are told that the elders saw the God of Israel (in company with Moses and Aaron: Ex.24:9-11), and we know that Moses entered the cloud of glory and spoke with the Lord on Sinai (Ex.24:16-18) and petitioned the Lord to "show me Your glory" (a request He granted: Ex.33:18ff.). We also find in Numbers 12:8 that Moses saw "the form of the Lord" and from Deuteronomy we know that unlike any other servant of the Lord, Moses spoke with Him "face to face" (Deut.34:10). This then surely is once again the Angel of the Lord, not the actual presence of the Father, but the appearance of the One who is sent by Him, speaks for Him, and who has undertaken to fulfill His plan of salvation in this world, our Lord and Savior Jesus Christ, appearing in pre-incarnate Christophany.
+
+<!-- --- -->
+
+##### The angel who is said to have led the Israelites out of Egypt {#appearances-of-christ-in-the-old-testament-the-angel-who-is-said-to-have-led-the-israelites-out-of-egypt}
+
+Finally, the last appearance of the Angel in respect to the Exodus is at Judges 2:1-5. Here the Angel claims to be the One who "led you up from the land of Egypt" and reminds the Israelites that He will never break "My covenant with you". Only the Father Himself could make such a claim – or Someone representing Him, that is, His Servant, our Lord Jesus Christ who would fulfill that covenant and minister a new one for us all in His blood.
+
+<!-- --- -->
+
+#### The Angel of the Lord elsewhere {#appearances-of-christ-in-the-old-testament-the-angel-of-the-lord-elsewhere}
+
+Other appearances of God in the Old Testament are likewise best taken as Christophanies, whether or not the actual term "the Angel of the Lord" is employed:
+
+- The supernatural "Man" who wrestles with Jacob (Gen.32:22-32) elicits this response from Jacob: "I have seen God face to face, yet my life was spared". Hosea 12:3-4 confirms that this was the Angel and God.
+- The "Man" who appeared to Abraham along with His two companions in Genesis 18 is later said to be "the Lord" (v.22).
+- The "Man" who appeared to Joshua (Josh.5:13-15) claims to be the "commander of the Lord's host". Joshua then not only worships Him (a thing forbidden where mere angels are involved: Rev.19:10; 22:9), but is also told to remove his sandals because he is standing on ground that is holy (i.e., sanctified by the presence of God: cf. Ex.3:5ff.).
+- Along with Moses and Aaron, the elders of Israel see "the God of Israel" on Mt. Sinai (Ex.24:9-11). Despite the fact that no one has ever seen the Father, nor can see Him and live, they not only see the God of Israel, but have a symbolic meal of fellowship with Him, an event that clearly foreshadows communion based on the blood of our Lord Jesus Christ, the coming "King of Israel" (Jn.1:49).
+- The Angel of the Lord who appears to Gideon (Judg.6:11-23) is also said to be the Lord (vv.16-17). The Angel also identifies Himself with the sacrifice (by touching it with His staff) which then goes up in flames, representing the fiery judgment of God (that Christ was to undergo on our behalf).
+
+<!-- --- -->
+
+- The Angel of the Lord's appearance to the parents of Samson is similar to His appearance to Gideon (Judg.13:2-23). The Angel is described as such throughout the passage, but Manoah and his wife, though realizing that an angel has appeared to them, do not realize this is in fact the Angel of the Lord until His fiery departure (v.21), at which point Manoah exclaims "We have seen God" (v.22). The symbolism of self-sacrifice by the Angel is even more distinctly drawn in this passage, for He "ascended in the flame" of the burnt sacrifice (v.20), the very picture of Christ being judged on our behalf, teaching Old Testament believers to look forward to God's future forgiveness of sins through a sacrifice that He would provide.
+- We have already discussed Isaiah's vision of Israel's King (Is.6:1ff.), which turns out to be a vision of Jesus Christ as Israel's appointed ruler in the line of David (Jn.12:41).
+- Similarly, Ezekiel's vision of God (Ezek.1:25-28) is strikingly similar to the description of the glorified Christ found in Revelation (Rev.1:12-16; cf. the elders of Israel on Mt. Sinai: Ex.24:9-11).
+- Zechariah's vision of the Angel of the Lord (Zech.1:7-17) is instructive because the Angel, clearly divine as seen from the examples above, is presented as distinct from the Lord of Hosts, that is, the Father, so that this is undoubtedly a Christophany.
+- Finally, it has often been pointed out that after the birth of Christ, though angels do make many more appearances in the Bible, ***the*** Angel of the Lord no longer appears in the scriptures.
+
+<!-- --- -->
+
+#### Conclusion {#appearances-of-christ-in-the-old-testament-conclusion}
+
+The Lord Jesus Christ has always been and will always be the Person with whom we have to do, and in whom we must believe in order to have an eternal relationship with the Father. It is only Christ who has "made the Father known" (Jn.1:18), and only through Him do we come to possess "the knowledge of the glory of God in the face of Christ" (2Cor.4:6). In the Old Testament, we hear the Father appearing through the (pre-incarnate) Son; in the New Testament, we see and hear the (incarnate) Son speaking the Father's words.
+
+So the Trinity has always been present in God's revelation of Himself to those who believe and follow Him. As Christians, whenever we say the word "God" we should keep in mind that for us, this means the Trinity – the Father and the Son and the Holy Spirit.
+
+{{% /toggleable-content %}}
+
+{{% toggleable-transcript %}}
+
+### Video/audio transcript {#appearances-of-christ-in-the-old-testament-video-audio-transcript}
+
+
+
+{{% /toggleable-transcript %}}
+
+{{% discussion-pages %}}
+
+{{% /discussion-pages %}}
+
+
 <!-- aggregate-page-content -->
