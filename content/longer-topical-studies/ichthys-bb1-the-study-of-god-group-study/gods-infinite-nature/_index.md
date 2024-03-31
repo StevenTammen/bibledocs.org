@@ -2,6 +2,7 @@
 title: God's Infinite Nature
 weight: 20
 layout: content-page
+video: https://www.youtube.com/watch?v=2EMBqNotHqs
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
 ---
 
