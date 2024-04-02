@@ -39,7 +39,40 @@ page-title="Like Adam and Eve, we live in a broken world - as strangers in the d
 header-title="The actual introduction: Adam and Eve, and us"
 %}}
 
+## Angels {#angels}
+
+### Angels > Are subject to matter {#angels-are-subject-to-matter}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-is-spiritual"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God is Spiritual"
+%}}
+
+### Angels > Are subject to time {#angels-are-subject-to-time}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#angels-are-subject-to-time"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="Angels are subject to time"
+%}}
+
 ## Apologetics {#apologetics}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#could-god-create-a-rock-so-big-even-he-couldn-t-lift-it"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="\"Could God create a rock so big even He couldn't lift it?\""
+%}}
 
 ### Apologetics > Combatting falsehood by refuting a representative specific argument {#apologetics-combatting-falsehood-by-refuting-a-representative-specific-argument}
 
@@ -259,6 +292,19 @@ page-title="Like Adam and Eve, we live in a broken world - as strangers in the d
 header-title="The contrast between pre-fall paradise and post-fall realities"
 %}}
 
+## Fallen angels {#fallen-angels}
+
+### Fallen angels > Desire for physical bodies {#fallen-angels-desire-for-physical-bodies}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#if-mankind-is-at-present-a-little-lower-than-the-angels-why-do-angels-desire-physical-bodies-like-ours"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="If mankind is at present \"a little lower than the angels\", why do angels desire physical bodies like ours?"
+%}}
+
 ## Forgiveness {#forgiveness}
 
 ### Forgiveness > Even if Jesus paid it all, it can be hard for us to embrace the forgiveness as we ought {#forgiveness-even-if-jesus-paid-it-all-it-can-be-hard-for-us-to-embrace-the-forgiveness-as-we-ought}
@@ -342,6 +388,105 @@ page-title="Introduction - The Essence of God"
 header-title="Q: 1 Timothy 6:16 talks about God's unapproachable light. It also says God alone possess immortality. What does that latter statement mean?"
 %}}
 
+### God > Is *de facto* ruler of the universe {#god-is-de-facto-ruler-of-the-universe}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-is-unique"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God is Unique"
+%}}
+
+### God > Is eternal {#god-is-eternal}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-is-eternal"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God is Eternal"
+%}}
+
+### God > Is immeasurable {#god-is-immeasurable}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-is-immeasurable-in-a-spatial-sense"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God is Immeasurable (in a spatial sense)"
+%}}
+
+### God > Is infinite in nature {#god-is-infinite-in-nature}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+
+%}}
+
+### God > Is omnipotent {#god-is-omnipotent}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-is-omnipotent"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God is Omnipotent"
+%}}
+
+### God > Is omnipresent {#god-is-omnipresent}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-is-omnipresent"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God is Omnipresent"
+%}}
+
+### God > Is omniscient {#god-is-omniscient}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-is-omniscient"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God is Omniscient"
+%}}
+
+### God > Is spiritual {#god-is-spiritual}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-is-spiritual"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God is Spiritual"
+%}}
+
+### God > Is unique {#god-is-unique}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-is-unique"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God is Unique"
+%}}
+
 ### God > Name of God {#god-name-of-god}
 
 {{% subject-index-link
@@ -408,6 +553,17 @@ page-title="Purpose in This Dark World Only Comes by Faith, Which Makes Us Outca
 header-title="Though strangers and outcasts in this world, our faith marks us out as God's chosen people"
 %}}
 
+## Infinity {#infinity}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+
+%}}
+
 ## Josephus {#josephus}
 
 {{% subject-index-link
@@ -460,6 +616,17 @@ page-title="However, if Our Parents Are Out of Line, There Are Exceptions"
 header-title="Should we step in if people aren't parenting how we would?"
 %}}
 
+## Middle knowledge {#middle-knowledge}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-s-knowledge-of-hypotheticals"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God's knowledge of hypotheticals"
+%}}
+
 ## Minding your own business {#minding-your-own-business}
 
 {{% subject-index-link
@@ -471,6 +638,17 @@ page-title="However, if Our Parents Are Out of Line, There Are Exceptions"
 header-title="Should we step in if people aren't parenting how we would?"
 %}}
 
+## Molinism {#molinism}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-s-knowledge-of-hypotheticals"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God's knowledge of hypotheticals"
+%}}
+
 ## No man may see God and live {#no-man-may-see-god-and-live}
 
 {{% subject-index-link
@@ -480,6 +658,19 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduct
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Introduction - The Essence of God"
 header-title="Q: We say God dwells in this unapproachable light that no one has seen nor ever can see. What then of cases in scripture where people seem to have \"seen God?\""
+%}}
+
+## Omniscience {#omniscience}
+
+### Omniscience > includes knowledge of hypotheticals {#omniscience-includes-knowledge-of-hypotheticals}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-s-knowledge-of-hypotheticals"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God's knowledge of hypotheticals"
 %}}
 
 ## Parables {#parables}
@@ -622,6 +813,19 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduct
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Introduction - The Essence of God"
 header-title="Essence, nature, character... ???"
+%}}
+
+## Prophecy {#prophecy}
+
+### Prophecy > mechanics of {#prophecy-mechanics-of}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#the-relationship-between-future-prophecy-and-the-time-continuum"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="The relationship between future prophecy and the time continuum"
 %}}
 
 ## Protoevangelium {#protoevangelium}
