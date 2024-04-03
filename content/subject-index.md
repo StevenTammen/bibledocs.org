@@ -109,6 +109,19 @@ page-title="But What About Matters That Tend Toward Gray More Than Black or Whit
 header-title="Back to the main thrust of the question"
 %}}
 
+## Believers {#believers}
+
+### Believers > Live lives of eternal, spiritual purpose {#believers-live-lives-of-eternal-spiritual-purpose}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#contrasting-eternal-life-and-eternal-death"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="Contrasting eternal life and eternal death"
+%}}
+
 ## Busybody behavior {#busybody-behavior}
 
 ### Busybody behavior > Is not proper for Christians {#busybody-behavior-is-not-proper-for-christians}
@@ -399,6 +412,17 @@ page-title="God's Infinite Nature"
 header-title="God is Unique"
 %}}
 
+### God > Is *de jure* ruler of the universe {#god-is-de-jure-ruler-of-the-universe}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#god-is-sovereign"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="God is Sovereign"
+%}}
+
 ### God > Is eternal {#god-is-eternal}
 
 {{% subject-index-link
@@ -408,6 +432,39 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infi
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="God's Infinite Nature"
 header-title="God is Eternal"
+%}}
+
+### God > Is faithful and true {#god-is-faithful-and-true}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#god-is-faithful-and-true"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="God is Faithful and True"
+%}}
+
+### God > Is good {#god-is-good}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#god-is-good"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="God is Good"
+%}}
+
+### God > Is holy {#god-is-holy}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#god-is-holy"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="God is Holy"
 %}}
 
 ### God > Is immeasurable {#god-is-immeasurable}
@@ -430,6 +487,39 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infi
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="God's Infinite Nature"
 
+%}}
+
+### God > Is just {#god-is-just}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#god-is-just"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="God is Just"
+%}}
+
+### God > Is life {#god-is-life}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#god-is-life"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="God is Life"
+%}}
+
+### God > Is love {#god-is-love}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#god-is-love"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="God is Love"
 %}}
 
 ### God > Is omnipotent {#god-is-omnipotent}
@@ -463,6 +553,28 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infi
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="God's Infinite Nature"
 header-title="God is Omniscient"
+%}}
+
+### God > Is perfect in character {#god-is-perfect-in-character}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+
+%}}
+
+### God > Is sovereign {#god-is-sovereign}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#god-is-sovereign"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="God is Sovereign"
 %}}
 
 ### God > Is spiritual {#god-is-spiritual}
@@ -540,6 +652,30 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduct
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Introduction - The Essence of God"
 header-title="Comment: God's glory as it relates to \"every knee will bow, and every tongue confess\""
+%}}
+
+## Hell {#hell}
+
+### Hell > People are sent only because of unbelief {#hell-people-are-sent-only-because-of-unbelief}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#how-is-it-just-for-unbelievers-to-face-infinite-eternal-punishment-for-finite-sins"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="\"How is it just for unbelievers to face infinite, eternal punishment for finite sins?\""
+%}}
+
+### Hell > There are no levels in hell {#hell-there-are-no-levels-in-hell}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#how-is-it-just-for-unbelievers-to-face-infinite-eternal-punishment-for-finite-sins"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="\"How is it just for unbelievers to face infinite, eternal punishment for finite sins?\""
 %}}
 
 ## In the world, but not of the world {#in-the-world-but-not-of-the-world}
@@ -647,6 +783,19 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infi
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="God's Infinite Nature"
 header-title="God's knowledge of hypotheticals"
+%}}
+
+## Nephilim {#nephilim}
+
+### Nephilim > Satan's attack on the human bloodline {#nephilim-satan-s-attack-on-the-human-bloodline}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#what-does-it-mean-for-noah-to-be-called-perfect-in-his-generations"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="What does it mean for Noah to be called \"perfect in his generations\"?"
 %}}
 
 ## No man may see God and live {#no-man-may-see-god-and-live}
@@ -800,6 +949,28 @@ link="/longer-topical-studies/ichthys-bb6a-the-study-of-the-christian-walk-group
 study-title="Group Study - Ichthys' BB6A Peripateology - The Study of the Christian Walk"
 page-title="Confession, forgiveness, avoiding self-loathing, and reorienting towards God after we fall"
 header-title="Avoid self-loathing"
+%}}
+
+## Perfection {#perfection}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+
+%}}
+
+### Perfection > Is impossible for fallen mankind {#perfection-is-impossible-for-fallen-mankind}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#why-are-we-told-to-be-perfect-like-god-in-matthew-5-48-if-we-can-never-live-up-to-that-standard"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="Why are we told to be perfect like God in Matthew 5:48 if we can never live up to that standard?"
 %}}
 
 ## Philosophy {#philosophy}
@@ -1052,6 +1223,32 @@ link="/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr
 study-title="Ichthys' SR4 - Satan's World System"
 page-title="Introduction to SR4 - Satan's World System"
 header-title="Plato's Allegory of the Cave"
+%}}
+
+## Unbelievers {#unbelievers}
+
+### Unbelievers > Are already positionally dead {#unbelievers-are-already-positionally-dead}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#contrasting-eternal-life-and-eternal-death"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="Contrasting eternal life and eternal death"
+%}}
+
+## Unlimited atonement {#unlimited-atonement}
+
+### Unlimited atonement > Double jeopardy {#unlimited-atonement-double-jeopardy}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#how-is-it-just-for-unbelievers-to-face-infinite-eternal-punishment-for-finite-sins"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="\"How is it just for unbelievers to face infinite, eternal punishment for finite sins?\""
 %}}
 
 ## World {#world}
