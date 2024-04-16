@@ -122,6 +122,19 @@ page-title="God's Perfect Character"
 header-title="Contrasting eternal life and eternal death"
 %}}
 
+## Blood of Christ {#blood-of-christ}
+
+### Blood of Christ > Satisfies both God's love and God's justice {#blood-of-christ-satisfies-both-god-s-love-and-god-s-justice}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/conclusions-the-essence-of-god/#an-overview-in-words"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Conclusions - The Essence of God"
+header-title="An overview in words"
+%}}
+
 ## Busybody behavior {#busybody-behavior}
 
 ### Busybody behavior > Is not proper for Christians {#busybody-behavior-is-not-proper-for-christians}
@@ -358,6 +371,15 @@ header-title="But they were included in Matthew's genealogy specifically to show
 ## God {#god}
 
 ### God > Essence {#god-essence}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/conclusions-the-essence-of-god/#an-overview-in-picture-form"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Conclusions - The Essence of God"
+header-title="An overview in picture form"
+%}}
 
 {{% subject-index-link
 content-type="Longer Topical"
