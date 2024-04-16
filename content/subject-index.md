@@ -1214,6 +1214,41 @@ page-title="Handling Several Other Matters"
 header-title="Dr. Luginbill of Ichthys.com responding"
 %}}
 
+## Trinity {#trinity}
+
+### Trinity > Definition {#trinity-definition}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity"
+
+%}}
+
+### Trinity > Scripture alone is sufficient for establishing the teaching {#trinity-scripture-alone-is-sufficient-for-establishing-the-teaching}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity/#is-the-terminology-itself-important-in-considering-the-development-of-this-doctrine"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity"
+header-title="Is the terminology itself important in considering the development of this doctrine?"
+%}}
+
+### Trinity > The teaching existed before the word "Trinity" was used for it {#trinity-the-teaching-existed-before-the-word-trinity-was-used-for-it}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity/#is-the-terminology-itself-important-in-considering-the-development-of-this-doctrine"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity"
+header-title="Is the terminology itself important in considering the development of this doctrine?"
+%}}
+
 ## Truth {#truth}
 
 ### Truth > Most people are blind to it {#truth-most-people-are-blind-to-it}
