@@ -4034,6 +4034,28 @@ God is one. God is also three. And there is no contradiction between these state
 
 <!-- --- -->
 
+{{% video-only %}}
+
+##### Even at the time the Bible was written, there were already incipient challenges to the Trinity {#introduction-the-trinity-even-at-the-time-the-bible-was-written-there-were-already-incipient-challenges-to-the-trinity}
+
+{{% note %}}
+This is a video-only section.
+{{% /note %}}
+
+##### Not being able to fully understand the Trinity this side of heaven is a human universal equally applying to all {#introduction-the-trinity-not-being-able-to-fully-understand-the-trinity-this-side-of-heaven-is-a-human-universal-equally-applying-to-all}
+
+{{% note %}}
+This is a video-only section.
+{{% /note %}}
+
+##### Progressive revelation: The Trinity was veiled from believers in the Old Testament {#introduction-the-trinity-progressive-revelation-the-trinity-was-veiled-from-believers-in-the-old-testament}
+
+{{% note %}}
+This is a video-only section.
+{{% /note %}}
+
+{{% /video-only %}}
+
 #### Spelling it out a bit more {#introduction-the-trinity-spelling-it-out-a-bit-more}
 
 As we have said, the core definition of the Trinity is that God is one *in essence*, and three *in person*.
