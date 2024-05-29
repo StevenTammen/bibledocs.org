@@ -85,9 +85,7 @@ When firmly grasped, God's perfection---perfection in every way and according to
 <a href="/subject-index/#perfection-is-impossible-for-fallen-mankind">Perfection > Is impossible for fallen mankind</a>
 {{< /subjects >}}
 
-{{% note %}}
-This is a video-only section.
-{{% /note %}}
+{{% video-only-note %}}
 
 #### What does it mean for Noah to be called "perfect in his generations"? {#what-does-it-mean-for-noah-to-be-called-perfect-in-his-generations}
 
@@ -96,9 +94,7 @@ This is a video-only section.
 {{< /subjects >}}
 <!-- p="Genesis 6" -->
 
-{{% note %}}
-This is a video-only section.
-{{% /note %}}
+{{% video-only-note %}}
 
 As in Genesis 6:9---if you'd like, here's an [interlinear](https://www.blueletterbible.org/esv/gen/6/1/t_concif_6009) for the verse.
 
@@ -209,9 +205,7 @@ Demanding justice for His creatures is a natural consequence of God's holiness. 
 <a href="/subject-index/#hell-there-are-no-levels-in-hell">Hell > There are no levels in hell</a>
 {{< /subjects >}}
 
-{{% note %}}
-This is a video-only section.
-{{% /note %}}
+{{% video-only-note %}}
 
 This question's wording presupposes something that is simply not true: that unbelievers face eternal punishment in hell for personal sins they commit in this life.
 
@@ -269,9 +263,7 @@ Saving the lives of His creatures is a natural consequence of God's truth and fa
 <a href="/subject-index/#unbelievers-are-already-positionally-dead">Unbelievers > Are already positionally dead</a>
 {{< /subjects >}}
 
-{{% note %}}
-This is a video-only section.
-{{% /note %}}
+{{% video-only-note %}}
 
 {{% /video-only %}}
 

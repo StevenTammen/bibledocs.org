@@ -90,9 +90,7 @@ God's glory is most directly revealed to mankind through His Son, Jesus Christ. 
 {{< /subjects >}}
 <!-- p="1 Timothy 6:16" -->
 
-{{% note %}}
-This is a video-only section.
-{{% /note %}}
+{{% video-only-note %}}
 
 When 1 Timothy 6:16 says that only God possess immortality, what about the fact that both humans and angels have eternal existence?
 
@@ -107,9 +105,7 @@ Is it that God *owns* immortality, but that he gives it to us creatures such tha
 <a href="/subject-index/#no-man-may-see-god-and-live">No man may see God and live</a>
 {{< /subjects >}}
 
-{{% note %}}
-This is a video-only section.
-{{% /note %}}
+{{% video-only-note %}}
 
 Did Moses not see this light upon Mount Sinai? What about the Apostles present on the mount of transfiguration? What about Paul on the road to Damascus? What about John in His visions of God, recorded in Revelation?
 
@@ -121,9 +117,7 @@ Did Moses not see this light upon Mount Sinai? What about the Apostles present o
 <a href="/subject-index/#every-knee-will-bow">Every knee will bow</a>
 {{< /subjects >}}
 
-{{% note %}}
-This is a video-only section.
-{{% /note %}}
+{{% video-only-note %}}
 
 The visible form of this glory was veiled in Christ's first advent to make the choice for Him genuine. The glory was, however, revealed in His words and works.
 
@@ -811,9 +805,7 @@ God's being transcends the physical universe. He is not limited or bounded by ma
 <a href="/subject-index/#fallen-angels-desire-for-physical-bodies">Fallen angels > Desire for physical bodies</a>
 {{< /subjects >}}
 
-{{% note %}}
-This is a video-only section.
-{{% /note %}}
+{{% video-only-note %}}
 
 Compare Hebrews 2:6-8.
 
@@ -837,9 +829,7 @@ God's being transcends time. He is not limited or bounded by temporal issues or 
 <a href="/subject-index/#angels-are-subject-to-time">Angels > Are subject to time</a>
 {{< /subjects >}}
 
-{{% note %}}
-This is a video-only section.
-{{% /note %}}
+{{% video-only-note %}}
 
 ##### The relationship between future prophecy and the time continuum {#god-s-infinite-nature-the-relationship-between-future-prophecy-and-the-time-continuum}
 
@@ -847,9 +837,7 @@ This is a video-only section.
 <a href="/subject-index/#prophecy-mechanics-of">Prophecy > mechanics of</a>
 {{< /subjects >}}
 
-{{% note %}}
-This is a video-only section.
-{{% /note %}}
+{{% video-only-note %}}
 
 Were prophets actually transported into the future (i.e., plucked from one point in the "river of time" and dropped at another as an observer), or did they just have visions of the future (i.e., see visions of it like a movie)?
 
@@ -1892,9 +1880,7 @@ When firmly grasped, God's perfection---perfection in every way and according to
 <a href="/subject-index/#perfection-is-impossible-for-fallen-mankind">Perfection > Is impossible for fallen mankind</a>
 {{< /subjects >}}
 
-{{% note %}}
-This is a video-only section.
-{{% /note %}}
+{{% video-only-note %}}
 
 ##### What does it mean for Noah to be called "perfect in his generations"? {#god-s-perfect-character-what-does-it-mean-for-noah-to-be-called-perfect-in-his-generations}
 
@@ -1903,9 +1889,7 @@ This is a video-only section.
 {{< /subjects >}}
 <!-- p="Genesis 6" -->
 
-{{% note %}}
-This is a video-only section.
-{{% /note %}}
+{{% video-only-note %}}
 
 As in Genesis 6:9---if you'd like, here's an [interlinear](https://www.blueletterbible.org/esv/gen/6/1/t_concif_6009) for the verse.
 
@@ -2016,9 +2000,7 @@ Demanding justice for His creatures is a natural consequence of God's holiness. 
 <a href="/subject-index/#hell-there-are-no-levels-in-hell">Hell > There are no levels in hell</a>
 {{< /subjects >}}
 
-{{% note %}}
-This is a video-only section.
-{{% /note %}}
+{{% video-only-note %}}
 
 This question's wording presupposes something that is simply not true: that unbelievers face eternal punishment in hell for personal sins they commit in this life.
 
@@ -2076,9 +2058,7 @@ Saving the lives of His creatures is a natural consequence of God's truth and fa
 <a href="/subject-index/#unbelievers-are-already-positionally-dead">Unbelievers > Are already positionally dead</a>
 {{< /subjects >}}
 
-{{% note %}}
-This is a video-only section.
-{{% /note %}}
+{{% video-only-note %}}
 
 {{% /video-only %}}
 
@@ -4038,21 +4018,15 @@ God is one. God is also three. And there is no contradiction between these state
 
 ##### Even at the time the Bible was written, there were already incipient challenges to the Trinity {#introduction-the-trinity-even-at-the-time-the-bible-was-written-there-were-already-incipient-challenges-to-the-trinity}
 
-{{% note %}}
-This is a video-only section.
-{{% /note %}}
+{{% video-only-note %}}
 
 ##### Not being able to fully understand the Trinity this side of heaven is a human universal equally applying to all {#introduction-the-trinity-not-being-able-to-fully-understand-the-trinity-this-side-of-heaven-is-a-human-universal-equally-applying-to-all}
 
-{{% note %}}
-This is a video-only section.
-{{% /note %}}
+{{% video-only-note %}}
 
 ##### Progressive revelation: The Trinity was veiled from believers in the Old Testament {#introduction-the-trinity-progressive-revelation-the-trinity-was-veiled-from-believers-in-the-old-testament}
 
-{{% note %}}
-This is a video-only section.
-{{% /note %}}
+{{% video-only-note %}}
 
 {{% /video-only %}}
 

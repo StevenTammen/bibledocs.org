@@ -80,9 +80,7 @@ God's being transcends the physical universe. He is not limited or bounded by ma
 <a href="/subject-index/#fallen-angels-desire-for-physical-bodies">Fallen angels > Desire for physical bodies</a>
 {{< /subjects >}}
 
-{{% note %}}
-This is a video-only section.
-{{% /note %}}
+{{% video-only-note %}}
 
 Compare Hebrews 2:6-8.
 
@@ -106,9 +104,7 @@ God's being transcends time. He is not limited or bounded by temporal issues or 
 <a href="/subject-index/#angels-are-subject-to-time">Angels > Are subject to time</a>
 {{< /subjects >}}
 
-{{% note %}}
-This is a video-only section.
-{{% /note %}}
+{{% video-only-note %}}
 
 #### The relationship between future prophecy and the time continuum {#the-relationship-between-future-prophecy-and-the-time-continuum}
 
@@ -116,9 +112,7 @@ This is a video-only section.
 <a href="/subject-index/#prophecy-mechanics-of">Prophecy > mechanics of</a>
 {{< /subjects >}}
 
-{{% note %}}
-This is a video-only section.
-{{% /note %}}
+{{% video-only-note %}}
 
 Were prophets actually transported into the future (i.e., plucked from one point in the "river of time" and dropped at another as an observer), or did they just have visions of the future (i.e., see visions of it like a movie)?
 
