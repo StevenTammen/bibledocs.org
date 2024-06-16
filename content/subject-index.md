@@ -109,6 +109,30 @@ page-title="But What About Matters That Tend Toward Gray More Than Black or Whit
 header-title="Back to the main thrust of the question"
 %}}
 
+## Baptism {#baptism}
+
+### Baptism > Is not of water, but is fundamentally spiritual in nature {#baptism-is-not-of-water-but-is-fundamentally-spiritual-in-nature}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#what-exactly-does-being-baptized-into-god-becoming-united-with-him-as-part-of-the-body-of-christ-actually-mean"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="What exactly does being baptized into God (becoming united with Him, as part of the body of Christ) actually mean?"
+%}}
+
+### Baptism > We are baptized *into* the person of the Trinity, spiritually {#baptism-we-are-baptized-into-the-person-of-the-trinity-spiritually}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#what-exactly-does-being-baptized-into-god-becoming-united-with-him-as-part-of-the-body-of-christ-actually-mean"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="What exactly does being baptized into God (becoming united with Him, as part of the body of Christ) actually mean?"
+%}}
+
 ## Believers {#believers}
 
 ### Believers > Live lives of eternal, spiritual purpose {#believers-live-lives-of-eternal-spiritual-purpose}
@@ -331,6 +355,19 @@ page-title="God's Infinite Nature"
 header-title="If mankind is at present \"a little lower than the angels\", why do angels desire physical bodies like ours?"
 %}}
 
+## Family of God {#family-of-god}
+
+### Family of God > Derives its name from the Father {#family-of-god-derives-its-name-from-the-father}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+
+%}}
+
 ## Forgiveness {#forgiveness}
 
 ### Forgiveness > Even if Jesus paid it all, it can be hard for us to embrace the forgiveness as we ought {#forgiveness-even-if-jesus-paid-it-all-it-can-be-hard-for-us-to-embrace-the-forgiveness-as-we-ought}
@@ -443,6 +480,17 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perf
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="God's Perfect Character"
 header-title="God is Sovereign"
+%}}
+
+### God > Is Spirit, but in a way different from the spirits of humans and angels {#god-is-spirit-but-in-a-way-different-from-the-spirits-of-humans-and-angels}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#what-does-it-mean-for-god-to-be-spirit-if-the-holy-spirit-is-just-one-member-of-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="What does it mean for God to be Spirit, if the Holy Spirit is just one member of the Trinity?"
 %}}
 
 ### God > Is eternal {#god-is-eternal}
@@ -700,6 +748,30 @@ page-title="God's Perfect Character"
 header-title="\"How is it just for unbelievers to face infinite, eternal punishment for finite sins?\""
 %}}
 
+## Holy Spirit {#holy-spirit}
+
+### Holy Spirit > Has always been present upon the Earth {#holy-spirit-has-always-been-present-upon-the-earth}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#why-wasn-t-the-spirit-sent-to-indwell-believers-before-he-actually-was-i-e-only-after-christ-s-ascension"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="Why wasn't the Spirit sent to indwell believers before He actually was (i.e., only after Christ's ascension)?"
+%}}
+
+### Holy Spirit > Indwelling ministry of {#holy-spirit-indwelling-ministry-of}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#why-wasn-t-the-spirit-sent-to-indwell-believers-before-he-actually-was-i-e-only-after-christ-s-ascension"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="Why wasn't the Spirit sent to indwell believers before He actually was (i.e., only after Christ's ascension)?"
+%}}
+
 ## In the world, but not of the world {#in-the-world-but-not-of-the-world}
 
 {{% subject-index-link
@@ -720,6 +792,32 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infi
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="God's Infinite Nature"
 
+%}}
+
+## Interpretation {#interpretation}
+
+### Interpretation > Context often directly limits how words can be translated {#interpretation-context-often-directly-limits-how-words-can-be-translated}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+
+%}}
+
+### Interpretation > Symbolism {#interpretation-symbolism}
+
+#### Interpretation > Symbolism > Numbers {#interpretation-symbolism-numbers}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#revelation-1-4-what-is-going-on-with-the-mention-of-seven-spirits"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="Revelation 1:4 - What is going on with the mention of seven Spirits?"
 %}}
 
 ## Josephus {#josephus}
@@ -1133,6 +1231,19 @@ page-title="Confession, forgiveness, avoiding self-loathing, and reorienting tow
 header-title="Looking back is not productive for us as Christians"
 %}}
 
+## Spiritual gifts {#spiritual-gifts}
+
+### Spiritual gifts > Given after Christ's ascension {#spiritual-gifts-given-after-christ-s-ascension}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#why-wasn-t-the-spirit-sent-to-indwell-believers-before-he-actually-was-i-e-only-after-christ-s-ascension"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="Why wasn't the Spirit sent to indwell believers before He actually was (i.e., only after Christ's ascension)?"
+%}}
+
 ## Spiritual perspective {#spiritual-perspective}
 
 ### Spiritual perspective > Eyes on the prize {#spiritual-perspective-eyes-on-the-prize}
@@ -1216,6 +1327,17 @@ header-title="Dr. Luginbill of Ichthys.com responding"
 
 ## Trinity {#trinity}
 
+### Trinity > All members are deity {#trinity-all-members-are-deity}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+
+%}}
+
 ### Trinity > Definition {#trinity-definition}
 
 {{% subject-index-link
@@ -1225,6 +1347,41 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduct
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Introduction - The Trinity"
 
+%}}
+
+### Trinity > Divinity {#trinity-divinity}
+
+#### Trinity > Divinity > Father {#trinity-divinity-father}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#the-father-is-god"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="The Father is God"
+%}}
+
+#### Trinity > Divinity > Holy Spirit {#trinity-divinity-holy-spirit}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#the-holy-spirit-is-god"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="The Holy Spirit is God"
+%}}
+
+#### Trinity > Divinity > Son {#trinity-divinity-son}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#the-son-is-god"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="The Son is God"
 %}}
 
 ### Trinity > Scripture alone is sufficient for establishing the teaching {#trinity-scripture-alone-is-sufficient-for-establishing-the-teaching}
@@ -1247,6 +1404,19 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduct
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Introduction - The Trinity"
 header-title="Is the terminology itself important in considering the development of this doctrine?"
+%}}
+
+### Trinity > What it is not {#trinity-what-it-is-not}
+
+#### Trinity > What it is not > Only one member possessing divinity {#trinity-what-it-is-not-only-one-member-possessing-divinity}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#key-point-god-is-one-in-essence-but-that-does-not-mean-that-only-one-person-of-the-trinity-is-deity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="Key point: God is *one* in essence, but that does *not* mean that only one person of the Trinity is deity"
 %}}
 
 ## Truth {#truth}

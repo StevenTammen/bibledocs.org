@@ -69,6 +69,71 @@ But the Bible teaches that all three members of the Trinity are deity. Compare: 
 
 <!-- --- -->
 
+{{% video-only %}}
+
+#### What does it mean for God to be Spirit, if the Holy Spirit is just one member of the Trinity? {#what-does-it-mean-for-god-to-be-spirit-if-the-holy-spirit-is-just-one-member-of-the-trinity}
+
+{{< subjects >}}
+<a href="/subject-index/#god-is-spirit-but-in-a-way-different-from-the-spirits-of-humans-and-angels">God > Is Spirit, but in a way different from the spirits of humans and angels</a>
+{{< /subjects >}}
+
+{{% video-only-note %}}
+
+
+
+#### Why wasn't the Spirit sent to indwell believers before He actually was (i.e., only after Christ's ascension)? {#why-wasn-t-the-spirit-sent-to-indwell-believers-before-he-actually-was-i-e-only-after-christ-s-ascension}
+
+{{< subjects >}}
+<a href="/subject-index/#holy-spirit-has-always-been-present-upon-the-earth">Holy Spirit > Has always been present upon the Earth</a>
+<a href="/subject-index/#holy-spirit-indwelling-ministry-of">Holy Spirit > Indwelling ministry of</a>
+<a href="/subject-index/#spiritual-gifts-given-after-christ-s-ascension">Spiritual gifts > Given after Christ's ascension</a>
+{{< /subjects >}}
+
+{{% video-only-note %}}
+
+
+
+#### Revelation 1:4 - What is going on with the mention of seven Spirits? {#revelation-1-4-what-is-going-on-with-the-mention-of-seven-spirits}
+
+{{< subjects >}}
+<a href="/subject-index/#interpretation-symbolism-numbers">Interpretation > Symbolism > Numbers</a>
+{{< /subjects >}}
+<!-- p="Zechariah 3:9; Zechariah 4:2; Zechariah 4:10; Revelation 1:4; Revelation 3:1; Revelation 4:5; Revelation 5:6" -->
+
+{{% video-only-note %}}
+
+Things mentioned in video:
+
+- [The Seven-fold Spirit of God](https://ichthys.com/mail-Seven-fold-Spirit.htm)
+- [CT 2B: Seven Lamps of Fire](https://ichthys.com/Tribulation-Part2B.htm#Seven%20Lamps%20of%20Fire)
+
+{{% quote src="https://ichthys.com/mail-Seven-fold-Spirit.htm#:~:text=Well%2C%20the%20seven,Savior%20Jesus%20Christ." text="Ichthys" %}}
+
+[T]he seven eyes are said to be "the Seven Spirits", and the Seven Spirits are described in Revelation 1:4-5 as the Holy Spirit, occurring as they do in-between the Father and the Son (please see the link: [in CT 2B, "The Seven Lamps of Fire"](https://ichthys.com/Tribulation-Part2B.htm#Seven%20Lamps%20of%20Fire)). Although it is true in scripture that angels are sometimes described as spirits, these seven angels are said to be stars, but not spirits, whereas in the context the term seven-spirits is a synonym used for the Holy Spirit, demonstrating His perfection. The seven eyes on the stone I take to be the Spirit's anointed of the Messiah (the Rock), as in Is.11 (where the Spirit is likewise described in seven-fold fashion):
+
+{{% ichthys-translation p="Isaiah 11:2" %}}
+(2) And the Spirit of the Lord will rest upon Him (i.e., the Messiah), the Spirit of wisdom and understanding, the Spirit of counsel and might, the Spirit of knowledge and the fear of the Lord.
+{{% /ichthys-translation %}}
+
+In Revelation 5:6, the seven-spirits are said to be 1) "of God" (an odd representation for angels who of course belong to Him, but an important identifier for this otherwise potentially confusing designation for the Spirit), and 2) to be "sent out into the entire earth"; only God can be omnipresent; seven angels, no matter how energetic, would be hard pressed to keep track of all that is going on in the world at all times, even with large a group of subordinates.
+
+Finally, and perhaps decisively, Revelation 3:1 states: "These are the words of Him who holds the seven spirits of God and the seven stars". This verse distinguished carefully between the two, so that *ipso facto* they cannot be the same.
+
+{{% /quote %}}
+
+
+#### What exactly does being baptized into God (becoming united with Him, as part of the body of Christ) actually mean? {#what-exactly-does-being-baptized-into-god-becoming-united-with-him-as-part-of-the-body-of-christ-actually-mean}
+
+{{< subjects >}}
+<a href="/subject-index/#baptism-is-not-of-water-but-is-fundamentally-spiritual-in-nature">Baptism > Is not of water, but is fundamentally spiritual in nature</a>
+<a href="/subject-index/#baptism-we-are-baptized-into-the-person-of-the-trinity-spiritually">Baptism > We are baptized *into* the person of the Trinity, spiritually</a>
+{{< /subjects >}}
+<!-- p="Matthew 28:19" -->
+
+{{% video-only-note %}}
+
+{{% /video-only %}}
+
 #### The Father is God {#the-father-is-god}
 
 {{< subjects >}}
@@ -82,6 +147,21 @@ See: Matt.6:9; 1Cor.8:6; Eph.3:14-15.
 {{% /scripture-h %}}
 
 <!-- --- -->
+
+{{% video-only %}}
+
+##### A deeper dive into the interpretation of Ephesians 3:14-15 {#a-deeper-dive-into-the-interpretation-of-ephesians-3-14-15}
+{{< subjects >}}
+<a href="/subject-index/#family-of-god-derives-its-name-from-the-father">Family of God > Derives its name from the Father</a>
+<a href="/subject-index/#interpretation-context-often-directly-limits-how-words-can-be-translated">Interpretation > Context often directly limits how words can be translated</a>
+{{< /subjects >}}
+<!-- p="Ephesians 3:14-15" -->
+
+{{% video-only-note %}}
+
+Interpreting Ephesians 3:15 correctly depends upon translating the phrase πᾶσα πατριὰ as "whole family" rather than "every family". (Within its normal usage as an adjective generally, πᾶσα can mean either "whole" or "every." But when interpreting Ephesians 3:15 correctly, it is "whole" not "every" in this specific usage). And so it is that we understand that our global family of believers (i.e., the universal Church---the bride of Christ) "derives its name" from the authority of the Father, just how human families carry the names of their earthly fathers.
+
+{{% /video-only %}}
 
 #### The Son is God {#the-son-is-god}
 
