@@ -172,6 +172,19 @@ page-title="However, if Our Parents Are Out of Line, There Are Exceptions"
 header-title="Should we step in if people aren't parenting how we would?"
 %}}
 
+## Central doctrines to the Christian faith {#central-doctrines-to-the-christian-faith}
+
+### Central doctrines to the Christian faith > Satan attacks more fiercely {#central-doctrines-to-the-christian-faith-satan-attacks-more-fiercely}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-bible/#so-keeping-the-focus-on-the-bible-is-necessary"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity in the Bible"
+header-title="So keeping the focus on the Bible is necessary"
+%}}
+
 ## Child abuse {#child-abuse}
 
 {{% subject-index-link
@@ -796,6 +809,19 @@ page-title="Purpose in This Dark World Only Comes by Faith, Which Makes Us Outca
 header-title="Though strangers and outcasts in this world, our faith marks us out as God's chosen people"
 %}}
 
+## Incarnation {#incarnation}
+
+### Incarnation > It is only Jesus' human nature that was created/begotten {#incarnation-it-is-only-jesus-human-nature-that-was-created-begotten}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-bible/#is-jesus-the-father-s-seed-is-the-holy-spirit-the-father-s-spirit"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity in the Bible"
+header-title="Is Jesus \"the Father's seed\"? Is the Holy Spirit \"the Father's spirit\"?"
+%}}
+
 ## Infinity {#infinity}
 
 {{% subject-index-link
@@ -857,6 +883,19 @@ link="/questions-and-answers/reader-correspondence/on-the-possibility-of-multipl
 study-title="On the Possibility of Multiple Rahabs"
 page-title="The Supposed Scandal of a Prostitute in the Line of Christ"
 header-title="There could never be a harlot in the line of Jesus Christ! How heretical!"
+%}}
+
+## Limited human perspective {#limited-human-perspective}
+
+### Limited human perspective > Makes some teachings hard to understand {#limited-human-perspective-makes-some-teachings-hard-to-understand}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-bible/#the-trinity-can-be-hard-to-explain-properly"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity in the Bible"
+header-title="The Trinity can be hard to explain properly"
 %}}
 
 ## Meaning in life {#meaning-in-life}
@@ -1117,6 +1156,15 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduct
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Introduction - The Essence of God"
 header-title="Essence, nature, character... ???"
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-bible/#so-keeping-the-focus-on-the-bible-is-necessary"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity in the Bible"
+header-title="So keeping the focus on the Bible is necessary"
 %}}
 
 ## Prophecy {#prophecy}
@@ -1384,7 +1432,25 @@ page-title="All Members of the Trinity Are Joint Partakers of the Same Essence"
 
 %}}
 
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-bible/#is-jesus-the-father-s-seed-is-the-holy-spirit-the-father-s-spirit"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity in the Bible"
+header-title="Is Jesus \"the Father's seed\"? Is the Holy Spirit \"the Father's spirit\"?"
+%}}
+
 ### Trinity > Definition {#trinity-definition}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-bible/#review"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity in the Bible"
+header-title="Review"
+%}}
 
 {{% subject-index-link
 content-type="Longer Topical"
