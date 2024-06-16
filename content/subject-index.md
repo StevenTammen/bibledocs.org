@@ -1531,6 +1531,39 @@ page-title="All Members of the Trinity Are Deity"
 header-title="The Son is God"
 %}}
 
+### Trinity > Illustrations {#trinity-illustrations}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/illustrating-the-trinity/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Illustrating the Trinity"
+
+%}}
+
+#### Trinity > Illustrations > Perils of {#trinity-illustrations-perils-of}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/illustrating-the-trinity/#perils-in-attempting-to-use-illustrations-for-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Illustrating the Trinity"
+header-title="Perils in attempting to use illustrations for the Trinity"
+%}}
+
+#### Trinity > Illustrations > Trinity triangle {#trinity-illustrations-trinity-triangle}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/illustrating-the-trinity/#an-illustration-from-the-early-church-the-trinity-triangle"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Illustrating the Trinity"
+header-title="An illustration from the early church: the Trinity \"triangle\""
+%}}
+
 ### Trinity > Jointly partake in one single essence {#trinity-jointly-partake-in-one-single-essence}
 
 #### Trinity > Jointly partake in one single essence > Father {#trinity-jointly-partake-in-one-single-essence-father}
