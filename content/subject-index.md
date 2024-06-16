@@ -1338,6 +1338,17 @@ page-title="All Members of the Trinity Are Deity"
 
 %}}
 
+### Trinity > All members are distinct from one another {#trinity-all-members-are-distinct-from-one-another}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-distinct-persons/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Distinct Persons"
+
+%}}
+
 ### Trinity > Definition {#trinity-definition}
 
 {{% subject-index-link
@@ -1347,6 +1358,41 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduct
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Introduction - The Trinity"
 
+%}}
+
+### Trinity > Distinctness {#trinity-distinctness}
+
+#### Trinity > Distinctness > Father {#trinity-distinctness-father}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-distinct-persons/#the-father-is-a-unique-person-in-his-own-right-for-he-is-distinct-from-the-son"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Distinct Persons"
+header-title="The Father is a unique person in His own right (for He is distinct from the Son)"
+%}}
+
+#### Trinity > Distinctness > Holy Spirit {#trinity-distinctness-holy-spirit}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-distinct-persons/#the-holy-spirit-is-a-unique-person-in-his-own-right-for-he-acts-as-a-distinct-person"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Distinct Persons"
+header-title="The Holy Spirit is a unique person in His own right (for He acts as a distinct person)"
+%}}
+
+#### Trinity > Distinctness > Son {#trinity-distinctness-son}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-distinct-persons/#the-son-is-a-unique-person-in-his-own-right-for-he-is-distinct-from-the-father"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Distinct Persons"
+header-title="The Son is a unique person in His own right (for He is distinct from the Father)"
 %}}
 
 ### Trinity > Divinity {#trinity-divinity}
@@ -1417,6 +1463,17 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-membe
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="All Members of the Trinity Are Deity"
 header-title="Key point: God is *one* in essence, but that does *not* mean that only one person of the Trinity is deity"
+%}}
+
+#### Trinity > What it is not > Only one person with multiple modes or aspects {#trinity-what-it-is-not-only-one-person-with-multiple-modes-or-aspects}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-distinct-persons/#key-point-god-is-one-in-essence-but-that-does-not-mean-that-the-trinity-is-only-one-person-merely-displaying-three-modes-or-aspects-of-himself"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Distinct Persons"
+header-title="Key point: God is *one* in essence, but that does *not* mean that the Trinity is only one person (merely displaying three modes or aspects of Himself)"
 %}}
 
 ## Truth {#truth}
