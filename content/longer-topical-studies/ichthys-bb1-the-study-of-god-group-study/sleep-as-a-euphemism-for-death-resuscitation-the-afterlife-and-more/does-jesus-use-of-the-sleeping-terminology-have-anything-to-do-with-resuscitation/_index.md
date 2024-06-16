@@ -5,6 +5,10 @@ layout: content-page
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
 ---
 
+{{< subjects >}}
+Sleep > As a euphimisim for death > Does not necessarily point to eventual resuscitation
+{{< /subjects >}}
+
 ## Video {#video}
 
 {{% video
@@ -61,6 +65,10 @@ We also ought to note that there are places where sleeping is mentioned alongsid
 <!-- --- -->
 
 ### More explanation about how sleeping and death are tightly linguistically coupled {#more-explanation-about-how-sleeping-and-death-are-tightly-linguistically-coupled}
+
+{{< subjects >}}
+Interpretation > Semantic overloading - words with unique connotations stemming from multiple meanings
+{{< /subjects >}}
 
 The verb for raising someone from death is the same as awakening/rousing someone from sleep in both Hebrew and Greek---see Hebrew's *qutz* ([קוּץ](https://www.blueletterbible.org/lexicon/h6974/esv/wlc/0-1/)) and Greek's *egeiro* ([ἐγείρω](https://www.blueletterbible.org/lexicon/g1453/esv/mgnt/0-1/)), and the relevant concordance entries for this type of usage (that is, when the verbs are being used of death not sleep).
 
