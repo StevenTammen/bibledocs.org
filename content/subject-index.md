@@ -772,6 +772,19 @@ page-title="All Members of the Trinity Are Deity"
 header-title="Why wasn't the Spirit sent to indwell believers before He actually was (i.e., only after Christ's ascension)?"
 %}}
 
+## Image of God {#image-of-god}
+
+### Image of God > We are godlike in our free will/ability to choose {#image-of-god-we-are-godlike-in-our-free-will-ability-to-choose}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-joint-partakers-of-the-same-essence/#regarding-the-notion-of-us-being-small-g-gods-what-words-are-used-for-such-in-the-greek-and-hebrew"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Joint Partakers of the Same Essence"
+header-title="Regarding the notion of us being \"small G gods\", what words are used for such in the Greek and Hebrew?"
+%}}
+
 ## In the world, but not of the world {#in-the-world-but-not-of-the-world}
 
 {{% subject-index-link
@@ -1360,6 +1373,17 @@ page-title="All Members of the Trinity Are Coequal, Coeternal, and Consubstantia
 
 %}}
 
+### Trinity > All members share the same essence {#trinity-all-members-share-the-same-essence}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-joint-partakers-of-the-same-essence/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Joint Partakers of the Same Essence"
+
+%}}
+
 ### Trinity > Definition {#trinity-definition}
 
 {{% subject-index-link
@@ -1441,6 +1465,41 @@ page-title="All Members of the Trinity Are Deity"
 header-title="The Son is God"
 %}}
 
+### Trinity > Jointly partake in one single essence {#trinity-jointly-partake-in-one-single-essence}
+
+#### Trinity > Jointly partake in one single essence > Father {#trinity-jointly-partake-in-one-single-essence-father}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-joint-partakers-of-the-same-essence/#the-father-is-revealed-to-be-uniquely-god"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Joint Partakers of the Same Essence"
+header-title="The Father is revealed to be uniquely God"
+%}}
+
+#### Trinity > Jointly partake in one single essence > Holy Spirit {#trinity-jointly-partake-in-one-single-essence-holy-spirit}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-joint-partakers-of-the-same-essence/#the-holy-spirit-and-the-son-and-the-father-are-revealed-to-be-uniquely-god"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Joint Partakers of the Same Essence"
+header-title="The Holy Spirit and the Son and the Father are revealed to be uniquely God"
+%}}
+
+#### Trinity > Jointly partake in one single essence > Son {#trinity-jointly-partake-in-one-single-essence-son}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-joint-partakers-of-the-same-essence/#the-son-and-the-father-are-revealed-to-be-uniquely-god"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Joint Partakers of the Same Essence"
+header-title="The Son and the Father are revealed to be uniquely God"
+%}}
+
 ### Trinity > Scripture alone is sufficient for establishing the teaching {#trinity-scripture-alone-is-sufficient-for-establishing-the-teaching}
 
 {{% subject-index-link
@@ -1499,6 +1558,17 @@ header-title="Is the terminology itself important in considering the development
 %}}
 
 ### Trinity > What it is not {#trinity-what-it-is-not}
+
+#### Trinity > What it is not > A pantheon {#trinity-what-it-is-not-a-pantheon}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-joint-partakers-of-the-same-essence/#key-point-god-is-three-in-person-but-that-does-not-mean-that-the-trinity-is-composed-of-three-or-more-different-gods"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Joint Partakers of the Same Essence"
+header-title="Key point: God is *three* in person, but that does *not* mean that the Trinity is composed of three (or more) different \"gods\""
+%}}
 
 #### Trinity > What it is not > A union with inferiority or disparity between members {#trinity-what-it-is-not-a-union-with-inferiority-or-disparity-between-members}
 
