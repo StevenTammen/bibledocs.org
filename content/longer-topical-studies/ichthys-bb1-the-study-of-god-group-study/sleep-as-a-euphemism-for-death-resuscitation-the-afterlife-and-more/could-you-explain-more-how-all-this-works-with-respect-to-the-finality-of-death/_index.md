@@ -39,6 +39,12 @@ So how does the concept of resuscitation affect the finality of death? It seems 
 
 ### Luke 16 - on the chasm of separation {#luke-16-on-the-chasm-of-separation}
 
+{{< subjects >}}
+Heavenly geography > Subdivisions of Hades
+Afterlife > Boundaries between the living and the dead as a literary theme
+{{< /subjects >}}
+<!-- p="Luke 16:19-31; 1 Corinthians 15:16-19; Matthew 19:26" -->
+
 See our [previous video](TODO) for more on "heavenly geography", and the subdivisions of Hades.
 
 I am not entirely sure what bearing the chasm mentioned in Luke 16:26 has on the finality of death, as you see things, but assuming you take its mention to be something along the lines of "there exists not only an uncrossable separation between Abrahm's Bosom and Torments in Hades, but also between Hades and our world", well that is very true. Those in the afterlife are "contained", if you want to look at things that way, but looking at things from the other direction, so are we. We cannot cross over there any more than they can cross over here.
@@ -61,6 +67,11 @@ That's not meant to be a rebuke or anything, by the way. We just need to be sure
 
 ### Hebrews 9:27 - Perhaps speaking in terms of "types of death" was a poor choice on my part {#hebrews-9-27-perhaps-speaking-in-terms-of-types-of-death-was-a-poor-choice-on-my-part}
 
+{{< subjects >}}
+Death > Cannot be avoided by anyone
+{{< /subjects >}}
+<!-- p="Hebrews 9:27" -->
+
 I'm afraid in the prior video [when I discussed Hebrews 9:27](), I was not as clear I should have been. I spoke in terms of of a type of death leading to resuscitation, and a type of death leading to resurrection/judgment. I argued that Hebrews 9:27 is referring to the second kind and not the first kind, and that while human beings cannot know the difference between the two states (that is, whether someone who has died will come back or not), God does, based upon his perfect foreknowledge and foreordination of everything.
 
 While I don't think there is anything technically wrong with what I said, perhaps this is not actually the ideal framework for trying to explain the concept, now that I think about it. Since it's not so much that the "dying" is different (so to speak), so much as what comes after it. That is, the difference comes from the following condition of the human being's existence more than it comes from how they left the physical world the first time around.
@@ -79,6 +90,12 @@ This will be a bit detailed and technical, which is sort of why I hadn't done th
 
 #### Hebrew 9:27's wider context {#hebrew-9-27-s-wider-context}
 
+{{< subjects >}}
+Tabernacle > Contrast between earthly and heavenly
+Blood > Use in ratification of covenants
+{{< /subjects >}}
+<!-- p="Hebrews 9" -->
+
 Leaving aside a wider thematic analysis of the entire book of Hebrews (although see [here](https://ichthys.com/Hebrews-Home-Page.htm)), chapter 9 specifically of Hebrews can be broken down as follows:
 
 Hebrews 9:1-15 contrasts the sacrifices of the Earthly Sanctuary with the sacrifice (singular) of Christ in the Heavenly Sanctuary. The sacrifices in the Earthly Sanctuary cleansed only the outside, but the blood of Christ won for Him entrance into the Heavenly Most Holy Place once for all (verse 12), and allows us to cleanse not only our exteriors, but also our consciences from acts that lead to death, so that we may serve the living God (verse 14). We are now under a new covenant (verse 15).
@@ -90,6 +107,11 @@ Hebrews 9:25-28 makes it clear that unlike the prior ritual sacrifices that had 
 <!-- --- -->
 
 #### The Greek adverb *hapax* {#the-greek-adverb-hapax}
+
+{{< subjects >}}
+Interpretation > Context often directly limits how words can be translated
+{{< /subjects >}}
+<!-- p="2 Corinthians 11:25; Jude 1:3" -->
 
 To better explain the "once" in Hebrews 9:27---part of the wider statement "people are destined to die once"---we will primarily be focusing in on the last few verses of the chapter (Hebrews 9:25-28), and even more specifically, the usage of the Greek adverb *hapax* ([ἅπαξ](https://www.blueletterbible.org/lexicon/g530/esv/mgnt/0-1/)), which is the Greek word that many versions translate as "once" here.
 
@@ -126,6 +148,11 @@ This means the *hapax* of Hebrews 9:27 is set directly parallel with the "once f
 
 ##### The importance of the "once for all" concept as it pertains to Christ's work completely forces our hand in translating Hebrews 9:26, 28 {#the-importance-of-the-once-for-all-concept-as-it-pertains-to-christ-s-work-completely-forces-our-hand-in-translating-hebrews-9-26-28}
 
+{{< subjects >}}
+Interpretation > NT Principles > "Once for all"
+{{< /subjects >}}
+<!-- p="1 Peter 3:18; Romans 6:10; Hebrews 7:27; Hebrews 9:12; Hebrews 10:10" -->
+
 This latter part of Hebrews 9 is not the only place the finality and completeness of Christ's work is clearly emphasized in scripture. For example, see:
 
 - 1 Peter 3:18
@@ -148,6 +175,10 @@ And if the *hapax* Hebrews 9:28 must be translated as "once for all", then so to
 <!-- --- -->
 
 ##### So Hebrews 9:27 does not contradict the idea of resuscitation, QED {#so-hebrews-9-27-does-not-contradict-the-idea-of-resuscitation-qed}
+
+{{< subjects >}}
+Interpretation > Apparent contradictions > Hebrews 9:27 says people can only die once, but resuscitated people die twice
+{{< /subjects >}}
 
 The reason why all this is important is as follows:
 
