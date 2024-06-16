@@ -86,9 +86,7 @@ God's glory is most directly revealed to mankind through His Son, Jesus Christ. 
 {{< /subjects >}}
 <!-- p="1 Timothy 6:16" -->
 
-{{% note %}}
-This is a video-only section.
-{{% /note %}}
+{{% video-only-note %}}
 
 When 1 Timothy 6:16 says that only God possess immortality, what about the fact that both humans and angels have eternal existence?
 
@@ -103,9 +101,7 @@ Is it that God *owns* immortality, but that he gives it to us creatures such tha
 <a href="/subject-index/#no-man-may-see-god-and-live">No man may see God and live</a>
 {{< /subjects >}}
 
-{{% note %}}
-This is a video-only section.
-{{% /note %}}
+{{% video-only-note %}}
 
 Did Moses not see this light upon Mount Sinai? What about the Apostles present on the mount of transfiguration? What about Paul on the road to Damascus? What about John in His visions of God, recorded in Revelation?
 
@@ -117,9 +113,7 @@ Did Moses not see this light upon Mount Sinai? What about the Apostles present o
 <a href="/subject-index/#every-knee-will-bow">Every knee will bow</a>
 {{< /subjects >}}
 
-{{% note %}}
-This is a video-only section.
-{{% /note %}}
+{{% video-only-note %}}
 
 The visible form of this glory was veiled in Christ's first advent to make the choice for Him genuine. The glory was, however, revealed in His words and works.
 
