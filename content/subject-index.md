@@ -39,7 +39,40 @@ page-title="Like Adam and Eve, we live in a broken world - as strangers in the d
 header-title="The actual introduction: Adam and Eve, and us"
 %}}
 
+## Angels {#angels}
+
+### Angels > Are subject to matter {#angels-are-subject-to-matter}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-is-spiritual"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God is Spiritual"
+%}}
+
+### Angels > Are subject to time {#angels-are-subject-to-time}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#angels-are-subject-to-time"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="Angels are subject to time"
+%}}
+
 ## Apologetics {#apologetics}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#could-god-create-a-rock-so-big-even-he-couldn-t-lift-it"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="\"Could God create a rock so big even He couldn't lift it?\""
+%}}
 
 ### Apologetics > Combatting falsehood by refuting a representative specific argument {#apologetics-combatting-falsehood-by-refuting-a-representative-specific-argument}
 
@@ -74,6 +107,56 @@ link="/questions-and-answers/self-generated/on-honoring-and-obeying-parents/but-
 study-title="On Honoring and Obeying Parents"
 page-title="But What About Matters That Tend Toward Gray More Than Black or White?"
 header-title="Back to the main thrust of the question"
+%}}
+
+## Baptism {#baptism}
+
+### Baptism > Is not of water, but is fundamentally spiritual in nature {#baptism-is-not-of-water-but-is-fundamentally-spiritual-in-nature}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#what-exactly-does-being-baptized-into-god-becoming-united-with-him-as-part-of-the-body-of-christ-actually-mean"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="What exactly does being baptized into God (becoming united with Him, as part of the body of Christ) actually mean?"
+%}}
+
+### Baptism > We are baptized *into* the person of the Trinity, spiritually {#baptism-we-are-baptized-into-the-person-of-the-trinity-spiritually}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#what-exactly-does-being-baptized-into-god-becoming-united-with-him-as-part-of-the-body-of-christ-actually-mean"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="What exactly does being baptized into God (becoming united with Him, as part of the body of Christ) actually mean?"
+%}}
+
+## Believers {#believers}
+
+### Believers > Live lives of eternal, spiritual purpose {#believers-live-lives-of-eternal-spiritual-purpose}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#contrasting-eternal-life-and-eternal-death"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="Contrasting eternal life and eternal death"
+%}}
+
+## Blood of Christ {#blood-of-christ}
+
+### Blood of Christ > Satisfies both God's love and God's justice {#blood-of-christ-satisfies-both-god-s-love-and-god-s-justice}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/conclusions-the-essence-of-god/#an-overview-in-words"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Conclusions - The Essence of God"
+header-title="An overview in words"
 %}}
 
 ## Busybody behavior {#busybody-behavior}
@@ -259,6 +342,32 @@ page-title="Like Adam and Eve, we live in a broken world - as strangers in the d
 header-title="The contrast between pre-fall paradise and post-fall realities"
 %}}
 
+## Fallen angels {#fallen-angels}
+
+### Fallen angels > Desire for physical bodies {#fallen-angels-desire-for-physical-bodies}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#if-mankind-is-at-present-a-little-lower-than-the-angels-why-do-angels-desire-physical-bodies-like-ours"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="If mankind is at present \"a little lower than the angels\", why do angels desire physical bodies like ours?"
+%}}
+
+## Family of God {#family-of-god}
+
+### Family of God > Derives its name from the Father {#family-of-god-derives-its-name-from-the-father}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+
+%}}
+
 ## Forgiveness {#forgiveness}
 
 ### Forgiveness > Even if Jesus paid it all, it can be hard for us to embrace the forgiveness as we ought {#forgiveness-even-if-jesus-paid-it-all-it-can-be-hard-for-us-to-embrace-the-forgiveness-as-we-ought}
@@ -303,6 +412,15 @@ header-title="But they were included in Matthew's genealogy specifically to show
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/conclusions-the-essence-of-god/#an-overview-in-picture-form"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Conclusions - The Essence of God"
+header-title="An overview in picture form"
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
 link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-essence-of-god/"
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Introduction - The Essence of God"
@@ -340,6 +458,215 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduct
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Introduction - The Essence of God"
 header-title="Q: 1 Timothy 6:16 talks about God's unapproachable light. It also says God alone possess immortality. What does that latter statement mean?"
+%}}
+
+### God > Is *de facto* ruler of the universe {#god-is-de-facto-ruler-of-the-universe}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-is-unique"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God is Unique"
+%}}
+
+### God > Is *de jure* ruler of the universe {#god-is-de-jure-ruler-of-the-universe}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#god-is-sovereign"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="God is Sovereign"
+%}}
+
+### God > Is Spirit, but in a way different from the spirits of humans and angels {#god-is-spirit-but-in-a-way-different-from-the-spirits-of-humans-and-angels}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#what-does-it-mean-for-god-to-be-spirit-if-the-holy-spirit-is-just-one-member-of-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="What does it mean for God to be Spirit, if the Holy Spirit is just one member of the Trinity?"
+%}}
+
+### God > Is eternal {#god-is-eternal}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-is-eternal"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God is Eternal"
+%}}
+
+### God > Is faithful and true {#god-is-faithful-and-true}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#god-is-faithful-and-true"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="God is Faithful and True"
+%}}
+
+### God > Is good {#god-is-good}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#god-is-good"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="God is Good"
+%}}
+
+### God > Is holy {#god-is-holy}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#god-is-holy"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="God is Holy"
+%}}
+
+### God > Is immeasurable {#god-is-immeasurable}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-is-immeasurable-in-a-spatial-sense"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God is Immeasurable (in a spatial sense)"
+%}}
+
+### God > Is infinite in nature {#god-is-infinite-in-nature}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+
+%}}
+
+### God > Is just {#god-is-just}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#god-is-just"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="God is Just"
+%}}
+
+### God > Is life {#god-is-life}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#god-is-life"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="God is Life"
+%}}
+
+### God > Is love {#god-is-love}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#god-is-love"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="God is Love"
+%}}
+
+### God > Is omnipotent {#god-is-omnipotent}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-is-omnipotent"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God is Omnipotent"
+%}}
+
+### God > Is omnipresent {#god-is-omnipresent}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-is-omnipresent"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God is Omnipresent"
+%}}
+
+### God > Is omniscient {#god-is-omniscient}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-is-omniscient"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God is Omniscient"
+%}}
+
+### God > Is perfect in character {#god-is-perfect-in-character}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+
+%}}
+
+### God > Is sovereign {#god-is-sovereign}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#god-is-sovereign"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="God is Sovereign"
+%}}
+
+### God > Is spiritual {#god-is-spiritual}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-is-spiritual"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God is Spiritual"
+%}}
+
+### God > Is unique {#god-is-unique}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-is-unique"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God is Unique"
 %}}
 
 ### God > Name of God {#god-name-of-god}
@@ -397,6 +724,54 @@ page-title="Introduction - The Essence of God"
 header-title="Comment: God's glory as it relates to \"every knee will bow, and every tongue confess\""
 %}}
 
+## Hell {#hell}
+
+### Hell > People are sent only because of unbelief {#hell-people-are-sent-only-because-of-unbelief}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#how-is-it-just-for-unbelievers-to-face-infinite-eternal-punishment-for-finite-sins"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="\"How is it just for unbelievers to face infinite, eternal punishment for finite sins?\""
+%}}
+
+### Hell > There are no levels in hell {#hell-there-are-no-levels-in-hell}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#how-is-it-just-for-unbelievers-to-face-infinite-eternal-punishment-for-finite-sins"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="\"How is it just for unbelievers to face infinite, eternal punishment for finite sins?\""
+%}}
+
+## Holy Spirit {#holy-spirit}
+
+### Holy Spirit > Has always been present upon the Earth {#holy-spirit-has-always-been-present-upon-the-earth}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#why-wasn-t-the-spirit-sent-to-indwell-believers-before-he-actually-was-i-e-only-after-christ-s-ascension"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="Why wasn't the Spirit sent to indwell believers before He actually was (i.e., only after Christ's ascension)?"
+%}}
+
+### Holy Spirit > Indwelling ministry of {#holy-spirit-indwelling-ministry-of}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#why-wasn-t-the-spirit-sent-to-indwell-believers-before-he-actually-was-i-e-only-after-christ-s-ascension"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="Why wasn't the Spirit sent to indwell believers before He actually was (i.e., only after Christ's ascension)?"
+%}}
+
 ## In the world, but not of the world {#in-the-world-but-not-of-the-world}
 
 {{% subject-index-link
@@ -406,6 +781,43 @@ link="/longer-topical-studies/ichthys-sr4-satans-world-system/purpose-in-this-da
 study-title="Ichthys' SR4 - Satan's World System"
 page-title="Purpose in This Dark World Only Comes by Faith, Which Makes Us Outcasts Here but Chosen by God"
 header-title="Though strangers and outcasts in this world, our faith marks us out as God's chosen people"
+%}}
+
+## Infinity {#infinity}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+
+%}}
+
+## Interpretation {#interpretation}
+
+### Interpretation > Context often directly limits how words can be translated {#interpretation-context-often-directly-limits-how-words-can-be-translated}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+
+%}}
+
+### Interpretation > Symbolism {#interpretation-symbolism}
+
+#### Interpretation > Symbolism > Numbers {#interpretation-symbolism-numbers}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#revelation-1-4-what-is-going-on-with-the-mention-of-seven-spirits"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="Revelation 1:4 - What is going on with the mention of seven Spirits?"
 %}}
 
 ## Josephus {#josephus}
@@ -460,6 +872,17 @@ page-title="However, if Our Parents Are Out of Line, There Are Exceptions"
 header-title="Should we step in if people aren't parenting how we would?"
 %}}
 
+## Middle knowledge {#middle-knowledge}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-s-knowledge-of-hypotheticals"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God's knowledge of hypotheticals"
+%}}
+
 ## Minding your own business {#minding-your-own-business}
 
 {{% subject-index-link
@@ -471,6 +894,30 @@ page-title="However, if Our Parents Are Out of Line, There Are Exceptions"
 header-title="Should we step in if people aren't parenting how we would?"
 %}}
 
+## Molinism {#molinism}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-s-knowledge-of-hypotheticals"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God's knowledge of hypotheticals"
+%}}
+
+## Nephilim {#nephilim}
+
+### Nephilim > Satan's attack on the human bloodline {#nephilim-satan-s-attack-on-the-human-bloodline}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#what-does-it-mean-for-noah-to-be-called-perfect-in-his-generations"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="What does it mean for Noah to be called \"perfect in his generations\"?"
+%}}
+
 ## No man may see God and live {#no-man-may-see-god-and-live}
 
 {{% subject-index-link
@@ -480,6 +927,19 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduct
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Introduction - The Essence of God"
 header-title="Q: We say God dwells in this unapproachable light that no one has seen nor ever can see. What then of cases in scripture where people seem to have \"seen God?\""
+%}}
+
+## Omniscience {#omniscience}
+
+### Omniscience > includes knowledge of hypotheticals {#omniscience-includes-knowledge-of-hypotheticals}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-s-knowledge-of-hypotheticals"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God's knowledge of hypotheticals"
 %}}
 
 ## Parables {#parables}
@@ -611,6 +1071,28 @@ page-title="Confession, forgiveness, avoiding self-loathing, and reorienting tow
 header-title="Avoid self-loathing"
 %}}
 
+## Perfection {#perfection}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+
+%}}
+
+### Perfection > Is impossible for fallen mankind {#perfection-is-impossible-for-fallen-mankind}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#why-are-we-told-to-be-perfect-like-god-in-matthew-5-48-if-we-can-never-live-up-to-that-standard"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="Why are we told to be perfect like God in Matthew 5:48 if we can never live up to that standard?"
+%}}
+
 ## Philosophy {#philosophy}
 
 ### Philosophy > Perils of getting off in the weeds {#philosophy-perils-of-getting-off-in-the-weeds}
@@ -622,6 +1104,19 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduct
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Introduction - The Essence of God"
 header-title="Essence, nature, character... ???"
+%}}
+
+## Prophecy {#prophecy}
+
+### Prophecy > mechanics of {#prophecy-mechanics-of}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#the-relationship-between-future-prophecy-and-the-time-continuum"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="The relationship between future prophecy and the time continuum"
 %}}
 
 ## Protoevangelium {#protoevangelium}
@@ -736,6 +1231,19 @@ page-title="Confession, forgiveness, avoiding self-loathing, and reorienting tow
 header-title="Looking back is not productive for us as Christians"
 %}}
 
+## Spiritual gifts {#spiritual-gifts}
+
+### Spiritual gifts > Given after Christ's ascension {#spiritual-gifts-given-after-christ-s-ascension}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#why-wasn-t-the-spirit-sent-to-indwell-believers-before-he-actually-was-i-e-only-after-christ-s-ascension"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="Why wasn't the Spirit sent to indwell believers before He actually was (i.e., only after Christ's ascension)?"
+%}}
+
 ## Spiritual perspective {#spiritual-perspective}
 
 ### Spiritual perspective > Eyes on the prize {#spiritual-perspective-eyes-on-the-prize}
@@ -817,6 +1325,100 @@ page-title="Handling Several Other Matters"
 header-title="Dr. Luginbill of Ichthys.com responding"
 %}}
 
+## Trinity {#trinity}
+
+### Trinity > All members are deity {#trinity-all-members-are-deity}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+
+%}}
+
+### Trinity > Definition {#trinity-definition}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity"
+
+%}}
+
+### Trinity > Divinity {#trinity-divinity}
+
+#### Trinity > Divinity > Father {#trinity-divinity-father}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#the-father-is-god"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="The Father is God"
+%}}
+
+#### Trinity > Divinity > Holy Spirit {#trinity-divinity-holy-spirit}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#the-holy-spirit-is-god"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="The Holy Spirit is God"
+%}}
+
+#### Trinity > Divinity > Son {#trinity-divinity-son}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#the-son-is-god"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="The Son is God"
+%}}
+
+### Trinity > Scripture alone is sufficient for establishing the teaching {#trinity-scripture-alone-is-sufficient-for-establishing-the-teaching}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity/#is-the-terminology-itself-important-in-considering-the-development-of-this-doctrine"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity"
+header-title="Is the terminology itself important in considering the development of this doctrine?"
+%}}
+
+### Trinity > The teaching existed before the word "Trinity" was used for it {#trinity-the-teaching-existed-before-the-word-trinity-was-used-for-it}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity/#is-the-terminology-itself-important-in-considering-the-development-of-this-doctrine"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity"
+header-title="Is the terminology itself important in considering the development of this doctrine?"
+%}}
+
+### Trinity > What it is not {#trinity-what-it-is-not}
+
+#### Trinity > What it is not > Only one member possessing divinity {#trinity-what-it-is-not-only-one-member-possessing-divinity}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#key-point-god-is-one-in-essence-but-that-does-not-mean-that-only-one-person-of-the-trinity-is-deity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="Key point: God is *one* in essence, but that does *not* mean that only one person of the Trinity is deity"
+%}}
+
 ## Truth {#truth}
 
 ### Truth > Most people are blind to it {#truth-most-people-are-blind-to-it}
@@ -848,6 +1450,32 @@ link="/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr
 study-title="Ichthys' SR4 - Satan's World System"
 page-title="Introduction to SR4 - Satan's World System"
 header-title="Plato's Allegory of the Cave"
+%}}
+
+## Unbelievers {#unbelievers}
+
+### Unbelievers > Are already positionally dead {#unbelievers-are-already-positionally-dead}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#contrasting-eternal-life-and-eternal-death"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="Contrasting eternal life and eternal death"
+%}}
+
+## Unlimited atonement {#unlimited-atonement}
+
+### Unlimited atonement > Double jeopardy {#unlimited-atonement-double-jeopardy}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#how-is-it-just-for-unbelievers-to-face-infinite-eternal-punishment-for-finite-sins"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="\"How is it just for unbelievers to face infinite, eternal punishment for finite sins?\""
 %}}
 
 ## World {#world}
