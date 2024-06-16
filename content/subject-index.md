@@ -1349,6 +1349,17 @@ page-title="All Members of the Trinity Are Distinct Persons"
 
 %}}
 
+### Trinity > All members fully and equally share status, activity, and substance {#trinity-all-members-fully-and-equally-share-status-activity-and-substance}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-coequal-coeternal-and-consubstantial/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Coequal, Coeternal, and Consubstantial"
+
+%}}
+
 ### Trinity > Definition {#trinity-definition}
 
 {{% subject-index-link
@@ -1441,6 +1452,41 @@ page-title="Introduction - The Trinity"
 header-title="Is the terminology itself important in considering the development of this doctrine?"
 %}}
 
+### Trinity > Share {#trinity-share}
+
+#### Trinity > Share > Eternal function of deity {#trinity-share-eternal-function-of-deity}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-coequal-coeternal-and-consubstantial/#they-all-possess-a-full-and-equal-share-of-the-eternal-function-of-deity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Coequal, Coeternal, and Consubstantial"
+header-title="They all possess a full and equal share of the *eternal function* of deity"
+%}}
+
+#### Trinity > Share > Status of deity {#trinity-share-status-of-deity}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-coequal-coeternal-and-consubstantial/#they-all-possess-a-full-and-equal-share-of-the-status-of-deity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Coequal, Coeternal, and Consubstantial"
+header-title="They all possess a full and equal share of the *status* of deity"
+%}}
+
+#### Trinity > Share > Substance of deity {#trinity-share-substance-of-deity}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-coequal-coeternal-and-consubstantial/#they-all-possess-a-full-and-equal-share-of-the-substance-of-deity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Coequal, Coeternal, and Consubstantial"
+header-title="They all possess a full and equal share of the *substance* of deity"
+%}}
+
 ### Trinity > The teaching existed before the word "Trinity" was used for it {#trinity-the-teaching-existed-before-the-word-trinity-was-used-for-it}
 
 {{% subject-index-link
@@ -1453,6 +1499,17 @@ header-title="Is the terminology itself important in considering the development
 %}}
 
 ### Trinity > What it is not {#trinity-what-it-is-not}
+
+#### Trinity > What it is not > A union with inferiority or disparity between members {#trinity-what-it-is-not-a-union-with-inferiority-or-disparity-between-members}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-coequal-coeternal-and-consubstantial/#key-point-god-is-three-in-person-but-that-does-not-mean-that-there-is-any-inferiority-or-disparity-of-status-activity-or-substance-between-the-members-of-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Coequal, Coeternal, and Consubstantial"
+header-title="Key point: God is *three* in person, but that does *not* mean that there is any inferiority or disparity of status, activity, or substance between the members of the Trinity"
+%}}
 
 #### Trinity > What it is not > Only one member possessing divinity {#trinity-what-it-is-not-only-one-member-possessing-divinity}
 
