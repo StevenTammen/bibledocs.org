@@ -66,6 +66,7 @@ The number one objection to such illustrations is that God is divine, and since 
 
 This oldest of the Trinity illustrations is also in many ways the best, because the non-doctrinal point of comparison (i.e., the triangle) merely serves to organize visually the meaning imparted by the words: all three members of the Trinity are God ("*one in essence*"), yet they are distinct from each other ("*three in person*"):
 
+<!-- TODO -->
 ![The Trinity Triangle](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/illustrating-the-trinity/trinity-triangle.gif)
 
 <!-- --- -->

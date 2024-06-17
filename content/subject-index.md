@@ -39,6 +39,19 @@ page-title="Like Adam and Eve, we live in a broken world - as strangers in the d
 header-title="The actual introduction: Adam and Eve, and us"
 %}}
 
+## Afterlife {#afterlife}
+
+### Afterlife > Boundaries between the living and the dead as a literary theme {#afterlife-boundaries-between-the-living-and-the-dead-as-a-literary-theme}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death/#luke-16-on-the-chasm-of-separation"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Could You Explain More How All This Works with Respect to the Finality of Death?"
+header-title="Luke 16 - on the chasm of separation"
+%}}
+
 ## Angels {#angels}
 
 ### Angels > Are subject to matter {#angels-are-subject-to-matter}
@@ -146,6 +159,19 @@ page-title="God's Perfect Character"
 header-title="Contrasting eternal life and eternal death"
 %}}
 
+## Blood {#blood}
+
+### Blood > Use in ratification of covenants {#blood-use-in-ratification-of-covenants}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death/#hebrew-9-27-s-wider-context"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Could You Explain More How All This Works with Respect to the Finality of Death?"
+header-title="Hebrew 9:27's wider context"
+%}}
+
 ## Blood of Christ {#blood-of-christ}
 
 ### Blood of Christ > Satisfies both God's love and God's justice {#blood-of-christ-satisfies-both-god-s-love-and-god-s-justice}
@@ -244,6 +270,116 @@ page-title="But What About Matters That Tend Toward Gray More Than Black or Whit
 header-title="Cultural context is important"
 %}}
 
+## Death {#death}
+
+### Death > Cannot be avoided by anyone {#death-cannot-be-avoided-by-anyone}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death/#hebrews-9-27-perhaps-speaking-in-terms-of-types-of-death-was-a-poor-choice-on-my-part"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Could You Explain More How All This Works with Respect to the Finality of Death?"
+header-title="Hebrews 9:27 - Perhaps speaking in terms of \"types of death\" was a poor choice on my part"
+%}}
+
+### Death > Locations of believers and unbelievers after physical death {#death-locations-of-believers-and-unbelievers-after-physical-death}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#before-christ-s-ascension-vs-after-christ-s-ascension-vs-in-eternity-proper"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="Before Christ's ascension vs. after Christ's ascension vs. in eternity proper"
+%}}
+
+#### Death > Locations of believers and unbelievers after physical death > Are different in eternity {#death-locations-of-believers-and-unbelievers-after-physical-death-are-different-in-eternity}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#in-eternity-proper"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="In eternity proper"
+%}}
+
+#### Death > Locations of believers and unbelievers after physical death > Changed after Christ's ascension {#death-locations-of-believers-and-unbelievers-after-physical-death-changed-after-christ-s-ascension}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#after-christ-s-ascension"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="After Christ's ascension"
+%}}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#before-christ-s-ascension"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="Before Christ's ascension"
+%}}
+
+### Death > Physical death is when someone's human spirit departs their physical body {#death-physical-death-is-when-someone-s-human-spirit-departs-their-physical-body}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#defining-terms-physical-death-means-someone-s-human-spirit-departs-their-physical-body"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="Defining terms: physical death means someone's human spirit departs their physical body"
+%}}
+
+### Death > Types of {#death-types-of}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#types-of-death"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="Types of death"
+%}}
+
+### Death > What happens after physical death {#death-what-happens-after-physical-death}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#what-happens-after-that"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="What happens after that?"
+%}}
+
+#### Death > What happens after physical death > Believers {#death-what-happens-after-physical-death-believers}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#so-answering-that-question-of-what-happens-after-physical-death-in-the-normal-case"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="So answering that question of \"what happens after physical death, in the normal case?\""
+%}}
+
+#### Death > What happens after physical death > For those who were resuscitated {#death-what-happens-after-physical-death-for-those-who-were-resuscitated}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#and-what-about-for-those-who-are-resuscitated"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="And what about for those who are resuscitated?"
+%}}
+
 ## Definite articles {#definite-articles}
 
 ### Definite articles > Importance of {#definite-articles-importance-of}
@@ -329,6 +465,19 @@ link="/shorter-topical-studies/some-christians-will-achieve-greater-eternal-rewa
 study-title="Some Christians Will Achieve Greater Eternal Rewards Than Others"
 page-title="Introduction to the idea that some Christians will receive greater eternal rewards than others"
 header-title="Some general passages dealing with differing levels of eternal reward"
+%}}
+
+## Euphimism {#euphimism}
+
+### Euphimism > Use in scripture {#euphimism-use-in-scripture}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/lazarus-and-jairus-daughter-are-they-sleeping-or-dead/#jesus-describing-lazarus-as-sleeping-in-john-11"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Lazarus and Jairus' Daughter - Are They Sleeping or Dead?"
+header-title="Jesus' describing Lazarus as \"sleeping\" in John 11"
 %}}
 
 ## Every knee will bow {#every-knee-will-bow}
@@ -737,6 +886,41 @@ page-title="Introduction - The Essence of God"
 header-title="Comment: God's glory as it relates to \"every knee will bow, and every tongue confess\""
 %}}
 
+## Heaven {#heaven}
+
+### Heaven > Is upon the surface of the Earth in eternity, not up in the clouds {#heaven-is-upon-the-surface-of-the-earth-in-eternity-not-up-in-the-clouds}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#wait-is-it-just-human-spirits-in-these-places-but-what-about-resurrection-bodies"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="Wait, is it just human spirits in these places? But what about resurrection bodies?"
+%}}
+
+## Heavenly geography {#heavenly-geography}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#heavenly-geography"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="\"Heavenly geography\""
+%}}
+
+### Heavenly geography > Subdivisions of Hades {#heavenly-geography-subdivisions-of-hades}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death/#luke-16-on-the-chasm-of-separation"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Could You Explain More How All This Works with Respect to the Finality of Death?"
+header-title="Luke 16 - on the chasm of separation"
+%}}
+
 ## Hell {#hell}
 
 ### Hell > People are sent only because of unbelief {#hell-people-are-sent-only-because-of-unbelief}
@@ -783,6 +967,30 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-membe
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="All Members of the Trinity Are Deity"
 header-title="Why wasn't the Spirit sent to indwell believers before He actually was (i.e., only after Christ's ascension)?"
+%}}
+
+## Human beings {#human-beings}
+
+### Human beings > Are dichtomous, composed of flesh and spirit {#human-beings-are-dichtomous-composed-of-flesh-and-spirit}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#on-the-nature-and-composition-of-human-beings"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="On the nature and composition of human beings"
+%}}
+
+### Human beings > Are not trichotomous (we do not *have* souls, but *are* souls) {#human-beings-are-not-trichotomous-we-do-not-have-souls-but-are-souls}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#on-the-nature-and-composition-of-human-beings"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="On the nature and composition of human beings"
 %}}
 
 ## Image of God {#image-of-god}
@@ -833,7 +1041,66 @@ page-title="God's Infinite Nature"
 
 %}}
 
+## Interim bodies {#interim-bodies}
+
+### Interim bodies > Bodies obtained after physical death but before resurrection {#interim-bodies-bodies-obtained-after-physical-death-but-before-resurrection}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#interim-bodies"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="Interim bodies"
+%}}
+
 ## Interpretation {#interpretation}
+
+### Interpretation > Apparent contradictions {#interpretation-apparent-contradictions}
+
+#### Interpretation > Apparent contradictions > Hebrews 9:27 says people can only die once, but resuscitated people die twice {#interpretation-apparent-contradictions-hebrews-9-27-says-people-can-only-die-once-but-resuscitated-people-die-twice}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death/#so-hebrews-9-27-does-not-contradict-the-idea-of-resuscitation-qed"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Could You Explain More How All This Works with Respect to the Finality of Death?"
+header-title="So Hebrews 9:27 does not contradict the idea of resuscitation, QED"
+%}}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/lazarus-and-jairus-daughter-are-they-sleeping-or-dead/#what-of-hebrews-9-27"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Lazarus and Jairus' Daughter - Are They Sleeping or Dead?"
+header-title="What of Hebrews 9:27?"
+%}}
+
+### Interpretation > Challenges {#interpretation-challenges}
+
+#### Interpretation > Challenges > Different cultures use different idioms, metaphors, and so on {#interpretation-challenges-different-cultures-use-different-idioms-metaphors-and-so-on}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/lazarus-and-jairus-daughter-are-they-sleeping-or-dead/#jesus-describing-lazarus-as-sleeping-in-john-11"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Lazarus and Jairus' Daughter - Are They Sleeping or Dead?"
+header-title="Jesus' describing Lazarus as \"sleeping\" in John 11"
+%}}
+
+#### Interpretation > Challenges > Different people in the Bible can have the same name {#interpretation-challenges-different-people-in-the-bible-can-have-the-same-name}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/lazarus-and-jairus-daughter-are-they-sleeping-or-dead/#first-of-all-the-lazarus-of-luke-16-is-not-the-same-lazarus-as-john-11"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Lazarus and Jairus' Daughter - Are They Sleeping or Dead?"
+header-title="First of all, the Lazarus of Luke 16 is not the same Lazarus as John 11"
+%}}
 
 ### Interpretation > Context often directly limits how words can be translated {#interpretation-context-often-directly-limits-how-words-can-be-translated}
 
@@ -844,6 +1111,99 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-membe
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="All Members of the Trinity Are Deity"
 
+%}}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death/#the-greek-adverb-hapax"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Could You Explain More How All This Works with Respect to the Finality of Death?"
+header-title="The Greek adverb *hapax*"
+%}}
+
+### Interpretation > Inferences have their place when they only go so far as the evidence allows {#interpretation-inferences-have-their-place-when-they-only-go-so-far-as-the-evidence-allows}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#interim-bodies"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="Interim bodies"
+%}}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/lazarus-and-jairus-daughter-are-they-sleeping-or-dead/#it-is-not-a-euphemism-this-time-but-something-completely-different"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Lazarus and Jairus' Daughter - Are They Sleeping or Dead?"
+header-title="It is not a euphemism this time, but something completely different"
+%}}
+
+### Interpretation > NT Principles {#interpretation-nt-principles}
+
+#### Interpretation > NT Principles > "Jesus' time had not yet come" {#interpretation-nt-principles-jesus-time-had-not-yet-come}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/lazarus-and-jairus-daughter-are-they-sleeping-or-dead/#it-is-not-a-euphemism-this-time-but-something-completely-different"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Lazarus and Jairus' Daughter - Are They Sleeping or Dead?"
+header-title="It is not a euphemism this time, but something completely different"
+%}}
+
+#### Interpretation > NT Principles > "Once for all" {#interpretation-nt-principles-once-for-all}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death/#the-importance-of-the-once-for-all-concept-as-it-pertains-to-christ-s-work-completely-forces-our-hand-in-translating-hebrews-9-26-28"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Could You Explain More How All This Works with Respect to the Finality of Death?"
+header-title="The importance of the \"once for all\" concept as it pertains to Christ's work completely forces our hand in translating Hebrews 9:26, 28"
+%}}
+
+### Interpretation > Semantic overloading - words with unique connotations stemming from multiple meanings {#interpretation-semantic-overloading-words-with-unique-connotations-stemming-from-multiple-meanings}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/does-jesus-use-of-the-sleeping-terminology-have-anything-to-do-with-resuscitation/#more-explanation-about-how-sleeping-and-death-are-tightly-linguistically-coupled"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Does Jesus' Use of the Sleeping Terminology Have Anything to Do with Resuscitation?"
+header-title="More explanation about how sleeping and death are tightly linguistically coupled"
+%}}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#defining-terms-physical-death-means-someone-s-human-spirit-departs-their-physical-body"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="Defining terms: physical death means someone's human spirit departs their physical body"
+%}}
+
+### Interpretation > Sensitivity to the cultural context of the audience to whom the text was written {#interpretation-sensitivity-to-the-cultural-context-of-the-audience-to-whom-the-text-was-written}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/lazarus-and-jairus-daughter-are-they-sleeping-or-dead/#jesus-describing-jairus-daughter-as-sleeping-in-matthew-9"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Lazarus and Jairus' Daughter - Are They Sleeping or Dead?"
+header-title="Jesus' describing Jairus' daughter as \"sleeping\" in Matthew 9"
+%}}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/lazarus-and-jairus-daughter-are-they-sleeping-or-dead/#jesus-describing-lazarus-as-sleeping-in-john-11"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Lazarus and Jairus' Daughter - Are They Sleeping or Dead?"
+header-title="Jesus' describing Lazarus as \"sleeping\" in John 11"
 %}}
 
 ### Interpretation > Symbolism {#interpretation-symbolism}
@@ -857,6 +1217,19 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-membe
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="All Members of the Trinity Are Deity"
 header-title="Revelation 1:4 - What is going on with the mention of seven Spirits?"
+%}}
+
+## Jesus {#jesus}
+
+### Jesus > Intentionally avoided celebrity {#jesus-intentionally-avoided-celebrity}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/lazarus-and-jairus-daughter-are-they-sleeping-or-dead/#it-is-not-a-euphemism-this-time-but-something-completely-different"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Lazarus and Jairus' Daughter - Are They Sleeping or Dead?"
+header-title="It is not a euphemism this time, but something completely different"
 %}}
 
 ## Josephus {#josephus}
@@ -995,6 +1368,17 @@ header-title="God's knowledge of hypotheticals"
 %}}
 
 ## Parables {#parables}
+
+### Parables > How do you know if something is a parable or actually happened? {#parables-how-do-you-know-if-something-is-a-parable-or-actually-happened}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/lazarus-and-jairus-daughter-are-they-sleeping-or-dead/#first-of-all-the-lazarus-of-luke-16-is-not-the-same-lazarus-as-john-11"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Lazarus and Jairus' Daughter - Are They Sleeping or Dead?"
+header-title="First of all, the Lazarus of Luke 16 is not the same Lazarus as John 11"
+%}}
 
 ### Parables > Parable of the minas {#parables-parable-of-the-minas}
 
@@ -1202,6 +1586,32 @@ page-title="Dealing With the Main Arguments Against a Single Rahab Interpretatio
 
 %}}
 
+## Resurrection {#resurrection}
+
+### Resurrection > Bodies obtained after resurrection {#resurrection-bodies-obtained-after-resurrection}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#wait-is-it-just-human-spirits-in-these-places-but-what-about-resurrection-bodies"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="Wait, is it just human spirits in these places? But what about resurrection bodies?"
+%}}
+
+## Resuscitation {#resuscitation}
+
+### Resuscitation > Is different from resurrection {#resuscitation-is-different-from-resurrection}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/lazarus-and-jairus-daughter-are-they-sleeping-or-dead/#what-of-hebrews-9-27"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Lazarus and Jairus' Daughter - Are They Sleeping or Dead?"
+header-title="What of Hebrews 9:27?"
+%}}
+
 ## Satan {#satan}
 
 ### Satan > Is already positionally defeated {#satan-is-already-positionally-defeated}
@@ -1292,6 +1702,45 @@ page-title="Confession, forgiveness, avoiding self-loathing, and reorienting tow
 header-title="Looking back is not productive for us as Christians"
 %}}
 
+## Sleep {#sleep}
+
+### Sleep > As a euphemism for death {#sleep-as-a-euphemism-for-death}
+
+#### Sleep > As a euphemism for death > Does not necessarily point to eventual resuscitation {#sleep-as-a-euphemism-for-death-does-not-necessarily-point-to-eventual-resuscitation}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/does-jesus-use-of-the-sleeping-terminology-have-anything-to-do-with-resuscitation/"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Does Jesus' Use of the Sleeping Terminology Have Anything to Do with Resuscitation?"
+
+%}}
+
+### Sleep > As a euphimism for death {#sleep-as-a-euphimism-for-death}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/lazarus-and-jairus-daughter-are-they-sleeping-or-dead/#jesus-describing-lazarus-as-sleeping-in-john-11"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Lazarus and Jairus' Daughter - Are They Sleeping or Dead?"
+header-title="Jesus' describing Lazarus as \"sleeping\" in John 11"
+%}}
+
+## Soul {#soul}
+
+### Soul > Is the combination of flesh and spirit {#soul-is-the-combination-of-flesh-and-spirit}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#on-the-nature-and-composition-of-human-beings"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="On the nature and composition of human beings"
+%}}
+
 ## Spiritual gifts {#spiritual-gifts}
 
 ### Spiritual gifts > Given after Christ's ascension {#spiritual-gifts-given-after-christ-s-ascension}
@@ -1329,6 +1778,19 @@ page-title="However, if Our Parents Are Out of Line, There Are Exceptions"
 header-title="Spousal abuse and divorce"
 %}}
 
+## Tabernacle {#tabernacle}
+
+### Tabernacle > Contrast between earthly and heavenly {#tabernacle-contrast-between-earthly-and-heavenly}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death/#hebrew-9-27-s-wider-context"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Could You Explain More How All This Works with Respect to the Finality of Death?"
+header-title="Hebrew 9:27's wider context"
+%}}
+
 ## Tetragrammaton {#tetragrammaton}
 
 {{% subject-index-link
@@ -1347,6 +1809,21 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduct
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Introduction - The Essence of God"
 header-title="The essence of God is being. He is the Great I AM"
+%}}
+
+## Textual criticism {#textual-criticism}
+
+### Textual criticism > Places where it matters {#textual-criticism-places-where-it-matters}
+
+#### Textual criticism > Places where it matters > 1 Corinthians 5:3 {#textual-criticism-places-where-it-matters-1-corinthians-5-3}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#interim-bodies"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="Interim bodies"
 %}}
 
 ## Theophany {#theophany}
