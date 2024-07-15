@@ -12,7 +12,7 @@ summary: >-
 
 The interface for this site is unapologetically geeky in what it sets out to do. I spent many months researching, designing, and testing functionality, even coding a good bit myself since I wasn't particularly happy with any of the off-the-shelf options available to me.
 
-Now, however, I am pretty happy with the results and overall user experience. While I am of course quite biased, I really do feel like this site offers quite a bit more useful content functionality than most sites out there -- and by several orders of magnitude at that.
+Now, however, I am pretty happy with the results and overall user experience. While I am of course quite biased, I really do feel like this site offers quite a bit more useful content functionality than most sites out there---and by several orders of magnitude at that.
 
 I do recommend reading this page pretty thoroughly if you wish to take advantage of all this site has to offer. There may be a bit of a learning curve, but some of the neat things you can do probably won't completely make sense until you do.
 
@@ -75,11 +75,11 @@ The embedded STEP Bible app windows offer lots of useful functionality for lay C
 - Cross-linked Greek and Hebrew lexicons. For lay Christians, these are useful mostly just to be able to get a bit fuller view of the original language vocabulary behind the English, rather than going much further than that.
 
 {{% cautionary-note %}}
-It is not a very good idea to draw grand sweeping conclusions from lexicons in a vacuum, that is, without an accompanying more complete understanding of Greek and Hebrew approaching the level of actual reading fluency. There is a lot more to "knowing the original languages" than simply looking at lexicons, and it is easy to make assumptions that aren't necessarily valid if one has only a surface level of knowledge.
+It is not a very good idea to draw grand sweeping conclusions from lexicons in a vacuum; that is, without an accompanying more complete understanding of Greek and Hebrew approaching the level of actual reading fluency. There is a lot more to "knowing the original languages" than simply looking at lexicons, and it is easy to make assumptions that aren't necessarily valid if one has only a surface level of knowledge.
 
 Lexicons and interlinears make it all too easy to overestimate one's own knowledge, in other words. This doesn't mean lay Christians can't make use of such tools (such a rule would be blatant legalism), but it is just necessary to exercise caution in doing such, taking care to remember that God has called most Christians in the body of Christ to submit to pastor-teachers who have more knowledge than themselves.
 
-It is a hard thing to accept ("Well, easy for you to say, Mr. Teacher, but what about me as a lay Christian?!"), but a necessary one. Humility is a critical part of what we might term "teachability." And since God has seen fit for spiritual truth to come through pastor-teachers in this present age, being less teachable on account of resisting teachers' authority -- instead trying to do everything on your own (all the while lacking at least some of the requisite knowledge for going about things responsibly) -- will necessarily lead to less spiritual growth, and perhaps a lot less at that.
+It is a hard thing to accept ("Well, easy for you to say, Mr. Teacher, but what about me as a lay Christian?!"), but a necessary one. Humility is a critical part of what we might term "teachability." And since God has seen fit for spiritual truth to come through pastor-teachers in this present age, being less teachable on account of resisting teachers' authority---instead trying to do everything on your own (all the while lacking at least some of the requisite knowledge for going about things responsibly)---will necessarily lead to less spiritual growth, and perhaps a lot less at that.
 {{% /cautionary-note %}}
 
 {{% sidenote %}}
@@ -179,9 +179,9 @@ This list is exhaustive. Eventually, I will get around to coding support for dyn
 
 This site automatically tags scripture references in the Bible version of your choice, displaying them in a tooltip/pop-up. You can change which Bible version references will be displayed in [on the settings page](/settings/#reftagger-settings) (e.g., NIV, ESV, NASB, NKJV, etc.). This is far from the only site to automatically tag Bible verses, but many do not make it possible to change the version, leaving you stuck with whatever the default is on their site (even if you'd rather use a different version).
 
-You can also choose to have verses be tagged with a small L to the right of the reference, which will open the passage in Logos Bible Software. I have this off by default (to reduce visual clutter for all those for whom this is not relevant), but if you are a Logos user, this is very convenient.
+You can also choose to have verses be tagged with a small L to the right of the reference, which will open the passage in [Logos Bible Software](https://www.logos.com/). I have this off by default (to reduce visual clutter for all those for whom this is not relevant), but if you are a Logos user, this is very convenient.
 
-All this is implemented with [Reftagger](https://faithlife.com/products/reftagger), a nice free tool provided by the folks over at Faithlife. (The makers of Logos Bible Software -- hence the integration).
+All this is implemented with [Reftagger](https://faithlife.com/products/reftagger), a nice free tool provided by the folks over at Faithlife. (The makers of Logos Bible Software---hence the integration).
 
 ## Dynamic footnotes with hover behavior
 
@@ -201,11 +201,11 @@ Here is another footnote, [^link] this one with a link. Being able to link to th
 
 Having written around a dozen lengthy formal papers across my two humanities majors in college (my two longest were [a term paper for an 8000-level classics graduate seminar](https://www.steventammen.com/writings/class-power-and-influence-who-killed-priscillian.pdf) and [a research paper funded by my University's center for undergraduate research](https://www.steventammen.com/writings/better-unicode-text-entry-for-ancient-greek.pdf)), I hate citations and bibliographical formatting with all the burning passion of 10,000 dying suns. No exaggeration. Both of the papers I linked above had multiple dozens of citations across their 30+ page lengths. I still recoil in remembrance of the hours I had to spend dealing with all this nonsense in those papers.
 
-This notwithstanding, I am a *huge* proponent of intertextuality and rigor in writing, being meticulous in supporting all points wherever useful and beneficial. There are parts of academia I find positively intolerable (which parts led to me adding a third major in Computer Science and ending up a software engineer rather than a Classics professor), but the practiced skepticism of all assertions without evidence is not one of them. The scholar within me takes great pleasure in thoroughly-researched and well-supported writing, no matter what it is about. (Sometimes I even find it enjoyable to read excellently-done academic writing in fields I am not otherwise unduly interested in).
+This notwithstanding, I am a *huge* proponent of intertextuality and rigor in writing---of being meticulous in supporting all points wherever useful and beneficial. There are parts of academia I find positively intolerable (which parts led to me adding a third major in Computer Science and ending up a software engineer rather than a Classics professor), but the practiced skepticism of all assertions without evidence is not one of them. The scholar within me takes great pleasure in thoroughly-researched and well-supported writing, no matter what it is about. (Sometimes I even find it enjoyable to read excellently-done academic writing in fields I am not otherwise unduly interested in).
 
-Unfortunately, paywalls cripple usable intertextuality in almost all of academia proper. Scummy for-profit publishing corporations keep human knowledge (even taxpayer-funded human knowledge) behind lock and key. For whatever inexplicable reason, lots of academics also seem hell-bent on keeping everything printed in dusty physical books rather than publishing resources on indexable computer networks. Having dealt with enough inter-library loans in my day -- just to cite a paragraph or two accurately -- I still get depressed at how much knowledge is made largely inaccessible for no particularly good reason.
+Unfortunately, paywalls cripple usable intertextuality in almost all of academia proper. Scummy for-profit publishing corporations keep human knowledge (even taxpayer-funded human knowledge) behind lock and key. For whatever inexplicable reason, lots of academics also seem hell-bent on keeping everything printed in dusty physical books rather than publishing resources on indexable computer networks. Having dealt with enough inter-library loans in my day---just to cite a paragraph or two accurately---I still get depressed at how much knowledge is made largely inaccessible for no particularly good reason.
 
-At any rate, soapbox aside, I wanted a way to make referencing resources other than my own completely seamless -- something instant, something with actually-good user experience. The internet supports general reference to pages and sections with hyperlinks and id attributes (on header tags, for example), but I want to be able to link *directly* to the paragraphs or even sentences I reference. Why not? It is technically possible, and has been for many years. So why in the world isn't it done absolutely everywhere, since it is so superior?
+At any rate, soapbox aside, I wanted a way to make referencing resources other than my own completely seamless---something instant, something with actually-good user experience. The internet supports general reference to pages and sections with hyperlinks and id attributes (on header tags, for example), but I want to be able to link *directly* to the paragraphs or even sentences I reference. Why not? It is technically possible, and has been for many years. So why in the world isn't it done absolutely everywhere, since it is so superior?
 
 While it is still mysterious to me why very few others implement these seemingly-obviously-superior direct sentence-level citation links, I *can* explain how I accomplish such in the materials of this site. This will be the focus of the next several sections.
 
@@ -216,7 +216,7 @@ Links to fine-grained content on public webpages are easy to accomplish via [Goo
 * [GoogleChromeLabs/link-to-text-fragment: Browser extension that allows for linking to arbitrary text fragments.](https://github.com/GoogleChromeLabs/link-to-text-fragment)
 * [Boldly link where no one has linked before: Text Fragments](https://web.dev/text-fragments/)
 
-Unfortunately, at the moment, text fragment links (deep links on webpages to specific text segments, like sentences) presently only work in Chromium based browsers -- like Google Chrome and Microsoft Edge. The links simply do not work in Firefox or Safari, because those browsers have not yet chosen to implement the functionality. (Boo, hiss).
+Unfortunately, at the moment, text fragment links (deep links on webpages to specific text segments, like sentences) presently only work in Chromium based browsers---like Google Chrome and Microsoft Edge. The links simply do not work in Firefox or Safari, because those browsers have not yet chosen to implement the functionality. (Boo, hiss).
 
 In practice, this means this functionality will only work if you view this site on Google Chrome or Microsoft Edge. Chrome has the largest browser market share by quite a lot, which is fortunate in this instance, but if you are one of the folks that uses Firefox or Safari, sorry but no dice. For this reason alone, I would recommend reading the materials of this site in Chrome or Edge.
 
@@ -227,13 +227,13 @@ This site uses these links very frequently for:
 
 ### Direct links to published resources (like Bible dictionaries, lexicons, and so on)
 
-While there is an incredible wealth of free reference resources, much of the scholarship is older. This actually tends to be advantageous in terms of the general outlook (there was more general scholastic conservatism and respect for the inspiration of the Bible in the past, particularly in pre-WWII scholarship), but there have been some important archeological discoveries (such as the Dead Sea Scrolls) and advancements in scholarship in some specific fields since then.
+While there are many excellent free reference resources out there, much of the scholarship is older. This actually tends to be advantageous in terms of the general outlook (there was more general scholastic conservatism and respect for the inspiration of the Bible in the past, particularly in pre-WWII scholarship), but there have been some important archeological discoveries (such as the Dead Sea Scrolls) and advancements in scholarship in some specific fields since then.
 
 For this reason, it is often beneficial to turn to modern resources as well. Unfortunately, modern resources are still under copyright, which makes the above method of instant linking not workable, since it requires public webpages. For this reason, it becomes necessary to link to resources via Bible software programs. I use two programs to accomplish such: [Logos](https://www.logos.com/) and [Olive Tree](https://www.olivetree.com/).
 
 #### Logos and OliveTree
 
-To my knowledge, Logos is the only Bible software program at the moment to support direct sentence-level resource links, and this advantage is absolutely massive. It is also the only of the three big players ([Logos](https://www.logos.com/), [Accordance](https://accordancebible.com/), [Olive Tree](https://www.olivetree.com/)) to have a full webapp (letting you access your library from any computer, even without having any software installed), which is the usage I recommend for many or even most normal people, as it simplifies things. For these reasons, I own most of my reference resources in Logos.
+To my knowledge, at time of writing, Logos is the only Bible software program at the moment to support direct sentence-level resource links, and this advantage is absolutely massive. It is also the only of the three big players ([Logos](https://www.logos.com/), [Accordance](https://accordancebible.com/), [Olive Tree](https://www.olivetree.com/)) to have a full webapp (letting you access your library from any computer, even without having any software installed), which is the usage I recommend for many or even most normal people, as it simplifies things. For these reasons, I own most of my reference resources in Logos.
 
 There are a few resources that Logos doesn't offer that I own in OliveTree. While OliveTree doesn't really support resource hyperlinking, it does [have an API for jumping to specific verses by hyperlink](https://github.com/OliveTreeBible/OliveTreeUrlExample), which is at least better than nothing. It so happens that all of the resources I use and recommend for OliveTree are scrolled in-line with scripture, such that it is possible to reference them in this somewhat-roundabout way. What I mean by this will become clearer below.
 
@@ -245,9 +245,9 @@ For easy identification, all links to resources external to Bible software are p
 
 {{% /note %}}
 
-As much as possible, I link to things in Bible study software (Logos and OliveTree) directly. As to things external to Bible software, non-webpage things that I can actually link (e.g., a PDF of something on [Archive.org](https://archive.org/)), I do. Otherwise, the link is where to purchase the resource (or at least one option for such -- I generally prioritize Amazon links). Any true web resources are linked the text fragment way, [as described above](#direct-links-to-website-quotes).
+As much as possible, I link to things in Bible study software (Logos and OliveTree) directly. As to things external to Bible software, non-webpage things that I can actually link (e.g., a PDF of something on [Archive.org](https://archive.org/)), I do. Otherwise, the link is where to purchase the resource (or at least one option for such---I generally prioritize Amazon links). Any true web resources are linked the text fragment way, [as described above](#direct-links-to-website-quotes).
 
-I create the link text for different resource links a bit differently, so give pertinent examples of all the types here. All resources (both those linked in Bible software and those linked external to it) obey these rules. So, for example, reference works external to Bible software programs are linked in essentially the same way as those that are in them -- that is, [sometimes by section name, and sometimes by page number](#digital-reference-works).
+I create the link text for different resource links a bit differently, so give pertinent examples of all the types here. All resources (both those linked in Bible software and those linked external to it) obey these rules. So, for example, reference works external to Bible software programs are linked in essentially the same way as those that are in them---that is, [sometimes by section name, and sometimes by page number](#digital-reference-works).
 
 You can see the full list of resources I use and quote from in the site's [resource index](/resource-index). Note that I use resource abbreviations (or at least partial abbreviations) quite frequently; these abbreviations are defined in this index.
 
@@ -325,7 +325,7 @@ Examples:
 
 The links are constructed as {Reference Work} > {Section} (if a specific section is in view) or {Reference Work} > {Location} (if the link is to a specific volume/page).
 
-These sorts of links encompass more general reference works that aren't organized by verse or topic -- books, in other words. Works on systematic theology, church history, and so forth are thus linked in this way.
+These sorts of links encompass more general reference works that aren't organized by verse or topic---books, in other words. Works on systematic theology, church history, and so forth are thus linked in this way.
 
 Examples:
 

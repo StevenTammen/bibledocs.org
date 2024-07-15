@@ -14,11 +14,11 @@ Much content on this site is offered across all three communication mediums: tex
 
 {{% note %}}
 
-It is my hope that these slides may be a great help to those who wish to use the materials of this site in their own Bible teaching endeavors -- while the materials of this site are copyrighted, as long as proper attribution is given, they may be used in all non-commercial endeavors without any other strings attached. (The limiting to non-commercial endeavors is because I am against making money off of the teaching of the Word of God, as a general principle). So here, you can freely teach through any of the slideshow presentations yourself, as long you don't pass them off as your own, but instead say something to the effect of "I didn't make these -- they came from BibleDocs" and give a link to the site.
+It is my hope that these slides may be a great help to those who wish to use the materials of this site in their own Bible teaching endeavors---while the materials of this site are copyrighted, as long as proper attribution is given, they may be used in all non-commercial endeavors without any other strings attached. (The limiting to non-commercial endeavors is because I am against making money off of the teaching of the Word of God, as a general principle). So here, you can freely teach through any of the slideshow presentations yourself, as long you don't pass them off as your own, but instead say something to the effect of "I didn't make these---they came from BibleDocs" and give a link to the site.
 
 {{% /note %}}
 
-As to videos, they primarily live on [this ministry's YouTube channel](https://www.youtube.com/channel/UCFk7khraAKf68DZ5GeYEFIw).
+As to videos, they primarily live on [this ministry's YouTube channel](https://www.youtube.com/channel/UCFk7khraAKf68DZ5GeYEFIw), and the audio lives on the respective podcasts (TODO).
 
 <!--
 
@@ -28,7 +28,7 @@ TODO: videos and audio on archive.org, set up Podcasts and stream on Google Cast
 
 ### There will always tend to be at least some text content that is not yet backed by video and audio
 
-The order in which content is filled out is always text ➜ video/audio; that is, at any given point in time, there will almost certainly be some written studies on the site that I have not yet recorded the videos for. Making the videos<!--, ripping the audio, --> and then subsequently making the timestamps/transcripts is not terribly complicated, but it does take some time and effort.
+The order in which content is filled out is always text ➜ video/audio; that is, at any given point in time, there will almost certainly be some written studies on the site that I have not yet recorded the videos for. Making the videos and then subsequently organizing the timestamps/transcripts is not terribly complicated now that I've automated most of the process, but it does take some effort nonetheless. The time to record things, if nothing else.
 
 Once I have checked-over and polished some content, I may be comfortable releasing it on the site (in written form) before I really feel like it is the right time for me to make the video for it. It may prove to be useful to people in written form long before I might be able to get around to making the video, so why wouldn't I let people make use of it in this intervening period?
 
@@ -46,23 +46,25 @@ Thus, when I am working on a longer piece, video production may lag even more be
 
 This is because:
 
-1. Some people tend to generally learn better via one specific medium, and this can differ by individual. (It is especially important from an accessibility standpoint: dyslexia, blindness, and deafness all pose no issue if you support all three mediums).
-2. Even for the same individual, different mediums can be better at different times. For example, if you are cooking dinner or working out at the gym, it might be difficult to read a text study, but listening to an audio version of it might work.
+1. Dyslexia, blindness, and deafness all pose no issue if you support all three content mediums (and keep accessibility in mind in your design generally).
+2. According to current scientific understanding (at least as far as I understand it), most people actually learn best when you combine content mediums. This is not so much in the sense of "learning styles" (something along the lines that some might people learn better from visual sources vs. auditory sources vs. kinesthetic sources, or what have you)---that idea has been largely debunked (e.g., you might see [this article](https://www.educationnext.org/stubborn-myth-learning-styles-state-teacher-license-prep-materials-debunked-theory/))---but in the sense that science actually generally supports the idea that multi-modal learning yields superior outcomes (e.g., you might see [this article](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(22)00268-6)). That is, text/visuals *and* audio is better than just text/visuals or just audio. At least, that's the general idea.
+3. Different mediums can obviously be better at different times. For example, if you are cooking dinner or working out at the gym, it might be difficult to read a text study, but listening to an audio version of it might work.
 
-In general, text specifically is good when you are searching for something, if you want to read back a bit to situate where you are (that is, you find yourself getting lost in the discussion and want to refresh yourself on the context), and/or if you want to compare different parts of a study side-by-side. Put differently, text has certain advantages in serious study that the other mediums simply cannot match, and is for that reason irreplaceable, in my estimation.
+In general, text specifically is good when you are skimming something, when you are searching for something, if you want to read back a bit to situate where you are (that is, you find yourself getting lost in the discussion and want to refresh yourself on the context), and/or if you want to compare different parts of a study side-by-side. Put differently, text has certain advantages in serious study that the other mediums simply cannot match, and is for that reason irreplaceable, in my estimation.
 
-Other than these considerations, however, you can go with whichever medium works best for you. I recommend mixing and matching based upon circumstances. (So, for example, text and videos when you have time to sit down and focus, and maybe audio when you are multitasking with other things but still want to listen to the studies).
+Other than these considerations, however, you can go with whichever medium works best for you at any given time. I recommend mixing and matching based upon circumstances. (So, for example, text and videos when you have time to sit down and focus, and maybe some podcast episodes when you are multitasking with other things but still want to listen to the studies, since something is better than nothing).
 
 ### Content supporting all three communication mediums has many facets
 
 There are a great many things that go into the organization of content that spans across all three communication mediums:
 
-- A descriptive title
-- A link to the video playlist for the wider study the content is a part of
 <!--
 - A link to download the video for offline use (as an .mp4 file)
 - A link to download the audio for offline use (as an .mp3 file)
 -->
+
+- A descriptive title
+- A link to the video playlist for the wider study the content is a part of
 - A link to see the full slides of the presentation
 - A concise summary of the topics the content discusses
 - Full timestamps by topic (these apply to both the video and the audio)
@@ -85,8 +87,6 @@ The Longer Topical Studies on this site go over things topically (tracing a subj
 
 The Verse-by-verse Studies on this site go over things one verse at a time (sticking with a specific part of scripture rather than tracing a subject). I have adopted the practice of covering verses as I feel led to, which means that in addition to going through entire books of the Bible in order, sometimes the verse-by-verse content on this site will tend to be more scattershot, tackling some difficult verses here and there across many different books. Over time, of course, I hope to have the coverage and continuity increase.
 
-Not every single thing written in these verse-by-verse studies on the site will have a video made about it, but only the things of sufficient length and complexity to merit such. This means that there will be a number of shorter notes that will only show up as text on the study webpages (which are organized by chapter).
-
 ### Q&As
 
 The Q&As on this site are dedicated to treatments of various topics, organized in a question and answer format. Some of these Q&As come from correspondence with site readers, while others (both questions and answers) are completely of my own creation.
@@ -97,7 +97,7 @@ The "answers" contained herein are not necessarily to be taken as holy and unque
 
 Content types cluster content based on its primary area of focus (as in brief treatments of specific topics vs. verse-by-verse notes on the text of the Bible, for example). Dividing the content along these groupings makes good sense, to make sure that all similar content ends up listed in the same place.
 
-Within each content type, webpages can be further categorized into three hierarchical layers, by page type. On top, we have list pages, which list out all the studies within a content type by title and summary. Clicking on one of these on the list page will take you to the aggregation page for that study, which contains the aggregation of content pages in the study, all strung together in the same place for easier skimming and searching. You can click on a top-level header on the aggregation page to be taken to the corresponding content page, if you want to read sequentially (one block of content at a time) rather than skim through or search through everything altogether.
+Within each content type, webpages can be further categorized into three hierarchical layers, by page type. On top, we have list pages, which list out all the studies within a content type by title and summary. Clicking on one of these studies on the list page will take you to the aggregation page for that study, which contains the aggregation of content pages in the study, all strung together in the same place for easier skimming and searching. You can click on a top-level header on the aggregation page to be taken to the corresponding content page, if you want to read sequentially (one block of content at a time) rather than skim through or search through everything altogether.
 
 Speaking by manner of rough analogy, list pages are like library indices (giving you titles and summaries to pick between books on a shelf), aggregation pages are like books (a collection of chapters strung together), and content pages are like individual chapters.
 
@@ -143,6 +143,8 @@ Pages of this type aggregate all content within a study in the same place (that 
 
 On aggregation pages, content sections and transcript sections can be toggled to show or hide their contents. By default, they hide their contents. This is so because content sections and transcript sections are by far the longest and least useful sections for skimming (relative to summaries and timestamps, which give you far more information at a glance).
 
+While verse-by-verse studies don't have list pages in the same way as the other content types (since they split things out by book/chapter rather than study), they do have aggregation pages---inasmuch as the page for each chapter is in essence an aggregation page---and the headers on these chapter pages correspond to individual content pages, just as with the other content types.
+
 #### Clickable headers: navigating to content pages
 
 Top-level headers on aggregation pages are links to each respective content page in the study. If you click on one of these links, you will be taken to the actual content page, where you can start reading sequentially (one block of content at a time) rather than skimming through or searching through everything altogether.
@@ -175,13 +177,13 @@ You can also toggle the visibility of all content sections or transcript section
 
 ### Content pages
 
-Pages of this type contain a neatly-boxed treatment of a topic -- the content related to a single slice of the pie. There may be many content pages in any given wider study, grouped together on aggregation pages for easy searching and skimming ([see above](#aggregation-pages)). If you view the organization of pages as a pyramid-like tree, content pages are on the wide, bottom part of the pyramid.
+Pages of this type contain a neatly-boxed treatment of a topic---the content related to a single slice of the pie. There may be many content pages in any given wider study, grouped together on aggregation pages for easy searching and skimming ([see above](#aggregation-pages)). If you view the organization of pages as a pyramid-like tree, content pages are on the wide, bottom part of the pyramid.
 
 Because content pages individually only compose part of a wider study, it is often the case that you might want to move around from one page to another within the same study. For example, you might want to move one page forward or backward in the study, or perhaps jump back to the aggregation page to search or skim through all the content in the study.
 
 #### Study navigation at the top and bottom of each content page
 
-At the top and bottom of each page is a simple navigation section containing a link to the study's aggregation page (the middle link titled "Index"), and then links to the Next/Previous content pages in the study -- as appropriate (the last page in a study won't have a Next link, for example).
+At the top and bottom of each page is a simple navigation section containing a link to the study's aggregation page (the middle link titled "Index"), and then links to the Next/Previous content pages in the study... as appropriate (the last page in a study won't have a Next link, for example).
 
 {{< figure src="study-navigation.png" caption="The study navigation at the top and bottom of content pages will look something like this">}}
 
@@ -193,12 +195,11 @@ For convenience, these same links show up in the sidebar menu as well, in the "P
 
 #### Should I primarily read on content pages or aggregation pages? How about searching? How about skimming?
 
-If you are planning to sit down and take in a full study (look over all the content from beginning to end, thoroughly), I would suggest going through the content pages one by one, using the study navigation to go from one content page to the next, in order.
+If you are planning to sit down and take in a full study (that is, look over all the content from beginning to end, thoroughly), I would suggest going through the content pages one by one, using the study navigation to go from one content page to the next, in order.
 
 This is because the table of contents for each individual page will be smaller and easier to scan at a glance, and each section stays nicely focused and boxed. This structure also lends itself well to enabling organization via consistent study patterns, like going through one content page a day, for example.
 
 For searching and skimming, however, that is where the aggregation pages shine. You can quickly skim an entire study, and then uncollapse a content section and/or transcript if the topic catches your eye. Or search for a phrase across all study content, and so on. So for searching and skimming, I do very much recommend making use of the aggregation pages, as that is what they were designed for.
-
 
 
 <!-- ## Discussion pages
@@ -220,10 +221,6 @@ Including it in the study itself is not necessarily attractive (since it clutter
 To restate the design challenge again, the issue is what to do with discussion content that originated from Bible study meetings wherein main study content is covered in a group discussion environment, generating additional material. It is not quite the same as study content itself, but also not completely separate, so how ought we display it? -->
 
 
-
-
-
-
 ## Content level
 
 Just like essentially all other pursuits in life, spiritual knowledge builds on itself progressively, with advanced topics only really becoming understandable once more fundamental ones are understood. (Although there are differences that set spiritual knowledge apart, to be sure: we have the all-important help of the Holy Spirit in quickening our understanding, and even more than head knowledge, actually believing and applying that which we are learning is critical in spiritual growth). 
@@ -240,7 +237,7 @@ Anyhow, content on this site is labeled as to its overall spiritual difficulty l
 <li><span class="mixed">mixed</span>
 </ul>
 
-The distinction between the bare labels and the "plus versions" (e.g., <span class="basic">basic</span> and <span class="basic">basic+</span>) is the "ease of acceptability / controversy factor" -- things with plus labels are more controversial and/or harder to accept, as it seems to me. It so happens that many of the things that are controversial and/or harder to accept are more advanced teachings, as one might expect. Christians disagree about the basic parameters of the gospel very little, but particulars of eschatological chronology quite a bit, for example.
+The distinction between the bare labels and the "plus versions" (e.g., <span class="basic">basic</span> and <span class="basic">basic+</span>) is the "ease of acceptability / controversy factor"---things with plus labels are more controversial and/or harder to accept, as it seems to me. It so happens that many of the things that are controversial and/or harder to accept are more advanced teachings, as one might expect. Christians disagree about the basic parameters of the gospel very little, but particulars of eschatological chronology quite a bit, for example.
 
 The main reason why I only define and use three content levels is because the lines are so blurry and indistinct. I would be quite uncomfortable breaking things down any more, since fine-grained categorizations would really imply a level of precision that simply isn't there.
 
@@ -249,16 +246,16 @@ Part of this is because different people find different things hard (i.e., my <s
 {{% note %}}
 I should emphasize that *all the content is for everyone*. One never outgrows revisiting basic spiritual teachings, in other words.
 
-Just for example, we all need to be reminded that we are sinners in need of redemption, God's enemies by nature, and entirely undeserving of the blessings that we have been given. That Jesus Christ -- fully God, yet fully man -- came and died for us as a perfect living sacrifice, so that we might be reconciled to God. That He laid down His life and bore our sins upon the cross in order that we might be saved from the consequences of our sinfulness. Not that we deserved it, but that God, out of His boundless grace and mercy, saw fit to send His one and only Son and judge Him in our place.
+Just for example, we all need to be reminded that we are sinners in need of redemption, God's enemies by nature, and entirely undeserving of the blessings that we have been given. That Jesus Christ---fully God, yet fully man---came and died for us as a perfect living sacrifice, so that we might be reconciled to God. That He laid down His life and bore our sins upon the cross in order that we might be saved from the consequences of our sinfulness. Not that we deserved it, but that God---out of His boundless grace and mercy---saw fit to send His one and only Son and judge Him in our place.
 
-All this to say, these labels are not supposed to be mutually exclusive from the perspective of the reader, as if once you think you can handle intermediate teachings, all the basic topics are somehow unworthy of your attention. The idea is instead to help give a rough sequence to things for newer believers who need to start somewhere, so that they might not be quite so overwhelmed. At least, that's the idea.
+All this to say, these labels are not supposed to be mutually exclusive from the perspective of the reader, as if once you think you can handle intermediate teachings, all the basic topics are somehow unworthy of your attention. The idea is instead to help give a rough sequence to things for newer believers who need to start somewhere, so that they might not be quite so overwhelmed. At least, that is the idea.
 {{% /note %}}
 
 ## Writing level
 
 For this site, [content level](#content-level) measures "spiritual difficulty level," while writing level measures how difficult the writing is for someone to read. If you have heard the term "reading level" (e.g., "her daughter reads at a 4th grade reading level"), then you are on the right track. The [Lexile system](https://en.wikipedia.org/wiki/Lexile) is one formal implementation of the concept.
 
-I personally think using the term "reading level" for written content is confusing -- reading level is a property of human readers, not writing. I have thus opted to use the term "writing level" to denote the level at which content is written.
+I personally think using the term "reading level" for written content is confusing---reading level is a property of human readers, not writing. I have thus opted to use the term "writing level" to denote the level at which content is written.
 
 For example, let's say an article has a 9th grade *writing* level. Alice reads at a 11th grade *reading* level, so probably wouldn't have problems reading the article. Bob reads at an 8th grade reading level, and could probably read the article if he took his time and looked up words he didn't know (and so on). Charlie reads at a 5th grade reading level, and would probably find the article too difficult.
 
@@ -281,9 +278,9 @@ It is a combination of things, but the biggest contributors are probably:
 - Reduced overall length
 - Simpler sentence structure
 - Simpler vocabulary
-- A vastly reduced use of idioms -- which are often unnecessary to convey specific meaning, but can make writing completely incomprehensible to people unfamiliar with them
+- A vastly reduced use of idioms---which are often unnecessary to convey specific meaning, but can make writing completely incomprehensible to people unfamiliar with them
 - A vastly reduced use of foreign loanwords and borrowed phrases (e.g., *c'est la vie*, *sine qua non*, etc.)
-- A vastly reduced use of complex or fanciful simile, metaphor, metonymy, and so on -- things that some readers may be unfamiliar with (just as with idioms)
+- A vastly reduced use of complex or fanciful simile, metaphor, metonymy, and so on---things that some readers may be unfamiliar with (just as with idioms)
 
 ### Why would we want a low writing level to begin with?
 
@@ -299,7 +296,7 @@ Children do not yet have fully developed reading capabilities; there is no way a
 
 Non-native English speakers (particularly those at the more rudimentary stages of language acquisition) have a hard time with complex writing for obvious reasons. English is a difficult foreign language to learn in part because of its huge vocabulary, so it is a good start to not lean on variation in vocabulary so much, even if doing such is considered inferior stylistically. Simpler sentence structure also makes it much easier to keep up with subjects and verbs and relative clauses and so on, which also helps foreign readers. But by far the kindest thing you can do for foreign readers is simply to make writing convey as much information as possible in as concise a way as possible. Fewer sentences to struggle through to get the information is a great blessing for struggling readers.
 
-In fact, the exact same general principles hold for helping all those native English speakers who also struggle with more advanced writing. I have noticed an exceptionally harmful form of intellectual snobbishness in certain Christian circles (not that there isn't a place for scholasticism and academic rigor among Christians -- perish the thought!). It would do us well to consider that many people end up without substantial education not because they were lazy or undisciplined, but because of circumstances largely out of their control. God puts all of us in different places, after all. The Bible itself makes the point all over the place that worldly status is nothing before God, who holds the very strings of the universe in His palm. All that matters in His eyes is the right spiritual attitude. We should thus make sure as Christians that we always seek the best outcome for the Church as a whole ("the big picture") rather than just focusing on the well-dressed suburbanites before us. (Not that there is anything wrong with well-dressed suburbanites, mind you. They just do not represent the sum totality of the body of Christ here in the world).
+In fact, the exact same general principles hold for helping all those native English speakers who also struggle with more advanced writing. I have noticed an exceptionally harmful form of intellectual snobbishness in certain Christian circles (not that there isn't a place for scholasticism and academic rigor among Christians---perish the thought!). It would do us well to consider that many people end up without substantial education not because they were lazy or undisciplined, but because of circumstances largely out of their control. God puts all of us in different places, after all. The Bible itself makes the point all over the place that worldly status is nothing before God, who holds the very strings of the Universe in His palm. All that matters in His eyes is the right spiritual attitude. We should thus make sure as Christians that we always seek the best outcome for the Church as a whole ("the big picture") rather than just focusing on the well-dressed suburbanites before us. (Not that there is anything wrong with well-dressed suburbanites, mind you. They just do not represent the sum totality of the body of Christ here in the world).
 
 In any case, the better I am able to wrangle my writing into some semblance of "simple and concise," the better it is able to serve these three groups who would otherwise not be able to make use of it (or at least not nearly so well). And that is a most excellent goal entirely worthy of pursuit. Even if it makes me personally look less educated or refined or whatever.
 
@@ -314,7 +311,7 @@ The higher-level writing is in fact higher in writing level because:
 - It is longer due to having tangential discussion in the text
 - It is longer due to having technical discussion (e.g., of Greek and Hebrew) in the text
 - The writing in the technical discussion sections tends to be more complex due to its subject matter
-- The scripture quotations in it are all from normal translations not as targeted at simplicity (e.g., the NIV84, ESV, NASB, NKJV)
+- The scripture quotations in it are all from normal translations not as targeted at simplicity (e.g., the NIV84, NKJV, ESV, NASB)
 
 Or, if you wish to look at things from the reverse direction, the lower-level writing is in fact lower in writing level because:
 
@@ -326,6 +323,8 @@ Or, if you wish to look at things from the reverse direction, the lower-level wr
 And there you have it. I hide two of the [special content sections](#special-content-sections) in the lower-level writing (sidenotes, technical discussion) and use the version of the NIV written at approximately a third grade writing level (the NIrV), making the writing shorter and simpler overall, and therefore easier to read. However, if you can handle a bit of added length and added complexity in your Bible version, the higher-level writing will give you a bit more of a nuanced view of things.
 
 It is worth pointing out that even in the sidenotes and technical discussion sections in the higher-level writing, I still try to keep the writing as simple as possible. That is to say, I don't switch into full-blown academic mode as soon as a Greek word comes up, for example, but still try to keep everything as accessible as possible, even if the subject matter itself is inherently more complex.
+
+As mentioned above, however, this is always sort of a work-in-progress, since making things shorter and simpler is not always something particularly easy to realize in practice.
 
 ## Special content sections
 
@@ -357,7 +356,7 @@ The false teaching under consideration runs the full spectrum, from almost blind
 
 The traps and pitfalls in application also vary in nuance, ranging from "No, honoring your parents does not mean you should help them deal drugs" to less simple matters more like "Sometimes it can be a mistake to be too specific in the advice you give to impressionable new believers as they may come to rely on your word more than their own developing spiritual discernment, which can cause problems for both you and especially them down the road."
 
-Some people might protest that application is inherently an individual matter (see [application special content sections](#application), below) -- given this, how can you dogmatically call some paths of application out as wrong? Perhaps the best way to answer this is by analogy. In college, I had a Greek professor who often liked to remind us (particularly after tests!) that "Just because there are many correct translations does not mean that there are not incorrect ones." The same idea holds here. While we often cannot be dogmatic about what someone else definitely should do, we *can* be dogmatic about some things they definitely *shouldn't* do.
+Some people might protest that application is inherently an individual matter (see [application special content sections](#application), below)---given this, how can you dogmatically call some paths of application out as wrong? Perhaps the best way to answer this is by analogy. In college, I had a Greek professor who often liked to remind us (particularly after tests!) that "just because there are many correct translations does not mean that there are not incorrect ones." The same idea holds here. While we often cannot be dogmatic about what someone else definitely should do, we *can* be dogmatic about some things they definitely *shouldn't* do.
 
 ### Technical discussion
 
@@ -420,9 +419,9 @@ Of course, some things in scripture *are* completely black and white (e.g., "fle
 
 Writing in these special application sections does not set out to prescribe but to describe; rather than coming to conclusions, individual application sections instead focus on examining potential personal circumstances, and how different factors therein might be relevant. In other words, time is spent identifying possible variables in application.
 
-Now, when making a decision, "weighing" variables is important: this one matters for me a lot, this one matters for me not so much, and so forth. This site avoids weighing variables in any fine-grained way (and thus avoids mapping out any actual possible routes of application) simply because these things are personal, and will necessarily vary by individual. (To be clear, they may still vary by individual even when everyone is doing exactly what God wants them to do -- because God calls all of us to different things).
+Now, when making a decision, "weighing" variables is important: this one matters for me a lot, this one matters for me not so much, and so forth. This site avoids weighing variables in any fine-grained way (and thus avoids mapping out any actual possible routes of application) simply because these things are personal, and will necessarily vary by individual. (To be clear, they may still vary by individual even when everyone is doing exactly what God wants them to do---because God calls all of us to different things).
 
-We need to be relying first and foremost on the guidance of the Holy Spirit to get things right, but this does not mean that we cannot or should not also utilize more systematic methods like those described here (analyzing problems, outlining variables, and making evidence-based decisions).
+We need to be relying first and foremost on the guidance of the Holy Spirit to get things right, but this does not mean that we cannot or should not also utilize more systematic methods like those described here (i.e., analyzing problems, outlining variables, and making evidence-based decisions).
 
 #### Ours is a God of the impossible, and faith is a muscle that must be exercised
 
@@ -444,9 +443,9 @@ The line to walk here is appreciating the importance of faith in our decisions (
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 {{% /note %}}
 
-Unlike [cautionary notes](#cautionary-notes) -- which are warnings of some form -- general notes are just as they sound: something to pay attention to a bit more.
+Unlike [cautionary notes](#cautionary-notes)---which are warnings of some form---general notes are just as they sound: something to pay attention to a bit more.
 
-Oftentimes I will put somewhat random information in these sections, things that don't fit into the body of the text too well, but still need to be conveyed.
+Oftentimes I will put somewhat random information in these sections---things that don't fit into the body of the text too well, but still need to be conveyed.
 
 If you are familiar with the Latin abbreviation n.b. standing for [*nota bene*](https://en.wikipedia.org/wiki/Nota_bene) (meaning "note well"), this is that same general concept, but instead of using an introductory abbreviation, we use a separate content section.
 
@@ -464,7 +463,7 @@ Because the exact nature of the content contained in these sections is somewhat 
 
 ##### Bible teaching should focus on the Bible
 
-Bible teaching done properly does account for matters relating to the historical transmission of the Biblical text -- dealing with an academic discipline known as *philology* -- as well as matters of ancient history and culture, archeology, and a few other things that cannot be established from the text alone. ([See the following section on arguments from probability](#arguments-from-probability)).
+Bible teaching done properly does account for matters relating to the historical transmission of the Biblical text---dealing with an academic discipline known as *philology*---as well as matters of ancient history and culture, archeology, and a few other things that cannot be established from the text alone. ([See the following section on arguments from probability](#arguments-from-probability)).
 
 Nonetheless, it is not incorrect to say that in the vast majority of cases, good Bible teaching's defining feature is its almost-singular focus on the Word of God. However, this does not mean that all teaching can necessarily point to specific verses that directly prove the point at hand.
 
@@ -476,13 +475,13 @@ In this way, we we can dogmatically come down against these hard drugs (in shade
 
 ##### Example: Arranged marriage
 
-As another example, consider the question of arranged marriage. While not common in Western society, there are still areas in the world where it is more the norm than not (such as some places in India). Yet, some parties want to legalistically ban the practice of arranged marriage for all people. There is no verse in scripture along the lines of "there is no problem with arranged marriage" (that is, a verse directly relevant to the topic at hand); however, we have plenty of examples of it in scripture without any negative comment (e.g., Isaac and Rebecca). So, using indirect reasoning, we can still dogmatically say that there is no inherent problem with arranged marriage, even though the Bible doesn't say such directly. We ought not be at all wishy-washy about it, since we do in fact have enough indirect evidence from scripture to come to black-and-white conclusions.
+As another example, consider the question of arranged marriage. While not common in Western society nowadays, there are still areas in the world where it is more the norm than not (such as some places in India). Yet, some parties want to legalistically ban the practice of arranged marriage for all people. There is no verse in scripture along the lines of "there is no problem with arranged marriage" (that is, a verse directly relevant to the topic at hand); however, we have plenty of examples of it in scripture without any negative comment (e.g., Isaac and Rebecca). So, using indirect reasoning, we can still dogmatically say that there is no inherent problem with arranged marriage, even though the Bible doesn't say such directly. We ought not be at all wishy-washy about it, since we do in fact have enough indirect evidence from scripture to come to black-and-white conclusions.
 
 ##### Why bother marking this kind of teaching out as different?
 
 Keep in mind that this kind of teaching is different from opinion and conjecture. Bible teachers have a responsibility to teach the truth (which is objective and absolute), not personal opinions. No, what is under discussion here is not conjecture, but conclusions that are reached somewhat indirectly from reasoning based on direct scripture.
 
-So why bother marking it out, rather than having all teaching presented as fundamentally the same? For one thing, while we as Christians can still be confident in indirect arguments from scripture if we go about the process the right way, by their very nature, there are more "things to go wrong" -- it is easier to mess things up in indirect arguments, simply because there are more steps between the interpretation in question and scripture. When the Bible says something directly, it's pretty hard to get things wrong, but when you have to string together a more complex argument to get from A to B, it is possible for imperfect human logic to yield incorrect conclusions.
+So why bother marking it out, rather than having all teaching presented as fundamentally the same? For one thing, while we as Christians can still be confident in indirect arguments from scripture if we go about the process the right way, by their very nature, there are more "things to go wrong"---it is easier to mess things up in indirect arguments, simply because there are more steps between the interpretation in question and scripture. When the Bible says something directly, it's pretty hard to get things wrong, but when you have to string together a more complex argument to get from A to B, it is possible for imperfect human logic to yield incorrect conclusions.
 
 In this way, marking out indirect arguments from scripture can signal to readers "you ought to check this section a bit more closely to make sure you see how the conclusions are ultimately traceable to direct scripture."
 
@@ -496,7 +495,7 @@ Most of the time a topic can be discussed in terms of scripture, even if indirec
 
 However, occasionally there are topics that cannot be addressed (or at least not fully) using only internal evidence from scripture. Much of the time these topics aren't important enough to even talk about. (Hence why the Bible, in its limited space, doesn't bother addressing them).
 
-Still though, in a small number of instances, there are topics that we need to take a hard stand on, but don't have any good arguments -- even indirect ones -- from scripture itself. Many of these topics are related to textual criticism, archeology, and historical analysis.
+Still though, in a small number of instances, there are topics that we need to take a hard stand on, but don't have any good arguments---even indirect ones---from scripture itself. Many of these topics are related to textual criticism, archeology, and historical analysis.
 
 These are the sort of cases where arguments from probability come into play.
 
@@ -504,9 +503,9 @@ These are the sort of cases where arguments from probability come into play.
 
 A good example of an appropriate use of an argument from probability can be seen in the debate surrounding the false notion that the gospel of Matthew was originally written in Hebrew (e.g., [see here](https://ichthys.com/mail-Matthew%20in%20Hebrew.htm)). There is essentially no way to disprove such a notion with scripture itself, but we do want to strongly shut down any claims like this that challenge the trustworthiness of the Biblical text, as being able to confidently trust in the Bible is absolutely critical for lay Christians. In this case, without any scriptural evidence we can turn to, our best weapon against this dangerous false position is an argument from probability.
 
-If Matthew were in fact originally written in Hebrew, we would expect to have multiple mentions of this very important fact (given that the New Testament is exclusively written in Greek, were Matthew to be written in Hebrew, it would be very noteworthy) in early Christian writings. However, we don't. Based on everything we know textually, the gospel of Matthew shows up overwhelmingly in Greek (and quite early too -- e.g., in some of the earliest papyri we have), and while Hebrew copies of Matthew do eventually appear, they are late translations intended for evangelism among Jewish populations.
+If Matthew were in fact originally written in Hebrew, we would expect to have multiple mentions of this very important fact (given that the New Testament is exclusively written in Greek, were Matthew to be written in Hebrew, it would be very noteworthy) in early Christian writings. However, we don't. Based on everything we know textually, the gospel of Matthew shows up overwhelmingly in Greek (and quite early too---e.g., in some of the earliest papyri we have), and while Hebrew copies of Matthew do eventually appear, they are late translations intended for evangelism among Jewish populations.
 
-Moreover, if all the Greek copies of Matthew were translations from a Hebrew original, we would expect a great deal of variation in the Greek text. (Compare the textual tradition of the Septuagint -- it is really appropriate to ask the question "which Septuagint?" since translation inherently introduces so much instability in the text). However, we do not at all observe this. There is variation in the different exemplars of Matthew we have (as is normal in hand-copied ancient texts), but it is not markedly different from the variation found in, for example, Mark or Luke (the other two synoptic gospels).
+Moreover, if all the Greek copies of Matthew were translations from a Hebrew original, we would expect a great deal of variation in the Greek text. (Compare the textual tradition of the Septuagint---it is really appropriate to ask the question "which Septuagint?" since translation inherently introduces so much instability in the text). However, we do not at all observe this. There is variation in the different exemplars of Matthew we have (as is normal in hand-copied ancient texts), but it is not markedly different from the variation found in, for example, Mark or Luke (the other two synoptic gospels).
 
 People who push for Matthew being written originally in Hebrew might make an argument along the lines of "Matthew was originally written in Hebrew, but it was translated into Greek very early, and only copies of this one single early Greek translation (rather than copies of multiple Greek translations from the Hebrew original) happened to get preserved due to historical happenstance, and therefore even early Christian writers didn't know this important secret" (or something along these lines). Again, while we have no direct scriptural evidence we can use to refute such a claim, the argument from probability we have made above shines light on what this claim really is: complete and utter rubbish.
 
@@ -534,7 +533,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 These can show up in [Reader Correspondence Q&As](/questions-and-answers/reader-correspondence/).
 
-The phrase ["post hoc"](https://www.merriam-webster.com/dictionary/post%20hoc) essentially means "after the fact." The problem with updating writing from past exchanges transparently is that the reader is never made aware that changes were made since the exchange (so the posting party could unfairly rewrite the history of what was actually said -- or something along those lines). But as long as I clearly set apart all information added to the initial conversation in post hoc notes, then no one can get the wrong idea about things.
+The phrase ["post hoc"](https://www.merriam-webster.com/dictionary/post%20hoc) essentially means "after the fact." The problem with updating writing from past exchanges transparently is that the reader is never made aware that changes were made since the exchange (so the posting party could unfairly rewrite the history of what was actually said---or something along those lines). But as long as I clearly set apart all information added to the initial conversation in post hoc notes, then no one can get the wrong idea about things.
 
 Some notes may be added in-line [**Post hoc note**: this is an in-line note], while others may be too long for this, so that they are instead contained in these set-apart sections.
 
@@ -544,7 +543,7 @@ Some notes may be added in-line [**Post hoc note**: this is an in-line note], wh
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 {{% /quote %}}
 
-I find that quoting text in larger blocks (even multiple paragraphs) is often useful. While many formatting procedures indent block-quotes, this ends up wasting a lot of space over the long-term (especially for long quotes). Changing the background color while otherwise leaving the styling the same is the most practical way to handle longer quotes, and that is exactly what is done here -- just as with all the other special content sections.
+I find that quoting text in larger blocks (even multiple paragraphs) is often useful. While many formatting procedures indent block-quotes, this ends up wasting a lot of space over the long-term (especially for long quotes). Changing the background color while otherwise leaving the styling the same is the most practical way to handle longer quotes, and that is exactly what is done here---just as with all the other special content sections.
 
 The source for a given quote is linked in the label of the section ("Quote from {Source}") in almost all cases. (The only real exception is when the source is not linkable for some reason, such as if a website no longer exists).
 
@@ -568,14 +567,14 @@ Sometimes I decide to translate from the Greek and Hebrew myself instead of usin
 
 Original translations are a special subset of scripture quotations, so share the same styling. Just like scripture quotation sections, for each original translation section, the biblical passage being quoted shows up in the header.
 
-Inferred words are added to the text using square brackets. These words do not appear in the original text, but are added by me to make things more clear. The King James Version does something similar, but added words in the KJV are italicized instead of using brackets. The main difference in what I do versus what the KJV does is frequency -- I generally add many more words than does the KJV. The goal is to make the meaning of the text as clear as possible.
+Inferred words are added to the text using square brackets. These words do not appear in the original text, but are added by me to make things more clear. The King James Version does something similar, but added words in the KJV are italicized instead of using brackets. The main difference in what I do versus what the KJV does is frequency---I generally add many more words than does the KJV. The goal is to make the meaning of the text as clear as possible.
 
 In addition to inferred words, I also make use of explanatory remarks in parentheses. To avoid ambiguity with parenthetical statements that are part of the actual text, all of the explanatory remarks I add begin with abbreviations, while I will never translate words that are part of the actual text with abbreviations. Here's the full list of abbreviations that can introduce my explanatory remarks:
 
 - i.e.: coming from Latin *id est*, meaning "that is." The abbreviation I most frequently use, i.e. is used to clarify and explain.
 - e.g.: coming from Latin *exempli gratia*, meaning "for example." This abbreviation, unsurprisingly, is used to introduce examples.
 - cf.: coming from Latin *confer*/*conferatur*, meaning "compare." This abbreviation is used to introduce things that ought to be compared (or possibly contrasted) with the present topic. On this site, it is overwhelming used to introduce scripture passages as cross references: "Salvation comes by grace through faith (cf. Ephesians 2:8-9)."
-- lit.: an abbreviated form of the English word *literally*. I use this abbreviation to give an additional more literal translation of a specific word or phrase. Used especially if the literal meaning is somewhat idiomatic in nature -- which would be why the normal (non-parenthetical) translation doesn't use the literal meaning. This is not something that only happens when translating Greek and Hebrew, by the way, as if these ancient languages were somehow unique in having specialized idioms. For example, you might consider the Chinese idiom [鶴立雞群](https://en.wiktionary.org/wiki/%E9%B6%B4%E7%AB%8B%E9%9B%9E%E7%BE%A4). If I were translating a sentence with this phrase, perhaps it would go something like "Within his studies at University, John was an exceptional person among his peers (lit. "a crane standing in a flock of chickens")."
+- lit.: an abbreviated form of the English word *literally*. I use this abbreviation to give an additional more literal translation of a specific word or phrase. Used especially if the literal meaning is somewhat idiomatic in nature---which would be why the normal (non-parenthetical) translation doesn't use the literal meaning. This is not something that only happens when translating Greek and Hebrew, by the way, as if these ancient languages were somehow unique in having specialized idioms. For example, you might consider the Chinese idiom [鶴立雞群](https://en.wiktionary.org/wiki/%E9%B6%B4%E7%AB%8B%E9%9B%9E%E7%BE%A4). If I were translating a sentence with this phrase, perhaps it would go something like "Within his studies at University, John was an exceptional person among his peers (lit. "a crane standing in a flock of chickens")."
 
 #### Ichthys translations
 
@@ -583,8 +582,8 @@ In addition to inferred words, I also make use of explanatory remarks in parenth
 (1) But now marshal your [own] troops (*gdd*, גדד), O city (lit., “daughter”) of troops (*gedhudh*, גדוד) [which are marshaled against you].  For they have laid siege to us.  For they have struck on the cheek with a rod the Judge of Israel.  (2) But you, O Bethlehem Ephrathah, too small to be numbered among the clans of Judah, from you I will bring forth the One who is to rule over Israel.  His goings forth are from long ago, even from the days of eternity.  (3) For He will give them over [to the oppressor] until the time when [Jerusalem] labors [like] a woman in labor.  At that time the rest of His brethren will return to the sons of Israel (i.e., prior to the Second Advent).  (4) For He (i.e., our Lord Jesus at His return) will arise and will be their Shepherd, in the might of the Lord, and in the majesty of the Name of the Lord His God.  And they (i.e., His flock) will abide, for then He will be great, even to the ends of the earth.  (5) For this One will be our Peace.
 {{% /ichthys-translation %}}
 
-Sometimes I decide to quote from places where Ichthys translates directly from the Greek and Hebrew instead of using established translations. These are the Ichthys translations on this site.
+Sometimes I decide to quote from places where [Ichthys](https://ichthys.com) translates directly from the Greek and Hebrew instead of using established translations. These are the Ichthys translations on this site.
 
 Ichthys translations are a special subset of scripture quotations, so share the same styling. Just like scripture quotation sections, for each Ichthys translation section, the biblical passage being quoted shows up in the header.
 
-Ichthys follows a similar syntax as myself ([see just above](#original-translations)) in adding inferred words and explanatory remarks in translation (although my practice is modeled on Ichthys' practice, not the other way around).
+Ichthys follows a similar syntax as myself ([see just above](#original-translations)) in adding inferred words and explanatory remarks in translation (although my practice is modeled on Ichthys's practice, not the other way around).

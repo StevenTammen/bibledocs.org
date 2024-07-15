@@ -14,9 +14,17 @@ Quite simply, the one single thing you can do to help this ministry the most is 
 
 ## Financial support
 
-At present, I do not accept financial support. I believe that others need the support a great deal more than me ([see here](/about-the-site/frequently-asked-questions/#you-said-you-dont-take-donations-do-you-know-of-good-causes)).
+At present, I do not accept financial support. I believe that others need the support a great deal more than me.
 
-In place of me, I hope people might consider these other needs within the body of Christ. Some of those I recommend in that link are my close friends, and helping them is in fact helping me.
+For a variety of reasons, it is my opinion that believer-to-believer aid is best done directly (especially in our modern internet age, where giving via [PayPal](https://www.paypal.com/us/home) and the like is easy and secure). No matter how efficient a charity proper is (and some are in fact a whole lot better than others: see [Charity Navigator](https://www.charitynavigator.org/)), it will always have a lot more overhead than direct giving.
+
+Contributing to others without any middlemen also allows you to directly see where your financial support is being used (contrast again charities proper). For us as Christians, spiritual ends are far more important than material ones; generally speaking, we are not here to ease economic distress, but to share the gospel that people might be saved, and to help them grow in the truth thereafter. Money that goes towards these spiritual ends is in truth much more important.
+
+For this reason, I find it best to prioritize giving money to Christians who are legitimately in need of aid due to difficult material circumstances, and especially to Christians who are in need of money to help support their service to the body of Christ (by freeing up their time and attention to do ministry, for example). In line with the above discussion of the truth's role in our giving, Bible teachers and evangelists going about things the right way should be priority #1 in terms of people we support.
+
+Note that money is not the only way we can assist one another. I can help people set up ministry websites, for example. A contact of mine has helped another with some rehabilitation exercises based upon his experience as a personal fitness trainer. And so on.
+
+Anyone interested in ideas of where to contribute is welcome to reach out ([steven@bibledocs.org](mailto:steven@bibledocs.org)), and I can go over all the worthy opportunities for giving/serving that I am presently aware of. The list often changes as needs change, which is one reason I don't post any specifics here.
 
 ## Sharing this ministry
 
@@ -28,7 +36,7 @@ Unlike other individuals interested in power, fame, wealth, worldly respect, and
 
 ### This ministry in particular
 
-While I make every reasonable effort on my own to increase the visibility of this ministry, I refuse to cross certain lines. I will not buy ads. I will not participate in shady marketing practices. I will not change the things I write about in order to cater to a broader audience (compare the prosperity gospel) -- the truth is the truth.
+While I make every reasonable effort on my own to increase the visibility of this ministry, I refuse to cross certain lines. I will not buy ads. I will not participate in shady marketing practices. I will not change the things I write about in order to cater to a broader audience (compare the prosperity gospel)---the truth is the truth.
 
 Further, consider the fact that I am but one person, swimming in waters with some churches that have hundreds, thousands, or even tens of thousands of followers, broad social media networks, and other things of this sort. In our modern environment, crowded and noisy, the little fish have the cards stacked against them more now than ever before.
 
@@ -36,9 +44,9 @@ Further, consider the fact that I am but one person, swimming in waters with som
 
 The point of me bringing all these things up is simply that this ministry is at somewhat of a visibility disadvantage due to its priorities and the choices I have made. Given this, word-of-mouth sharing takes on greater importance.
 
-I won't say anything like "please constantly blast this site on all your social media channels!" because, truly, I think that is less effective than sharing it selectively with people who are likely to actually be interested. The point is that if you find this site (or even just some specific writing on it) to be helpful, then you can help this ministry greatly by taking the time to share that which you find useful with others.
+I won't say anything like "please constantly blast this site on all your social media channels!" because, truly, I think that is less effective than sharing it selectively with people who are likely to actually be interested. The point is that if you find this site and/or the YouTube channel and/or the podcasts to be helpful (TODO), then you can help this ministry greatly by taking the time to share these things with others.
 
-To be clear: I don't wish for anyone to feel any pressure to share something they aren't actually fired up about. *If you don't personally find something useful, don't share it*. If, however, you do find value in something, well then given the visibility disadvantage this ministry is constrained to operate under, how are other people going to hear about it if you don't share your experience?
+To be clear: I don't wish for anyone to feel any pressure to share something they aren't actually fired up about. *If you don't personally find something useful, don't share it*. If, however, you do find value in something, well then, given the relatively visibility disadvantage this ministry is constrained to operate under, how are other people going to hear about it if you don't share your experience?
 
 <!--
 

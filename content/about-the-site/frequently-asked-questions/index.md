@@ -28,7 +28,7 @@ However, since it seems to me that .org domains do not present recognizability p
 
 Compared to [Ichthys](https://ichthys.com/), say, this website has a bit more interface sparkle. I have taken care to keep content pages entirely text-centric with no unnecessary interface distractions; the shininess most assuredly *does not* take away from the content. Most of the more complicated interface bits show up on the home page, which has some fancier content sectioning and grids of image links.
 
-The idea behind this is not any sort of "marketing-first" approach (this sort of thing makes me completely nauseous when I encounter it on other Christian websites -- all style and no substance), but simply to use modern web design so that the interface does not present a stumbling block to anyone. Put simply, for better or worse, some people are put off by a website that is "too 1990s," so I have just made the website look more like most other modern websites.
+The idea behind this is not any sort of "marketing-first" approach (this sort of thing makes me completely nauseous when I encounter it on other Christian websites---all style and no substance), but simply to use modern web design so that the interface does not present a stumbling block to anyone. Put simply, for better or worse, some people are put off by a website that is "too 1990s," so I have just made the website look more like most other modern websites.
 
 People who don't care about interface (i.e., the people that would be fine with a home page containing nothing but lists of links embedded in text) aren't going to care either way, but making things shinier will work out better for people who do care more about interface. The idea here is more or less along the lines of "being all things to all people" (compare 1 Corinthians 9:19-23).
 
@@ -48,19 +48,29 @@ As that chapter makes clear, there is nothing wrong with pastor-teachers being p
 
 -->
 
-Not at present. I believe that others need the support a great deal more than me ([see below](#you-said-you-dont-take-donations-do-you-know-of-good-causes)).
+At present, I do not accept financial support. I believe that others need the support a great deal more than me.
 
-In place of me, I hope people might consider these other needs within the body of Christ. Some of those I recommend below are my close friends, and helping them is in fact helping me.
+For a variety of reasons, it is my opinion that believer-to-believer aid is best done directly (especially in our modern internet age, where giving via [PayPal](https://www.paypal.com/us/home) and the like is easy and secure). No matter how efficient a charity proper is (and some are in fact a whole lot better than others: see [Charity Navigator](https://www.charitynavigator.org/)), it will always have a lot more overhead than direct giving.
+
+Contributing to others without any middlemen also allows you to directly see where your financial support is being used (contrast again charities proper). For us as Christians, spiritual ends are far more important than material ones; generally speaking, we are not here to ease economic distress, but to share the gospel that people might be saved, and to help them grow in the truth thereafter. Money that goes towards these spiritual ends is in truth much more important.
+
+For this reason, I find it best to prioritize giving money to Christians who are legitimately in need of aid due to difficult material circumstances, and especially to Christians who are in need of money to help support their service to the body of Christ (by freeing up their time and attention to do ministry, for example). In line with the above discussion of the truth's role in our giving, Bible teachers and evangelists going about things the right way should be priority #1 in terms of people we support.
+
+Note that money is not the only way we can assist one another. I can help people set up ministry websites, for example. A contact of mine has helped another with some rehabilitation exercises based upon his experience as a personal fitness trainer. And so on.
+
+Anyone interested in ideas of where to contribute is welcome to reach out ([steven@bibledocs.org](mailto:steven@bibledocs.org)), and I can go over all the worthy opportunities for giving/serving that I am presently aware of. The list often changes as needs change, which is one reason I don't post any specifics here.
 
 ### Is this ministry associated with any denomination or group?
 
-No. Further, as my formal Greek and Hebrew study was undertaken at the [University of Georgia](https://www.uga.edu/) -- a secular research university (rather than a seminary) -- I do not even have a historical association with any denomination or group.
+No. Further, as my formal Greek and Hebrew study was undertaken at the [University of Georgia](https://www.uga.edu/)---a secular research university (rather than a seminary)---I do not even have a historical association with any denomination or group.
 
 Broadly speaking, this ministry falls within the conservative evangelical tradition. However, it splits with much of contemporary Christianity on a number of points, such that I prefer to simply say that this ministry is what it is.
 
+In terms of full disclosure, I would consider myself unofficially associated with [Ichthys.com](https://ichthys.com) (another online teaching ministry), inasmuch as my mentor and friend runs that ministry, and it has been a very important ministry in my own growth and understanding over the years. But there is no formal tie there, other than the admiration and respect I have for Ichthys generally, and my mentor specifically.
+
 ### What syntax do you use in translations original to this site?
 
-See [the description of original translations](/about-the-site/content-organization/#original-translations) on the Content Organization page.
+See [here](/about-the-site/content-organization/#original-translations).
 
 <!--
 
@@ -78,25 +88,9 @@ Second, while it is true that video guides make lots of sense, it is very common
 
 Yes. You can change settings related to verse tagging [on the settings page](/settings/#reftagger-settings).
 
-## Connections and associations
-
-### You said you don't take donations. Do you know of good causes?
-
-For a variety of reasons, it is my opinion that believer-to-believer aid is best done directly (especially in our modern internet age, where giving via [PayPal](https://www.paypal.com/us/home) and the like is easy and secure). No matter how efficient a charity proper is (and some are in fact a whole lot better than others: see [Charity Navigator](https://www.charitynavigator.org/)), it will always have a lot more overhead than direct giving.
-
-Contributing to others without any middlemen also allows you to directly see where your financial support is being used (contrast again charities proper). For us as Christians, spiritual ends are far more important than material ones; we are not here to ease economic distress, but to share the gospel that people might be saved, and to help them grow in the truth thereafter. Money that goes towards these spiritual ends is in truth much more important.
-
-For this reason, I find it best to prioritize giving money to Christians who are legitimately in need of aid due to difficult material circumstances, and especially to Christians who are in need of money to help support their service to the body of Christ (by freeing up their time and attention to do ministry, for example). In line with the above discussion of the truth's role in our giving, Bible teachers going about things the right way should be priority #1 in terms of people we support.
-
-Towards these ends:
-
-- A close friend of mine and fellow Bible teacher, [Odii Ariwodo](https://ichthys.com/odii-ariwodo.htm), could use your support. (You can email me at [steven@bibledocs.org](mailto:steven@bibledocs.org), and I'll get you in touch).
-- Another public teaching ministry that takes donations that I can recommend is [Bible Academy](https://www.youtube.com/channel/UCkp-J7VPT7NcwmuiNfD2fkg).
-- There are also other private individuals I support or help coordinate support for that I would be happy to get people in contact with. Again, you can email me at [steven@bibledocs.org](mailto:steven@bibledocs.org) for more information.
-
-Note that money is not the only way we can assist one another. I can help people set up ministry websites, for example. A contact of mine has helped another with some rehabilitation exercises based upon his experience as a personal fitness trainer. And so on.
-
 <!--
+
+## Connections and associations
 
 I personally maintain a private address book containing the names, expertise/background and/or interests, and contact info for various people who are readers or contacts of this ministry. This (not publicly visible) address book serves as the basis for the [contact network](/contact-network) associated with this ministry, through which I may be able to connect believers I know with one another based on need and interest. If there is specific expertise/background and/or interests you have that you are willing to share with the Body of Christ, you can email me ([steven@bibledocs.org](mailto:steven@bibledocs.org)) and I will make sure to take note of it and send people your way as appropriate.
 

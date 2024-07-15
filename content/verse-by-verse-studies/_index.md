@@ -12,8 +12,6 @@ So what is the difference between the verse-by-verse studies and study notes on 
 
 The Verse-by-verse Studies on this site go over things one verse at a time (sticking with a specific part of scripture rather than tracing a subject). I have adopted the practice of covering verses as I feel led to, which means that in addition to going through entire books of the Bible in order, sometimes the verse-by-verse content on this site will tend to be more scattershot, tackling some difficult verses here and there across many different books. Over time, of course, I hope to have the coverage and continuity increase.
 
-Not every single thing written in these verse-by-verse studies on the site will have a video made about it, but only the things of sufficient length and complexity to merit such. This means that there will be a number of shorter notes that will only show up as text on the study webpages (which are organized by chapter).
-
 ## List of verse-by-verse studies
 
 <div class="list-item">

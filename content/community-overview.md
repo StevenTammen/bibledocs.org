@@ -8,8 +8,8 @@ For anyone who does want to get involved with a group of like-minded individuals
 
 At present, there are three primary community channels:
 
-- WhatsApp
-- A web forum
+- A [Signal](https://signal.org/) group
+- A self-hosted web forum
 - Weekly in-person meetings, fully tied-in to Zoom so that non-local folks can participate
 
 Following sections on this page will go into more detail about all three of these things. But before that, I'll go over specific sections within the community, and why things are divided up in this way.
@@ -18,7 +18,7 @@ Following sections on this page will go into more detail about all three of thes
 
 The community is split into multiple different visibility-locked sections, based on user groups. Only people who belong to a given group can view the content within the corresponding section.
 
-On WhatsApp, there is a separate WhatsApp group per community section. And on the forum, there are separate sub-forums per community section (although all share the same general structure). These two platforms are intended to fit together hand-in-glove; each WhatsApp group and sub-forum *together* compose each individual community section, so that, for example, there is both a WhatsApp group for Protestants and a sub-forum for Protestants, a WhatsApp group for followers of Ichthys and related ministries and a sub-forum for the same, and so on. This is because the sorts of interaction that happen on WhatsApp and the sub-forums complement each other -- with different overall goals and focuses.
+On [Signal](https://signal.org/), there is a separate Signal group per community section. And on the forum, there are separate sub-forums per community section (although all share the same general structure). These two platforms are intended to fit together hand-in-glove; each Signal group and sub-forum *together* compose each individual community section, so that, for example, there is both a Signal group for Protestants and a sub-forum for Protestants, a Signal group for followers of Ichthys and related ministries and a sub-forum for the same, and so on. This is because the sorts of interaction that happen on Signal and the sub-forums complement each other---with different overall goals and focuses.
 
 ### Why have split-out community sections rather than just having one big group?
 
@@ -37,20 +37,22 @@ In general order of widest to narrowest:
 The debate section has the widest range of beliefs represented. With that being said, all people participating here:
 
 - Self-identify as Christian (so we do not herein engage in apologetics with Atheists and Muslims, e.g., even though some believers are certainly called to such things)
-- Are willing to have conversations about what the Bible says and means (even if tradition and centralized high church authority, for example, play more of a role in their epistemologies than they do for us *sola scriptura* Evangelicals)
+- Are willing to have conversations about what the Bible says and means (even if tradition and centralized high church authority, for example, play more of a role in their epistemologies than they do for us *sola scriptura* Evangelical Protestants)
 - Are interested in developing their arguments and coming to better understand and refute opposing points of view
 
 But that's about it in terms of enforced commonalities.
 
-So, for example, you might find Catholic folks, Orthodox folks, Pentecostal folks, Church of Christ folks, Mormon folks, and others participating here, alongside mainline Protestants and Evangelicals and all other Christian points of view besides.
+So, for example, you might find Catholic folks, Orthodox folks, Pentecostal folks, Church of Christ folks, Mormon folks, and others participating here, alongside mainline Protestants and non-denominational Evangelicals and all other Christian points of view besides.
 
 This section has some of the most heavy-handed moderation (in a relative sense), to keep things eminently civil. There is very little tolerance for being unnecessarily disrespectful, no matter how wrong you might find the other person.
 
-#### Important note: the debate section is the only community section to exist solely as a sub-forum. There is no debate WhatsApp group
+#### Important note: the debate section is the only community section to exist solely as a sub-forum. There is no debate Signal group
 
-This section only exists on the forum platform in part because it is oftentimes most productive to encourage formality in debate and disagreement. It helps avoid misunderstandings, and also keeps the focus off of personalities and on the truth alone. As a rule of thumb, this mode of communication more readily maps onto the communication patterns of the forum than the more-casual WhatsApp groups.
+This section only exists on the forum platform in part because it is oftentimes most productive to encourage formality in debate and disagreement. It helps avoid misunderstandings, and also keeps the focus off of personalities and on the truth alone. As a rule of thumb, this mode of communication more readily maps onto the communication patterns of the forum than the more-casual Signal groups.
 
 But more importantly, the forum platform offers much more flexibility in terms of moderation, which may occasionally be more necessary in this community section due to its greater tendency towards heated, spirited discussion, which occasionally needs to be prodded back towards a more constructive and respectful tone.
+
+<!--
 
 #### Important note: despite being the most open in terms of beliefs, this is one of the smaller sections by number of overall participants
 
@@ -62,18 +64,21 @@ This is so for a couple reasons:
 
 Together, these things mean we gatekeep this section a bit more than the others, to jealously guard the productive and respectful atmosphere that we have built, while also making sure we don't unintentionally unsettle certain people by exposing them to fierce theological disagreements -- those people who might be more spiritually harmed than helped by reading and participating in such things.
 
+-->
+
 ### The Protestants section
 
 As one might expect, Protestants tend to have more things in common with each other than with the other Christian belief systems you might encounter in the Debate section. In particular, Protestants tend to rely on the Bible alone to a relatively higher than degree than most other categories of Christians, making discussion that centers on scripture that much more focused.
 
-This is the largest community section by number of overall participants. There tends to be somewhat of a divide in perspective between so-called "Mainline Protestants" (from centralized denominations like Lutherans, Methodists, Presbyterians, and so on), and non-denominational Evangelicals and their sort, but all parties do still share a nice wide swath of common ground that makes conversation productive in a wide-group sense.
+This is probably the largest community section by number of overall participants. There tends to be somewhat of a divide in perspective between so-called "Mainline Protestants" (from centralized denominations like Lutherans, Methodists, Presbyterians, and so on), and non-denominational Evangelicals and their sort, but all parties do still share a nice wide swath of common ground that makes conversation productive in a wide-group sense.
 
 ### The Ichthys and Friends section
 
 Narrower still, we have a community section for folks that are readers of [Ichthys](https://www.ichthys.com), or follow associated ministries with similar teachings:
 
 - This ministry (BibleDocs)
-- [Bible Academy](https://www.youtube.com/channel/UCkp-J7VPT7NcwmuiNfD2fkg)
+- [BibleDriven](https://www.bibledriven.org/)
+- [BibleAcademy](https://www.youtube.com/channel/UCkp-J7VPT7NcwmuiNfD2fkg)
 - Etc.
 
 We all tend to believe certain things that Protestantism writ large might find controversial. This means we can occasionally have a much easier time discussing things amongst only ourselves, rather than trying to have conversations in a more open context that might invite constant challenges and tangential arguments about things that we all tend to take for granted and have no interest in debating.
@@ -84,25 +89,29 @@ Finally, we have the narrowest section, composed of pastor-teachers in the Ichth
 
 The "in the Ichthys orbit" bit is important; the people in this section are a proper subset of those in the Ichthys and Friends section. Put simply, those of us who have grown to spiritual maturity under Ichthys and related ministries and are now endeavoring to formally teach others have probably "drunk the Kool-Aid" more than others, with a much deeper formal understanding of all teachings (rather than just a smaller subset), and an accompanying thirst to have complicated discussions about some of the finer points therein. But we have little interest in getting into long, in-depth, technical discussions (the sort that tend to dominate when we Bible teachers talk to each other) about topics we'd all rather simply presuppose.
 
-To put all that differently, this place is very niche; it is not for pastor-teachers generally, but only for pastor-teachers that fall within a specific range of beliefs -- primarily folks having a shared respect for the teachings of Ichthys and related ministries. (Not that all of us agree with every single thing that these ministries might teach; the point is that we generally have a lot of common ground). So while pastors (no matter your background and affiliations) are quite welcome on the forum (e.g., in the Protestant and Debate sections) -- in fact, we'd love to have your perspective! -- unless you are basically on the same wavelength as those of us already participating here in the Teachers section, it is unlikely that you'll be a good fit for this section specifically. To the extent that your beliefs differ greatly from the rest of us, your views will always be under attack, and we won't have much interest nor patience in talking about some of the things you are likely interested in. That's the gist. So taking care here to include in this section only those who seem to be a definite match is as much for your own wellbeing as it is ours.
+To put all that differently, this place is very niche; it is not for pastor-teachers generally, but only for pastor-teachers that fall within a specific range of beliefs---primarily folks having a shared respect for the teachings of Ichthys and related ministries. (Not that all of us agree with every single thing that these ministries might teach; the point is that we generally have a lot of common ground). So while pastors (no matter your background and affiliations) are quite welcome on the forum (e.g., in the Protestant and Debate sections)---in fact, we'd love to have your perspective!---unless you are basically on the same wavelength as those of us already participating here in the Teachers section, it is unlikely that you'll be a good fit for this section specifically. To the extent that your beliefs differ greatly from the rest of us, your views will always be under attack, and we won't have much interest nor patience in talking about some of the things you are likely interested in. That's the gist. So taking care here to include in this section only those who seem to be a definite match is as much for your own wellbeing as it is ours.
 
 As to why we have this section on top of the Ichthys and Friends section, it is basically so that deeper theological conversations can happen in this Teachers section without plugging up the wider Ichthys and Friends section with a lot of technical discussion that won't be relevant to most lay Christians.
 
 It also helps to keep certain conversations limited to teachers alone, for the same sort of reason as why it might not be the most appetizing for diners to peer back behind the kitchen curtain in a restaurant. If Christian teachers are cooks and their teachings food that has been effortfully prepared from raw ingredients, then seeing too much of the preparation process may make diners lose some of their appetite. In other words, to a degree, it is best to only place the appetizing finished product before them, and leave much of the preparation process out of sight and mind.
 
-## WhatsApp
+## Signal
 
-Our WhatsApp groups are international in scope and globally-minded, with folks from
+Our [Signal](https://signal.org/) groups are international in scope and globally-minded, with folks from
 
 - The US
-- The UK
 - Nigeria
 - Australia
 - Etc.
 
-We use WhatsApp because it supports talking (voice-over-IP), video, and text chat for folks across the world, without needing to worry about expensive international phone plans and the like. WhatsApp is used quite a lot internationally (although perhaps not quite as much in the US, for whatever reason).
+We use Signal because it supports talking (voice-over-IP), video, and text chat for folks across the world, without needing to worry about expensive international phone plans and the like. Messaging apps like Signal (cf. also [WhatsApp](https://www.whatsapp.com/), [Telegram](https://telegram.org/), etc.) are used quite a lot internationally (although perhaps not quite as much in the U.S., for whatever reason). As to why we chose Signal over some of the other options:
 
-The fact that WhatsApp conversations tend to be more casual to begin with -- and the fact that the medium is a bit more impermanent generally (over time, things get covered by new discussion) -- these are two of the many reasons that help explain why we have the WhatsApp groups in addition to the sub-forums, rather than just sticking with the forum platform alone. They really are apples and oranges, to a degree.
+- [GroupMe](https://groupme.com/) is very common in the U.S., but it requires a U.S. phone number, so that immediately rules it out as a workable option here. We have folks participating across the world, not just in the U.S.
+- Some folks are very concerned with data privacy, and Signal is widely considered to be the best chat app option in this regard. For example, WhatsApp is owned by Facebook's parent company (Meta), which does not exactly have the best track record with data privacy, and Telegram does not let you have end-to-end encrypted group chats (at least at time of writing). WhatsApp and Telegram are also both closed-source, and Telegram even rolls their own home-baked cryptographic encryption protocol, which the open-source cybersecurity types think is a big red flag. In any case, if we want to have privacy-minded folks participate in our communities, we need to use a privacy-conscious, secure app that these folks will be OK with. People who are fine with WhatsApp will probably have no real feelings about using Signal (other than having to set up another app, which takes all of 10 minutes), but there are many people who would never participate at all if we used WhatsApp, out of data privacy concerns.
+
+That's the gist for "why Signal?"
+
+The fact that texting-based Signal conversations tend to be more casual to begin with---and the fact that the medium is a bit more impermanent generally (over time, things get covered by new discussion)---these are two of the many reasons that help explain why we have the Signal groups in addition to the sub-forums, rather than just sticking with the forum platform alone. They really are apples and oranges, to a degree.
 
 Sometimes people end up directly messaging or calling each other too, individual-to-individual. That can be a very positive thing. We do ask that people respect the privacy of others though, and be careful to only get more personally involved if both sides truly want it.
 
@@ -112,15 +121,15 @@ Sometimes people end up directly messaging or calling each other too, individual
 
 Link: https://community.bibledocs.org/
 
-If conversations get a bit longer and more technical (relative to the somewhat more casual real-time conversations that happen on the WhatsApp groups), it can be a good idea to move them onto the forum. The forum is great because it makes it easy to link back to past conversations over time (rather than having things get buried), and also supports splitting up conversations by topics/threads to keep all related discussion together. (Topics can also be independently categorized and tagged for future reference too, another plus in the content organization department).
+If conversations get a bit longer and more technical (relative to the somewhat more casual real-time conversations that happen on the Signal groups), it can be a good idea to move them onto the forum. The forum is great because it makes it easy to link back to past conversations over time (rather than having things get buried), and also supports splitting up conversations by topics/threads to keep all related discussion together. (Topics can also be independently categorized and tagged for future reference too, another plus in the content organization department).
 
 There is a bit of a learning curve on the forum, but all the above advantages make it worth it. If you ever get intimidated, please don't be at all shy in reaching out to me or one of the other mods for help in getting familiar with the interface. We're here to help!
 
 ## Our meetings
 
-Thus far all discussion on this page has been about the four different community sections that operate through WhatsApp groups and sub-forums. Some people are probably wondering right about now "OK, that's great and all, but what about actually meeting together as a community? How does that happen?"
+Thus far all discussion on this page has been about the four different community sections that operate through Signal groups and sub-forums. Some people are probably wondering right about now "OK, that's great and all, but what about actually meeting together as a community? How does that happen?"
 
-It's a good question. In fact, we do have meetings set up -- in-person meetings for folks in the vicinity of Warner Robins in South Georgia, USA (that is, Warner Robins proper, plus Byron/Centerville/Kathleen/Bonaire and perhaps even Perry and Macon, depending upon where people drive from), and also combined/integrated with these, Zoom meetings for people who don't live local. This is to say, all the local meetings are fully tied-in to Zoom.
+It's a good question. In fact, we do have meetings set up---in-person meetings for folks in the vicinity of Warner Robins in South Georgia, USA (that is, Warner Robins proper, plus Byron/Centerville/Kathleen/Bonaire and perhaps even Perry and Macon, depending upon where people drive from), and also combined/integrated with these, Zoom meetings for people who don't live local (or can't make it ibn-person some week, for whatever reason). This is to say, all the local meetings are fully tied-in to Zoom.
 
 There are two main types of meetings: fellowship meetings, and formal Bible studies. The former focus more on casual conversation about things going on in each other's lives (encouraging and exhorting one another in the truth in the process), while the latter are more formal organized studies. People are welcome to attend one or both types of meetings.
 
@@ -128,11 +137,29 @@ There are two main types of meetings: fellowship meetings, and formal Bible stud
 
 ### Communications technology and global interconnectedness
 
-More than many other contemporary Christian fellowships (at least according to my personal observation and experience), our fellowship really tries to support total integration of people that are geographically remote.
+More than many other contemporary Christian fellowships (at least according to my personal observation and experience), our fellowship really tries to support total integration of people that are geographically remote, via Zoom.
 
-I am stressing this mostly to get across the point that I'd encourage people who are geographically remote to actually give things a try before writing off our non-local community as a real fellowship option. Recent(ish) technological developments have afforded many possibilities that did not exist before, allowing us to more and more seamlessly support each other in the body of Christ, no matter the physical distance between us. It's a great blessing, and in my somewhat-biased opinion, I think it works pretty well.
+I am stressing this mostly to get across the point that I'd encourage people who are geographically remote to actually give things a try before writing off our non-local community as a real Christian fellowship option. Recent(ish) technological developments have afforded many possibilities that did not exist before, allowing us to more and more seamlessly support each other in the body of Christ, no matter the physical distance between us. It's a great blessing, and in my somewhat-biased opinion, I think it works pretty well.
 
 ## Joining our community
+
+In the past, all parts of our community used to be invite-only. As of August 2024, I am working to open things up a lot more (it is a work-in-progress to get the registration infrastructure in place to support this---so this is a "coming soon" sort of thing, basically):
+
+- Anyone <!--can-->will be able to join the Debate, Protestants, and Ichthys and Friends community sections now, no invite needed.
+- But the forum sections <!--are still not-->will still not be public on the internet. That is, only registered users within each respective community section <!--can-->will be able to view the threads.
+
+The only section that <!--is not-->will not now be open is the Teachers section. That one will stay invite-only in perpetuity, just due to the nature of it.
+
+In the short-term, to register, you can email me ([steven@bibledocs.org](mailto:steven@bibledocs.org)) your email address and/or phone number and/or Signal username, and let me know which community sections you want to join (and whether you want to join on the forum only, or Signal only, or both. I'll need an email to invite you to the forum, and either a phone number or Signal username to invite you to the Signal group(s)).
+
+### Lurking is more than acceptable
+
+Many people already involved in the community don't post much, but just read what others write. *There is nothing wrong with this*, and in fact, while we'd love to hear from all who wish to share their views, we're happy to just have people listening too. It makes us feel like what we do has meaning.
+
+So please, if you are on the fence because you don't think you have the time to really post much or participate, don't let that be a barrier to joining the community. Come and lurk with us. It's fun.
+
+
+<!--
 
 ### Joining our private community requires formal invitation, and access can be revoked
 
@@ -143,12 +170,6 @@ If a wolf in sheep's clothing pretends to be interested, there is no way to excl
 Ours is a community dedicated to Christian love and fellowship, and I am therefore completely unwilling to expose people to the slightest harm, even potential harm. For this reason, our community is much, much more private than many other online communities, and does require getting formally invited before one can participate.
 
 Fear not though, there is no terribly high bar here, and genuine interest is really the only true requirement.
-
-### Lurking is more than acceptable
-
-Many people already involved in the community don't post much, but just read what others write. *There is nothing wrong with this*, and in fact, while we'd love to hear from all who wish to share their views, we're happy to just have people listening too. It makes us feel like what we do has meaning.
-
-So please, if you are on the fence because you don't think you have the time to really post much or participate, don't let that be a barrier to joining the community. Come and lurk with us. It's fun.
 
 ### The registration form
 
@@ -211,3 +232,5 @@ $inputs.on('input', function () {
     $inputs.not(this).prop('required', !$(this).val().length);
 });
 </script>
+
+->
