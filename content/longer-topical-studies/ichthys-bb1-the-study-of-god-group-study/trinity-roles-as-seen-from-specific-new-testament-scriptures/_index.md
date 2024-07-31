@@ -39,6 +39,12 @@ TODO
 
 ### Matthew 3:16-17 {#matthew-3-16-17}
 
+{{< subjects >}}
+Baptism > Of Jesus
+Kenosis > On the cross
+{{< /subjects >}}
+<!-- p-"Matthew 3:16-17; Matthew 3:14; 1 Peter 3:18" -->
+
 {{% ichthys-translation p="Matthew 3:16-17" %}}
 Now once **Jesus** had been baptized, He immediately came up out of the water, and, behold!, the heavens opened for Him, and He saw the **Spirit** of God coming down like a dove and lighting upon Him. And, behold!, a **voice** from heaven was saying, "This is My beloved Son, with whom I am well pleased.
 {{% /ichthys-translation %}}
@@ -48,6 +54,11 @@ The baptism of Christ had a much different symbolism from any other baptism John
 <!-- --- -->
 
 ### John 14:16 {#john-14-16}
+
+{{< subjects >}}
+Holy Spirit > Is sent by the Father on the request of the Son
+{{< /subjects >}}
+<!-- p="John 14:16" -->
 
 {{% ichthys-translation p="John 14:16" %}}
 And **I** will ask the **Father** and He will give you another **Comforter**, that He may be with you forever.
@@ -59,6 +70,11 @@ This verse shows the Father in a position of *authority*, the Son *interceding* 
 
 ### 1 Corinthians 12:4-6 {#1-corinthians-12-4-6}
 
+{{< subjects >}}
+
+{{< /subjects >}}
+<!-- p="1 Corinthians 12:4-6; 1 Corinthians 12:11" -->
+
 {{% ichthys-translation p="1st Corinthians 12:4-6" %}}
 There are different gifts, but the same **Spirit**; and there are different ministries, but the same **Lord**; and there are different results, but the same **God** who brings about all results in all cases.
 {{% /ichthys-translation %}}
@@ -68,6 +84,11 @@ Here we see clearly the respective roles of the Trinity in supporting our Christ
 <!-- --- -->
 
 ### 2 Corinthians 13:14 {#2-corinthians-13-14}
+
+{{< subjects >}}
+
+{{< /subjects >}}
+<!-- p="2 Corinthians 13:14; John 3:16" -->
 
 {{% ichthys-translation p="2 Corinthians 13:14" %}}
 May the grace of the **Lord Jesus Christ**, and the love of **God**, and the fellowship of the **Holy Spirit** be with you all.
@@ -79,6 +100,11 @@ The Trinity is seen here from the standpoint of salvation, before, during and af
 
 ### Ephesians 3:14-17 {#ephesians-3-14-17}
 
+{{< subjects >}}
+
+{{< /subjects >}}
+<!-- p="Ephesians 3:14-17" -->
+
 {{% ichthys-translation p="Ephesians 3:14-17" %}}
 For this reason I bow my knees to the **Father**, from whom His entire family in heaven and on earth has received its name, that He may grant you according to the riches of His glory to be powerfully strengthened in your inner person through His **Spirit**, so that, rooted and grounded in love, **Christ** may dwell in your hearts through faith.
 {{% /ichthys-translation %}}
@@ -88,6 +114,11 @@ In this apostolic prayer of Paul, we see the Father as the *authority* to whom P
 <!-- --- -->
 
 ### Ephesians 4:4-6 {#ephesians-4-4-6}
+
+{{< subjects >}}
+
+{{< /subjects >}}
+<!-- p="Ephesians 4:3; Ephesians 4:4-6; Hebrews 4:15-16; Jeremiah 1:4-6" -->
 
 {{% ichthys-translation p="Ephesians 4:4-6" %}}
 There is one body and One **Spirit** – just as when you were called it was in one hope that you were called. There is One **Lord** [Jesus Christ], one faith, one baptism. There is One **God and Father** of all, who is over all and through all and in all.
@@ -99,6 +130,11 @@ In this precís of the "unity of the faith" (Eph.4:3), Paul reminds us of some o
 
 ### 1 Peter 1:1-2 {#1-peter-1-1-2}
 
+{{< subjects >}}
+
+{{< /subjects >}}
+<!-- p="1 Peter 1:1-2" -->
+
 {{% ichthys-translation p="1 Peter 1:1-2" %}}
 Peter, an apostle of Jesus Christ, to those who, though outcasts dispersed throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, were yet selected in the foreknowledge of **God the Father**, by means of the **Holy Spirit's** consecration, for the obedience in and sprinkling of the blood of **Jesus Christ**.
 {{% /ichthys-translation %}}
@@ -108,6 +144,11 @@ Peter tells us that we believers are elected to eternal life according to the Fa
 <!-- --- -->
 
 ### Revelation 1:4-6 {#revelation-1-4-6}
+
+{{< subjects >}}
+
+{{< /subjects >}}
+<!-- p="Revelation 1:4-6; Revelation 5:6; Isaiah 11:2" -->
 
 {{% ichthys-translation p="Revelation 1:4-6" %}}
 Grace to you and peace from the **One who is and was and is coming**, and from the seven **Spirits** which are before His throne, and from **Jesus Christ**, the faithful witness, the firstborn from the dead and the ruler of the kings of the earth.
