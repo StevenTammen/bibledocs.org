@@ -39,6 +39,11 @@ TODO
 
 ### Roles of the Trinity in the Plan of God {#roles-of-the-trinity-in-the-plan-of-god}
 
+{{< subjects >}}
+Trinity > Roles > Contrasted with non-biblical illustrations for Trinity
+{{< /subjects >}}
+
+
 A more valuable approach than the use of non-biblical illustrations to understand the nature of the Trinity is the examination of the function of the Trinity as described in the Bible. The scriptures have much to say about how God works in human history, and, specific to our topic, what roles the individual members of the Trinity play in that work, otherwise known as the "plan of God".
 
 ---
@@ -57,6 +62,7 @@ No potentially-misleading illustrations necessary
 <a href="/subject-index/#trinity-shared-names-elohim">Trinity > Shared names > *Elohim*</a>
 <a href="/subject-index/#trinity-shared-names-yahweh">Trinity > Shared names > *Yahweh*</a>
 {{< /subjects >}}
+<!-- p="Zechariah 2:8-9; Hebrews 1:5-14" -->
 
 Much can be understood about the Trinity through a consideration of the names by which they are revealed. Collectively, the Trinity refer to themselves as God. In the Old Testament, the Hebrew word for God, *'Elohim* (translated in the New Testament by the common Greek word for God, *theos*), is technically a plural of a word originally meaning "mighty one"; collectively then, the Trinity share this appellation, pluralized to express additional majesty.
 
@@ -65,6 +71,12 @@ Individually considered, however, members of the Trinity in the Old Testament ar
 ---
 
 ### The Names of the Trinity: Individual Names {#the-names-of-the-trinity-individual-names}
+
+{{< subjects >}}
+Progressive revelation
+Trinity Roles > Have always existed in creation
+Trinity Roles > Have not always been clearly differentiated from mankind's perspective
+{{< /subjects >}}
 
 With the fuller revelation of the Trinity in the New Testament following the revelation and advent of Jesus Christ (see [Part II C. for the Trinity in the Old Testament](https://ichthys.com/1Theo.htm#C.%20The%20Trinity%20in%20the%20Old%20Testament)), the names Father, Son and Holy Spirit give us an even clearer understanding of the roles of the Trinity (and therefore of the Trinity itself).
 
@@ -75,8 +87,11 @@ Cf. the general concept of so-called *progressive revelation*. This is an excell
 #### The Father (the 1st Person of the Trinity) {#the-father-the-1st-person-of-the-trinity}
 
 {{< subjects >}}
-<a href="/subject-index/#trinity-roles-father">Trinity > Roles > Father</a>
+Trinity > Roles > Father
+Fatherhood of God
+Typology > Human copies the divine, not the other way around
 {{< /subjects >}}
+<!-- p="Deuteronomy 32:6; Exodus 4:22; Hebrews 12:5-11; Exodus 3:14-15; Isaiah 46:9-10" -->
 
 *Origin*: The term for and idea of the Fatherhood of God, a designation well known from the New Testament, is also found in the Old Testament from the Pentateuch onward. The word Father is first used for God in Deuteronomy 32:6: "Is He not your Father? The One who bought you? He is the One who made you and established you." Later in verse 18 of the same chapter, God is referred to as "the Rock who fathered you". The concept of the fatherhood of God can also be seen at Exodus 4:22, where Israel is referred to as God's "firstborn son".
 
@@ -95,8 +110,14 @@ Being human, our earthly fathers had strengths and weaknesses, and despite their
 #### The Son (the 2nd Person of the Trinity) {#the-son-the-2nd-person-of-the-trinity}
 
 {{< subjects >}}
-<a href="/subject-index/#trinity-roles-son">Trinity > Roles > Son</a>
+Trinity > Roles > Son
+Sonship of Christ
+Typology > Human copies the divine, not the other way around
+Subordination of the Son to the Father's authoritative will
+Redemption > Only possible by the submission of the Son to the Father
+Submission > Dedicating yourself to service does not debase you, but elevates you
 {{< /subjects >}}
+<!-- p="Job 38:7; Romans 8:14; Galatians 3:26; Galatians 4:5; John 1:12; 1 John 3:1-2; Luke 3:38; 1 Corinthians 15:45; Daniel 7:13-14; Isaiah 42:18ff; Isaiah 42:1; Isaiah 52:13-53:12; Hosea 11:1; Matthew 2:15; Psalm 2:7-12; Psalm 110:1; Matthew 21:33-40; John 15:14-15; John 14:6; Ephesians 2:18; Ephesians 3:12; Mark 10:35-45" -->
 
 *Origin*: Along with the holy angels (Job 38:7 [not NIV]), we believers are all "sons" of God (Rom.8:14; Gal.3:26; 4:5; cf. Jn.1:12; 1Jn.3:1-2). This widespread franchise of sonship is based upon the paternal position of the Father relative to all His obedient creatures, but there is only one "*the* Son of God (our Lord, Jesus Christ)".
 
@@ -122,8 +143,12 @@ A son (especially a king's son) is often more accessible than a father. The role
 #### The Holy Spirit (the 3rd Person of the Trinity) {#the-holy-spirit-the-3rd-person-of-the-trinity}
 
 {{< subjects >}}
-<a href="/subject-index/#trinity-roles-holy-spirit">Trinity > Roles > Holy Spirit</a>
+Trinity > Roles > Holy Spirit
+Holy Spirit > Is a person, not just an impersonal force
+Holy Spirit > Quickens our understanding, at the individual level
+Holy Spirit > Restraint of evil in the world
 {{< /subjects >}}
+<!-- p="Genesis 1:2; Revelation 22:17; John 3:8; Zechariah 4:6; 1 Corinthians 12:3; Genesis 6:3; 1 Corinthians 12:3; 2 Thessalonians 2:5-8; John 14:16-17; Galatians 5:22-26" -->
 
 *Origin*: From the first chapter of the Old Testament (Gen.1:2), to the closing chapter of the New Testament (Rev.22:17), the word "spirit" is used to refer to God the Holy Spirit. The Hebrew and Greek words for "spirit", *ruach* and *pneuma* respectively, have the core meaning of "wind" or "breeze", and, again, there are important points to be garnered from the name analogy.
 
@@ -141,7 +166,9 @@ A son (especially a king's son) is often more accessible than a father. The role
 
 {{< subjects >}}
 <a href="/subject-index/#interpretation-not-pushing-analogies-too-far">Interpretation > Not pushing analogies too far</a>
+Holy Spirit > Is a person, not just an impersonal force
 {{< /subjects >}}
+<!-- p="John 3:5; John 14:16-17; John 14:26; John 15:26; John 16:8-15; Acts 5:3, Acts 5:9; Acts 13:2; Acts 16:6-10; Romans 8:26; 1 Corinthians 2:10; Revelation 2:7; John 14:16; John 16:7; Romans 8:4; Galatians 5:16; Galatians 5:18; John 16:7; 2 Corinthians 1:3-7; Luke 24:49; Romans 15:13" -->
 
 As should be clear from the discussion above, the names Father, Son, and Spirit are thus representative of the Trinity's individual roles in the plan of God for mankind, and have been given to help us understand the relationships and functions of the three divine personalities in that plan.
 
