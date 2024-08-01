@@ -39,7 +39,53 @@ page-title="Like Adam and Eve, we live in a broken world - as strangers in the d
 header-title="The actual introduction: Adam and Eve, and us"
 %}}
 
+## Afterlife {#afterlife}
+
+### Afterlife > Boundaries between the living and the dead as a literary theme {#afterlife-boundaries-between-the-living-and-the-dead-as-a-literary-theme}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death/#luke-16-on-the-chasm-of-separation"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Could You Explain More How All This Works with Respect to the Finality of Death?"
+header-title="Luke 16 - on the chasm of separation"
+%}}
+
+## Angels {#angels}
+
+### Angels > Are subject to matter {#angels-are-subject-to-matter}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-is-spiritual"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God is Spiritual"
+%}}
+
+### Angels > Are subject to time {#angels-are-subject-to-time}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#angels-are-subject-to-time"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="Angels are subject to time"
+%}}
+
 ## Apologetics {#apologetics}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#could-god-create-a-rock-so-big-even-he-couldn-t-lift-it"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="\"Could God create a rock so big even He couldn't lift it?\""
+%}}
 
 ### Apologetics > Combatting falsehood by refuting a representative specific argument {#apologetics-combatting-falsehood-by-refuting-a-representative-specific-argument}
 
@@ -76,6 +122,69 @@ page-title="But What About Matters That Tend Toward Gray More Than Black or Whit
 header-title="Back to the main thrust of the question"
 %}}
 
+## Baptism {#baptism}
+
+### Baptism > Is not of water, but is fundamentally spiritual in nature {#baptism-is-not-of-water-but-is-fundamentally-spiritual-in-nature}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#what-exactly-does-being-baptized-into-god-becoming-united-with-him-as-part-of-the-body-of-christ-actually-mean"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="What exactly does being baptized into God (becoming united with Him, as part of the body of Christ) actually mean?"
+%}}
+
+### Baptism > We are baptized *into* the person of the Trinity, spiritually {#baptism-we-are-baptized-into-the-person-of-the-trinity-spiritually}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#what-exactly-does-being-baptized-into-god-becoming-united-with-him-as-part-of-the-body-of-christ-actually-mean"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="What exactly does being baptized into God (becoming united with Him, as part of the body of Christ) actually mean?"
+%}}
+
+## Believers {#believers}
+
+### Believers > Live lives of eternal, spiritual purpose {#believers-live-lives-of-eternal-spiritual-purpose}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#contrasting-eternal-life-and-eternal-death"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="Contrasting eternal life and eternal death"
+%}}
+
+## Blood {#blood}
+
+### Blood > Use in ratification of covenants {#blood-use-in-ratification-of-covenants}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death/#hebrew-9-27-s-wider-context"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Could You Explain More How All This Works with Respect to the Finality of Death?"
+header-title="Hebrew 9:27's wider context"
+%}}
+
+## Blood of Christ {#blood-of-christ}
+
+### Blood of Christ > Satisfies both God's love and God's justice {#blood-of-christ-satisfies-both-god-s-love-and-god-s-justice}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/conclusions-the-essence-of-god/#an-overview-in-words"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Conclusions - The Essence of God"
+header-title="An overview in words"
+%}}
+
 ## Busybody behavior {#busybody-behavior}
 
 ### Busybody behavior > Is not proper for Christians {#busybody-behavior-is-not-proper-for-christians}
@@ -87,6 +196,19 @@ link="/questions-and-answers/self-generated/on-honoring-and-obeying-parents/howe
 study-title="On Honoring and Obeying Parents"
 page-title="However, if Our Parents Are Out of Line, There Are Exceptions"
 header-title="Should we step in if people aren't parenting how we would?"
+%}}
+
+## Central doctrines to the Christian faith {#central-doctrines-to-the-christian-faith}
+
+### Central doctrines to the Christian faith > Satan attacks more fiercely {#central-doctrines-to-the-christian-faith-satan-attacks-more-fiercely}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-bible/#so-keeping-the-focus-on-the-bible-is-necessary"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity in the Bible"
+header-title="So keeping the focus on the Bible is necessary"
 %}}
 
 ## Child abuse {#child-abuse}
@@ -146,6 +268,116 @@ link="/questions-and-answers/self-generated/on-honoring-and-obeying-parents/but-
 study-title="On Honoring and Obeying Parents"
 page-title="But What About Matters That Tend Toward Gray More Than Black or White?"
 header-title="Cultural context is important"
+%}}
+
+## Death {#death}
+
+### Death > Cannot be avoided by anyone {#death-cannot-be-avoided-by-anyone}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death/#hebrews-9-27-perhaps-speaking-in-terms-of-types-of-death-was-a-poor-choice-on-my-part"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Could You Explain More How All This Works with Respect to the Finality of Death?"
+header-title="Hebrews 9:27 - Perhaps speaking in terms of \"types of death\" was a poor choice on my part"
+%}}
+
+### Death > Locations of believers and unbelievers after physical death {#death-locations-of-believers-and-unbelievers-after-physical-death}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#before-christ-s-ascension-vs-after-christ-s-ascension-vs-in-eternity-proper"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="Before Christ's ascension vs. after Christ's ascension vs. in eternity proper"
+%}}
+
+#### Death > Locations of believers and unbelievers after physical death > Are different in eternity {#death-locations-of-believers-and-unbelievers-after-physical-death-are-different-in-eternity}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#in-eternity-proper"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="In eternity proper"
+%}}
+
+#### Death > Locations of believers and unbelievers after physical death > Changed after Christ's ascension {#death-locations-of-believers-and-unbelievers-after-physical-death-changed-after-christ-s-ascension}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#after-christ-s-ascension"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="After Christ's ascension"
+%}}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#before-christ-s-ascension"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="Before Christ's ascension"
+%}}
+
+### Death > Physical death is when someone's human spirit departs their physical body {#death-physical-death-is-when-someone-s-human-spirit-departs-their-physical-body}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#defining-terms-physical-death-means-someone-s-human-spirit-departs-their-physical-body"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="Defining terms: physical death means someone's human spirit departs their physical body"
+%}}
+
+### Death > Types of {#death-types-of}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#types-of-death"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="Types of death"
+%}}
+
+### Death > What happens after physical death {#death-what-happens-after-physical-death}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#what-happens-after-that"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="What happens after that?"
+%}}
+
+#### Death > What happens after physical death > Believers {#death-what-happens-after-physical-death-believers}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#so-answering-that-question-of-what-happens-after-physical-death-in-the-normal-case"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="So answering that question of \"what happens after physical death, in the normal case?\""
+%}}
+
+#### Death > What happens after physical death > For those who were resuscitated {#death-what-happens-after-physical-death-for-those-who-were-resuscitated}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#and-what-about-for-those-who-are-resuscitated"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="And what about for those who are resuscitated?"
 %}}
 
 ## Definite articles {#definite-articles}
@@ -235,6 +467,19 @@ page-title="Introduction to the idea that some Christians will receive greater e
 header-title="Some general passages dealing with differing levels of eternal reward"
 %}}
 
+## Euphimism {#euphimism}
+
+### Euphimism > Use in scripture {#euphimism-use-in-scripture}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/lazarus-and-jairus-daughter-are-they-sleeping-or-dead/#jesus-describing-lazarus-as-sleeping-in-john-11"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Lazarus and Jairus' Daughter - Are They Sleeping or Dead?"
+header-title="Jesus' describing Lazarus as \"sleeping\" in John 11"
+%}}
+
 ## Every knee will bow {#every-knee-will-bow}
 
 {{% subject-index-link
@@ -257,6 +502,43 @@ link="/longer-topical-studies/ichthys-sr4-satans-world-system/like-adam-and-eve-
 study-title="Ichthys' SR4 - Satan's World System"
 page-title="Like Adam and Eve, we live in a broken world - as strangers in the devil's realm"
 header-title="The contrast between pre-fall paradise and post-fall realities"
+%}}
+
+## Fallen angels {#fallen-angels}
+
+### Fallen angels > Desire for physical bodies {#fallen-angels-desire-for-physical-bodies}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#if-mankind-is-at-present-a-little-lower-than-the-angels-why-do-angels-desire-physical-bodies-like-ours"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="If mankind is at present \"a little lower than the angels\", why do angels desire physical bodies like ours?"
+%}}
+
+## Family of God {#family-of-god}
+
+### Family of God > Derives its name from the Father {#family-of-god-derives-its-name-from-the-father}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+
+%}}
+
+## Fatherhood of God {#fatherhood-of-god}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-father-the-1st-person-of-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Father (the 1st Person of the Trinity)"
 %}}
 
 ## Forgiveness {#forgiveness}
@@ -303,6 +585,15 @@ header-title="But they were included in Matthew's genealogy specifically to show
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/conclusions-the-essence-of-god/#an-overview-in-picture-form"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Conclusions - The Essence of God"
+header-title="An overview in picture form"
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
 link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-essence-of-god/"
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Introduction - The Essence of God"
@@ -340,6 +631,215 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduct
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Introduction - The Essence of God"
 header-title="Q: 1 Timothy 6:16 talks about God's unapproachable light. It also says God alone possess immortality. What does that latter statement mean?"
+%}}
+
+### God > Is *de facto* ruler of the universe {#god-is-de-facto-ruler-of-the-universe}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-is-unique"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God is Unique"
+%}}
+
+### God > Is *de jure* ruler of the universe {#god-is-de-jure-ruler-of-the-universe}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#god-is-sovereign"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="God is Sovereign"
+%}}
+
+### God > Is Spirit, but in a way different from the spirits of humans and angels {#god-is-spirit-but-in-a-way-different-from-the-spirits-of-humans-and-angels}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#what-does-it-mean-for-god-to-be-spirit-if-the-holy-spirit-is-just-one-member-of-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="What does it mean for God to be Spirit, if the Holy Spirit is just one member of the Trinity?"
+%}}
+
+### God > Is eternal {#god-is-eternal}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-is-eternal"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God is Eternal"
+%}}
+
+### God > Is faithful and true {#god-is-faithful-and-true}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#god-is-faithful-and-true"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="God is Faithful and True"
+%}}
+
+### God > Is good {#god-is-good}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#god-is-good"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="God is Good"
+%}}
+
+### God > Is holy {#god-is-holy}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#god-is-holy"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="God is Holy"
+%}}
+
+### God > Is immeasurable {#god-is-immeasurable}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-is-immeasurable-in-a-spatial-sense"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God is Immeasurable (in a spatial sense)"
+%}}
+
+### God > Is infinite in nature {#god-is-infinite-in-nature}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+
+%}}
+
+### God > Is just {#god-is-just}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#god-is-just"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="God is Just"
+%}}
+
+### God > Is life {#god-is-life}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#god-is-life"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="God is Life"
+%}}
+
+### God > Is love {#god-is-love}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#god-is-love"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="God is Love"
+%}}
+
+### God > Is omnipotent {#god-is-omnipotent}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-is-omnipotent"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God is Omnipotent"
+%}}
+
+### God > Is omnipresent {#god-is-omnipresent}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-is-omnipresent"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God is Omnipresent"
+%}}
+
+### God > Is omniscient {#god-is-omniscient}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-is-omniscient"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God is Omniscient"
+%}}
+
+### God > Is perfect in character {#god-is-perfect-in-character}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+
+%}}
+
+### God > Is sovereign {#god-is-sovereign}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#god-is-sovereign"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="God is Sovereign"
+%}}
+
+### God > Is spiritual {#god-is-spiritual}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-is-spiritual"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God is Spiritual"
+%}}
+
+### God > Is unique {#god-is-unique}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-is-unique"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God is Unique"
 %}}
 
 ### God > Name of God {#god-name-of-god}
@@ -397,6 +897,168 @@ page-title="Introduction - The Essence of God"
 header-title="Comment: God's glory as it relates to \"every knee will bow, and every tongue confess\""
 %}}
 
+## Heaven {#heaven}
+
+### Heaven > Is upon the surface of the Earth in eternity, not up in the clouds {#heaven-is-upon-the-surface-of-the-earth-in-eternity-not-up-in-the-clouds}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#wait-is-it-just-human-spirits-in-these-places-but-what-about-resurrection-bodies"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="Wait, is it just human spirits in these places? But what about resurrection bodies?"
+%}}
+
+## Heavenly geography {#heavenly-geography}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#heavenly-geography"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="\"Heavenly geography\""
+%}}
+
+### Heavenly geography > Subdivisions of Hades {#heavenly-geography-subdivisions-of-hades}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death/#luke-16-on-the-chasm-of-separation"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Could You Explain More How All This Works with Respect to the Finality of Death?"
+header-title="Luke 16 - on the chasm of separation"
+%}}
+
+## Hell {#hell}
+
+### Hell > People are sent only because of unbelief {#hell-people-are-sent-only-because-of-unbelief}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#how-is-it-just-for-unbelievers-to-face-infinite-eternal-punishment-for-finite-sins"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="\"How is it just for unbelievers to face infinite, eternal punishment for finite sins?\""
+%}}
+
+### Hell > There are no levels in hell {#hell-there-are-no-levels-in-hell}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#how-is-it-just-for-unbelievers-to-face-infinite-eternal-punishment-for-finite-sins"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="\"How is it just for unbelievers to face infinite, eternal punishment for finite sins?\""
+%}}
+
+## Holy Spirit {#holy-spirit}
+
+### Holy Spirit > Has always been present upon the Earth {#holy-spirit-has-always-been-present-upon-the-earth}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#why-wasn-t-the-spirit-sent-to-indwell-believers-before-he-actually-was-i-e-only-after-christ-s-ascension"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="Why wasn't the Spirit sent to indwell believers before He actually was (i.e., only after Christ's ascension)?"
+%}}
+
+### Holy Spirit > Indwelling ministry of {#holy-spirit-indwelling-ministry-of}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#why-wasn-t-the-spirit-sent-to-indwell-believers-before-he-actually-was-i-e-only-after-christ-s-ascension"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="Why wasn't the Spirit sent to indwell believers before He actually was (i.e., only after Christ's ascension)?"
+%}}
+
+### Holy Spirit > Is a person, not just an impersonal force {#holy-spirit-is-a-person-not-just-an-impersonal-force}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#note-analogies-are-just-analogies-and-nothing-more"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="Note: Analogies Are Just Analogies, and Nothing More"
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-holy-spirit-the-3rd-person-of-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Holy Spirit (the 3rd Person of the Trinity)"
+%}}
+
+### Holy Spirit > Quickens our understanding, at the individual level {#holy-spirit-quickens-our-understanding-at-the-individual-level}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-holy-spirit-the-3rd-person-of-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Holy Spirit (the 3rd Person of the Trinity)"
+%}}
+
+### Holy Spirit > Restraint of evil in the world {#holy-spirit-restraint-of-evil-in-the-world}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-holy-spirit-the-3rd-person-of-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Holy Spirit (the 3rd Person of the Trinity)"
+%}}
+
+## Human beings {#human-beings}
+
+### Human beings > Are dichtomous, composed of flesh and spirit {#human-beings-are-dichtomous-composed-of-flesh-and-spirit}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#on-the-nature-and-composition-of-human-beings"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="On the nature and composition of human beings"
+%}}
+
+### Human beings > Are not trichotomous (we do not *have* souls, but *are* souls) {#human-beings-are-not-trichotomous-we-do-not-have-souls-but-are-souls}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#on-the-nature-and-composition-of-human-beings"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="On the nature and composition of human beings"
+%}}
+
+## Image of God {#image-of-god}
+
+### Image of God > We are godlike in our free will/ability to choose {#image-of-god-we-are-godlike-in-our-free-will-ability-to-choose}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-joint-partakers-of-the-same-essence/#regarding-the-notion-of-us-being-small-g-gods-what-words-are-used-for-such-in-the-greek-and-hebrew"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Joint Partakers of the Same Essence"
+header-title="Regarding the notion of us being \"small G gods\", what words are used for such in the Greek and Hebrew?"
+%}}
+
 ## In the world, but not of the world {#in-the-world-but-not-of-the-world}
 
 {{% subject-index-link
@@ -406,6 +1068,232 @@ link="/longer-topical-studies/ichthys-sr4-satans-world-system/purpose-in-this-da
 study-title="Ichthys' SR4 - Satan's World System"
 page-title="Purpose in This Dark World Only Comes by Faith, Which Makes Us Outcasts Here but Chosen by God"
 header-title="Though strangers and outcasts in this world, our faith marks us out as God's chosen people"
+%}}
+
+## Incarnation {#incarnation}
+
+### Incarnation > It is only Jesus' human nature that was created/begotten {#incarnation-it-is-only-jesus-human-nature-that-was-created-begotten}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-bible/#is-jesus-the-father-s-seed-is-the-holy-spirit-the-father-s-spirit"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity in the Bible"
+header-title="Is Jesus \"the Father's seed\"? Is the Holy Spirit \"the Father's spirit\"?"
+%}}
+
+## Infinity {#infinity}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+
+%}}
+
+## Interim bodies {#interim-bodies}
+
+### Interim bodies > Bodies obtained after physical death but before resurrection {#interim-bodies-bodies-obtained-after-physical-death-but-before-resurrection}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#interim-bodies"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="Interim bodies"
+%}}
+
+## Interpretation {#interpretation}
+
+### Interpretation > Apparent contradictions {#interpretation-apparent-contradictions}
+
+#### Interpretation > Apparent contradictions > Hebrews 9:27 says people can only die once, but resuscitated people die twice {#interpretation-apparent-contradictions-hebrews-9-27-says-people-can-only-die-once-but-resuscitated-people-die-twice}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death/#so-hebrews-9-27-does-not-contradict-the-idea-of-resuscitation-qed"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Could You Explain More How All This Works with Respect to the Finality of Death?"
+header-title="So Hebrews 9:27 does not contradict the idea of resuscitation, QED"
+%}}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/lazarus-and-jairus-daughter-are-they-sleeping-or-dead/#what-of-hebrews-9-27"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Lazarus and Jairus' Daughter - Are They Sleeping or Dead?"
+header-title="What of Hebrews 9:27?"
+%}}
+
+### Interpretation > Challenges {#interpretation-challenges}
+
+#### Interpretation > Challenges > Different cultures use different idioms, metaphors, and so on {#interpretation-challenges-different-cultures-use-different-idioms-metaphors-and-so-on}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/lazarus-and-jairus-daughter-are-they-sleeping-or-dead/#jesus-describing-lazarus-as-sleeping-in-john-11"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Lazarus and Jairus' Daughter - Are They Sleeping or Dead?"
+header-title="Jesus' describing Lazarus as \"sleeping\" in John 11"
+%}}
+
+#### Interpretation > Challenges > Different people in the Bible can have the same name {#interpretation-challenges-different-people-in-the-bible-can-have-the-same-name}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/lazarus-and-jairus-daughter-are-they-sleeping-or-dead/#first-of-all-the-lazarus-of-luke-16-is-not-the-same-lazarus-as-john-11"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Lazarus and Jairus' Daughter - Are They Sleeping or Dead?"
+header-title="First of all, the Lazarus of Luke 16 is not the same Lazarus as John 11"
+%}}
+
+### Interpretation > Context often directly limits how words can be translated {#interpretation-context-often-directly-limits-how-words-can-be-translated}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+
+%}}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death/#the-greek-adverb-hapax"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Could You Explain More How All This Works with Respect to the Finality of Death?"
+header-title="The Greek adverb *hapax*"
+%}}
+
+### Interpretation > Inferences have their place when they only go so far as the evidence allows {#interpretation-inferences-have-their-place-when-they-only-go-so-far-as-the-evidence-allows}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#interim-bodies"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="Interim bodies"
+%}}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/lazarus-and-jairus-daughter-are-they-sleeping-or-dead/#it-is-not-a-euphemism-this-time-but-something-completely-different"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Lazarus and Jairus' Daughter - Are They Sleeping or Dead?"
+header-title="It is not a euphemism this time, but something completely different"
+%}}
+
+### Interpretation > NT Principles {#interpretation-nt-principles}
+
+#### Interpretation > NT Principles > "Jesus' time had not yet come" {#interpretation-nt-principles-jesus-time-had-not-yet-come}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/lazarus-and-jairus-daughter-are-they-sleeping-or-dead/#it-is-not-a-euphemism-this-time-but-something-completely-different"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Lazarus and Jairus' Daughter - Are They Sleeping or Dead?"
+header-title="It is not a euphemism this time, but something completely different"
+%}}
+
+#### Interpretation > NT Principles > "Once for all" {#interpretation-nt-principles-once-for-all}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death/#the-importance-of-the-once-for-all-concept-as-it-pertains-to-christ-s-work-completely-forces-our-hand-in-translating-hebrews-9-26-28"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Could You Explain More How All This Works with Respect to the Finality of Death?"
+header-title="The importance of the \"once for all\" concept as it pertains to Christ's work completely forces our hand in translating Hebrews 9:26, 28"
+%}}
+
+### Interpretation > Not pushing analogies too far {#interpretation-not-pushing-analogies-too-far}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#note-analogies-are-just-analogies-and-nothing-more"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="Note: Analogies Are Just Analogies, and Nothing More"
+%}}
+
+### Interpretation > Semantic overloading - words with unique connotations stemming from multiple meanings {#interpretation-semantic-overloading-words-with-unique-connotations-stemming-from-multiple-meanings}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/does-jesus-use-of-the-sleeping-terminology-have-anything-to-do-with-resuscitation/#more-explanation-about-how-sleeping-and-death-are-tightly-linguistically-coupled"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Does Jesus' Use of the Sleeping Terminology Have Anything to Do with Resuscitation?"
+header-title="More explanation about how sleeping and death are tightly linguistically coupled"
+%}}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#defining-terms-physical-death-means-someone-s-human-spirit-departs-their-physical-body"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="Defining terms: physical death means someone's human spirit departs their physical body"
+%}}
+
+### Interpretation > Sensitivity to the cultural context of the audience to whom the text was written {#interpretation-sensitivity-to-the-cultural-context-of-the-audience-to-whom-the-text-was-written}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/lazarus-and-jairus-daughter-are-they-sleeping-or-dead/#jesus-describing-jairus-daughter-as-sleeping-in-matthew-9"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Lazarus and Jairus' Daughter - Are They Sleeping or Dead?"
+header-title="Jesus' describing Jairus' daughter as \"sleeping\" in Matthew 9"
+%}}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/lazarus-and-jairus-daughter-are-they-sleeping-or-dead/#jesus-describing-lazarus-as-sleeping-in-john-11"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Lazarus and Jairus' Daughter - Are They Sleeping or Dead?"
+header-title="Jesus' describing Lazarus as \"sleeping\" in John 11"
+%}}
+
+### Interpretation > Symbolism {#interpretation-symbolism}
+
+#### Interpretation > Symbolism > Numbers {#interpretation-symbolism-numbers}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#revelation-1-4-what-is-going-on-with-the-mention-of-seven-spirits"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="Revelation 1:4 - What is going on with the mention of seven Spirits?"
+%}}
+
+## Jesus {#jesus}
+
+### Jesus > Intentionally avoided celebrity {#jesus-intentionally-avoided-celebrity}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/lazarus-and-jairus-daughter-are-they-sleeping-or-dead/#it-is-not-a-euphemism-this-time-but-something-completely-different"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Lazarus and Jairus' Daughter - Are They Sleeping or Dead?"
+header-title="It is not a euphemism this time, but something completely different"
 %}}
 
 ## Josephus {#josephus}
@@ -434,6 +1322,19 @@ page-title="The Supposed Scandal of a Prostitute in the Line of Christ"
 header-title="There could never be a harlot in the line of Jesus Christ! How heretical!"
 %}}
 
+## Limited human perspective {#limited-human-perspective}
+
+### Limited human perspective > Makes some teachings hard to understand {#limited-human-perspective-makes-some-teachings-hard-to-understand}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-bible/#the-trinity-can-be-hard-to-explain-properly"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity in the Bible"
+header-title="The Trinity can be hard to explain properly"
+%}}
+
 ## Meaning in life {#meaning-in-life}
 
 ### Meaning in life > Only comes through faith {#meaning-in-life-only-comes-through-faith}
@@ -460,6 +1361,17 @@ page-title="However, if Our Parents Are Out of Line, There Are Exceptions"
 header-title="Should we step in if people aren't parenting how we would?"
 %}}
 
+## Middle knowledge {#middle-knowledge}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-s-knowledge-of-hypotheticals"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God's knowledge of hypotheticals"
+%}}
+
 ## Minding your own business {#minding-your-own-business}
 
 {{% subject-index-link
@@ -469,6 +1381,30 @@ link="/questions-and-answers/self-generated/on-honoring-and-obeying-parents/howe
 study-title="On Honoring and Obeying Parents"
 page-title="However, if Our Parents Are Out of Line, There Are Exceptions"
 header-title="Should we step in if people aren't parenting how we would?"
+%}}
+
+## Molinism {#molinism}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-s-knowledge-of-hypotheticals"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God's knowledge of hypotheticals"
+%}}
+
+## Nephilim {#nephilim}
+
+### Nephilim > Satan's attack on the human bloodline {#nephilim-satan-s-attack-on-the-human-bloodline}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#what-does-it-mean-for-noah-to-be-called-perfect-in-his-generations"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="What does it mean for Noah to be called \"perfect in his generations\"?"
 %}}
 
 ## No man may see God and live {#no-man-may-see-god-and-live}
@@ -482,7 +1418,31 @@ page-title="Introduction - The Essence of God"
 header-title="Q: We say God dwells in this unapproachable light that no one has seen nor ever can see. What then of cases in scripture where people seem to have \"seen God?\""
 %}}
 
+## Omniscience {#omniscience}
+
+### Omniscience > includes knowledge of hypotheticals {#omniscience-includes-knowledge-of-hypotheticals}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#god-s-knowledge-of-hypotheticals"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="God's knowledge of hypotheticals"
+%}}
+
 ## Parables {#parables}
+
+### Parables > How do you know if something is a parable or actually happened? {#parables-how-do-you-know-if-something-is-a-parable-or-actually-happened}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/lazarus-and-jairus-daughter-are-they-sleeping-or-dead/#first-of-all-the-lazarus-of-luke-16-is-not-the-same-lazarus-as-john-11"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Lazarus and Jairus' Daughter - Are They Sleeping or Dead?"
+header-title="First of all, the Lazarus of Luke 16 is not the same Lazarus as John 11"
+%}}
 
 ### Parables > Parable of the minas {#parables-parable-of-the-minas}
 
@@ -611,6 +1571,28 @@ page-title="Confession, forgiveness, avoiding self-loathing, and reorienting tow
 header-title="Avoid self-loathing"
 %}}
 
+## Perfection {#perfection}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+
+%}}
+
+### Perfection > Is impossible for fallen mankind {#perfection-is-impossible-for-fallen-mankind}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#why-are-we-told-to-be-perfect-like-god-in-matthew-5-48-if-we-can-never-live-up-to-that-standard"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="Why are we told to be perfect like God in Matthew 5:48 if we can never live up to that standard?"
+%}}
+
 ## Philosophy {#philosophy}
 
 ### Philosophy > Perils of getting off in the weeds {#philosophy-perils-of-getting-off-in-the-weeds}
@@ -622,6 +1604,39 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduct
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Introduction - The Essence of God"
 header-title="Essence, nature, character... ???"
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-bible/#so-keeping-the-focus-on-the-bible-is-necessary"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity in the Bible"
+header-title="So keeping the focus on the Bible is necessary"
+%}}
+
+## Progressive revelation {#progressive-revelation}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-names-of-the-trinity-individual-names"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Names of the Trinity: Individual Names"
+%}}
+
+## Prophecy {#prophecy}
+
+### Prophecy > mechanics of {#prophecy-mechanics-of}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#the-relationship-between-future-prophecy-and-the-time-continuum"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Infinite Nature"
+header-title="The relationship between future prophecy and the time continuum"
 %}}
 
 ## Protoevangelium {#protoevangelium}
@@ -644,6 +1659,45 @@ link="/questions-and-answers/reader-correspondence/on-the-possibility-of-multipl
 study-title="On the Possibility of Multiple Rahabs"
 page-title="Dealing With the Main Arguments Against a Single Rahab Interpretation"
 
+%}}
+
+## Redemption {#redemption}
+
+### Redemption > Only possible by the submission of the Son to the Father {#redemption-only-possible-by-the-submission-of-the-son-to-the-father}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-son-the-2nd-person-of-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Son (the 2nd Person of the Trinity)"
+%}}
+
+## Resurrection {#resurrection}
+
+### Resurrection > Bodies obtained after resurrection {#resurrection-bodies-obtained-after-resurrection}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#wait-is-it-just-human-spirits-in-these-places-but-what-about-resurrection-bodies"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="Wait, is it just human spirits in these places? But what about resurrection bodies?"
+%}}
+
+## Resuscitation {#resuscitation}
+
+### Resuscitation > Is different from resurrection {#resuscitation-is-different-from-resurrection}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/lazarus-and-jairus-daughter-are-they-sleeping-or-dead/#what-of-hebrews-9-27"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Lazarus and Jairus' Daughter - Are They Sleeping or Dead?"
+header-title="What of Hebrews 9:27?"
 %}}
 
 ## Satan {#satan}
@@ -736,6 +1790,69 @@ page-title="Confession, forgiveness, avoiding self-loathing, and reorienting tow
 header-title="Looking back is not productive for us as Christians"
 %}}
 
+## Sleep {#sleep}
+
+### Sleep > As a euphemism for death {#sleep-as-a-euphemism-for-death}
+
+#### Sleep > As a euphemism for death > Does not necessarily point to eventual resuscitation {#sleep-as-a-euphemism-for-death-does-not-necessarily-point-to-eventual-resuscitation}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/does-jesus-use-of-the-sleeping-terminology-have-anything-to-do-with-resuscitation/"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Does Jesus' Use of the Sleeping Terminology Have Anything to Do with Resuscitation?"
+
+%}}
+
+### Sleep > As a euphimism for death {#sleep-as-a-euphimism-for-death}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/lazarus-and-jairus-daughter-are-they-sleeping-or-dead/#jesus-describing-lazarus-as-sleeping-in-john-11"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Lazarus and Jairus' Daughter - Are They Sleeping or Dead?"
+header-title="Jesus' describing Lazarus as \"sleeping\" in John 11"
+%}}
+
+## Sonship of Christ {#sonship-of-christ}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-son-the-2nd-person-of-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Son (the 2nd Person of the Trinity)"
+%}}
+
+## Soul {#soul}
+
+### Soul > Is the combination of flesh and spirit {#soul-is-the-combination-of-flesh-and-spirit}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#on-the-nature-and-composition-of-human-beings"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="On the nature and composition of human beings"
+%}}
+
+## Spiritual gifts {#spiritual-gifts}
+
+### Spiritual gifts > Given after Christ's ascension {#spiritual-gifts-given-after-christ-s-ascension}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#why-wasn-t-the-spirit-sent-to-indwell-believers-before-he-actually-was-i-e-only-after-christ-s-ascension"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="Why wasn't the Spirit sent to indwell believers before He actually was (i.e., only after Christ's ascension)?"
+%}}
+
 ## Spiritual perspective {#spiritual-perspective}
 
 ### Spiritual perspective > Eyes on the prize {#spiritual-perspective-eyes-on-the-prize}
@@ -760,6 +1877,43 @@ page-title="However, if Our Parents Are Out of Line, There Are Exceptions"
 header-title="Spousal abuse and divorce"
 %}}
 
+## Submission {#submission}
+
+### Submission > Dedicating yourself to service does not debase you, but elevates you {#submission-dedicating-yourself-to-service-does-not-debase-you-but-elevates-you}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-son-the-2nd-person-of-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Son (the 2nd Person of the Trinity)"
+%}}
+
+## Subordination of the Son to the Father's authoritative will {#subordination-of-the-son-to-the-father-s-authoritative-will}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-son-the-2nd-person-of-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Son (the 2nd Person of the Trinity)"
+%}}
+
+## Tabernacle {#tabernacle}
+
+### Tabernacle > Contrast between earthly and heavenly {#tabernacle-contrast-between-earthly-and-heavenly}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death/#hebrew-9-27-s-wider-context"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="Could You Explain More How All This Works with Respect to the Finality of Death?"
+header-title="Hebrew 9:27's wider context"
+%}}
+
 ## Tetragrammaton {#tetragrammaton}
 
 {{% subject-index-link
@@ -778,6 +1932,21 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduct
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Introduction - The Essence of God"
 header-title="The essence of God is being. He is the Great I AM"
+%}}
+
+## Textual criticism {#textual-criticism}
+
+### Textual criticism > Places where it matters {#textual-criticism-places-where-it-matters}
+
+#### Textual criticism > Places where it matters > 1 Corinthians 5:3 {#textual-criticism-places-where-it-matters-1-corinthians-5-3}
+
+{{% subject-index-link
+content-type="Reader Q&A"
+content-type-slugified="questions-and-answers"
+link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife/#interim-bodies"
+study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
+page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
+header-title="Interim bodies"
 %}}
 
 ## Theophany {#theophany}
@@ -817,6 +1986,425 @@ page-title="Handling Several Other Matters"
 header-title="Dr. Luginbill of Ichthys.com responding"
 %}}
 
+## Trinity {#trinity}
+
+### Trinity > All members are deity {#trinity-all-members-are-deity}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+
+%}}
+
+### Trinity > All members are distinct from one another {#trinity-all-members-are-distinct-from-one-another}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-distinct-persons/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Distinct Persons"
+
+%}}
+
+### Trinity > All members fully and equally share status, activity, and substance {#trinity-all-members-fully-and-equally-share-status-activity-and-substance}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-coequal-coeternal-and-consubstantial/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Coequal, Coeternal, and Consubstantial"
+
+%}}
+
+### Trinity > All members share the same essence {#trinity-all-members-share-the-same-essence}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-joint-partakers-of-the-same-essence/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Joint Partakers of the Same Essence"
+
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-bible/#is-jesus-the-father-s-seed-is-the-holy-spirit-the-father-s-spirit"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity in the Bible"
+header-title="Is Jesus \"the Father's seed\"? Is the Holy Spirit \"the Father's spirit\"?"
+%}}
+
+### Trinity > Definition {#trinity-definition}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-bible/#review"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity in the Bible"
+header-title="Review"
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity"
+
+%}}
+
+### Trinity > Distinctness {#trinity-distinctness}
+
+#### Trinity > Distinctness > Father {#trinity-distinctness-father}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-distinct-persons/#the-father-is-a-unique-person-in-his-own-right-for-he-is-distinct-from-the-son"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Distinct Persons"
+header-title="The Father is a unique person in His own right (for He is distinct from the Son)"
+%}}
+
+#### Trinity > Distinctness > Holy Spirit {#trinity-distinctness-holy-spirit}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-distinct-persons/#the-holy-spirit-is-a-unique-person-in-his-own-right-for-he-acts-as-a-distinct-person"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Distinct Persons"
+header-title="The Holy Spirit is a unique person in His own right (for He acts as a distinct person)"
+%}}
+
+#### Trinity > Distinctness > Son {#trinity-distinctness-son}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-distinct-persons/#the-son-is-a-unique-person-in-his-own-right-for-he-is-distinct-from-the-father"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Distinct Persons"
+header-title="The Son is a unique person in His own right (for He is distinct from the Father)"
+%}}
+
+### Trinity > Divinity {#trinity-divinity}
+
+#### Trinity > Divinity > Father {#trinity-divinity-father}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#the-father-is-god"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="The Father is God"
+%}}
+
+#### Trinity > Divinity > Holy Spirit {#trinity-divinity-holy-spirit}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#the-holy-spirit-is-god"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="The Holy Spirit is God"
+%}}
+
+#### Trinity > Divinity > Son {#trinity-divinity-son}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#the-son-is-god"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="The Son is God"
+%}}
+
+### Trinity > Illustrations {#trinity-illustrations}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/illustrating-the-trinity/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Illustrating the Trinity"
+
+%}}
+
+#### Trinity > Illustrations > Perils of {#trinity-illustrations-perils-of}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/illustrating-the-trinity/#perils-in-attempting-to-use-illustrations-for-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Illustrating the Trinity"
+header-title="Perils in attempting to use illustrations for the Trinity"
+%}}
+
+#### Trinity > Illustrations > Trinity triangle {#trinity-illustrations-trinity-triangle}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/illustrating-the-trinity/#an-illustration-from-the-early-church-the-trinity-triangle"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Illustrating the Trinity"
+header-title="An illustration from the early church: the Trinity \"triangle\""
+%}}
+
+### Trinity > Jointly partake in one single essence {#trinity-jointly-partake-in-one-single-essence}
+
+#### Trinity > Jointly partake in one single essence > Father {#trinity-jointly-partake-in-one-single-essence-father}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-joint-partakers-of-the-same-essence/#the-father-is-revealed-to-be-uniquely-god"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Joint Partakers of the Same Essence"
+header-title="The Father is revealed to be uniquely God"
+%}}
+
+#### Trinity > Jointly partake in one single essence > Holy Spirit {#trinity-jointly-partake-in-one-single-essence-holy-spirit}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-joint-partakers-of-the-same-essence/#the-holy-spirit-and-the-son-and-the-father-are-revealed-to-be-uniquely-god"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Joint Partakers of the Same Essence"
+header-title="The Holy Spirit and the Son and the Father are revealed to be uniquely God"
+%}}
+
+#### Trinity > Jointly partake in one single essence > Son {#trinity-jointly-partake-in-one-single-essence-son}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-joint-partakers-of-the-same-essence/#the-son-and-the-father-are-revealed-to-be-uniquely-god"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Joint Partakers of the Same Essence"
+header-title="The Son and the Father are revealed to be uniquely God"
+%}}
+
+### Trinity > Roles {#trinity-roles}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+
+%}}
+
+#### Trinity > Roles > Contrasted with non-biblical illustrations for Trinity {#trinity-roles-contrasted-with-non-biblical-illustrations-for-trinity}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#roles-of-the-trinity-in-the-plan-of-god"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="Roles of the Trinity in the Plan of God"
+%}}
+
+#### Trinity > Roles > Father {#trinity-roles-father}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-father-the-1st-person-of-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Father (the 1st Person of the Trinity)"
+%}}
+
+#### Trinity > Roles > Holy Spirit {#trinity-roles-holy-spirit}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-holy-spirit-the-3rd-person-of-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Holy Spirit (the 3rd Person of the Trinity)"
+%}}
+
+#### Trinity > Roles > Son {#trinity-roles-son}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-son-the-2nd-person-of-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Son (the 2nd Person of the Trinity)"
+%}}
+
+### Trinity > Scripture alone is sufficient for establishing the teaching {#trinity-scripture-alone-is-sufficient-for-establishing-the-teaching}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity/#is-the-terminology-itself-important-in-considering-the-development-of-this-doctrine"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity"
+header-title="Is the terminology itself important in considering the development of this doctrine?"
+%}}
+
+### Trinity > Share {#trinity-share}
+
+#### Trinity > Share > Eternal function of deity {#trinity-share-eternal-function-of-deity}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-coequal-coeternal-and-consubstantial/#they-all-possess-a-full-and-equal-share-of-the-eternal-function-of-deity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Coequal, Coeternal, and Consubstantial"
+header-title="They all possess a full and equal share of the *eternal function* of deity"
+%}}
+
+#### Trinity > Share > Status of deity {#trinity-share-status-of-deity}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-coequal-coeternal-and-consubstantial/#they-all-possess-a-full-and-equal-share-of-the-status-of-deity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Coequal, Coeternal, and Consubstantial"
+header-title="They all possess a full and equal share of the *status* of deity"
+%}}
+
+#### Trinity > Share > Substance of deity {#trinity-share-substance-of-deity}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-coequal-coeternal-and-consubstantial/#they-all-possess-a-full-and-equal-share-of-the-substance-of-deity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Coequal, Coeternal, and Consubstantial"
+header-title="They all possess a full and equal share of the *substance* of deity"
+%}}
+
+### Trinity > Shared names {#trinity-shared-names}
+
+#### Trinity > Shared names > *Elohim* {#trinity-shared-names-elohim}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-names-of-the-trinity-shared-names"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Names of the Trinity: Shared Names"
+%}}
+
+#### Trinity > Shared names > *Yahweh* {#trinity-shared-names-yahweh}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-names-of-the-trinity-shared-names"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Names of the Trinity: Shared Names"
+%}}
+
+### Trinity > The teaching existed before the word "Trinity" was used for it {#trinity-the-teaching-existed-before-the-word-trinity-was-used-for-it}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity/#is-the-terminology-itself-important-in-considering-the-development-of-this-doctrine"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity"
+header-title="Is the terminology itself important in considering the development of this doctrine?"
+%}}
+
+### Trinity > What it is not {#trinity-what-it-is-not}
+
+#### Trinity > What it is not > A pantheon {#trinity-what-it-is-not-a-pantheon}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-joint-partakers-of-the-same-essence/#key-point-god-is-three-in-person-but-that-does-not-mean-that-the-trinity-is-composed-of-three-or-more-different-gods"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Joint Partakers of the Same Essence"
+header-title="Key point: God is *three* in person, but that does *not* mean that the Trinity is composed of three (or more) different \"gods\""
+%}}
+
+#### Trinity > What it is not > A union with inferiority or disparity between members {#trinity-what-it-is-not-a-union-with-inferiority-or-disparity-between-members}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-coequal-coeternal-and-consubstantial/#key-point-god-is-three-in-person-but-that-does-not-mean-that-there-is-any-inferiority-or-disparity-of-status-activity-or-substance-between-the-members-of-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Coequal, Coeternal, and Consubstantial"
+header-title="Key point: God is *three* in person, but that does *not* mean that there is any inferiority or disparity of status, activity, or substance between the members of the Trinity"
+%}}
+
+#### Trinity > What it is not > Only one member possessing divinity {#trinity-what-it-is-not-only-one-member-possessing-divinity}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity/#key-point-god-is-one-in-essence-but-that-does-not-mean-that-only-one-person-of-the-trinity-is-deity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Deity"
+header-title="Key point: God is *one* in essence, but that does *not* mean that only one person of the Trinity is deity"
+%}}
+
+#### Trinity > What it is not > Only one person with multiple modes or aspects {#trinity-what-it-is-not-only-one-person-with-multiple-modes-or-aspects}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-distinct-persons/#key-point-god-is-one-in-essence-but-that-does-not-mean-that-the-trinity-is-only-one-person-merely-displaying-three-modes-or-aspects-of-himself"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="All Members of the Trinity Are Distinct Persons"
+header-title="Key point: God is *one* in essence, but that does *not* mean that the Trinity is only one person (merely displaying three modes or aspects of Himself)"
+%}}
+
+## Trinity Roles {#trinity-roles}
+
+### Trinity Roles > Have always existed in creation {#trinity-roles-have-always-existed-in-creation}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-names-of-the-trinity-individual-names"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Names of the Trinity: Individual Names"
+%}}
+
+### Trinity Roles > Have not always been clearly differentiated from mankind's perspective {#trinity-roles-have-not-always-been-clearly-differentiated-from-mankind-s-perspective}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-names-of-the-trinity-individual-names"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Names of the Trinity: Individual Names"
+%}}
+
 ## Truth {#truth}
 
 ### Truth > Most people are blind to it {#truth-most-people-are-blind-to-it}
@@ -848,6 +2436,54 @@ link="/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr
 study-title="Ichthys' SR4 - Satan's World System"
 page-title="Introduction to SR4 - Satan's World System"
 header-title="Plato's Allegory of the Cave"
+%}}
+
+## Typology {#typology}
+
+### Typology > Human copies the divine, not the other way around {#typology-human-copies-the-divine-not-the-other-way-around}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-father-the-1st-person-of-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Father (the 1st Person of the Trinity)"
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-son-the-2nd-person-of-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Son (the 2nd Person of the Trinity)"
+%}}
+
+## Unbelievers {#unbelievers}
+
+### Unbelievers > Are already positionally dead {#unbelievers-are-already-positionally-dead}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#contrasting-eternal-life-and-eternal-death"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="Contrasting eternal life and eternal death"
+%}}
+
+## Unlimited atonement {#unlimited-atonement}
+
+### Unlimited atonement > Double jeopardy {#unlimited-atonement-double-jeopardy}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character/#how-is-it-just-for-unbelievers-to-face-infinite-eternal-punishment-for-finite-sins"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="God's Perfect Character"
+header-title="\"How is it just for unbelievers to face infinite, eternal punishment for finite sins?\""
 %}}
 
 ## World {#world}
