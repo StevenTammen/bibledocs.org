@@ -135,6 +135,17 @@ page-title="All Members of the Trinity Are Deity"
 header-title="What exactly does being baptized into God (becoming united with Him, as part of the body of Christ) actually mean?"
 %}}
 
+### Baptism > Of Jesus {#baptism-of-jesus}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-roles-as-seen-from-specific-new-testament-scriptures/#matthew-3-16-17"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Trinity Roles as Seen from Specific New Testament Scriptures"
+header-title="Matthew 3:16-17"
+%}}
+
 ### Baptism > We are baptized *into* the person of the Trinity, spiritually {#baptism-we-are-baptized-into-the-person-of-the-trinity-spiritually}
 
 {{% subject-index-link
@@ -1000,6 +1011,17 @@ page-title="Roles of the Trinity in the Plan of God"
 header-title="The Holy Spirit (the 3rd Person of the Trinity)"
 %}}
 
+### Holy Spirit > Is sent by the Father on the request of the Son {#holy-spirit-is-sent-by-the-father-on-the-request-of-the-son}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-roles-as-seen-from-specific-new-testament-scriptures/#john-14-16"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Trinity Roles as Seen from Specific New Testament Scriptures"
+header-title="John 14:16"
+%}}
+
 ### Holy Spirit > Quickens our understanding, at the individual level {#holy-spirit-quickens-our-understanding-at-the-individual-level}
 
 {{% subject-index-link
@@ -1305,6 +1327,19 @@ link="/questions-and-answers/reader-correspondence/on-the-possibility-of-multipl
 study-title="On the Possibility of Multiple Rahabs"
 page-title="Handling Several Other Matters"
 header-title="\"Neither Josephus nor Joshua mention a marriage between the prostitute Rahab and Salmon\""
+%}}
+
+## Kenosis {#kenosis}
+
+### Kenosis > On the cross {#kenosis-on-the-cross}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-roles-as-seen-from-specific-new-testament-scriptures/#matthew-3-16-17"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Trinity Roles as Seen from Specific New Testament Scriptures"
+header-title="Matthew 3:16-17"
 %}}
 
 ## Legalism {#legalism}
@@ -2207,6 +2242,15 @@ content-type-slugified="longer-topical-studies"
 link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/"
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Roles of the Trinity in the Plan of God"
+
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-roles-as-seen-from-specific-new-testament-scriptures/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Trinity Roles as Seen from Specific New Testament Scriptures"
 
 %}}
 
