@@ -530,6 +530,17 @@ page-title="All Members of the Trinity Are Deity"
 
 %}}
 
+## Fatherhood of God {#fatherhood-of-god}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-father-the-1st-person-of-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Father (the 1st Person of the Trinity)"
+%}}
+
 ## Forgiveness {#forgiveness}
 
 ### Forgiveness > Even if Jesus paid it all, it can be hard for us to embrace the forgiveness as we ought {#forgiveness-even-if-jesus-paid-it-all-it-can-be-hard-for-us-to-embrace-the-forgiveness-as-we-ought}
@@ -969,6 +980,48 @@ page-title="All Members of the Trinity Are Deity"
 header-title="Why wasn't the Spirit sent to indwell believers before He actually was (i.e., only after Christ's ascension)?"
 %}}
 
+### Holy Spirit > Is a person, not just an impersonal force {#holy-spirit-is-a-person-not-just-an-impersonal-force}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#note-analogies-are-just-analogies-and-nothing-more"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="Note: Analogies Are Just Analogies, and Nothing More"
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-holy-spirit-the-3rd-person-of-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Holy Spirit (the 3rd Person of the Trinity)"
+%}}
+
+### Holy Spirit > Quickens our understanding, at the individual level {#holy-spirit-quickens-our-understanding-at-the-individual-level}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-holy-spirit-the-3rd-person-of-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Holy Spirit (the 3rd Person of the Trinity)"
+%}}
+
+### Holy Spirit > Restraint of evil in the world {#holy-spirit-restraint-of-evil-in-the-world}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-holy-spirit-the-3rd-person-of-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Holy Spirit (the 3rd Person of the Trinity)"
+%}}
+
 ## Human beings {#human-beings}
 
 ### Human beings > Are dichtomous, composed of flesh and spirit {#human-beings-are-dichtomous-composed-of-flesh-and-spirit}
@@ -1164,6 +1217,17 @@ link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-deat
 study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
 page-title="Could You Explain More How All This Works with Respect to the Finality of Death?"
 header-title="The importance of the \"once for all\" concept as it pertains to Christ's work completely forces our hand in translating Hebrews 9:26, 28"
+%}}
+
+### Interpretation > Not pushing analogies too far {#interpretation-not-pushing-analogies-too-far}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#note-analogies-are-just-analogies-and-nothing-more"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="Note: Analogies Are Just Analogies, and Nothing More"
 %}}
 
 ### Interpretation > Semantic overloading - words with unique connotations stemming from multiple meanings {#interpretation-semantic-overloading-words-with-unique-connotations-stemming-from-multiple-meanings}
@@ -1551,6 +1615,17 @@ page-title="Introduction - The Trinity in the Bible"
 header-title="So keeping the focus on the Bible is necessary"
 %}}
 
+## Progressive revelation {#progressive-revelation}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-names-of-the-trinity-individual-names"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Names of the Trinity: Individual Names"
+%}}
+
 ## Prophecy {#prophecy}
 
 ### Prophecy > mechanics of {#prophecy-mechanics-of}
@@ -1584,6 +1659,19 @@ link="/questions-and-answers/reader-correspondence/on-the-possibility-of-multipl
 study-title="On the Possibility of Multiple Rahabs"
 page-title="Dealing With the Main Arguments Against a Single Rahab Interpretation"
 
+%}}
+
+## Redemption {#redemption}
+
+### Redemption > Only possible by the submission of the Son to the Father {#redemption-only-possible-by-the-submission-of-the-son-to-the-father}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-son-the-2nd-person-of-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Son (the 2nd Person of the Trinity)"
 %}}
 
 ## Resurrection {#resurrection}
@@ -1728,6 +1816,17 @@ page-title="Lazarus and Jairus' Daughter - Are They Sleeping or Dead?"
 header-title="Jesus' describing Lazarus as \"sleeping\" in John 11"
 %}}
 
+## Sonship of Christ {#sonship-of-christ}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-son-the-2nd-person-of-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Son (the 2nd Person of the Trinity)"
+%}}
+
 ## Soul {#soul}
 
 ### Soul > Is the combination of flesh and spirit {#soul-is-the-combination-of-flesh-and-spirit}
@@ -1776,6 +1875,30 @@ link="/questions-and-answers/self-generated/on-honoring-and-obeying-parents/howe
 study-title="On Honoring and Obeying Parents"
 page-title="However, if Our Parents Are Out of Line, There Are Exceptions"
 header-title="Spousal abuse and divorce"
+%}}
+
+## Submission {#submission}
+
+### Submission > Dedicating yourself to service does not debase you, but elevates you {#submission-dedicating-yourself-to-service-does-not-debase-you-but-elevates-you}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-son-the-2nd-person-of-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Son (the 2nd Person of the Trinity)"
+%}}
+
+## Subordination of the Son to the Father's authoritative will {#subordination-of-the-son-to-the-father-s-authoritative-will}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-son-the-2nd-person-of-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Son (the 2nd Person of the Trinity)"
 %}}
 
 ## Tabernacle {#tabernacle}
@@ -2076,6 +2199,61 @@ page-title="All Members of the Trinity Are Joint Partakers of the Same Essence"
 header-title="The Son and the Father are revealed to be uniquely God"
 %}}
 
+### Trinity > Roles {#trinity-roles}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+
+%}}
+
+#### Trinity > Roles > Contrasted with non-biblical illustrations for Trinity {#trinity-roles-contrasted-with-non-biblical-illustrations-for-trinity}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#roles-of-the-trinity-in-the-plan-of-god"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="Roles of the Trinity in the Plan of God"
+%}}
+
+#### Trinity > Roles > Father {#trinity-roles-father}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-father-the-1st-person-of-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Father (the 1st Person of the Trinity)"
+%}}
+
+#### Trinity > Roles > Holy Spirit {#trinity-roles-holy-spirit}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-holy-spirit-the-3rd-person-of-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Holy Spirit (the 3rd Person of the Trinity)"
+%}}
+
+#### Trinity > Roles > Son {#trinity-roles-son}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-son-the-2nd-person-of-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Son (the 2nd Person of the Trinity)"
+%}}
+
 ### Trinity > Scripture alone is sufficient for establishing the teaching {#trinity-scripture-alone-is-sufficient-for-establishing-the-teaching}
 
 {{% subject-index-link
@@ -2120,6 +2298,30 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-membe
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="All Members of the Trinity Are Coequal, Coeternal, and Consubstantial"
 header-title="They all possess a full and equal share of the *substance* of deity"
+%}}
+
+### Trinity > Shared names {#trinity-shared-names}
+
+#### Trinity > Shared names > *Elohim* {#trinity-shared-names-elohim}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-names-of-the-trinity-shared-names"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Names of the Trinity: Shared Names"
+%}}
+
+#### Trinity > Shared names > *Yahweh* {#trinity-shared-names-yahweh}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-names-of-the-trinity-shared-names"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Names of the Trinity: Shared Names"
 %}}
 
 ### Trinity > The teaching existed before the word "Trinity" was used for it {#trinity-the-teaching-existed-before-the-word-trinity-was-used-for-it}
@@ -2179,6 +2381,30 @@ page-title="All Members of the Trinity Are Distinct Persons"
 header-title="Key point: God is *one* in essence, but that does *not* mean that the Trinity is only one person (merely displaying three modes or aspects of Himself)"
 %}}
 
+## Trinity Roles {#trinity-roles}
+
+### Trinity Roles > Have always existed in creation {#trinity-roles-have-always-existed-in-creation}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-names-of-the-trinity-individual-names"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Names of the Trinity: Individual Names"
+%}}
+
+### Trinity Roles > Have not always been clearly differentiated from mankind's perspective {#trinity-roles-have-not-always-been-clearly-differentiated-from-mankind-s-perspective}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-names-of-the-trinity-individual-names"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Names of the Trinity: Individual Names"
+%}}
+
 ## Truth {#truth}
 
 ### Truth > Most people are blind to it {#truth-most-people-are-blind-to-it}
@@ -2210,6 +2436,28 @@ link="/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr
 study-title="Ichthys' SR4 - Satan's World System"
 page-title="Introduction to SR4 - Satan's World System"
 header-title="Plato's Allegory of the Cave"
+%}}
+
+## Typology {#typology}
+
+### Typology > Human copies the divine, not the other way around {#typology-human-copies-the-divine-not-the-other-way-around}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-father-the-1st-person-of-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Father (the 1st Person of the Trinity)"
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-son-the-2nd-person-of-the-trinity"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Roles of the Trinity in the Plan of God"
+header-title="The Son (the 2nd Person of the Trinity)"
 %}}
 
 ## Unbelievers {#unbelievers}
