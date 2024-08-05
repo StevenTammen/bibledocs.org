@@ -196,6 +196,19 @@ page-title="Conclusions - The Essence of God"
 header-title="An overview in words"
 %}}
 
+## Born again {#born-again}
+
+### Born again > Spirit not water {#born-again-spirit-not-water}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-roles-as-demonstrated-in-gods-plan-for-human-history/#regeneration-of-the-believer"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Trinity Roles as Demonstrated in Gods Plan for Human History"
+header-title="Regeneration of the Believer"
+%}}
+
 ## Busybody behavior {#busybody-behavior}
 
 ### Busybody behavior > Is not proper for Christians {#busybody-behavior-is-not-proper-for-christians}
@@ -266,6 +279,17 @@ link="/longer-topical-studies/ichthys-bb6a-the-study-of-the-christian-walk-group
 study-title="Group Study - Ichthys' BB6A Peripateology - The Study of the Christian Walk"
 page-title="Confession, forgiveness, avoiding self-loathing, and reorienting towards God after we fall"
 header-title="Confess to the Lord"
+%}}
+
+## Creation of the world {#creation-of-the-world}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-roles-as-demonstrated-in-gods-plan-for-human-history/#creation-of-the-world"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Trinity Roles as Demonstrated in Gods Plan for Human History"
+header-title="Creation of the World"
 %}}
 
 ## Culture {#culture}
@@ -443,6 +467,19 @@ page-title="Introduction - The Essence of God"
 header-title="Essence, nature, character... ???"
 %}}
 
+## Eternal Rewards {#eternal-rewards}
+
+### Eternal Rewards > Crowns {#eternal-rewards-crowns}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-roles-as-demonstrated-in-gods-plan-for-human-history/#virtues-of-the-believer"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Trinity Roles as Demonstrated in Gods Plan for Human History"
+header-title="Virtues of the Believer"
+%}}
+
 ## Eternal rewards {#eternal-rewards}
 
 ### Eternal rewards > Not all people will receive the same amount {#eternal-rewards-not-all-people-will-receive-the-same-amount}
@@ -590,6 +627,17 @@ header-title="But they were included in Matthew's genealogy specifically to show
 %}}
 
 ## God {#god}
+
+### God > Don't put God in a box {#god-don-t-put-god-in-a-box}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-roles-as-demonstrated-in-gods-plan-for-human-history/#caveats"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Trinity Roles as Demonstrated in Gods Plan for Human History"
+header-title="Caveats"
+%}}
 
 ### God > Essence {#god-essence}
 
@@ -1307,6 +1355,17 @@ header-title="Revelation 1:4 - What is going on with the mention of seven Spirit
 
 ## Jesus {#jesus}
 
+### Jesus > First advent {#jesus-first-advent}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-roles-as-demonstrated-in-gods-plan-for-human-history/#christ-s-1st-advent"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Trinity Roles as Demonstrated in Gods Plan for Human History"
+header-title="Christ's 1st Advent"
+%}}
+
 ### Jesus > Intentionally avoided celebrity {#jesus-intentionally-avoided-celebrity}
 
 {{% subject-index-link
@@ -1330,6 +1389,15 @@ header-title="\"Neither Josephus nor Joshua mention a marriage between the prost
 %}}
 
 ## Kenosis {#kenosis}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-roles-as-demonstrated-in-gods-plan-for-human-history/#the-victory-of-salvation"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Trinity Roles as Demonstrated in Gods Plan for Human History"
+header-title="The Victory of Salvation"
+%}}
 
 ### Kenosis > On the cross {#kenosis-on-the-cross}
 
@@ -1368,6 +1436,19 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduct
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Introduction - The Trinity in the Bible"
 header-title="The Trinity can be hard to explain properly"
+%}}
+
+## Logos {#logos}
+
+### Logos > Meanings behind the word {#logos-meanings-behind-the-word}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-roles-as-demonstrated-in-gods-plan-for-human-history/#revelation-of-the-word"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Trinity Roles as Demonstrated in Gods Plan for Human History"
+header-title="Revelation of the Word"
 %}}
 
 ## Meaning in life {#meaning-in-life}
@@ -1593,6 +1674,17 @@ page-title="Scripture Is Clear That We Are to Honor and Obey Our Parents"
 header-title="Some direct quotes from scripture: obeying parents"
 %}}
 
+## Pelagianisnm {#pelagianisnm}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-roles-as-demonstrated-in-gods-plan-for-human-history/#walk-of-the-believer"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Trinity Roles as Demonstrated in Gods Plan for Human History"
+header-title="Walk of the Believer"
+%}}
+
 ## Penance {#penance}
 
 ### Penance > Is bad theology {#penance-is-bad-theology}
@@ -1650,6 +1742,30 @@ page-title="Introduction - The Trinity in the Bible"
 header-title="So keeping the focus on the Bible is necessary"
 %}}
 
+## Plan of God {#plan-of-god}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-roles-as-demonstrated-in-gods-plan-for-human-history/#the-plan-of-god-generally"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Trinity Roles as Demonstrated in Gods Plan for Human History"
+header-title="The Plan of God Generally"
+%}}
+
+## Prayer {#prayer}
+
+### Prayer > Access to the throne room of God was purchased with the blood of Christ {#prayer-access-to-the-throne-room-of-god-was-purchased-with-the-blood-of-christ}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-roles-as-demonstrated-in-gods-plan-for-human-history/#prayers-of-the-believer"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Trinity Roles as Demonstrated in Gods Plan for Human History"
+header-title="Prayers of the Believer"
+%}}
+
 ## Progressive revelation {#progressive-revelation}
 
 {{% subject-index-link
@@ -1696,6 +1812,17 @@ page-title="Dealing With the Main Arguments Against a Single Rahab Interpretatio
 
 %}}
 
+## Reconciliation {#reconciliation}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-roles-as-demonstrated-in-gods-plan-for-human-history/#reconciliation-of-the-believer"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Trinity Roles as Demonstrated in Gods Plan for Human History"
+header-title="Reconciliation of the Believer"
+%}}
+
 ## Redemption {#redemption}
 
 ### Redemption > Only possible by the submission of the Son to the Father {#redemption-only-possible-by-the-submission-of-the-son-to-the-father}
@@ -1707,6 +1834,17 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Roles of the Trinity in the Plan of God"
 header-title="The Son (the 2nd Person of the Trinity)"
+%}}
+
+## Regeneration {#regeneration}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-roles-as-demonstrated-in-gods-plan-for-human-history/#regeneration-of-the-believer"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Trinity Roles as Demonstrated in Gods Plan for Human History"
+header-title="Regeneration of the Believer"
 %}}
 
 ## Resurrection {#resurrection}
@@ -1733,6 +1871,19 @@ link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-deat
 study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
 page-title="Lazarus and Jairus' Daughter - Are They Sleeping or Dead?"
 header-title="What of Hebrews 9:27?"
+%}}
+
+## Sanctification {#sanctification}
+
+### Sanctification > The standard is perfection {#sanctification-the-standard-is-perfection}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-roles-as-demonstrated-in-gods-plan-for-human-history/#walk-of-the-believer"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Trinity Roles as Demonstrated in Gods Plan for Human History"
+header-title="Walk of the Believer"
 %}}
 
 ## Satan {#satan}
@@ -1877,6 +2028,26 @@ header-title="On the nature and composition of human beings"
 
 ## Spiritual gifts {#spiritual-gifts}
 
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-roles-as-demonstrated-in-gods-plan-for-human-history/#spiritual-gifts-of-the-believer"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Trinity Roles as Demonstrated in Gods Plan for Human History"
+header-title="Spiritual Gifts of the Believer"
+%}}
+
+### Spiritual gifts > All believers have them, not only pastors and missionaries and so on {#spiritual-gifts-all-believers-have-them-not-only-pastors-and-missionaries-and-so-on}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-roles-as-demonstrated-in-gods-plan-for-human-history/#spiritual-gifts-of-the-believer"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Trinity Roles as Demonstrated in Gods Plan for Human History"
+header-title="Spiritual Gifts of the Believer"
+%}}
+
 ### Spiritual gifts > Given after Christ's ascension {#spiritual-gifts-given-after-christ-s-ascension}
 
 {{% subject-index-link
@@ -1982,6 +2153,17 @@ link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-deat
 study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
 page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
 header-title="Interim bodies"
+%}}
+
+## The Word of God {#the-word-of-god}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-roles-as-demonstrated-in-gods-plan-for-human-history/#revelation-of-the-word"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Trinity Roles as Demonstrated in Gods Plan for Human History"
+header-title="Revelation of the Word"
 %}}
 
 ## Theophany {#theophany}
@@ -2248,6 +2430,15 @@ page-title="Roles of the Trinity in the Plan of God"
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-roles-as-demonstrated-in-gods-plan-for-human-history/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Trinity Roles as Demonstrated in Gods Plan for Human History"
+
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
 link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-roles-as-seen-from-specific-new-testament-scriptures/"
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Trinity Roles as Seen from Specific New Testament Scriptures"
@@ -2379,6 +2570,17 @@ page-title="Introduction - The Trinity"
 header-title="Is the terminology itself important in considering the development of this doctrine?"
 %}}
 
+### Trinity > Understood through God's redemptive plan for humankind {#trinity-understood-through-god-s-redemptive-plan-for-humankind}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-roles-as-demonstrated-in-gods-plan-for-human-history/#overview"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Trinity Roles as Demonstrated in Gods Plan for Human History"
+header-title="Overview"
+%}}
+
 ### Trinity > What it is not {#trinity-what-it-is-not}
 
 #### Trinity > What it is not > A pantheon {#trinity-what-it-is-not-a-pantheon}
@@ -2447,6 +2649,17 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Roles of the Trinity in the Plan of God"
 header-title="The Names of the Trinity: Individual Names"
+%}}
+
+### Trinity Roles > In God's relationship with the angels {#trinity-roles-in-god-s-relationship-with-the-angels}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-roles-as-demonstrated-in-gods-plan-for-human-history/#creation-of-the-world"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Trinity Roles as Demonstrated in Gods Plan for Human History"
+header-title="Creation of the World"
 %}}
 
 ## Truth {#truth}
@@ -2528,6 +2741,52 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perf
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="God's Perfect Character"
 header-title="\"How is it just for unbelievers to face infinite, eternal punishment for finite sins?\""
+%}}
+
+## Virtue thinking {#virtue-thinking}
+
+### Virtue thinking > Faith {#virtue-thinking-faith}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-roles-as-demonstrated-in-gods-plan-for-human-history/#virtues-of-the-believer"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Trinity Roles as Demonstrated in Gods Plan for Human History"
+header-title="Virtues of the Believer"
+%}}
+
+### Virtue thinking > Hope {#virtue-thinking-hope}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-roles-as-demonstrated-in-gods-plan-for-human-history/#virtues-of-the-believer"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Trinity Roles as Demonstrated in Gods Plan for Human History"
+header-title="Virtues of the Believer"
+%}}
+
+### Virtue thinking > Love {#virtue-thinking-love}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-roles-as-demonstrated-in-gods-plan-for-human-history/#virtues-of-the-believer"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Trinity Roles as Demonstrated in Gods Plan for Human History"
+header-title="Virtues of the Believer"
+%}}
+
+## Walk of the believer {#walk-of-the-believer}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-roles-as-demonstrated-in-gods-plan-for-human-history/#walk-of-the-believer"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Trinity Roles as Demonstrated in Gods Plan for Human History"
+header-title="Walk of the Believer"
 %}}
 
 ## World {#world}
