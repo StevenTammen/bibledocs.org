@@ -11874,4 +11874,4375 @@ To take the last case, for example, prayer in scripture is almost always address
 {{% /discussion-pages %}}
 
 
+
+
+<br/>
+
+
+
+## [Introduction - The Trinity in the Old Testament](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-old-testament) {#introduction-the-trinity-in-the-old-testament}
+{{< subjects >}}
+<a href="/subject-index/#trinity-roles">Trinity > Roles</a>
+{{< /subjects >}}
+
+
+
+### Video {#introduction-the-trinity-in-the-old-testament-video}
+
+{{% video
+videoId="2XAJZQUjYn0"
+
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8"
+
+slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-old-testament"
+%}}
+
+### Summary {#introduction-the-trinity-in-the-old-testament-summary}
+
+God has always been triune in nature; He did not somehow change to become three persons in New Testament times, but rather, has always existed as such. What has changed is not God, but our perspective and understanding of Him. As to why God might have chosen to veil his triune nature until the time He actually did reveal it to mankind, we put forward two explanations: that God did not reveal His triune nature in order to head off idolatry among the people of Israel, and that God did not reveal His triune nature simply because it was not possible for humanity to fully grasp it until the First Advent of Christ.
+
+### Timestamps {#introduction-the-trinity-in-the-old-testament-timestamps}
+
+{{% timestamp videoId="2XAJZQUjYn0" time="0" display="0:00" %}} - Intro and outline  
+{{% timestamp videoId="2XAJZQUjYn0" time="321" display="05:21" %}} - Given the benefit of subsequent clarifying New Testament revelation, the Trinity is visible in the Old Testament  
+{{% timestamp videoId="2XAJZQUjYn0" time="1025" display="17:05" %}} - Matthew 22:41-46  
+{{% timestamp videoId="2XAJZQUjYn0" time="2277" display="37:57" %}} - Prophetic foreshortening  
+{{% timestamp videoId="2XAJZQUjYn0" time="2862" display="47:42" %}} - Why did God decide to veil the triune nature of His essence in Old Testament times?  
+&emsp;{{% timestamp videoId="2XAJZQUjYn0" time="3696" display="01:01:36" %}} - Idolatry as an explanation for God's veiling of His nature  
+&emsp;{{% timestamp videoId="2XAJZQUjYn0" time="4553" display="01:15:53" %}} - The person of Jesus Christ not yet come as an explanation for God's veiling of His nature  
+{{% timestamp videoId="2XAJZQUjYn0" time="5731" display="01:35:31" %}} - Summary and outro  
+
+{{% toggleable-content %}}
+
+### Content {#introduction-the-trinity-in-the-old-testament-content}
+
+(Derived from https://ichthys.com/1Theo.htm)
+
+<!-- --- -->
+
+#### Given the benefit of subsequent clarifying New Testament revelation, the Trinity is visible in the Old Testament {#introduction-the-trinity-in-the-old-testament-given-the-benefit-of-subsequent-clarifying-new-testament-revelation-the-trinity-is-visible-in-the-old-testament}
+
+{{< subjects >}}
+<a href="/subject-index/#trinity-is-clearly-visible-in-old-testament-when-viewed-in-light-of-the-new-testament">Trinity > Is clearly visible in Old Testament, when viewed in light of the New Testament</a>
+<a href="/subject-index/#progressive-revelation">Progressive revelation</a>
+{{< /subjects >}}
+<!-- p="Genesis 1:26; Isaiah 6:3; Numbers 6:24-26; 2 Samuel 23:2-3; 1 Corinthians 10:4; Isaiah 48:15-17; Isaiah 63:9-10; Zechariah 2:7-13; Matthew 22:41-46" -->
+
+The Trinity is not only present in the verses of the Old Testament, but portrayed clearly enough to see (with the benefit of New Testament revelation).
+- When God says "let *us* make Man in *our* image (Gen.1:26)
+- When the angels of God praise Him with their three-fold "holy, holy, holy" (Is.6:3)
+- When Aaron's sons are told to "put My name" on the Israelites with a triple blessing (Num.6:24-26)
+
+In these cases and others, the clear intent is to reflect (if not to convey) the triune nature of God. Moreover, some Old Testament scriptures cast the Trinity in even sharper relief, such as king David's last words which in quick succession refer to God as "the Spirit of the Lord", "the God of Israel", and "the Rock of Israel" (2Sam.23:2-3; see 1Cor.10:4 for the image of Christ as Israel's Rock). There are many other passages commonly cited to demonstrate the reality of the Trinity in the Old Testament, a reality shimmering just beneath the veil (e.g., Is.48:15-17; 63:9-10), but perhaps the best example is the one used by our Lord to demonstrate that His divinity was indeed prophesied by scripture (cf. Zech.2:7-13): Matthew 22:41-46. We'll look at this passage next.
+
+<!-- --- -->
+
+#### Matthew 22:41-46 {#introduction-the-trinity-in-the-old-testament-matthew-22-41-46}
+
+{{< subjects >}}
+<a href="/subject-index/#progressive-revelation">Progressive revelation</a>
+<a href="/subject-index/#progressive-revelation-there-are-still-plenty-of-matters-veiled-from-us">Progressive revelation > There are still plenty of matters veiled from us</a>
+<a href="/subject-index/#old-testament-believers-earnestly-desired-to-have-the-knowledge-we-now-have">Old Testament Believers > Earnestly desired to have the knowledge we now have</a>
+<a href="/subject-index/#angels-are-interested-in-god-s-redemptive-plan-for-humanity">Angels > Are interested in God's redemptive plan for humanity</a>
+{{< /subjects >}}
+<!-- p="Matthew 22:41-46; Matthew 13:17; Luke 10:24; John 8:56; 1 Peter 1:10-12; Romans 3:25; Psalm 110:1" -->
+
+{{% ichthys-translation p="Matthew 22:41-46" %}}
+As the Pharisees were gathering together, Jesus put a question to them, saying "What do you think about the Messiah? Whose son is he?" They answered Him, "David's son." Then He said to them, "Well then, how can David, speaking in the Spirit, call Him Lord? For he says,  
+&emsp;&emsp;The Lord said to My Lord,  
+&emsp;&emsp;"Sit down at my right hand,  
+&emsp;&emsp;until I make your enemies a footstool for your feet." [Psalm 110:1]  
+So if David calls Him Lord, how is He his Son?" And no one was able to answer Him a word, nor did anyone dare to question Him any longer from that day forward.                  
+{{% /ichthys-translation %}}
+
+We are not to assume that David, when he penned this prophecy under divine inspiration, saw the coming Christ as clearly as he wished to. Indeed, we have it from Christ that "many prophets and righteous men desired to see" what was being revealed to Jesus' generation face to face, namely, the unveiling of the Messiah (Matt.13:17; Lk.10:24; cf. Jn.8:56; 1Pet.1:10-12). The revelation of Jesus Christ to the world during His 1st Advent, in addition to explaining passages such as Ps.110:1 above (Christ is David's Son in His humanity, but David's Lord in His deity), is also, not coincidentally, the basis for explaining many other Old Testament passages that are only fully understood by means of our likewise now more complete understanding of the Trinity.
+
+<!-- --- -->
+
+#### Prophetic foreshortening {#introduction-the-trinity-in-the-old-testament-prophetic-foreshortening}
+
+{{< subjects >}}
+<a href="/subject-index/#prophetic-foreshortening">Prophetic foreshortening</a>
+<a href="/subject-index/#interpretation-principles-prophetic-foreshortening">Interpretation > Principles > Prophetic foreshortening</a>
+<a href="/subject-index/#prophetic-foreshortening-examples-trinity">Prophetic foreshortening > Examples > Trinity</a>
+<a href="/subject-index/#prophetic-foreshortening-examples-coming-of-the-messiah">Prophetic foreshortening > Examples > Coming of the Messiah</a>
+{{< /subjects >}}
+
+In the Old Testament, the three Persons stand in front of us like three mighty mountains, one after the other, all partially visible, but not readily distinguishable from each other. Only with the revelation provided by the incarnation of Jesus Christ and the New Testament do we see the Old Testament picture of the Trinity from a sidelong perspective, so that now the three mountains become visible in their own right when viewed from this new vantage point.
+
+We should note that all three mountains have always been there, even if humanity was not previously able to distinguish them from one another. One did not suddenly become three. Instead, our perspective merely changed.
+
+This illustration of the Trinity in the Old Testament is commonly called "prophetic foreshortening". For more on this phenomenon, see [part 1 of Coming Tribulation, section IV.1.a, "Prophetical Foreshortening"](https://ichthys.com/Tribulation-Part1.htm#Foreshortening).
+
+<!-- --- -->
+
+#### Why did God decide to veil the triune nature of His essence in Old Testament times? {#introduction-the-trinity-in-the-old-testament-why-did-god-decide-to-veil-the-triune-nature-of-his-essence-in-old-testament-times}
+
+{{< subjects >}}
+<a href="/subject-index/#hypotheticals-there-is-one-perfect-plan-of-god-that-actually-happens">Hypotheticals > There is one perfect Plan of God that actually happens</a>
+<a href="/subject-index/#faith-fully-trusting-god-that-what-has-happened-is-objectively-best">Faith > Fully trusting God that what has happened is objectively best</a>
+<a href="/subject-index/#faith-giving-god-the-benefit-of-the-doubt">Faith > Giving God the benefit of the doubt</a>
+{{< /subjects >}}
+<!-- p="Matthew 11:20-24" -->
+
+Exactly why did God decide to veil the triune nature of His essence in Old Testament times, choosing instead to only foreshadow it, in the manner discussed above?
+
+Sometimes the explanation put forth for this veiling is the prevention of idolatry: God did not make His triune nature known to Israel in Old Testament times to help them avoid falling into idolatry (the mechanics of which we will examine in a moment). While this explanation has merit, it is not alone sufficient. We will instead argue that God did not reveal Himself in triune form before the 1st Advent of Christ simply because the Trinity can only be clearly explained and understood after the 1st Advent of Christ.
+
+In any case, the point is God has good reasons for His progressive revelation of truth to humanity, and we need to have unshakeable faith in His wisdom and judgment. God knows what He is doing... and not in the way we humans think we do. For He is control of *everything*, and nothing happens except that which is part of His Plan.
+
+<!-- --- -->
+
+##### Idolatry as an explanation for God's veiling of His nature {#introduction-the-trinity-in-the-old-testament-idolatry-as-an-explanation-for-god-s-veiling-of-his-nature}
+
+{{< subjects >}}
+<a href="/subject-index/#interpretation-inferences-have-their-place-when-they-only-go-so-far-as-the-evidence-allows">Interpretation > Inferences have their place when they only go so far as the evidence allows</a>
+<a href="/subject-index/#idolatry-of-israel">Idolatry > Of Israel</a>
+<a href="/subject-index/#israel-theocracy-idolatry-had-severe-national-consequences">Israel > Theocracy > Idolatry had severe national consequences</a>
+<a href="/subject-index/#trinity-what-it-is-not-a-pantheon">Trinity > What it is not > A pantheon</a>
+{{< /subjects >}}
+<!-- p="Exodus 20:1-6; Numbers 25; John 10:30; 1 Corinthians 3:8" -->
+
+Idolatry, a major problem in ancient times and one of Israel's most serious stumbling blocks, is often adduced as the reason for this veiling in pre-Christian times of our present knowledge of the Trinity. Certainly it is true that the threat of idolatry to the faith and practice of Old Testament believers was a very real one. We need only to consider that the first two of the "ten commandments" deal with this subject (Ex.20:1-6), and that Balaam's counsel of idolatrous seduction was more destructive to Israel than any curse could ever have been (Num.25). The argument suggests that there was, therefore, a need to emphasize the *oneness* of God in the face of this very real polytheistic threat, thus obviating any possible twisting of a proper understanding of the Trinity. This explanation possesses much of value, but it does not entirely resolve the matter.
+
+{{% sidenote %}}
+
+Pagan pantheons (not to mention pagan religions) are different from God and the true worship of Him in every way, and this would have been obvious to true believers, revelation of the Trinity notwithstanding. To state but two obvious points of departure, pagan pantheons are never even close to being "one" in purpose as the Trinity is (Jn.10:30; cf. 1Cor.3:8), nor are their individual members so integral to the existence of the whole.
+
+{{% /sidenote %}}
+
+<!-- --- -->
+
+##### The person of Jesus Christ not yet come as an explanation for God's veiling of His nature {#introduction-the-trinity-in-the-old-testament-the-person-of-jesus-christ-not-yet-come-as-an-explanation-for-god-s-veiling-of-his-nature}
+
+{{< subjects >}}
+<a href="/subject-index/#interpretation-inferences-have-their-place-when-they-only-go-so-far-as-the-evidence-allows">Interpretation > Inferences have their place when they only go so far as the evidence allows</a>
+<a href="/subject-index/#trinity-cannot-be-fully-understood-by-humanity-without-the-witness-of-the-first-advent-of-christ">Trinity > Cannot be fully understood by humanity without the witness of the First Advent of Christ</a>
+{{< /subjects >}}
+<!-- p="John 1:14; John 1:18; John 14:9; Hebrews 1:1-3; Matthew 27:51; 2 Corinthians 4:6; 2 Corinthians 3:14; John 7:39" -->
+
+The full answer lies in the person of Jesus Christ. Before the fact, before we see with our own eyes Christ come in the flesh, His humility, His suffering, His sacrifice for us, can we really appreciate in full the Trinity and what God has chosen to do for us in Christ's incarnation and death on the cross? Without the *accomplished reality* of the incarnation of Jesus, how could we ever but dimly conceive the glory of it? And without the accomplished fact of His incarnation, how could we possibly understand and appreciate the triune nature of God? For it is only through Christ – after He has come into the world in person – that we begin to see God with the clarity of vision it has now been given us to possess (Jn.1:18; 14:9).
+
+<!-- --- -->
+
+Just as the temple veil that symbolically separated us from the presence of God was split in two by Christ's sacrifice on our behalf (Matt.27:51), so the veil that in the Old Testament partially obscured the person of Christ from our view has been lifted by His actual advent in the flesh – to die on our behalf. So that now, through our faith in Jesus Christ, we see God the Father, the Son, and the Holy Spirit more clearly than we ever could before:
+
+{{% ichthys-translation p="2 Corinthians 4:6" %}}
+For God who said, "Let light shine forth from the darkness!", is He who has shone forth [His light] into our hearts to illuminate our knowledge of God's glory ***in the person of Jesus Christ***.
+{{% /ichthys-translation %}}
+
+{{% ichthys-translation p="2 Corinthians 3:14" %}}
+For until this very day, the same veil remains [upon their unbelieving hearts] when the Old Testament is read, and it is not removed [when they hear these scriptures], because it is [only] done away with ***in Christ***.
+{{% /ichthys-translation %}}
+
+<!-- --- -->
+
+So:
+
+- We see the Son more clearly after He comes into the world (Jn.1:14).
+- The Son can only reveal the Father more clearly after He comes into the world (Jn.1:18).
+- The Spirit cannot be sent to indwell believers until after the Son has been glorified (Jn.7:39).
+
+And therefore:
+
+- The Trinity can only be clearly explained and understood after the 1st Advent of Christ, a task undertaken by the New Testament.
+- While in the Old Testament, before the 1st Advent, the members of the Trinity are, understandably, not as clearly distinguished as they are in the New Testament.
+
+{{% /toggleable-content %}}
+
+{{% toggleable-transcript %}}
+
+### Video/audio transcript {#introduction-the-trinity-in-the-old-testament-video-audio-transcript}
+
+{{% timestamp videoId="2XAJZQUjYn0" time="0" display="00:00" %}} - so the next lesson that we're going to be going over here in this series is talking about the trinity in the Old  
+{{% timestamp videoId="2XAJZQUjYn0" time="6" display="00:06" %}} - Testament and specifically this first lesson that we're going to be doing is going to be talking just kind of about  
+{{% timestamp videoId="2XAJZQUjYn0" time="12" display="00:12" %}} - the introduction to this as a concept so the part of the lesson sorry the part of the study on ichus that goes through  
+{{% timestamp videoId="2XAJZQUjYn0" time="19" display="00:19" %}} - this is it's actually pretty lengthy it's one of the uh one of the last major sections in the study here so in the  
+{{% timestamp videoId="2XAJZQUjYn0" time="26" display="00:26" %}} - outline this is the third subsection of the second Point talking about the Trinity so in past lessons here we've  
+{{% timestamp videoId="2XAJZQUjYn0" time="32" display="00:32" %}} - been talking about just the definition of the Trinity uh three in person one in essence and then we talk some about the  
+{{% timestamp videoId="2XAJZQUjYn0" time="38" display="00:38" %}} - trinity in the Bible uh specifically we've looked at a lot of new testament passages that kind of make the point  
+{{% timestamp videoId="2XAJZQUjYn0" time="44" display="00:44" %}} - clear and now we're going to be turning to uh the sort of traces you could say of the trinity in the Old Testament what  
+{{% timestamp videoId="2XAJZQUjYn0" time="52" display="00:52" %}} - passages kind of point us to it and it's been there all along somewhat veiled from Human sight um so this first here  
+{{% timestamp videoId="2XAJZQUjYn0" time="60" display="01:00" %}} - in this we're going to kind of be talking just about an introduction to kind of the concept of how the Trinity  
+{{% timestamp videoId="2XAJZQUjYn0" time="66" display="01:06" %}} - fit in to the Old Testament believer's understanding of God uh so among other things we're going to be kind of talking  
+{{% timestamp videoId="2XAJZQUjYn0" time="71" display="01:11" %}} - about why didn't God just reveal himself to Old Testament Believers as being Triune in nature like what would be the  
+{{% timestamp videoId="2XAJZQUjYn0" time="80" display="01:20" %}} - possible reasons for that um because now that we have the New Testament uh so-called progressive revelation this  
+{{% timestamp videoId="2XAJZQUjYn0" time="86" display="01:26" %}} - has been made available to us but why would God not do that for the Believers in the Old Testament and so as I say  
+{{% timestamp videoId="2XAJZQUjYn0" time="94" display="01:34" %}} - this lesson a little bit more introductory in nature and we will move on uh a bit later talking about  
+{{% timestamp videoId="2XAJZQUjYn0" time="100" display="01:40" %}} - appearances of Christ in the Old Testament so-called christophanies um and we'll get there eventually but for  
+{{% timestamp videoId="2XAJZQUjYn0" time="106" display="01:46" %}} - today uh we're going to be talking about uh just the general concept of how the Trinity was always there in the Old  
+{{% timestamp videoId="2XAJZQUjYn0" time="113" display="01:53" %}} - Testament and we can see this more with the clarification that new testament Revelation gives us uh so it was a bit  
+{{% timestamp videoId="2XAJZQUjYn0" time="121" display="02:01" %}} - veiled from them but with the benefit of the writings of the New Testament and of course Jesus Christ come in the flesh as  
+{{% timestamp videoId="2XAJZQUjYn0" time="128" display="02:08" %}} - a human being we see it much more clearly than they did um so we're going to be talking specifically about this  
+{{% timestamp videoId="2XAJZQUjYn0" time="135" display="02:15" %}} - passage from Matthew chapter 22 veres 41- 46 and what that has to do with this this concept here of the Trinity being  
+{{% timestamp videoId="2XAJZQUjYn0" time="143" display="02:23" %}} - visible in the Old Testament um and then we're going to talk a bit about prophetic foreshortening as well so this  
+{{% timestamp videoId="2XAJZQUjYn0" time="150" display="02:30" %}} - idea that uh what they saw as one mountain if you will like looking at it headon uh so that the front part of it  
+{{% timestamp videoId="2XAJZQUjYn0" time="160" display="02:40" %}} - sort of prevented them from seeing the parts behind it a sort of an artistic concept here well in that same way uh so  
+{{% timestamp videoId="2XAJZQUjYn0" time="170" display="02:50" %}} - too was this prophecy sort of uh veiled from them and so now that we have the benefit of more Revelation in the New  
+{{% timestamp videoId="2XAJZQUjYn0" time="177" display="02:57" %}} - Testament we can kind of see the three members of the Trinity as distinct people um in a way that they could not  
+{{% timestamp videoId="2XAJZQUjYn0" time="183" display="03:03" %}} - so we'll talk a little bit about that as a concept and then we'll talk about why would God decided to Veil The Triune  
+{{% timestamp videoId="2XAJZQUjYn0" time="190" display="03:10" %}} - nature of his Essence in Old Testament times like why wouldn't he just reveal himself to them in the same way that he  
+{{% timestamp videoId="2XAJZQUjYn0" time="196" display="03:16" %}} - revealed himself to us um so this gets into that that topic I've mentioned before about progressive revelation and  
+{{% timestamp videoId="2XAJZQUjYn0" time="203" display="03:23" %}} - so we're going to be talking about two major explanations uh number one that uh the idolatry of  
+{{% timestamp videoId="2XAJZQUjYn0" time="210" display="03:30" %}} - people surrounding Israel is a possible explanation for God's veiling of his nature because we've gone over already  
+{{% timestamp videoId="2XAJZQUjYn0" time="217" display="03:37" %}} - some of the heresies related to the Trinity uh are related to improperly viewing God as a Pantheon so the Trinity  
+{{% timestamp videoId="2XAJZQUjYn0" time="225" display="03:45" %}} - is not three separate Gods but you can sort of see how one of the things that defined Israel as separate and apart  
+{{% timestamp videoId="2XAJZQUjYn0" time="234" display="03:54" %}} - from their Pagan neighbors was that they were monotheistic they believed in one God and so to emphasize that Oneness uh  
+{{% timestamp videoId="2XAJZQUjYn0" time="240" display="04:00" %}} - so the hypothesis goes God chose not to reveal himself to uh his people in this way until Jesus Christ had come and  
+{{% timestamp videoId="2XAJZQUjYn0" time="249" display="04:09" %}} - ultimately the explanation that we're going to we're going to put forward as more convincing overall probably is that  
+{{% timestamp videoId="2XAJZQUjYn0" time="256" display="04:16" %}} - uh God chose not to reveal the specifics of the Trinity until Jesus Christ had come until the second member of the  
+{{% timestamp videoId="2XAJZQUjYn0" time="262" display="04:22" %}} - Trinity had been uh born as a human being and died for us and resurrected uh in God's acceptance of his his payment  
+{{% timestamp videoId="2XAJZQUjYn0" time="270" display="04:30" %}} - because having Jesus Christ come and and take the burden for our sins on his shoulders it it really throws into light  
+{{% timestamp videoId="2XAJZQUjYn0" time="279" display="04:39" %}} - the plan for the trinity in the Redemption of mankind and so uh to put that a little bit differently it's  
+{{% timestamp videoId="2XAJZQUjYn0" time="285" display="04:45" %}} - almost as if God couldn't properly explain what the Trinity is like what the point of the Trinity roles are until  
+{{% timestamp videoId="2XAJZQUjYn0" time="291" display="04:51" %}} - Jesus Christ had come and that's really all there is to it uh it's not a more I don't know mysterious or philosophical  
+{{% timestamp videoId="2XAJZQUjYn0" time="300" display="05:00" %}} - notion simply that uh God waited to kind of give us all the specifics of this until Jesus Christ had become a human  
+{{% timestamp videoId="2XAJZQUjYn0" time="308" display="05:08" %}} - being because then it makes it very clear what God's Redemptive plan was for us so we'll go over all of this more of  
+{{% timestamp videoId="2XAJZQUjYn0" time="315" display="05:15" %}} - course as we get into the lesson but that's kind of the sneak preview here of the things that we're going to be  
+{{% timestamp videoId="2XAJZQUjYn0" time="319" display="05:19" %}} - talking about here in this lesson so just to kick us off here in our introduction of the trinity as it is  
+{{% timestamp videoId="2XAJZQUjYn0" time="331" display="05:31" %}} - uh sort of revealed to us in the Old Testament or where we can see it active in the Old Testament we're going to be  
+{{% timestamp videoId="2XAJZQUjYn0" time="337" display="05:37" %}} - talking just about this idea that it was visible if we kind of Look Backwards with the clarifi the clarifying uh  
+{{% timestamp videoId="2XAJZQUjYn0" time="346" display="05:46" %}} - revelation we have from the New Testament this extra information that God has given us makes it possible to  
+{{% timestamp videoId="2XAJZQUjYn0" time="351" display="05:51" %}} - sort of reinterpret the Old Testament scriptures in light of the new and with that if you look with eyes of Faith the  
+{{% timestamp videoId="2XAJZQUjYn0" time="360" display="06:00" %}} - Trinity is more than visible in the Old Testament it is there um and uh critics such as unbelieving Jews might view what  
+{{% timestamp videoId="2XAJZQUjYn0" time="371" display="06:11" %}} - we're about to do with a great deal of skepticism that basically we're just making up connections that aren't really  
+{{% timestamp videoId="2XAJZQUjYn0" time="377" display="06:17" %}} - there um so you know some people wrote more books and then decided that they were just going to change how they  
+{{% timestamp videoId="2XAJZQUjYn0" time="383" display="06:23" %}} - interpreted the Old Testament based on their new books or something like that um we aren't making things up because of  
+{{% timestamp videoId="2XAJZQUjYn0" time="391" display="06:31" %}} - course we believe that the New Testament is the inspired word of God just as much as the old and so it is no more than  
+{{% timestamp videoId="2XAJZQUjYn0" time="397" display="06:37" %}} - interpreting scripture with scripture um so we're not going to get so much into the apologetic side of this here but the  
+{{% timestamp videoId="2XAJZQUjYn0" time="404" display="06:44" %}} - idea here is that we understand the Old Testament and uh God's actions as a Triune being in the Old Testament  
+{{% timestamp videoId="2XAJZQUjYn0" time="412" display="06:52" %}} - through that uh through the lens of our understanding of him that the New Testament gives us um and so with that  
+{{% timestamp videoId="2XAJZQUjYn0" time="419" display="06:59" %}} - kind of see what I mean as we go here um so uh the argument here and this is word for word from ikus is that the Trinity  
+{{% timestamp videoId="2XAJZQUjYn0" time="426" display="07:06" %}} - is not only present in the verses of the Old Testament but actually portrayed clearly enough to see once we have that  
+{{% timestamp videoId="2XAJZQUjYn0" time="434" display="07:14" %}} - understanding of God that the New Testament gives us so uh three examples here that Dr luganville uses number one  
+{{% timestamp videoId="2XAJZQUjYn0" time="440" display="07:20" %}} - in Genesis chapter 1 even um this quotation of let us make man in our image the first person plurals here um  
+{{% timestamp videoId="2XAJZQUjYn0" time="449" display="07:29" %}} - and you know is that a slam dunk you know with someone reading the Old Testament  
+{{% timestamp videoId="2XAJZQUjYn0" time="454" display="07:34" %}} - without some of the benefit of the Revelation in the New Testament say ah this must mean that God exists in three  
+{{% timestamp videoId="2XAJZQUjYn0" time="461" display="07:41" %}} - persons well not really but now that we see that we can see it obviously that even from the beginning God has been  
+{{% timestamp videoId="2XAJZQUjYn0" time="468" display="07:48" %}} - this way um he didn't change somehow this has always been his nature and in fact it was always there Ai and I have  
+{{% timestamp videoId="2XAJZQUjYn0" time="475" display="07:55" %}} - sort of mentioned before how uh some of the Old Testament believer probably would have sort of had this sliver in  
+{{% timestamp videoId="2XAJZQUjYn0" time="481" display="08:01" %}} - the back of their mind that what exactly does it mean for this to be plural like like how does that work um you know is  
+{{% timestamp videoId="2XAJZQUjYn0" time="488" display="08:08" %}} - there something there and of course they didn't see clearly it was not given to them to see clearly uh even if they  
+{{% timestamp videoId="2XAJZQUjYn0" time="494" display="08:14" %}} - wished it but now that we have this Revelation when we Look Backwards at some of these passages in the Old  
+{{% timestamp videoId="2XAJZQUjYn0" time="500" display="08:20" %}} - Testament it can be clear to us that God has always been this way in fact the Trinity was there um just now we can see  
+{{% timestamp videoId="2XAJZQUjYn0" time="507" display="08:27" %}} - it more clearly with the benefit of this h it so second one Isaiah 6:3 um this is a verse talking about the  
+{{% timestamp videoId="2XAJZQUjYn0" time="516" display="08:36" %}} - praise uh that the God is due so they call out to one another saying holy holy holy is the Lord of hosts the whole  
+{{% timestamp videoId="2XAJZQUjYn0" time="524" display="08:44" %}} - earth is full of his glory so you will note the threefold holies here holy holy holy not just one not just two but three  
+{{% timestamp videoId="2XAJZQUjYn0" time="531" display="08:51" %}} - and that very much Echoes the idea of the Trinity and then in Numbers Chapter 6 and go actually pull this one up since  
+{{% timestamp videoId="2XAJZQUjYn0" time="539" display="08:59" %}} - it's a little bit longer a couple verses here numbers 6: 24- 26 says the Lord bless you and keep you the Lord make his  
+{{% timestamp videoId="2XAJZQUjYn0" time="548" display="09:08" %}} - face shine on you and be gracious to you the Lord lift up his countenance on you and give you peace uh you may actually  
+{{% timestamp videoId="2XAJZQUjYn0" time="554" display="09:14" %}} - hear this commonly used as a benediction in uh Services you know like uh uh church services you know the pastor  
+{{% timestamp videoId="2XAJZQUjYn0" time="561" display="09:21" %}} - might say this as people are are kind of service is closing out filing out of the the room um so this this benediction  
+{{% timestamp videoId="2XAJZQUjYn0" time="568" display="09:28" %}} - here you can see the three-fold repetition um the Lord bless you and keep you the Lord make his face shine on  
+{{% timestamp videoId="2XAJZQUjYn0" time="574" display="09:34" %}} - you the Lord lift up his countenance on you um the three is present right there and of course this is like far from  
+{{% timestamp videoId="2XAJZQUjYn0" time="580" display="09:40" %}} - comprehensive these are just several examples that we're pulling up to see how uh if we look with this benefit of  
+{{% timestamp videoId="2XAJZQUjYn0" time="588" display="09:48" %}} - hindsight you can see the Trinity present in the Old Testament as well um so in these cases and others as I say  
+{{% timestamp videoId="2XAJZQUjYn0" time="596" display="09:56" %}} - not comprehensive the clear intent is to reflect if not to convey the Triune nature of God that God exists in three  
+{{% timestamp videoId="2XAJZQUjYn0" time="604" display="10:04" %}} - persons yet sharing the same Essence as we've gone over in our lessons previously so in addition to that some  
+{{% timestamp videoId="2XAJZQUjYn0" time="612" display="10:12" %}} - Old Testament scriptures cast the trinity in even sharper relief such as King David's Last Words which in quick  
+{{% timestamp videoId="2XAJZQUjYn0" time="618" display="10:18" %}} - succession refer to God as the spirit of the Lord the god of Israel and the rock of Israel and so this is a quotation  
+{{% timestamp videoId="2XAJZQUjYn0" time="625" display="10:25" %}} - from 2 Samuel chapter 23 can go ahead and read that one too says the spirit of the Lord spoke to me  
+{{% timestamp videoId="2XAJZQUjYn0" time="632" display="10:32" %}} - and his word was on my tongue the god of Israel said the rock of Israel spoke to me he who rules over men righteously who  
+{{% timestamp videoId="2XAJZQUjYn0" time="639" display="10:39" %}} - rules in the fear of God um so again threefold repetition here and you can also see uh this quotation in 1  
+{{% timestamp videoId="2XAJZQUjYn0" time="650" display="10:50" %}} - Corinthians chapter 10 in the New Testament I'm talking about Christ being the rock here um Christ as Israel's Rock  
+{{% timestamp videoId="2XAJZQUjYn0" time="657" display="10:57" %}} - specifically actually not just like the Cornerstone but Christ is Israel's Rock um and so these are not the only  
+{{% timestamp videoId="2XAJZQUjYn0" time="665" display="11:05" %}} - passages again um uh that one there is you know another obvious parallel in addition to the three we just went over  
+{{% timestamp videoId="2XAJZQUjYn0" time="673" display="11:13" %}} - um but there are plenty of other passages that really do demonstrate the reality of the trinity in the Old  
+{{% timestamp videoId="2XAJZQUjYn0" time="679" display="11:19" %}} - Testament uh something that was veiled yet present and so there are a couple more passages here from Isaiah um I may  
+{{% timestamp videoId="2XAJZQUjYn0" time="687" display="11:27" %}} - not go over all of the but I would encourage folks to look at the references here um but the perhaps the  
+{{% timestamp videoId="2XAJZQUjYn0" time="695" display="11:35" %}} - best example um is the one that Jesus himself uses to demonstrate that his divinity was indeed prophec by scripture  
+{{% timestamp videoId="2XAJZQUjYn0" time="704" display="11:44" %}} - and um we're going to go ahead and look at this one uh as a standalone uh sort of as a standalone passage just look at  
+{{% timestamp videoId="2XAJZQUjYn0" time="711" display="11:51" %}} - it a little bit more because it is used by Jesus in the gospels in fact to demonstrate his divinity um so  
+{{% timestamp videoId="2XAJZQUjYn0" time="720" display="12:00" %}} - um that is kind of where we're going to turn next but any of the passages that we've gone over here in this uh sort of  
+{{% timestamp videoId="2XAJZQUjYn0" time="726" display="12:06" %}} - first opening um including this 2 Samuel passage um anything more to say on those Audi or just on this concept of the  
+{{% timestamp videoId="2XAJZQUjYn0" time="734" display="12:14" %}} - Trinity being there but failed in the Old Testament not really um I think you've really covered everything it was  
+{{% timestamp videoId="2XAJZQUjYn0" time="744" display="12:24" %}} - there and even though it was not fully understood or fully um described in the Scriptures it was there all the passages  
+{{% timestamp videoId="2XAJZQUjYn0" time="756" display="12:36" %}} - you mentioned are proofs and one of the ones that uh um I've mentioned quite a few times in the series is Zechariah 2  
+{{% timestamp videoId="2XAJZQUjYn0" time="763" display="12:43" %}} - verse I believe 9 um where yeah so it's quoted here on this slide is yes this one You' mentioned this one  
+{{% timestamp videoId="2XAJZQUjYn0" time="772" display="12:52" %}} - multiple times yeah yeah so we have we have in the Old Testament multiple descriptions that should tell anyone  
+{{% timestamp videoId="2XAJZQUjYn0" time="783" display="13:03" %}} - there was at least a multiplicity in the godhead there was a godhead of some sort even if it was not  
+{{% timestamp videoId="2XAJZQUjYn0" time="790" display="13:10" %}} - fully understood or fully described and um as to why what you said was very true that um the the the uh veiling of that  
+{{% timestamp videoId="2XAJZQUjYn0" time="804" display="13:24" %}} - truth was because of the idolatry of the times there was also the fact that well the human the human race as as an  
+{{% timestamp videoId="2XAJZQUjYn0" time="814" display="13:34" %}} - organism had to mature up to a point that they could actually Bear certain truths just as the Lord Jesus said to  
+{{% timestamp videoId="2XAJZQUjYn0" time="820" display="13:40" %}} - the apostles that um um he had much to say to them but they could not bear it yet there was a point at which they  
+{{% timestamp videoId="2XAJZQUjYn0" time="829" display="13:49" %}} - could handle some of those things it's true both of human beings on an individual level and also on a corporate  
+{{% timestamp videoId="2XAJZQUjYn0" time="835" display="13:55" %}} - level so um there is no question then that this was there it was it it it did not become true just because of the New  
+{{% timestamp videoId="2XAJZQUjYn0" time="846" display="14:06" %}} - Testament it was always the case like you said yeah I mean and that really is that's always the thing to keep in mind  
+{{% timestamp videoId="2XAJZQUjYn0" time="853" display="14:13" %}} - with progressive revelation uh we are big earlier in this study we we emphasize time and again how God's  
+{{% timestamp videoId="2XAJZQUjYn0" time="860" display="14:20" %}} - Essence does not change that is sort of the characteristic of divinity that makes God so separate from us because  
+{{% timestamp videoId="2XAJZQUjYn0" time="867" display="14:27" %}} - his externality to T um means that he is unlike Us in this way human beings change we can sometimes  
+{{% timestamp videoId="2XAJZQUjYn0" time="875" display="14:35" %}} - be sort of capricious and fickle in uh our passions or our Pursuits but God isn't like that um and his immutability  
+{{% timestamp videoId="2XAJZQUjYn0" time="884" display="14:44" %}} - if you will is such a fundamental characteristic to him that we really should not downplay it um and as that  
+{{% timestamp videoId="2XAJZQUjYn0" time="891" display="14:51" %}} - relates to progressive revelation all we should say is that um just because we learn more about God and  
+{{% timestamp videoId="2XAJZQUjYn0" time="900" display="15:00" %}} - God reveals more of himself to humanity doesn't mean that God was ever different it just means that our understanding of  
+{{% timestamp videoId="2XAJZQUjYn0" time="907" display="15:07" %}} - him is different how much Humanity was given to see of him has changed um and that's true also not only here also in  
+{{% timestamp videoId="2XAJZQUjYn0" time="916" display="15:16" %}} - just uh the coming of Jesus Christ his suffering as the suffering servant to pay for our sins um not necessarily just  
+{{% timestamp videoId="2XAJZQUjYn0" time="924" display="15:24" %}} - limited to the triun nature of God um that is progressive revelation shows up in areas too including prophecy for  
+{{% timestamp videoId="2XAJZQUjYn0" time="931" display="15:31" %}} - example uh but this is one of the the classic examples of it um as God relates to humankind is what things does he keep  
+{{% timestamp videoId="2XAJZQUjYn0" time="941" display="15:41" %}} - uh sort of veiled until the right time um so uh there's kind of this word in in Greek I I it escapes me off the top of  
+{{% timestamp videoId="2XAJZQUjYn0" time="949" display="15:49" %}} - my off the top of my head but the the normal word for for time in Greek is Kronos um and so that's kind of like  
+{{% timestamp videoId="2XAJZQUjYn0" time="956" display="15:56" %}} - what time of day it is or just time as a uh numerical thing but the Greeks also had a word uh that that represented the  
+{{% timestamp videoId="2XAJZQUjYn0" time="966" display="16:06" %}} - right time to do something or the uh opportune time to do something there's a word for it I don't remember it off the  
+{{% timestamp videoId="2XAJZQUjYn0" time="972" display="16:12" %}} - top of my head um but that concept is sort of central to what this idea of progressive revelation gets at um fact I  
+{{% timestamp videoId="2XAJZQUjYn0" time="979" display="16:19" %}} - think we may have a slide on it you know I don't want to go too far ahead I'm pretty sure we do in fact Progressive  
+{{% timestamp videoId="2XAJZQUjYn0" time="984" display="16:24" %}} - well no we have prophetic for short things so I can ramble here a bit more then um so progressive revelation is  
+{{% timestamp videoId="2XAJZQUjYn0" time="989" display="16:29" %}} - just that that there is a proper time for God to reveal these things to humanity and not before then because in  
+{{% timestamp videoId="2XAJZQUjYn0" time="996" display="16:36" %}} - his perfect form knowledge God knows when that right time is for the revelation of Truth um  
+{{% timestamp videoId="2XAJZQUjYn0" time="1004" display="16:44" %}} - so indeed indeed all right well that's the basic idea here of the Trinity being visible  
+{{% timestamp videoId="2XAJZQUjYn0" time="1012" display="16:52" %}} - in the Old Testament uh especially viewed in light of our greater understanding of God that the New  
+{{% timestamp videoId="2XAJZQUjYn0" time="1018" display="16:58" %}} - Testament revelation gives us so next we're going to go ahead and take a closer look at this passage in Matthew  
+{{% timestamp videoId="2XAJZQUjYn0" time="1023" display="17:03" %}} - chap 22 specifically so now we're going to look at that passage we mentioned here  
+{{% timestamp videoId="2XAJZQUjYn0" time="1031" display="17:11" %}} - Matthew Chap 22: 41-46 and we had just mentioned that uh Jesus uses this passage um to  
+{{% timestamp videoId="2XAJZQUjYn0" time="1040" display="17:20" %}} - demonstrate his divinity and that it was indeed prophecy it was not something that he was just making up but it had he  
+{{% timestamp videoId="2XAJZQUjYn0" time="1047" display="17:27" %}} - had been spoken of already so this is in Matthew 22 picking up at verse 41 as the Pharisees were gathering together Jesus  
+{{% timestamp videoId="2XAJZQUjYn0" time="1056" display="17:36" %}} - put a question to them saying what do you think about the Messiah whose son is he they answered him David's son then he  
+{{% timestamp videoId="2XAJZQUjYn0" time="1064" display="17:44" %}} - said to them well then how can David speaking in the spirit call him Lord for he says the Lord said to my Lord sit  
+{{% timestamp videoId="2XAJZQUjYn0" time="1073" display="17:53" %}} - down at my right hand until I make your enemies a foot stol for your feet and this is quoting psalm 110  
+{{% timestamp videoId="2XAJZQUjYn0" time="1080" display="18:00" %}} - verse1 and so if David calls him Lord how is he his son and no one was able to answer him a word nor did anyone dare to  
+{{% timestamp videoId="2XAJZQUjYn0" time="1090" display="18:10" %}} - ask him questions any longer from that day forward so this uh passage is probably  
+{{% timestamp videoId="2XAJZQUjYn0" time="1097" display="18:17" %}} - familiar to us this is one of the most famous Messianic references in the Old Testament that's how you you'll hear it  
+{{% timestamp videoId="2XAJZQUjYn0" time="1103" display="18:23" %}} - termed uh so-called Messianic Psalms point forward to Christ as the Messiah so Psalm 110 this passage specifically  
+{{% timestamp videoId="2XAJZQUjYn0" time="1111" display="18:31" %}} - comes up a lot in this as demonstrating Jesus's Divinity um so David's son according to the flesh but God proper um  
+{{% timestamp videoId="2XAJZQUjYn0" time="1121" display="18:41" %}} - by Nature you know the God man this is who Jesus is um and so this Paradox of you know being David's son yet his Lord  
+{{% timestamp videoId="2XAJZQUjYn0" time="1131" display="18:51" %}} - this is what had the phy stumped such that none of them were willing to talk to him anymore but nonetheless um I  
+{{% timestamp videoId="2XAJZQUjYn0" time="1138" display="18:58" %}} - don't know you thought about this but when David wrote this down what what do you think David thought about this what  
+{{% timestamp videoId="2XAJZQUjYn0" time="1145" display="19:05" %}} - does this mean right what does it mean the Lord said to my Lord because when David was writing this we know David had  
+{{% timestamp videoId="2XAJZQUjYn0" time="1151" display="19:11" %}} - a blessing of the Holy Spirit um not all people in the Old Testament were indwelt um or maybe indwell is not quite the  
+{{% timestamp videoId="2XAJZQUjYn0" time="1158" display="19:18" %}} - right word because it was kind of like an anointing of the Spirit uh many of the prophets in the Old Testament did uh  
+{{% timestamp videoId="2XAJZQUjYn0" time="1164" display="19:24" %}} - David did uh you know he was given to write a lot of scripture in the Old Testament  
+{{% timestamp videoId="2XAJZQUjYn0" time="1169" display="19:29" %}} - um but this this anointing of the Holy Spirit if you will um led him to write some of these words and we can imagine  
+{{% timestamp videoId="2XAJZQUjYn0" time="1176" display="19:36" %}} - that David probably marveled at them and wondered what exactly they meant because we know that that David was looking  
+{{% timestamp videoId="2XAJZQUjYn0" time="1183" display="19:43" %}} - forward to the Messiah um you know as the Jews did God's promised to deliver Humanity from their sins all the way  
+{{% timestamp videoId="2XAJZQUjYn0" time="1191" display="19:51" %}} - back in Genesis chapter 3 we've mentioned before the Proto evangelium the animal skins given to wash away the  
+{{% timestamp videoId="2XAJZQUjYn0" time="1199" display="19:59" %}} - sins of humanity it has been a promise that God has given Humanity from the very beginning and so David as a man of  
+{{% timestamp videoId="2XAJZQUjYn0" time="1206" display="20:06" %}} - Faith would have been looking towards God's Deliverance of his people somehow but he would not have understood Christ  
+{{% timestamp videoId="2XAJZQUjYn0" time="1214" display="20:14" %}} - um so Isaiah Isaiah chapter 53 when Isaiah was writing about the suffering servant how much exactly did he know  
+{{% timestamp videoId="2XAJZQUjYn0" time="1222" display="20:22" %}} - what all of that meant you know um that's actually a question is probably not super productive for us to spend  
+{{% timestamp videoId="2XAJZQUjYn0" time="1227" display="20:27" %}} - lots of time on but the point is that these men in the past they wanted to look into these  
+{{% timestamp videoId="2XAJZQUjYn0" time="1234" display="20:34" %}} - things they wanted to understand what the messiah's coming would be like and and kind of what would happen um but in  
+{{% timestamp videoId="2XAJZQUjYn0" time="1243" display="20:43" %}} - fact this isn't just conjecture on our part um we have directly from the Bible that many prophets and righteous men  
+{{% timestamp videoId="2XAJZQUjYn0" time="1249" display="20:49" %}} - desired to see what was being revealed to Jesus's generation face to face that is the unveiling of the Messiah so  
+{{% timestamp videoId="2XAJZQUjYn0" time="1256" display="20:56" %}} - that's a quote here from uh Matthew chap 13: 17 says for truly I say to you that many prophets and righteous men desired  
+{{% timestamp videoId="2XAJZQUjYn0" time="1265" display="21:05" %}} - to see what you see and did not see it and to hear what you hear and they did not hear it you know another uh another  
+{{% timestamp videoId="2XAJZQUjYn0" time="1272" display="21:12" %}} - cross reference there from the other synoptics in Luke chapter 10 verse 24 says the same thing and then we also  
+{{% timestamp videoId="2XAJZQUjYn0" time="1278" display="21:18" %}} - have this passage in John chapter 8 and uh it says your father Abraham rejoiced to see my day and he saw it and was glad  
+{{% timestamp videoId="2XAJZQUjYn0" time="1287" display="21:27" %}} - now that's a a puzzling thing what does that mean exactly um well we don't we don't know exactly but Abraham looking  
+{{% timestamp videoId="2XAJZQUjYn0" time="1294" display="21:34" %}} - forward in faith to to the Deliverance of God's people through the Messiah well that is what is in view but exactly what  
+{{% timestamp videoId="2XAJZQUjYn0" time="1301" display="21:41" %}} - did Abraham see it's kind of again maybe not the most productive use of time to get very focused on that point exactly  
+{{% timestamp videoId="2XAJZQUjYn0" time="1309" display="21:49" %}} - but the point is they didn't see it fully they didn't see it completely revealed and then this passage in First  
+{{% timestamp videoId="2XAJZQUjYn0" time="1315" display="21:55" %}} - Peter is probably the clearest uh rendition of this concept that we're talking about here um so 1 Peter 1:  
+{{% timestamp videoId="2XAJZQUjYn0" time="1324" display="22:04" %}} - 10-12 as to this salvation the prophets who prophecied of the grace that would come to you made careful searches and  
+{{% timestamp videoId="2XAJZQUjYn0" time="1330" display="22:10" %}} - inquiries seeking to know what person or time the spirit of Christ within them was indicating as he predicted the  
+{{% timestamp videoId="2XAJZQUjYn0" time="1337" display="22:17" %}} - sufferings of Christ and the glories to follow it was revealed to them that they were not serving themselves but you in  
+{{% timestamp videoId="2XAJZQUjYn0" time="1344" display="22:24" %}} - these things which now have been announced to you through those who preach the gospel To You by The Holy the  
+{{% timestamp videoId="2XAJZQUjYn0" time="1348" display="22:28" %}} - Holy Spirit Sent From Heaven things into which Angels long to look and so far be it just from this concept being limited  
+{{% timestamp videoId="2XAJZQUjYn0" time="1356" display="22:36" %}} - to uh Old Testament prophets or or people like David and Abraham the angels are interested in this too because it's  
+{{% timestamp videoId="2XAJZQUjYn0" time="1364" display="22:44" %}} - not like uh even as powerful as they are they're not omniscient and so when God does things angels have a great deal  
+{{% timestamp videoId="2XAJZQUjYn0" time="1373" display="22:53" %}} - more uh perspective and uh a capacity for long understanding that we do because they aren't Bound by uh space  
+{{% timestamp videoId="2XAJZQUjYn0" time="1382" display="23:02" %}} - time and very finite lives in the same way that we are however even angels don't understand everything that God is  
+{{% timestamp videoId="2XAJZQUjYn0" time="1388" display="23:08" %}} - doing in his plan for the world now I think it is good of us to hypothesize that they probably understand more than  
+{{% timestamp videoId="2XAJZQUjYn0" time="1395" display="23:15" %}} - we do generally speaking but they didn't understand the completeness of what God was doing through the Incarnation of  
+{{% timestamp videoId="2XAJZQUjYn0" time="1404" display="23:24" %}} - Jesus Christ and through him paying for our sins on the cross um a were curious about this as well much  
+{{% timestamp videoId="2XAJZQUjYn0" time="1411" display="23:31" %}} - less the prophets and people like David and Abraham and so all of this this is again getting to that idea of  
+{{% timestamp videoId="2XAJZQUjYn0" time="1419" display="23:39" %}} - progressive revelation and the fact that many of these Old Testament believers they knew that the Messiah was coming  
+{{% timestamp videoId="2XAJZQUjYn0" time="1426" display="23:46" %}} - that he was going to save Israel and in fact the world from its sins um and they wanted to understand this the unveiling  
+{{% timestamp videoId="2XAJZQUjYn0" time="1433" display="23:53" %}} - of the Messiah right they desired to see these things and they did not see hear these things and did not hear um and  
+{{% timestamp videoId="2XAJZQUjYn0" time="1441" display="24:01" %}} - this didn't catch God by surprise this has been God's plan to unveil himself to humanity and uh his Redemptive plan to  
+{{% timestamp videoId="2XAJZQUjYn0" time="1450" display="24:10" %}} - humanity through the sending of Jesus Christ it has always been the plan but that he didn't reveal it to all of the  
+{{% timestamp videoId="2XAJZQUjYn0" time="1458" display="24:18" %}} - Old Testament Believers at least not fully that was intentional he didn't like mess up and failed to tell them or  
+{{% timestamp videoId="2XAJZQUjYn0" time="1464" display="24:24" %}} - something and so the revelation of Jesus Christ to the world during his first Advent in addition to explaining  
+{{% timestamp videoId="2XAJZQUjYn0" time="1472" display="24:32" %}} - passages such as Psalm 110 and uh that is uh Christ is David's son in his humanity and that's because you can  
+{{% timestamp videoId="2XAJZQUjYn0" time="1480" display="24:40" %}} - trace uh in the genealogies presented in Matthew and Luke you can trace Jesus's genealogy back to David um however even  
+{{% timestamp videoId="2XAJZQUjYn0" time="1488" display="24:48" %}} - though Christ is David's son in his human uh in the human part of him in his human well I'm going to use Humanity  
+{{% timestamp videoId="2XAJZQUjYn0" time="1495" display="24:55" %}} - rather than human nature so we don't get hung up on the word nature but in his Humanity Christ is David's son but in  
+{{% timestamp videoId="2XAJZQUjYn0" time="1501" display="25:01" %}} - his deity he is David's Lord he is the second person of the Trinity the Son part of the godhead Eternal omniscient  
+{{% timestamp videoId="2XAJZQUjYn0" time="1510" display="25:10" %}} - outside of SpaceTime and this is that great mystery that this one by the way always stays a mystery we still don't  
+{{% timestamp videoId="2XAJZQUjYn0" time="1517" display="25:17" %}} - get this one perfectly how can how can Jesus Christ be fully God yet fully man at the same time um you know there's a  
+{{% timestamp videoId="2XAJZQUjYn0" time="1525" display="25:25" %}} - word for that theology it's called the hypostatic union but the point in this is that this is how Jesus fulfills this  
+{{% timestamp videoId="2XAJZQUjYn0" time="1534" display="25:34" %}} - Prophecy from Psalm 110 he is David's son but he is also David's Lord in his deity and so when you take this passage  
+{{% timestamp videoId="2XAJZQUjYn0" time="1542" display="25:42" %}} - it's actually a pretty good prototype for explaining many other Old Testament passages that you can kind of only  
+{{% timestamp videoId="2XAJZQUjYn0" time="1549" display="25:49" %}} - understand fully by means of our more complete understanding of the Trinity that we get through the New Testament um  
+{{% timestamp videoId="2XAJZQUjYn0" time="1555" display="25:55" %}} - so the words of Psalm 110 were true um they have never not been true God knew this but the Old Testament prophets and  
+{{% timestamp videoId="2XAJZQUjYn0" time="1564" display="26:04" %}} - David didn't understand exactly what it was that this was getting at and in fact the Angels may not have either um and so  
+{{% timestamp videoId="2XAJZQUjYn0" time="1572" display="26:12" %}} - this is what the basis of of this unveiling of Jesus Christ you may call it the revelation of Jesus Christ and in  
+{{% timestamp videoId="2XAJZQUjYn0" time="1581" display="26:21" %}} - fact um it's one of the the more um important things that last book of the Bible that we Revelation actually the  
+{{% timestamp videoId="2XAJZQUjYn0" time="1590" display="26:30" %}} - full title is the revelation of Jesus Christ um that is the name of the book like if you read it in the Greek that's  
+{{% timestamp videoId="2XAJZQUjYn0" time="1597" display="26:37" %}} - what it says um because it is the revealing of the Messiah in fact he's going to come return with the crown this  
+{{% timestamp videoId="2XAJZQUjYn0" time="1606" display="26:46" %}} - time in Revelation chapter 19 he's coming as the Conquering King not the suffering servant um but Jesus Christ  
+{{% timestamp videoId="2XAJZQUjYn0" time="1612" display="26:52" %}} - was revealed the first time too um this Revelation that we're talking about and the unveil ailing of the Messiah that's  
+{{% timestamp videoId="2XAJZQUjYn0" time="1620" display="27:00" %}} - the the term that um well if not this you know like all the passages that we've gone through  
+{{% timestamp videoId="2XAJZQUjYn0" time="1626" display="27:06" %}} - here in the gospels as well as um uh John chapter 8 talking about Abraham and the first Peter passage most clear of  
+{{% timestamp videoId="2XAJZQUjYn0" time="1634" display="27:14" %}} - all talking about these things that were veiled to them um so that is kind of the concept  
+{{% timestamp videoId="2XAJZQUjYn0" time="1642" display="27:22" %}} - fleshed out a little bit more that all these Believers in the Old Testament they had an Inkling of some of the  
+{{% timestamp videoId="2XAJZQUjYn0" time="1648" display="27:28" %}} - things to come um they knew that the Messiah would come and save them from their sins but they didn't see the full  
+{{% timestamp videoId="2XAJZQUjYn0" time="1654" display="27:34" %}} - picture and we can kind of only understand um the the plan that God had all along in this um instructing them to  
+{{% timestamp videoId="2XAJZQUjYn0" time="1663" display="27:43" %}} - write the words that they did through that Revelation that we now have through the coming of Jesus Christ and what he  
+{{% timestamp videoId="2XAJZQUjYn0" time="1669" display="27:49" %}} - did for us and the the writings in the Bible in the New Testament to explain all of this to us we kind of only see  
+{{% timestamp videoId="2XAJZQUjYn0" time="1677" display="27:57" %}} - the full picture when you take all of that into account so aie you have any more comments on this passage in Matthew  
+{{% timestamp videoId="2XAJZQUjYn0" time="1685" display="28:05" %}} - specifically or or some of the passages we read in terms of the truth being veiled from the prophets and David and  
+{{% timestamp videoId="2XAJZQUjYn0" time="1692" display="28:12" %}} - so on well one thing that this seemed to jump out at me was that that was yet  
+{{% timestamp videoId="2XAJZQUjYn0" time="1699" display="28:19" %}} - another place where you had a very explicit um description of the multiplicity of the godhead so to speak  
+{{% timestamp videoId="2XAJZQUjYn0" time="1711" display="28:31" %}} - so because and David says the Lord said to my lord well who would qualify to be David's  
+{{% timestamp videoId="2XAJZQUjYn0" time="1719" display="28:39" %}} - Lord if it isn't God himself he it would be interesting if he was talking about um an angel of some  
+{{% timestamp videoId="2XAJZQUjYn0" time="1729" display="28:49" %}} - sort so yeah I think that's that's one of the things that um should be very clear he knew that there was some  
+{{% timestamp videoId="2XAJZQUjYn0" time="1736" display="28:56" %}} - multiplicity but what did me and how many persons of the Trinity were involved he might not have known as  
+{{% timestamp videoId="2XAJZQUjYn0" time="1746" display="29:06" %}} - to um how this was veiled it's I think it's it's obvious from all the passages that  
+{{% timestamp videoId="2XAJZQUjYn0" time="1753" display="29:13" %}} - we read I was I was particularly um interested as I was growing up reading Matthew  
+{{% timestamp videoId="2XAJZQUjYn0" time="1762" display="29:22" %}} - whenever Jesus I read Jesus say that righteous men and Prophets and Kings long to see the things you see and to  
+{{% timestamp videoId="2XAJZQUjYn0" time="1770" display="29:30" %}} - touch the things that you touch and hear the things that you hear but they were not given to you know it was given to  
+{{% timestamp videoId="2XAJZQUjYn0" time="1776" display="29:36" %}} - you instead I was like like even great Believers like Elijah he Believers like David like  
+{{% timestamp videoId="2XAJZQUjYn0" time="1787" display="29:47" %}} - Isaiah all of these people who you know the Lord called them his friends um I think it was uh I don't know if it was  
+{{% timestamp videoId="2XAJZQUjYn0" time="1794" display="29:54" %}} - Amos or another Prophet who said that God would not do do a thing without talking to his his friends the prophets  
+{{% timestamp videoId="2XAJZQUjYn0" time="1803" display="30:03" %}} - so you you had all these people and the Lord did not give them this understanding until much later  
+{{% timestamp videoId="2XAJZQUjYn0" time="1811" display="30:11" %}} - so it it's it was a thing the Lord the Lord kept the fullness of this Revelation from them but while while you  
+{{% timestamp videoId="2XAJZQUjYn0" time="1821" display="30:21" %}} - were talking St I was also thinking about the fact that even us today there's a lot of information that we  
+{{% timestamp videoId="2XAJZQUjYn0" time="1827" display="30:27" %}} - wish we could have that we don't have I mean however however perfect your reading of the Bible is however perfect  
+{{% timestamp videoId="2XAJZQUjYn0" time="1835" display="30:35" %}} - your understanding of the scriptures is this just information that the Lord has not provided in the scriptures you don't  
+{{% timestamp videoId="2XAJZQUjYn0" time="1840" display="30:40" %}} - have it we don't know how many Ang Angels there are we don't know how many our compliments of Believers in the  
+{{% timestamp videoId="2XAJZQUjYn0" time="1847" display="30:47" %}} - church age ought to be we don't know precisely how life in we have a lot of information how on the Millennium and we  
+{{% timestamp videoId="2XAJZQUjYn0" time="1857" display="30:57" %}} - don't know exactly how life daytoday life the the nties of life in the Millennium  
+{{% timestamp videoId="2XAJZQUjYn0" time="1864" display="31:04" %}} - would be we don't know even the tribulation which we're very interested in and we have loads and loads of  
+{{% timestamp videoId="2XAJZQUjYn0" time="1871" display="31:11" %}} - information about we don't know how daytoday life in the tribulation will be and when we when we talk about the  
+{{% timestamp videoId="2XAJZQUjYn0" time="1878" display="31:18" %}} - Eternal State it's like this white um like a a white out you know it's just going to be perfect it's not  
+{{% timestamp videoId="2XAJZQUjYn0" time="1888" display="31:28" %}} - going to have any of the difficulties and hardships of this life but you don't know anything else and if you want to be  
+{{% timestamp videoId="2XAJZQUjYn0" time="1895" display="31:35" %}} - really curious curious about it you're still not going to find anything out because the Lord does not provide the  
+{{% timestamp videoId="2XAJZQUjYn0" time="1900" display="31:40" %}} - information in the scriptures so it's it's we have the same sort of issue except that in their own  
+{{% timestamp videoId="2XAJZQUjYn0" time="1907" display="31:47" %}} - case it had to do with who God is they they didn't know very much just how the persons who the persons of of the  
+{{% timestamp videoId="2XAJZQUjYn0" time="1917" display="31:57" %}} - godhead were and how their rules were were distributed they didn't know anything much about all of that they did  
+{{% timestamp videoId="2XAJZQUjYn0" time="1923" display="32:03" %}} - know that there was some multiplicity because they spoke about it but what it meant they could not have known likewise  
+{{% timestamp videoId="2XAJZQUjYn0" time="1930" display="32:10" %}} - just like you said they didn't know how the coming of the Messiah would have been which is an interesting thing we we  
+{{% timestamp videoId="2XAJZQUjYn0" time="1936" display="32:16" %}} - have to think about this when Isaiah was prophesying about the Messiah on the one hand he was prophesying about someone  
+{{% timestamp videoId="2XAJZQUjYn0" time="1943" display="32:23" %}} - who was going to suffer and die on the other hand he was prophesying about someone who was going to rule the world  
+{{% timestamp videoId="2XAJZQUjYn0" time="1949" display="32:29" %}} - and this person was God somehow I I can imagine that if he TR if he read his own writings he would have been like I don't  
+{{% timestamp videoId="2XAJZQUjYn0" time="1955" display="32:35" %}} - know what I just said it would have been really interesting to be Isaiah at that  
+{{% timestamp videoId="2XAJZQUjYn0" time="1962" display="32:42" %}} - point um but the scriptures are quite clear like I said that they didn't know what we know today it was not given to  
+{{% timestamp videoId="2XAJZQUjYn0" time="1969" display="32:49" %}} - them to know and this this also is why I think of their Fai sometimes as being significantly great and probably greater  
+{{% timestamp videoId="2XAJZQUjYn0" time="1978" display="32:58" %}} - than that of people of our days even though with uh when much is given to you much is  
+{{% timestamp videoId="2XAJZQUjYn0" time="1985" display="33:05" %}} - expected of you and with with the explosion and and the completeness of the cannon explosion of Truth in our  
+{{% timestamp videoId="2XAJZQUjYn0" time="1991" display="33:11" %}} - days we have more to fight with the enemy in the own days of course it was a different  
+{{% timestamp videoId="2XAJZQUjYn0" time="1996" display="33:16" %}} - situation but still we blessed to have more than we more than they did yeah that's what I  
+{{% timestamp videoId="2XAJZQUjYn0" time="2005" display="33:25" %}} - and I really do think that is a point that we should kind of carry with us as we go about trying to do what God wants  
+{{% timestamp videoId="2XAJZQUjYn0" time="2011" display="33:31" %}} - of us is that we are in fact blessed and in fact in the history of the world we're sort of the odd ones out here so  
+{{% timestamp videoId="2XAJZQUjYn0" time="2019" display="33:39" %}} - before Abraham that period 2,000 years give or take from Adam to Abraham well they didn't even have the law pointing  
+{{% timestamp videoId="2XAJZQUjYn0" time="2027" display="33:47" %}} - them to the Messiah right this is a so-called age of the Patriarchs um sorry not age of the Patriarchs the age of the  
+{{% timestamp videoId="2XAJZQUjYn0" time="2034" display="33:54" %}} - Gentiles um and then from Abraham to Christ we have the age of the Patriarchs so Abraham and Isaac and Jacob and the  
+{{% timestamp videoId="2XAJZQUjYn0" time="2042" display="34:02" %}} - 12 tribes of Israel and uh they had the Shadows of the law pointing them to Christ right the ritual sacrifices and  
+{{% timestamp videoId="2XAJZQUjYn0" time="2050" display="34:10" %}} - all the symbolism in the temple but now we have the cannon of scripture the very mind of Christ as Paul says in First  
+{{% timestamp videoId="2XAJZQUjYn0" time="2059" display="34:19" %}} - Corinthians um how much more than does God expect of us on account of this um because they did not know they had  
+{{% timestamp videoId="2XAJZQUjYn0" time="2067" display="34:27" %}} - ignorance as an excuse like not that they would throw it up as an excuse but it is objective fact that they did not  
+{{% timestamp videoId="2XAJZQUjYn0" time="2074" display="34:34" %}} - see as clearly as we did not because they were substandard Believers but because God had not given it to them it  
+{{% timestamp videoId="2XAJZQUjYn0" time="2081" display="34:41" %}} - was not yet time as we said um and so on that account um when we have all of this Truth at our fingertips nowadays we have  
+{{% timestamp videoId="2XAJZQUjYn0" time="2092" display="34:52" %}} - all of this this teaching the shoulders of Bible teachers for Millennia we can stand on in so far as they have done  
+{{% timestamp videoId="2XAJZQUjYn0" time="2099" display="34:59" %}} - their due diligence and and contributed to our understanding of the truth well what is our excuse for living sort of  
+{{% timestamp videoId="2XAJZQUjYn0" time="2106" display="35:06" %}} - mediocre Christian lives then given everything that God has given to us um and so this isn't to try to crush us  
+{{% timestamp videoId="2XAJZQUjYn0" time="2114" display="35:14" %}} - with some burden it is to just talk about what we have been given this idea of the truth revealed to us is kind of  
+{{% timestamp videoId="2XAJZQUjYn0" time="2123" display="35:23" %}} - something that I just I I feel like a lot of us don't we don't talk about that very much we don't metabolize it try to  
+{{% timestamp videoId="2XAJZQUjYn0" time="2129" display="35:29" %}} - think on it what does it mean for us to live in this age where God has revealed all these things to us um and so of  
+{{% timestamp videoId="2XAJZQUjYn0" time="2137" display="35:37" %}} - course this is why learning believing applying the Bible is so important to us because it is God's truth it is the  
+{{% timestamp videoId="2XAJZQUjYn0" time="2143" display="35:43" %}} - truth that the Old Testament Believers wish they had um and we have it at our fingertips um so not overly belabor that  
+{{% timestamp videoId="2XAJZQUjYn0" time="2153" display="35:53" %}} - point more but I think it's very very uh appropo to the situation but it's also something that we should take away from  
+{{% timestamp videoId="2XAJZQUjYn0" time="2160" display="36:00" %}} - everything that we're talking about here um so much less just understanding of the Trinity but just understanding of  
+{{% timestamp videoId="2XAJZQUjYn0" time="2165" display="36:05" %}} - what God did for us and how he will save us um AI made a statement something to the effect that maybe we don't always  
+{{% timestamp videoId="2XAJZQUjYn0" time="2172" display="36:12" %}} - appreciate the faith of those in the Old Testament but we kind of understand that we're forgiven on account of what Christ  
+{{% timestamp videoId="2XAJZQUjYn0" time="2178" display="36:18" %}} - did for us on the cross well because we understand what the cross meant you know that it was is Christ paying for our  
+{{% timestamp videoId="2XAJZQUjYn0" time="2185" display="36:25" %}} - sins as the will substitute the people in the Old Testament they didn't have that to Look  
+{{% timestamp videoId="2XAJZQUjYn0" time="2192" display="36:32" %}} - Backwards at they didn't have this sort of guarantee you know they they didn't see Jesus crucified for their sins and  
+{{% timestamp videoId="2XAJZQUjYn0" time="2200" display="36:40" %}} - understand that God actually did pay he paid for all of it they just had to believe him that he would um because God  
+{{% timestamp videoId="2XAJZQUjYn0" time="2205" display="36:45" %}} - told them that they would be saved and they would be delivered and they kind of had to take his word for it I'm not that  
+{{% timestamp videoId="2XAJZQUjYn0" time="2211" display="36:51" %}} - we don't of course believing in Jesus Christ and what he did for us still requires faith on our part but the point  
+{{% timestamp videoId="2XAJZQUjYn0" time="2216" display="36:56" %}} - is they did it without understanding we at least have an understanding of well how exactly  
+{{% timestamp videoId="2XAJZQUjYn0" time="2223" display="37:03" %}} - will God save us um he saves us through the cross that is that is in fact how he saves everybody but Old Testament  
+{{% timestamp videoId="2XAJZQUjYn0" time="2230" display="37:10" %}} - Believers like this passage I think it's Romans 325 I want to say um talks about how people in the Old Testament were uh  
+{{% timestamp videoId="2XAJZQUjYn0" time="2239" display="37:19" %}} - you know they were saved very much by faith because they didn't understand uh they were saved on  
+{{% timestamp videoId="2XAJZQUjYn0" time="2245" display="37:25" %}} - credit was kind of what I was going to word the god passed over their sins because all sin was paid for it by  
+{{% timestamp videoId="2XAJZQUjYn0" time="2251" display="37:31" %}} - Christ on the cross um so anyway don't want to get off topic there but um indeed we have this blessing that we  
+{{% timestamp videoId="2XAJZQUjYn0" time="2259" display="37:39" %}} - have been given with this truth that has been revealed to us in our time um and so we just need to appreciate that and  
+{{% timestamp videoId="2XAJZQUjYn0" time="2266" display="37:46" %}} - try to uh do right by God in uh kind of working out what he wants for us given this knowledge that has been passed down  
+{{% timestamp videoId="2XAJZQUjYn0" time="2275" display="37:55" %}} - to us um so the next thing we're going to talk about here in examining this introduction to  
+{{% timestamp videoId="2XAJZQUjYn0" time="2285" display="38:05" %}} - the idea of the trinity in the Old Testament is the concept of prophetic foreshorten so I kind of mentioned this  
+{{% timestamp videoId="2XAJZQUjYn0" time="2292" display="38:12" %}} - in the initial intros section of this lesson although I think I kind of butchered it a bit um but now that I  
+{{% timestamp videoId="2XAJZQUjYn0" time="2298" display="38:18" %}} - have the text in front of me hopefully I'll do a better job here so the idea of foreshortening as a concept in art um or  
+{{% timestamp videoId="2XAJZQUjYn0" time="2306" display="38:26" %}} - how we represent like threedimensional reality on two Dimensions is this idea of if you have  
+{{% timestamp videoId="2XAJZQUjYn0" time="2314" display="38:34" %}} - an object in front of another object visually it kind of like covers up the thing behind it right so if you have uh  
+{{% timestamp videoId="2XAJZQUjYn0" time="2321" display="38:41" %}} - maybe a line of people you can see the first person in the line but maybe not the person behind them because they're  
+{{% timestamp videoId="2XAJZQUjYn0" time="2328" display="38:48" %}} - blocked by the person in front of them and so in this mountain analogy which is is often a good uh is the one used  
+{{% timestamp videoId="2XAJZQUjYn0" time="2337" display="38:57" %}} - when people try to explain this concept in terms of theology if you have a range of mountains so you have a line of them  
+{{% timestamp videoId="2XAJZQUjYn0" time="2344" display="39:04" %}} - as commonly happens with the tectonic plates and you know it's kind of how mountains are formed right they form in  
+{{% timestamp videoId="2XAJZQUjYn0" time="2349" display="39:09" %}} - lines not halfhazard um well when you have a range of mountains like this and you are standing in front of the first  
+{{% timestamp videoId="2XAJZQUjYn0" time="2357" display="39:17" %}} - one that first mountain is going to block your visibility of the mountains behind it and that is the idea of  
+{{% timestamp videoId="2XAJZQUjYn0" time="2364" display="39:24" %}} - foreshortening and so prophetic forh is the same concept that we have in art and then we're going to apply that to  
+{{% timestamp videoId="2XAJZQUjYn0" time="2371" display="39:31" %}} - prophecy and so in the Old Testament the three persons in the Trinity stand in front of us like three Mighty mountains  
+{{% timestamp videoId="2XAJZQUjYn0" time="2379" display="39:39" %}} - one after the other all partially visible but not readily distinguishable from each other and so you might see  
+{{% timestamp videoId="2XAJZQUjYn0" time="2387" display="39:47" %}} - bits and pieces there but the amalgamation we can't tell that it's three separate things not one thing  
+{{% timestamp videoId="2XAJZQUjYn0" time="2395" display="39:55" %}} - because when we look at it headon all we see is this is this mountain before us and we can't distinguish the three  
+{{% timestamp videoId="2XAJZQUjYn0" time="2402" display="40:02" %}} - Mountains from each other so only with the Revelation provided by the Incarnation of Jesus Christ and the New  
+{{% timestamp videoId="2XAJZQUjYn0" time="2408" display="40:08" %}} - Testament do we see the Old Testament picture of the Trinity from a sidelong perspective so that now the three  
+{{% timestamp videoId="2XAJZQUjYn0" time="2415" display="40:15" %}} - mountains become visible in their own right when viewed from this new vantage point and so the fundamental point to  
+{{% timestamp videoId="2XAJZQUjYn0" time="2424" display="40:24" %}} - kind of keep in mind when we talk about all this is that all three three mountains have always been there even if  
+{{% timestamp videoId="2XAJZQUjYn0" time="2430" display="40:30" %}} - Humanity was not previously able to distinguish them from one another that is it's not like after the New Testament  
+{{% timestamp videoId="2XAJZQUjYn0" time="2436" display="40:36" %}} - God suddenly like split in three you know as if he I don't know mutated or something um because as we've been  
+{{% timestamp videoId="2XAJZQUjYn0" time="2442" display="40:42" %}} - saying God does not change that is a very fundamental core aspect of God's nature God does not change and so given  
+{{% timestamp videoId="2XAJZQUjYn0" time="2450" display="40:50" %}} - that this three Mountain version of God shall we say has always been how God Is Right persons one Essence that has  
+{{% timestamp videoId="2XAJZQUjYn0" time="2459" display="40:59" %}} - always been the nature of the Trinity but just because we didn't see it doesn't mean it wasn't there and so  
+{{% timestamp videoId="2XAJZQUjYn0" time="2466" display="41:06" %}} - again one did not suddenly become three instead our perspective merely changed and so now that we see God from this new  
+{{% timestamp videoId="2XAJZQUjYn0" time="2473" display="41:13" %}} - vantage point so rather than uh looking at the first mountain right in front of us and and having our visibility  
+{{% timestamp videoId="2XAJZQUjYn0" time="2480" display="41:20" %}} - obstructed we we are now looking at it from a sidelong vantage point and we can see all three mountains in the mountain  
+{{% timestamp videoId="2XAJZQUjYn0" time="2486" display="41:26" %}} - range and they are clearly distinguishable from one another to us because we have this new vantage point  
+{{% timestamp videoId="2XAJZQUjYn0" time="2493" display="41:33" %}} - because we have the Revelation provided by the Incarnation of Jesus Christ and the New Testament we can see the three  
+{{% timestamp videoId="2XAJZQUjYn0" time="2500" display="41:40" %}} - members of the Trinity clearly distinguished from one another like the folks in the Old Testament times could  
+{{% timestamp videoId="2XAJZQUjYn0" time="2506" display="41:46" %}} - not because they didn't have that Revelation and so this is is commonly used on prophetic foreshortening again  
+{{% timestamp videoId="2XAJZQUjYn0" time="2512" display="41:52" %}} - in fact not only used of the Trinity very commonly used when speaking of the return of Jesus Christ too because we  
+{{% timestamp videoId="2XAJZQUjYn0" time="2519" display="41:59" %}} - have the prophesied uh you know the the coming of the Messiah um in all this Old Testament prophecy and some of that was  
+{{% timestamp videoId="2XAJZQUjYn0" time="2527" display="42:07" %}} - fulfilled when Jesus came uh to die for human sin on the cross and some of it will only be fulfilled when Jesus  
+{{% timestamp videoId="2XAJZQUjYn0" time="2533" display="42:13" %}} - returns for a second time again compare like Revel Revelation 19: 11 and following when Jesus comes in glory for  
+{{% timestamp videoId="2XAJZQUjYn0" time="2542" display="42:22" %}} - the second time the return of Christ as the Conquering King all that other prophecy about Christ return will be  
+{{% timestamp videoId="2XAJZQUjYn0" time="2548" display="42:28" %}} - fulfilled but for the longest time people before the first coming of Christ they thought that they were going to get  
+{{% timestamp videoId="2XAJZQUjYn0" time="2556" display="42:36" %}} - the king the first time um they wanted Jesus to come and kick out the Romans um because Judea in the time that the  
+{{% timestamp videoId="2XAJZQUjYn0" time="2562" display="42:42" %}} - Christ was born and and uh lived his life in Judea was occupied by the Romans and so uh they wanted Jesus to come as  
+{{% timestamp videoId="2XAJZQUjYn0" time="2572" display="42:52" %}} - the Conquering King right then that's the Messiah that they were looking for not the suffering servant of Isaiah 53  
+{{% timestamp videoId="2XAJZQUjYn0" time="2578" display="42:58" %}} - even though the suffering servant was there in the Bible they thought that they were going to get the Conquering  
+{{% timestamp videoId="2XAJZQUjYn0" time="2582" display="43:02" %}} - King up front and that idea of prophetic foreshortening is just as apparent there in the two comings of Christ as it is in  
+{{% timestamp videoId="2XAJZQUjYn0" time="2591" display="43:11" %}} - the Trinity because um both comings of Christ the first and the second when he comes with the sword so to speak well  
+{{% timestamp videoId="2XAJZQUjYn0" time="2598" display="43:18" %}} - they're both there in Old Testament prophecy but a lot of the Old Testament folks didn't distinguish the two comings  
+{{% timestamp videoId="2XAJZQUjYn0" time="2606" display="43:26" %}} - from each other they didn't understand how they were different they saw them as one and the same in the same way that  
+{{% timestamp videoId="2XAJZQUjYn0" time="2611" display="43:31" %}} - when you look at the three members of the trinity in the Old Testament you you might have this conception of them as  
+{{% timestamp videoId="2XAJZQUjYn0" time="2617" display="43:37" %}} - being one thing even though when you look from that different perspective now you can clearly see them as three  
+{{% timestamp videoId="2XAJZQUjYn0" time="2623" display="43:43" %}} - distinct members of this this Triune hole um so that's just another example of prophetic foreshortening this is not  
+{{% timestamp videoId="2XAJZQUjYn0" time="2631" display="43:51" %}} - unique to the doctrine of the Trinity is kind of what I'm trying to say um so uh in fact fact ichus has an entire section  
+{{% timestamp videoId="2XAJZQUjYn0" time="2639" display="43:59" %}} - on this concept in theology um so this is actually part of the coming tribulation series part of part one and  
+{{% timestamp videoId="2XAJZQUjYn0" time="2645" display="44:05" %}} - so I mean obviously we're not going to go through all of this but it is one of the paradigms that we need to keep in  
+{{% timestamp videoId="2XAJZQUjYn0" time="2651" display="44:11" %}} - mind when we when we interpret Prophecy in the Bible um so I encourage folks who are interested uh the first part of the  
+{{% timestamp videoId="2XAJZQUjYn0" time="2658" display="44:18" %}} - coming tribulation series the section is called prophetic fores shortening um so Aus has this written up because it is  
+{{% timestamp videoId="2XAJZQUjYn0" time="2665" display="44:25" %}} - important to help us understand um the nature of God's revelation of Truth to us again just two examples  
+{{% timestamp videoId="2XAJZQUjYn0" time="2671" display="44:31" %}} - we've gone through here the members of the Trinity as well as the uh the two separate comings of Christ these are are  
+{{% timestamp videoId="2XAJZQUjYn0" time="2678" display="44:38" %}} - two not the only ones there's more examples too but two examples of prophetic for shortening in theology  
+{{% timestamp videoId="2XAJZQUjYn0" time="2684" display="44:44" %}} - Audi you have uh any more points to make on this concept in general I doubt that I'm going to be making any new points  
+{{% timestamp videoId="2XAJZQUjYn0" time="2691" display="44:51" %}} - but again if you look at those two passages that that we looked at recently um the Lord said to my Lord and um the  
+{{% timestamp videoId="2XAJZQUjYn0" time="2701" display="45:01" %}} - Lord Almighty has sent me and the person who is speaking is the Lord Almighty so that's Zechariah 2 and um I believe it  
+{{% timestamp videoId="2XAJZQUjYn0" time="2709" display="45:09" %}} - was PSM I don't remember what Psalm it was again so when you look at these two things they again give you that  
+{{% timestamp videoId="2XAJZQUjYn0" time="2716" display="45:16" %}} - demonstration a very graphic demonstration of what we're talking about because the person who is Penning  
+{{% timestamp videoId="2XAJZQUjYn0" time="2723" display="45:23" %}} - these things down would be seeing something suggests there might be more than one  
+{{% timestamp videoId="2XAJZQUjYn0" time="2729" display="45:29" %}} - mountain here but he can't clearly see the other Mountain he can't clearly see it there is a mystery here the Lord  
+{{% timestamp videoId="2XAJZQUjYn0" time="2738" display="45:38" %}} - Almighty is speaking about the Lord Almighty and um the Lord is speaking to my  
+{{% timestamp videoId="2XAJZQUjYn0" time="2746" display="45:46" %}} - Lord again you can tell there's a mountain range it's just really hard to distinguish one from the other it's only  
+{{% timestamp videoId="2XAJZQUjYn0" time="2754" display="45:54" %}} - with the benefit of the New Testament that we can say oh one is is actually the Son and the other is the spirit and  
+{{% timestamp videoId="2XAJZQUjYn0" time="2760" display="46:00" %}} - yet there's another one who's the father and you can actually say oh this one does this and the other does that and  
+{{% timestamp videoId="2XAJZQUjYn0" time="2766" display="46:06" %}} - the other does the last does something else it's with the benefit of the New Testament and the gift of the spirit  
+{{% timestamp videoId="2XAJZQUjYn0" time="2775" display="46:15" %}} - this is something that is worth um dwelling upon a little bit I think that the gift of the spirit to live within us  
+{{% timestamp videoId="2XAJZQUjYn0" time="2782" display="46:22" %}} - provided us with a with an ability to see these things in a way that the those of the Old Testament could not like  
+{{% timestamp videoId="2XAJZQUjYn0" time="2792" display="46:32" %}} - Steven mentioned um people in Old Testament times could have an unction of the Spirit come upon them for short  
+{{% timestamp videoId="2XAJZQUjYn0" time="2799" display="46:39" %}} - periods but they did not have the spirit living inside of them because that their sins were yet to be paid for this is one  
+{{% timestamp videoId="2XAJZQUjYn0" time="2806" display="46:46" %}} - of the benefits of the cross for us so that we have actually become able we have been brought into a place where we  
+{{% timestamp videoId="2XAJZQUjYn0" time="2811" display="46:51" %}} - have innate to us the ability to actually understand these things so um yeah that's that's what I would  
+{{% timestamp videoId="2XAJZQUjYn0" time="2820" display="47:00" %}} - add to what you've said I think you've covered everything really there's not much I say yeah it's a good point um and  
+{{% timestamp videoId="2XAJZQUjYn0" time="2827" display="47:07" %}} - that that importance of the spirit like you said um you know all of this spiritual truth I suppose we can't just  
+{{% timestamp videoId="2XAJZQUjYn0" time="2833" display="47:13" %}} - take it for granted but all of our understanding comes through the indwelling spirit um these aren't just  
+{{% timestamp videoId="2XAJZQUjYn0" time="2839" display="47:19" %}} - intellectual matters we grasp them spiritually um and so that is important because we wouldn't be able to  
+{{% timestamp videoId="2XAJZQUjYn0" time="2845" display="47:25" %}} - understand it all if God didn't see F to help open our eyes um so just a buffer against human arrogance some is  
+{{% timestamp videoId="2XAJZQUjYn0" time="2852" display="47:32" %}} - understanding that our understanding of God's plan is well mediated through God indwelling us and without that we would  
+{{% timestamp videoId="2XAJZQUjYn0" time="2859" display="47:39" %}} - still be very blind indeed so sort of as hinted at in the  
+{{% timestamp videoId="2XAJZQUjYn0" time="2868" display="47:48" %}} - introductory part of this lesson um I mentioned kind of just bringing up this question of well why did God decide to  
+{{% timestamp videoId="2XAJZQUjYn0" time="2875" display="47:55" %}} - Veil his trying nature in Old Testament times um so why wouldn't God reveal himself to people in Old Testament times  
+{{% timestamp videoId="2XAJZQUjYn0" time="2885" display="48:05" %}} - that he was Triune you know that that his Essence was Triune that three beings one Essence why didn't he reveal himself  
+{{% timestamp videoId="2XAJZQUjYn0" time="2892" display="48:12" %}} - as a Triune god um and so uh we know that he foreshadowed it it was seen kind of clearly there in some of the passages  
+{{% timestamp videoId="2XAJZQUjYn0" time="2901" display="48:21" %}} - we've been through in the three-fold repetition of holies um even more explicitly in in this this passage from  
+{{% timestamp videoId="2XAJZQUjYn0" time="2908" display="48:28" %}} - Psalm 110 and that passage in Zechariah 2 that AI has brought up before um well in all of these places we see the  
+{{% timestamp videoId="2XAJZQUjYn0" time="2917" display="48:37" %}} - Trinity uh sort of described in veiled fashion it's there but kind of not as explicitly so why didn't God as  
+{{% timestamp videoId="2XAJZQUjYn0" time="2926" display="48:46" %}} - explicitly reveal himself to the people in the Old Testament and so sometimes um you'll hear as an explanation put forth  
+{{% timestamp videoId="2XAJZQUjYn0" time="2935" display="48:55" %}} - the prevention of Idol Tre and so that is the idea goes something like this God did not make his Triune nature known to  
+{{% timestamp videoId="2XAJZQUjYn0" time="2942" display="49:02" %}} - Israel in Old Testament times to help them falling into idolatry and so we'll kind of talk about the mechanics of this  
+{{% timestamp videoId="2XAJZQUjYn0" time="2949" display="49:09" %}} - um in a separate you know a separate section in just a second here but uh kind of introd introducing this as a  
+{{% timestamp videoId="2XAJZQUjYn0" time="2957" display="49:17" %}} - possible explanation um this has Merit and it's not that this isn't true but it's just not the only part the only  
+{{% timestamp videoId="2XAJZQUjYn0" time="2965" display="49:25" %}} - reason why God doesn't do this um so we're going to also argue that God did not reveal himself in Triune form before  
+{{% timestamp videoId="2XAJZQUjYn0" time="2971" display="49:31" %}} - the first Advent of Christ simply because the Trinity can only be clearly explained and understood after the first  
+{{% timestamp videoId="2XAJZQUjYn0" time="2978" display="49:38" %}} - Advent of Christ and so um you know we'll get to that in just a second here um these are the two reasons that we're  
+{{% timestamp videoId="2XAJZQUjYn0" time="2986" display="49:46" %}} - going to be putting forth for Why God decided to Veil this truth from people before the Advent of Christ um and so  
+{{% timestamp videoId="2XAJZQUjYn0" time="2993" display="49:53" %}} - the point is as we've been going over here God has good reasons for his progressive revelation of Truth to  
+{{% timestamp videoId="2XAJZQUjYn0" time="2998" display="49:58" %}} - humanity and we need to have unshakable faith in his wisdom and judgment that is God knows what he's doing and that's not  
+{{% timestamp videoId="2XAJZQUjYn0" time="3007" display="50:07" %}} - in the way that we humans think we do uh that is that we think we know what we're doing because God is in complete control  
+{{% timestamp videoId="2XAJZQUjYn0" time="3012" display="50:12" %}} - of everything and nothing happens except that which is part of his plan and so um what I'm kind of getting at in this last  
+{{% timestamp videoId="2XAJZQUjYn0" time="3020" display="50:20" %}} - paragraph here this is me not So Much from the study um is that we need to be approaching this question of well why  
+{{% timestamp videoId="2XAJZQUjYn0" time="3027" display="50:27" %}} - didn't God do this or why didn't God do that from the reasons of well God certainly has very good reasons so what  
+{{% timestamp videoId="2XAJZQUjYn0" time="3033" display="50:33" %}} - are those reasons do you see how those are kind of two different things right um like as in phrasing it like wouldn't  
+{{% timestamp videoId="2XAJZQUjYn0" time="3041" display="50:41" %}} - it have been better if God had done blank well we know on faith that it could not be better because what God  
+{{% timestamp videoId="2XAJZQUjYn0" time="3050" display="50:50" %}} - does is always the best and the purest and uh what of all things that could be done his plan is perfect that it isn't  
+{{% timestamp videoId="2XAJZQUjYn0" time="3058" display="50:58" %}} - ever a matter of could there have been something better but what are possible explanations for Why God acted in this  
+{{% timestamp videoId="2XAJZQUjYn0" time="3067" display="51:07" %}} - way you know like can we see why God did it this way and just as one side note before we we carry on here  
+{{% timestamp videoId="2XAJZQUjYn0" time="3075" display="51:15" %}} - sometimes that isn't even given to us um we are not owed an explanation um God can act as he sees fit because he is the  
+{{% timestamp videoId="2XAJZQUjYn0" time="3085" display="51:25" %}} - Creator and and owner and rer of the universe and he doesn't have to justify himself to us but the mindset that we  
+{{% timestamp videoId="2XAJZQUjYn0" time="3091" display="51:31" %}} - need to adopt in this is not that asking questions is bad but that we need to do it with enough respect for God that we  
+{{% timestamp videoId="2XAJZQUjYn0" time="3098" display="51:38" %}} - give him the benefit of the doubt up front and so not that this one is a particularly common stumbling block I  
+{{% timestamp videoId="2XAJZQUjYn0" time="3104" display="51:44" %}} - don't think but uh things like for example uh the problem of evil or suffering in the world uh so perhaps  
+{{% timestamp videoId="2XAJZQUjYn0" time="3111" display="51:51" %}} - succinctly put why if we have an all powerful God uh is there so much suffering in the world you know if he  
+{{% timestamp videoId="2XAJZQUjYn0" time="3117" display="51:57" %}} - says he loves us then then why is there suffering um that question certainly causes folks to stumble um but we need  
+{{% timestamp videoId="2XAJZQUjYn0" time="3124" display="52:04" %}} - to have that Faith up front that there are reasons for these things um and that's true here as well that's kind of  
+{{% timestamp videoId="2XAJZQUjYn0" time="3131" display="52:11" %}} - why I was trying to tie this in is why didn't God do this why didn't he give them the truth earlier you know couldn't  
+{{% timestamp videoId="2XAJZQUjYn0" time="3136" display="52:16" %}} - they have been more spiritually mature if God had revealed more truth to them earlier I don't know if youve ever heard  
+{{% timestamp videoId="2XAJZQUjYn0" time="3142" display="52:22" %}} - an argument like that it it's really it's like not the right argument to be made making is what I'm trying to say um  
+{{% timestamp videoId="2XAJZQUjYn0" time="3149" display="52:29" %}} - because it's not as if for all the truth that we have been given like Audie and I have just spent some time talking about  
+{{% timestamp videoId="2XAJZQUjYn0" time="3156" display="52:36" %}} - it's not as if even given all that truth everyone today makes such perfect use of it right and that's why this this game  
+{{% timestamp videoId="2XAJZQUjYn0" time="3163" display="52:43" %}} - that people play with this hypotheticals of well wouldn't it have been better if God did this or God did that as if we  
+{{% timestamp videoId="2XAJZQUjYn0" time="3169" display="52:49" %}} - think we know better than God well actually no it wouldn't have been better because even despite all that truth that  
+{{% timestamp videoId="2XAJZQUjYn0" time="3175" display="52:55" %}} - we've been given in our day people don't make it use of it so you can't assume things like that that like  
+{{% timestamp videoId="2XAJZQUjYn0" time="3181" display="53:01" %}} - if you know you have 10 people at this time and place and God gives them this much truth and 10 people in this time  
+{{% timestamp videoId="2XAJZQUjYn0" time="3187" display="53:07" %}} - and place and God gives them this much truth and those people had an advantage because they got more truth that is such  
+{{% timestamp videoId="2XAJZQUjYn0" time="3193" display="53:13" %}} - a human way of looking at this that we just need to give God the benefit of the doubt up  
+{{% timestamp videoId="2XAJZQUjYn0" time="3198" display="53:18" %}} - front so um we will have more to say in just a moment on these reasons that we put forward you know these possible  
+{{% timestamp videoId="2XAJZQUjYn0" time="3206" display="53:26" %}} - explan in this particular case but this slide is introducing these two possible  
+{{% timestamp videoId="2XAJZQUjYn0" time="3211" display="53:31" %}} - explanations the purpose of this was more just to get us in that right mindset of thinking well not in  
+{{% timestamp videoId="2XAJZQUjYn0" time="3217" display="53:37" %}} - accusatory fashion of why didn't God do this but like what are these explanations for why God's plan is  
+{{% timestamp videoId="2XAJZQUjYn0" time="3222" display="53:42" %}} - perfect that is sort of the mindset that we need to have when we talk about this a you have any uh follow on thoughts to  
+{{% timestamp videoId="2XAJZQUjYn0" time="3229" display="53:49" %}} - any of that yeah I I completely like endorse everything you just said the right attitude to have when asking that  
+{{% timestamp videoId="2XAJZQUjYn0" time="3238" display="53:58" %}} - question is to understand the way God thinks not to accuse him of some kind of error in the way he does  
+{{% timestamp videoId="2XAJZQUjYn0" time="3246" display="54:06" %}} - things um just to okay let's I think I think I can I can go that way um when we when we  
+{{% timestamp videoId="2XAJZQUjYn0" time="3257" display="54:17" %}} - think about the way that God structures things and we say well he wants everyone to be saved and he wants this and that  
+{{% timestamp videoId="2XAJZQUjYn0" time="3266" display="54:26" %}} - so it makes no sense that he does this and that um the Lord Jesus said that if the Miracles he did in his day  
+{{% timestamp videoId="2XAJZQUjYn0" time="3278" display="54:38" %}} - while he was on Earth in the flesh in the cities of Israel were done in Sodom and  
+{{% timestamp videoId="2XAJZQUjYn0" time="3285" display="54:45" %}} - gomorah they would have repented and he said too that those the the citizens of that City will stand in  
+{{% timestamp videoId="2XAJZQUjYn0" time="3295" display="54:55" %}} - judgment with this these citizens of the cities in which he was talking about capernum and the and the others and they  
+{{% timestamp videoId="2XAJZQUjYn0" time="3302" display="55:02" %}} - would condemn them well it's like if God wanted them to  
+{{% timestamp videoId="2XAJZQUjYn0" time="3308" display="55:08" %}} - repent why didn't he have those Miracles done but you  
+{{% timestamp videoId="2XAJZQUjYn0" time="3316" display="55:16" %}} - see we have to understand that God is not like us when we human beings want something it doesn't matter what anybody  
+{{% timestamp videoId="2XAJZQUjYn0" time="3323" display="55:23" %}} - else wants that's how we think think about things whereas the Lord wants people to repent but he doesn't want  
+{{% timestamp videoId="2XAJZQUjYn0" time="3331" display="55:31" %}} - them to do it under duress he wants them to repent of their own free choice so for that reason if anything is  
+{{% timestamp videoId="2XAJZQUjYn0" time="3340" display="55:40" %}} - going to force you to do it without doing it willingly is not going to let you  
+{{% timestamp videoId="2XAJZQUjYn0" time="3347" display="55:47" %}} - experience that thing that's a simple as that gets so likewise there's a lot of truth that  
+{{% timestamp videoId="2XAJZQUjYn0" time="3357" display="55:57" %}} - the Lord is more than happy to give the Lord Jesus expressed that to to his disciples where he said I have so much  
+{{% timestamp videoId="2XAJZQUjYn0" time="3363" display="56:03" %}} - to tell you but you're not ready to hear it and we see we see that unfolded we saw we saw it unfold in in Acts of the  
+{{% timestamp videoId="2XAJZQUjYn0" time="3375" display="56:15" %}} - Apostles consider for example how many times you if you read the book of John it's it's incredible it's almost as if  
+{{% timestamp videoId="2XAJZQUjYn0" time="3381" display="56:21" %}} - John was speaking to Gentiles and telling them look you really do belong in the Faith as well he kept talking  
+{{% timestamp videoId="2XAJZQUjYn0" time="3389" display="56:29" %}} - about how Jesus said for example in chapter 10 that he had other sheep that were not of this fold that was to say  
+{{% timestamp videoId="2XAJZQUjYn0" time="3400" display="56:40" %}} - Gentiles were also his even though they were not born Israelites this is what Jesus said while  
+{{% timestamp videoId="2XAJZQUjYn0" time="3408" display="56:48" %}} - he was on Earth and when you go through the gospels he said these things multiple times and yet when it came to  
+{{% timestamp videoId="2XAJZQUjYn0" time="3415" display="56:55" %}} - acts of the Apostles the chief Apostle so to speak the one who was loudest and always around the Lord Jesus and zealous  
+{{% timestamp videoId="2XAJZQUjYn0" time="3423" display="57:03" %}} - for all things concerning the Lord Jesus right up to the point that he thought well if it's going to be War I'll kill  
+{{% timestamp videoId="2XAJZQUjYn0" time="3429" display="57:09" %}} - and get killed he was ready for that and yet when the spirit himself sent him to Cornelius to teach them the gospel he  
+{{% timestamp videoId="2XAJZQUjYn0" time="3440" display="57:20" %}} - had to be persuaded that it was the right thing for him to do he was with Jesus we resume when a centurion asked  
+{{% timestamp videoId="2XAJZQUjYn0" time="3448" display="57:28" %}} - for Jesus to heal his slave and Jesus was going to the man's house why did Peter think that there was  
+{{% timestamp videoId="2XAJZQUjYn0" time="3458" display="57:38" %}} - something wrong with him doing the same thing and this was not where it ended later on Paul had to remonstrate with  
+{{% timestamp videoId="2XAJZQUjYn0" time="3464" display="57:44" %}} - him about his behavior with the Galatians that's just to tell you how difficult it was for them  
+{{% timestamp videoId="2XAJZQUjYn0" time="3473" display="57:53" %}} - to understand certain things that were even being told to them how much more in the era before the spirit was  
+{{% timestamp videoId="2XAJZQUjYn0" time="3482" display="58:02" %}} - poured out that is just to tell us how hard it is for us to stomach some things that God wants us to know and like like  
+{{% timestamp videoId="2XAJZQUjYn0" time="3492" display="58:12" %}} - Professor Robert said I believe that that's a very sound argument if the Lord Jesus did not come speaking about the  
+{{% timestamp videoId="2XAJZQUjYn0" time="3500" display="58:20" %}} - Trinity would have been a huge huge difficulty for anybody to deal with with when he came demonstrating in every way  
+{{% timestamp videoId="2XAJZQUjYn0" time="3510" display="58:30" %}} - that he was truly a member of the Trinity they still did not believe him how much more when he was not  
+{{% timestamp videoId="2XAJZQUjYn0" time="3518" display="58:38" %}} - there that's we'll get to that just just just forur the record we'll get to that that's like two slides next it present  
+{{% timestamp videoId="2XAJZQUjYn0" time="3526" display="58:46" %}} - so it's a very important it's crucial that is one of the crucial points that we're going over here um one of the  
+{{% timestamp videoId="2XAJZQUjYn0" time="3532" display="58:52" %}} - other examples based on what you'd said um why did Jesus speaking Parables it's another one right we may have talked  
+{{% timestamp videoId="2XAJZQUjYn0" time="3540" display="59:00" %}} - about this before I don't remember maybe not this series but um if God wants everyone to understand the truth why  
+{{% timestamp videoId="2XAJZQUjYn0" time="3545" display="59:05" %}} - didn't he just tell them the truth um it's because he gives us the ability to choose right um Choice Free Will is so  
+{{% timestamp videoId="2XAJZQUjYn0" time="3553" display="59:13" %}} - fundamental to this but it's the same thing right why did God why did God why did God when we ask these questions that  
+{{% timestamp videoId="2XAJZQUjYn0" time="3560" display="59:20" %}} - was the point here it needs to be it like I said curiosity is not bad it is not an unreasonable thing for us to be  
+{{% timestamp videoId="2XAJZQUjYn0" time="3568" display="59:28" %}} - curious as to you know like what are God's reasons for doing this you know and we can pray about it for sure um but  
+{{% timestamp videoId="2XAJZQUjYn0" time="3575" display="59:35" %}} - it needs to just not be accusatory that's all there is to this curiosity is fine accusing God is not right we need  
+{{% timestamp videoId="2XAJZQUjYn0" time="3581" display="59:41" %}} - to have that faith and trust that God knows what he is doing and in fact it's us who's too blind to actually see it  
+{{% timestamp videoId="2XAJZQUjYn0" time="3588" display="59:48" %}} - and and like I said before sometimes there are certain things that God has not given to us to know now I confess to  
+{{% timestamp videoId="2XAJZQUjYn0" time="3596" display="59:56" %}} - being rather cross when people use that particular line of thinking because a lot of things that some people fancy as  
+{{% timestamp videoId="2XAJZQUjYn0" time="3602" display="01:00:02" %}} - being not for Humanity to know I think are actually things that are the Bible speaks of like let's say prophecy and uh  
+{{% timestamp videoId="2XAJZQUjYn0" time="3611" display="01:00:11" %}} - eschatology end times interpretation Bible has all sorts of things to say about that that is not something that  
+{{% timestamp videoId="2XAJZQUjYn0" time="3617" display="01:00:17" %}} - God has seen fit to Veil from us completely but more what I'm talking about is like what exactly will eternity  
+{{% timestamp videoId="2XAJZQUjYn0" time="3622" display="01:00:22" %}} - be like I mean we kind of have some descriptions of the new heaven in the new Earth but not nearly as much as we  
+{{% timestamp videoId="2XAJZQUjYn0" time="3628" display="01:00:28" %}} - would like right um yeah and there's plenty of other things like that that's what I'm talking about um but we're  
+{{% timestamp videoId="2XAJZQUjYn0" time="3634" display="01:00:34" %}} - allowed to wonder but we don't get to second gu God because we are so far beneath him in perspective that it's  
+{{% timestamp videoId="2XAJZQUjYn0" time="3643" display="01:00:43" %}} - like I mean just to use an analogy um if you've ever been around small children who ask  
+{{% timestamp videoId="2XAJZQUjYn0" time="3648" display="01:00:48" %}} - questions that you know it's really hard to explain them to the child's level right so why doesn't God things explain  
+{{% timestamp videoId="2XAJZQUjYn0" time="3656" display="01:00:56" %}} - to us well because we are like small children asking him to explain something that you know we haven't a hope of  
+{{% timestamp videoId="2XAJZQUjYn0" time="3662" display="01:01:02" %}} - understanding except infinitely more so right if we understand this with children who are at least human and they  
+{{% timestamp videoId="2XAJZQUjYn0" time="3668" display="01:01:08" %}} - are at least Bound by similar sets of constraints as us well how much more is it not like that for when we come  
+{{% timestamp videoId="2XAJZQUjYn0" time="3676" display="01:01:16" %}} - whining to God about not understanding something even if he wanted to if he were to tell us as it actually is we  
+{{% timestamp videoId="2XAJZQUjYn0" time="3682" display="01:01:22" %}} - would not understand um and so it's all this is just going back to that point that I was making about it's just about  
+{{% timestamp videoId="2XAJZQUjYn0" time="3689" display="01:01:29" %}} - the attitude we have when we look into these things um so yeah okay of the two reasons that we just  
+{{% timestamp videoId="2XAJZQUjYn0" time="3701" display="01:01:41" %}} - went over for why perhaps God chose to Veil the triun nature of his Essence in the Old Testament rather than making it  
+{{% timestamp videoId="2XAJZQUjYn0" time="3708" display="01:01:48" %}} - clear to them in the same way that he did after the Incarnation well we're going to be talking about idolatry as a  
+{{% timestamp videoId="2XAJZQUjYn0" time="3714" display="01:01:54" %}} - possible explanation for God veiling of his nature and so um this is not some mere hypothetical here um Israel  
+{{% timestamp videoId="2XAJZQUjYn0" time="3723" display="01:02:03" %}} - actually really did struggle with idolatry like it's not like we're just making things up here um it was a major  
+{{% timestamp videoId="2XAJZQUjYn0" time="3730" display="01:02:10" %}} - problem in ancient times and it was historically one of Israel's most serious stumbling blocks and this is  
+{{% timestamp videoId="2XAJZQUjYn0" time="3737" display="01:02:17" %}} - pretty commonly uced as like the reason um you know reason singular for why U God chose to Veil the trinity in Old  
+{{% timestamp videoId="2XAJZQUjYn0" time="3747" display="01:02:27" %}} - Testament times um and so it is true um and and we're not going to argue against it it is true that the threat of  
+{{% timestamp videoId="2XAJZQUjYn0" time="3754" display="01:02:34" %}} - idolatry to the faith and practice of Old Testament Believers was a very real one so Dr Le will give some examples  
+{{% timestamp videoId="2XAJZQUjYn0" time="3760" display="01:02:40" %}} - here we only need to consider that the first two of The Ten Commandments deal with the subject right so I am you shall  
+{{% timestamp videoId="2XAJZQUjYn0" time="3767" display="01:02:47" %}} - have no other gods before me and you shall not make for yourself an idol or any likeness right first two  
+{{% timestamp videoId="2XAJZQUjYn0" time="3773" display="01:02:53" %}} - Commandments definitely idolatry focused and that if you consider um the passage in numbers 25 talking about um balam's  
+{{% timestamp videoId="2XAJZQUjYn0" time="3782" display="01:03:02" %}} - Council of idolatrous Seduction you know this was very damaging to Israel so we're not going to go read the whole  
+{{% timestamp videoId="2XAJZQUjYn0" time="3788" display="01:03:08" %}} - chapter although of course this is you know cross references on point because that's exactly why Dr lugino quotes it  
+{{% timestamp videoId="2XAJZQUjYn0" time="3796" display="01:03:16" %}} - um but the point is that idolatry was far from some toothless threat to uh the the survival of the faith of the  
+{{% timestamp videoId="2XAJZQUjYn0" time="3804" display="01:03:24" %}} - Israelites um it was a very real and practical threat it wasn't just some uh abstract hypothetical and so the  
+{{% timestamp videoId="2XAJZQUjYn0" time="3814" display="01:03:34" %}} - argument as it goes suggests that there was a need to emphasize the Oneness of the god sorry of God in the face of this  
+{{% timestamp videoId="2XAJZQUjYn0" time="3822" display="01:03:42" %}} - very real polytheistic threat thus obviating any possible twisting of a proper understanding of the Trinity and  
+{{% timestamp videoId="2XAJZQUjYn0" time="3829" display="01:03:49" %}} - so the way that we're going to go with this is basically that this explanation does possess of value it is not false  
+{{% timestamp videoId="2XAJZQUjYn0" time="3838" display="01:03:58" %}} - that's not what we're saying is that it isn't the only thing that we should focus on when we talk about this and  
+{{% timestamp videoId="2XAJZQUjYn0" time="3843" display="01:04:03" %}} - we'll get to that um in the next thing we talk about talking about how the fact that Jesus hadn't come yet is also a  
+{{% timestamp videoId="2XAJZQUjYn0" time="3849" display="01:04:09" %}} - very real explanation for why God had chose not to unveil all of the truth of the Trinity um but this idea of idolatry  
+{{% timestamp videoId="2XAJZQUjYn0" time="3858" display="01:04:18" %}} - and emphasizing the Oneness of the god in the face of the polytheistic Pagan pantheons it is true and it is is you  
+{{% timestamp videoId="2XAJZQUjYn0" time="3866" display="01:04:26" %}} - know a very a very reasonable reason why God would not um uh try to uh you know explain the Triune nature that he has to  
+{{% timestamp videoId="2XAJZQUjYn0" time="3877" display="01:04:37" %}} - the Israelites in the times when the Israelites were surrounded on all sides by Pagan pantheons and were likely to  
+{{% timestamp videoId="2XAJZQUjYn0" time="3884" display="01:04:44" %}} - twist it and so we should note here this is in a footnote on N this although I moved it directly into the slide here  
+{{% timestamp videoId="2XAJZQUjYn0" time="3890" display="01:04:50" %}} - that Pagan pantheons not to mention Pagan religions proper they are different from and the true worship of  
+{{% timestamp videoId="2XAJZQUjYn0" time="3896" display="01:04:56" %}} - him in every way that is of course God is not a Pantheon of course the Trinity is different from pantheons but the  
+{{% timestamp videoId="2XAJZQUjYn0" time="3904" display="01:05:04" %}} - problem is is that people could twist it um and so this would have been obvious to True Believers um revelation of the  
+{{% timestamp videoId="2XAJZQUjYn0" time="3911" display="01:05:11" %}} - Trinity notwithstanding um so uh two points here and we we've already kind of been over  
+{{% timestamp videoId="2XAJZQUjYn0" time="3917" display="01:05:17" %}} - this when we were talking about God's nature um Pagan pantheons are never even close to being one in purpose as the  
+{{% timestamp videoId="2XAJZQUjYn0" time="3924" display="01:05:24" %}} - Trinity is um that is what being shared Essence means um they have this Unity of Will and purpose that completely boggles  
+{{% timestamp videoId="2XAJZQUjYn0" time="3931" display="01:05:31" %}} - our minds we don't have any human analogy as we pointed out before um no nor are there individual members so  
+{{% timestamp videoId="2XAJZQUjYn0" time="3938" display="01:05:38" %}} - integral to the existence of the whole as in the Trinity is not the Trinity without all three members of the Trinity  
+{{% timestamp videoId="2XAJZQUjYn0" time="3944" display="01:05:44" %}} - whereas you could have a Pantheon of gods and well if you take away one of the Gods it's still a Pantheon of gods  
+{{% timestamp videoId="2XAJZQUjYn0" time="3950" display="01:05:50" %}} - right um whereas if you take away one of the members of the Trinity it's no longer the Trinity so these are ways in  
+{{% timestamp videoId="2XAJZQUjYn0" time="3955" display="01:05:55" %}} - which the Trinity is not a Pantheon um but it is worth pointing out that throughout much of the existence of  
+{{% timestamp videoId="2XAJZQUjYn0" time="3963" display="01:06:03" %}} - church history actually you know understanding the Trinity and understanding exactly what it means for  
+{{% timestamp videoId="2XAJZQUjYn0" time="3969" display="01:06:09" %}} - three person's one Essence and it was hard even after Jesus Christ came right people still got muddled up on this  
+{{% timestamp videoId="2XAJZQUjYn0" time="3976" display="01:06:16" %}} - point there were still people who tried to treat the Trinity like a Pantheon um and that was after Jesus Christ had come  
+{{% timestamp videoId="2XAJZQUjYn0" time="3982" display="01:06:22" %}} - we had more Revelation at that point people still had problems with it and so how much more so would this have been  
+{{% timestamp videoId="2XAJZQUjYn0" time="3989" display="01:06:29" %}} - the case when Israel was surrounded on all sides by these Pagan religions who had these pantheons and so even if you  
+{{% timestamp videoId="2XAJZQUjYn0" time="3997" display="01:06:37" %}} - know no matter how God explained this to the people there would have been people who would have properly understood those  
+{{% timestamp videoId="2XAJZQUjYn0" time="4003" display="01:06:43" %}} - with faith would have taken God's words and believed and trusted in him but there would have been people who would  
+{{% timestamp videoId="2XAJZQUjYn0" time="4010" display="01:06:50" %}} - have you know basically taken the words of God and then somehow themselves that God uh uh the judeo Christian God was  
+{{% timestamp videoId="2XAJZQUjYn0" time="4021" display="01:07:01" %}} - somehow a Pantheon um because that was what their frame of reference was um so again we are not suggesting that this  
+{{% timestamp videoId="2XAJZQUjYn0" time="4029" display="01:07:09" %}} - alone is the reason why God failed the Trinity but it is a reason um and in fact we're going to argue that the  
+{{% timestamp videoId="2XAJZQUjYn0" time="4035" display="01:07:15" %}} - second one that we're going to go over is probably the more important reason um but it is perfectly valid for us to  
+{{% timestamp videoId="2XAJZQUjYn0" time="4041" display="01:07:21" %}} - observe this and hypothesize because I don't think we actually have anything in the Bible that says this explicitly it's  
+{{% timestamp videoId="2XAJZQUjYn0" time="4047" display="01:07:27" %}} - sort of an inference but hypothesize that this is a good reason for God to have chosen to reveal truth in the times  
+{{% timestamp videoId="2XAJZQUjYn0" time="4054" display="01:07:34" %}} - and places that he did a you have any any further points you're speaking you're  
+{{% timestamp videoId="2XAJZQUjYn0" time="4060" display="01:07:40" %}} - muted okay sorry I I forgot that I was muted I was saying that um first I already I already went here before  
+{{% timestamp videoId="2XAJZQUjYn0" time="4070" display="01:07:50" %}} - before it was time to go here and yeah the other thing too is that I I I like how Professor Robert essentially says  
+{{% timestamp videoId="2XAJZQUjYn0" time="4079" display="01:07:59" %}} - it's not that idolatry was not something to worry about but that um it's not it does not fully answer  
+{{% timestamp videoId="2XAJZQUjYn0" time="4090" display="01:08:10" %}} - why uh God did not give this information earlier as we have said and as you have said just now even if even with the  
+{{% timestamp videoId="2XAJZQUjYn0" time="4101" display="01:08:21" %}} - coming of the Lord Jesus idolatry is still an issue even with the Jews themselves it's not like it's way out  
+{{% timestamp videoId="2XAJZQUjYn0" time="4108" display="01:08:28" %}} - there so we have all of those um all of those things uh but it it is it is part of the answer it's part of the answer  
+{{% timestamp videoId="2XAJZQUjYn0" time="4118" display="01:08:38" %}} - because it essentially says look people are already struggling with understanding God as  
+{{% timestamp videoId="2XAJZQUjYn0" time="4124" display="01:08:44" %}} - one one not entity in this case but you know as one understanding that God is one almost almost everything in the Old  
+{{% timestamp videoId="2XAJZQUjYn0" time="4133" display="01:08:53" %}} - Testament was driving in toward know that I am not like the gods of your of your people of of your neighbors sorry  
+{{% timestamp videoId="2XAJZQUjYn0" time="4142" display="01:09:02" %}} - all the Gentile Nations surrounding Israel God kept telling I'm not like that I am  
+{{% timestamp videoId="2XAJZQUjYn0" time="4151" display="01:09:11" %}} - one that was a very big deal but there would have been some confusion too if um he is one and then they see that he is  
+{{% timestamp videoId="2XAJZQUjYn0" time="4161" display="01:09:21" %}} - three so there is there is that too but at the same time like we said it was it's more than that it's part of the  
+{{% timestamp videoId="2XAJZQUjYn0" time="4169" display="01:09:29" %}} - answer but it's not the whole answer that that's what uh Professor Robert is pointing out and I I completely agree  
+{{% timestamp videoId="2XAJZQUjYn0" time="4177" display="01:09:37" %}} - with that I mean I should say too that it's not like when Jesus came and died for our sins and we had this revelation  
+{{% timestamp videoId="2XAJZQUjYn0" time="4184" display="01:09:44" %}} - of the Trinity when when God actually did give believers an understanding of the Trinity you know uh one Essence  
+{{% timestamp videoId="2XAJZQUjYn0" time="4191" display="01:09:51" %}} - three persons well Rome had a Pantheon too albeit they mostly copied the Greeks but like they were still a a society in  
+{{% timestamp videoId="2XAJZQUjYn0" time="4201" display="01:10:01" %}} - a culture whose religion was fundamentally a Pantheon it wasn't like it was different then but part of the  
+{{% timestamp videoId="2XAJZQUjYn0" time="4209" display="01:10:09" %}} - difference too is that obviously the focus um you know you brought up Paul and uh Peter being led to to go to  
+{{% timestamp videoId="2XAJZQUjYn0" time="4215" display="01:10:15" %}} - Cornelius and salvation was for the Gentiles too um is that there wasn't quite the same degree of maintaining the  
+{{% timestamp videoId="2XAJZQUjYn0" time="4224" display="01:10:24" %}} - separation of Israel as a nation right I almost think this is a fundamental point to this is that idolatry of Israel was  
+{{% timestamp videoId="2XAJZQUjYn0" time="4232" display="01:10:32" %}} - seen as a national problem right Israel was a pure theocracy in a way that government systems um before and since  
+{{% timestamp videoId="2XAJZQUjYn0" time="4240" display="01:10:40" %}} - really haven't been right Rome was not a theocracy not really um United States is certainly not um you know separation of  
+{{% timestamp videoId="2XAJZQUjYn0" time="4246" display="01:10:46" %}} - church and state uh people view it as rather important actually um but for Israel their idolatry had National  
+{{% timestamp videoId="2XAJZQUjYn0" time="4256" display="01:10:56" %}} - consequences um their their actions their in fact their relationship with God drove the policy of their Nation we  
+{{% timestamp videoId="2XAJZQUjYn0" time="4263" display="01:11:03" %}} - could say um the Kings they got good Kings and bad kings depended upon the righteousness of the people um so I  
+{{% timestamp videoId="2XAJZQUjYn0" time="4271" display="01:11:11" %}} - think pretty fundamental to this idolatry explanation too is not so much that there were nations with idolatry  
+{{% timestamp videoId="2XAJZQUjYn0" time="4279" display="01:11:19" %}} - around them as that the distinction between Israel and those Nations had to be maintained um a do you know there's  
+{{% timestamp videoId="2XAJZQUjYn0" time="4286" display="01:11:26" %}} - this passage that that talks about marrying foreign wives um it's in like the Minor Prophets somewhere is it um um  
+{{% timestamp videoId="2XAJZQUjYn0" time="4294" display="01:11:34" %}} - yeah let let mea maybe or um it would be it's actually in the in the law um well no I'm talking about specifically where  
+{{% timestamp videoId="2XAJZQUjYn0" time="4305" display="01:11:45" %}} - um a number of the Jews had married foreign wives and they were told to okay that's an Ezra Ezra okay yeah it's an  
+{{% timestamp videoId="2XAJZQUjYn0" time="4314" display="01:11:54" %}} - Ezra um but I mean I was just trying to say that this distinction of keeping the people of Israel  
+{{% timestamp videoId="2XAJZQUjYn0" time="4321" display="01:12:01" %}} - separate that's a a fundamental part of of this um this is not separate from that and that is why the whole idolatry  
+{{% timestamp videoId="2XAJZQUjYn0" time="4329" display="01:12:09" %}} - thing like sorry the paganism thing well Rome was still Pagan in fact so were the Greeks you know because you know it  
+{{% timestamp videoId="2XAJZQUjYn0" time="4336" display="01:12:16" %}} - spread to Greece and Rome both of those were still Pagan societies as in they had a Pantheon however it was no longer  
+{{% timestamp videoId="2XAJZQUjYn0" time="4344" display="01:12:24" %}} - about keep Israel separate from them it was about the spread of the Gospel it's a different time a different place but  
+{{% timestamp videoId="2XAJZQUjYn0" time="4350" display="01:12:30" %}} - for the Israel's existence that's what we're talking about here not the time when the gospel is spreading throughout  
+{{% timestamp videoId="2XAJZQUjYn0" time="4356" display="01:12:36" %}} - the Mediterranean but for the period of Israel's existence as a Theocratic State maintaining that separation was crucial  
+{{% timestamp videoId="2XAJZQUjYn0" time="4365" display="01:12:45" %}} - and that's why this was kind of the big deal then uh maybe that helps shed a bit more light on why then versus after the  
+{{% timestamp videoId="2XAJZQUjYn0" time="4373" display="01:12:53" %}} - cross you know like why why were those different respect to pantheons um yeah okay yeah and so I think that's  
+{{% timestamp videoId="2XAJZQUjYn0" time="4381" display="01:13:01" %}} - all there is like we said this is part of the answer but it is not the answer in and of itself um just one thing to  
+{{% timestamp videoId="2XAJZQUjYn0" time="4387" display="01:13:07" %}} - close with here is I think we have this uh this temptation as humans to want to kind of explain it all feel like we've  
+{{% timestamp videoId="2XAJZQUjYn0" time="4394" display="01:13:14" %}} - kind of got all the the pieces on the board arranged in the proper format and see like I understand now um uh I have  
+{{% timestamp videoId="2XAJZQUjYn0" time="4401" display="01:13:21" %}} - this problem I'm just like speaking for myself n equals 1 personally I want to understand and see how all the  
+{{% timestamp videoId="2XAJZQUjYn0" time="4407" display="01:13:27" %}} - pieces fit together and kind of be able to have this full accounting of things put everything in nice neat boxes and be  
+{{% timestamp videoId="2XAJZQUjYn0" time="4415" display="01:13:35" %}} - able to give explanations um just gonna kind of repeat what I said before that sometimes  
+{{% timestamp videoId="2XAJZQUjYn0" time="4420" display="01:13:40" %}} - we aren't given to know um and understanding when we are and when we are not is actually pretty important  
+{{% timestamp videoId="2XAJZQUjYn0" time="4427" display="01:13:47" %}} - when we kind of dive into trying to answer theological questions is this something that God has given for mankind  
+{{% timestamp videoId="2XAJZQUjYn0" time="4433" display="01:13:53" %}} - to know can I work hard and come to an answer or am I just deluding myself if I think I have an answer um why I'm  
+{{% timestamp videoId="2XAJZQUjYn0" time="4441" display="01:14:01" %}} - bringing that up here is because I think it might be tempting for some people to stop here to say aha look I found the  
+{{% timestamp videoId="2XAJZQUjYn0" time="4447" display="01:14:07" %}} - answer this is the answer kind of open shut I'm not going to talk about this anymore right because they found  
+{{% timestamp videoId="2XAJZQUjYn0" time="4453" display="01:14:13" %}} - something that seems convincing and uh well I can explain everything in the world and we're just going to leave it  
+{{% timestamp videoId="2XAJZQUjYn0" time="4458" display="01:14:18" %}} - there um God did this because this right but we need to make sure that when we do try to explain things we don't we don't  
+{{% timestamp videoId="2XAJZQUjYn0" time="4467" display="01:14:27" %}} - necessarily always take the easy path I maybe I'm being really vague here but just like you can't just leave it here  
+{{% timestamp videoId="2XAJZQUjYn0" time="4473" display="01:14:33" %}} - um and I think this feeds into that human arrogance of feeling like we can actually understand God's plan I we kind  
+{{% timestamp videoId="2XAJZQUjYn0" time="4479" display="01:14:39" %}} - of can God gives us information in order to understand how he's working in the world but we're not going to get it all  
+{{% timestamp videoId="2XAJZQUjYn0" time="4486" display="01:14:46" %}} - figured out and so to the extent that you ever feel like you've got it all figured out maybe take a step back and  
+{{% timestamp videoId="2XAJZQUjYn0" time="4492" display="01:14:52" %}} - understand that God's just a lot bigger than we are um and so uh I I don't think most folks  
+{{% timestamp videoId="2XAJZQUjYn0" time="4498" display="01:14:58" %}} - have a problem with this I think sometimes people who really want to try to find explanations for everything will  
+{{% timestamp videoId="2XAJZQUjYn0" time="4503" display="01:15:03" %}} - tend to uh perhaps get too wetted to single reasons right they put all their eggs in one basket so to speak um and  
+{{% timestamp videoId="2XAJZQUjYn0" time="4512" display="01:15:12" %}} - because we're so finite sometimes we don't have that that overarching perspective that God does so maybe he's  
+{{% timestamp videoId="2XAJZQUjYn0" time="4518" display="01:15:18" %}} - doing it for this reason and then 500 other reasons besides that we can't even see right that's kind of what I'm trying  
+{{% timestamp videoId="2XAJZQUjYn0" time="4525" display="01:15:25" %}} - to say here um yeah to the extent that we think we we know why we're probably only seeing part of the iceberg is what  
+{{% timestamp videoId="2XAJZQUjYn0" time="4533" display="01:15:33" %}} - I'm trying to say um true true all right well with that uh we will soon enough turn into explaining perhaps  
+{{% timestamp videoId="2XAJZQUjYn0" time="4542" display="01:15:42" %}} - the the bigger part of the reason for God's veiling and that is the revelation of Jesus Christ and how much how  
+{{% timestamp videoId="2XAJZQUjYn0" time="4550" display="01:15:50" %}} - necessary that is for properly explaining the trinity so next we're going to be talking here  
+{{% timestamp videoId="2XAJZQUjYn0" time="4559" display="01:15:59" %}} - about sort of the second part of the reasoning for Why God did not reveal his Triune nature to Old Testament Believers  
+{{% timestamp videoId="2XAJZQUjYn0" time="4567" display="01:16:07" %}} - and so idolatry being the first part that we went over here and the idea that God wanted to emphasize his Oneness and  
+{{% timestamp videoId="2XAJZQUjYn0" time="4576" display="01:16:16" %}} - his unity in the face of all of the Pagan pantheons around the nation state of Israel and how they had to stay  
+{{% timestamp videoId="2XAJZQUjYn0" time="4585" display="01:16:25" %}} - separate that was critically important for the survival of uh the Jewish culture and um just belief in God in  
+{{% timestamp videoId="2XAJZQUjYn0" time="4593" display="01:16:33" %}} - general um if they didn't stay separate they could be completely assimilated by some of these other Pagan cultures and  
+{{% timestamp videoId="2XAJZQUjYn0" time="4601" display="01:16:41" %}} - that would be well the end of those who follow the one true God and so God could have kept some of the description of his  
+{{% timestamp videoId="2XAJZQUjYn0" time="4609" display="01:16:49" %}} - Triune nature veiled so that it would preserve the idea of theism in the eyes of the people of Israel um so that is  
+{{% timestamp videoId="2XAJZQUjYn0" time="4619" display="01:16:59" %}} - part one now part two what we're going to be talking about now is perhaps even a little bit simpler conceptually than  
+{{% timestamp videoId="2XAJZQUjYn0" time="4625" display="01:17:05" %}} - that in that God did not reveal uh the full roles in the Trinity and how they relate until after Jesus Christ had come  
+{{% timestamp videoId="2XAJZQUjYn0" time="4635" display="01:17:15" %}} - down and died for our sins in the world after the Incarnation and before we could see  
+{{% timestamp videoId="2XAJZQUjYn0" time="4641" display="01:17:21" %}} - Jesus Christ you know the idea of three person of God um as we have already sort of argued and we'll continue to argue it  
+{{% timestamp videoId="2XAJZQUjYn0" time="4649" display="01:17:29" %}} - was there in the Old Testament but uh it was not uh so easy for Old Testament Believers to discern between the members  
+{{% timestamp videoId="2XAJZQUjYn0" time="4659" display="01:17:39" %}} - so God is God there is one true God that is something that they would have understood but that that God exists in  
+{{% timestamp videoId="2XAJZQUjYn0" time="4665" display="01:17:45" %}} - these three persons would not have been as obvious and so the argument more or less  
+{{% timestamp videoId="2XAJZQUjYn0" time="4672" display="01:17:52" %}} - for this idea of God did not reveal all of the truth of the Trinity until Jesus Christ had come goes something like this  
+{{% timestamp videoId="2XAJZQUjYn0" time="4682" display="01:18:02" %}} - so before we see with our own eyes Christ come in the flesh his humility his suffering his sacrifice for us can  
+{{% timestamp videoId="2XAJZQUjYn0" time="4689" display="01:18:09" %}} - we really truly appreciate in full the Trinity and what God has chosen for us to do in Christ's Incarnation and Death  
+{{% timestamp videoId="2XAJZQUjYn0" time="4696" display="01:18:16" %}} - on the cross so without actually seeing it or having the words uh divinely inspired through the words of of the  
+{{% timestamp videoId="2XAJZQUjYn0" time="4705" display="01:18:25" %}} - writers of the New Testament such that we hear about it through their witness could we really properly  
+{{% timestamp videoId="2XAJZQUjYn0" time="4712" display="01:18:32" %}} - appreciate what the Trinity is and what God has chosen to do for us in sending his son to die for us so uh if you take  
+{{% timestamp videoId="2XAJZQUjYn0" time="4720" display="01:18:40" %}} - a step back and you think about well how could God have done this in a way other than which he did you know like let's  
+{{% timestamp videoId="2XAJZQUjYn0" time="4726" display="01:18:46" %}} - say God had told old test Believers through the mouths of some of the Major Prophets so perhaps Isaiah or Jeremiah  
+{{% timestamp videoId="2XAJZQUjYn0" time="4734" display="01:18:54" %}} - or one of the other Major Prophets in Old Testament times well here's how you know humanity is going to be saved and  
+{{% timestamp videoId="2XAJZQUjYn0" time="4742" display="01:19:02" %}} - he spells it all out perhaps kind of explicitly you know uh I'm going to send a person who is my son I mean we have  
+{{% timestamp videoId="2XAJZQUjYn0" time="4749" display="01:19:09" %}} - the Virgin birth is prophecied in Isaiah you know that is there although you know obviously not quite as connected as as  
+{{% timestamp videoId="2XAJZQUjYn0" time="4755" display="01:19:15" %}} - perhaps spelling it all out in expository detail but if God told them well I exist in three persons and I'm  
+{{% timestamp videoId="2XAJZQUjYn0" time="4763" display="01:19:23" %}} - going to send you know the son into the world to take your sins upon the cross to die for you and you  
+{{% timestamp videoId="2XAJZQUjYn0" time="4770" display="01:19:30" %}} - know the spirit is going to make that possible and I will accept the sacrifice as the atonement for human sin well  
+{{% timestamp videoId="2XAJZQUjYn0" time="4778" display="01:19:38" %}} - without having you know the the Life of Christ before them and and knowing him seeing him in the flesh understanding  
+{{% timestamp videoId="2XAJZQUjYn0" time="4786" display="01:19:46" %}} - what suffering he went through would they have been able to understand it all um and L we think well you know God  
+{{% timestamp videoId="2XAJZQUjYn0" time="4794" display="01:19:54" %}} - could just make it I don't know like a parent to them or whatever well he certainly could we we know that we  
+{{% timestamp videoId="2XAJZQUjYn0" time="4801" display="01:20:01" %}} - only understand spiritual truth through the holy spirit that indwells us that sort of opens our eyes to the spiritual  
+{{% timestamp videoId="2XAJZQUjYn0" time="4808" display="01:20:08" %}} - aspect of things in this world but nonetheless the point remains that without actually having the witness of  
+{{% timestamp videoId="2XAJZQUjYn0" time="4815" display="01:20:15" %}} - Jesus Christ in the life he lived and the death he died to redeem us a lot of the plan for the Trinity as in the roles  
+{{% timestamp videoId="2XAJZQUjYn0" time="4823" display="01:20:23" %}} - that they have adopted for the Redemption of humankind just kind of doesn't make a lot of sense I mean like  
+{{% timestamp videoId="2XAJZQUjYn0" time="4829" display="01:20:29" %}} - God could try to explain it but in the absence of actually kind of seeing Christ be and born and live and and die  
+{{% timestamp videoId="2XAJZQUjYn0" time="4836" display="01:20:36" %}} - in our place human beings would have a really hard time sort of understanding it it'd be kind of abstract and so this  
+{{% timestamp videoId="2XAJZQUjYn0" time="4845" display="01:20:45" %}} - is sort of the simple argument for Why God would choose to only progressively reveal his his full Triune nature only  
+{{% timestamp videoId="2XAJZQUjYn0" time="4853" display="01:20:53" %}} - after the cross only after Christ had had come and lived and died and was resurrected was because only then kind  
+{{% timestamp videoId="2XAJZQUjYn0" time="4860" display="01:21:00" %}} - of could we properly appreciate what the Trinity what the members of the Trinity were doing what God's plan was to save  
+{{% timestamp videoId="2XAJZQUjYn0" time="4867" display="01:21:07" %}} - us and how the members of the Trinity are involved in that plan because prior to that I mean it's not like the three  
+{{% timestamp videoId="2XAJZQUjYn0" time="4874" display="01:21:14" %}} - members of the Trinity didn't act in the Old Testament or or didn't share responsibilities in a division of labor  
+{{% timestamp videoId="2XAJZQUjYn0" time="4881" display="01:21:21" %}} - in some way but God's full plan for the Redemption of humanity obviously came about during the life of Jesus Christ  
+{{% timestamp videoId="2XAJZQUjYn0" time="4889" display="01:21:29" %}} - under kenosis under the life he lived and the death he died to save us and so you just can't kind of properly explain  
+{{% timestamp videoId="2XAJZQUjYn0" time="4897" display="01:21:37" %}} - the roles of God without talking about the Incarnation it's really that simple um and so Dr Lugo phrases it like this  
+{{% timestamp videoId="2XAJZQUjYn0" time="4905" display="01:21:45" %}} - without the accomplished reality of the Incarnation of Jesus how could we ever but dimly conceive the glory of it so  
+{{% timestamp videoId="2XAJZQUjYn0" time="4912" display="01:21:52" %}} - without seeing it so not only understand but how could we appreciate it without having it before us and without the  
+{{% timestamp videoId="2XAJZQUjYn0" time="4920" display="01:22:00" %}} - accomplished fact of his Incarnation how could we possibly understand and appreciate the Triune nature of God for  
+{{% timestamp videoId="2XAJZQUjYn0" time="4926" display="01:22:06" %}} - it's only through Christ after he has come into the world in person that we begin to see God with the clarity of  
+{{% timestamp videoId="2XAJZQUjYn0" time="4934" display="01:22:14" %}} - vision it has now been given to us to possess and so the verse references that Dr lul cites here uh John 1 verse 18  
+{{% timestamp videoId="2XAJZQUjYn0" time="4943" display="01:22:23" %}} - says no one has seen God at any time the only begotten God who is in the bosom of the father he has explained him so  
+{{% timestamp videoId="2XAJZQUjYn0" time="4952" display="01:22:32" %}} - probably translate that this is the 1995 version of the nas we probably translate that as you know the I have to see this  
+{{% timestamp videoId="2XAJZQUjYn0" time="4959" display="01:22:39" %}} - word in Greek is probably monogenes that's the Greek word here probably the one and only God who is in the bosom of  
+{{% timestamp videoId="2XAJZQUjYn0" time="4966" display="01:22:46" %}} - the father but regardless the point is that we only understand the father we we have him explained to us by Jesus Christ  
+{{% timestamp videoId="2XAJZQUjYn0" time="4975" display="01:22:55" %}} - um and so when Jesus comes to Bear witness about the father you'll hear that phrasing is all throughout the  
+{{% timestamp videoId="2XAJZQUjYn0" time="4981" display="01:23:01" %}} - Gospel of John uh well Jesus came as a messenger as the messenger capital T definite article of God and you know um  
+{{% timestamp videoId="2XAJZQUjYn0" time="4992" display="01:23:12" %}} - you another verse I think I've brought this one up before I really like the first chapter of the book of Hebrews  
+{{% timestamp videoId="2XAJZQUjYn0" time="4998" display="01:23:18" %}} - especially how we talk about how God speaks through his son right in the past God spoke to our ancestors through the  
+{{% timestamp videoId="2XAJZQUjYn0" time="5005" display="01:23:25" %}} - prophets at many times and in various ways but in these last days he has spoken to us by his son whom he  
+{{% timestamp videoId="2XAJZQUjYn0" time="5012" display="01:23:32" %}} - appointed he of all things through whom he made the universe so God gave Jesus Christ to us as a message um so uh you  
+{{% timestamp videoId="2XAJZQUjYn0" time="5021" display="01:23:41" %}} - know aside from Jesus saving us in his actions he was also God's testimony to us about who he is and what he is doing  
+{{% timestamp videoId="2XAJZQUjYn0" time="5030" display="01:23:50" %}} - for us and so this is why we say that we don't oops well don't need that um we don't  
+{{% timestamp videoId="2XAJZQUjYn0" time="5039" display="01:23:59" %}} - need sorry we do not properly understand God independent from what Jesus Christ did for us we cannot in fact and so that  
+{{% timestamp videoId="2XAJZQUjYn0" time="5047" display="01:24:07" %}} - was John chapter 1 vers 18 just getting this idea that Jesus Christ in his witness to us um as God speaking to us  
+{{% timestamp videoId="2XAJZQUjYn0" time="5055" display="01:24:15" %}} - how Hebrews chapter 1 says well that was sort of necessary for us to understand God and so that is why the progressive  
+{{% timestamp videoId="2XAJZQUjYn0" time="5064" display="01:24:24" %}} - Revelation in terms of the Triune nature of God would happen after this point and then likewise John 14 verse 9 and uh  
+{{% timestamp videoId="2XAJZQUjYn0" time="5075" display="01:24:35" %}} - Jesus here is saying that anyone who has seen him has seen the father um and so if you take a step back and you think  
+{{% timestamp videoId="2XAJZQUjYn0" time="5083" display="01:24:43" %}} - about exactly what that means we we see the father you know and that is not just visibly with our eyes you have to  
+{{% timestamp videoId="2XAJZQUjYn0" time="5090" display="01:24:50" %}} - understand the metaphorical aspect of seeing here um so that's pretty common in languages at least it certainly is in  
+{{% timestamp videoId="2XAJZQUjYn0" time="5097" display="01:24:57" %}} - Greek where you you kind of we even have this turn of phrase in English either you'd say that you know for example he  
+{{% timestamp videoId="2XAJZQUjYn0" time="5104" display="01:25:04" %}} - came to see that uh the thing was not going to happen or something like that um he he didn't like see something with  
+{{% timestamp videoId="2XAJZQUjYn0" time="5111" display="01:25:11" %}} - his eyes he kind of comprehended it with his mind and so too here in John chapter 14 ver9 when Jesus says to Philip he who  
+{{% timestamp videoId="2XAJZQUjYn0" time="5120" display="01:25:20" %}} - has seen me has seen the father so how can you say show us the father Jesus is saying that he is actually as we just  
+{{% timestamp videoId="2XAJZQUjYn0" time="5128" display="01:25:28" %}} - said a witness of the Father the person through whom you know his disciples the the people who believed in him and  
+{{% timestamp videoId="2XAJZQUjYn0" time="5136" display="01:25:36" %}} - followed him could actually understand the father because he was you know I go back to Hebrews chapter 1 he was the  
+{{% timestamp videoId="2XAJZQUjYn0" time="5144" display="01:25:44" %}} - radiance of God's glory and the exact representation of his being um that is what Jesus Christ was  
+{{% timestamp videoId="2XAJZQUjYn0" time="5151" display="01:25:51" %}} - and that is how we see the father through him so to pull us all back to the general idea here that's kind of  
+{{% timestamp videoId="2XAJZQUjYn0" time="5157" display="01:25:57" %}} - what we're doing in this slide introducing it is that well we could not properly understand the Triune nature of  
+{{% timestamp videoId="2XAJZQUjYn0" time="5163" display="01:26:03" %}} - God independent from this witness of Jesus Christ so as we kind of go on to talk about this a little bit more here  
+{{% timestamp videoId="2XAJZQUjYn0" time="5171" display="01:26:11" %}} - um so when the temple veil that symbolically separated us from the presence of God was Split in Two by  
+{{% timestamp videoId="2XAJZQUjYn0" time="5180" display="01:26:20" %}} - Christ sacrifice on our behalf that is you know Matthew chap 27 : 51 says that the veil of the temple was torn into two  
+{{% timestamp videoId="2XAJZQUjYn0" time="5188" display="01:26:28" %}} - from top to bottom and the Earth Shook and the Rocks were split when Christ was on the cross well so the veil that in  
+{{% timestamp videoId="2XAJZQUjYn0" time="5194" display="01:26:34" %}} - the Old Testament partially obscured the person of Christ from our view has been lifted by his actual Advent in the flesh  
+{{% timestamp videoId="2XAJZQUjYn0" time="5202" display="01:26:42" %}} - to die on our behalf and and save us from our sins paying for our sins on our behalf on the cross so now through our  
+{{% timestamp videoId="2XAJZQUjYn0" time="5211" display="01:26:51" %}} - faith in Jesus Christ we see God the Father the Son and the Holy Spirit more clearly than we ever could before this  
+{{% timestamp videoId="2XAJZQUjYn0" time="5218" display="01:26:58" %}} - happened um before the Advent of Christ and his Incarnation and his life and his suffering and his death for us we  
+{{% timestamp videoId="2XAJZQUjYn0" time="5226" display="01:27:06" %}} - couldn't properly wrap our heads around exactly what this meant and so the ripping of the veil that is discussed  
+{{% timestamp videoId="2XAJZQUjYn0" time="5235" display="01:27:15" %}} - here uh in terms of the temple uh This is highly symbolic um and it is a powerful metaphor for us to understand  
+{{% timestamp videoId="2XAJZQUjYn0" time="5244" display="01:27:24" %}} - again going back to that idea of seeing we just talked about in John 14:9 here um seeing the father uh not so much as  
+{{% timestamp videoId="2XAJZQUjYn0" time="5251" display="01:27:31" %}} - in like with our eyes but with our minds well so too that Veil within our minds this veil of understanding that our you  
+{{% timestamp videoId="2XAJZQUjYn0" time="5261" display="01:27:41" %}} - know our ears were plugged and our eyes were darkened if you will things like that we have been given to see and hear  
+{{% timestamp videoId="2XAJZQUjYn0" time="5267" display="01:27:47" %}} - and understand these truths about God now because that veil was torn upon what Christ did for us um because through his  
+{{% timestamp videoId="2XAJZQUjYn0" time="5277" display="01:27:57" %}} - sacrifice on our behalf we are no longer separated from God in this way so it wasn't just that reconciliation to God  
+{{% timestamp videoId="2XAJZQUjYn0" time="5285" display="01:28:05" %}} - we have uh Jesus paying for our sins so us being covered in the blood of Christ can now enter the presence of the father  
+{{% timestamp videoId="2XAJZQUjYn0" time="5292" display="01:28:12" %}} - in the third heaven but it's also this separation in terms of understanding of being able to comprehend who God is and  
+{{% timestamp videoId="2XAJZQUjYn0" time="5300" display="01:28:20" %}} - what he's doing to work out our Redemption so a couple more vers verses here 2 Corinthians 4:6 says for God who  
+{{% timestamp videoId="2XAJZQUjYn0" time="5309" display="01:28:29" %}} - said let light shine forth from the darkness is he who has shown forth his light into our hearts to illuminate our  
+{{% timestamp videoId="2XAJZQUjYn0" time="5316" display="01:28:36" %}} - knowledge of God's glory in the person of Jesus Christ so from this verse we see that the knowledge of God's glory  
+{{% timestamp videoId="2XAJZQUjYn0" time="5325" display="01:28:45" %}} - that we have comes through our understanding of the person of Jesus Christ um that is how light is shown  
+{{% timestamp videoId="2XAJZQUjYn0" time="5332" display="01:28:52" %}} - into our hearts so to speak um so you know illumination actually light in the darkness another common metaphor for  
+{{% timestamp videoId="2XAJZQUjYn0" time="5339" display="01:28:59" %}} - knowledge or understanding um you know because we don't see or comprehend things in the darkness we we cannot uh  
+{{% timestamp videoId="2XAJZQUjYn0" time="5348" display="01:29:08" %}} - make sense of them well light as a metaphor for knowledge here it's the same thing our hearts are illuminated  
+{{% timestamp videoId="2XAJZQUjYn0" time="5355" display="01:29:15" %}} - our understanding of God is illuminated um or elucidated even uh uh like Lucid lucid comes from the Latin word looks  
+{{% timestamp videoId="2XAJZQUjYn0" time="5365" display="01:29:25" %}} - which is light um so we have our understanding illuminated by the person of Jesus Christ and another verse here  
+{{% timestamp videoId="2XAJZQUjYn0" time="5375" display="01:29:35" %}} - from 2 Corinthians this time from chapter 3 2 Corinthians chapter 3:14 for until this very day the same  
+{{% timestamp videoId="2XAJZQUjYn0" time="5383" display="01:29:43" %}} - Veil remains upon their unbelieving hearts when the Old Testament is read and it is not removed when they hear  
+{{% timestamp videoId="2XAJZQUjYn0" time="5389" display="01:29:49" %}} - these scriptures because it is only done away with in Christ so we may go pull up this passage here um 2 Corinthians  
+{{% timestamp videoId="2XAJZQUjYn0" time="5397" display="01:29:57" %}} - chapter 3 is talking about the veiled glory of God um and so what do we say that was verse 14 yeah um so this is  
+{{% timestamp videoId="2XAJZQUjYn0" time="5406" display="01:30:06" %}} - talking about uh us reflecting the glory of God you know and uh the glory that was coming off of Moses's face when he  
+{{% timestamp videoId="2XAJZQUjYn0" time="5416" display="01:30:16" %}} - uh you know like had come down the mountain um so Moses would put a veil over his face to prevent the Israelites  
+{{% timestamp videoId="2XAJZQUjYn0" time="5423" display="01:30:23" %}} - from seeing the end of what was passing away his face you know glowing with the glory of God as he came down the  
+{{% timestamp videoId="2XAJZQUjYn0" time="5430" display="01:30:30" %}} - mountain um but the veiled minds of the Believers here when the old Covenant is read it has not been removed because  
+{{% timestamp videoId="2XAJZQUjYn0" time="5439" display="01:30:39" %}} - only in Christ is it taken away that is and that's the key Point here we only understand God our minds are only uh  
+{{% timestamp videoId="2XAJZQUjYn0" time="5449" display="01:30:49" %}} - unveiled so to speak so that we may see clearly once we understand the person of Jesus Christ um so verse 16 so 2  
+{{% timestamp videoId="2XAJZQUjYn0" time="5458" display="01:30:58" %}} - Corinthians chapter 3: 16 says whenever anyone turns to the Lord the veil is taken away right they have that light uh  
+{{% timestamp videoId="2XAJZQUjYn0" time="5466" display="01:31:06" %}} - the veil is removed um they can actually see properly they can see God for who he is  
+{{% timestamp videoId="2XAJZQUjYn0" time="5472" display="01:31:12" %}} - and what he is doing for us so this is you know on topic reference here 2 Corinthians chapter 3 the latter part of  
+{{% timestamp videoId="2XAJZQUjYn0" time="5481" display="01:31:21" %}} - that chapter gets at this idea of Glory and us not being able to properly see and understand it because people have  
+{{% timestamp videoId="2XAJZQUjYn0" time="5488" display="01:31:28" %}} - their hearts veiled until they understand the person of Jesus Christ and so to kind of pull it all together  
+{{% timestamp videoId="2XAJZQUjYn0" time="5495" display="01:31:35" %}} - here we would say that we see the sun more clearly after he comes into the world so we could compare John chapter 1  
+{{% timestamp videoId="2XAJZQUjYn0" time="5504" display="01:31:44" %}} - verse4 this is talking about you know the word uh Jesus as the per personified logos becoming flesh and dwelling among  
+{{% timestamp videoId="2XAJZQUjYn0" time="5511" display="01:31:51" %}} - us and we saw his glory Glory as of the only begotten of the father full of grace and truth um so that's John 1  
+{{% timestamp videoId="2XAJZQUjYn0" time="5519" display="01:31:59" %}} - ver14 we see the son more clearly after he comes into the world the son can only reveal the father more clearly after he  
+{{% timestamp videoId="2XAJZQUjYn0" time="5528" display="01:32:08" %}} - comes into the world here's that verse that we quoted before John 1:18 talks about how uh Jesus explains the father  
+{{% timestamp videoId="2XAJZQUjYn0" time="5536" display="01:32:16" %}} - um he has this witness this testimony that he brings about the father and the spirit cannot be sent to any dwell  
+{{% timestamp videoId="2XAJZQUjYn0" time="5544" display="01:32:24" %}} - Believers until after the son has been glorified and so uh this John 7:39 says um but this he he being Jesus spoke of  
+{{% timestamp videoId="2XAJZQUjYn0" time="5555" display="01:32:35" %}} - the Spirit uh whom those who believed in him were to receive for the spirit was not yet given because Jesus was not yet  
+{{% timestamp videoId="2XAJZQUjYn0" time="5562" display="01:32:42" %}} - glorified um so we know that Jesus sent the spirit the comforter uh you know as he was going back to Heaven as he was  
+{{% timestamp videoId="2XAJZQUjYn0" time="5570" display="01:32:50" %}} - ascending so that the apostles would have that indwelling Holy Spirit to help them in their Ministries you know we  
+{{% timestamp videoId="2XAJZQUjYn0" time="5577" display="01:32:57" %}} - this has been true in the church age ever since um Believers are indwell by the Holy Spirit God living within us um  
+{{% timestamp videoId="2XAJZQUjYn0" time="5584" display="01:33:04" %}} - but that couldn't happen here this is what uh well not couldn't but you know this verse says that the spirit was not  
+{{% timestamp videoId="2XAJZQUjYn0" time="5590" display="01:33:10" %}} - yet given because Jesus was not yet glorified so if the spirit is not given we don't understand the empowerment of  
+{{% timestamp videoId="2XAJZQUjYn0" time="5599" display="01:33:19" %}} - his ministry we don't understand the father because the father is revealed through the son and we don't understand  
+{{% timestamp videoId="2XAJZQUjYn0" time="5604" display="01:33:24" %}} - the son before he actually comes into the world you know as the Incarnate Son of God uh the Divine logos living among  
+{{% timestamp videoId="2XAJZQUjYn0" time="5612" display="01:33:32" %}} - us that's all three members of the Trinity that you can kind of see we do not properly understand them or the role  
+{{% timestamp videoId="2XAJZQUjYn0" time="5619" display="01:33:39" %}} - they play until the events of the Incarnation are completed and so for that reason we would say that the  
+{{% timestamp videoId="2XAJZQUjYn0" time="5626" display="01:33:46" %}} - Trinity can only be clearly explained and understood after the first Advent of Christ a task undertaken by the New  
+{{% timestamp videoId="2XAJZQUjYn0" time="5634" display="01:33:54" %}} - Testament um so uh you know everything else in the Epistles um and the other writings that we have in the New  
+{{% timestamp videoId="2XAJZQUjYn0" time="5641" display="01:34:01" %}} - Testament talking about you know uh God's truth in a more specific revealed way that idea of progressive revelation  
+{{% timestamp videoId="2XAJZQUjYn0" time="5651" display="01:34:11" %}} - well all this happens only after the first Advent of Jesus Christ so to put that a little bit differently there's a  
+{{% timestamp videoId="2XAJZQUjYn0" time="5656" display="01:34:16" %}} - reason why the New Testament was written after the Life of Christ um it's different uh categorically different  
+{{% timestamp videoId="2XAJZQUjYn0" time="5663" display="01:34:23" %}} - from the old Old Testament because we have this specific revealed Truth uh we see without the veil in a way that the  
+{{% timestamp videoId="2XAJZQUjYn0" time="5671" display="01:34:31" %}} - Old Testament Believers were not given to and so we can contrast that a bit with the Old Testament before the first  
+{{% timestamp videoId="2XAJZQUjYn0" time="5680" display="01:34:40" %}} - Advent where the members of the Trinity were understandably not as clearly distinguished and so that kind of gets  
+{{% timestamp videoId="2XAJZQUjYn0" time="5685" display="01:34:45" %}} - back this idea of foreshortening we talked about before um someone standing in front of a range of mountains headon  
+{{% timestamp videoId="2XAJZQUjYn0" time="5693" display="01:34:53" %}} - might not be able to uh clearly distinguish that there are three of them they see the one in front of them and  
+{{% timestamp videoId="2XAJZQUjYn0" time="5699" display="01:34:59" %}} - and the ones behind that may be sort of blocked in their view by the first one whereas once they get some perspective  
+{{% timestamp videoId="2XAJZQUjYn0" time="5706" display="01:35:06" %}} - and step to the side they could see that they're actually distinct that is that topic that we talked about here um  
+{{% timestamp videoId="2XAJZQUjYn0" time="5713" display="01:35:13" %}} - prophetic for shortening so um I think that is the main overview of why we would say that we do not proper  
+{{% timestamp videoId="2XAJZQUjYn0" time="5724" display="01:35:24" %}} - understand the Trinity roles we could not properly understand the Trinity roles until the first Advent of  
+{{% timestamp videoId="2XAJZQUjYn0" time="5733" display="01:35:33" %}} - Christ so that's where we're going to wrap this lesson here uh we have been talking about the Trinity's visibility  
+{{% timestamp videoId="2XAJZQUjYn0" time="5741" display="01:35:41" %}} - in the Old Testament and uh we're going to continue talking about this for the next couple lessons um but what we have  
+{{% timestamp videoId="2XAJZQUjYn0" time="5749" display="01:35:49" %}} - gone over in this one here is just talking about how with the Ben benefit of New Testament Revelation um so  
+{{% timestamp videoId="2XAJZQUjYn0" time="5756" display="01:35:56" %}} - further Revelation by God in Greater specificity we can see some of these things in the Old Testament that the  
+{{% timestamp videoId="2XAJZQUjYn0" time="5764" display="01:36:04" %}} - Believers of that time might have sort of questioned they had this this splinter in their mind if you will about  
+{{% timestamp videoId="2XAJZQUjYn0" time="5770" display="01:36:10" %}} - well what exactly does that mean why is Elohim plural why does God say that he made us in you know our image not you  
+{{% timestamp videoId="2XAJZQUjYn0" time="5778" display="01:36:18" %}} - know my image singular why is it first person plural um and things like that that um they might have had these these  
+{{% timestamp videoId="2XAJZQUjYn0" time="5786" display="01:36:26" %}} - questions we talked about this passage here in Matthew chapter 22 this is when um Jesus is saying my lord said to the  
+{{% timestamp videoId="2XAJZQUjYn0" time="5795" display="01:36:35" %}} - Lord said to my Lord and and this very obviously Messianic Psalm here quoting Psalm  
+{{% timestamp videoId="2XAJZQUjYn0" time="5801" display="01:36:41" %}} - 110 um we talked about prophetic foreshortening so the idea that uh in the Old Testament they they could have  
+{{% timestamp videoId="2XAJZQUjYn0" time="5809" display="01:36:49" %}} - seen um sort of analogist to a range of mountains but they would only see one they wouldn't see them split out as  
+{{% timestamp videoId="2XAJZQUjYn0" time="5817" display="01:36:57" %}} - separate because they didn't yet have the perspective to properly appreciate that so this idea of foreshortening in  
+{{% timestamp videoId="2XAJZQUjYn0" time="5823" display="01:37:03" %}} - art sort of maps pretty well onto prophecy we've we've argued this isn't the only place as well that this happens  
+{{% timestamp videoId="2XAJZQUjYn0" time="5829" display="01:37:09" %}} - this also happens with the two advents of Christ the first Advent and the second Advent um some of the prophecy in  
+{{% timestamp videoId="2XAJZQUjYn0" time="5836" display="01:37:16" %}} - uh you know the major and the Minor Prophets in the Old Testament uh the two advents commonly get conflated like  
+{{% timestamp videoId="2XAJZQUjYn0" time="5842" display="01:37:22" %}} - they're not obviously distinguishable from each other in the prophecy but now that Christ Has Come For the first time  
+{{% timestamp videoId="2XAJZQUjYn0" time="5847" display="01:37:27" %}} - we can kind of see better um but all of that sort of leading up to the question that we closed this lesson with of well  
+{{% timestamp videoId="2XAJZQUjYn0" time="5854" display="01:37:34" %}} - why did God choose to Veil The Triune nature he possesses in Old Testament times like why wouldn't he just tell  
+{{% timestamp videoId="2XAJZQUjYn0" time="5861" display="01:37:41" %}} - them then uh so we have we've talked throughout about this idea of progressive revelation um we we gave two  
+{{% timestamp videoId="2XAJZQUjYn0" time="5867" display="01:37:47" %}} - big reasons here number one sort of the more minor reason if you will was that uh Israel had to stay separate from all  
+{{% timestamp videoId="2XAJZQUjYn0" time="5874" display="01:37:54" %}} - of its pagan neighbors who had these pantheons and emphasizing God's Oneness monotheism was  
+{{% timestamp videoId="2XAJZQUjYn0" time="5883" display="01:38:03" %}} - this defining trait of uh the the people of Israel the Jewish people as opposed to their their neighbors uh well this  
+{{% timestamp videoId="2XAJZQUjYn0" time="5891" display="01:38:11" %}} - was one way to preserve that barrier of Separation um and we did mention how well it's not as if when Jesus Christ  
+{{% timestamp videoId="2XAJZQUjYn0" time="5898" display="01:38:18" %}} - really did come that like Rome had a pagan Pantheon too for example but at this point and that leads us sort of  
+{{% timestamp videoId="2XAJZQUjYn0" time="5905" display="01:38:25" %}} - into the the second thing here which we said was almost the more important thing once Jesus Christ came God could kind of  
+{{% timestamp videoId="2XAJZQUjYn0" time="5911" display="01:38:31" %}} - actually properly explain the roles of the Trinity so Jesus coming into the world helps us understand the son he  
+{{% timestamp videoId="2XAJZQUjYn0" time="5918" display="01:38:38" %}} - Bears witness about the father so through him we see the father we read some verses about that and after his  
+{{% timestamp videoId="2XAJZQUjYn0" time="5924" display="01:38:44" %}} - glorification the holy spirit is sent to indwell us so only after the first Advent can we kind of truly understand  
+{{% timestamp videoId="2XAJZQUjYn0" time="5932" display="01:38:52" %}} - uh the roles of God in the plan sorry and the the plan of God and the roles that the members of the Trinity play in  
+{{% timestamp videoId="2XAJZQUjYn0" time="5938" display="01:38:58" %}} - that plan for our Redemption um so this is what we've talked about here sort of just introducing uh the idea of the  
+{{% timestamp videoId="2XAJZQUjYn0" time="5945" display="01:39:05" %}} - trinity in the Old Testament and uh this kind of a higher conceptual level we're going to talk more in the coming lessons  
+{{% timestamp videoId="2XAJZQUjYn0" time="5952" display="01:39:12" %}} - about sort of how the Messiah is prefigured that's what we're going to talk about next time and then a couple  
+{{% timestamp videoId="2XAJZQUjYn0" time="5957" display="01:39:17" %}} - lessons from now we'll be talking about the appearances of God in the Old Testament so the idea of theophanies  
+{{% timestamp videoId="2XAJZQUjYn0" time="5964" display="01:39:24" %}} - generally and christophanies specifically and you know kind of where Jesus shows up and how we can see him in  
+{{% timestamp videoId="2XAJZQUjYn0" time="5969" display="01:39:29" %}} - the Old Testament so those are the topics that we are going to be discussing in our coming lessons here  
+
+{{% /toggleable-transcript %}}
+
+{{% discussion-pages %}}
+
+{{% /discussion-pages %}}
+
+
+
+
+<br/>
+
+
+
+## [The Messiah Pre-figured in the Old Testament](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/the-messiah-pre-figured-in-the-old-testament) {#the-messiah-pre-figured-in-the-old-testament}
+{{< subjects >}}
+{{< /subjects >}}
+
+
+
+### Video {#the-messiah-pre-figured-in-the-old-testament-video}
+
+{{% video
+videoId="KF-287QM3ig"
+
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8"
+
+slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/the-messiah-pre-figured-in-the-old-testament"
+%}}
+
+### Summary {#the-messiah-pre-figured-in-the-old-testament-summary}
+
+From the very beginning, the scriptures spoke of a Messiah that would come to save His people from their sins. All the way back in the earliest chapters of Genesis (with the protoevangelium and Abel's blood sacrifice, for example), we can see that the Old Testament clearly pre-figures the Messiah. In this lesson we go over how both blood sacrifice and prophecy (in a more general sense) point not only to the person of the Messiah, but also His suffering.
+
+### Timestamps {#the-messiah-pre-figured-in-the-old-testament-timestamps}
+
+{{% timestamp videoId="KF-287QM3ig" time="0" display="0:00" %}} - Intro and outline  
+{{% timestamp videoId="KF-287QM3ig" time="91" display="01:31" %}} - Introduction: the Old Testament's portrayal of the suffering of Christ  
+{{% timestamp videoId="KF-287QM3ig" time="1327" display="22:07" %}} - Blood sacrifice  
+{{% timestamp videoId="KF-287QM3ig" time="2326" display="38:46" %}} - Prophecy  
+{{% timestamp videoId="KF-287QM3ig" time="3004" display="50:04" %}} - Summary and outro  
+
+{{% toggleable-content %}}
+
+### Content {#the-messiah-pre-figured-in-the-old-testament-content}
+
+(Derived from https://ichthys.com/1Theo.htm)
+
+<!-- --- -->
+
+#### Introduction: the Old Testament's portrayal of the suffering of Christ {#the-messiah-pre-figured-in-the-old-testament-introduction-the-old-testament-s-portrayal-of-the-suffering-of-christ}
+
+{{< subjects >}}
+<a href="/subject-index/#messiah-in-the-old-testament-is-spoken-of-extensively">Messiah > In the Old Testament > Is spoken of extensively</a>
+<a href="/subject-index/#messiah-in-the-old-testament-is-clearly-prophesied-to-suffer">Messiah > In the Old Testament > Is clearly prophesied to suffer</a>
+<a href="/subject-index/#jesus-as-the-messiah-has-been-spoken-of-since-the-beginning-of-creation">Jesus > As the Messiah, has been spoken of since the beginning of creation</a>
+{{< /subjects >}}
+<!-- p="Luke 24:27; 1 Peter 1:10-12; Hebrews 11:26" -->
+
+Contrary to much conventional wisdom about the Old Testament, Jesus Christ and His sacrifice on our behalf is depicted everywhere in the Old Testament. Furthermore, we know from New Testament scripture that the necessity for the mission and suffering of the Messiah was understood clearly enough by Old Testament believers (as Christ explains on the road to Emmaus: Lk.24:27; see also 1Pet.1:10-12 and Heb.11:26).
+
+In fact, there are in the Old Testament a large variety of "types" employed to pre-figure the incarnation, death and suffering of the Son of God on our behalf. The subject of typology will be covered in more extensive detail in [part 4A of this series (Christology)](https://ichthys.com/4A-Christo.htm), but two major categories of the Old Testament's portrayal of the suffering of Christ should be mentioned now:
+
+<!-- --- -->
+
+#### Blood sacrifice {#the-messiah-pre-figured-in-the-old-testament-blood-sacrifice}
+
+{{< subjects >}}
+<a href="/subject-index/#blood-sacrifice-shows-the-horrific-severity-of-sin-and-glossing-over-it-cheapens-grace">Blood sacrifice > Shows the horrific severity of sin, and glossing over it cheapens grace</a>
+<a href="/subject-index/#blood-sacrifice-animal-sacrifice-points-straight-to-the-cross-of-christ">Blood sacrifice > Animal sacrifice points straight to the cross of Christ</a>
+<a href="/subject-index/#blood-sacrifice-when-understood-properly-holds-that-god-is-the-one-providing-the-sacrifice">Blood sacrifice > When understood properly, holds that God is the one providing the sacrifice</a>
+{{< /subjects >}}
+<!-- p="Genesis 3:21; Genesis 4:4; Genesis 9:4; Hebrews 11:4; Hebrews 9:22ff." -->
+
+From the coats of skin that God provides for Adam and Eve to indicate that One will die in their place (Gen.3:21), to Abel's sacrifice, superior to Cain's because it depicts the Substitute's death (Gen.4:4), to the Noahic covenant demanding respect for blood that represents the death of Another in our place (Gen.9:4), to the whole elaborate series of sacrifices commanded by the Mosaic law, all of which portray redemption through Another's blood (cf. Heb.9:22ff.), God made extensive use of the "teaching aid" of blood sacrifice in order that it might be crystal clear to all Old Testament believers that forgiveness of their sins was no light matter: it was something that only God could do for them, and it involved a steep and bloody price that God would somehow have to pay Himself on behalf of those who trusted in Him.
+
+<!-- --- -->
+
+#### Prophecy {#the-messiah-pre-figured-in-the-old-testament-prophecy}
+
+{{< subjects >}}
+<a href="/subject-index/#prophecy-old-testament-prophecies-pointing-towards-christ">Prophecy > Old Testament > Prophecies pointing towards Christ</a>
+<a href="/subject-index/#prophecy-old-testament-not-just-the-person-of-the-messiah-that-is-prophesied-but-also-his-suffering">Prophecy > Old Testament > Not just the person of the Messiah that is prophesied, but also His suffering</a>
+{{< /subjects >}}
+<!-- p="Genesis 3:15; Numbers 21:9; Psalm 22:1; Isaiah 53:3" -->
+
+The substitutionary suffering and death of Christ on our behalf is predicted and prophesied throughout the Old Testament, for example:
+
+- Genesis 3:15: He will crush your head, and you, [serpent], will strike His heel.
+- Numbers 21:9: So Moses made a bronze serpent and put it on a staff. And it came to pass that whoever was bitten by a serpent then looked at the bronze serpent would live.
+- Psalm 22:1: My God, My God, why did You forsake Me?
+- Isaiah 53:3: He was despised and rejected by men, a man of sorrows and acquainted with suffering.
+
+{{% /toggleable-content %}}
+
+{{% toggleable-transcript %}}
+
+### Video/audio transcript {#the-messiah-pre-figured-in-the-old-testament-video-audio-transcript}
+
+{{% timestamp videoId="KF-287QM3ig" time="2" display="00:02" %}} - all right so the next thing we're going to be talking about as we discuss the idea of the Trinity sort of being in the  
+{{% timestamp videoId="KF-287QM3ig" time="9" display="00:09" %}} - Old Testament is we're going to talk specifically about how the Messiah is prefigured in the Old Testament so how  
+{{% timestamp videoId="KF-287QM3ig" time="17" display="00:17" %}} - uh the life and suffering of Jesus Christ is actually demonstrated through some of the things that the Old  
+{{% timestamp videoId="KF-287QM3ig" time="23" display="00:23" %}} - Testament Believers did or what God had told them so that uh it should have pointed to him uh they should have been  
+{{% timestamp videoId="KF-287QM3ig" time="31" display="00:31" %}} - able to see that when the Messiah came certain things would be true um and so this is specifically looking at Jesus  
+{{% timestamp videoId="KF-287QM3ig" time="39" display="00:39" %}} - Christ um as he shows up in the Old Testament even though yet as yet at that point in time the Trinity had not really  
+{{% timestamp videoId="KF-287QM3ig" time="47" display="00:47" %}} - been revealed in totality to these Believers so we're going to be sort of starting out by talking about blood  
+{{% timestamp videoId="KF-287QM3ig" time="54" display="00:54" %}} - sacrifice this is probably sort of the most obvious thing that points us towards uh the sacrif ice of Jesus  
+{{% timestamp videoId="KF-287QM3ig" time="60" display="01:00" %}} - Christ upon the cross for us but then we're also going to be talking about just some miscellaneous prophecy and  
+{{% timestamp videoId="KF-287QM3ig" time="66" display="01:06" %}} - this section is actually quite short I I don't think this video will be super long here um but both of these things  
+{{% timestamp videoId="KF-287QM3ig" time="72" display="01:12" %}} - help point us to uh the suffering of Christ and what the Messiah would do when he came to save us from our sins  
+{{% timestamp videoId="KF-287QM3ig" time="79" display="01:19" %}} - and so these things present in the Old Testament text and we're just going to be examining a bit how the Old Testament  
+{{% timestamp videoId="KF-287QM3ig" time="85" display="01:25" %}} - speaks of the Messiah so how the Messiah is prefigured in in the Old Testament so first general introductory  
+{{% timestamp videoId="KF-287QM3ig" time="97" display="01:37" %}} - point we're going to be making here when we talk about the old testament's portrayal of the suffering of Christ is  
+{{% timestamp videoId="KF-287QM3ig" time="103" display="01:43" %}} - that even though there's sort of conventional wisdom here about the Old Testament and you know the Old Testament  
+{{% timestamp videoId="KF-287QM3ig" time="109" display="01:49" %}} - you know talks of just one God God the father and in fact sort of a different topic but people sometimes say that  
+{{% timestamp videoId="KF-287QM3ig" time="117" display="01:57" %}} - there's like a almost seems like God different right you know this this this judgmental mean God of the Old Testament  
+{{% timestamp videoId="KF-287QM3ig" time="125" display="02:05" %}} - versus the the god of love in the New Testament of course we know that's not true um and part of why we know that's  
+{{% timestamp videoId="KF-287QM3ig" time="131" display="02:11" %}} - not true is because God's plan has always been the same from the beginning he did not change God does not change  
+{{% timestamp videoId="KF-287QM3ig" time="136" display="02:16" %}} - he's always been the loving God um but at any rate with respect to what we're currently talking about the Old  
+{{% timestamp videoId="KF-287QM3ig" time="144" display="02:24" %}} - Testament actually does talk about Jesus Christ and his sacrifice on our behalf that is the substitutionary death he  
+{{% timestamp videoId="KF-287QM3ig" time="152" display="02:32" %}} - died to pay for our sins here um taking judgment upon his shoulders so that we might be reconciled to God that's  
+{{% timestamp videoId="KF-287QM3ig" time="159" display="02:39" %}} - actually depicted everywhere in the Old Testament so very far from somehow the Old Testament not speaking of Jesus  
+{{% timestamp videoId="KF-287QM3ig" time="165" display="02:45" %}} - Christ like I don't know the Old Testament speaks of of just God and then the New Testament rolls around and only  
+{{% timestamp videoId="KF-287QM3ig" time="171" display="02:51" %}} - then do we hear about Jesus Christ and and the idea of you know his sacrifice on our behalf to save us from our sins  
+{{% timestamp videoId="KF-287QM3ig" time="178" display="02:58" %}} - it's actually true that from the very beginning this has always been the plan of God and in fact if you look with eyes  
+{{% timestamp videoId="KF-287QM3ig" time="184" display="03:04" %}} - of Faith it's all over the place in the Old Testament so she was actually very much on the other foot here people who  
+{{% timestamp videoId="KF-287QM3ig" time="190" display="03:10" %}} - want to say well you know Christians just made up a bunch of new stuff and stuck it in the New Testament we're kind  
+{{% timestamp videoId="KF-287QM3ig" time="196" display="03:16" %}} - of like I think about the right way to say this like we're we're piggybacking on the Jewish Traditions but we just  
+{{% timestamp videoId="KF-287QM3ig" time="203" display="03:23" %}} - made a bunch of stuff up and added it on as if you know only Jesus Christ shows up in the New Testament like we just  
+{{% timestamp videoId="KF-287QM3ig" time="209" display="03:29" %}} - made him up and and sort of tacked him on top that's just not true because the Old Testament points everywhere to Jesus  
+{{% timestamp videoId="KF-287QM3ig" time="219" display="03:39" %}} - Christ in the suffering you know Isaiah chapter 53 I don't actually think we're even talk about that in this set of  
+{{% timestamp videoId="KF-287QM3ig" time="224" display="03:44" %}} - slides here but you know just off the top of my head the suffering servant passage in Isaiah chapter 53 it very  
+{{% timestamp videoId="KF-287QM3ig" time="232" display="03:52" %}} - much speaks of Jesus Christ um and so this idea that he's not there in the Old Testament or that the Messiah isn't  
+{{% timestamp videoId="KF-287QM3ig" time="239" display="03:59" %}} - there or even more specifically the suffering Messiah rather than you know when Jesus returns with with the crown  
+{{% timestamp videoId="KF-287QM3ig" time="246" display="04:06" %}} - in Revelation chapter 19 when he's destroying the armies of antichrist you know obviously the people in Judea at  
+{{% timestamp videoId="KF-287QM3ig" time="253" display="04:13" %}} - the time that he was there wanted him to kick out the Romans it's kind of what they wanted the Messiah to do not  
+{{% timestamp videoId="KF-287QM3ig" time="259" display="04:19" %}} - necessarily suffer and die on a cross it's not what they were thinking the messiah's role was but even this role of  
+{{% timestamp videoId="KF-287QM3ig" time="267" display="04:27" %}} - the Messiah so not the Conquering King but the suffering servant and in fact the fact that Jesus would be shedding  
+{{% timestamp videoId="KF-287QM3ig" time="273" display="04:33" %}} - his blood to pay for our sins that is prefigured all over the place in the Old Testament so it's everything important  
+{{% timestamp videoId="KF-287QM3ig" time="280" display="04:40" %}} - is actually all there it has always been there and and we're just going to take a look at that a bit as we go here so from  
+{{% timestamp videoId="KF-287QM3ig" time="290" display="04:50" %}} - New Testament scripture that the necessity for the mission and the suffering of Messiah we actually have it  
+{{% timestamp videoId="KF-287QM3ig" time="296" display="04:56" %}} - from the Bible itself that what we're saying is true as in the Bible itself says that the Old Testament  
+{{% timestamp videoId="KF-287QM3ig" time="305" display="05:05" %}} - points to Jesus Christ like we're not just like asserting this and uh waving our hand at it as if you know maybe we  
+{{% timestamp videoId="KF-287QM3ig" time="311" display="05:11" %}} - could be wrong because sometimes humans come up with these theological uh uh propositions that don't directly tie  
+{{% timestamp videoId="KF-287QM3ig" time="318" display="05:18" %}} - back to scripture and you can be wrong about those and you can make a mistake you can miss a jump in the logic  
+{{% timestamp videoId="KF-287QM3ig" time="323" display="05:23" %}} - somewhere or something like that but in Luke 24: 27 this is Jesus on the road to a  
+{{% timestamp videoId="KF-287QM3ig" time="330" display="05:30" %}} - with the others and he it says that um Luke 24:27 says then beginning with Moses and all the prophets he he being  
+{{% timestamp videoId="KF-287QM3ig" time="339" display="05:39" %}} - Jesus yeah uh explained to them the things concerning himself in all the scriptures and all the scriptures there  
+{{% timestamp videoId="KF-287QM3ig" time="347" display="05:47" %}} - being the Old Testament scriptures so we dearly wish that we knew exactly what Jesus had said here like which passages  
+{{% timestamp videoId="KF-287QM3ig" time="355" display="05:55" %}} - was he using to support you know the idea of the Old Testament speaking of himself you know we we quoted one in our  
+{{% timestamp videoId="KF-287QM3ig" time="363" display="06:03" %}} - last lesson about Psalm 110 when David says you know the Lord says to my Lord um that Messianic Psalm you know that's  
+{{% timestamp videoId="KF-287QM3ig" time="371" display="06:11" %}} - a possibility uh Isaiah chapter 53 we just mentioned that's a possibility there's in fact there's all sorts of  
+{{% timestamp videoId="KF-287QM3ig" time="378" display="06:18" %}} - things as we're going to kind of see in in very brief form here there's all sorts of things that point to Jesus  
+{{% timestamp videoId="KF-287QM3ig" time="385" display="06:25" %}} - Christ in the Old Testament and and like I said not not just him but actually what going to do for us too it's all  
+{{% timestamp videoId="KF-287QM3ig" time="391" display="06:31" %}} - foreshadowed it's all there um so we we really kind of do wish we knew exactly what Jesus had said you know because  
+{{% timestamp videoId="KF-287QM3ig" time="398" display="06:38" %}} - those are certain to be you know convincing and correct you know evidence of him but we don't we just know that he  
+{{% timestamp videoId="KF-287QM3ig" time="406" display="06:46" %}} - did explain it to them but this is actually Fenty noteworthy all on its own because it means if the Bible says that  
+{{% timestamp videoId="KF-287QM3ig" time="413" display="06:53" %}} - Jesus explained to them all you know the things concerning himself in all the scriptures  
+{{% timestamp videoId="KF-287QM3ig" time="419" display="06:59" %}} - it means that there's a way to explain the things concerning himself from the Old Testament scriptures I hope that  
+{{% timestamp videoId="KF-287QM3ig" time="425" display="07:05" %}} - makes sense because he did it well obviously we are not him but we can do it too is the point um so that's Luke  
+{{% timestamp videoId="KF-287QM3ig" time="435" display="07:15" %}} - chapter 24 vers 27 we also have this verse in uh 1 Peter 1: 10-2 here we I I think we've talked about this before uh  
+{{% timestamp videoId="KF-287QM3ig" time="445" display="07:25" %}} - in recent history here in this series talking about how the prophets who prophecied of the grace that would come  
+{{% timestamp videoId="KF-287QM3ig" time="452" display="07:32" %}} - to you you know you being the people of the time that this was written uh so Peter's audience made careful searches  
+{{% timestamp videoId="KF-287QM3ig" time="459" display="07:39" %}} - and inquiries seeking to know what person or time the spirit of Christ within them was indicating as he  
+{{% timestamp videoId="KF-287QM3ig" time="466" display="07:46" %}} - predicted the sufferings of Christ and the glory to follow so you know it was revealed to them that they were not  
+{{% timestamp videoId="KF-287QM3ig" time="473" display="07:53" %}} - serving themselves but you in these things which now have been announced to you through those who preach the gospel  
+{{% timestamp videoId="KF-287QM3ig" time="480" display="08:00" %}} - um things into which Angels long to look so these prophets prophecied of the grace that would come to you that is the  
+{{% timestamp videoId="KF-287QM3ig" time="490" display="08:10" %}} - suffering and resurrection of Jesus Christ that he would die to take our sins on his shoulders so that we might  
+{{% timestamp videoId="KF-287QM3ig" time="496" display="08:16" %}} - be reconciled to God so this another place in the New Testament where it says explicitly the  
+{{% timestamp videoId="KF-287QM3ig" time="504" display="08:24" %}} - Old Testament prophets were prophesying of these things it's not like you know suddenly we changed our or something  
+{{% timestamp videoId="KF-287QM3ig" time="510" display="08:30" %}} - these things have been there since the beginning and in fact the Old Testament prophets they wanted to know and  
+{{% timestamp videoId="KF-287QM3ig" time="516" display="08:36" %}} - understand and I mean uh maybe we could even have a bit of sympathy with them some of these men no doubt great  
+{{% timestamp videoId="KF-287QM3ig" time="522" display="08:42" %}} - believers they could feel it that there was something more but it wasn't something that God had chosen to reveal  
+{{% timestamp videoId="KF-287QM3ig" time="530" display="08:50" %}} - to them at that point in time that must have been a little bit frustrating we might think right um you know sitting  
+{{% timestamp videoId="KF-287QM3ig" time="536" display="08:56" %}} - there God open my eyes let me see let me understand but but it wasn't the right time um but anyway the point is here  
+{{% timestamp videoId="KF-287QM3ig" time="544" display="09:04" %}} - that these folks also were prophesying things about the grace that would come to us that is Jesus Christ and what he  
+{{% timestamp videoId="KF-287QM3ig" time="552" display="09:12" %}} - did for us and so these things it's another point of evidence that we're not just like asserting willy-nilly that the  
+{{% timestamp videoId="KF-287QM3ig" time="559" display="09:19" %}} - Old Testament prefigures the Messiah or or speaks of the Messiah and and what he would do for us but the Bible itself is  
+{{% timestamp videoId="KF-287QM3ig" time="566" display="09:26" %}} - making this claim and so you know it's not something that we should be skeptical of is what I'm saying is that  
+{{% timestamp videoId="KF-287QM3ig" time="573" display="09:33" %}} - it it is something that we just need to say well how that's the right question to ask not not like well does the Bible  
+{{% timestamp videoId="KF-287QM3ig" time="579" display="09:39" %}} - speak of the Messiah or Jesus in the Old Testament that we just need to take for granted the Bible says it does it  
+{{% timestamp videoId="KF-287QM3ig" time="584" display="09:44" %}} - obviously does we need to ask well how in what ways can we see Jesus in the Old Testament so of course that's what we're  
+{{% timestamp videoId="KF-287QM3ig" time="592" display="09:52" %}} - going to be turning to here um another interesting passage that Dr Lugo brings up to sort of support this is Hebrews 11  
+{{% timestamp videoId="KF-287QM3ig" time="599" display="09:59" %}} - 26 um and this is talking about Moses considering the reproach of Christ greater riches than the treasures of  
+{{% timestamp videoId="KF-287QM3ig" time="606" display="10:06" %}} - Egypt for he was looking to the reward it it took my brain I confess a while to be like well why is Dr bgo referencing  
+{{% timestamp videoId="KF-287QM3ig" time="614" display="10:14" %}} - this one here like what is this have to do with you know the the Old Testament speaking of Jesus Christ but when you  
+{{% timestamp videoId="KF-287QM3ig" time="619" display="10:19" %}} - think about it for Moses to do this he would have had to understand something about what Christ was going to do with  
+{{% timestamp videoId="KF-287QM3ig" time="628" display="10:28" %}} - with us right so how could he understand the reproach of Christ if he didn't at least have an inkling of what that meant  
+{{% timestamp videoId="KF-287QM3ig" time="636" display="10:36" %}} - um and so obviously we wish we knew more here as well like how much did people like Moses and Abraham and David how  
+{{% timestamp videoId="KF-287QM3ig" time="643" display="10:43" %}} - much did they understand about what was coming um so Abraham you know Isaac being a type of Christ was willing to  
+{{% timestamp videoId="KF-287QM3ig" time="650" display="10:50" %}} - sacrifice his own son trusting that God would somehow make it all work out Abraham understood something you know  
+{{% timestamp videoId="KF-287QM3ig" time="657" display="10:57" %}} - but exactly how much did they know it's a very fascinating question but the point is here in context Moses had an  
+{{% timestamp videoId="KF-287QM3ig" time="666" display="11:06" %}} - inkling of some of what was to come and he knew that it was worth prioritizing following what God would have him do  
+{{% timestamp videoId="KF-287QM3ig" time="674" display="11:14" %}} - instead of all the material blessings in this world he was looking to his eternal reward the spiritual reward rather than  
+{{% timestamp videoId="KF-287QM3ig" time="682" display="11:22" %}} - the material and to do that to have that motivation he had to know that some of what was to come the Messiah delivering  
+{{% timestamp videoId="KF-287QM3ig" time="691" display="11:31" %}} - his people you know obviously Moses is a type of Christ too not that I think we really get to that here but he is um  
+{{% timestamp videoId="KF-287QM3ig" time="698" display="11:38" %}} - well he had to have at least some vague understanding of what God was going to do so all of these things point to the  
+{{% timestamp videoId="KF-287QM3ig" time="706" display="11:46" %}} - fact and it is a fact like I've been saying because the Bible says it it's not an inference it's not a something  
+{{% timestamp videoId="KF-287QM3ig" time="711" display="11:51" %}} - that we're a bit shaky on the Bible says that the Old Testament speaks of Jesus Christ speaks of the Messiah and so uh  
+{{% timestamp videoId="KF-287QM3ig" time="721" display="12:01" %}} - that's kind of how we're going to open this it's just that we need to be in the mindset that it's there we just have to  
+{{% timestamp videoId="KF-287QM3ig" time="725" display="12:05" %}} - figure out how to explain it um so we're not arguing about whether this is true or whether it exists but we're just  
+{{% timestamp videoId="KF-287QM3ig" time="731" display="12:11" %}} - going to be talking about well how does the Old Testament point to Jesus Christ and so there are a number of types you  
+{{% timestamp videoId="KF-287QM3ig" time="738" display="12:18" %}} - know quote unquote types employed to prefigure the Incarnation death and suffering of the Son of God in our  
+{{% timestamp videoId="KF-287QM3ig" time="743" display="12:23" %}} - behalf and so the subject of typology proper uh this is actually covered in part four a of this Bible basic series  
+{{% timestamp videoId="KF-287QM3ig" time="751" display="12:31" %}} - that we're going through which is christology proper so right now we are talking about theology which is the  
+{{% timestamp videoId="KF-287QM3ig" time="757" display="12:37" %}} - study of God and so we've been talking about such things as God's nature and his uh and uh the Trinity and how the  
+{{% timestamp videoId="KF-287QM3ig" time="764" display="12:44" %}} - Trinity is explained in the Bible Well when we talk about the person of Jesus Christ specifically that's part 4A of  
+{{% timestamp videoId="KF-287QM3ig" time="770" display="12:50" %}} - this series that is kind of where all of the the types of Christ are covered and so some of the Old Testament things that  
+{{% timestamp videoId="KF-287QM3ig" time="777" display="12:57" %}} - point to Jesus if we ever get there in this video series we'll be going over those in part 4A of this series um but  
+{{% timestamp videoId="KF-287QM3ig" time="785" display="13:05" %}} - for the time being we're actually going to be going over um two separate categories of the old testament's  
+{{% timestamp videoId="KF-287QM3ig" time="791" display="13:11" %}} - portrayal of the suffering of Christ so that is in this series in in this video Lesson right now so we're going to be  
+{{% timestamp videoId="KF-287QM3ig" time="797" display="13:17" %}} - talking about blood sacrifice and prophecy and how both of these things are some of that evidence that points us  
+{{% timestamp videoId="KF-287QM3ig" time="804" display="13:24" %}} - towards the Messiah in the Old Testament so that's kind of intro here it's how we need to be thinking about this topic  
+{{% timestamp videoId="KF-287QM3ig" time="812" display="13:32" %}} - that we're going over a you have any points you want to interject before we actually get to those uh uh specific  
+{{% timestamp videoId="KF-287QM3ig" time="818" display="13:38" %}} - examples here I don't think there's much to say I think you have really covered the whole  
+{{% timestamp videoId="KF-287QM3ig" time="825" display="13:45" %}} - ground um yes the the Old Testament does speak of Christ it speaks of him even as a suffering servant it's actually one of  
+{{% timestamp videoId="KF-287QM3ig" time="834" display="13:54" %}} - the very first things that the Lord said to the couple in the after they sinned and he was passing  
+{{% timestamp videoId="KF-287QM3ig" time="841" display="14:01" %}} - judgment on them um he told them that her seed will bruise uh or rather crush the head of the serpent and that the the  
+{{% timestamp videoId="KF-287QM3ig" time="852" display="14:12" %}} - serpent would bruise his heel that's something that was ever present from the beginning of human  
+{{% timestamp videoId="KF-287QM3ig" time="860" display="14:20" %}} - history so um we can take for granted that that is um absolutely part of the story of the Old  
+{{% timestamp videoId="KF-287QM3ig" time="870" display="14:30" %}} - Testament by the time we get to Moses this was entrenched because sacrifices had been a normal part of human history  
+{{% timestamp videoId="KF-287QM3ig" time="880" display="14:40" %}} - by at this point I mean Noah carried out something similar we we have that record of it at the end of the flood and we can  
+{{% timestamp videoId="KF-287QM3ig" time="889" display="14:49" %}} - take for granted he was not the first there was also Abel who took um uh we'll get to them  
+{{% timestamp videoId="KF-287QM3ig" time="899" display="14:59" %}} - here you know the evangelium Abel Noah that's the next slide but the point is very Ono here yeah um because like you  
+{{% timestamp videoId="KF-287QM3ig" time="909" display="15:09" %}} - said from the very beginning have these things been there um yeah it's it's not it's not  
+{{% timestamp videoId="KF-287QM3ig" time="916" display="15:16" %}} - new yep and uh I I should just say by way of comment that maybe it seems kind of odd  
+{{% timestamp videoId="KF-287QM3ig" time="923" display="15:23" %}} - for us to be like arguing this like why are we emphasizing this so much it's because there are actually people who  
+{{% timestamp videoId="KF-287QM3ig" time="929" display="15:29" %}} - make the claim that that I don't know that the Old Testament doesn't speak about Jesus somehow and actually most  
+{{% timestamp videoId="KF-287QM3ig" time="936" display="15:36" %}} - specifically uh people who are still Jewish today who reject Jesus as the Messiah I mean some of them would say oh  
+{{% timestamp videoId="KF-287QM3ig" time="946" display="15:46" %}} - I don't know Christians Just Like cherry-picked Old Testament scriptures and like they they like made a version  
+{{% timestamp videoId="KF-287QM3ig" time="952" display="15:52" %}} - of Jesus to like fake fulfill the prophecy you see what I'm saying like they think that it's kind of like um uh  
+{{% timestamp videoId="KF-287QM3ig" time="959" display="15:59" %}} - uh sort of as an analogy uh there's this Book of Enoch mentioned in somewhere I think is is it Jude you know off the top  
+{{% timestamp videoId="KF-287QM3ig" time="967" display="16:07" %}} - your head aie I can't remember yeah but no book of it was just Enoch that was me that he he he made a prophecy that was  
+{{% timestamp videoId="KF-287QM3ig" time="973" display="16:13" %}} - in Jude that's true okay or I think there's there's actually a book you know or or an apocryphal go somewhere  
+{{% timestamp videoId="KF-287QM3ig" time="980" display="16:20" %}} - mentioned in the Bible that basically someone decided that they were just going to like the Bible mentions this  
+{{% timestamp videoId="KF-287QM3ig" time="986" display="16:26" %}} - thing we don't have access to it so someone just wrote one that's it's obviously not the inspired scripture  
+{{% timestamp videoId="KF-287QM3ig" time="990" display="16:30" %}} - they just like tried to make something that would like seem like it was the real thing and so where I'm going with  
+{{% timestamp videoId="KF-287QM3ig" time="998" display="16:38" %}} - that example is that may be somehow how Jewish people view Jesus Christ like a bunch of people read some Old Testament  
+{{% timestamp videoId="KF-287QM3ig" time="1006" display="16:46" %}} - prophecy and they like came up with a person to organize around who seemed to like fulfill some of it but it's all  
+{{% timestamp videoId="KF-287QM3ig" time="1013" display="16:53" %}} - fake it's all made up that's how they might view Jesus and so there are actually people who don't think that the  
+{{% timestamp videoId="KF-287QM3ig" time="1020" display="17:00" %}} - Old Testament prefigures Jesus Christ as we know him or or the Messiah you know I've always been kind of curious about  
+{{% timestamp videoId="KF-287QM3ig" time="1027" display="17:07" %}} - this so I am not ethnically Jewish I I don't actually know uh in my close personal life uh folks who are like it  
+{{% timestamp videoId="KF-287QM3ig" time="1035" display="17:15" %}} - hasn't been uh people in my Social Circles but when we have all of this stuff in the Old Testament that points  
+{{% timestamp videoId="KF-287QM3ig" time="1041" display="17:21" %}} - to the suffering servant what do they make of Jesus Christ I I guess they just must think  
+{{% timestamp videoId="KF-287QM3ig" time="1047" display="17:27" %}} - that he wasn't the real one right he's just a pretender um but it's all over the place you know and and so anyway  
+{{% timestamp videoId="KF-287QM3ig" time="1055" display="17:35" %}} - what I'm trying to say is that the reason why we're talking about this and emphasizing that no really Jesus Christ  
+{{% timestamp videoId="KF-287QM3ig" time="1060" display="17:40" %}} - as the Messiah was there in the Old Testament not even particularly hided you know you don't have to try real hard  
+{{% timestamp videoId="KF-287QM3ig" time="1067" display="17:47" %}} - to find prophecy that directly lines up with the suffering of Christ um and you know we're not going to spend a lot of  
+{{% timestamp videoId="KF-287QM3ig" time="1073" display="17:53" %}} - time on it here in this section because the point is almost self-evident you read some of these passages in the Old  
+{{% timestamp videoId="KF-287QM3ig" time="1078" display="17:58" %}} - Testament can't escape it um but people don't buy this they don't believe this point that  
+{{% timestamp videoId="KF-287QM3ig" time="1086" display="18:06" %}} - somehow I don't know that that this wasn't God's plan from the beginning um and so I we don't need to concern  
+{{% timestamp videoId="KF-287QM3ig" time="1092" display="18:12" %}} - ourselves over much with the fact that some people reject this um because people reject all sorts of truth but it  
+{{% timestamp videoId="KF-287QM3ig" time="1097" display="18:17" %}} - is just worth emphasizing that Jesus is there from the very first pages of scripture God's Redemptive plan from  
+{{% timestamp videoId="KF-287QM3ig" time="1104" display="18:24" %}} - human history through the shedding of the blood of his one and only son has always been there um we've made the  
+{{% timestamp videoId="KF-287QM3ig" time="1111" display="18:31" %}} - point before that when God kicked off creation you know because God exists outside of SpaceTime he knew that in  
+{{% timestamp videoId="KF-287QM3ig" time="1120" display="18:40" %}} - doing this he was kicking off a chain of events that would send Jesus Christ to die on the cross um he knew that upfront  
+{{% timestamp videoId="KF-287QM3ig" time="1128" display="18:48" %}} - before he did anything and that's something that we struggle to understand as humans because that's not how our  
+{{% timestamp videoId="KF-287QM3ig" time="1133" display="18:53" %}} - knowledge works but that is how God works and so because everything is forn and for our ordained when God chose to  
+{{% timestamp videoId="KF-287QM3ig" time="1140" display="19:00" %}} - make creation he was at that very instant choosing to send Jesus to die on the cross for our sins um and so we'll  
+{{% timestamp videoId="KF-287QM3ig" time="1148" display="19:08" %}} - get to this a little bit more you know a started go in there we'll cover blood sacrifices perhaps the most obvious  
+{{% timestamp videoId="KF-287QM3ig" time="1154" display="19:14" %}} - typological parallel we'll cover that next but just that point that it's been there from the beginning is so crucial  
+{{% timestamp videoId="KF-287QM3ig" time="1160" display="19:20" %}} - for us in in kind of having the faith we ought in the consistency of the Bible you know the uh message message that God  
+{{% timestamp videoId="KF-287QM3ig" time="1169" display="19:29" %}} - has seen fit to give Humanity across all of human history has always been consistent this has always been the plan  
+{{% timestamp videoId="KF-287QM3ig" time="1176" display="19:36" %}} - and it is 100% consistent in a way that other books are not that's why inspiration is such a big deal for us  
+{{% timestamp videoId="KF-287QM3ig" time="1184" display="19:44" %}} - it's important stuff is what I'm trying to say yeah I I actually would have pointed  
+{{% timestamp videoId="KF-287QM3ig" time="1191" display="19:51" %}} - out just one more thing that it's not just that people tend to reject this but also that  
+{{% timestamp videoId="KF-287QM3ig" time="1199" display="19:59" %}} - the Old Testament is part of the scriptures even though we Believers uh of the church  
+{{% timestamp videoId="KF-287QM3ig" time="1207" display="20:07" %}} - age um derive so much from the New Testament there's plenty in the Old Testament  
+{{% timestamp videoId="KF-287QM3ig" time="1215" display="20:15" %}} - that shows us exactly who God is it's not something we we get away from so even though the Old Testament is um It's  
+{{% timestamp videoId="KF-287QM3ig" time="1226" display="20:26" %}} - The Testament that has been done away with the plenty in it that actually shows us or or or would I say  
+{{% timestamp videoId="KF-287QM3ig" time="1234" display="20:34" %}} - illuminates I rather it's the other way around the New Testament actually illuminates a lot of the stuff in the  
+{{% timestamp videoId="KF-287QM3ig" time="1239" display="20:39" %}} - old so yeah and that stuff in the old is useful for us today as well so it's not just for people who struggle to believe  
+{{% timestamp videoId="KF-287QM3ig" time="1248" display="20:48" %}} - that um Christ is actually in the Old Testament the whole thing is the word of God for us yep I mean you might compare  
+{{% timestamp videoId="KF-287QM3ig" time="1256" display="20:56" %}} - how certain parts of like Daniel and Ezekiel are in fact quite necessary for us to make sense of Revelation um some  
+{{% timestamp videoId="KF-287QM3ig" time="1262" display="21:02" %}} - of the the eschatology there like the Daniel has stuff that you have to understand it to properly be able to  
+{{% timestamp videoId="KF-287QM3ig" time="1269" display="21:09" %}} - interpret that I mean so that's one example but also things like creation our understanding of creation and even  
+{{% timestamp videoId="KF-287QM3ig" time="1276" display="21:16" %}} - Satan's fall um is that Ezekiel 28 trying to remember Ezekiel 28 and isah king of you know Ty as a typological  
+{{% timestamp videoId="KF-287QM3ig" time="1286" display="21:26" %}} - parallel to Satan our understanding of Satan and his fall mostly comes from the Old Testament you know so together like  
+{{% timestamp videoId="KF-287QM3ig" time="1293" display="21:33" %}} - you said it is the word of God and and uh generally speaking as a principle it's true that we mostly understand the  
+{{% timestamp videoId="KF-287QM3ig" time="1299" display="21:39" %}} - old through the lens of the new that is true as a generalization but there are also plenty of New Testament passages  
+{{% timestamp videoId="KF-287QM3ig" time="1306" display="21:46" %}} - that make no sense without the context of the old you know it is the uh the Bible together all parts of it you know  
+{{% timestamp videoId="KF-287QM3ig" time="1313" display="21:53" %}} - equally inspired word of God we have to interpret it in light of itself um and that that cuts both ways um  
+{{% timestamp videoId="KF-287QM3ig" time="1320" display="22:00" %}} - so not to get too off topic but yes very important point for us um and why it's important for us to emphasize  
+{{% timestamp videoId="KF-287QM3ig" time="1330" display="22:10" %}} - this so the first of these things that we're going to be talking about that really prefigures the Messiah and the  
+{{% timestamp videoId="KF-287QM3ig" time="1337" display="22:17" %}} - suffering of Jesus Christ is blood sacrifice so Audi actually started just off the top of his head going through a  
+{{% timestamp videoId="KF-287QM3ig" time="1343" display="22:23" %}} - lot of these uh when we were kind of introducing this idea of the old testament's betrayal of the Messiah here  
+{{% timestamp videoId="KF-287QM3ig" time="1350" display="22:30" %}} - um but from the very beginning blood sacrifice has been pointing us to the Cross so from the coats of skin that God  
+{{% timestamp videoId="KF-287QM3ig" time="1358" display="22:38" %}} - provided Adam and Eve to indicate the one that will die in their place this is right after the fall in Genesis chapter  
+{{% timestamp videoId="KF-287QM3ig" time="1364" display="22:44" %}} - 3 Genesis 3:21 says the Lord God made garments of skin for Adam and his wife and clothed them this is often called  
+{{% timestamp videoId="KF-287QM3ig" time="1371" display="22:51" %}} - the Proto evangelium or the first gospel because we see from the very beginning that that covering Adam and Eve requires  
+{{% timestamp videoId="KF-287QM3ig" time="1380" display="23:00" %}} - the shedding of blood um so clothing them in in this way kind of as a metaphor for you know covering their  
+{{% timestamp videoId="KF-287QM3ig" time="1388" display="23:08" %}} - unrighteousness is seen as requiring the shedding of blood of another um and we also see this in Abel sacrifice Superior  
+{{% timestamp videoId="KF-287QM3ig" time="1398" display="23:18" %}} - to Cain's because it depicts the substitute's death so we at least not we I have something up on my side somewhere  
+{{% timestamp videoId="KF-287QM3ig" time="1405" display="23:25" %}} - about how it's not like God just like arbitrarily decided Well you know Abel raised sheep and stuff in the pasture  
+{{% timestamp videoId="KF-287QM3ig" time="1412" display="23:32" %}} - and and Cain was a farmer who grew you know things in the field therefore God just arbitrarily liked Abel better or  
+{{% timestamp videoId="KF-287QM3ig" time="1419" display="23:39" %}} - whatever we are to understand God's rejection of Cain's offering uh in large part because Cain was presenting it as  
+{{% timestamp videoId="KF-287QM3ig" time="1428" display="23:48" %}} - his labors his work look at me God I'm so great look at what I gave you whereas Abel was taking the life of an animal  
+{{% timestamp videoId="KF-287QM3ig" time="1436" display="23:56" %}} - and looking towards what that represent Ed um and so we're making that by inference because the alternative is  
+{{% timestamp videoId="KF-287QM3ig" time="1443" display="24:03" %}} - just that God's arbitrary in a way that is borderline unjust right we understand that when God does this it's not for no  
+{{% timestamp videoId="KF-287QM3ig" time="1449" display="24:09" %}} - reason it's because Abel must have been looking with eyes of faith in fact I I'm making it sound even wishy washer than  
+{{% timestamp videoId="KF-287QM3ig" time="1455" display="24:15" %}} - it is in Hebrews chapter 11 um Hebrews chapter 11 specifically calls out Abel's Faith right by faith Abel still speaks  
+{{% timestamp videoId="KF-287QM3ig" time="1464" display="24:24" %}} - even though he is dead that's Hebrews chapter 11 verse4 uh by faith Abel brought God a better offering than Cain  
+{{% timestamp videoId="KF-287QM3ig" time="1471" display="24:31" %}} - did what does that mean it means that Abel was looking towards the truth of this his offering of blood represented  
+{{% timestamp videoId="KF-287QM3ig" time="1480" display="24:40" %}} - his understanding that he couldn't do it on his own another person had to pay for him um and of course Cain did not have  
+{{% timestamp videoId="KF-287QM3ig" time="1488" display="24:48" %}} - that that is why God Favored Abel's offering and rejected Caines not because God's arbitrary and just liked Abel  
+{{% timestamp videoId="KF-287QM3ig" time="1496" display="24:56" %}} - better for whatever reason was because was doing things of righteousness um looking towards ultimately the sacrifice  
+{{% timestamp videoId="KF-287QM3ig" time="1504" display="25:04" %}} - of Jesus Christ on the cross now did Abel know exactly that that was what was going to happen no probably not but he  
+{{% timestamp videoId="KF-287QM3ig" time="1511" display="25:11" %}} - understood through faith that God was the one who would provide a sacrifice to redeem him um in the same way that Adam  
+{{% timestamp videoId="KF-287QM3ig" time="1519" display="25:19" %}} - and Eve would have believed in God's promise through the Proto evangelium in Genesis 3:21 and then comes up again in  
+{{% timestamp videoId="KF-287QM3ig" time="1526" display="25:26" %}} - the noic Covenant here the end of Genesis or sorry Genesis chapter n um when you know during the Covenant that  
+{{% timestamp videoId="KF-287QM3ig" time="1535" display="25:35" %}} - God gives to Noah said that we're not supposed to eat flesh with its life that is its blood blood representing Life as  
+{{% timestamp videoId="KF-287QM3ig" time="1543" display="25:43" %}} - a metaphor super common across cultures and languages not just Hebrew um you know this blood is the life force think  
+{{% timestamp videoId="KF-287QM3ig" time="1550" display="25:50" %}} - of vampires right not the vampires actually exist but the idea that human beings have their life in their blood is  
+{{% timestamp videoId="KF-287QM3ig" time="1557" display="25:57" %}} - like not new but in the Bible because that's the only version of things we should care about  
+{{% timestamp videoId="KF-287QM3ig" time="1563" display="26:03" %}} - in the Bible this idea that life is caused by the shedding of blood you know that our our Redemption costs the blood  
+{{% timestamp videoId="KF-287QM3ig" time="1572" display="26:12" %}} - of another this is why we are to respect the blood of animals even because we understand what it means what it  
+{{% timestamp videoId="KF-287QM3ig" time="1580" display="26:20" %}} - represents so of course this was this is important in the Jewish dietary code but this is the Covenant God gives to Noah  
+{{% timestamp videoId="KF-287QM3ig" time="1587" display="26:27" %}} - so-call noic Covenant Genesis 9:4 you shall not eat flesh with its life that is its blood you have to drain the blood  
+{{% timestamp videoId="KF-287QM3ig" time="1594" display="26:34" %}} - first because the blood represents payment for sin um it's important it's not for no reason that God gives this to  
+{{% timestamp videoId="KF-287QM3ig" time="1603" display="26:43" %}} - Noah and then of course perhaps most clearly we have the elaborate series of sacrifices commanded by the Mosaic law  
+{{% timestamp videoId="KF-287QM3ig" time="1612" display="26:52" %}} - all of which portray Redemption through another's blood and so we're going to just briefly here I'm not going to read  
+{{% timestamp videoId="KF-287QM3ig" time="1618" display="26:58" %}} - this whole passage but uh there's this this passage in Hebrews chapter 9 talking about how Jesus was a sacrifice  
+{{% timestamp videoId="KF-287QM3ig" time="1624" display="27:04" %}} - once for all in a way that the blood sacrifices under the Mosaic law were not but just look at verse 22 here Romans  
+{{% timestamp videoId="KF-287QM3ig" time="1632" display="27:12" %}} - chapter 9:22 and according to the law one may almost say all things are cleansed with blood and without the  
+{{% timestamp videoId="KF-287QM3ig" time="1640" display="27:20" %}} - shedding of blood there is no forgiveness think about that for a second without the shedding of blood  
+{{% timestamp videoId="KF-287QM3ig" time="1647" display="27:27" %}} - there is no forgiveness this been in the law for centuries at this point it has always been pointing towards Christ's  
+{{% timestamp videoId="KF-287QM3ig" time="1655" display="27:35" %}} - ultimate sacrifice for us so verse 23 therefore it was necessary for the copies of the things in the Heavens to  
+{{% timestamp videoId="KF-287QM3ig" time="1662" display="27:42" %}} - be cleansed with these but the Heavenly things themselves with better sacrifices than  
+{{% timestamp videoId="KF-287QM3ig" time="1668" display="27:48" %}} - these so verse 25 um and Jesus did not offer himself as the high priest here did year by year with blood that was not  
+{{% timestamp videoId="KF-287QM3ig" time="1677" display="27:57" %}} - his own but he offered his own blood to redeem us um so you know we go through more of  
+{{% timestamp videoId="KF-287QM3ig" time="1684" display="28:04" %}} - the passage here Hebrews chapter 9 verse 22 again without the shedding of blood there is no forgiveness all of the blood  
+{{% timestamp videoId="KF-287QM3ig" time="1690" display="28:10" %}} - sacrifice in the Old Testament were just Shadows of Christ sacrifice pointing us to him the coming Messiah who would  
+{{% timestamp videoId="KF-287QM3ig" time="1697" display="28:17" %}} - suffer and die to reconcile us to God the father and so as we can see here God made extensive use of the the teaching  
+{{% timestamp videoId="KF-287QM3ig" time="1707" display="28:27" %}} - Aid if you will of blood sacrifice to make it crystal clear to all the Old Testament Believers  
+{{% timestamp videoId="KF-287QM3ig" time="1714" display="28:34" %}} - that forgiveness of their sins was no light matter it required the shedding of blood that is serious I mean and and we  
+{{% timestamp videoId="KF-287QM3ig" time="1722" display="28:42" %}} - can today properly appreciate that taking the life of an animal you know in this in this uh this understanding that  
+{{% timestamp videoId="KF-287QM3ig" time="1731" display="28:51" %}} - it represents you know that being dying in place to forgive you your sins not even not even your life but just your  
+{{% timestamp videoId="KF-287QM3ig" time="1740" display="29:00" %}} - sin requires the death of something that should just show how serious it is um now um pointing out here taking a step  
+{{% timestamp videoId="KF-287QM3ig" time="1749" display="29:09" %}} - back Christianity sorry rather uh Judaism was not the only language sorry the only religion I'm having a hard time  
+{{% timestamp videoId="KF-287QM3ig" time="1757" display="29:17" %}} - here the only religion that had blood sacrifice so this was common in for example the Greek and Roman state  
+{{% timestamp videoId="KF-287QM3ig" time="1763" display="29:23" %}} - religions as well however christianities and and the Jewish form of this points towards that understanding that it is  
+{{% timestamp videoId="KF-287QM3ig" time="1772" display="29:32" %}} - God who takes away our sins it's not like the animals have any power themselves right um contrast what these  
+{{% timestamp videoId="KF-287QM3ig" time="1778" display="29:38" %}} - other systems of religion might have thought but it is only because God has providing the substitute just like he  
+{{% timestamp videoId="KF-287QM3ig" time="1785" display="29:45" %}} - did uh when Abraham was going to offer Isaac God is the one who provides the substitute for us um but the shedding of  
+{{% timestamp videoId="KF-287QM3ig" time="1794" display="29:54" %}} - blood just shows how serious sin really is it causes is the death of another being um and only through their blood  
+{{% timestamp videoId="KF-287QM3ig" time="1803" display="30:03" %}} - can we be forgiven our sin just shows how serious it is right and so this is something that only God could do for  
+{{% timestamp videoId="KF-287QM3ig" time="1809" display="30:09" %}} - them and it involved a steep and bloody price that God would somehow have to pay himself on behalf of those who trusted  
+{{% timestamp videoId="KF-287QM3ig" time="1817" display="30:17" %}} - in him God is the one who provides the payment for our Redemption and so in this way you can see that all the way  
+{{% timestamp videoId="KF-287QM3ig" time="1827" display="30:27" %}} - back from the very beginning part of Genesis and AI was making this point when we were talking the last time this  
+{{% timestamp videoId="KF-287QM3ig" time="1833" display="30:33" %}} - idea of blood sacrifice has pointed us right to Jesus Christ and you can't get you can't get away from this this is  
+{{% timestamp videoId="KF-287QM3ig" time="1840" display="30:40" %}} - what the Old Testament says this is the system of symbolism in all of this points directly to the sacrifice of  
+{{% timestamp videoId="KF-287QM3ig" time="1847" display="30:47" %}} - Christ upon the cross a you want to elaborate on any of this anymore um any points that I missed you always cover it  
+{{% timestamp videoId="KF-287QM3ig" time="1855" display="30:55" %}} - so completely there is not much to say um it's enough to know that all the blood sacrifices that were in the Old  
+{{% timestamp videoId="KF-287QM3ig" time="1865" display="31:05" %}} - Testament were pointing to the Cross so it's not a new thing um even if uh people have issues dealing with the  
+{{% timestamp videoId="KF-287QM3ig" time="1876" display="31:16" %}} - coats of skin understanding them to be the very demonstration of what God had said God did say that the seed of the  
+{{% timestamp videoId="KF-287QM3ig" time="1884" display="31:24" %}} - woman would crush the head of the serpent look at you and that the serpent will  
+{{% timestamp videoId="KF-287QM3ig" time="1891" display="31:31" %}} - bruise his heel everybody who has read that I don't think I have seen a single um interpretation in all my years of  
+{{% timestamp videoId="KF-287QM3ig" time="1900" display="31:40" %}} - looking at the Bible and reading commentaries where anyone had an issue with that being a pointing to the cross  
+{{% timestamp videoId="KF-287QM3ig" time="1907" display="31:47" %}} - and uh just as as Stephen very eloquently pointed out right  
+{{% timestamp videoId="KF-287QM3ig" time="1912" display="31:52" %}} - now if we investigate every culture that has existed in in this world there has always been blood sacrifice in every one  
+{{% timestamp videoId="KF-287QM3ig" time="1923" display="32:03" %}} - of them or at least some form of appreciation for such things why because it's innate  
+{{% timestamp videoId="KF-287QM3ig" time="1933" display="32:13" %}} - every every collection of human beings every nation that you have found has had some appreciation of the fact that what  
+{{% timestamp videoId="KF-287QM3ig" time="1941" display="32:21" %}} - we ow to God is a blood death even if they did not really you know follow through on that understanding to come to  
+{{% timestamp videoId="KF-287QM3ig" time="1948" display="32:28" %}} - the knowledge of God himself and his Messiah it's always been there in fact in the time of the um Israelites when  
+{{% timestamp videoId="KF-287QM3ig" time="1958" display="32:38" %}} - they were marching to Canaan one of the problems with Canaan at the time was the sort of sacrifices they were offering it  
+{{% timestamp videoId="KF-287QM3ig" time="1967" display="32:47" %}} - got to the point of actually murdering their children as sacrifices to their gods these are perversions of that  
+{{% timestamp videoId="KF-287QM3ig" time="1974" display="32:54" %}} - understanding that what we owe God is a blood debt that's someone has to die in our place for us to regain or to be  
+{{% timestamp videoId="KF-287QM3ig" time="1981" display="33:01" %}} - reconciled to him so we it's always been there there is no question about it it's not just that everything in the  
+{{% timestamp videoId="KF-287QM3ig" time="1989" display="33:09" %}} - scriptures have been pointing to what the Messiah would do when he would come but everything in the scripture has been  
+{{% timestamp videoId="KF-287QM3ig" time="1997" display="33:17" %}} - pointing to Christ himself so now I think it's it's almost interesting to think about how the the  
+{{% timestamp videoId="KF-287QM3ig" time="2006" display="33:26" %}} - willingness of the sacrifice so to speak um I'm trying to think about how the symbolism plays into this a bit but you  
+{{% timestamp videoId="KF-287QM3ig" time="2015" display="33:35" %}} - know you have these people who would be willing to sacrifice their own family to escape judgment right if if it would  
+{{% timestamp videoId="KF-287QM3ig" time="2022" display="33:42" %}} - work right and it's unfortunate in the history of the world that some people think like this you know they they will  
+{{% timestamp videoId="KF-287QM3ig" time="2028" display="33:48" %}} - sacrifice maybe not literally on a physical altar but you know in how they behave with their children they'll do  
+{{% timestamp videoId="KF-287QM3ig" time="2034" display="33:54" %}} - whatever it takes to save their own skin this is not what blood sacrifice pointed to in the Old Testament as in oh well  
+{{% timestamp videoId="KF-287QM3ig" time="2041" display="34:01" %}} - I'm going to go sin so now I have to kill like three Lambs instead of two you see what I'm saying like it was never  
+{{% timestamp videoId="KF-287QM3ig" time="2049" display="34:09" %}} - this idea of well you know it's just commensurate to the amount of sin I commit so if I sin more I just need to  
+{{% timestamp videoId="KF-287QM3ig" time="2055" display="34:15" %}} - kill more things that is not God's attitude towards sin um and you know Paul talks about this somewhere else you  
+{{% timestamp videoId="KF-287QM3ig" time="2063" display="34:23" %}} - know that Christ died does not give us a license to sin this idea that our debt has been paid what now shall we sin no  
+{{% timestamp videoId="KF-287QM3ig" time="2070" display="34:30" %}} - more you know let that not be Paul tells us that is not how we are to take this and and in Jewish culture it's not like  
+{{% timestamp videoId="KF-287QM3ig" time="2078" display="34:38" %}} - you know the laws prescription of the killing of animals to cleanse them from their sin meant that that you could have  
+{{% timestamp videoId="KF-287QM3ig" time="2085" display="34:45" %}} - well I mean it would not Shock me if there were people in the history of the world that did think like this but this  
+{{% timestamp videoId="KF-287QM3ig" time="2090" display="34:50" %}} - is not how we ought to think about it who said well I'm rich and Powerful so I can s more because I can afford to buy  
+{{% timestamp videoId="KF-287QM3ig" time="2097" display="34:57" %}} - more things to pay for my sin right um yeah you know it is a sad sad thing that there are people who probably did act  
+{{% timestamp videoId="KF-287QM3ig" time="2107" display="35:07" %}} - like that under the old Covenant um you said I'm a rich and powerful man I can afford to do what I please because I can  
+{{% timestamp videoId="KF-287QM3ig" time="2116" display="35:16" %}} - pay for it I me I can pay for it right you see that you see how that Twisted that is relative to how this actually  
+{{% timestamp videoId="KF-287QM3ig" time="2124" display="35:24" %}} - works where God is the one providing us the sacrifice what one of us actually provides animals and makes them grow  
+{{% timestamp videoId="KF-287QM3ig" time="2133" display="35:33" %}} - none of us right humans don't control that God controls that and so what one of us can actually provide the sacrifice  
+{{% timestamp videoId="KF-287QM3ig" time="2140" display="35:40" %}} - for our own sin we do not provide animals you know arrogant as some people might think well I own you know I own  
+{{% timestamp videoId="KF-287QM3ig" time="2147" display="35:47" %}} - the mother animal and the father animal therefore I own the baby animals it's not yours nothing in this life is ours  
+{{% timestamp videoId="KF-287QM3ig" time="2152" display="35:52" %}} - it's only given to us put in our hands by God right where at best we are are stewards in fact we are slaves we are  
+{{% timestamp videoId="KF-287QM3ig" time="2159" display="35:59" %}} - Servants of God and anything past that thinking well I get to pay God pay god with what the currency that he gave you  
+{{% timestamp videoId="KF-287QM3ig" time="2169" display="36:09" %}} - the clothes that he gave you the life that he gave you I hope you see where I'm going with this yeah that is the  
+{{% timestamp videoId="KF-287QM3ig" time="2175" display="36:15" %}} - arrogance of this to think that somehow we can pay for this on our own that well I can acquire animals to cover my sin  
+{{% timestamp videoId="KF-287QM3ig" time="2184" display="36:24" %}} - therefore I can sin because you see it's okay I satisfy God's justice you know people actually say things like I mean  
+{{% timestamp videoId="KF-287QM3ig" time="2192" display="36:32" %}} - probably not so directly right but they act like this that as long as the scale is balanced I can do what I want I can I  
+{{% timestamp videoId="KF-287QM3ig" time="2199" display="36:39" %}} - can follow that letter of the law because you see I'm following the law you know the law says I have to  
+{{% timestamp videoId="KF-287QM3ig" time="2205" display="36:45" %}} - sacrifice this if I do this and look I made the sacrifice I am good in the eyes of the  
+{{% timestamp videoId="KF-287QM3ig" time="2211" display="36:51" %}} - Lord that's not how it works you know um so I I think maybe given how I separated we are from the the um it's  
+{{% timestamp videoId="KF-287QM3ig" time="2225" display="37:05" %}} - the right way to put it like the the visceral nature of killing something with your own hands to pay for your sin  
+{{% timestamp videoId="KF-287QM3ig" time="2232" display="37:12" %}} - I think we're a little bit separated from that and it's not necessarily a bad thing it just means that maybe this  
+{{% timestamp videoId="KF-287QM3ig" time="2237" display="37:17" %}} - doesn't hit as hard for us as going up to an altar putting your hand on the neck of an animal and taking its life to  
+{{% timestamp videoId="KF-287QM3ig" time="2245" display="37:25" %}} - pay for your own sin I think perhaps now I'm not I'm not saying we need to go reinstitute this  
+{{% timestamp videoId="KF-287QM3ig" time="2252" display="37:32" %}} - although you know the Bible does say under the tribulation uh uh you know the ministry towards people of Jewish belief  
+{{% timestamp videoId="KF-287QM3ig" time="2260" display="37:40" %}} - that some of the temple sacrifices will start back up pointing to Jesus Christ but I think maybe if people had to with  
+{{% timestamp videoId="KF-287QM3ig" time="2268" display="37:48" %}} - their own hands take the life of an animal every time they sin they would sin less you think that um again not  
+{{% timestamp videoId="KF-287QM3ig" time="2276" display="37:56" %}} - saying we need to go start this but but understanding exactly what it costs we don't want to cheapen that uh by being  
+{{% timestamp videoId="KF-287QM3ig" time="2286" display="38:06" %}} - quick to sin and I feel like sometimes we do we don't we don't keep in our mind what it cost Jesus to pay for even the  
+{{% timestamp videoId="KF-287QM3ig" time="2292" display="38:12" %}} - smallest of our sins sorry I'm rambling a bit I don't want to get off topic but you know it's  
+{{% timestamp videoId="KF-287QM3ig" time="2297" display="38:17" %}} - just blood sacrifice is so essential but we have to understand it properly that God is the one who provides this not us  
+{{% timestamp videoId="KF-287QM3ig" time="2304" display="38:24" %}} - it's not a matter of us being able to somehow level the scale through actions we take through just  
+{{% timestamp videoId="KF-287QM3ig" time="2310" display="38:30" %}} - acquiring more payment if you will because ultimately everything only comes from the hand of God and failing to  
+{{% timestamp videoId="KF-287QM3ig" time="2317" display="38:37" %}} - appreciate that means we really cheap in Grace and we should not do that um yeah very  
+{{% timestamp videoId="KF-287QM3ig" time="2329" display="38:49" %}} - true other than blood sacrifice the other main thing we're going to be talking about here in this somewhat s  
+{{% timestamp videoId="KF-287QM3ig" time="2336" display="38:56" %}} - somewhat short section in our study of theology proper is going to be talking about how prophecy helps point us to the  
+{{% timestamp videoId="KF-287QM3ig" time="2345" display="39:05" %}} - Messiah and the sufferings of Jesus Christ so prophecy prefigures the coming Messiah and like we mentioned before um  
+{{% timestamp videoId="KF-287QM3ig" time="2352" display="39:12" %}} - all of the typology kind of gets covered in more depth in part 4A of this series on ichus but for our purposes here we're  
+{{% timestamp videoId="KF-287QM3ig" time="2358" display="39:18" %}} - just highlighting a couple of the high level areas in which the Old Testament points to Jesus Christ as the Messiah  
+{{% timestamp videoId="KF-287QM3ig" time="2365" display="39:25" %}} - and so we just finished talking about blood sacrifice here and now we're going to be talking about just a few of the  
+{{% timestamp videoId="KF-287QM3ig" time="2370" display="39:30" %}} - prophecies that point us towards Jesus Christ as the Messiah now of course this list is very far from comprehensive and  
+{{% timestamp videoId="KF-287QM3ig" time="2378" display="39:38" %}} - we're really not going to go into too much detail here we're just introducing some of these examples that point us to  
+{{% timestamp videoId="KF-287QM3ig" time="2385" display="39:45" %}} - Jesus Christ that are in the Old Testament so as we've been saying uh in this lesson this has been the case from  
+{{% timestamp videoId="KF-287QM3ig" time="2392" display="39:52" %}} - the beginning this has always been God's plan for redeeming humankind and the New Testament didn't just like come up with  
+{{% timestamp videoId="KF-287QM3ig" time="2399" display="39:59" %}} - some Grand new idea that hadn't been there before it is fulfilling these things that have been around from the  
+{{% timestamp videoId="KF-287QM3ig" time="2407" display="40:07" %}} - very earliest days that God communicated with humanity and so here in Genesis 3:15 we have a prophecy so we spoke of  
+{{% timestamp videoId="KF-287QM3ig" time="2415" display="40:15" %}} - the Proto evangelium with blood sacrifice here the the animal skins that represent the shedding of blood for the  
+{{% timestamp videoId="KF-287QM3ig" time="2421" display="40:21" %}} - Forgiveness of sins well in Genesis 3:15 just a few verses earlier in that chapter we have a prophecy it's says  
+{{% timestamp videoId="KF-287QM3ig" time="2428" display="40:28" %}} - that enity will be put between the serpent uh being Satan you know at least metaphorically here and the woman and  
+{{% timestamp videoId="KF-287QM3ig" time="2435" display="40:35" %}} - between your seed and her seed he shall bruise you on the head and you shall bruise him on the heel so he here we  
+{{% timestamp videoId="KF-287QM3ig" time="2444" display="40:44" %}} - interpret now through the revelation of the New Testament to be Jesus Christ and the Serpent's Seed you know well uh  
+{{% timestamp videoId="KF-287QM3ig" time="2453" display="40:53" %}} - we're going to interpret it you know among other things as being Antichrist so it has multiple fulfillments uh in  
+{{% timestamp videoId="KF-287QM3ig" time="2459" display="40:59" %}} - the events of Revelation for example but also Jesus crushed the head of the serpent upon the cross he paid for our  
+{{% timestamp videoId="KF-287QM3ig" time="2467" display="41:07" %}} - sin and overcame death this was that final Victory Satan's already positionally  
+{{% timestamp videoId="KF-287QM3ig" time="2474" display="41:14" %}} - defeated but this prophecy in Genesis 3:15 this is talking about the Messiah the one who saves his people from their  
+{{% timestamp videoId="KF-287QM3ig" time="2482" display="41:22" %}} - sins it's what the Messiah is in by conception right he saves God's people um well Genesis 3:15 clearly referencing  
+{{% timestamp videoId="KF-287QM3ig" time="2491" display="41:31" %}} - the Messiah right this is book chapter 3 the first book of the Bible this is really early on in our understanding of  
+{{% timestamp videoId="KF-287QM3ig" time="2499" display="41:39" %}} - God um and it's right there um now of course we have the benefit of some hindsight in interpreting this nowadays  
+{{% timestamp videoId="KF-287QM3ig" time="2507" display="41:47" %}} - but this has been there from the very beginning and whatever this meant however the oops however the the early  
+{{% timestamp videoId="KF-287QM3ig" time="2515" display="41:55" %}} - people of Israel interpreted this they would have understand this to be a comforting promise right this is a  
+{{% timestamp videoId="KF-287QM3ig" time="2521" display="42:01" %}} - prophecy that that the seed of the woman will be victorious Over The Serpent and all that he represents in a negative  
+{{% timestamp videoId="KF-287QM3ig" time="2529" display="42:09" %}} - sense so that's Genesis 3:15 we have a another verse here in Numbers chapter 21 so this is the bronze  
+{{% timestamp videoId="KF-287QM3ig" time="2538" display="42:18" %}} - serpent put up on a staff that when the people were bitten by venomous snakes in the wilderness they would look up at  
+{{% timestamp videoId="KF-287QM3ig" time="2547" display="42:27" %}} - this serpent who was put up again think about the symbolism of the Cross here who was put up here to take away you  
+{{% timestamp videoId="KF-287QM3ig" time="2557" display="42:37" %}} - know the the Venom that would lead to their death right I mean I don't know how exactly what people think you need  
+{{% timestamp videoId="KF-287QM3ig" time="2564" display="42:44" %}} - to be a metaphor for the cross in Jesus Christ but this is certainly one of them um Numbers chapter 21 Moses made a  
+{{% timestamp videoId="KF-287QM3ig" time="2573" display="42:53" %}} - bronze Serpent and set it on the standard and it came about that if a serpent B any man when he looked the  
+{{% timestamp videoId="KF-287QM3ig" time="2578" display="42:58" %}} - bronze at when he looked to the bronze serpent he lived clearly prefiguring Jesus Christ being put up on the cross  
+{{% timestamp videoId="KF-287QM3ig" time="2585" display="43:05" %}} - to pay for our sins right um now there's more context to this we're not going to get into all of that here but this is a  
+{{% timestamp videoId="KF-287QM3ig" time="2592" display="43:12" %}} - clear typological reference to the Messiah taking away the sins of his people um numbers CH  
+{{% timestamp videoId="KF-287QM3ig" time="2600" display="43:20" %}} - 21:9 we have Psalm 22 verse1 another Messianic Psalm and and we hear Jesus say this from the cross my God my God  
+{{% timestamp videoId="KF-287QM3ig" time="2610" display="43:30" %}} - why did you forsake me um far from my Deliverance are the words of my groaning um we understand that this speaks of the  
+{{% timestamp videoId="KF-287QM3ig" time="2619" display="43:39" %}} - suffering of Jesus Christ right when God the father was having Jesus take the punishment for human sins that face the  
+{{% timestamp videoId="KF-287QM3ig" time="2628" display="43:48" %}} - Judgment for human sins Jesus says this on the cross not because you know God uh you know the right way to put this um  
+{{% timestamp videoId="KF-287QM3ig" time="2637" display="43:57" %}} - you know not because the father hated Jesus or wanted to cause him harm or things like this but because when Jesus  
+{{% timestamp videoId="KF-287QM3ig" time="2645" display="44:05" %}} - was paying for human sin he was taking the sins of the world upon his shoulders and and Jesus saying this should be a  
+{{% timestamp videoId="KF-287QM3ig" time="2651" display="44:11" %}} - powerful reminder to us of exactly how much this costs now we will never properly appreciate this as humans we  
+{{% timestamp videoId="KF-287QM3ig" time="2658" display="44:18" %}} - can't um and and we should do our very best to try but we won't really understand what it means to take the  
+{{% timestamp videoId="KF-287QM3ig" time="2666" display="44:26" %}} - sort of the the Eternal weight of sin upon Jesus's shoulders for one sin much less the sins of the entire world we  
+{{% timestamp videoId="KF-287QM3ig" time="2674" display="44:34" %}} - cannot even comprehend that what that cost but this should help give us a sense of of how much it would hurt so to  
+{{% timestamp videoId="KF-287QM3ig" time="2682" display="44:42" %}} - speak what Jesus would feel like on the cross but notice that this is quoting from a Psalm Psalm 22 long before Jesus  
+{{% timestamp videoId="KF-287QM3ig" time="2691" display="44:51" %}} - was born into this world and came to die for our sins um and then I Isaiah chapter 53 as it is mentioned here in  
+{{% timestamp videoId="KF-287QM3ig" time="2699" display="44:59" %}} - this series this is the suffering servant right um Isaiah 53:3 he was despised and forsaken of men a Man of  
+{{% timestamp videoId="KF-287QM3ig" time="2707" display="45:07" %}} - Sorrows and acquainted with grief and like one from whom men hid their face he was despised and we did not esteem  
+{{% timestamp videoId="KF-287QM3ig" time="2714" display="45:14" %}} - him a prophecy of Jesus Christ right he lived this this life of of suffering and then put to death the most unglamorous  
+{{% timestamp videoId="KF-287QM3ig" time="2723" display="45:23" %}} - way possible crucified upon a cross to pay for our sin sins this is the suffering servant who has been prophecy  
+{{% timestamp videoId="KF-287QM3ig" time="2731" display="45:31" %}} - for centuries before Jesus Christ came into the world and so this idea here that we're going with with all this  
+{{% timestamp videoId="KF-287QM3ig" time="2738" display="45:38" %}} - prophecies is the idea that the Old Testament did not prophecy the the coming Messiah or what he would do for  
+{{% timestamp videoId="KF-287QM3ig" time="2744" display="45:44" %}} - us in suffering for our sins upon the cross it it's simply false all of these things are there in the Bible and I mean  
+{{% timestamp videoId="KF-287QM3ig" time="2752" display="45:52" %}} - again as as we've been going over from the beginning since we started talking about uh the trinity in the Old  
+{{% timestamp videoId="KF-287QM3ig" time="2758" display="45:58" %}} - Testament it's not exactly as if all of these things would have been completely obvious to them in the same way it is to  
+{{% timestamp videoId="KF-287QM3ig" time="2764" display="46:04" %}} - us now with the benefit of the additional revelation of the New Testament and and hindsight but these  
+{{% timestamp videoId="KF-287QM3ig" time="2770" display="46:10" %}} - things have been there since the very beginning and as I say we could go on these are not the only things that we  
+{{% timestamp videoId="KF-287QM3ig" time="2778" display="46:18" %}} - could use to show how the Old Testament prefigures the coming Messiah but it's just a collection of examples that  
+{{% timestamp videoId="KF-287QM3ig" time="2784" display="46:24" %}} - should show how the Old Testament points to Jesus Christ and what he did for us long before Jesus ever came into the  
+{{% timestamp videoId="KF-287QM3ig" time="2791" display="46:31" %}} - world um and that's this all this is alongside blood sacrifice right which we said that symbolism clearly points to  
+{{% timestamp videoId="KF-287QM3ig" time="2797" display="46:37" %}} - Christ but all of these things these prophecies these other types this typological symbolism that points us to  
+{{% timestamp videoId="KF-287QM3ig" time="2804" display="46:44" %}} - Christ all of that was given to us as well all of these things together point us to Jesus Christ as the Messiah who  
+{{% timestamp videoId="KF-287QM3ig" time="2813" display="46:53" %}} - will suffer for our sins and so this is why we say that the Messiah is prefigured in the Old Testament and  
+{{% timestamp videoId="KF-287QM3ig" time="2819" display="46:59" %}} - clearly too like not not just in a maybe we think that you could kind of interpret things this way when Jesus  
+{{% timestamp videoId="KF-287QM3ig" time="2827" display="47:07" %}} - explained things to those people on the road to Emmas he wasn't just drawing connections that weren't there he was  
+{{% timestamp videoId="KF-287QM3ig" time="2834" display="47:14" %}} - explaining these things that had been there from the beginning and making it clear what they actually pointed to um  
+{{% timestamp videoId="KF-287QM3ig" time="2841" display="47:21" %}} - and that's just the way we need to take this these things clearly point to Jesus Christ and when we look with faith we  
+{{% timestamp videoId="KF-287QM3ig" time="2847" display="47:27" %}} - should see that from the beginning God's plan has not changed here it's been consistent always pointing us to Jesus  
+{{% timestamp videoId="KF-287QM3ig" time="2854" display="47:34" %}} - Christ and what he did for us on the cross so anything you want to contribute here Audi um about any of these verses  
+{{% timestamp videoId="KF-287QM3ig" time="2862" display="47:42" %}} - or or any others that you can think of uh not not really not not really the these are just a sampling  
+{{% timestamp videoId="KF-287QM3ig" time="2871" display="47:51" %}} - of the scriptures that speak to the um coming of the Lord Jesus and what he would do for our sins suffice to say  
+{{% timestamp videoId="KF-287QM3ig" time="2881" display="48:01" %}} - that the Old Testament is replete with this basically if you spent a whole day reading through Isaiah you'd come away  
+{{% timestamp videoId="KF-287QM3ig" time="2889" display="48:09" %}} - wondering why anyone would would even think that the Messiah was supposed to come and do what just chase the Romans  
+{{% timestamp videoId="KF-287QM3ig" time="2899" display="48:19" %}} - away and take the throne everything that you read will point you to that to the Cross to Jesus coming  
+{{% timestamp videoId="KF-287QM3ig" time="2907" display="48:27" %}} - it's it's very hard to read the Old Testament and the New Testament and go away you know thinking that they're  
+{{% timestamp videoId="KF-287QM3ig" time="2915" display="48:35" %}} - disconnected from each other they feed into each other very well and um one clearly foreshadows the other perfectly  
+{{% timestamp videoId="KF-287QM3ig" time="2927" display="48:47" %}} - so if if we just if all we wanted to do was to come up with examples of this it would make for a full session that's the  
+{{% timestamp videoId="KF-287QM3ig" time="2936" display="48:56" %}} - fact of it I don't think there is uh much more to say there is very little that needs to  
+{{% timestamp videoId="KF-287QM3ig" time="2942" display="49:02" %}} - be interpreted in many of these things the words are very straightforward it takes a deliberate hardening of one's  
+{{% timestamp videoId="KF-287QM3ig" time="2948" display="49:08" %}} - heart to miss these um these references and what they're talking about and just to emphasize you know  
+{{% timestamp videoId="KF-287QM3ig" time="2956" display="49:16" %}} - that's why Dr Lil titled the the section of this here well um you know this introduction the portrayal of the  
+{{% timestamp videoId="KF-287QM3ig" time="2964" display="49:24" %}} - suffering of Christ it's not just the person of the Messiah that's prophecied it's also his sufferer um and what you  
+{{% timestamp videoId="KF-287QM3ig" time="2971" display="49:31" %}} - need to emphasize that is that you know like it's not simply that a messiah would come to save the Jews that is true  
+{{% timestamp videoId="KF-287QM3ig" time="2979" display="49:39" %}} - save God's people but that he would come to suffer for them that is right there as well um and as I say this is a  
+{{% timestamp videoId="KF-287QM3ig" time="2989" display="49:49" %}} - stumbling Bo has been a stumbling PO for the Jewish people for centuries Millennia now um but that doesn't mean  
+{{% timestamp videoId="KF-287QM3ig" time="2996" display="49:56" %}} - what we're saying isn't right there yeah yeah all right so as I said a bit  
+{{% timestamp videoId="KF-287QM3ig" time="3008" display="50:08" %}} - shorter this week here talking about the old testament's portrayal of the suffering of Jesus and how the Messiah  
+{{% timestamp videoId="KF-287QM3ig" time="3016" display="50:16" %}} - was prefigured in the Old Testament so Jesus Christ specifically and what he came to do for us by suffering for our  
+{{% timestamp videoId="KF-287QM3ig" time="3023" display="50:23" %}} - sins and our place upon the cross uh we talked just about how from the very beginning the Bible has has given us  
+{{% timestamp videoId="KF-287QM3ig" time="3030" display="50:30" %}} - this understanding of the Messiah who was would come to save us from our sins we mentioned this verse in Luke chapter  
+{{% timestamp videoId="KF-287QM3ig" time="3037" display="50:37" %}} - 24: 27 that talks about you know Jesus explaining to those men on the road to emus everywhere that the scripture spoke  
+{{% timestamp videoId="KF-287QM3ig" time="3045" display="50:45" %}} - of him and uh you know we don't have that conversation but we've just gone through some things that should show us  
+{{% timestamp videoId="KF-287QM3ig" time="3050" display="50:50" %}} - that yay verily the Old Testament really does point to Jesus and him crucified at that and so that that is just what we've  
+{{% timestamp videoId="KF-287QM3ig" time="3057" display="50:57" %}} - been talking about here in this lesson and so blood sacrifice is very obvious symbolic pointer that that points us  
+{{% timestamp videoId="KF-287QM3ig" time="3064" display="51:04" %}} - straight to the cross the blood sacrifice are just Shadows of Jesus's sacrifice upon the cross the symbolism  
+{{% timestamp videoId="KF-287QM3ig" time="3070" display="51:10" %}} - has been clear it has been there from Genesis 3: 21 the prto evangelium it's been there since the beginning has  
+{{% timestamp videoId="KF-287QM3ig" time="3078" display="51:18" %}} - always been consistent in pointing us to the necessity of shedding blood to pay for sin um and of course Jesus is that  
+{{% timestamp videoId="KF-287QM3ig" time="3086" display="51:26" %}} - final sacrifice like Romans sorry Hebrews chapter nine talks about once for all he died upon the cross to deal  
+{{% timestamp videoId="KF-287QM3ig" time="3093" display="51:33" %}} - with sin and death then we talked about prophecy various verses like genesis chapter 3:1 15 with the uh you know  
+{{% timestamp videoId="KF-287QM3ig" time="3101" display="51:41" %}} - Jesus crushing the head of The Serpent and the serpent striking his heel you know the bronze uh the bronze serpent  
+{{% timestamp videoId="KF-287QM3ig" time="3109" display="51:49" %}} - put up on the staff to take away uh the sins of the people you know the Venom saving them from when they were bitten  
+{{% timestamp videoId="KF-287QM3ig" time="3115" display="51:55" %}} - and all these other things that point to Jesus's suffering as the Messiah like Isaiah chapter 53 the suffering servant  
+{{% timestamp videoId="KF-287QM3ig" time="3122" display="52:02" %}} - just also serve to point us not only to Jesus Christ as the coming Messiah but also point us directly towards him  
+{{% timestamp videoId="KF-287QM3ig" time="3131" display="52:11" %}} - suffering for our sin both of these things together give us that picture that the Old Testament very much spoke  
+{{% timestamp videoId="KF-287QM3ig" time="3139" display="52:19" %}} - of the Messiah and what he would do for us so that's been this section here um in the next lessons here we're going to  
+{{% timestamp videoId="KF-287QM3ig" time="3145" display="52:25" %}} - be focusing on appearances of God in the Old Testament so theophanies and christophanies and what the differences  
+{{% timestamp videoId="KF-287QM3ig" time="3153" display="52:33" %}} - between them are and things like that so that's where we're going to turn next  
+
+{{% /toggleable-transcript %}}
+
+{{% discussion-pages %}}
+
+{{% /discussion-pages %}}
+
+
+
+
+<br/>
+
+
+
+## [Appearances of Christ in the Old Testament - Introduction](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament-introduction) {#appearances-of-christ-in-the-old-testament-introduction}
+{{< subjects >}}
+{{< /subjects >}}
+
+
+
+### Video {#appearances-of-christ-in-the-old-testament-introduction-video}
+
+{{% video
+videoId="qs8tEwjUavU"
+
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8"
+
+slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament-introduction"
+%}}
+
+### Summary {#appearances-of-christ-in-the-old-testament-introduction-summary}
+
+In this lesson, we primarily examine the concepts of Theophanies (appearances of God) and Christophanies (appearances of Jesus Christ), and argue that due to the Father's invisibility, inaccessibility, and dignity, it is the second person of Trinity (that is, a pre-incarnate Jesus Christ) that appears before mankind in the Old Testament, *not* the Father. This means that all Theophanies in the Old Testament are in fact Christophanies.
+
+### Timestamps {#appearances-of-christ-in-the-old-testament-introduction-timestamps}
+
+{{% timestamp videoId="qs8tEwjUavU" time="0" display="0:00" %}} - Intro and outline  
+{{% timestamp videoId="qs8tEwjUavU" time="149" display="02:29" %}} - Overview  
+{{% timestamp videoId="qs8tEwjUavU" time="1034" display="17:14" %}} - Definition of Theophany and Christophany  
+{{% timestamp videoId="qs8tEwjUavU" time="1987" display="33:07" %}} - The invisibility of the Father  
+{{% timestamp videoId="qs8tEwjUavU" time="2907" display="48:27" %}} - The inaccessibility of the Father apart from Christ  
+{{% timestamp videoId="qs8tEwjUavU" time="4771" display="01:19:31" %}} - The dignity of the Father  
+{{% timestamp videoId="qs8tEwjUavU" time="6824" display="01:53:44" %}} - The visibility, accessibility and humility of the Son  
+{{% timestamp videoId="qs8tEwjUavU" time="7510" display="02:05:10" %}} - Summary and outro  
+
+{{% toggleable-content %}}
+
+### Content {#appearances-of-christ-in-the-old-testament-introduction-content}
+
+(Derived from https://ichthys.com/1Theo.htm)
+
+<!-- --- -->
+
+#### Overview {#appearances-of-christ-in-the-old-testament-introduction-overview}
+
+{{< subjects >}}
+<a href="/subject-index/#trinity-roles-the-son-has-always-been-the-visible-member-of-the-trinity">Trinity > Roles > The Son has always been the visible member of the Trinity</a>
+{{< /subjects >}}
+<!-- p="John 10:30; John 8:28; John 14:24; John 8:26; John 8:28; John 12:50b" -->
+
+In terms of their presentation of the Trinity, the main difference between the Old and New Testaments is that in the New Testament, Christ is clearly visible and distinct from the Father, while in the Old Testament, the Father and Son are often difficult to distinguish. Despite the discussion immediately above, there is a common misconception – even in many Christian circles – that the fact that the exact details about Christ's incarnation were shielded in the Old Testament means that the *visible* person in the Old Testament is primarily God the Father.
+
+This is not entirely accurate, for the Father has always appeared to the world *through* the person of His Son, Jesus Christ, and this fact was just as true in the Old Testament as it is in the New Testament; only the *manner* of the Father's representation of Himself through His Son changed: in the New Testament, an *incarnate* Jesus Christ becomes visible to the world (only His true glory is shielded), while in the Old Testament, Christ also represents the Father – but not in *incarnate* form.
+
+Additionally, in the New Testament, when our Lord says "I and the Father are one" (Jn.10:30), or otherwise speaks the Father's words (Jn.8:28; 14:24), the distinction between the Father and the Son (along with this unity) is perfectly clear and obvious. However, in the Old Testament, when God appears, it is consistently the Son who appears, but as the representative of the Father, speaking the Father's words, so that the distinction between the two was not, at the time, completely understood or appreciated (Jn.8:26 & 28):
+
+{{% scripture p="John 12:50b | NIV11" %}}
+So whatever I say is just what the Father has told me to say.
+{{% /scripture %}}
+
+<!-- --- -->
+
+#### Definition of Theophany and Christophany {#appearances-of-christ-in-the-old-testament-introduction-definition-of-theophany-and-christophany}
+
+{{< subjects >}}
+<a href="/subject-index/#theophany">Theophany</a>
+<a href="/subject-index/#christophany">Christophany</a>
+<a href="/subject-index/#theophany-all-old-testament-theophanies-are-in-fact-christophanies">Theophany > All Old Testament Theophanies are in fact Christophanies</a>
+{{< /subjects >}}
+<!-- p="Daniel 7:13-14" -->
+
+The words "Theophany" and "Christophany" mean, respectively, "an appearance of God" and "an appearance of Christ", the second part of each being derived from the Greek root *phan*, "appear" (from which we get the word "phenomenon"). In this section it will be argued that in biblical terms, at any rate, the only category of event we really need to be concerned with here is Christophany, for, in my view, all cases of Theophany in the Old Testament are really Christophanies.
+
+It needs to be made clear right at the outset that by Christophany we are definitely not referring to the literal, physical appearance of our Lord Jesus Christ in His true humanity – ever since His deity assumed true humanity at the incarnation, Christ has not again appeared in temporary, Christophanic form. The position that all Old Testament appearances of God are, in reality, appearances of Christ, also allows for the possibility of other sorts of manifestations of the Father other than an ostensibly corporeal appearance here on earth, such as a dream or vision (Daniel's vision of the "Ancient of Days" being the prime example: Dan.7:13-14).
+
+<!-- --- -->
+
+#### The invisibility of the Father {#appearances-of-christ-in-the-old-testament-introduction-the-invisibility-of-the-father}
+
+{{< subjects >}}
+<a href="/subject-index/#god-resplendence-unapproachable-light">God > Resplendence > Unapproachable light</a>
+<a href="/subject-index/#trinity-roles-father">Trinity > Roles > Father</a>
+<a href="/subject-index/#interpretation-principles-no-one-has-seen-the-father">Interpretation > Principles > "No one has seen the Father"</a>
+{{< /subjects >}}
+<!-- p="Matthew 18:10; Matthew 6:6; Matthew 6:26; Revelation 21:1-3; Exodus 33:20; Isaiah 45:15; John 1:18; John 6:46; 1 Timothy 6:16; 1 John 4:12" -->
+
+Until we get to heaven, we will not see the Father. We know that the Father is not invisible to the angels, for they "constantly see the face of My Father in heaven" (Matt.18:10). But He is our *heavenly* Father (Matt.6:9, 26, et passim), and as long as the earthly conflict between His would-be usurper, Satan, and His designated regent, Christ, still rages, in heaven He remains for His majesty's sake, speaking and working His will through His Servant. Until the final and ultimate victory, and only after the complete purging of the universe will the Father come to the new earth to make His abode with us forever (Rev.21:1-3). Until that time, the Father, though acting and speaking through His representative, His Son Jesus Christ, remains invisible to human eye.
+
+{{% ichthys-translation p="Exodus 33:20" %}}
+"But", He said, "you cannot see My face. For a man may not see My face and live."   
+{{% /ichthys-translation %}}
+
+{{% ichthys-translation p="Isaiah 45:15" %}}
+Surely, You are a God who hides Himself. 
+{{% /ichthys-translation %}}
+
+<!-- --- -->
+
+{{% ichthys-translation p="John 1:18" %}}
+No one has ever seen God. God the only Son – the One who has always been at the Father's side – He has made Him known. 
+{{% /ichthys-translation %}}
+
+{{% ichthys-translation p="John 6:46" %}}
+Not that anyone has seen the Father except He [the Son] who has always been with the Father; He has seen the Father.                     
+{{% /ichthys-translation %}}
+
+{{% ichthys-translation p="1st Timothy 6:16" %}}
+He [the Father] who alone possesses immortality, dwelling in ***unapproachable*** light, whom no man has ever seen, nor can see.                 
+{{% /ichthys-translation %}}
+
+{{% ichthys-translation p="1st John 4:12" %}}
+No one has ever seen God.
+{{% /ichthys-translation %}}
+
+<!-- --- -->
+
+#### The inaccessibility of the Father apart from Christ {#appearances-of-christ-in-the-old-testament-introduction-the-inaccessibility-of-the-father-apart-from-christ}
+
+{{< subjects >}}
+<a href="/subject-index/#trinity-roles-father">Trinity > Roles > Father</a>
+<a href="/subject-index/#interpretation-principles-unapproachableness-of-the-father">Interpretation > Principles > Unapproachableness of the Father</a>
+<a href="/subject-index/#jesus-as-mediator-between-us-and-the-father">Jesus > As mediator between us and the Father</a>
+<a href="/subject-index/#blood-of-christ-how-it-changed-the-relationship-between-us-and-the-father">Blood of Christ > How it changed the relationship between us and the Father</a>
+<a href="/subject-index/#veil-in-temple-symbolic-of-separation-from-god-torn-in-two-after-the-cross">Veil in Temple > Symbolic of separation from God > Torn in two after the cross</a>
+{{< /subjects >}}
+<!-- p="Matthew 6:9; Matthew 6:26; Deuteronomy 30:12-13; Romans 10:6; Revelation 4:2; Hebrews 4:16; Genesis 32:30; Isaiah 6:5; John 3:13; Romans 5:1-2a; Ephesians 2:18; Ephesians 3:12; Hebrews 4:16; 1 Peter 3:18; Luke 23:45; Hebrews 1:1-2; Ephesians 4:7-11" -->
+
+If mankind were able to see God the Father in all His glory without perishing in the process, it is at least safe to say that the issue of human free-will would be seriously compromised from that point forward. Confronted with the magnitude and majesty of God, not only would it be impossible to deny His existence, but it is also likely that even against their will most men would find themselves obliged to follow Him and His will out of sheer terror (rather than from a truly free choice). Along with the principle of preserving mankind's free-will, the issue of *access* to the Father also helps to explain why the Father remains unseen to us in this present life.
+
+Although, as discussed earlier in this study, the Father is omnipresent in His creation, for purposes of visibility to His creatures, he is invariably described in the scriptures as residing in heaven (e.g., Matt.6:9, 26). Obviously, as long as we live in these physical bodies, we cannot go to heaven to "seek God" (Deut.30:12-13; Rom.10:6). The Father, by virtue of the fact that His throne room is in heaven (Rev.4:2; Heb.4:16), is inaccessible to us. This "physical" distance which separates us from the Father is indicative of the *spiritual* distance between God and mankind. As the person of the Trinity representing the authority and holiness of the Godhead, the righteous Father keeps Himself completely separate from human sin; it is in no small part because of mankind's sinfulness that face to face fellowship with the Father is impossible. In fact, for sinful human beings to be confronted by God brings immediate realization that we are worthy of death by our very nature (Gen.32:30):
+
+{{% ichthys-translation p="Isaiah 6:5" %}}
+"Woe is me! I am done for! For I am a man of unclean lips and I live among a people of unclean lips. For my eyes have seen the King, the Lord of hosts."
+{{% /ichthys-translation %}}
+
+<!-- --- -->
+
+Though we cannot go to heaven to plead our case with the Father, Christ Jesus is the one who has come down from heaven on our account (Jn.3:13). Through faith in Him and His death for us, we now have ***access*** to the Father in His name. By His blood (that is, His death on the cross on our behalf), Christ has broken down the barrier of hostility between the Father and those who believe in His Son. Jesus Christ has made peace between us, and, as a result, we now have been granted entrance into the throne room of heaven and the presence of the Father. This means that on the basis of the acceptability of Christ's sacrifice and our acceptance of Him, our prayers and petitions are heard by the Father now, and we ourselves shall enter into the heavenly holy of holies in His good time:
+
+{{% ichthys-translation p="Romans 5:1-2a" %}}
+So now that we have been justified by faith, let us take hold of the peace [we have] with God [the Father] through our Lord Jesus Christ, through whom we have also obtained our ***access*** into this grace in which we stand.
+{{% /ichthys-translation %}}
+
+{{% ichthys-translation p="Ephesians 2:18" %}}
+For through Him [Jesus Christ] we both [Jews and gentiles] have ***access*** to the Father by one Spirit.
+{{% /ichthys-translation %}}
+
+<!-- --- -->
+
+{{% ichthys-translation p="Ephesians 3:12" %}}
+Being in Him [Jesus Christ] and having confidence through our faith in Him we possess this ***access*** [to the Father] and freedom to speak [to Him].
+{{% /ichthys-translation %}}
+
+{{% ichthys-translation p="Hebrews 4:16" %}}
+So let us ***approach*** with confident free speech to the throne of grace [of the Father] that we might receive [His] mercy and gain [His] favor for timely help.
+{{% /ichthys-translation %}}
+
+{{% ichthys-translation p="1 Peter 3:18" %}}
+For Christ died once for us on account of our sins, the righteous for the unrighteous, that He might ***bring*** us to God.
+{{% /ichthys-translation %}}
+
+<!-- --- -->
+
+The fact that through faith in the Son we now have full ***access*** to the Father (sonship, fellowship, acceptance of prayer, and eternal life with Him), shows that before the Son came and died for us, such access was at least *limited*. The Father's splitting of the temple's veil at the conclusion of our Lord's sacrifice on our behalf is a dramatic indication that through His death the barrier that had previously separated us from the Father (that is, our sins) has now been removed (Lk.23:45). Now we have access to the Father in prayer, though we still cannot enter into His presence in heaven as long as we remain in these earthly bodies. Before the cross, the Father was even more inaccessible to sinful mankind. It would be surprising, therefore, if the instances of Theophany in the Old Testament are actual appearances of the Father. It is much more likely (based upon this principle of greater access *after* the cross, less beforehand) that just as the Father made Himself known through His Son in the New Testament (Heb.1:1-2), so also in the Old Testament His appearances were mediated by this same Son, that is to say, by Christophany.
+
+<!-- --- -->
+
+#### The dignity of the Father {#appearances-of-christ-in-the-old-testament-introduction-the-dignity-of-the-father}
+
+{{< subjects >}}
+<a href="/subject-index/#trinity-roles-father">Trinity > Roles > Father</a>
+<a href="/subject-index/#jesus-has-been-delegated-authority-from-the-father">Jesus > Has been delegated authority from the father</a>
+<a href="/subject-index/#jesus-prince-regent-of-the-world-sent-with-the-father-s-authority">Jesus > Prince regent of the world, sent with the Father's authority</a>
+<a href="/subject-index/#satan-being-replaced-by-jesus-christ-a-human-being">Satan > Being replaced by Jesus Christ, a human being</a>
+{{< /subjects >}}
+<!-- p="Job 38:7; Isaiah 14:12-15; Ezekiel 28:12-19; Luke 10:18; John 12:31; John 16:11; 1 Corinthians 15:24-25; Colossians 2:15; Revelation 11:15; Revelation 22:16; Matthew 10:40; Matthew 21:37; Luke 9:48; Luke 10:16; John 12:44; John 13:20; Matthew 21:33-46; John 1:1-3; Deuteronomy 18:18; John 8:55; John 14:10; John 14:24; Hebrews 1:1; Isaiah 42:6; Jeremiah 31:31ff.; Malachi 3:1; Matthew 26:28; 1 Corinthians 11:25; Galatians 3:19-20; 1 Timothy 2:5; Romans 5:10-11; 2 Corinthians 5:18-21; Ephesians 2:14-16; Colossians 1:20-22; Hebrews 9:11-14; Hebrews 5:5-10; Acts 2:36; Psalm 110:1; Matthew 22:44; Psalm 45:6-7; Hebrews 1:8-9; Psalm 97:7b; Hebrews 1:6" -->
+
+The fact that the angelic rebellion led by Satan precedes the creation of man (Job 38:7; Is.14:12-15; Ezek.28:12-19) explains much about the Father's modus operandi of working through the One who will ultimately replace Satan as ruler of this world, His Son Jesus Christ (Lk.10:18; Jn.12:31; 16:11; 1Cor.15:24-25; Col.2:15; Rev.11:15). As the Trinity's figure of authority and majesty, the Father chooses a representative to wage the struggle against Satan, even He who by His sacrifice will redeem sinful mankind and replace our adversary, the Morning Star replacing Lucifer (compare Is.14:12 with Rev.22:16). So it should not be surprising that throughout the Old Testament too, the Son is the One representing the Father, speaking His words whenever He appears (in Christophany), for He is the anointed One, the Messiah, the One sent into the world by the Father (Matt.10:40; 21:37; Lk.9:48; 10:16; Jn.12:44; 13:20). This principle of the Son *representing* the Father as His agent in the plan of salvation can also be seen from Christ's...
+
+<!-- --- -->
+
+1) **Message**: Christ is the Word (Jn.1:1-3). This means that He is the embodiment of the message and truth of the Father, and speaks the Father's words truly and precisely at all times (Deut.18:18; Jn.8:55; 14:10&24). Christ is the Father's ultimate message (Heb.1:1), the messenger of the Father's new covenant in His blood (Is.42:6; Jer.31:31ff.; Mal.3:1; Matt.26:28; 1Cor.11:25).
+
+2) **Mediation**: Christ is the Mediator between God the Father and sinful mankind (Gal.3:19-20; 1Tim.2:5), the One who reconciles us to the Father by His blood (Rom.5:10-11; 2Cor.5:18-21; Eph.2:14-16; Col.1:20-22).
+
+3) **Mission**: Christ is the One anointed and sent by the Father to offer Himself as a sacrifice for our sins (Heb.9:11-14). He is thus the ultimate high priest who makes atonement to the Father on our behalf (Heb.5:5-10).
+
+4) **Monarchy**: In recognition of His victory at the cross, the Father has "appointed Him Lord and Christ" (Acts 2:36), that is "the Lord anointed (to rule the world)". This passage signals not only Christ's replacement of Satan as ruler of the world, but His acceptance of the regency of the world as the Father's representative (explaining many Old Testament passages referring to the Father's impending return being applied to the Son in the New Testament):
+
+a) the Son's ascension into heaven (Ps.110:1 with Matt.22:44);  
+b) the Son's ascension to the throne on earth (Ps.45:6-7 with Heb.1:8-9);  
+c) the Son's primacy from creation to eternity (Ps.97:7b with Heb.1:6).  
+
+All the above examples of Christ's role of *representing* the Father in God's plan of salvation support the position that all Old Testament Theophany is truly Christophany, the Son appearing, representing, and speaking for the Father before His incarnation.
+
+<!-- --- -->
+
+#### The visibility, accessibility and humility of the Son {#appearances-of-christ-in-the-old-testament-introduction-the-visibility-accessibility-and-humility-of-the-son}
+
+{{< subjects >}}
+<a href="/subject-index/#trinity-roles-son">Trinity > Roles > Son</a>
+<a href="/subject-index/#jesus-is-visible-to-us-unlike-the-father">Jesus > Is visible to us, unlike the Father</a>
+<a href="/subject-index/#jesus-is-accessible-to-us-unlike-the-father">Jesus > Is accessible to us, unlike the Father</a>
+<a href="/subject-index/#jesus-has-adopted-a-role-of-humility-and-service-unlike-the-father-s-role-of-authority-and-majesty">Jesus > Has adopted a role of humility and service, unlike the Father's role of authority and majesty</a>
+{{< /subjects >}}
+<!-- p="John 14:9; John 14:6; Colossians 1:22; Philippians 2:5-11" -->
+
+While we cannot initially see the Father, we can see the Son and the Father through the Son (Jn.14:9). While we could not initially approach the Father, through the Son we have gained access to Him (Jn.14:6). And while our sinfulness kept us separated from the perfect holiness of the Father, the work of the Son has rendered us holy and has reconciled us to the Father (Col.1:22). As the visible, accessible member of the Trinity who was willing to humble Himself and associate with us to die for us (Phil.2:5-11), Christ has always been our point of contact with the Godhead, whether in Old Testament Christophany, or after His appearance in true humanity following His incarnation.
+
+{{% /toggleable-content %}}
+
+{{% toggleable-transcript %}}
+
+### Video/audio transcript {#appearances-of-christ-in-the-old-testament-introduction-video-audio-transcript}
+
+{{% timestamp videoId="qs8tEwjUavU" time="2" display="00:02" %}} - all right guys this week we are picking back up in our study of Bible basics part one going over theology proper and  
+{{% timestamp videoId="qs8tEwjUavU" time="9" display="00:09" %}} - now we're going to be talking about appearances of Christ in the Old Testament so in our last lesson we had  
+{{% timestamp videoId="qs8tEwjUavU" time="15" display="00:15" %}} - been covering the symbolism of blood sacrifice and some of the specific prophecy related to the Messiah in the  
+{{% timestamp videoId="qs8tEwjUavU" time="22" display="00:22" %}} - Old Testament and now we're actually going to be talking about when the pre-incarnate Christ appeared and kind  
+{{% timestamp videoId="qs8tEwjUavU" time="28" display="00:28" %}} - of the language we used to describe that and how that fits into how God has related to humanity even before the  
+{{% timestamp videoId="qs8tEwjUavU" time="36" display="00:36" %}} - Incarnation when Christ took on a full human nature so uh in terms of things we're going to be going over here uh  
+{{% timestamp videoId="qs8tEwjUavU" time="43" display="00:43" %}} - we're going to start out just kind of giving an overview of of kind of when we're talking about appearances of God  
+{{% timestamp videoId="qs8tEwjUavU" time="48" display="00:48" %}} - what does that mean what what words do we use and we're going to be defining those words theophany and christophany  
+{{% timestamp videoId="qs8tEwjUavU" time="55" display="00:55" %}} - we're going to be talking about the invisibility of the Father the inaccessibility of the father apart from  
+{{% timestamp videoId="qs8tEwjUavU" time="61" display="01:01" %}} - Christ that's sort of like in relation to us as in the father's inaccessible to us as sinful Humanity apart from the  
+{{% timestamp videoId="qs8tEwjUavU" time="68" display="01:08" %}} - blood of Christ and then the Dignity of the father and then finally we're going to be talking about how you know in  
+{{% timestamp videoId="qs8tEwjUavU" time="75" display="01:15" %}} - contrast to these things the visibility accessibility and the humility of the son and how through him we are now able  
+{{% timestamp videoId="qs8tEwjUavU" time="83" display="01:23" %}} - to enter into the throne room of God with our prayers and once you know once the heavens and the Earth are remade the  
+{{% timestamp videoId="qs8tEwjUavU" time="90" display="01:30" %}} - father will then dwell with us but all of this is is sort of going to be talking about how the father is in the  
+{{% timestamp videoId="qs8tEwjUavU" time="97" display="01:37" %}} - third heaven at present veiled from us but we do have access to him through our Lord Jesus Christ who took on that human  
+{{% timestamp videoId="qs8tEwjUavU" time="105" display="01:45" %}} - nature to become the visible part of the trinity in God's plan for Humanity and actually um as we'll see as we go  
+{{% timestamp videoId="qs8tEwjUavU" time="113" display="01:53" %}} - through this lesson's materials uh the second person in the Trinity the son has always been the visible part of the  
+{{% timestamp videoId="qs8tEwjUavU" time="120" display="02:00" %}} - Trinity so even at the beginning of Genesis when God is walking in the garden with Adam and Eve uh some people  
+{{% timestamp videoId="qs8tEwjUavU" time="128" display="02:08" %}} - might suppose that to be the father but we're going to make the case that all of the appearances of God in the Old  
+{{% timestamp videoId="qs8tEwjUavU" time="134" display="02:14" %}} - Testament so-called theophanies are in fact christophanies that is they are appearances of the pre-incarnate Jesus  
+{{% timestamp videoId="qs8tEwjUavU" time="142" display="02:22" %}} - Christ and so we'll go over all this in more detail but these are the things that we're going to be covering in the  
+{{% timestamp videoId="qs8tEwjUavU" time="148" display="02:28" %}} - lesson this time so just starting with an overview here of where we're going to be going this  
+{{% timestamp videoId="qs8tEwjUavU" time="158" display="02:38" %}} - week we're going to be talking a bit here about the presentation of the trinity in the Old Testament and so we  
+{{% timestamp videoId="qs8tEwjUavU" time="164" display="02:44" %}} - spent some time covering all of the passages for the trinity in the New Testament and uh kind of where we get  
+{{% timestamp videoId="qs8tEwjUavU" time="171" display="02:51" %}} - the concept from all of these verses that that basically clearly presuppose the existence of the trinity um and so  
+{{% timestamp videoId="qs8tEwjUavU" time="180" display="03:00" %}} - uh We've made the point before that the Bible doesn't so much argue for it in like an apologetic sense as it just  
+{{% timestamp videoId="qs8tEwjUavU" time="186" display="03:06" %}} - takes it for granted um and we're going to be kind of examining the Old Testament perspective now uh we've  
+{{% timestamp videoId="qs8tEwjUavU" time="193" display="03:13" %}} - already been doing that some but in this specific lesson and uh the things that we're going to be talking about moving  
+{{% timestamp videoId="qs8tEwjUavU" time="198" display="03:18" %}} - forward we're going to be talking about kind of how God Appears to humanity in the Old Testament and so in terms of the  
+{{% timestamp videoId="qs8tEwjUavU" time="206" display="03:26" %}} - presentation of the Trinity uh there the difference here between the Old and New Testaments is  
+{{% timestamp videoId="qs8tEwjUavU" time="212" display="03:32" %}} - that in the New Testament Christ is clearly visible and distinct from the father while in the Old Testament the  
+{{% timestamp videoId="qs8tEwjUavU" time="218" display="03:38" %}} - father and the son can sometimes be difficult to distinguish now we're going to make the argument that they are in  
+{{% timestamp videoId="qs8tEwjUavU" time="223" display="03:43" %}} - fact distinguished and that the the appearance of God in the Old Testament are is actually the second person of the  
+{{% timestamp videoId="qs8tEwjUavU" time="230" display="03:50" %}} - Trinity but nonetheless uh you could see how old testament Believers without the benefit of that additional Revelation  
+{{% timestamp videoId="qs8tEwjUavU" time="237" display="03:57" %}} - wouldn't necessarily uh catch on to this or it wouldn't be as obvious in that way and of course the spirit is distinct as  
+{{% timestamp videoId="qs8tEwjUavU" time="244" display="04:04" %}} - well in the New Testament but you know the father and the son are really primarily the forces that we're going to  
+{{% timestamp videoId="qs8tEwjUavU" time="249" display="04:09" %}} - be talking about here uh because we know that the Spirit uh one of the characteristic defining traits of the  
+{{% timestamp videoId="qs8tEwjUavU" time="255" display="04:15" %}} - holy spirit is the fact that he is unseen he is that force that uh supports you know everything in our walks as  
+{{% timestamp videoId="qs8tEwjUavU" time="265" display="04:25" %}} - Christians so he empowers our gifts he connects us to God the Father um and our lord Jesus you know he he  
+{{% timestamp videoId="qs8tEwjUavU" time="272" display="04:32" %}} - makes us United with God through his indwelling ministry towards us and at any rate Holy Spirit kind of makes sense  
+{{% timestamp videoId="qs8tEwjUavU" time="280" display="04:40" %}} - that we aren't going to be talking of him as the seen member of the Trinity because that's kind of one of his  
+{{% timestamp videoId="qs8tEwjUavU" time="286" display="04:46" %}} - defining characteristics is that he is the Unseen member of the Trinity um so at any rate we will be kind of comparing  
+{{% timestamp videoId="qs8tEwjUavU" time="295" display="04:55" %}} - and contrasting um the the roles of the father and the son as we've already discussed them so we've made that  
+{{% timestamp videoId="qs8tEwjUavU" time="303" display="05:03" %}} - argument that the father is the representation of deity within the Trinity the one with authority and  
+{{% timestamp videoId="qs8tEwjUavU" time="310" display="05:10" %}} - majesty and and basically the the one who sends Jesus Christ as a representative uh to do his will on his  
+{{% timestamp videoId="qs8tEwjUavU" time="319" display="05:19" %}} - behalf and so that makes Jesus Christ the accessible one for us and we talked about how that is defining  
+{{% timestamp videoId="qs8tEwjUavU" time="326" display="05:26" %}} - characteristic of the second member of the Trinity is that he is the one we can see and talk to and the one who became  
+{{% timestamp videoId="qs8tEwjUavU" time="333" display="05:33" %}} - like us so that we might relate to God in this way but all of this is leading into where we're going to start this  
+{{% timestamp videoId="qs8tEwjUavU" time="341" display="05:41" %}} - time which is talking about that when we hear of God uh being seen by people in the Old Testament or appearing to  
+{{% timestamp videoId="qs8tEwjUavU" time="349" display="05:49" %}} - Believers in the Old Testament there is kind of this misconception uh even in many Christian circles so not just  
+{{% timestamp videoId="qs8tEwjUavU" time="356" display="05:56" %}} - Jewish circles so people who hold to uh Judaism and and you know don't reject Christ as the Messiah and things like  
+{{% timestamp videoId="qs8tEwjUavU" time="363" display="06:03" %}} - this but even among Christians there seems to be a large number of people that think that the visible person in  
+{{% timestamp videoId="qs8tEwjUavU" time="371" display="06:11" %}} - the Old Testament is actually God the father so when uh Moses is being given the law on Mount Si for example people  
+{{% timestamp videoId="qs8tEwjUavU" time="378" display="06:18" %}} - would think that that is the father doing that or that in the garden with Adam and Eve that that would be the  
+{{% timestamp videoId="qs8tEwjUavU" time="384" display="06:24" %}} - father and so on that that I don't know that maybe like it was God the father in old Testament but then we say it's Jesus  
+{{% timestamp videoId="qs8tEwjUavU" time="391" display="06:31" %}} - in the New Testament and that that basically like there's this switch um now one of the reasons why we can argue  
+{{% timestamp videoId="qs8tEwjUavU" time="398" display="06:38" %}} - against this almost in an intuitive sense is because of what we've gone over with the roles of the Trinity well we  
+{{% timestamp videoId="qs8tEwjUavU" time="405" display="06:45" %}} - have no indication that those actually ever shift during this time period of you know human history this time period  
+{{% timestamp videoId="qs8tEwjUavU" time="413" display="06:53" %}} - of creation that basically the father would be doing something and then the son would start doing that and the  
+{{% timestamp videoId="qs8tEwjUavU" time="419" display="06:59" %}} - father stop partway through uh the roles that we have presented to us in the Trinity are sort of seen as being static  
+{{% timestamp videoId="qs8tEwjUavU" time="427" display="07:07" %}} - um and not so much in the sense that um it's the right way to say this that like that it had to be this way we've made  
+{{% timestamp videoId="qs8tEwjUavU" time="434" display="07:14" %}} - this point that uh the the members of the Trinity chose to act as they have in perfect Unity while yet having this  
+{{% timestamp videoId="qs8tEwjUavU" time="441" display="07:21" %}} - division of responsibilities but the point is is that there is no shift between the Old  
+{{% timestamp videoId="qs8tEwjUavU" time="447" display="07:27" %}} - and New Testaments here it's not like the rules that applied before no longer apply and that's kind of the intuitive  
+{{% timestamp videoId="qs8tEwjUavU" time="456" display="07:36" %}} - uh just the way in which we would think about this so we kind of get that that feeling that maybe this idea that it was  
+{{% timestamp videoId="qs8tEwjUavU" time="463" display="07:43" %}} - the father before but now it's the sun after the Incarnation that maybe it could also be  
+{{% timestamp videoId="qs8tEwjUavU" time="469" display="07:49" %}} - the sun before because as we've argued already if the son is the representative uh sent towards Humanity he is the  
+{{% timestamp videoId="qs8tEwjUavU" time="477" display="07:57" %}} - visible member of the trinity wouldn't that role be true even before he takes on a human nature during the  
+{{% timestamp videoId="qs8tEwjUavU" time="485" display="08:05" %}} - Incarnation and so that is exactly what what we're going to be arguing here is that the father has always appeared to  
+{{% timestamp videoId="qs8tEwjUavU" time="492" display="08:12" %}} - the world through the person of his son Jesus Christ and that was in fact just as true in the Old Testament as it is in  
+{{% timestamp videoId="qs8tEwjUavU" time="500" display="08:20" %}} - the New Testament but the only difference is the manner of the father's representation of himself through the  
+{{% timestamp videoId="qs8tEwjUavU" time="506" display="08:26" %}} - son so in the New Testament and in Jesus Christ becomes visible to the world except under kosis so that means that  
+{{% timestamp videoId="qs8tEwjUavU" time="516" display="08:36" %}} - his divine nature was veiled he didn't take advantage of his full Divinity during the time of the Incarnation then  
+{{% timestamp videoId="qs8tEwjUavU" time="524" display="08:44" %}} - he was you know ascended and glorified and now he has his full Divinity and full Humanity it's not that he ever  
+{{% timestamp videoId="qs8tEwjUavU" time="530" display="08:50" %}} - stopped having his full Divinity but you know that's that Greek word you know emptying himself um of his power so that  
+{{% timestamp videoId="qs8tEwjUavU" time="538" display="08:58" %}} - he lived a life as a genuine human being you know facing all the same things we did without it being easy mode for him  
+{{% timestamp videoId="qs8tEwjUavU" time="545" display="09:05" %}} - as God but that is the New Testament the Incarnate Jesus Christ who's taken on a human nature but in the Old Testament  
+{{% timestamp videoId="qs8tEwjUavU" time="553" display="09:13" %}} - it's really not that different uh Christ also represents the father but not in incarnate bodily form and so we would  
+{{% timestamp videoId="qs8tEwjUavU" time="562" display="09:22" %}} - say that um in both cases Jesus is sent as a messenger and in fact uh the Greek word for Messengers is the one that we  
+{{% timestamp videoId="qs8tEwjUavU" time="571" display="09:31" %}} - use for Angel Angelas um is that that Greek word and in the Old Testament uh as we'll get to um when we talk about  
+{{% timestamp videoId="qs8tEwjUavU" time="579" display="09:39" %}} - these things we'll see that there is a the angel of the Lord like the definite article here um and the angel of the  
+{{% timestamp videoId="qs8tEwjUavU" time="587" display="09:47" %}} - Lord we're going to say is going to be Jesus Christ as distinct from Angels who are also representatives or Messengers  
+{{% timestamp videoId="qs8tEwjUavU" time="595" display="09:55" %}} - sent by God um you know in various times you know appearing to like Dan and other prophets and and and things like this  
+{{% timestamp videoId="qs8tEwjUavU" time="603" display="10:03" %}} - but there is only one the angel of the Lord and that is Jesus Christ and so in his in his role even before the  
+{{% timestamp videoId="qs8tEwjUavU" time="612" display="10:12" %}} - Incarnation when he took on a human nature so when Mary conceived of the Holy Spirit Jesus Took on you know a  
+{{% timestamp videoId="qs8tEwjUavU" time="621" display="10:21" %}} - bodily form you know a human nature at that point but even before that he was appearing as God's representative or  
+{{% timestamp videoId="qs8tEwjUavU" time="629" display="10:29" %}} - Emissary towards humankind um plenty of times as we'll see throughout the Old Testament this happens and we're going  
+{{% timestamp videoId="qs8tEwjUavU" time="636" display="10:36" %}} - to be saying that that's Jesus Christ not the father um and so that's the distinction that we're going to open on  
+{{% timestamp videoId="qs8tEwjUavU" time="642" display="10:42" %}} - here is that well in these places in the Old Testament where we hear mention of God appearing before Moses or Abraham  
+{{% timestamp videoId="qs8tEwjUavU" time="650" display="10:50" %}} - and things like this well which member of the Trinity is it and and how do we know and what arguments do we make to  
+{{% timestamp videoId="qs8tEwjUavU" time="656" display="10:56" %}} - support the conclusions we come to and so um just to finish off this kind of introductory bit uh we're also going to  
+{{% timestamp videoId="qs8tEwjUavU" time="665" display="11:05" %}} - talk a little bit about uh in the New Testament how we can see this distinction a little bit more clearly  
+{{% timestamp videoId="qs8tEwjUavU" time="672" display="11:12" %}} - and again we've kind of already made these points all throughout reading that scripture in the New Testament but when  
+{{% timestamp videoId="qs8tEwjUavU" time="678" display="11:18" %}} - we see something like I and the father are one so that's John chapter 10 verse3 we mentioned this verse before in  
+{{% timestamp videoId="qs8tEwjUavU" time="685" display="11:25" %}} - talking about the Trinity well you can kind of obviously see that the father and the son are not the same even though  
+{{% timestamp videoId="qs8tEwjUavU" time="693" display="11:33" %}} - they have Unity right because you know I and the father being two distinct things yet saying that they are one they share  
+{{% timestamp videoId="qs8tEwjUavU" time="703" display="11:43" %}} - that Essence I you know three persons one Essence that is the definition of the Trinity but we can also see in the  
+{{% timestamp videoId="qs8tEwjUavU" time="710" display="11:50" %}} - New Testament that Jesus Christ speaks the father's words and so just um bit earlier in the Book of John because  
+{{% timestamp videoId="qs8tEwjUavU" time="718" display="11:58" %}} - Jesus here says that he does nothing on his own initiative but he speaks these things as the father has taught him and  
+{{% timestamp videoId="qs8tEwjUavU" time="726" display="12:06" %}} - then John 14 ver 24 um the word which you hear is not mine but the fathers who sent me so we can see that there is a  
+{{% timestamp videoId="qs8tEwjUavU" time="736" display="12:16" %}} - distinction between the father and the son yet they have this perfect Unity but by way of contrast in the Old Testament  
+{{% timestamp videoId="qs8tEwjUavU" time="744" display="12:24" %}} - when God Appears you know we don't see this distinction made we don't see this uh you know we don't be because the son  
+{{% timestamp videoId="qs8tEwjUavU" time="752" display="12:32" %}} - had not taken on Humanity in his incarnate form there is no distinction in being made as to the words of God in  
+{{% timestamp videoId="qs8tEwjUavU" time="761" display="12:41" %}} - the same way and so we are arguing here that it is consistently the son who appears in the Old Testament as a  
+{{% timestamp videoId="qs8tEwjUavU" time="768" display="12:48" %}} - representative of the father still speaking the father's words that part hasn't changed but it's just in how it's  
+{{% timestamp videoId="qs8tEwjUavU" time="774" display="12:54" %}} - mentioned that it doesn't come off in quite the same way because the distinctions in the Trinity have not yet  
+{{% timestamp videoId="qs8tEwjUavU" time="781" display="13:01" %}} - been drawn for us as humans and um if you remember I believe it was immediate lesson preceding this or maybe two back  
+{{% timestamp videoId="qs8tEwjUavU" time="788" display="13:08" %}} - we talked about the idea of progressive revelation and that the Trinity was not made known to Old Testament Believers in  
+{{% timestamp videoId="qs8tEwjUavU" time="796" display="13:16" %}} - part to help keep them separate from their idolatrous Pagan neighbors so avoiding this idea of pantheons even  
+{{% timestamp videoId="qs8tEwjUavU" time="804" display="13:24" %}} - though that's not what the Trinity is you know at just keeping them even more separate and distinct as a nation state  
+{{% timestamp videoId="qs8tEwjUavU" time="811" display="13:31" %}} - among their neighbors but also more importantly we argued because you can't really understand the purpose of the  
+{{% timestamp videoId="qs8tEwjUavU" time="818" display="13:38" %}} - Trinity with respect to God's plan for human Redemption aside from the Incarnation and so all of this to say I  
+{{% timestamp videoId="qs8tEwjUavU" time="827" display="13:47" %}} - know I rambled a bit here that the way in which we see God interact with us in the Old Testament in the New Testament  
+{{% timestamp videoId="qs8tEwjUavU" time="835" display="13:55" %}} - is different in ways you know we just said here that when Jesus speaks of the father's words in the New Testament as  
+{{% timestamp videoId="qs8tEwjUavU" time="841" display="14:01" %}} - one standing before us we understand that there's a distinction between them and this is why the Trinity becomes  
+{{% timestamp videoId="qs8tEwjUavU" time="847" display="14:07" %}} - visible in the New Testament however what we are saying is that even in the Old Testament the son was still sent as  
+{{% timestamp videoId="qs8tEwjUavU" time="856" display="14:16" %}} - the representative of the father and that part didn't actually change even despite what some people might suppose  
+{{% timestamp videoId="qs8tEwjUavU" time="862" display="14:22" %}} - here so a do you have any just introductory thoughts as we're drawing this contrast between knew a bit but the  
+{{% timestamp videoId="qs8tEwjUavU" time="871" display="14:31" %}} - consistency of the son as the representative of the father yeah I was just thinking of John 1 verse 18 where  
+{{% timestamp videoId="qs8tEwjUavU" time="879" display="14:39" %}} - it said that no one has seen God yeah we have that somewhere yeah it's coming yeah so that that particular um passage  
+{{% timestamp videoId="qs8tEwjUavU" time="891" display="14:51" %}} - was in my mind while you were speaking and I was like that's actually uh a very uh deliberate  
+{{% timestamp videoId="qs8tEwjUavU" time="900" display="15:00" %}} - demonstration in the scriptures of this thing we are discussing we can see without doubt that  
+{{% timestamp videoId="qs8tEwjUavU" time="908" display="15:08" %}} - the Bible is explicit that nobody has ever seen the father so not even Adam and Eve in the garden we're hanging out  
+{{% timestamp videoId="qs8tEwjUavU" time="916" display="15:16" %}} - with the father and none of the prophets ever saw him so every time that anyone saw the Lord was  
+{{% timestamp videoId="qs8tEwjUavU" time="924" display="15:24" %}} - necessarily the second person of the Trinity that they were seeing not the father himself  
+{{% timestamp videoId="qs8tEwjUavU" time="931" display="15:31" %}} - so um that's uh what I wanted to um add into everything you said because you've covered quite a bit of  
+{{% timestamp videoId="qs8tEwjUavU" time="943" display="15:43" %}} - ground right and we in fact have an entire uh we have an entire section on this in this lesson it's coming um and  
+{{% timestamp videoId="qs8tEwjUavU" time="950" display="15:50" %}} - it's not just John 1118 there's actually lots of scriptures that make this point that Audi's making here that this thing  
+{{% timestamp videoId="qs8tEwjUavU" time="958" display="15:58" %}} - that I guess I'm saying we're arguing for here um I think about the right way to phrase it I wanted to just kind of  
+{{% timestamp videoId="qs8tEwjUavU" time="964" display="16:04" %}} - put this as a way of contrast that people say things other than this they would be incorrect because the Bible  
+{{% timestamp videoId="qs8tEwjUavU" time="970" display="16:10" %}} - clearly teaches what we're saying but we're going to be thinking in terms of evidence here and one of the strongest  
+{{% timestamp videoId="qs8tEwjUavU" time="976" display="16:16" %}} - points of evidence for this is that the Bible makes it real clear as we'll get to you know in I guess a a section or  
+{{% timestamp videoId="qs8tEwjUavU" time="983" display="16:23" %}} - two that no one has seen the father ever like it's black and white on this and if that be the case then the Christ the  
+{{% timestamp videoId="qs8tEwjUavU" time="992" display="16:32" %}} - appearances of God in the Old Testament has to be Jesus Christ because if the spirit is the Unseen person of the  
+{{% timestamp videoId="qs8tEwjUavU" time="998" display="16:38" %}} - Trinity by nature and no one sees the father on account of the current sin infesting the world well by process of  
+{{% timestamp videoId="qs8tEwjUavU" time="1006" display="16:46" %}} - elimination that only leaves Jesus Christ right in his in his pre-incarnate form and so obviously it's different  
+{{% timestamp videoId="qs8tEwjUavU" time="1013" display="16:53" %}} - before and after the Incarnation but that General sequence of logic to get us here is pretty in escap  
+{{% timestamp videoId="qs8tEwjUavU" time="1019" display="16:59" %}} - you can't have it any other way um yeah yeah all right anything else to say or shall we go ahead and move on to those  
+{{% timestamp videoId="qs8tEwjUavU" time="1028" display="17:08" %}} - other points well that's about it yeah so now we're GNA be talking about  
+{{% timestamp videoId="qs8tEwjUavU" time="1040" display="17:20" %}} - what a theophany is and what a christophy is we've been using these words a little bit already but we're  
+{{% timestamp videoId="qs8tEwjUavU" time="1046" display="17:26" %}} - going to kind of get into what they mean kind of from their atmology and and how we use them as theological terms here so  
+{{% timestamp videoId="qs8tEwjUavU" time="1054" display="17:34" %}} - the words theophany and christophany mean respectively in appearance of God that's what theophany means and so the  
+{{% timestamp videoId="qs8tEwjUavU" time="1062" display="17:42" %}} - Greek word for God is Theos um and so you can kind of see that show up here in the t h EO it's the Theo part and then  
+{{% timestamp videoId="qs8tEwjUavU" time="1072" display="17:52" %}} - uh christophany meaning an appearance of Christ and so you know we have Yus Christos in Greek is Jesus Christ and so  
+{{% timestamp videoId="qs8tEwjUavU" time="1082" display="18:02" %}} - this again you can see it kind of come out in the words here so it's pretty obvious if you know Greek because the  
+{{% timestamp videoId="qs8tEwjUavU" time="1089" display="18:09" %}} - other part of these roots comes from this verb here Fawn which when you you make this into a verb it's the verb of  
+{{% timestamp videoId="qs8tEwjUavU" time="1096" display="18:16" %}} - appearing in Greek um or being you know present or seen and so well you know a theophany is you know a seeing or an  
+{{% timestamp videoId="qs8tEwjUavU" time="1105" display="18:25" %}} - appearance of God and a christophy is a seeing or appearance of Christ right and so you know when Christ  
+{{% timestamp videoId="qs8tEwjUavU" time="1111" display="18:31" %}} - appears that's a christophany and when God Appears you know regardless of you know that is broader than Christ because  
+{{% timestamp videoId="qs8tEwjUavU" time="1117" display="18:37" %}} - there's multiple members of the Trinity we would say that's a theophonic this is that in the  
+{{% timestamp videoId="qs8tEwjUavU" time="1126" display="18:46" %}} - interpretation that we are putting forward that that the Bible teaches in my estimation of things every  
+{{% timestamp videoId="qs8tEwjUavU" time="1138" display="18:58" %}} - distinction between these and that technically you know per what the words mean and how we ought to think about it  
+{{% timestamp videoId="qs8tEwjUavU" time="1143" display="19:03" %}} - they're not the same because if you want to look at it this way in eternity there you know the father will be present with  
+{{% timestamp videoId="qs8tEwjUavU" time="1150" display="19:10" %}} - us and that would not be a christophany because the father is not Jesus Christ you know in in so much as they're not  
+{{% timestamp videoId="qs8tEwjUavU" time="1157" display="19:17" %}} - the same person in the Trinity they all share the essence as we've gone over but that would be both but whenever Jesus  
+{{% timestamp videoId="qs8tEwjUavU" time="1164" display="19:24" %}} - Christ shows up technically it is a theophany but more precisely it is a christophy which is more specific and so  
+{{% timestamp videoId="qs8tEwjUavU" time="1172" display="19:32" %}} - of all that is too confusing just think about it like this whenever we talk about God appearing and talking to  
+{{% timestamp videoId="qs8tEwjUavU" time="1179" display="19:39" %}} - someone in the Old Testament or doing something in the Old Testament the person in the Trinity who is doing that  
+{{% timestamp videoId="qs8tEwjUavU" time="1185" display="19:45" %}} - who is visible to humanity is the second person of the Trinity the son and so if you hear people talk about these things  
+{{% timestamp videoId="qs8tEwjUavU" time="1194" display="19:54" %}} - we would call those appearances christophanies so if you want to be precise when we talk about the  
+{{% timestamp videoId="qs8tEwjUavU" time="1200" display="20:00" %}} - appearance of the second person of the trinity in the Old Testament the word you would use for that if you're  
+{{% timestamp videoId="qs8tEwjUavU" time="1206" display="20:06" %}} - speaking sort of the theological jargon is christophy and you'll mostly only hear  
+{{% timestamp videoId="qs8tEwjUavU" time="1211" display="20:11" %}} - the word theophonic does not happen independent from Jesus Christ um so that is sort of  
+{{% timestamp videoId="qs8tEwjUavU" time="1221" display="20:21" %}} - how we think about this and so as Dr lug puts it here um it will be argued in biblical terms the only category of  
+{{% timestamp videoId="qs8tEwjUavU" time="1229" display="20:29" %}} - event we really need to be concerned with here is christophany for in my view all cases of theophany in the Old  
+{{% timestamp videoId="qs8tEwjUavU" time="1235" display="20:35" %}} - Testament are really christophanies that is every time God Appears to people or shows up in the Old  
+{{% timestamp videoId="qs8tEwjUavU" time="1242" display="20:42" %}} - Testament in some way we are arguing that that is Jesus Christ sent on behalf of the father as a messenger or  
+{{% timestamp videoId="qs8tEwjUavU" time="1249" display="20:49" %}} - representative because he is the visible person of the Trinity and always has been and always will be that is the role  
+{{% timestamp videoId="qs8tEwjUavU" time="1257" display="20:57" %}} - of the second member of the Trinity and so uh we should say here that what we're talking about by christophanies we're  
+{{% timestamp videoId="qs8tEwjUavU" time="1265" display="21:05" %}} - not referring to the literal physical appearance of our Lord Jesus Christ in his Humanity um that is to say when  
+{{% timestamp videoId="qs8tEwjUavU" time="1274" display="21:14" %}} - Jesus Christ was showing up in the Old Testament doing these things as the angel of the Lord with a definite  
+{{% timestamp videoId="qs8tEwjUavU" time="1280" display="21:20" %}} - article he wasn't a human being yet he hadn't yet taken on a human nature that happened during the Incarnation and that  
+{{% timestamp videoId="qs8tEwjUavU" time="1288" display="21:28" %}} - happened once it's not like Jesus continuously took on a human nature or became a human multiple times or  
+{{% timestamp videoId="qs8tEwjUavU" time="1293" display="21:33" %}} - anything like that is Jesus Christ as the second person of the Trinity was appearing even before he had a human  
+{{% timestamp videoId="qs8tEwjUavU" time="1300" display="21:40" %}} - nature so-called pre-incarnate appearances of Jesus Christ and so again we're not referring to the literal  
+{{% timestamp videoId="qs8tEwjUavU" time="1308" display="21:48" %}} - physical appearance of our Lord Jesus Christ in his Humanity because that didn't happen in until the  
+{{% timestamp videoId="qs8tEwjUavU" time="1315" display="21:55" %}} - Incarnation and Christ has not yet appeared appeared in temporary kristofic form um so uh what we're getting at here  
+{{% timestamp videoId="qs8tEwjUavU" time="1324" display="22:04" %}} - also actually and this is an important Point too is uh you'll hear Dr lugan Bill talk about how there kind of isn't  
+{{% timestamp videoId="qs8tEwjUavU" time="1330" display="22:10" %}} - any unfulfilled Prophecy in the church age and so a people run around saying that they saw Jesus like now as in 2000  
+{{% timestamp videoId="qs8tEwjUavU" time="1340" display="22:20" %}} - something um years after the cross and you know Jesus appeared to me and Jesus did this and Jesus did that or you know  
+{{% timestamp videoId="qs8tEwjUavU" time="1346" display="22:26" %}} - maybe more typically Jesus will appear and then there'll be a Rapture and then somehow he disappears again until the  
+{{% timestamp videoId="qs8tEwjUavU" time="1352" display="22:32" %}} - end of Revelation you know that so-called false doctrine of the pre-tribulation Rapture is a more common  
+{{% timestamp videoId="qs8tEwjUavU" time="1358" display="22:38" %}} - teaching um that in fact there's actually going to be one more appearance of Jesus Christ you know what he will  
+{{% timestamp videoId="qs8tEwjUavU" time="1365" display="22:45" %}} - become present with us that Greek parsible perusia there um well at any rate not to get off topic here but the  
+{{% timestamp videoId="qs8tEwjUavU" time="1374" display="22:54" %}} - christophanies we're talking about are not referring to you know Jesus Christ in a human nature but the pre-incarnate  
+{{% timestamp videoId="qs8tEwjUavU" time="1380" display="23:00" %}} - second member of the Trinity um and so the position here that all Old Testament appearances of God are in reality  
+{{% timestamp videoId="qs8tEwjUavU" time="1388" display="23:08" %}} - appearances of Christ does not actually rule out the possibility for uh prophets seeing the father um and so you'll say  
+{{% timestamp videoId="qs8tEwjUavU" time="1398" display="23:18" %}} - well okay Stephen isn't that a contradiction well not really because it isn't so much a physical manifestation  
+{{% timestamp videoId="qs8tEwjUavU" time="1404" display="23:24" %}} - of the father so the the words Dr Lugano used for this an ostensibly corporeal appearance on earth right if you want to  
+{{% timestamp videoId="qs8tEwjUavU" time="1412" display="23:32" %}} - use that phrase um but uh these prophets saw the father through dreams or visions um and uh I don't know if you remember  
+{{% timestamp videoId="qs8tEwjUavU" time="1422" display="23:42" %}} - uh we kind of talked a bit before about you know like being in the presence of the father and if Isaiah or Daniel or  
+{{% timestamp videoId="qs8tEwjUavU" time="1429" display="23:49" %}} - one of the other Major Prophets was taken and and saw the throne room of God or even saw things happening in the  
+{{% timestamp videoId="qs8tEwjUavU" time="1437" display="23:57" %}} - future and prophecy well were they just given a vision of the future or were they basically like if you view time as  
+{{% timestamp videoId="qs8tEwjUavU" time="1444" display="24:04" %}} - a linear stream were they picked up and dumped in a different point in the Stream like were was their existence in  
+{{% timestamp videoId="qs8tEwjUavU" time="1451" display="24:11" %}} - time actually shifted did they jump forward in time well we don't know any of this nor does it really matter for  
+{{% timestamp videoId="qs8tEwjUavU" time="1457" display="24:17" %}} - the purposes of you know understanding that they were given to see something that would happen in the future so they  
+{{% timestamp videoId="qs8tEwjUavU" time="1463" display="24:23" %}} - could record it for our benefit but in the same way here when these prophets see the father in Visions we're not  
+{{% timestamp videoId="qs8tEwjUavU" time="1470" display="24:30" %}} - violating this principle that we're we're setting out here as in it wasn't an appearance of the father before  
+{{% timestamp videoId="qs8tEwjUavU" time="1476" display="24:36" %}} - Humanity in the same way that Jesus Christ in his pre-incarnate form appeared before Humanity because it's  
+{{% timestamp videoId="qs8tEwjUavU" time="1483" display="24:43" %}} - not the father you know somehow on Earth appearing physically before people it is seeing visions of the father or seeing  
+{{% timestamp videoId="qs8tEwjUavU" time="1491" display="24:51" %}} - the likeness of the father in this prophetic State and uh that is just a sort of it's a different thing  
+{{% timestamp videoId="qs8tEwjUavU" time="1498" display="24:58" %}} - um and so one of the examples that that is kind of an obvious one to look at here is in jiel Daniel chapter 7 um  
+{{% timestamp videoId="qs8tEwjUavU" time="1507" display="25:07" %}} - which is where we see the son of man presented Before the Throne and so this is Daniel chapter 7: 13- 14 says I kept  
+{{% timestamp videoId="qs8tEwjUavU" time="1515" display="25:15" %}} - looking in the night visions and behold with the Clouds Of Heaven one like a son of man was coming and he came up to the  
+{{% timestamp videoId="qs8tEwjUavU" time="1521" display="25:21" %}} - Ancient of Days and was presented before him and to him was given Dominion glory and a kingdom that all the peoples  
+{{% timestamp videoId="qs8tEwjUavU" time="1529" display="25:29" %}} - Nations and Men of every language might serve him his Dominion is an everlasting Dominion which will not pass away and  
+{{% timestamp videoId="qs8tEwjUavU" time="1535" display="25:35" %}} - his kingdom is one which will not be destroyed so the presentation of the son of man to the Ancient of Days you know  
+{{% timestamp videoId="qs8tEwjUavU" time="1544" display="25:44" %}} - well if Daniel sees you know Jesus Christ who is the son of man coming Before the Throne of God the Father who  
+{{% timestamp videoId="qs8tEwjUavU" time="1552" display="25:52" %}} - is the Ancient of Days In this passage then he saw God the father in this Vision um but that isn't kind of running  
+{{% timestamp videoId="qs8tEwjUavU" time="1559" display="25:59" %}} - contrary to what we have been uh kind what we've been setting forth here that the appearances of God in the Old  
+{{% timestamp videoId="qs8tEwjUavU" time="1568" display="26:08" %}} - Testament are kind of uniformly christophanies because the prophetic appearances of God uh you know like  
+{{% timestamp videoId="qs8tEwjUavU" time="1575" display="26:15" %}} - seeing God or the third heaven in Visions it's just not the same thing really so with that Audi is there is  
+{{% timestamp videoId="qs8tEwjUavU" time="1583" display="26:23" %}} - there anything you want to contribute about the difference between theophany and christophy we talk about it and what  
+{{% timestamp videoId="qs8tEwjUavU" time="1590" display="26:30" %}} - the words mean and what they don't mean just so that we're making sure that we have the uh the meanings nailed down  
+{{% timestamp videoId="qs8tEwjUavU" time="1595" display="26:35" %}} - here before we move on so not much really uh just that first of  
+{{% timestamp videoId="qs8tEwjUavU" time="1604" display="26:44" %}} - all the a theophany christophany they necessarily mean appearances of of God and Christ uh  
+{{% timestamp videoId="qs8tEwjUavU" time="1614" display="26:54" %}} - respectively um prior to uh his Incarnation his Incarnation was [Music]  
+{{% timestamp videoId="qs8tEwjUavU" time="1623" display="27:03" %}} - necessarily uh not just an appearing an a a a showing of himself visibly or visually to people but he actually  
+{{% timestamp videoId="qs8tEwjUavU" time="1632" display="27:12" %}} - became human and entered the The Human Experience so those that's a pretty big difference  
+{{% timestamp videoId="qs8tEwjUavU" time="1640" display="27:20" %}} - in other words the way he was uh when he was appearing before he um was born by the Virgin  
+{{% timestamp videoId="qs8tEwjUavU" time="1651" display="27:31" %}} - Mary um was not the way he was after he was born  
+{{% timestamp videoId="qs8tEwjUavU" time="1658" display="27:38" %}} - those are two different things really um and just I I I think it's it's already established that every theop was  
+{{% timestamp videoId="qs8tEwjUavU" time="1669" display="27:49" %}} - necessarily A christophy so I'm not really sure that there is much of a difference to make except to probably  
+{{% timestamp videoId="qs8tEwjUavU" time="1676" display="27:56" %}} - note that uh much of the time the Lord Jesus was appearing on behalf of the Father which is why we talk about the  
+{{% timestamp videoId="qs8tEwjUavU" time="1682" display="28:02" %}} - theophany which necessarily means he was um he was he was uh coming to the world to speak for the father to act for the  
+{{% timestamp videoId="qs8tEwjUavU" time="1693" display="28:13" %}} - father so that the focus is is on the father rather than on himself you know so I I think it's useful to have draw  
+{{% timestamp videoId="qs8tEwjUavU" time="1701" display="28:21" %}} - the distinction between these two particular terms to note that Jesus Christ is the member of the Trinity  
+{{% timestamp videoId="qs8tEwjUavU" time="1706" display="28:26" %}} - coming but you could could use [Music] theophelis opony too You' never be wrong  
+{{% timestamp videoId="qs8tEwjUavU" time="1724" display="28:44" %}} - but you're you're kind of contrasting the fact that it's God himself as opposed to an Angel um which happened  
+{{% timestamp videoId="qs8tEwjUavU" time="1731" display="28:51" %}} - plenty in the Old Testament as well and in that case using theop is you know it's always technically correct but you  
+{{% timestamp videoId="qs8tEwjUavU" time="1737" display="28:57" %}} - would use it as opposed to it being just an angel or you know even a prophet sent as a representative of God rather it's  
+{{% timestamp videoId="qs8tEwjUavU" time="1745" display="29:05" %}} - God himself yeah that that actually puts me in mind of when uh God said to Moses uh my angel  
+{{% timestamp videoId="qs8tEwjUavU" time="1756" display="29:16" %}} - will go with you and do not provoke him because my name is in him so clearly he was talking about this is not just any  
+{{% timestamp videoId="qs8tEwjUavU" time="1764" display="29:24" %}} - Angel this one is like me you know so he's he's like like you said even in the Hebrew the word for Angel is literally  
+{{% timestamp videoId="qs8tEwjUavU" time="1775" display="29:35" %}} - the word messenger there so he was essentially saying my Messenger will go with you and he has my Essence in him he  
+{{% timestamp videoId="qs8tEwjUavU" time="1784" display="29:44" %}} - is like me he he's he is the same as me so to speak that's what the whole name and me thing meant so when I think about  
+{{% timestamp videoId="qs8tEwjUavU" time="1795" display="29:55" %}} - theany that's a very solid point to make that um we use it to make a difference  
+{{% timestamp videoId="qs8tEwjUavU" time="1801" display="30:01" %}} - between when it's actually an angel uh that is one of the creatures showing up and when it is the Lord  
+{{% timestamp videoId="qs8tEwjUavU" time="1808" display="30:08" %}} - himself uh the the other point that I I thought was uh that that I thought was necessary to make I I think you may have  
+{{% timestamp videoId="qs8tEwjUavU" time="1817" display="30:17" %}} - already made it uh was that um when when Jesus was appearing uh he I don't think that we  
+{{% timestamp videoId="qs8tEwjUavU" time="1826" display="30:26" %}} - will have any examples of when he appeared for his own sake but I think the vast majority of his appearances  
+{{% timestamp videoId="qs8tEwjUavU" time="1834" display="30:34" %}} - were actually on behalf of the father if not all of them really so the when we speak of these are not words that I that  
+{{% timestamp videoId="qs8tEwjUavU" time="1843" display="30:43" %}} - I'm conscious of as being part of the Bible I trust that you would know that better than me uh going by the Greek and  
+{{% timestamp videoId="qs8tEwjUavU" time="1851" display="30:51" %}} - the Hebrew um stepen but my thinking is when we use when when we make a difference between theophany and  
+{{% timestamp videoId="qs8tEwjUavU" time="1860" display="31:00" %}} - christophany one of the reasons for that would be that the theophany keep keeps the using the term theophany keeps the  
+{{% timestamp videoId="qs8tEwjUavU" time="1868" display="31:08" %}} - the focus on the father that this is actually um a showing up in the world on his behalf we use christophany to point  
+{{% timestamp videoId="qs8tEwjUavU" time="1878" display="31:18" %}} - out that this appearance of God is actually the appearance of Jesus Christ himself on behalf of the father so  
+{{% timestamp videoId="qs8tEwjUavU" time="1887" display="31:27" %}} - that's um that's one of the things that I thought would be yeah I mean they they have  
+{{% timestamp videoId="qs8tEwjUavU" time="1895" display="31:35" %}} - different overtones different connotations and yeah it's not like using theophany of Jesus Christ is  
+{{% timestamp videoId="qs8tEwjUavU" time="1900" display="31:40" %}} - incorrect in any way it's just that the thing to argue against and um I we kind of kicked it until like the third set of  
+{{% timestamp videoId="qs8tEwjUavU" time="1909" display="31:49" %}} - slides so we'll get to this next I promise is that it has to be Jesus Christ actually this isn't optional this  
+{{% timestamp videoId="qs8tEwjUavU" time="1914" display="31:54" %}} - isn't just a oh you know maybe it's this or maybe it's that is black and white it positively must be Jesus Christ as the  
+{{% timestamp videoId="qs8tEwjUavU" time="1921" display="32:01" %}} - one appearing and so just depending on your audience depending on people I you know you can use any of these words  
+{{% timestamp videoId="qs8tEwjUavU" time="1928" display="32:08" %}} - they're all technically correct they all have different kind of conita overtones too I me again I think like we've said  
+{{% timestamp videoId="qs8tEwjUavU" time="1935" display="32:15" %}} - it kind of depends what you're talking about if you want to say it's God not an angel theophany kind of does that  
+{{% timestamp videoId="qs8tEwjUavU" time="1941" display="32:21" %}} - because you're emphasizing God you know Theos if you want to emphasize it's Christ not the father you'd use  
+{{% timestamp videoId="qs8tEwjUavU" time="1946" display="32:26" %}} - christophany um but yeah yeah so that's what the words mean and that's hopefully now it kind of  
+{{% timestamp videoId="qs8tEwjUavU" time="1954" display="32:34" %}} - makes sense when we say you know all appearances of God in the Old Testament are  
+{{% timestamp videoId="qs8tEwjUavU" time="1959" display="32:39" %}} - christophanies like you don't wonder what that means anymore that was kind of the goal of this particular section in  
+{{% timestamp videoId="qs8tEwjUavU" time="1966" display="32:46" %}} - the lesson um yes so that is the statement we're making that is kind of the purpose of this particular lesson in  
+{{% timestamp videoId="qs8tEwjUavU" time="1972" display="32:52" %}} - the series is that all appearances of God in the Old Testament are christophanies in one sentence form  
+{{% timestamp videoId="qs8tEwjUavU" time="1978" display="32:58" %}} - that's what we're trying to get at um but this was hopefully helping toine terms so that that makes some sense  
+{{% timestamp videoId="qs8tEwjUavU" time="1989" display="33:09" %}} - um all right so we're finally going to get to this topic we've kind of already danced around a little bit here in our  
+{{% timestamp videoId="qs8tEwjUavU" time="1995" display="33:15" %}} - discussion and that is the invisibility of the father or the unapproachable of the father his separation from the world  
+{{% timestamp videoId="qs8tEwjUavU" time="2004" display="33:24" %}} - and so this is entirely the reason why we know all pre- Incarnation appearances of God  
+{{% timestamp videoId="qs8tEwjUavU" time="2011" display="33:31" %}} - still have to be Jesus Christ because if the father is the representation of deity and he's behind the veil that has  
+{{% timestamp videoId="qs8tEwjUavU" time="2018" display="33:38" %}} - stayed consistent all throughout the entire the all all the times in the Bible in fact ever since Satan's  
+{{% timestamp videoId="qs8tEwjUavU" time="2024" display="33:44" %}} - Rebellion God has always been separate from humanity and this is why it's true to say that no one has seen the father  
+{{% timestamp videoId="qs8tEwjUavU" time="2031" display="33:51" %}} - ever as a human being you know until we go to be in his presence in the third heaven but we're talking about like  
+{{% timestamp videoId="qs8tEwjUavU" time="2036" display="33:56" %}} - living human beings no one has ever seen the father and if that is true then the appearances of God in the Old Testament  
+{{% timestamp videoId="qs8tEwjUavU" time="2043" display="34:03" %}} - can't be the father QED um that's basically how we know for certain that all theophanies had to be christophanies  
+{{% timestamp videoId="qs8tEwjUavU" time="2051" display="34:11" %}} - that all appearances of God in the Old Testament had to be the son not the father because the Bible says that no  
+{{% timestamp videoId="qs8tEwjUavU" time="2057" display="34:17" %}} - one has seen the father so it really is that simple we don't want to make it more complicated than that because it's  
+{{% timestamp videoId="qs8tEwjUavU" time="2062" display="34:22" %}} - not so but simply until we go to heaven you know that is the third heaven we will not see the father till we die till  
+{{% timestamp videoId="qs8tEwjUavU" time="2070" display="34:30" %}} - we're on the other side we will never see the father not when we inhabit our current bodies of sin so we know that  
+{{% timestamp videoId="qs8tEwjUavU" time="2077" display="34:37" %}} - the father is Not Invisible to the angels for they constantly see the face of my Father in Heaven that's a quote  
+{{% timestamp videoId="qs8tEwjUavU" time="2083" display="34:43" %}} - from Matthew 18:1 so this is Jesus saying don't despise the the little ones the children  
+{{% timestamp videoId="qs8tEwjUavU" time="2089" display="34:49" %}} - for I say to you that their angels in heaven continually see the face of my father who is in heaven so angels can go  
+{{% timestamp videoId="qs8tEwjUavU" time="2096" display="34:56" %}} - to and fro from the Third Heaven which is positionally a different place from the cosmos um but we human beings do not  
+{{% timestamp videoId="qs8tEwjUavU" time="2105" display="35:05" %}} - and so Angels see God Believers in the third heaven see God the father but for us on Earth presently inhabiting this  
+{{% timestamp videoId="qs8tEwjUavU" time="2113" display="35:13" %}} - this Cosmos Satan's World System still Infested by sin after the fall and and more moreover we have sinful bodies and  
+{{% timestamp videoId="qs8tEwjUavU" time="2121" display="35:21" %}} - we have the sin nature within us we do not see the father um and so notice even in this passage here that God is our  
+{{% timestamp videoId="qs8tEwjUavU" time="2129" display="35:29" %}} - heavenly father and so when we are taught how to pray you know in the in the The Lord's Prayer here we have our  
+{{% timestamp videoId="qs8tEwjUavU" time="2137" display="35:37" %}} - father who is in heaven as in Our Father who is not on earth right um and so pretty clear and then Matthew chapter 6  
+{{% timestamp videoId="qs8tEwjUavU" time="2146" display="35:46" %}} - verse 26 so your heavenly father feeds them right you know as contracted with our Earthly fathers but the point is God  
+{{% timestamp videoId="qs8tEwjUavU" time="2154" display="35:54" %}} - the Father positionally resides in heaven um and so as long as the Earthly  
+{{% timestamp videoId="qs8tEwjUavU" time="2160" display="36:00" %}} - conflict between his wouldbe usurper so Satan who wants to sit on the throne of God and his designated Regent who is  
+{{% timestamp videoId="qs8tEwjUavU" time="2168" display="36:08" %}} - Jesus Christ still rages in heaven God remains for his Majesty's sake speaking and working his  
+{{% timestamp videoId="qs8tEwjUavU" time="2176" display="36:16" %}} - will through his servant Jesus Christ so Jesus is sent as a representative of God it's not like God is sitting aloof from  
+{{% timestamp videoId="qs8tEwjUavU" time="2184" display="36:24" %}} - creation that is a point of view that many so-called theists or deists um had throughout history you know some of the  
+{{% timestamp videoId="qs8tEwjUavU" time="2192" display="36:32" %}} - founding fathers ascribe to such a belief that you know basically God made creation wound it up like a clock and  
+{{% timestamp videoId="qs8tEwjUavU" time="2198" display="36:38" %}} - now he doesn't do anything he just sort of watches it um well that is not how God operates because He sent Jesus  
+{{% timestamp videoId="qs8tEwjUavU" time="2204" display="36:44" %}} - Christ into the world as his representative he is does it's not like he he stands aloof from creation it  
+{{% timestamp videoId="qs8tEwjUavU" time="2210" display="36:50" %}} - doesn't interact or doesn't have plans or isn't working things out perfectly so at any rate in until the final victory  
+{{% timestamp videoId="qs8tEwjUavU" time="2219" display="36:59" %}} - until Jesus Christ completely conquers the world makes all of God's enemies you know uh as a foot stol under his feet um  
+{{% timestamp videoId="qs8tEwjUavU" time="2229" display="37:09" %}} - only then and in fact until the universe is completely wiped away and remade only then will the father come to the new  
+{{% timestamp videoId="qs8tEwjUavU" time="2236" display="37:16" %}} - Earth to make his Abode with us forever so until that time which positionally isn't even in the Millennium it's after  
+{{% timestamp videoId="qs8tEwjUavU" time="2244" display="37:24" %}} - human history it's after the end of time if you want to think about it like that creation of the new Heavens the new  
+{{% timestamp videoId="qs8tEwjUavU" time="2249" display="37:29" %}} - Earth uh everything is destroyed and remade yet without sin without pain without tears until then the father  
+{{% timestamp videoId="qs8tEwjUavU" time="2257" display="37:37" %}} - though acting and speaking through his representative Jesus Christ will yet remain invisible to humanity um and so  
+{{% timestamp videoId="qs8tEwjUavU" time="2265" display="37:45" %}} - this point we're making and we're going to read a bunch of passages now that's the rest of what we're going to talk  
+{{% timestamp videoId="qs8tEwjUavU" time="2269" display="37:49" %}} - about this is not a negotiable point this isn't something that you get to argue it's not like some theologians  
+{{% timestamp videoId="qs8tEwjUavU" time="2275" display="37:55" %}} - think this some theologians think this or I mean if they do they're wrong but the Bible says this straight up many  
+{{% timestamp videoId="qs8tEwjUavU" time="2281" display="38:01" %}} - places and so we're going to go read that now so a whole bunch of passages here starting in the Old Testament  
+{{% timestamp videoId="qs8tEwjUavU" time="2288" display="38:08" %}} - Exodus 33 verse 20 um but he said he being God you cannot see my face for a man may not see my face and  
+{{% timestamp videoId="qs8tEwjUavU" time="2298" display="38:18" %}} - live so straightforward enough we've already talked about this I think almost in the very first lesson of this entire  
+{{% timestamp videoId="qs8tEwjUavU" time="2305" display="38:25" %}} - Series in theology proper talking about the unapproached light so we talked about how the father  
+{{% timestamp videoId="qs8tEwjUavU" time="2310" display="38:30" %}} - is the one in that and in fact we're going to read that verse I think that's 1 Timothy chapter 6 um but you cannot  
+{{% timestamp videoId="qs8tEwjUavU" time="2316" display="38:36" %}} - see my face and live well obviously Moses did see whoever was there right um but who is being spoken of here it's the  
+{{% timestamp videoId="qs8tEwjUavU" time="2325" display="38:45" %}} - Father the father as the representation of deity um Isaiah chter 45:15 surely you are a God who hides  
+{{% timestamp videoId="qs8tEwjUavU" time="2334" display="38:54" %}} - himself you know except we have a appearances of God in the Old Testament so who is being spoken of here it has to  
+{{% timestamp videoId="qs8tEwjUavU" time="2340" display="39:00" %}} - be the father uh John 1:8 this is the one that AI mentioned a couple sections back says  
+{{% timestamp videoId="qs8tEwjUavU" time="2348" display="39:08" %}} - no one has ever seen God ever you know except people saw you know one member of the trinity in the Old Testament so has  
+{{% timestamp videoId="qs8tEwjUavU" time="2356" display="39:16" %}} - to be speaking of a particular member of the Trinity right no one has ever seen God God the only son the one who has  
+{{% timestamp videoId="qs8tEwjUavU" time="2363" display="39:23" %}} - always been at the father's side he has made him known that is the son has made the father known no one has ever seen  
+{{% timestamp videoId="qs8tEwjUavU" time="2371" display="39:31" %}} - the father it's what 1 John 1:18 says uh John chapter 6 verse 46 not that anyone has seen the father except he the son  
+{{% timestamp videoId="qs8tEwjUavU" time="2380" display="39:40" %}} - who has always been with the father he has seen the father I mean you can't say it more  
+{{% timestamp videoId="qs8tEwjUavU" time="2386" display="39:46" %}} - clearly than this right that's John 6:46 then this verse I mentioned the unapproachable light that's first  
+{{% timestamp videoId="qs8tEwjUavU" time="2391" display="39:51" %}} - Timothy 6:16 he the father who alone possesses immortality dwelling in unapproachable  
+{{% timestamp videoId="qs8tEwjUavU" time="2398" display="39:58" %}} - light whom no man has ever seen nor can see it's the same thing and then 1 John chap 4:12 no one has ever seen God so  
+{{% timestamp videoId="qs8tEwjUavU" time="2411" display="40:11" %}} - implied the father there and as I say we have seen God we have seen a member of the Trinity visible before us in the Old  
+{{% timestamp videoId="qs8tEwjUavU" time="2419" display="40:19" %}} - Testament Humanity has and of course Jesus was visible during the Incarnation so it's not that no one has seen God but  
+{{% timestamp videoId="qs8tEwjUavU" time="2425" display="40:25" %}} - when these verses say no one has ever seen God God you have to put in Brackets there imply the father because as  
+{{% timestamp videoId="qs8tEwjUavU" time="2431" display="40:31" %}} - several of these verses like John 1:18 and John 6 verse 46 make real clear that it is specifically the father who no man  
+{{% timestamp videoId="qs8tEwjUavU" time="2440" display="40:40" %}} - has ever seen and because of this this is why you can't say that the appearances of God in the Old Testament  
+{{% timestamp videoId="qs8tEwjUavU" time="2446" display="40:46" %}} - were the father because well I mean all these other verses say that no man's ever seen the father so if it was the  
+{{% timestamp videoId="qs8tEwjUavU" time="2452" display="40:52" %}} - father ding ding ding contradiction right and this is why we know the Bible doesn't contradict itself there is no  
+{{% timestamp videoId="qs8tEwjUavU" time="2459" display="40:59" %}} - way that the appearances of God in the Old Testament could be the father they have to be the son for that reason  
+{{% timestamp videoId="qs8tEwjUavU" time="2467" display="41:07" %}} - um so I really think it's that straightforward um I you know the argument is not supposed to be  
+{{% timestamp videoId="qs8tEwjUavU" time="2473" display="41:13" %}} - complicated here but nonetheless it's just important for us to emphasize so a you have any points to add to this I was  
+{{% timestamp videoId="qs8tEwjUavU" time="2481" display="41:21" %}} - just thinking how this is such a powerful reputation of everything it people have said about how the Trinity  
+{{% timestamp videoId="qs8tEwjUavU" time="2490" display="41:30" %}} - is not is not a Biblical Doctrine I mean how do you reconcile this with everything else we see in the scriptures  
+{{% timestamp videoId="qs8tEwjUavU" time="2499" display="41:39" %}} - but it's absolutely true that's what we're talking about how and like you said this is the sort of thing you don't  
+{{% timestamp videoId="qs8tEwjUavU" time="2506" display="41:46" %}} - particularly need to be taught you can read it from the scriptures yourself and they're fairly straightforward you can  
+{{% timestamp videoId="qs8tEwjUavU" time="2511" display="41:51" %}} - actually understand it you know when you read the Bible that in fact God has been seen several times in fact in Exodus it  
+{{% timestamp videoId="qs8tEwjUavU" time="2520" display="42:00" %}} - said that the elders um saw God there was a they they saw a pavement under his feet and a  
+{{% timestamp videoId="qs8tEwjUavU" time="2531" display="42:11" %}} - throne above it that's it was describing exactly what they saw and it stated very clearly that they saw God and then we  
+{{% timestamp videoId="qs8tEwjUavU" time="2539" display="42:19" %}} - come to John and he declares without mincing words there is no no qualification no one has ever seen God  
+{{% timestamp videoId="qs8tEwjUavU" time="2546" display="42:26" %}} - so either you get that to mean that they saw someone who was God but no one has  
+{{% timestamp videoId="qs8tEwjUavU" time="2553" display="42:33" %}} - seen a certain other person who is God or you can decide that the Bible is contradictory which simply means you  
+{{% timestamp videoId="qs8tEwjUavU" time="2562" display="42:42" %}} - don't believe what the Bible says you know so but we are believers we take the Bible to be true so if it says these  
+{{% timestamp videoId="qs8tEwjUavU" time="2569" display="42:49" %}} - things then these things are true so uh I I was particularly impressed too by the fact that it is the  
+{{% timestamp videoId="qs8tEwjUavU" time="2577" display="42:57" %}} - Lord's Majesty essentially his saying this is beneath me that I should stoop so low as to be engaging with my  
+{{% timestamp videoId="qs8tEwjUavU" time="2587" display="43:07" %}} - creature in this war because he wants to overthrow me so to speak so the Lord says somebody will go and speak for me  
+{{% timestamp videoId="qs8tEwjUavU" time="2597" display="43:17" %}} - someone who will act so to speak on this person's level and and that this is yet another way that we should understand  
+{{% timestamp videoId="qs8tEwjUavU" time="2604" display="43:24" %}} - the incredible sacrifice of the Lord Jesus for us because to to take Satan on he took  
+{{% timestamp videoId="qs8tEwjUavU" time="2610" display="43:30" %}} - Satan on as the servant of the father not in his capacity as God that's a very big deal that's a huge deal well think  
+{{% timestamp videoId="qs8tEwjUavU" time="2619" display="43:39" %}} - of it as the delegated authority of a general is different than the authority ofing exactly basically the king saying  
+{{% timestamp videoId="qs8tEwjUavU" time="2628" display="43:48" %}} - is yeah it's basically the king saying it's too little for me to you you come into a man's home and and his little boy  
+{{% timestamp videoId="qs8tEwjUavU" time="2639" display="43:59" %}} - is making all these noises and it's like no I'm not going to deal with you here's your your your kid brother he will deal  
+{{% timestamp videoId="qs8tEwjUavU" time="2646" display="44:06" %}} - with you that sort of thing because essentially that's what that's what the Lord did by sending Jesus as a human  
+{{% timestamp videoId="qs8tEwjUavU" time="2653" display="44:13" %}} - being human beings are supposed to be below the angels and they were so that's a really really big deal and then we see  
+{{% timestamp videoId="qs8tEwjUavU" time="2661" display="44:21" %}} - that every time and this is also why a lot of people get confused about the the deity of the Lord Jesus Jesus Christ  
+{{% timestamp videoId="qs8tEwjUavU" time="2667" display="44:27" %}} - because throughout the the Old Testament even when he shows up as God you see him speaking in ways that would seem to  
+{{% timestamp videoId="qs8tEwjUavU" time="2676" display="44:36" %}} - suggest that he he forgets that he is God for example the the the passage that should by now be very popularly  
+{{% timestamp videoId="qs8tEwjUavU" time="2684" display="44:44" %}} - associated with me Zechariah 2 I believe verse 9 where it said um the the the the Lord God says  
+{{% timestamp videoId="qs8tEwjUavU" time="2693" display="44:53" %}} - that the Lord God has sent me and it's like well you the Lord God why are you being sent by the Lord God that sort of  
+{{% timestamp videoId="qs8tEwjUavU" time="2700" display="45:00" %}} - thing it's common enough in the Old Testament to tell us the humility of the Lord Jesus the fact that he just he he  
+{{% timestamp videoId="qs8tEwjUavU" time="2709" display="45:09" %}} - took on a role that if if it were any of us would probably say I'm not going to do that that's beneath me to do that and  
+{{% timestamp videoId="qs8tEwjUavU" time="2717" display="45:17" %}} - yet it was in doing so that he rescued us so yeah um the Bible is actually absolutely clear that  
+{{% timestamp videoId="qs8tEwjUavU" time="2727" display="45:27" %}} - uh all theophanies that we have in the Bible are necessarily christophanies I mean I just want to  
+{{% timestamp videoId="qs8tEwjUavU" time="2735" display="45:35" %}} - Riff on a little bit you we were talking about Jesus being sent as the servants to deal with Satan part of this is that  
+{{% timestamp videoId="qs8tEwjUavU" time="2742" display="45:42" %}} - God is going to redeem that position that Satan threw away right Satan's trying to usurp the Throne of God in the  
+{{% timestamp videoId="qs8tEwjUavU" time="2750" display="45:50" %}} - universe but Jesus Christ is going to redeem the throne at the right hand right um  
+{{% timestamp videoId="qs8tEwjUavU" time="2757" display="45:57" %}} - Satan was Lucifer lightbringer the person who warded off Evil Jesus Christ is the Morning Star right so but he is  
+{{% timestamp videoId="qs8tEwjUavU" time="2767" display="46:07" %}} - the true Morning Star if you want to view it this way and so God is redeeming that which was thrown away without a  
+{{% timestamp videoId="qs8tEwjUavU" time="2774" display="46:14" %}} - second thought right and so when we view Jesus Christ God is reclaiming that which was lost with the fall um it's  
+{{% timestamp videoId="qs8tEwjUavU" time="2782" display="46:22" %}} - really powerful stuff because we understand that that Jesus's identity is entirely his  
+{{% timestamp videoId="qs8tEwjUavU" time="2788" display="46:28" %}} - existence is tailor made to refute Satan's entire platform right that yeah you know Satan's trying to usurp that  
+{{% timestamp videoId="qs8tEwjUavU" time="2797" display="46:37" %}} - position of authority and Jesus Christ willingly basically makes himself sub subservient to the father to demonstrate  
+{{% timestamp videoId="qs8tEwjUavU" time="2804" display="46:44" %}} - his glory they're opposites right but it's the second one that actually you know truly is the Redemption of that  
+{{% timestamp videoId="qs8tEwjUavU" time="2813" display="46:53" %}} - position in creation um yeah so you know like this is why you know and and all of this feeds into itself right and I I  
+{{% timestamp videoId="qs8tEwjUavU" time="2823" display="47:03" %}} - also think that it's important to just to emphasize that it's not like the father arbitrarily made the decision to  
+{{% timestamp videoId="qs8tEwjUavU" time="2829" display="47:09" %}} - be separate from Creation in this way right it has a reason that reason is named sin um God's glory and majesty and  
+{{% timestamp videoId="qs8tEwjUavU" time="2837" display="47:17" %}} - Authority you know as we'll get to in the other sections is that it these things render him completely separate  
+{{% timestamp videoId="qs8tEwjUavU" time="2846" display="47:26" %}} - from that's the reason it's not that BS things it does clearly John 646 John  
+{{% timestamp videoId="qs8tEwjUavU" time="2857" display="47:37" %}} - chapter 1 ver8 probably the two clearest passages among the list we just read here but if you can't just take that  
+{{% timestamp videoId="qs8tEwjUavU" time="2864" display="47:44" %}} - well logic wise we'll see real soon how the father is just inherently inaccessible to us like biological  
+{{% timestamp videoId="qs8tEwjUavU" time="2873" display="47:53" %}} - necessity like so even if the Bible didn't say this we'd be arguing the same thing we'll get to that as we do the  
+{{% timestamp videoId="qs8tEwjUavU" time="2878" display="47:58" %}} - next section here but I just want to emphasize again that this is real clear like very very clear and we there are  
+{{% timestamp videoId="qs8tEwjUavU" time="2886" display="48:06" %}} - many things that we are dogmatic about as Christians built on far less than this so uh it it shouldn't be a  
+{{% timestamp videoId="qs8tEwjUavU" time="2893" display="48:13" %}} - controversial one for us um yeah all right well with that we'll turn next to talking about some of those  
+{{% timestamp videoId="qs8tEwjUavU" time="2901" display="48:21" %}} - things I just mentioned that just renders the father inherently inaccessible to us  
+{{% timestamp videoId="qs8tEwjUavU" time="2911" display="48:31" %}} - all right so now we are going to be picking up talking about the inaccessibility of the father apart from  
+{{% timestamp videoId="qs8tEwjUavU" time="2917" display="48:37" %}} - Christ so the last thing we talked about previously was how the father is currently veiled from us he is not  
+{{% timestamp videoId="qs8tEwjUavU" time="2924" display="48:44" %}} - visible to us in the world um ever since Satan's Rebellion when he has tried to usurp the Throne of God um the father  
+{{% timestamp videoId="qs8tEwjUavU" time="2933" display="48:53" %}} - has withdrawn from creation separated from this present Cosmos By the Waters above and the father currently resides  
+{{% timestamp videoId="qs8tEwjUavU" time="2942" display="49:02" %}} - in the third heaven in terms of heavenly geography and we talked about how uh no one has seen the father um we actually  
+{{% timestamp videoId="qs8tEwjUavU" time="2950" display="49:10" %}} - opened this study quite a few lessons back talking about this verse in 1 Timothy chapter 6 discussing how the  
+{{% timestamp videoId="qs8tEwjUavU" time="2957" display="49:17" %}} - father lives in or dwells in unapproachable light and so in the idea of light and glory glory is the visible  
+{{% timestamp videoId="qs8tEwjUavU" time="2965" display="49:25" %}} - manifestation of of kind of of God's uh unapproachable light and so the unapproachable of light  
+{{% timestamp videoId="qs8tEwjUavU" time="2974" display="49:34" %}} - is a metaphor like if you look at the son uh you kind of can't see it it's veiled um and so that's the idea of the  
+{{% timestamp videoId="qs8tEwjUavU" time="2980" display="49:40" %}} - father being separate or invisible from us but now we're going to kind of turn and shift towards the idea of  
+{{% timestamp videoId="qs8tEwjUavU" time="2987" display="49:47" %}} - accessibility in a spiritual sense and if you recall back to when we were talking about the roles in the Trinity  
+{{% timestamp videoId="qs8tEwjUavU" time="2996" display="49:56" %}} - uh we made the point rather strongly that what characterizes the second member of the Trinity the son is how he  
+{{% timestamp videoId="qs8tEwjUavU" time="3004" display="50:04" %}} - is accessible to us how just as with a kingdom where you have the king and the Crown Prince and the king is maybe up on  
+{{% timestamp videoId="qs8tEwjUavU" time="3013" display="50:13" %}} - the throne uh ruling over his subjects with all this Authority maybe it's hard for people to approach him and to bring  
+{{% timestamp videoId="qs8tEwjUavU" time="3021" display="50:21" %}} - their concerns uh before him but the son the crowned Prince he is the mediator between the king with authority and his  
+{{% timestamp videoId="qs8tEwjUavU" time="3030" display="50:30" %}} - people and so that is the role of Jesus Christ as you know Heaven's high priest if you will the mediator between us and  
+{{% timestamp videoId="qs8tEwjUavU" time="3037" display="50:37" %}} - the father but the point that we're going to be talking about here specifically is that the father is  
+{{% timestamp videoId="qs8tEwjUavU" time="3043" display="50:43" %}} - inaccessible to us and we mean this not only in the physical way as in he's not only is he invisible but Also  
+{{% timestamp videoId="qs8tEwjUavU" time="3050" display="50:50" %}} - spiritually we have access to the throne room of God through the blood of Jesus Christ um because of our sinfulness and  
+{{% timestamp videoId="qs8tEwjUavU" time="3057" display="50:57" %}} - because as we've discussed previously the father is the member of the Trinity who holds sort of the representation of  
+{{% timestamp videoId="qs8tEwjUavU" time="3065" display="51:05" %}} - deity the one who has the face of of God if you will within the Trinity and so he is the one who holds himself separate  
+{{% timestamp videoId="qs8tEwjUavU" time="3075" display="51:15" %}} - from sinfulness right and we talked about that in just the previous thing and so one reason why this is the case  
+{{% timestamp videoId="qs8tEwjUavU" time="3083" display="51:23" %}} - um is because if we were to see God in all of his glory and we weren't to instantly perish due to our sinfulness  
+{{% timestamp videoId="qs8tEwjUavU" time="3091" display="51:31" %}} - which presumably we would but like for the sake of argument let's say that that didn't happen then human Free Will would  
+{{% timestamp videoId="qs8tEwjUavU" time="3098" display="51:38" %}} - be substantially compromised so there's these verses I think one maybe in gosh Philippians somewhere Philippians 2 I  
+{{% timestamp videoId="qs8tEwjUavU" time="3106" display="51:46" %}} - could be wrong um talking about how every knee will bow and every tongue will confess and so at the last judgment  
+{{% timestamp videoId="qs8tEwjUavU" time="3114" display="51:54" %}} - before the great white throne where unbelievers um are shown that their works are not sufficient to get them  
+{{% timestamp videoId="qs8tEwjUavU" time="3122" display="52:02" %}} - into heaven you know that because they rejected the Son of God they chose hell well at that point all human beings will  
+{{% timestamp videoId="qs8tEwjUavU" time="3131" display="52:11" %}} - bow the knee and confess with the tongue that you know God is righteous and just and he has the authority to do all of  
+{{% timestamp videoId="qs8tEwjUavU" time="3140" display="52:20" %}} - this not because they want to but because they will not be able to deny it and within this life though one of the  
+{{% timestamp videoId="qs8tEwjUavU" time="3148" display="52:28" %}} - reasons why the father remains inaccessible why also Jesus's Glory was veiled during the Incarnation was  
+{{% timestamp videoId="qs8tEwjUavU" time="3155" display="52:35" %}} - because if it was not we wouldn't actually have the capacity to choose as humans and so ikus makes this points  
+{{% timestamp videoId="qs8tEwjUavU" time="3162" display="52:42" %}} - many places uh in many ways that the reason why we are here is to choose uh are we going to submit to God put our  
+{{% timestamp videoId="qs8tEwjUavU" time="3172" display="52:52" %}} - faith in Jesus Christ and live for him or are we going to follow the world and this choice is in fact what life is all  
+{{% timestamp videoId="qs8tEwjUavU" time="3179" display="52:59" %}} - about this free will that we have to the ability to choose is in reality why we are here why we are all here as human  
+{{% timestamp videoId="qs8tEwjUavU" time="3188" display="53:08" %}} - beings and so you can see why God does not force our hands as creatures because if we were forced to choose simply on  
+{{% timestamp videoId="qs8tEwjUavU" time="3197" display="53:17" %}} - account of his glory being unveiled before us it wouldn't actually be a free choice um and so this paragraph mostly  
+{{% timestamp videoId="qs8tEwjUavU" time="3204" display="53:24" %}} - what I've just been saying here that even against their will people would be obligated to follow him out of Terror  
+{{% timestamp videoId="qs8tEwjUavU" time="3213" display="53:33" %}} - because they would understand they would not be able to delude themselves and Harden their hearts and sort of close  
+{{% timestamp videoId="qs8tEwjUavU" time="3219" display="53:39" %}} - their eyes and their ears as the metaphors the Bible uses to somehow convince themselves that that you know  
+{{% timestamp videoId="qs8tEwjUavU" time="3226" display="53:46" %}} - Divine Justice will not catch up with them or that God doesn't hold the power of their Eternal lives well if they saw  
+{{% timestamp videoId="qs8tEwjUavU" time="3233" display="53:53" %}} - God as he really is they would would obey him not because they wanted to but because they would know that they had to  
+{{% timestamp videoId="qs8tEwjUavU" time="3241" display="54:01" %}} - that there wasn't actually a choice here and so this this irrationality of sin of lashing out against God that is actually  
+{{% timestamp videoId="qs8tEwjUavU" time="3250" display="54:10" %}} - true even for us but because God has not fully unveiled himself to us people are allowed to stick their heads in the sand  
+{{% timestamp videoId="qs8tEwjUavU" time="3258" display="54:18" %}} - to delude themselves that this is not so in fact most of humanity lives trying to not think of their impending deaths they  
+{{% timestamp videoId="qs8tEwjUavU" time="3267" display="54:27" %}} - live as if they will never die um and so one of the studies on ichus part four of the satanic Rebellion series um titled  
+{{% timestamp videoId="qs8tEwjUavU" time="3275" display="54:35" %}} - Satan's World System talks about this uh in great detail that in fact a lot of humanity is trying to forget the fact  
+{{% timestamp videoId="qs8tEwjUavU" time="3284" display="54:44" %}} - that they are mortal um and that after they die we will face a perfect and just God okay so a little bit rambly there um  
+{{% timestamp videoId="qs8tEwjUavU" time="3292" display="54:52" %}} - but where we are going with this um as it relates to this topic in the study the inaccessibility of the father apart  
+{{% timestamp videoId="qs8tEwjUavU" time="3301" display="55:01" %}} - from Christ through the blood of Christ we have access to the father that's the point we're talking about here um so uh  
+{{% timestamp videoId="qs8tEwjUavU" time="3308" display="55:08" %}} - even in saying you know emphasizing how the father's inaccessible to us um someone might raise the point of well  
+{{% timestamp videoId="qs8tEwjUavU" time="3314" display="55:14" %}} - what about the omnipresence of God that is one of the attributes that we argued was inherent to God's nature um so God  
+{{% timestamp videoId="qs8tEwjUavU" time="3323" display="55:23" %}} - is everywhere in creation he has um the ability to manifest at any point he desires because he's completely in  
+{{% timestamp videoId="qs8tEwjUavU" time="3332" display="55:32" %}} - control of space and time um and so we cannot go to heaven ourselves to seek God and even though the father is around  
+{{% timestamp videoId="qs8tEwjUavU" time="3343" display="55:43" %}} - us you know we've argued that uh the members of the Trinity all have their roles um positionally speaking the Bible  
+{{% timestamp videoId="qs8tEwjUavU" time="3351" display="55:51" %}} - talks about the father being in heaven so by heaven we mean like the third heaven which is different than Eden  
+{{% timestamp videoId="qs8tEwjUavU" time="3359" display="55:59" %}} - which is different from Paradise in Hades where Believers were before the Ascension which is also different from  
+{{% timestamp videoId="qs8tEwjUavU" time="3366" display="56:06" %}} - the new heavens and the new Earth which is where we'll dwell in eternity so right now the father is completely  
+{{% timestamp videoId="qs8tEwjUavU" time="3371" display="56:11" %}} - separate from the world and so uh some of this is symbolic in the way that the Bible commonly uses of symbolism and  
+{{% timestamp videoId="qs8tEwjUavU" time="3381" display="56:21" %}} - typology that the distance if you will between us and the father if you want to think in a physical sense is symbolic of  
+{{% timestamp videoId="qs8tEwjUavU" time="3390" display="56:30" %}} - the spiritual distance between us and God and so when we think of this it's not quite proper for us to get all hung  
+{{% timestamp videoId="qs8tEwjUavU" time="3398" display="56:38" %}} - up on the omnipresence bit and be like well if God's everywhere how can he be in the third heaven and people cry  
+{{% timestamp videoId="qs8tEwjUavU" time="3405" display="56:45" %}} - contradiction and things like that that's not really the point here the point is that the righteous father in  
+{{% timestamp videoId="qs8tEwjUavU" time="3412" display="56:52" %}} - the Trinity again the one who manifests the deity of the Trinity keeps himself completely separate from Human sin um  
+{{% timestamp videoId="qs8tEwjUavU" time="3421" display="57:01" %}} - and just one last point on this opening slide is just that because sin is largely the issue here this is the cause  
+{{% timestamp videoId="qs8tEwjUavU" time="3430" display="57:10" %}} - of the father's separation when we are given new bodies in the new heavens and the new Earth such that we no longer  
+{{% timestamp videoId="qs8tEwjUavU" time="3437" display="57:17" %}} - possess sin Natures then the father will not be separate from us he will come down the New Jerusalem will descend and  
+{{% timestamp videoId="qs8tEwjUavU" time="3443" display="57:23" %}} - we will have fellowship with not only the in the spirit but also Father for all of eternity um and  
+{{% timestamp videoId="qs8tEwjUavU" time="3452" display="57:32" %}} - so um this particular verse here uh in Isaiah chapter 6 um so Isaiah was one of the major prophets in the Old Testament  
+{{% timestamp videoId="qs8tEwjUavU" time="3461" display="57:41" %}} - given to see visions of God um and so Isaiah seeing the Father Here by implication um although sometimes it's  
+{{% timestamp videoId="qs8tEwjUavU" time="3471" display="57:51" %}} - kind of hard in Prophecy to know which member of the Trinity is in view um but by interpretation that's what we take  
+{{% timestamp videoId="qs8tEwjUavU" time="3478" display="57:58" %}} - this as um that Isaiah confesses his unworthiness he says he's a man of unclean lips and lives among a people of  
+{{% timestamp videoId="qs8tEwjUavU" time="3486" display="58:06" %}} - unclean lips and he understands this just inherently by seeing God all right so this is one of the longer sections  
+{{% timestamp videoId="qs8tEwjUavU" time="3495" display="58:15" %}} - here so I'm going to keep going a bit um the back to the accessibility idea here of the father uh being sort of separated  
+{{% timestamp videoId="qs8tEwjUavU" time="3505" display="58:25" %}} - from us having this powered Gap um in a way such that we don't have access to him inherently well the person who  
+{{% timestamp videoId="qs8tEwjUavU" time="3513" display="58:33" %}} - bridges that is Jesus Christ and so through faith in him and his death for us that is what we would term  
+{{% timestamp videoId="qs8tEwjUavU" time="3520" display="58:40" %}} - spiritually speaking the blood of Christ what he did for us on the cross we have access to the father in the name of  
+{{% timestamp videoId="qs8tEwjUavU" time="3528" display="58:48" %}} - Jesus Christ so by his blood his death for us on the cross on our behalf Christ has broken down the barrier of hostility  
+{{% timestamp videoId="qs8tEwjUavU" time="3536" display="58:56" %}} - between the father and those who believe in him um so this is if you remember back to um some of those theological  
+{{% timestamp videoId="qs8tEwjUavU" time="3545" display="59:05" %}} - jargony terms this is what people typically refer to as reconciliation we have been made right with God through  
+{{% timestamp videoId="qs8tEwjUavU" time="3552" display="59:12" %}} - the blood of Jesus Christ and so now on account of Christ's payment we have been granted entrance into the throne room of  
+{{% timestamp videoId="qs8tEwjUavU" time="3559" display="59:19" %}} - Heaven and the presence of the father so only on the basis of the acceptability of Christ's sacrifice and our acceptance  
+{{% timestamp videoId="qs8tEwjUavU" time="3567" display="59:27" %}} - of him such that we claim that sacrifice for ourselves that is the coin by which we have access to the father um and so  
+{{% timestamp videoId="qs8tEwjUavU" time="3576" display="59:36" %}} - again if the father is the the one who represents the authority within the Trinity then our access to him is GED by  
+{{% timestamp videoId="qs8tEwjUavU" time="3583" display="59:43" %}} - our belief in Jesus Christ um so a couple verses here uh oops uh at the beginning of Romans chapter 5 um Romans  
+{{% timestamp videoId="qs8tEwjUavU" time="3594" display="59:54" %}} - chap 5 veres 1 through the first part of verse two says this so now that we have been justified by faith let us take hold  
+{{% timestamp videoId="qs8tEwjUavU" time="3602" display="01:00:02" %}} - of the peace we have with God the Father through our Lord Jesus Christ through whom we have also obtained our access  
+{{% timestamp videoId="qs8tEwjUavU" time="3609" display="01:00:09" %}} - into this grace in which we stand so you'll see bolded in all of these verses here um these are translations coming  
+{{% timestamp videoId="qs8tEwjUavU" time="3616" display="01:00:16" %}} - directly off of IUS you'll see uh certain words bolded so access access access approach bring um this idea of us  
+{{% timestamp videoId="qs8tEwjUavU" time="3626" display="01:00:26" %}} - being in the presence of the father is what all of these verses are getting at so I'm going to go through and read the  
+{{% timestamp videoId="qs8tEwjUavU" time="3630" display="01:00:30" %}} - other ones that was the first couple verses of Romans chapter 5 uh now we're going to look at Ephesians chapter 2  
+{{% timestamp videoId="qs8tEwjUavU" time="3637" display="01:00:37" %}} - verse 18 for through him Jesus Christ we both Jews and Gentiles have access to the  
+{{% timestamp videoId="qs8tEwjUavU" time="3645" display="01:00:45" %}} - father by one spirit it's Ephesians 2:18 Ephesians 3:12 being in him that is Jesus Christ  
+{{% timestamp videoId="qs8tEwjUavU" time="3654" display="01:00:54" %}} - and having confidence through our faith in him we possess this access to the father and freedom to speak to  
+{{% timestamp videoId="qs8tEwjUavU" time="3661" display="01:01:01" %}} - him Hebrews 4:16 so let us approach with confident free speech to the throne of grace of  
+{{% timestamp videoId="qs8tEwjUavU" time="3668" display="01:01:08" %}} - the father that we might receive his mercy and gain his favor for timely help so we're able to approach the father  
+{{% timestamp videoId="qs8tEwjUavU" time="3676" display="01:01:16" %}} - because we have access to him and then finally 1 Peter 3: 18 for Christ died once for us on account of our sins the  
+{{% timestamp videoId="qs8tEwjUavU" time="3686" display="01:01:26" %}} - righteous for the unrighteous that he might bring us to God you know giving us access to him as we've been saying  
+{{% timestamp videoId="qs8tEwjUavU" time="3694" display="01:01:34" %}} - here and so the fact that through faith we now have access to the father and that the Bible words things in this  
+{{% timestamp videoId="qs8tEwjUavU" time="3704" display="01:01:44" %}} - manner suggesting that this was something that was gained um after Jesus's death and resurrection and  
+{{% timestamp videoId="qs8tEwjUavU" time="3711" display="01:01:51" %}} - Ascension that before that before the Incarnation before Jesus Di died for us and the father accepted his sacrifice on  
+{{% timestamp videoId="qs8tEwjUavU" time="3718" display="01:01:58" %}} - our behalf access was actually limited um one sort of aside here um is that in Ephesians chapter 4 actually pull this  
+{{% timestamp videoId="qs8tEwjUavU" time="3729" display="01:02:09" %}} - up I think it's like Ephesians chapter 4 verses 7 through 11 I want to say let's see how good my memory is Ephesians  
+{{% timestamp videoId="qs8tEwjUavU" time="3739" display="01:02:19" %}} - 47-1 um uh we hear about Jesus leading captivity captive and he gave gifts unto  
+{{% timestamp videoId="qs8tEwjUavU" time="3747" display="01:02:27" %}} - men now the giving gifts unto men is actually talking about uh the Holy Spirit at Pentecost giving people  
+{{% timestamp videoId="qs8tEwjUavU" time="3753" display="01:02:33" %}} - spiritual gifts um so that happens a little bit later in Acts chapter 2 but the LED captivity captive um when Jesus  
+{{% timestamp videoId="qs8tEwjUavU" time="3762" display="01:02:42" %}} - descended into Hades um after he had died he didn't go to I mean let me think about the right way to say this he  
+{{% timestamp videoId="qs8tEwjUavU" time="3770" display="01:02:50" %}} - didn't go to hell in the sense of like being in the negative part of the underworld he was in in what is  
+{{% timestamp videoId="qs8tEwjUavU" time="3776" display="01:02:56" %}} - theologically termed Abraham's bosom or Paradise within Hades and so we have this Parable in uh Luke chapter 16 I  
+{{% timestamp videoId="qs8tEwjUavU" time="3785" display="01:03:05" %}} - want to say I don't know if I'm right there too with Abraham and Lazarus um not Mary and Martha's brother Lazarus  
+{{% timestamp videoId="qs8tEwjUavU" time="3794" display="01:03:14" %}} - but the the beggar Lazarus um yeah and so anyway not to get off topic but um the point is is that prior to Christ's  
+{{% timestamp videoId="qs8tEwjUavU" time="3802" display="01:03:22" %}} - Ascension um believers who died before the cross were actually separated from the father they didn't go into the  
+{{% timestamp videoId="qs8tEwjUavU" time="3809" display="01:03:29" %}} - presence of the father when they died they were in Paradise so it's not like it's a negative part of the underworld  
+{{% timestamp videoId="qs8tEwjUavU" time="3815" display="01:03:35" %}} - but they weren't actually in the presence of the father because Christ had not yet died for human sin but after  
+{{% timestamp videoId="qs8tEwjUavU" time="3822" display="01:03:42" %}} - Christ's Ascension then Ephesians chapter 4 tells us that actually these people were brought into the presence of  
+{{% timestamp videoId="qs8tEwjUavU" time="3830" display="01:03:50" %}} - the father so he ascended up far above the heavens that he might fulfill all things um so at least that's how ikus  
+{{% timestamp videoId="qs8tEwjUavU" time="3837" display="01:03:57" %}} - takes it again I don't want to get too off topic here but this is why we say that we have gained access it's  
+{{% timestamp videoId="qs8tEwjUavU" time="3843" display="01:04:03" %}} - something that we did not previously have and it's only through the blood of Christ that we have this um so uh the  
+{{% timestamp videoId="qs8tEwjUavU" time="3850" display="01:04:10" %}} - splitting of the temple veil uh this happened when Jesus was um uh when Jesus was on the cross um after his work had  
+{{% timestamp videoId="qs8tEwjUavU" time="3861" display="01:04:21" %}} - been fulfilled the veil of the temple was torn into two now if memory serves just a few few verses later here in Luke  
+{{% timestamp videoId="qs8tEwjUavU" time="3867" display="01:04:27" %}} - chapter 23 um I think we hear about um well I don't know I a bit later in the chapter I think we hear about uh the  
+{{% timestamp videoId="qs8tEwjUavU" time="3877" display="01:04:37" %}} - Dead Rising as well there were people in Jerusalem who came out from the grave right these were the miraculous signs  
+{{% timestamp videoId="qs8tEwjUavU" time="3884" display="01:04:44" %}} - that accompanied the uh Jesus's death and payment for our sin upon the cross but relevance to what we're talking  
+{{% timestamp videoId="qs8tEwjUavU" time="3892" display="01:04:52" %}} - about here um the barrier in the temple that symbolizes our separation from God the Holiness the set apartness of God  
+{{% timestamp videoId="qs8tEwjUavU" time="3901" display="01:05:01" %}} - was actually torn into it was torn aunder based on the work of what Jesus had done for us and so when we are still  
+{{% timestamp videoId="qs8tEwjUavU" time="3909" display="01:05:09" %}} - in the flesh like now in our lives here down in Satan's World System we have access to God the Father through prayer  
+{{% timestamp videoId="qs8tEwjUavU" time="3917" display="01:05:17" %}} - um so we pray to the father in the name of Jesus Christ Jesus taught us how to pray in the Lord's Prayer so Our Father  
+{{% timestamp videoId="qs8tEwjUavU" time="3924" display="01:05:24" %}} - Who Art in Heaven um that again signifying that well if he's in heaven he's not quote unquote not on Earth he  
+{{% timestamp videoId="qs8tEwjUavU" time="3932" display="01:05:32" %}} - is separate from us but our father in Heaven is who we pray to and we pray to him because of what Christ did for us um  
+{{% timestamp videoId="qs8tEwjUavU" time="3941" display="01:05:41" %}} - and as we were saying before the cross the father was even more inaccessible and so all of this is leading up to this  
+{{% timestamp videoId="qs8tEwjUavU" time="3949" display="01:05:49" %}} - sentence here I apologize since like I said this is one of the longer sections here that we've gone through um all of  
+{{% timestamp videoId="qs8tEwjUavU" time="3954" display="01:05:54" %}} - this is leading up up to the point that if the father is still inaccessible to us even after the cross we have access  
+{{% timestamp videoId="qs8tEwjUavU" time="3962" display="01:06:02" %}} - to him through prayer um when we die we now go into the presence of the father in The Third Heaven well all of that's  
+{{% timestamp videoId="qs8tEwjUavU" time="3969" display="01:06:09" %}} - true but the father's still separate from the world he's still inaccessible to us to a degree and will be until the  
+{{% timestamp videoId="qs8tEwjUavU" time="3975" display="01:06:15" %}} - new heavens and the new Earth but every indication says that before the cross before the Incarnation he was even less  
+{{% timestamp videoId="qs8tEwjUavU" time="3982" display="01:06:22" %}} - accessible right only accessed um his grace through the the symbols and the rituals of the law um that veil of  
+{{% timestamp videoId="qs8tEwjUavU" time="3990" display="01:06:30" %}} - Separation in the temple only the high priest once a year went into the most holy place in the temple um to offer  
+{{% timestamp videoId="qs8tEwjUavU" time="3996" display="01:06:36" %}} - sacrifices of atonement Hebrews chapter n talks about how when Jesus died for us once for all he didn't have to keep  
+{{% timestamp videoId="qs8tEwjUavU" time="4004" display="01:06:44" %}} - going back and keep doing this like the high priest did every year well this is why we say that all of the appearances  
+{{% timestamp videoId="qs8tEwjUavU" time="4013" display="01:06:53" %}} - in the Old Testament where we hear of God appearing to Moses god appearing to Abraham um uh you know the angel of the  
+{{% timestamp videoId="qs8tEwjUavU" time="4022" display="01:07:02" %}} - Lord with a definite article leading the people of Israel arguing that the manifestation  
+{{% timestamp videoId="qs8tEwjUavU" time="4029" display="01:07:09" %}} - the the member of the Trinity that was there was the father kind of runs contrary to everything that we've been  
+{{% timestamp videoId="qs8tEwjUavU" time="4035" display="01:07:15" %}} - talking about and so that's why we made the argument previously that all of these appearances of God in the Old  
+{{% timestamp videoId="qs8tEwjUavU" time="4043" display="01:07:23" %}} - Testament are actually what we call christophanies pre-incarnate appearances of Christ the second member of the  
+{{% timestamp videoId="qs8tEwjUavU" time="4049" display="01:07:29" %}} - Trinity now he didn't have a human nature until the Incarnation but he was still the visible member of the Trinity  
+{{% timestamp videoId="qs8tEwjUavU" time="4057" display="01:07:37" %}} - because that is his role within the Trinity we said the father is the one with authority the son is the one who's  
+{{% timestamp videoId="qs8tEwjUavU" time="4063" display="01:07:43" %}} - accessible to us and the spirit is the Unseen empowerer I mean there's more to it but that's a a sort of offthe cuff  
+{{% timestamp videoId="qs8tEwjUavU" time="4070" display="01:07:50" %}} - generalization well Jesus Christ has always been the visible member of the Trinity even even in the Old Testament  
+{{% timestamp videoId="qs8tEwjUavU" time="4077" display="01:07:57" %}} - even before we kind of were able as human beings to clearly distinguish the members of the Trinity when God appeared  
+{{% timestamp videoId="qs8tEwjUavU" time="4085" display="01:08:05" %}} - before man like walking with Adam and Eve in the garden that was actually Jesus Christ the pre-incarnate son of  
+{{% timestamp videoId="qs8tEwjUavU" time="4093" display="01:08:13" %}} - God um and so that is kind of the whole point of everything we've gone through here because the father remains  
+{{% timestamp videoId="qs8tEwjUavU" time="4103" display="01:08:23" %}} - inaccessible to us because we have this barrier between us that can only be bridged through the blood of Jesus  
+{{% timestamp videoId="qs8tEwjUavU" time="4109" display="01:08:29" %}} - Christ and that actually won't fully be torn down until the new heavens and the new Earth all of this points to the  
+{{% timestamp videoId="qs8tEwjUavU" time="4116" display="01:08:36" %}} - father's separation from us his inaccessibility to us and so when we hear of God appearing to people in the  
+{{% timestamp videoId="qs8tEwjUavU" time="4122" display="01:08:42" %}} - Old Testament the point of everything we went through was if all of this is the case then even though the Old Testament  
+{{% timestamp videoId="qs8tEwjUavU" time="4130" display="01:08:50" %}} - doesn't say something like it was the son that appeared to so and so you know it say says God or it says the angel of  
+{{% timestamp videoId="qs8tEwjUavU" time="4137" display="01:08:57" %}} - the Lord and we talked about how Jesus Christ uh you know angels are messengers in both Greek and Hebrew the word for  
+{{% timestamp videoId="qs8tEwjUavU" time="4144" display="01:09:04" %}} - for Messenger is well what we would call Angel you know angalo in Greek that's what it means um well Jesus Christ is  
+{{% timestamp videoId="qs8tEwjUavU" time="4151" display="01:09:11" %}} - The Messer of God U we talked about Hebrews chapter 1 where um not Hebrews 11 Hebrews chapter 1 where God talks  
+{{% timestamp videoId="qs8tEwjUavU" time="4160" display="01:09:20" %}} - about speaking through his son Jesus Christ is the glory and exact representation of his being um you know  
+{{% timestamp videoId="qs8tEwjUavU" time="4167" display="01:09:27" %}} - he is deity of course through kinosis but um all right so I'm sorry this this one got kind of long a do you have  
+{{% timestamp videoId="qs8tEwjUavU" time="4174" display="01:09:34" %}} - anything you want to go on anything we've talked about here from the several slides the verses we've gone over  
+{{% timestamp videoId="qs8tEwjUavU" time="4179" display="01:09:39" %}} - talking about the inaccessibility of the father and what it means for us in terms of identifying the appearances of God as  
+{{% timestamp videoId="qs8tEwjUavU" time="4187" display="01:09:47" %}} - christophanies I have a question sorry I said I had a question  
+{{% timestamp videoId="qs8tEwjUavU" time="4196" display="01:09:56" %}} - um what what did you mean by what does it mean by barrier of hostility when reference to the veil  
+{{% timestamp videoId="qs8tEwjUavU" time="4202" display="01:10:02" %}} - that was torn apart so is that here it was one of the earlier yeah that was that was  
+{{% timestamp videoId="qs8tEwjUavU" time="4211" display="01:10:11" %}} - a I think it's the quote in Colossians if memory serves me right I was just wondering is it in the slides or is it a  
+{{% timestamp videoId="qs8tEwjUavU" time="4218" display="01:10:18" %}} - verse I need to look up no it's in one of the slides one of your earlier slides uh okay so you said hostility  
+{{% timestamp videoId="qs8tEwjUavU" time="4226" display="01:10:26" %}} - barrier of hostility was broken okay here Christ has broken down  
+{{% timestamp videoId="qs8tEwjUavU" time="4233" display="01:10:33" %}} - the barrier of hostility between the father and those who believe in his son um so Hy you want to take that or you  
+{{% timestamp videoId="qs8tEwjUavU" time="4240" display="01:10:40" %}} - want me to go okay sure um that's that's still the issue of the  
+{{% timestamp videoId="qs8tEwjUavU" time="4248" display="01:10:48" %}} - inaccessibility of the father and there had to be some way that um it would be made obvious it will be demonstrated  
+{{% timestamp videoId="qs8tEwjUavU" time="4258" display="01:10:58" %}} - that there was really hostility between God and the creation that was now corrupt when we read I think it's  
+{{% timestamp videoId="qs8tEwjUavU" time="4269" display="01:11:09" %}} - Psalm is it six I think it may be Psalm 6 it tells us that God cannot dwell with evil so the idea is  
+{{% timestamp videoId="qs8tEwjUavU" time="4279" display="01:11:19" %}} - that God has a revulsion against sin sin is a essentially offensive to him so there  
+{{% timestamp videoId="qs8tEwjUavU" time="4290" display="01:11:30" %}} - has to be some way to represent that to us while at the same time God is working our Salvation Among Us so for that  
+{{% timestamp videoId="qs8tEwjUavU" time="4298" display="01:11:38" %}} - reason there is a separation between God and human beings that's what that barrier of hostility is the hostility is  
+{{% timestamp videoId="qs8tEwjUavU" time="4308" display="01:11:48" %}} - simply this that the attitude of God toward a sinful creation is an attitude of judgment but there is also an  
+{{% timestamp videoId="qs8tEwjUavU" time="4317" display="01:11:57" %}} - attitude of Mercy that's why we see that there is someone of the godhead who is working within creation to bring about  
+{{% timestamp videoId="qs8tEwjUavU" time="4327" display="01:12:07" %}} - the Redemption of sinning mankind so um I mean that's uh in terms of vocabulary it's actually what being  
+{{% timestamp videoId="qs8tEwjUavU" time="4337" display="01:12:17" %}} - holy means too means being set apart sometimes you hear this um about the right way to say this so it doesn't come  
+{{% timestamp videoId="qs8tEwjUavU" time="4346" display="01:12:26" %}} - off as too offensive but you'll hear this kind of sometimes preached by people who try to make Christianity an  
+{{% timestamp videoId="qs8tEwjUavU" time="4352" display="01:12:32" %}} - outside in sort of thing rather than inside out like we whitewash ourselves and they they will talk about well we  
+{{% timestamp videoId="qs8tEwjUavU" time="4359" display="01:12:39" %}} - have to be separate from the world as Christians right and that is true but actually what makes us separate from the  
+{{% timestamp videoId="qs8tEwjUavU" time="4365" display="01:12:45" %}} - world is our heart State not strictly our Behavior right although if you truly believe your behavior will change you  
+{{% timestamp videoId="qs8tEwjUavU" time="4371" display="01:12:51" %}} - can't do it backwards um but the idea of separation of God is that God has to be separate from sin um and I don't have  
+{{% timestamp videoId="qs8tEwjUavU" time="4381" display="01:13:01" %}} - the slides up before me this was one of the fundamental points when we were talking about how God is good versus God  
+{{% timestamp videoId="qs8tEwjUavU" time="4389" display="01:13:09" %}} - is Holy a do you remember this we were talking about um God's goodness manifest as love and his hly Holiness manifest as  
+{{% timestamp videoId="qs8tEwjUavU" time="4396" display="01:13:16" %}} - Justice these are parts of God's uh his his Essence like what it means to be deity  
+{{% timestamp videoId="qs8tEwjUavU" time="4402" display="01:13:22" %}} - what it means to be God well we said that God is good um which means God is not evil but God is holy God must be  
+{{% timestamp videoId="qs8tEwjUavU" time="4414" display="01:13:34" %}} - separate from Evil so that's different than God is not evil God has to be separate from Evil this is the idea of  
+{{% timestamp videoId="qs8tEwjUavU" time="4422" display="01:13:42" %}} - Holiness um so um I I should just add that the veiling of God's nature as well it's actually merciful like we said you  
+{{% timestamp videoId="qs8tEwjUavU" time="4431" display="01:13:51" %}} - know it gives people a free will choice but we would be destroyed in the presence of God um so um I I don't want  
+{{% timestamp videoId="qs8tEwjUavU" time="4438" display="01:13:58" %}} - us to get bad import bad associations but if you've ever seen like pop culture movies you know like someone holds up a  
+{{% timestamp videoId="qs8tEwjUavU" time="4445" display="01:14:05" %}} - cross and the light comes out for it and smokes the things of evil or whatever that is like overd dramatized nonsense  
+{{% timestamp videoId="qs8tEwjUavU" time="4453" display="01:14:13" %}} - but that is kind of the idea here the unapproachable Holiness of God's light cannot dwell in the same place as Sin  
+{{% timestamp videoId="qs8tEwjUavU" time="4461" display="01:14:21" %}} - the two things do not mix light and darkness do not mix yeah so God's God's God's righteousness  
+{{% timestamp videoId="qs8tEwjUavU" time="4469" display="01:14:29" %}} - God's character the thing I wouldn't say the thing that makes him God but you know the character  
+{{% timestamp videoId="qs8tEwjUavU" time="4476" display="01:14:36" %}} - of God does not tolerate sin it does not it it just does not tolerate sin the two things cannot be in the same place but  
+{{% timestamp videoId="qs8tEwjUavU" time="4486" display="01:14:46" %}} - at the same time as we have said we do have the fact that God wants to save The Sinner so their heart the sinner has to  
+{{% timestamp videoId="qs8tEwjUavU" time="4496" display="01:14:56" %}} - survive in order to be saved if God were in the same space as as The Sinner then the sinner would not be saved the sinner  
+{{% timestamp videoId="qs8tEwjUavU" time="4506" display="01:15:06" %}} - would per force be subject to judgment so the way that the the Trinity structur things was that the father was going to  
+{{% timestamp videoId="qs8tEwjUavU" time="4514" display="01:15:14" %}} - be the representation of the godhead the Holiness the separateness the Majesty of the godhead so we could have  
+{{% timestamp videoId="qs8tEwjUavU" time="4525" display="01:15:25" %}} - God the son which is kind of the point of the last um discussions we had about theophany and christophany a member of  
+{{% timestamp videoId="qs8tEwjUavU" time="4534" display="01:15:34" %}} - the godhead who is in every way God had to be working within creation to realize Redemption whereas another member of the  
+{{% timestamp videoId="qs8tEwjUavU" time="4544" display="01:15:44" %}} - godhead had to be working to demonstrate that these things even though God is working to redeem us from it or from  
+{{% timestamp videoId="qs8tEwjUavU" time="4553" display="01:15:53" %}} - these things are things that God himself abominates so there has to be both the I will not dwell with evil my eyes are too  
+{{% timestamp videoId="qs8tEwjUavU" time="4566" display="01:16:06" %}} - holy to behold iniquity as well as the I am with you always I will not abandon you I will rescue you I am your savior  
+{{% timestamp videoId="qs8tEwjUavU" time="4575" display="01:16:15" %}} - all of these things must go together so we we find the Lord Jesus working within creation to realize our salvation and  
+{{% timestamp videoId="qs8tEwjUavU" time="4583" display="01:16:23" %}} - the Holy Spirit empowering everything that he he was doing toward that and then we see the father himself remote  
+{{% timestamp videoId="qs8tEwjUavU" time="4591" display="01:16:31" %}} - from mankind such that in fact even believers who died before the cross could not go to heaven they could not  
+{{% timestamp videoId="qs8tEwjUavU" time="4598" display="01:16:38" %}} - enter the presence of the father they were still separated from the father until Jesus died on the cross and when  
+{{% timestamp videoId="qs8tEwjUavU" time="4604" display="01:16:44" %}} - Jesus Paid the price for their sin they were finally admitted into the presence of the father but that was why there had  
+{{% timestamp videoId="qs8tEwjUavU" time="4611" display="01:16:51" %}} - to be a separation in Hades between the believer and the unbeliever but the believer still had to go to haters  
+{{% timestamp videoId="qs8tEwjUavU" time="4618" display="01:16:58" %}} - because it was not admissible into the third heaven into the presence of the father so the barrier of hostility and  
+{{% timestamp videoId="qs8tEwjUavU" time="4626" display="01:17:06" %}} - this discussion again of the um the uh what was what was the term the title of this of the slides we're using right now  
+{{% timestamp videoId="qs8tEwjUavU" time="4637" display="01:17:17" %}} - the inaccessibility of the father apart from the in exactly that's that's the idea of the inaccessibility of the  
+{{% timestamp videoId="qs8tEwjUavU" time="4643" display="01:17:23" %}} - father apart from chist we have we have no right on our own to approach God if we dare to approach God  
+{{% timestamp videoId="qs8tEwjUavU" time="4653" display="01:17:33" %}} - in our current state we won't survive the encounter we would automatically be thrown into the Lake of Fire we would  
+{{% timestamp videoId="qs8tEwjUavU" time="4659" display="01:17:39" %}} - our flesh would be destroyed instantly so but in fact um What the Lord Has Done is erect a separation Place himself  
+{{% timestamp videoId="qs8tEwjUavU" time="4671" display="01:17:51" %}} - apart from us while he works out our Salvation to make us admissible into his presence that's what the barrier of  
+{{% timestamp videoId="qs8tEwjUavU" time="4678" display="01:17:58" %}} - hostility is about and that's what um the inaccessibility of the father apart from Christ is really  
+{{% timestamp videoId="qs8tEwjUavU" time="4683" display="01:18:03" %}} - about yeah I mean and I should add that by Nature we are enemies of God um you know like that is that is sin we are set  
+{{% timestamp videoId="qs8tEwjUavU" time="4693" display="01:18:13" %}} - opposed to him and his righteousness only through the power of God working in us do we ever come to be adopted as Sons  
+{{% timestamp videoId="qs8tEwjUavU" time="4700" display="01:18:20" %}} - um and so there's this verse in you know um Romans 58 is it 8 while we were still sinners Christ died for us um you know  
+{{% timestamp videoId="qs8tEwjUavU" time="4712" display="01:18:32" %}} - this is why we have such things in the Bible as loving your enemy and praying for your enemy and that sort of thing is  
+{{% timestamp videoId="qs8tEwjUavU" time="4719" display="01:18:39" %}} - well God G you know God the Father sent Jesus Christ into the world to die for us to redeem us before any of us did  
+{{% timestamp videoId="qs8tEwjUavU" time="4727" display="01:18:47" %}} - good things to deserve that it's not like you know we had some humans who decided okay I'm going to follow God and  
+{{% timestamp videoId="qs8tEwjUavU" time="4733" display="01:18:53" %}} - I'm going to be a good person and then God sent Jesus to redeem us no one is good apart from God um and so he died  
+{{% timestamp videoId="qs8tEwjUavU" time="4743" display="01:19:03" %}} - for us while we were still unworthy while we were still his enemies um that's why there's hostility just it's  
+{{% timestamp videoId="qs8tEwjUavU" time="4750" display="01:19:10" %}} - inherent it's within the nature uh God in his perfect Holiness and Justice cannot abide  
+{{% timestamp videoId="qs8tEwjUavU" time="4757" display="01:19:17" %}} - unrighteousness um yeah yeah that's that's about it I don't  
+{{% timestamp videoId="qs8tEwjUavU" time="4764" display="01:19:24" %}} - know does that answer your question Jason yeah thank you it's good okay all right so next we're going to be talking  
+{{% timestamp videoId="qs8tEwjUavU" time="4776" display="01:19:36" %}} - about the Dignity of the father um and so we have talked about uh the father's invisibility uh behind the veil of  
+{{% timestamp videoId="qs8tEwjUavU" time="4785" display="01:19:45" %}} - Separation uh the inaccessibility inaccessibility of the father apart from  
+{{% timestamp videoId="qs8tEwjUavU" time="4791" display="01:19:51" %}} - the sacrifice of Jesus Christ and now we're going to talk about the Dignity of the father and this is actually a point  
+{{% timestamp videoId="qs8tEwjUavU" time="4798" display="01:19:58" %}} - that we've really danced around I think almost since the beginning of this study um there isn't like a wrong way to  
+{{% timestamp videoId="qs8tEwjUavU" time="4804" display="01:20:04" %}} - organize kind of what comes first and what comes next but um this point that Audie and I have made repeatedly about  
+{{% timestamp videoId="qs8tEwjUavU" time="4810" display="01:20:10" %}} - how the father is the he's the the face of deity within the Trinity the representation of deity that is the role  
+{{% timestamp videoId="qs8tEwjUavU" time="4818" display="01:20:18" %}} - he has adopted as the one in Authority that's really all this is when we talk about the Dignity of the father it's not  
+{{% timestamp videoId="qs8tEwjUavU" time="4824" display="01:20:24" %}} - as if Jesus Christ and the Holy Spirit don't have dignity themselves or things like that um we're talking about the  
+{{% timestamp videoId="qs8tEwjUavU" time="4831" display="01:20:31" %}} - role the father has adopted as the member of the trinity in the position of authority um and so uh kicking off this  
+{{% timestamp videoId="qs8tEwjUavU" time="4842" display="01:20:42" %}} - particular discussion um let me see this sentence um so the satanic Rebellion uh now there's an entire series up on ichus  
+{{% timestamp videoId="qs8tEwjUavU" time="4852" display="01:20:52" %}} - that covers this the SR series five part series on it this hundreds of pages um well at any rate before this present  
+{{% timestamp videoId="qs8tEwjUavU" time="4860" display="01:21:00" %}} - creation even came about before humans were created uh God had already created the angels and so the Angelic rebellion  
+{{% timestamp videoId="qs8tEwjUavU" time="4868" display="01:21:08" %}} - led by Satan precedes the creation of man and in fact as ichus interprets things it precedes the entire account we  
+{{% timestamp videoId="qs8tEwjUavU" time="4876" display="01:21:16" %}} - have in Genesis verse versus one two and following like like verse two of Genesis chapter 1 and following is an account of  
+{{% timestamp videoId="qs8tEwjUavU" time="4883" display="01:21:23" %}} - recreation after the gap between verse one and verse two uh during which you know the Angels fell the world was  
+{{% timestamp videoId="qs8tEwjUavU" time="4891" display="01:21:31" %}} - judged it's why creation starts out in darkness even though God's a God of Light well not to get too off topic  
+{{% timestamp videoId="qs8tEwjUavU" time="4897" display="01:21:37" %}} - there but you know the Angelic rebellion led by Satan precedes the creation of of man and so this actually  
+{{% timestamp videoId="qs8tEwjUavU" time="4907" display="01:21:47" %}} - explains much of the father's emmo of working through the one who will ultimately replace Satan as the ruler of  
+{{% timestamp videoId="qs8tEwjUavU" time="4915" display="01:21:55" %}} - his world Jesus Christ so all sorts of scripture references here to kind of uh illuminate better what we mean by this  
+{{% timestamp videoId="qs8tEwjUavU" time="4922" display="01:22:02" %}} - and um I I had a hard time reading this sentence why I stumbled a bit at the beginning here but the reason  
+{{% timestamp videoId="qs8tEwjUavU" time="4928" display="01:22:08" %}} - why so much of what God does in his plan happens is because it is a response to the satanic rebellion and this is a big  
+{{% timestamp videoId="qs8tEwjUavU" time="4938" display="01:22:18" %}} - deal in how Aus organizes its lessons and in fact I would argue that uh not appreciating this Point gives us a  
+{{% timestamp videoId="qs8tEwjUavU" time="4945" display="01:22:25" %}} - really impoverished understanding of why we are here as humans um so a pretty normal catechism type answer is like  
+{{% timestamp videoId="qs8tEwjUavU" time="4952" display="01:22:32" %}} - what is the purpose of the creation of man the purpose of the creation of man is to bring glory to God or something  
+{{% timestamp videoId="qs8tEwjUavU" time="4957" display="01:22:37" %}} - like that right um the the catechized version of this question is not actually really sufficient why are we here as  
+{{% timestamp videoId="qs8tEwjUavU" time="4966" display="01:22:46" %}} - humans well yes we're here to give glory to God but we are also here as a demonstration to Satan and the other  
+{{% timestamp videoId="qs8tEwjUavU" time="4972" display="01:22:52" %}} - rebelling angels that in fact that they are willing to repent God would redeem them um so human beings are for a time  
+{{% timestamp videoId="qs8tEwjUavU" time="4980" display="01:23:00" %}} - as the book of Hebrews mentions for a Time lower than the Angels although in our Resurrection bodies we will be  
+{{% timestamp videoId="qs8tEwjUavU" time="4986" display="01:23:06" %}} - raised up like Jesus Christ was well all of human history is playing out in this in in the in in it hold on let me think  
+{{% timestamp videoId="qs8tEwjUavU" time="4996" display="01:23:16" %}} - about how to phrase this um human history is playing out with the backdrop of Satan's rebellion in the background  
+{{% timestamp videoId="qs8tEwjUavU" time="5003" display="01:23:23" %}} - like that is There It Is invisible to us you know people unbelievers would scoff you know they say we're just making  
+{{% timestamp videoId="qs8tEwjUavU" time="5010" display="01:23:30" %}} - things up that well we don't see this unseen conflict raging around us so you know we can't measure it with our  
+{{% timestamp videoId="qs8tEwjUavU" time="5017" display="01:23:37" %}} - scientific instruments therefore it's not real and people would say that although by definition if it's in higher  
+{{% timestamp videoId="qs8tEwjUavU" time="5022" display="01:23:42" %}} - Dimensions than our own we're not goingon to be able to measure it you know seems kind of common sense but um  
+{{% timestamp videoId="qs8tEwjUavU" time="5027" display="01:23:47" %}} - all of this to say the father acting in this capacity sent Jesus Christ Christ to redeem  
+{{% timestamp videoId="qs8tEwjUavU" time="5035" display="01:23:55" %}} - mankind as part of his plan to redeem Humanity after the fall in a response to Satan's Rebellion okay so I'm not going  
+{{% timestamp videoId="qs8tEwjUavU" time="5044" display="01:24:04" %}} - to go any more off topic there we could but why I'm bringing that up is that the father sent the son as his  
+{{% timestamp videoId="qs8tEwjUavU" time="5051" display="01:24:11" %}} - representative we talked about this a little bit earlier in this specific lesson as well that Jesus Christ is  
+{{% timestamp videoId="qs8tEwjUavU" time="5057" display="01:24:17" %}} - serving as a servant of the father as his Messenger as his representative in the same way that so for example  
+{{% timestamp videoId="qs8tEwjUavU" time="5063" display="01:24:23" %}} - ambassadors might represent countries Jesus Christ is being sent as the preeminent messenger of the father um  
+{{% timestamp videoId="qs8tEwjUavU" time="5071" display="01:24:31" %}} - the one who who Bears the father's Authority um so I think there's one second the parable of the vineyard owner  
+{{% timestamp videoId="qs8tEwjUavU" time="5081" display="01:24:41" %}} - um Matthew chapter 21: 33 33 and following  
+{{% timestamp videoId="qs8tEwjUavU" time="5090" display="01:24:50" %}} - so uh where I was going with this was that when the wicked tenants this is the parable  
+{{% timestamp videoId="qs8tEwjUavU" time="5096" display="01:24:56" %}} - of the tenants um they beat and killed the Servants of the master who owns the vineyard who sends them to him you know  
+{{% timestamp videoId="qs8tEwjUavU" time="5105" display="01:25:05" %}} - and this by way of analogy this is what the stiff necked people of Israel did to the prophets the prophets who told them  
+{{% timestamp videoId="qs8tEwjUavU" time="5113" display="01:25:13" %}} - to turn back to God to repent they beat them they stoned them they put them to death but then the uh owner of the  
+{{% timestamp videoId="qs8tEwjUavU" time="5121" display="01:25:21" %}} - vineyard sends the air he sends his son saying surely they will listen to me now because they will respect my son because  
+{{% timestamp videoId="qs8tEwjUavU" time="5129" display="01:25:29" %}} - he carries my authority he is you know he is my representative in a way that the prophets who were Servants of the  
+{{% timestamp videoId="qs8tEwjUavU" time="5137" display="01:25:37" %}} - most high were not um and so that is what we are trying to get at here in this particular discussion of Jesus  
+{{% timestamp videoId="qs8tEwjUavU" time="5144" display="01:25:44" %}} - Christ as the representative of the father but why we are talking about that is because the father is the one who's  
+{{% timestamp videoId="qs8tEwjUavU" time="5151" display="01:25:51" %}} - doing the sending here um so the father is the one whose authority and Majesty gives him the right to send the son on  
+{{% timestamp videoId="qs8tEwjUavU" time="5161" display="01:26:01" %}} - his behalf to replace Satan as the Morning Star um through his sacrifice on the Christ through his sacrifice on the  
+{{% timestamp videoId="qs8tEwjUavU" time="5170" display="01:26:10" %}} - cross he redeemed sinful Mankind and he is replacing you know present progressive and will replace in the  
+{{% timestamp videoId="qs8tEwjUavU" time="5177" display="01:26:17" %}} - future um Satan as the preeminent uh member of creation sort of the prince of this world if you will um  
+{{% timestamp videoId="qs8tEwjUavU" time="5187" display="01:26:27" %}} - Jesus Christ is going to completely replace Satan in his duties that he had before his fall as Ezekiel chapter 28  
+{{% timestamp videoId="qs8tEwjUavU" time="5194" display="01:26:34" %}} - talks about um so in this way when Jesus Christ shows up in the Old Testament he speaks for  
+{{% timestamp videoId="qs8tEwjUavU" time="5203" display="01:26:43" %}} - God he speaks the words of God um you'll hear this come up in the Book of John is well anyone who believes my testimony  
+{{% timestamp videoId="qs8tEwjUavU" time="5211" display="01:26:51" %}} - believes the testimony of the father who sent me right Jesus speaks for the father he has the power to do that um  
+{{% timestamp videoId="qs8tEwjUavU" time="5219" display="01:26:59" %}} - because he is the anointed one the Messiah the one sent into the World by the father as his representative um and  
+{{% timestamp videoId="qs8tEwjUavU" time="5227" display="01:27:07" %}} - so this principle is the main thrust of what we're going over here when we discuss the Dignity of the father in  
+{{% timestamp videoId="qs8tEwjUavU" time="5235" display="01:27:15" %}} - being the one who sends the son on his behalf um so the son represents the father as his agent in the Plan of  
+{{% timestamp videoId="qs8tEwjUavU" time="5243" display="01:27:23" %}} - Salvation to redeem humankind from our sin um and so uh this organization this wasn't me this is coming straight out of  
+{{% timestamp videoId="qs8tEwjUavU" time="5251" display="01:27:31" %}} - the study here um this uh mission that the son has the son representing the father as his agent in the Plan of  
+{{% timestamp videoId="qs8tEwjUavU" time="5259" display="01:27:39" %}} - Salvation well we see that that is demonstrated through these things so Dr LS used alliteration here to help us  
+{{% timestamp videoId="qs8tEwjUavU" time="5269" display="01:27:49" %}} - remember them better so we see this role of the son representing his father and is his agent in the Plan of Salvation  
+{{% timestamp videoId="qs8tEwjUavU" time="5275" display="01:27:55" %}} - through Christ's message his mediation his mission and his monarchy so in terms of message Jesus Christ is the word of  
+{{% timestamp videoId="qs8tEwjUavU" time="5286" display="01:28:06" %}} - God as the beginning part of the Gospel of John tells us he is the embodiment of the message and truth of the father and  
+{{% timestamp videoId="qs8tEwjUavU" time="5294" display="01:28:14" %}} - speaks the father's words truly and precisely at all times Jesus Christ is the Father's ultimate message that verse  
+{{% timestamp videoId="qs8tEwjUavU" time="5301" display="01:28:21" %}} - from Hebrews chapter 1 that we've been talking about is the messenger of the father's New Covenant in his blood as  
+{{% timestamp videoId="qs8tEwjUavU" time="5308" display="01:28:28" %}} - opposed to the high priests or the prophets who didn't have the power to save Jesus Christ died for us once for  
+{{% timestamp videoId="qs8tEwjUavU" time="5315" display="01:28:35" %}} - all reconciling us to God the father so Jesus Christ as the word of God if you've never thought I mean that that  
+{{% timestamp videoId="qs8tEwjUavU" time="5323" display="01:28:43" %}} - word in Greek logos has many meanings but we think about it is Jesus being the final olive branch of God to sinful man  
+{{% timestamp videoId="qs8tEwjUavU" time="5334" display="01:28:54" %}} - his message of redemption and deliverance if only we would believe Jesus Christ is God's message himself he  
+{{% timestamp videoId="qs8tEwjUavU" time="5342" display="01:29:02" %}} - embodies it he is the message but we also see Christ's role as the agent representing the father in his mediation  
+{{% timestamp videoId="qs8tEwjUavU" time="5351" display="01:29:11" %}} - Christ is the mediator between God the father and sinful mankind he is the one who reconciles us to the father by his  
+{{% timestamp videoId="qs8tEwjUavU" time="5358" display="01:29:18" %}} - blood this is part of his mission this is why the father sent him but this is showing that he is the one acting on  
+{{% timestamp videoId="qs8tEwjUavU" time="5366" display="01:29:26" %}} - behalf of the father to reconcile us to the father then we also see his role representing the father as the agent of  
+{{% timestamp videoId="qs8tEwjUavU" time="5376" display="01:29:36" %}} - our Salvation in his mission Christ is the one anointed and sent by the father to offer himself as a sacrifice for our  
+{{% timestamp videoId="qs8tEwjUavU" time="5384" display="01:29:44" %}} - sins so when Jesus Christ was born into the world during the Incarnation he came with a purpose he was not here uh just  
+{{% timestamp videoId="qs8tEwjUavU" time="5393" display="01:29:53" %}} - by accident or wandering around not knowing what he was doing he was born into the world took on a human nature to  
+{{% timestamp videoId="qs8tEwjUavU" time="5401" display="01:30:01" %}} - die for us that was the entire point of the Incarnation you know when Jesus is is uh you know Jesus coming from that  
+{{% timestamp videoId="qs8tEwjUavU" time="5410" display="01:30:10" %}} - same Hebrew word you know Joshua the Lord saves um Jesus Christ the anointed the Messiah the one who saves his people  
+{{% timestamp videoId="qs8tEwjUavU" time="5418" display="01:30:18" %}} - is implicit in the titles we have for him the epithets Emanuel God With Us we have this idea of Jesus being born  
+{{% timestamp videoId="qs8tEwjUavU" time="5428" display="01:30:28" %}} - into the world as the savior of the world from the very beginning even before he becomes an adult and goes and  
+{{% timestamp videoId="qs8tEwjUavU" time="5435" display="01:30:35" %}} - dies on the cross for us this is why Jesus came into the world um he is the ultimate high priest who makes atonement  
+{{% timestamp videoId="qs8tEwjUavU" time="5442" display="01:30:42" %}} - to the father on our behalf Jesus came in order to die that was his mission um not die just  
+{{% timestamp videoId="qs8tEwjUavU" time="5450" display="01:30:50" %}} - physically but take the spiritual death for our sins on his shoulders in our place this was why the second person of  
+{{% timestamp videoId="qs8tEwjUavU" time="5459" display="01:30:59" %}} - the Trinity took on a human nature and came into the world because he had to be both fully God and fully man to pay for  
+{{% timestamp videoId="qs8tEwjUavU" time="5466" display="01:31:06" %}} - our sins so finally the last way in which we see the son representing the father as his agent in the Plan of  
+{{% timestamp videoId="qs8tEwjUavU" time="5473" display="01:31:13" %}} - Salvation is through his monarchy in recognition of Christ's Victory on the cross the father has appointed him Lord  
+{{% timestamp videoId="qs8tEwjUavU" time="5482" display="01:31:22" %}} - in Christ he is the Lord anointed to Rule the World um and so this going back to that idea of Jesus Christ replacing  
+{{% timestamp videoId="qs8tEwjUavU" time="5490" display="01:31:30" %}} - Satan um signals not only Christ's replacement of sat as ruler of the world but his Regent of the world he has been  
+{{% timestamp videoId="qs8tEwjUavU" time="5499" display="01:31:39" %}} - delegated authority to rule by the ultimate one who has Authority who has sovereignty over the universe and that's  
+{{% timestamp videoId="qs8tEwjUavU" time="5507" display="01:31:47" %}} - God the Father acting as the face of authority within the Trinity um and so this actually explains many of the Old  
+{{% timestamp videoId="qs8tEwjUavU" time="5517" display="01:31:57" %}} - Testament passages referring to the father's impending return being actually the son who comes to rule in fact a lot  
+{{% timestamp videoId="qs8tEwjUavU" time="5525" display="01:32:05" %}} - of this has multiple fulfillment um so there's this concept in Prophecy that you know the same words in Prophecy can  
+{{% timestamp videoId="qs8tEwjUavU" time="5533" display="01:32:13" %}} - apply to more than one thing or or you can have typology where a a literal physical human being in one place in  
+{{% timestamp videoId="qs8tEwjUavU" time="5541" display="01:32:21" %}} - history actually symbolically represents something spiritual that can happen too um well some of this gets tied up it  
+{{% timestamp videoId="qs8tEwjUavU" time="5548" display="01:32:28" %}} - depends on which passage we're talking about but Jesus Christ is going to be the one who fulfills you know the God's  
+{{% timestamp videoId="qs8tEwjUavU" time="5556" display="01:32:36" %}} - return to rule the world with perfect Justice well some of that happens during the Millennium much less the new heavens  
+{{% timestamp videoId="qs8tEwjUavU" time="5562" display="01:32:42" %}} - and the new Earth where there's not even any evil but that unprecedented period of peace and prosperity and stability  
+{{% timestamp videoId="qs8tEwjUavU" time="5569" display="01:32:49" %}} - that will come about during the Millennium is part of this comes from Jesus Christ  
+{{% timestamp videoId="qs8tEwjUavU" time="5575" display="01:32:55" %}} - serving as the prince Regent of creation that that delegated authority and power he has representing God the father on  
+{{% timestamp videoId="qs8tEwjUavU" time="5584" display="01:33:04" %}} - Earth is also part of his mission of representing the father as his agent okay and so we can see that his  
+{{% timestamp videoId="qs8tEwjUavU" time="5594" display="01:33:14" %}} - acceptance of the rency of the world as the father's representative um well how do we see all of that um the passage  
+{{% timestamp videoId="qs8tEwjUavU" time="5602" display="01:33:22" %}} - hold on kind to figure out how all this fits together um so we see his Ascension into heaven is sit at the right hand of  
+{{% timestamp videoId="qs8tEwjUavU" time="5609" display="01:33:29" %}} - God the Father um so we're explaining kind of like how this you know Christ has a throne you know even though he's  
+{{% timestamp videoId="qs8tEwjUavU" time="5617" display="01:33:37" %}} - acting as a representative of the father he still has this this authority of royalty if you will um so we see that  
+{{% timestamp videoId="qs8tEwjUavU" time="5623" display="01:33:43" %}} - through his Ascension into heaven um and so there's this really famous Messianic Psalm that we we come back to repeatedly  
+{{% timestamp videoId="qs8tEwjUavU" time="5631" display="01:33:51" %}} - Psalm 110 verse1 the Lord says to my Lord sit at my right hand until I make your enemies a foot stol for your feet  
+{{% timestamp videoId="qs8tEwjUavU" time="5638" display="01:33:58" %}} - um and we see that fulfilled in Matthew chapter 22 here but the son's Ascension to the throne on  
+{{% timestamp videoId="qs8tEwjUavU" time="5644" display="01:34:04" %}} - Earth and then also Jesus Christ and his Primacy as the first born of creation um all of these  
+{{% timestamp videoId="qs8tEwjUavU" time="5653" display="01:34:13" %}} - things show Christ's role of representing the father in God's Plan of Salvation and all of that supports the  
+{{% timestamp videoId="qs8tEwjUavU" time="5662" display="01:34:22" %}} - position to tie it all back that QED where we're going with all this is that if Jesus Christ is the representative of  
+{{% timestamp videoId="qs8tEwjUavU" time="5670" display="01:34:30" %}} - the father who acts on his behalf in interfacing with Humanity well then the position that all Old Testament  
+{{% timestamp videoId="qs8tEwjUavU" time="5677" display="01:34:37" %}} - theophany is truly christophany that is it's not an appearance of the father or the spirit but the son that we see in  
+{{% timestamp videoId="qs8tEwjUavU" time="5684" display="01:34:44" %}} - the Old Testament then we argue that all of these appearances of God in the Old Testament are actually the son appearing  
+{{% timestamp videoId="qs8tEwjUavU" time="5692" display="01:34:52" %}} - representing and speaking for the father before his Incarnation um that is the point in fact the the very reason why  
+{{% timestamp videoId="qs8tEwjUavU" time="5701" display="01:35:01" %}} - we've been talking about the invisib ever since we talked about theophany and christophy the reason why we then talked  
+{{% timestamp videoId="qs8tEwjUavU" time="5706" display="01:35:06" %}} - about the invisibility of the father and the inaccessibility of the father and now the Dignity of the father um his his  
+{{% timestamp videoId="qs8tEwjUavU" time="5713" display="01:35:13" %}} - authority as the one who represents um the the Holiness and the perfect authority of God you know the perfect  
+{{% timestamp videoId="qs8tEwjUavU" time="5722" display="01:35:22" %}} - King of Kings um well that helps explain why we take all of the appearances of God to be the  
+{{% timestamp videoId="qs8tEwjUavU" time="5732" display="01:35:32" %}} - son because he is the one who is sent on the father's behalf um so uh AI do you have points you want to bring up here  
+{{% timestamp videoId="qs8tEwjUavU" time="5743" display="01:35:43" %}} - with respect to things we have said one thing that stuck with me was uh how Jesus is the word um this is a a  
+{{% timestamp videoId="qs8tEwjUavU" time="5752" display="01:35:52" %}} - discussion we had in one of these uh sessions I I'm suspecting it was probably more than a year ago um when  
+{{% timestamp videoId="qs8tEwjUavU" time="5763" display="01:36:03" %}} - the Bible says that Jesus is the word or the the logos as as it has it in the Greek it's saying that Jesus  
+{{% timestamp videoId="qs8tEwjUavU" time="5772" display="01:36:12" %}} - is God's plan God's answer because logos it can mean word just literally word but it tends to connote  
+{{% timestamp videoId="qs8tEwjUavU" time="5783" display="01:36:23" %}} - argument it's like when when you say do you have a case uh if you're a defense attorney or  
+{{% timestamp videoId="qs8tEwjUavU" time="5792" display="01:36:32" %}} - if you are a Prosecuting the prosecuting attorney or something of that sort when you asked if  
+{{% timestamp videoId="qs8tEwjUavU" time="5799" display="01:36:39" %}} - you have a case do you have an argument do you have something to pre to present this is what Jesus represents then so  
+{{% timestamp videoId="qs8tEwjUavU" time="5807" display="01:36:47" %}} - see just to cut off here I'm sorry I don't want to cut you off but like you can see look at this definition this is  
+{{% timestamp videoId="qs8tEwjUavU" time="5813" display="01:36:53" %}} - just their's lexicon there are more modern Greek lexicons but if I just scroll down a bit look at all the  
+{{% timestamp videoId="qs8tEwjUavU" time="5819" display="01:36:59" %}} - definitions of this one word right and if we were to look in a concordance you can see that it's word word word right  
+{{% timestamp videoId="qs8tEwjUavU" time="5826" display="01:37:06" %}} - but also an account you can give a reason you can give a saying so not like word singular but what someone said all  
+{{% timestamp videoId="qs8tEwjUavU" time="5834" display="01:37:14" %}} - of those you know even commandment or or Reason all of those come from logos so carry on  
+{{% timestamp videoId="qs8tEwjUavU" time="5843" display="01:37:23" %}} - yeah essentially Jesus is God's answer to the rebellion in his creation that's just what we're what we're getting at  
+{{% timestamp videoId="qs8tEwjUavU" time="5851" display="01:37:31" %}} - and in that way he is um the father's represent representation or representative to the world to the  
+{{% timestamp videoId="qs8tEwjUavU" time="5861" display="01:37:41" %}} - universe to the creation that he has made so the Angels who stayed true who did not Rebel in Jesus they they they  
+{{% timestamp videoId="qs8tEwjUavU" time="5870" display="01:37:50" %}} - find um Vindication for their children choice to stand with the Lord rather than to join the rebellion of Satan and  
+{{% timestamp videoId="qs8tEwjUavU" time="5878" display="01:37:58" %}} - for human beings who were not there when the whole thing began Jesus is is um a demonstration of everything that God is  
+{{% timestamp videoId="qs8tEwjUavU" time="5888" display="01:38:08" %}} - as an answer to all the lies that Satan has been throwing at at Humanity right from the Garden of Eden so in Jesus  
+{{% timestamp videoId="qs8tEwjUavU" time="5896" display="01:38:16" %}} - everything that we want to know about God the answer that God has the lies that Satan  
+{{% timestamp videoId="qs8tEwjUavU" time="5904" display="01:38:24" %}} - has told about him and the the discussion really of what his goal or objective for the universe that he  
+{{% timestamp videoId="qs8tEwjUavU" time="5914" display="01:38:34" %}} - created is fully represented it's all in Jesus Christ that is how he is God's message that is  
+{{% timestamp videoId="qs8tEwjUavU" time="5922" display="01:38:42" %}} - how he is God's word that is how he is the logos so we see to um the other thing I  
+{{% timestamp videoId="qs8tEwjUavU" time="5930" display="01:38:50" %}} - wanted to make a point about was the monarchy thing this is something that um I think some years back when it it it it  
+{{% timestamp videoId="qs8tEwjUavU" time="5940" display="01:39:00" %}} - made sense to me or I came to appreciate it that way kind of blew my mind because if you did not  
+{{% timestamp videoId="qs8tEwjUavU" time="5949" display="01:39:09" %}} - really understand that he was God Jesus Is God and as God he is The Sovereign of creation that that's it he is that's not  
+{{% timestamp videoId="qs8tEwjUavU" time="5959" display="01:39:19" %}} - a position he he needs to have bequeathed to him or given to him by just the fact of being deity being  
+{{% timestamp videoId="qs8tEwjUavU" time="5967" display="01:39:27" %}} - God just as the father is God and the spirit is God he is The Sovereign of creation but as man as a human being he  
+{{% timestamp videoId="qs8tEwjUavU" time="5977" display="01:39:37" %}} - was exalted to an incredbly high place I don't think sometimes it it I think I don't know I it's hard to imagine just  
+{{% timestamp videoId="qs8tEwjUavU" time="5987" display="01:39:47" %}} - what Jesus has become as a man what he is is what God is  
+{{% timestamp videoId="qs8tEwjUavU" time="5996" display="01:39:56" %}} - except as a creature that's what he is it's similar to what Satan was when he was the Regent  
+{{% timestamp videoId="qs8tEwjUavU" time="6004" display="01:40:04" %}} - the the guardian of God's Throne similar to that and but I think it's even greater than that because he stands  
+{{% timestamp videoId="qs8tEwjUavU" time="6013" display="01:40:13" %}} - above everything that God made far above even the angels Satan may have been the ruler of the Angels but he was an angel  
+{{% timestamp videoId="qs8tEwjUavU" time="6022" display="01:40:22" %}} - what Jesus is is just he's on a level just by himself completely removed from every other thing and he is high above  
+{{% timestamp videoId="qs8tEwjUavU" time="6033" display="01:40:33" %}} - it as a man that's the position that he has been given because of his choice as a human being to be true to the father  
+{{% timestamp videoId="qs8tEwjUavU" time="6043" display="01:40:43" %}} - but there's also something else in there when God made the universe the first time he gave it to somebody to  
+{{% timestamp videoId="qs8tEwjUavU" time="6049" display="01:40:49" %}} - administrate for him um so to speak because I mean even though uh the Bible gives  
+{{% timestamp videoId="qs8tEwjUavU" time="6058" display="01:40:58" %}} - us to know that Satan was acting in the capacity of God's Royal Guard his his um special person so to speak his number  
+{{% timestamp videoId="qs8tEwjUavU" time="6069" display="01:41:09" %}} - two on Earth we can take for granted that that was something that um an authorities that enveloped the entire  
+{{% timestamp videoId="qs8tEwjUavU" time="6076" display="01:41:16" %}} - universe we could take for granted um Jesus himself has replaced Satan and that position he is now the ruler of  
+{{% timestamp videoId="qs8tEwjUavU" time="6087" display="01:41:27" %}} - everything that God has made and this is on behalf of the father so again consider the father as a represent  
+{{% timestamp videoId="qs8tEwjUavU" time="6097" display="01:41:37" %}} - the representative of the trinity in terms of the authority of the Trinity the sovereignty of the Trinity overall  
+{{% timestamp videoId="qs8tEwjUavU" time="6106" display="01:41:46" %}} - of creation and as as that representation of the Trinity he has appointed somebody  
+{{% timestamp videoId="qs8tEwjUavU" time="6114" display="01:41:54" %}} - to be his Regent just as um Stephen has said  
+{{% timestamp videoId="qs8tEwjUavU" time="6123" display="01:42:03" %}} - so that's exactly the the thing there and and the dignity that that shines through in all of that is is more  
+{{% timestamp videoId="qs8tEwjUavU" time="6131" display="01:42:11" %}} - like in this fight with Satan God God essentially says it's beneath me to be engaging with  
+{{% timestamp videoId="qs8tEwjUavU" time="6138" display="01:42:18" %}} - you you if I engaged with you it would seem as though I we bullying you because you're too small for me really we we  
+{{% timestamp videoId="qs8tEwjUavU" time="6147" display="01:42:27" %}} - can't really have a fair fight you and I so here's what I'll do I'll choose a champion and he'll match you that's  
+{{% timestamp videoId="qs8tEwjUavU" time="6155" display="01:42:35" %}} - what's going to happen and that champion was the Lord Jesus Christ and it's it's essentially the Lord saying yeah you're  
+{{% timestamp videoId="qs8tEwjUavU" time="6162" display="01:42:42" %}} - laying claim to this this is the person I've chosen to be in that place that you're claiming you Style Yourself the  
+{{% timestamp videoId="qs8tEwjUavU" time="6171" display="01:42:51" %}} - God of this world the ruler of the of of the earth and whatnot but this is the man that I've chosen to rule the  
+{{% timestamp videoId="qs8tEwjUavU" time="6179" display="01:42:59" %}} - universe the creation that I made I never chose you and I'm not going to hand things over to you and I'm not  
+{{% timestamp videoId="qs8tEwjUavU" time="6186" display="01:43:06" %}} - going to abandon them to you he will win it all back for me and that's exactly why we open this section with oops let  
+{{% timestamp videoId="qs8tEwjUavU" time="6195" display="01:43:15" %}} - mean to click that with this backdrop of the satanic rebellion and why it's actually quite important you know you  
+{{% timestamp videoId="qs8tEwjUavU" time="6201" display="01:43:21" %}} - might say well what does it matter if we understand what happened before Humanity well it matters because when we  
+{{% timestamp videoId="qs8tEwjUavU" time="6208" display="01:43:28" %}} - understand that Jesus Christ is the answer to this I I think we should emphasize again that Angels at present  
+{{% timestamp videoId="qs8tEwjUavU" time="6215" display="01:43:35" %}} - compared to us as humans are way way way more smart and powerful than we are like it's not even close right and the being  
+{{% timestamp videoId="qs8tEwjUavU" time="6224" display="01:43:44" %}} - that God will replace Satan with is a human being Jesus is a human being now he's also God right that's very  
+{{% timestamp videoId="qs8tEwjUavU" time="6232" display="01:43:52" %}} - important that we don't mistake that um Hebrews chapter 1 I actually pulled this up um the new Hebrews series that Dr L  
+{{% timestamp videoId="qs8tEwjUavU" time="6239" display="01:43:59" %}} - has been going through Hebrews chapter one all about how Jesus as the ascended Son of God the glorified Son of God is  
+{{% timestamp videoId="qs8tEwjUavU" time="6247" display="01:44:07" %}} - superior to Angels well God chose to work through a a human being who Satan would view as weak and yet glorified him  
+{{% timestamp videoId="qs8tEwjUavU" time="6256" display="01:44:16" %}} - above Satan he's replacing Satan with a human being think about that for a second um how was I pulled up I kind of  
+{{% timestamp videoId="qs8tEwjUavU" time="6263" display="01:44:23" %}} - surprised this wasn't in the the verses I was thinking about this when I think about the son's monarchy like Jesus  
+{{% timestamp videoId="qs8tEwjUavU" time="6270" display="01:44:30" %}} - specifically serving as the Regent or the the monarch of human rulership as God has appointed I think of the  
+{{% timestamp videoId="qs8tEwjUavU" time="6276" display="01:44:36" %}} - epithets that you'll commonly hear read uh when we are talking about um wow the words escaping me you know  
+{{% timestamp videoId="qs8tEwjUavU" time="6284" display="01:44:44" %}} - like before Christmas not that we make a big deal out of times and Seasons but uh uh Advent right um that you'll hear you  
+{{% timestamp videoId="qs8tEwjUavU" time="6293" display="01:44:53" %}} - know like the prince of peace and uh the the King of Kings and the Lord of lords right you know these epithets that we  
+{{% timestamp videoId="qs8tEwjUavU" time="6298" display="01:44:58" %}} - apply to Jesus Christ well those actually come up in Revelation chapter 17 Revelation chapter 19 I'm now are  
+{{% timestamp videoId="qs8tEwjUavU" time="6304" display="01:45:04" %}} - also applied actually to the father um well I guess probably depends on how you're interpreting all these things  
+{{% timestamp videoId="qs8tEwjUavU" time="6311" display="01:45:11" %}} - right but Jesus is serving as the Regent of the father and he has that kingly Authority he is the king of kings and  
+{{% timestamp videoId="qs8tEwjUavU" time="6319" display="01:45:19" %}} - what that represents that turn of phrase in in Greek at least is this idea that you know he's the the one king to rule  
+{{% timestamp videoId="qs8tEwjUavU" time="6326" display="01:45:26" %}} - them all um you know think lord of the ring style here um he is the preeminent King the the king that perfectly  
+{{% timestamp videoId="qs8tEwjUavU" time="6334" display="01:45:34" %}} - fulfills the platonic form of kingship if you want to go down that route um and he's doing it as a human being right so  
+{{% timestamp videoId="qs8tEwjUavU" time="6343" display="01:45:43" %}} - you might say well God is our ruler but God is not like us but Jesus is our ruler but Jesus Is Like  
+{{% timestamp videoId="qs8tEwjUavU" time="6351" display="01:45:51" %}} - Us think about that for a sec right um this is the sovereignty of Jesus serving as the agent of the father is that he is  
+{{% timestamp videoId="qs8tEwjUavU" time="6360" display="01:46:00" %}} - a human being who has been elevated above every other created thing in the universe on account of what he has done  
+{{% timestamp videoId="qs8tEwjUavU" time="6368" display="01:46:08" %}} - for us God has glorified and put him at his right hand you know that's another expression you'll hear that is the sense  
+{{% timestamp videoId="qs8tEwjUavU" time="6375" display="01:46:15" %}} - of Jesus's role um you know what he is taking back from Satan God has glorified him the resur resurrected Christ to sit  
+{{% timestamp videoId="qs8tEwjUavU" time="6384" display="01:46:24" %}} - at his right hand and Rule alongside the father for all eternity actually also really interesting here um I don't want  
+{{% timestamp videoId="qs8tEwjUavU" time="6391" display="01:46:31" %}} - to get us off topic but um Dr luging holds that during the Millennium you know uh we will be resurrected uh the  
+{{% timestamp videoId="qs8tEwjUavU" time="6399" display="01:46:39" %}} - the Rapture happens at the end of the tribulation um we are caught up with Christ we we gain our Resurrection  
+{{% timestamp videoId="qs8tEwjUavU" time="6404" display="01:46:44" %}} - bodies and we will rule with him Bible actually says this although a lot of people tend to ignore it and hand wave  
+{{% timestamp videoId="qs8tEwjUavU" time="6409" display="01:46:49" %}} - it away but uh David if I'm not mistaken a you might remember better than me um he's going to come back restore the  
+{{% timestamp videoId="qs8tEwjUavU" time="6417" display="01:46:57" %}} - davidic kingdom as in the physical human being David not Jesus Christ um I think he's going to serve as kind of a what's  
+{{% timestamp videoId="qs8tEwjUavU" time="6426" display="01:47:06" %}} - the right word like I don't know how how do you pronounce this word like autant you know what I'm talking about like the  
+{{% timestamp videoId="qs8tEwjUavU" time="6435" display="01:47:15" %}} - administrative assistant to a senior official ad dju an adant  
+{{% timestamp videoId="qs8tEwjUavU" time="6444" display="01:47:24" %}} - okay whatever Jesus is going to be the king but he is after the type of David as the  
+{{% timestamp videoId="qs8tEwjUavU" time="6454" display="01:47:34" %}} - ruler of Israel right yeah and that's thatal 110 you know the Lord said to my Lord um  
+{{% timestamp videoId="qs8tEwjUavU" time="6463" display="01:47:43" %}} - you Messianic Psalm here go ahead yeah so just like you said in in fact during the tribulation I'm sorry  
+{{% timestamp videoId="qs8tEwjUavU" time="6471" display="01:47:51" %}} - during the millennium every resurrected believer will have um an oversight some some position of oversight over the  
+{{% timestamp videoId="qs8tEwjUavU" time="6482" display="01:48:02" %}} - millennial world at that time Nations will have uh Believers resurrected Believers ruling  
+{{% timestamp videoId="qs8tEwjUavU" time="6489" display="01:48:09" %}} - over them on the spiritual plane just like today we have Satan who has apportioned the nations of  
+{{% timestamp videoId="qs8tEwjUavU" time="6496" display="01:48:16" %}} - the world under different um um Rebel Angel authorities so we have as as we see in Daniel a Prince of Persia a  
+{{% timestamp videoId="qs8tEwjUavU" time="6507" display="01:48:27" %}} - prince of Greece and we have Kings of Persia for example so likewise during the Millennium there will be um  
+{{% timestamp videoId="qs8tEwjUavU" time="6515" display="01:48:35" %}} - believers who will be in charge of different nations of the world David will be the one in charge of Israel  
+{{% timestamp videoId="qs8tEwjUavU" time="6521" display="01:48:41" %}} - that's that's the guarantee um of of the promise that the Lord made to him that's essentially what  
+{{% timestamp videoId="qs8tEwjUavU" time="6529" display="01:48:49" %}} - uh yeah stepen is referring to I didn't want to get it wrong was a bit fuzzy in my head since it's been a while since  
+{{% timestamp videoId="qs8tEwjUavU" time="6534" display="01:48:54" %}} - I've read that particular section but and I was just using David as an example of well we talk about Christ playing  
+{{% timestamp videoId="qs8tEwjUavU" time="6542" display="01:49:02" %}} - second fle to the father if you will and well how can he do that he's God well David to use this idea of delegated  
+{{% timestamp videoId="qs8tEwjUavU" time="6549" display="01:49:09" %}} - authority and push it further David who is the king of Israel right in terms of all the kings that came after him were  
+{{% timestamp videoId="qs8tEwjUavU" time="6556" display="01:49:16" %}} - kings in the line of David you know the davidic kingdom is what we call it well David is gonna be assisting Jesus Christ  
+{{% timestamp videoId="qs8tEwjUavU" time="6564" display="01:49:24" %}} - that's what we mean about Jesus being king of King and Lord of lords you don't get more kingly than David and Solomon  
+{{% timestamp videoId="qs8tEwjUavU" time="6569" display="01:49:29" %}} - in the Bible but Jesus is going to be in charge of them and in that same way Jesus is acting as the representative or  
+{{% timestamp videoId="qs8tEwjUavU" time="6577" display="01:49:37" %}} - the Regent of the father and that's the Dignity of the father that we're talking about here yeah yeah pretty much and I I  
+{{% timestamp videoId="qs8tEwjUavU" time="6585" display="01:49:45" %}} - do like where what you had had brought up that point that we've talked about before about how the father he's not  
+{{% timestamp videoId="qs8tEwjUavU" time="6590" display="01:49:50" %}} - even going to get his hand himself so to speak I mean turn of phrase probably isn't quite on point because you know  
+{{% timestamp videoId="qs8tEwjUavU" time="6597" display="01:49:57" %}} - God's God and he's not like us as created beings but he doesn't he's not even going to lift a finger himself to  
+{{% timestamp videoId="qs8tEwjUavU" time="6603" display="01:50:03" %}} - do he doesn't need to he doesn't have to exercise even the smallest amount of his power to defeat Satan instead he is  
+{{% timestamp videoId="qs8tEwjUavU" time="6610" display="01:50:10" %}} - going to redeem mankind not through an overwhelming display of his his grander and Majesty which he could do you know  
+{{% timestamp videoId="qs8tEwjUavU" time="6619" display="01:50:19" %}} - he could just snap his fingers and annihilate Satan instantly right in this like overwhelming pyrotechnic display of  
+{{% timestamp videoId="qs8tEwjUavU" time="6625" display="01:50:25" %}} - superiority but instead God is going to work through a human being someone who is weak who is frail who has all of  
+{{% timestamp videoId="qs8tEwjUavU" time="6635" display="01:50:35" %}} - these things that that would make this the angels scof and he's going to elevate Jesus Christ the resurrected  
+{{% timestamp videoId="qs8tEwjUavU" time="6642" display="01:50:42" %}} - Christ to his right hand and he's going to be the ruler God is showing that in fact he can do whatever he pleases and  
+{{% timestamp videoId="qs8tEwjUavU" time="6650" display="01:50:50" %}} - he doesn't have to annihilate Satan the choices of his other moral creatures through put the lie to Satan's  
+{{% timestamp videoId="qs8tEwjUavU" time="6658" display="01:50:58" %}} - entire PR platform through and through um and you know um that is I I should also  
+{{% timestamp videoId="qs8tEwjUavU" time="6666" display="01:51:06" %}} - say that um one other thing that if you get this Trope of Kings in your head or monarchy and and authority and things  
+{{% timestamp videoId="qs8tEwjUavU" time="6674" display="01:51:14" %}} - like that is you'll think about kind of like the beneficence or the magnam of Kings I know those are kind of big words  
+{{% timestamp videoId="qs8tEwjUavU" time="6681" display="01:51:21" %}} - but you know like the the King's favor or the king's good will you know um for his people you'll hear things like that  
+{{% timestamp videoId="qs8tEwjUavU" time="6690" display="01:51:30" %}} - God has that more than any other king you know any human kings are just kind of poor copies of the Divine version of  
+{{% timestamp videoId="qs8tEwjUavU" time="6697" display="01:51:37" %}} - this right you know not to get all platonic about it but you know like basically that sense of the dignity and  
+{{% timestamp videoId="qs8tEwjUavU" time="6706" display="01:51:46" %}} - and people like they want the king's blessing and his his like his I don't know his favor and uh like he's the one  
+{{% timestamp videoId="qs8tEwjUavU" time="6715" display="01:51:55" %}} - who you want you know like King's kissing babies okay you know like when we have that idea  
+{{% timestamp videoId="qs8tEwjUavU" time="6722" display="01:52:02" %}} - of he's a big deal right um that that guy's a big deal you know I do think that some of this symbolism is maybe  
+{{% timestamp videoId="qs8tEwjUavU" time="6730" display="01:52:10" %}} - lost on us a little bit because you know our particular country you know uh not real big on Kings right um that was kind  
+{{% timestamp videoId="qs8tEwjUavU" time="6740" display="01:52:20" %}} - of the thing about the American Revolution you know like we're going to Rebel from the British Monarchy because  
+{{% timestamp videoId="qs8tEwjUavU" time="6746" display="01:52:26" %}} - we don't want to pay taxes I part of it but you know like basically that kings are sort of anathema to us in what we  
+{{% timestamp videoId="qs8tEwjUavU" time="6754" display="01:52:34" %}} - considered our enlightened Western democracy but think about how hard this would hit for you know how about people  
+{{% timestamp videoId="qs8tEwjUavU" time="6761" display="01:52:41" %}} - who were under the emperor the Caesars in Rome this idea of central individual Authority um it doesn't hit for us in  
+{{% timestamp videoId="qs8tEwjUavU" time="6771" display="01:52:51" %}} - the same way it would for them as people under an absolute monarchy um per Imperial monarchy but you know on  
+{{% timestamp videoId="qs8tEwjUavU" time="6779" display="01:52:59" %}} - presidents are not Kings right um not in the way we're talking about here we're talking about people who have a right  
+{{% timestamp videoId="qs8tEwjUavU" time="6787" display="01:53:07" %}} - you know think like Mandate of Heaven you know what that is from history not that that's really a thing by the way  
+{{% timestamp videoId="qs8tEwjUavU" time="6793" display="01:53:13" %}} - but like the actual Mandate of Heaven Jesus has the real mandate to Heaven everyone else was just using it as an  
+{{% timestamp videoId="qs8tEwjUavU" time="6799" display="01:53:19" %}} - excuse to go steal people's land but it's Kings who have that basically the scepter from God  
+{{% timestamp videoId="qs8tEwjUavU" time="6808" display="01:53:28" %}} - himself that is what we're talking about in terms of Royal sovereignty Royal dignity is coming from that okay yeah  
+{{% timestamp videoId="qs8tEwjUavU" time="6818" display="01:53:38" %}} - sorry a little bit rambly but important Concepts all right so we are finally  
+{{% timestamp videoId="qs8tEwjUavU" time="6829" display="01:53:49" %}} - going to talk now kind of about how uh these characteristics of the son second person of the Trinity sort of contrast  
+{{% timestamp videoId="qs8tEwjUavU" time="6838" display="01:53:58" %}} - with all of the things that we've been talking about with respect to the father for the last minut so we went over how  
+{{% timestamp videoId="qs8tEwjUavU" time="6844" display="01:54:04" %}} - the father is invisible to us he's separated by that Veil uh due to the sinfulness of humanity he keeps himself  
+{{% timestamp videoId="qs8tEwjUavU" time="6851" display="01:54:11" %}} - separate we talked about how he is inaccessible to us um apart from uh us covering ourselves in the blood of  
+{{% timestamp videoId="qs8tEwjUavU" time="6858" display="01:54:18" %}} - Christ to approach his throne of grace we only have access to him through what Christ has already done for us and then  
+{{% timestamp videoId="qs8tEwjUavU" time="6865" display="01:54:25" %}} - we talked about how uh the Dignity of the father sent Jesus Christ to act on his behalf as a representative um so he  
+{{% timestamp videoId="qs8tEwjUavU" time="6873" display="01:54:33" %}} - is uh kind of analogist to a King who has uh you know the prince serve on his behalf or uh you know officers of the  
+{{% timestamp videoId="qs8tEwjUavU" time="6881" display="01:54:41" %}} - Court do things with his authority well that is sort of how the father sends Christ on his behalf um he sends someone  
+{{% timestamp videoId="qs8tEwjUavU" time="6889" display="01:54:49" %}} - as an agent to uh he represent and speak for the father um and that's how the father sends Jesus Christ as his  
+{{% timestamp videoId="qs8tEwjUavU" time="6897" display="01:54:57" %}} - representative but um by way of contrast to what we just talked about with the father um Jesus Christ actually uh is  
+{{% timestamp videoId="qs8tEwjUavU" time="6909" display="01:55:09" %}} - visible to us we have access to him and he humbles himself so that we can approach him as another person uh the  
+{{% timestamp videoId="qs8tEwjUavU" time="6919" display="01:55:19" %}} - visible member of the Trinity who we can take our cares and concerns before um so uh while we cannot initially see the  
+{{% timestamp videoId="qs8tEwjUavU" time="6927" display="01:55:27" %}} - father uh that is until we die after the Ascension uh he Ephesians chapter 4 mentions that uh Christ LED captivity  
+{{% timestamp videoId="qs8tEwjUavU" time="6935" display="01:55:35" %}} - captive uh those pre cross believers who were initially in Paradise in Hades are now in the presence of the father in the  
+{{% timestamp videoId="qs8tEwjUavU" time="6942" display="01:55:42" %}} - third heaven and that's where we too will go when we die in this present Church age um but while we cannot  
+{{% timestamp videoId="qs8tEwjUavU" time="6948" display="01:55:48" %}} - initially see the father we can see the son and can see the father through the son and so that principle comes up in  
+{{% timestamp videoId="qs8tEwjUavU" time="6955" display="01:55:55" %}} - the Gospel of John we have a verse here from John chapter 14 and so this is when they are asking Jesus show us the Father  
+{{% timestamp videoId="qs8tEwjUavU" time="6963" display="01:56:03" %}} - and Jesus says to them how I have I been so long with you and yet you have not come to know me Phillip he who has seen  
+{{% timestamp videoId="qs8tEwjUavU" time="6971" display="01:56:11" %}} - me has seen the father how can you say show us the father um so we might also reference and I know I've been harping  
+{{% timestamp videoId="qs8tEwjUavU" time="6978" display="01:56:18" %}} - on this one um but Hebrews chapter 1 brought this up over and over here how Christ is said to be uh the radiance of  
+{{% timestamp videoId="qs8tEwjUavU" time="6987" display="01:56:27" %}} - God's glory and the exact representation of his being uh Jesus Christ is not like an illusion he's not like a I don't know  
+{{% timestamp videoId="qs8tEwjUavU" time="6996" display="01:56:36" %}} - like a pale Similac room of the essence of God he is God and that was true during the Incarnation um we had the  
+{{% timestamp videoId="qs8tEwjUavU" time="7005" display="01:56:45" %}} - hypostatic Union in effect so uh God and man fully God yet fully man um now of course his divinity was veiled during  
+{{% timestamp videoId="qs8tEwjUavU" time="7014" display="01:56:54" %}} - the Incarnation under that doctrine that we call kenosis but at any rate Jesus says to Philip here um how can you say  
+{{% timestamp videoId="qs8tEwjUavU" time="7023" display="01:57:03" %}} - show us the father when you see the father through him Jesus acts as the representative of the father more than  
+{{% timestamp videoId="qs8tEwjUavU" time="7030" display="01:57:10" %}} - just like a token title but he is the radiance of the father's Glory that's what Hebrews chapter one tells us here  
+{{% timestamp videoId="qs8tEwjUavU" time="7037" display="01:57:17" %}} - so we could not initially approach the father we've talked about this we didn't have access to him until Christ won that  
+{{% timestamp videoId="qs8tEwjUavU" time="7045" display="01:57:25" %}} - for us on the cross but through the son we have gained that access another quote from first John here says I am the way  
+{{% timestamp videoId="qs8tEwjUavU" time="7052" display="01:57:32" %}} - the truth and the life no one comes to the father but through me um so we usually use this verse in terms of  
+{{% timestamp videoId="qs8tEwjUavU" time="7059" display="01:57:39" %}} - salvation but even for believers none of us even though we believe in God none of us can access the father except through  
+{{% timestamp videoId="qs8tEwjUavU" time="7068" display="01:57:48" %}} - Jesus Christ the only reason why we have access even as Believers even once all this has happened is because of what  
+{{% timestamp videoId="qs8tEwjUavU" time="7074" display="01:57:54" %}} - Christ did um so our sinfulness has kept us separate from the perfect Holiness of the father but the work of the son has  
+{{% timestamp videoId="qs8tEwjUavU" time="7083" display="01:58:03" %}} - rendered us holy and has reconciled us to him Colossians 1:22 says he has now reconciled you in his fleshly body  
+{{% timestamp videoId="qs8tEwjUavU" time="7091" display="01:58:11" %}} - through death in order to present you before him holy and blameless and Beyond reproach so our sin was nailed to the  
+{{% timestamp videoId="qs8tEwjUavU" time="7098" display="01:58:18" %}} - cross with Christ sometimes you'll hear it phrase like that so Jesus is the visible accessible member of the Trinity  
+{{% timestamp videoId="qs8tEwjUavU" time="7105" display="01:58:25" %}} - who was willing to Humble himself and associate with us to die for us this passage in Philippians chapter 2 talks  
+{{% timestamp videoId="qs8tEwjUavU" time="7113" display="01:58:33" %}} - about uh kinosis this is one of the places where we get it from in the Bible talks about Jesus humbling himself so uh  
+{{% timestamp videoId="qs8tEwjUavU" time="7121" display="01:58:41" %}} - picking up at verse six Hebrews chapter 2 verse 6 says he existed in the form of God but did not regard equality with God  
+{{% timestamp videoId="qs8tEwjUavU" time="7129" display="01:58:49" %}} - as a thing to be grasped but emptied himself that's where we get kinosis from but emptied himself taking the form of a  
+{{% timestamp videoId="qs8tEwjUavU" time="7136" display="01:58:56" %}} - bond servant and being made in the likeness of men being found in appearance as a man he humbled himself  
+{{% timestamp videoId="qs8tEwjUavU" time="7141" display="01:59:01" %}} - by becoming obedient to the point of death even death on a cross and then we talk about how uh for this reason Jesus  
+{{% timestamp videoId="qs8tEwjUavU" time="7148" display="01:59:08" %}} - will be highly exalted um that's part of the uh tius back here watch this this part of the monarchy that we talked  
+{{% timestamp videoId="qs8tEwjUavU" time="7156" display="01:59:16" %}} - about Jesus Will Rule as Regent on the father's behalf as king of kings and Lord of lords um and he will be exalted  
+{{% timestamp videoId="qs8tEwjUavU" time="7164" display="01:59:24" %}} - every knee will bow and every tongue will confess also In this passage from Philippians 2 um well where were we  
+{{% timestamp videoId="qs8tEwjUavU" time="7171" display="01:59:31" %}} - going with this well this is what Jesus was willing to do for us he humbled himself in order to take on a human  
+{{% timestamp videoId="qs8tEwjUavU" time="7178" display="01:59:38" %}} - nature to live alongside us and to die as the perfect substitute for our sins here so Christ has always been our point  
+{{% timestamp videoId="qs8tEwjUavU" time="7186" display="01:59:46" %}} - of contact with the godhead whether in the Old Testament in christophanies or after his appearance in true human ity  
+{{% timestamp videoId="qs8tEwjUavU" time="7192" display="01:59:52" %}} - following his Incarnation it's always been Jesus Christ who is the visible member of the Trinity and the one who we  
+{{% timestamp videoId="qs8tEwjUavU" time="7198" display="01:59:58" %}} - have contact with who gives us that that in if you will to the throne room of God the Father um and we've also emphasized  
+{{% timestamp videoId="qs8tEwjUavU" time="7206" display="02:00:06" %}} - throughout this series that the holy spirit is the Unseen member of the Trinity that's sort of uh his  
+{{% timestamp videoId="qs8tEwjUavU" time="7212" display="02:00:12" %}} - characteristic you know of the son is the accessible one the visible one the approachable one the father is the one  
+{{% timestamp videoId="qs8tEwjUavU" time="7218" display="02:00:18" %}} - in a position of authority the one with dignity like we talked about who sends the son on his behalf the spirit is the  
+{{% timestamp videoId="qs8tEwjUavU" time="7224" display="02:00:24" %}} - Unseen helper um but it's always been through the son that we have access to the father and and therefore actually  
+{{% timestamp videoId="qs8tEwjUavU" time="7231" display="02:00:31" %}} - access to the Trinity as a whole um Jesus is the one through whom we have access to and reconciliation with God  
+{{% timestamp videoId="qs8tEwjUavU" time="7240" display="02:00:40" %}} - and so this is why we're kind of contrasting what we talked about the father being in invisible inaccessible  
+{{% timestamp videoId="qs8tEwjUavU" time="7247" display="02:00:47" %}} - and uh having this Authority this dignity that sort of holds him apart from us uh so that he sends uh Jesus to  
+{{% timestamp videoId="qs8tEwjUavU" time="7254" display="02:00:54" %}} - work on his behalf well by way of contrast Jesus is visible to us is accessible to us and has humbled himself  
+{{% timestamp videoId="qs8tEwjUavU" time="7260" display="02:01:00" %}} - to live alongside us and become one of us taking on a human nature um and so you know we've talked before about how  
+{{% timestamp videoId="qs8tEwjUavU" time="7269" display="02:01:09" %}} - the roles in the Trinity it's not like either member of the Trinity is better or worse than the other in this they  
+{{% timestamp videoId="qs8tEwjUavU" time="7275" display="02:01:15" %}} - have adopted different roles in the plan to redeem Mankind and so the father's role is is to be that representation of  
+{{% timestamp videoId="qs8tEwjUavU" time="7284" display="02:01:24" %}} - deity uh the one who cannot tolerate sin representing that part of God's Essence that he cannot abide sin he is Holy he's  
+{{% timestamp videoId="qs8tEwjUavU" time="7292" display="02:01:32" %}} - set apart from it and Jesus is the one who chose to Humble himself to die on our behalf as a perfect substitute both  
+{{% timestamp videoId="qs8tEwjUavU" time="7300" display="02:01:40" %}} - members of the Trinity their roles are entirely necessary for the Redemption of mankind but they are not the same role  
+{{% timestamp videoId="qs8tEwjUavU" time="7307" display="02:01:47" %}} - right and of course we've spent a lot of time talking about the Trinity uh showing how that is the case here but  
+{{% timestamp videoId="qs8tEwjUavU" time="7313" display="02:01:53" %}} - the point in all of this is that even in the Old Testament as we've been talking about here the appearances of the sun is  
+{{% timestamp videoId="qs8tEwjUavU" time="7320" display="02:02:00" %}} - consistent with the son as being visible accessible and humbling himself he is the one who interacts with Humanity  
+{{% timestamp videoId="qs8tEwjUavU" time="7327" display="02:02:07" %}} - directly not the father and so all those instances that we've talked about and will continue to talk about in the next  
+{{% timestamp videoId="qs8tEwjUavU" time="7334" display="02:02:14" %}} - lesson here in this series of of the reincarnate Jesus Christ appearing to people in the Old Testament Jesus is the  
+{{% timestamp videoId="qs8tEwjUavU" time="7342" display="02:02:22" %}} - one who does this because it is aligned with these characteristics of the second member of the Trinity as opposed to the  
+{{% timestamp videoId="qs8tEwjUavU" time="7348" display="02:02:28" %}} - father's in invisibility inaccessibility and his dignity his separateness from the world so AI do you have points to  
+{{% timestamp videoId="qs8tEwjUavU" time="7357" display="02:02:37" %}} - add as we kind of tie up uh this this lesson we've been going over talking about theophany and christophany and why  
+{{% timestamp videoId="qs8tEwjUavU" time="7363" display="02:02:43" %}} - we're making this identification of Christ in the Old Testament uh it I think you you really  
+{{% timestamp videoId="qs8tEwjUavU" time="7371" display="02:02:51" %}} - kept Ed everything I would say just that um uh the point is to remind us of the glory the Majesty of God and at  
+{{% timestamp videoId="qs8tEwjUavU" time="7384" display="02:03:04" %}} - the same time his heart for Sinners because if God is Not removed from our sin we don't see just how desperate our  
+{{% timestamp videoId="qs8tEwjUavU" time="7396" display="02:03:16" %}} - situation is that is if God does not say you are not worthy of me I will not be in a situation where you can access me  
+{{% timestamp videoId="qs8tEwjUavU" time="7407" display="02:03:27" %}} - you are my enemies you are people worthy of being thrown into the Lake of Fire we will not see how desperate our situation  
+{{% timestamp videoId="qs8tEwjUavU" time="7413" display="02:03:33" %}} - is but if he did that alone we would not be saved so he did something else there was still the availability of somebody  
+{{% timestamp videoId="qs8tEwjUavU" time="7424" display="02:03:44" %}} - who who said as vile as your sin is as terrible as your Rebellion is and we are God  
+{{% timestamp videoId="qs8tEwjUavU" time="7433" display="02:03:53" %}} - cannot tolerate it at the same time God wants to bring you out of it he wants to  
+{{% timestamp videoId="qs8tEwjUavU" time="7442" display="02:04:02" %}} - rescue you so he does not abandon you to your situation that's what we see in this um issue of the son's accessibility  
+{{% timestamp videoId="qs8tEwjUavU" time="7453" display="02:04:13" %}} - because he presents the accessibility of God he is that he is that face of of God that says I won't abandon you to your um  
+{{% timestamp videoId="qs8tEwjUavU" time="7468" display="02:04:28" %}} - desperation to your frustration to your despair I will rescue you that was  
+{{% timestamp videoId="qs8tEwjUavU" time="7475" display="02:04:35" %}} - necessary so we we see both things the father representing the Holiness of God I will not tolerate this sort of thing  
+{{% timestamp videoId="qs8tEwjUavU" time="7483" display="02:04:43" %}} - around me and I will not have people of your caliber in fellowship with me  
+{{% timestamp videoId="qs8tEwjUavU" time="7492" display="02:04:52" %}} - and Jesus plays the role of I will not leave you to your mess I will clean you up and restore you to  
+{{% timestamp videoId="qs8tEwjUavU" time="7501" display="02:05:01" %}} - myself that's essentially um what I would say regarding that in addition to all that  
+{{% timestamp videoId="qs8tEwjUavU" time="7508" display="02:05:08" %}} - you [Music] said all right so that has been this  
+{{% timestamp videoId="qs8tEwjUavU" time="7515" display="02:05:15" %}} - lesson going over really the kind of basic differences between theophanes and christophanies what they mean  
+{{% timestamp videoId="qs8tEwjUavU" time="7522" display="02:05:22" %}} - conceptually and kind of introducing the idea that the appearances of God in the Old Testament were actually appearances  
+{{% timestamp videoId="qs8tEwjUavU" time="7529" display="02:05:29" %}} - of a pre-incarnate Jesus Christ so this has sort of been the high level view um so we talked about what theophany and  
+{{% timestamp videoId="qs8tEwjUavU" time="7536" display="02:05:36" %}} - christophany mean sort of in terms of their emology you know appearance of God or appearance of Christ we talked about  
+{{% timestamp videoId="qs8tEwjUavU" time="7542" display="02:05:42" %}} - the invisibility the inaccessibility and the Dignity of the father um who is separate from us and uh sort of has this  
+{{% timestamp videoId="qs8tEwjUavU" time="7551" display="02:05:51" %}} - this representation of Holiness in the Trinity that means he cannot tolerate human sin but how Jesus Christ chose to  
+{{% timestamp videoId="qs8tEwjUavU" time="7559" display="02:05:59" %}} - align himself with us so by way of contrast his visibility accessibility and humility um in taking on human form  
+{{% timestamp videoId="qs8tEwjUavU" time="7566" display="02:06:06" %}} - as that passage in Philippians chapter 2 talks about um gives us access to the father and so we see the father through  
+{{% timestamp videoId="qs8tEwjUavU" time="7574" display="02:06:14" %}} - the son the son is sent as a representative of the father and we went over everything that means here you know  
+{{% timestamp videoId="qs8tEwjUavU" time="7581" display="02:06:21" %}} - with the dignity of the father sting Christ as his representative we talked about his message his mediation his  
+{{% timestamp videoId="qs8tEwjUavU" time="7586" display="02:06:26" %}} - mission and his monarchy all of these things applying to Jesus Christ as the agent of our Redemption sent on behalf  
+{{% timestamp videoId="qs8tEwjUavU" time="7593" display="02:06:33" %}} - of the father so this was sort of like the overview or the introduction what we're going to be touching on in our  
+{{% timestamp videoId="qs8tEwjUavU" time="7599" display="02:06:39" %}} - next lesson is looking at some of the specific passages where we see uh appearances of God in the Old Testament  
+{{% timestamp videoId="qs8tEwjUavU" time="7606" display="02:06:46" %}} - and and as we've gone over here we're going to argue that all of those are actually christophanies but we're going  
+{{% timestamp videoId="qs8tEwjUavU" time="7610" display="02:06:50" %}} - to go ahead and look at some of those specific passages when we pick up in the next lesson  
+
+{{% /toggleable-transcript %}}
+
+{{% discussion-pages %}}
+
+{{% /discussion-pages %}}
+
+
+
+
+<br/>
+
+
+
+## [Appearances of Christ in the Old Testament](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament) {#appearances-of-christ-in-the-old-testament}
+{{< subjects >}}
+{{< /subjects >}}
+
+
+
+### Video {#appearances-of-christ-in-the-old-testament-video}
+
+{{% video
+videoId="B8EA_xrGqjI"
+
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8"
+
+slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament"
+%}}
+
+### Summary {#appearances-of-christ-in-the-old-testament-summary}
+
+All appearances of the The (definite article) Angel of the Lord in the Old Testament were appearances of a pre-incarnate Jesus Christ, the second member of the Trinity. The Angel of the Lord appeared many times during the Exodus of God's people from Egypt (and their subsequent journey into the promised land), and also appeared in various other places in the Old Testament as well, before such people as Abraham, Joshua, Gideon, and so on.
+
+### Timestamps {#appearances-of-christ-in-the-old-testament-timestamps}
+
+{{% timestamp videoId="B8EA_xrGqjI" time="0" display="0:00" %}} - Intro and outline  
+{{% timestamp videoId="B8EA_xrGqjI" time="327" display="05:27" %}} - Overview  
+{{% timestamp videoId="B8EA_xrGqjI" time="1493" display="24:53" %}} - The Angel of the Exodus  
+&emsp;{{% timestamp videoId="B8EA_xrGqjI" time="1960" display="32:40" %}} - The burning bush  
+&emsp;{{% timestamp videoId="B8EA_xrGqjI" time="3580" display="59:40" %}} - The column of cloud and fire  
+&emsp;{{% timestamp videoId="B8EA_xrGqjI" time="5486" display="01:31:26" %}} - The angel sent before the Israelites to guard them on the way  
+&emsp;{{% timestamp videoId="B8EA_xrGqjI" time="6357" display="01:45:57" %}} - The one whom Moses (among others) knew and spoke to "face to face"  
+&emsp;{{% timestamp videoId="B8EA_xrGqjI" time="7480" display="02:04:40" %}} - The angel who is said to have led the Israelites out of Egypt  
+{{% timestamp videoId="B8EA_xrGqjI" time="7749" display="02:09:09" %}} - The Angel of the Lord elsewhere  
+{{% timestamp videoId="B8EA_xrGqjI" time="10078" display="02:47:58" %}} - Conclusion  
+{{% timestamp videoId="B8EA_xrGqjI" time="10964" display="03:02:44" %}} - Summary and outro  
+
+{{% toggleable-content %}}
+
+### Content {#appearances-of-christ-in-the-old-testament-content}
+
+(Derived from https://ichthys.com/1Theo.htm)
+
+<!-- --- -->
+
+#### Overview {#appearances-of-christ-in-the-old-testament-overview}
+
+{{< subjects >}}
+<a href="/subject-index/#definite-articles-importance-of">Definite articles > Importance of</a>
+<a href="/subject-index/#the-angel-of-the-lord-is-a-pre-incarnate-jesus-christ-not-an-angel">The Angel of the Lord > Is a pre-incarnate Jesus Christ, not an angel</a>
+{{< /subjects >}}
+<!-- p="Genesis 3:8ff.; Daniel 8:16; Daniel 9:21; Luke 1:21-26; Isaiah 6; John 12:41;1 Corinthians 15:25; Galatians 3:19-20; Hebrews 2:2; Acts 7:38; Acts 7:53; Exodus 34:5ff." -->
+
+We have been in the process of demonstrating that the appearances of God to believers in the Old Testament (Theophanies), are really pre-incarnate appearances of the Father's representative, our Lord Jesus Christ, acting for the Father and speaking in His stead. In the majority (though not all) of these cases, the Old Testament identifies such appearances as "***the*** Angel of the Lord". Sometimes when God appears, however, as in His interrogation of Adam and Eve in the garden of Eden (Gen.3:8ff), there is no mention of "angels". Yet it seems clear from a number of passages discussed below, where the "Angel" is variously described as the Lord and "***the*** Angel of the Lord", that all such appearances are an essentially similar phenomenon: God appearing to Man in a recognizable form.
+
+The word "angel" is potentially confusing here on account of all the centuries of non-scriptural misinformation we have suffered through. "Angel" is a borrowing of the Greek *angelos*, meaning "messenger", and is itself a translation of the Hebrew *malach* bearing the same meaning. It is important to note that neither word inherently signifies heavenly creatures; both were originally applied to human messengers. Messengers from God would, of necessity, have to be supernatural, and on many occasions these are "angels" in the traditional English sense of the word, that is, that heavenly race of creatures who serve and minister to God (Gabriel, for example: Dan.8:16; 9:21; Lk.1:21-26).
+
+<!-- --- -->
+
+But ***the*** Angel of the Lord is an entirely different story, for scripture uses this phrase to designate an "appearance" of God Himself, taking on messenger form to deliver a message personally. As we have seen above, it is best to take these appearances of ***the*** Angel (messenger-servant) of the Lord to be appearances of ***the*** Messenger and Minister of the Father, Jesus Christ our Lord. For example, when we read of Isaiah's vision of the Lord (Is.6), it is understandable to assume at first that Isaiah's vision was of the Father, but John 12:41 tells us that Isaiah was beholding *Christ's* glory, and we understand (with our New Testament perspective) that this was a vision of our Lord in His capacity of King of Kings and Lord of Lords, the glorified ruler of the earth who has accepted the mantle of rulership from the Father (as He will return to reign until "He has placed all enemies under His feet" 1Cor.15:25).
+
+The appearance of the Lord to Moses in giving the Mosaic Law presents a case similar to the vision of Isaiah. At first glance, we may assume that Moses is actually viewing the Father (or His likeness: i.e., a Theophany). But the New Testament is quite explicit in stating that the law was given "through angels" (Greek: *di' angelon*: Gal.3:19-20; Heb.2:2; Acts 7:38 & 53). Since we know that these "angelic appearances" are represented in the Old Testament as appearances of God (e.g., Ex.34:5ff.), it must be the case that the New Testament passages which ascribe the giving of the Law to "angels" are in fact indicating that the Father spoke the Law to Moses through appearances of ***the*** Angel of the Lord, a manifestation of our pre-incarnate Lord, Jesus Christ (i.e., a Christophany).
+
+<!-- --- -->
+
+#### The Angel of the Exodus {#appearances-of-christ-in-the-old-testament-the-angel-of-the-exodus}
+
+{{< subjects >}}
+<a href="/subject-index/#the-angel-of-the-exodus-is-a-pre-incarnate-jesus-christ-not-an-angel">The Angel of the Exodus > Is a pre-incarnate Jesus Christ, not an angel</a>
+<a href="/subject-index/#exodus-people-of-israel-personally-superintended-every-step-of-the-way-by-god">Exodus > People of Israel personally superintended every step of the way by God</a>
+<a href="/subject-index/#exodus-symbolism-of">Exodus > Symbolism of</a>
+{{< /subjects >}}
+<!-- p="" -->
+
+The case of the Angel of the Exodus demonstrates both the divinity of the Angel of the Lord and His identification as a pre-incarnate manifestation of our Lord Jesus Christ.
+
+You'll see exactly what we mean by "the Angel of the Exodus" as we go through the next bit. The specific focus here is on passages from the first few books of the Bible---from the calling of Moses, to Israel's flight from Egypt, to their settlement in the promised land. At every step of the way, they were guided by a pre-incarnate Jesus Christ, on behalf of the Father.
+
+<!-- --- -->
+
+##### The burning bush {#appearances-of-christ-in-the-old-testament-the-burning-bush}
+
+{{< subjects >}}
+<a href="/subject-index/#branch-jesus-is-the-branch-out-of-the-stem-of-jesse">Branch > Jesus is the Branch out of the stem of Jesse</a>
+<a href="/subject-index/#fire-is-a-symbol-of-judgement">Fire > Is a symbol of judgement</a>
+<a href="/subject-index/#burning-bush-symbolizes-the-cross-christ-burning-but-not-being-consumed">Burning bush > Symbolizes the cross - Christ burning but not being consumed</a>
+{{< /subjects >}}
+<!-- p="Exodus 3:2ff.; Isaiah 4:2; Isaiah 11:1; Isaiah 53:2; Jeremiah 23:5; Jeremiah 33:15; Zechariah 3:8; Zechariah 6:12; Leviticus 1" -->
+
+The Angel first appears to Moses in the burning bush (Ex.3:2ff.). It is the Angel of the Lord who appeared to Moses in the fiery flames (v.2), but shortly thereafter the Angel represents Himself as God the Father, saying "I am the God of your father, the God of Abraham, the God of Isaac and the God of Jacob (v.6), and "I shall be who I am" (v.14), and is further identified as "the Lord" (in v.7). The symbolism of the fire and the bush is important: the bush calls attention to Christ, the Messiah, as the Branch (Is.4:2; 11:1; 53:2; Jer.23:5; 33:15; Zech.3:8; 6:12), while the fire represents the fiery judgment of the cross that does not consume Him (cf., for example, the burnt offerings of Lev.1 which represent Christ's work on the cross). This first appearance of the Angel of the Lord to Moses, then, is a Christophany, an appearance of the pre-incarnate Christ representing and speaking for the Father.
+
+<!-- --- -->
+
+##### The column of cloud and fire {#appearances-of-christ-in-the-old-testament-the-column-of-cloud-and-fire}
+
+{{< subjects >}}
+<a href="/subject-index/#column-of-cloud-and-fire-is-a-pre-incarnate-jesus-christ-not-an-angel">Column of cloud and fire > Is a pre-incarnate Jesus Christ, not an angel</a>
+<a href="/subject-index/#column-of-cloud-and-fire-when-combined-with-location-above-the-ark-is-symbolic-of-the-cross">Column of cloud and fire > When combined with location above the ark, is symbolic of the cross</a>
+{{< /subjects >}}
+<!-- p="Exodus 14:19; Exodus 13:21; Numbers 9:15; Leviticus 16; Numbers 17; Exodus 25:16; Exodus 25:21; Exodus 25:22; Hebrews 9:3-4" -->
+
+The Angel is called "of God" at Exodus 14:19 as He appears in the column of cloud and fire. Previously, at Exodus 13:21, Jehovah Himself is said to have been the one going ahead of the Israelites in the column of cloud and fire. Once again, the Lord and the Angel are identified as one and the same, and by appearing from within the fire of the column (which would later stand over the place of the ark in the tabernacle where the blood representing Christ's sacrifice would be sprinkled on the day of atonement: Num.9:15 with Lev.16), we again have a picture of Christ's saving work, enduring judgment on our behalf.
+
+Links to further solidify the link between Num.9:15 with Lev.16 (discussed in the video):
+
+- [revelation - What is "the Temple of the Tabernacle of Testimony"? - Biblical Hermeneutics Stack Exchange](https://hermeneutics.stackexchange.com/questions/22245/what-is-the-temple-of-the-tabernacle-of-testimony)
+- [Numbers 17 NASB - Aaron’s Staff Buds - Then the LORD - Bible Gateway](https://www.biblegateway.com/passage/?search=Numbers%2017&version=NASB)
+- [Numbers 17 NIV - The Budding of Aaron’s Staff - The - Bible Gateway](https://www.biblegateway.com/passage/?search=Numbers%2017&version=NIV)
+- [Hebrews 9:3-4 NIV - Behind the second curtain was a room - Bible Gateway](https://www.biblegateway.com/passage/?search=Hebrews+9%3A3-4&version=NIV)
+
+<!-- --- -->
+
+##### The angel sent before the Israelites to guard them on the way {#appearances-of-christ-in-the-old-testament-the-angel-sent-before-the-israelites-to-guard-them-on-the-way}
+
+{{< subjects >}}
+<a href="/subject-index/#interpretation-apparent-contradictions-if-jesus-gave-moses-the-law-not-the-farther-did-he-say-he-will-send-himself">Interpretation > Apparent contradictions > If Jesus gave Moses the Law not the Farther, did He say He will send Himself?</a>
+<a href="/subject-index/#jesus-speaks-for-the-father-as-a-messenger">Jesus > Speaks for the Father as a messenger</a>
+{{< /subjects >}}
+<!-- p="Exodus 23:20-23; Galatians 3:19-20; Hebrews 2:2; Acts 7:38; Acts 7:53; Revelation 19:11-16" -->
+
+At Exodus 23:20-23 as part of the giving of the Law to Moses on Sinai, the Angel of the Lord (identified as such as we saw above from New Testament passages such as Gal.3:19-20; Heb.2:2; Acts 7:38 & 53) proclaims that He is going to "send" the Angel before the Israelites to lead and guard them (as Christ is sent by the Father). Moses is also told that they are to obey the Angel "because My Name is in Him" (v.21), a similar description to that of the returning Son of Man in Revelation 19:11-16.
+
+<!-- --- -->
+
+##### The one whom Moses (among others) knew and spoke to "face to face" {#appearances-of-christ-in-the-old-testament-the-one-whom-moses-among-others-knew-and-spoke-to-face-to-face}
+
+{{< subjects >}}
+<a href="/subject-index/#god-s-overwhelming-glory-instant-death-for-sinful-flesh-does-not-just-apply-to-the-father">God's overwhelming glory > Instant death for sinful flesh > Does not just apply to the Father</a>
+<a href="/subject-index/#kenosis-completely-veiled-jesus-s-overwhelming-divine-glory-during-his-first-advent">Kenosis > Completely veiled Jesus's overwhelming divine glory during His First Advent</a>
+<a href="/subject-index/#jesus-showing-moses-his-glory-is-speaking-of-seeing-his-full-unveiled-glory-not-seeing-his-face-generally">Jesus > Showing Moses His glory > Is speaking of seeing His full unveiled glory, not seeing His face generally</a>
+{{< /subjects >}}
+<!-- p="1 Timothy 6:16; John 1:18; Exodus 24:9-11; Exodus 24:16-18; Exodus 33:18ff.; Numbers 12:8; Deuteronomy 34:10" -->
+
+Despite the fact that no one has ever seen the Father while on this earth (see above), we are told that the elders saw the God of Israel (in company with Moses and Aaron: Ex.24:9-11), and we know that Moses entered the cloud of glory and spoke with the Lord on Sinai (Ex.24:16-18) and petitioned the Lord to "show me Your glory" (a request He granted: Ex.33:18ff.). We also find in Numbers 12:8 that Moses saw "the form of the Lord" and from Deuteronomy we know that unlike any other servant of the Lord, Moses spoke with Him "face to face" (Deut.34:10). This then surely is once again the Angel of the Lord, not the actual presence of the Father, but the appearance of the One who is sent by Him, speaks for Him, and who has undertaken to fulfill His plan of salvation in this world, our Lord and Savior Jesus Christ, appearing in pre-incarnate Christophany.
+
+<!-- --- -->
+
+##### The angel who is said to have led the Israelites out of Egypt {#appearances-of-christ-in-the-old-testament-the-angel-who-is-said-to-have-led-the-israelites-out-of-egypt}
+
+{{< subjects >}}
+<a href="/subject-index/#jesus-as-messenger-of-the-father-does-not-speak-how-angel-messengers-like-gabriel-do">Jesus > As messenger of the Father > Does not speak how angel messengers like Gabriel do</a>
+{{< /subjects >}}
+<!-- p="Judges 2:1-5" -->
+
+Finally, the last appearance of the Angel in respect to the Exodus is at Judges 2:1-5. Here the Angel claims to be the One who "led you up from the land of Egypt" and reminds the Israelites that He will never break "My covenant with you". Only the Father Himself could make such a claim – or Someone representing Him, that is, His Servant, our Lord Jesus Christ who would fulfill that covenant and minister a new one for us all in His blood.
+
+<!-- --- -->
+
+#### The Angel of the Lord elsewhere {#appearances-of-christ-in-the-old-testament-the-angel-of-the-lord-elsewhere}
+
+{{< subjects >}}
+<a href="/subject-index/#christophany-occurrences-external-to-exodus-narrative">Christophany > Occurrences external to Exodus narrative</a>
+<a href="/subject-index/#the-angel-of-the-lord-inferentially-must-be-a-pre-incarnate-christ-since-this-being-never-appears-again-after-the-incarnation">The Angel of the Lord > Inferentially must be a pre-incarnate Christ, since this being never appears again after the incarnation</a>
+{{< /subjects >}}
+<!-- p="Genesis 32:24-32; Hosea 12:3-4; Genesis 18; Joshua 5:13-15; Revelation 19:10; Revelation 22:9; Exodus 3:5ff.; Exodus 24:9-11; John 1:49; Judges 6:11-23; Judges 13:2-23; Isaiah 6:1ff.; John 12:41; Ezekiel 1:25-28; Revelation 1:12-16; Zechariah 1:7-17" -->
+
+Other appearances of God in the Old Testament are likewise best taken as Christophanies, whether or not the actual term "the Angel of the Lord" is employed:
+
+- The supernatural "Man" who wrestles with Jacob (Gen.32:22-32) elicits this response from Jacob: "I have seen God face to face, yet my life was spared". Hosea 12:3-4 confirms that this was the Angel and God.
+- The "Man" who appeared to Abraham along with His two companions in Genesis 18 is later said to be "the Lord" (v.22).
+- The "Man" who appeared to Joshua (Josh.5:13-15) claims to be the "commander of the Lord's host". Joshua then not only worships Him (a thing forbidden where mere angels are involved: Rev.19:10; 22:9), but is also told to remove his sandals because he is standing on ground that is holy (i.e., sanctified by the presence of God: cf. Ex.3:5ff.).
+- Along with Moses and Aaron, the elders of Israel see "the God of Israel" on Mt. Sinai (Ex.24:9-11). Despite the fact that no one has ever seen the Father, nor can see Him and live, they not only see the God of Israel, but have a symbolic meal of fellowship with Him, an event that clearly foreshadows communion based on the blood of our Lord Jesus Christ, the coming "King of Israel" (Jn.1:49).
+- The Angel of the Lord who appears to Gideon (Judg.6:11-23) is also said to be the Lord (vv.16-17). The Angel also identifies Himself with the sacrifice (by touching it with His staff) which then goes up in flames, representing the fiery judgment of God (that Christ was to undergo on our behalf).
+
+<!-- --- -->
+
+- The Angel of the Lord's appearance to the parents of Samson is similar to His appearance to Gideon (Judg.13:2-23). The Angel is described as such throughout the passage, but Manoah and his wife, though realizing that an angel has appeared to them, do not realize this is in fact the Angel of the Lord until His fiery departure (v.21), at which point Manoah exclaims "We have seen God" (v.22). The symbolism of self-sacrifice by the Angel is even more distinctly drawn in this passage, for He "ascended in the flame" of the burnt sacrifice (v.20), the very picture of Christ being judged on our behalf, teaching Old Testament believers to look forward to God's future forgiveness of sins through a sacrifice that He would provide.
+- We have already discussed Isaiah's vision of Israel's King (Is.6:1ff.), which turns out to be a vision of Jesus Christ as Israel's appointed ruler in the line of David (Jn.12:41).
+- Similarly, Ezekiel's vision of God (Ezek.1:25-28) is strikingly similar to the description of the glorified Christ found in Revelation (Rev.1:12-16; cf. the elders of Israel on Mt. Sinai: Ex.24:9-11).
+- Zechariah's vision of the Angel of the Lord (Zech.1:7-17) is instructive because the Angel, clearly divine as seen from the examples above, is presented as distinct from the Lord of Hosts, that is, the Father, so that this is undoubtedly a Christophany.
+- Finally, it has often been pointed out that after the birth of Christ, though angels do make many more appearances in the Bible, ***the*** Angel of the Lord no longer appears in the scriptures.
+
+<!-- --- -->
+
+#### Conclusion {#appearances-of-christ-in-the-old-testament-conclusion}
+
+{{< subjects >}}
+<a href="/subject-index/#theology-proper-is-not-just-some-dusty-academic-subject-but-is-crucial-in-informing-our-worldview-and-decisions">Theology proper > Is not just some dusty academic subject, but is crucial in informing our worldview and decisions</a>
+{{< /subjects >}}
+<!-- p="John 1:18; 2 Corinthians 4:6" -->
+
+The Lord Jesus Christ has always been and will always be the Person with whom we have to do, and in whom we must believe in order to have an eternal relationship with the Father. It is only Christ who has "made the Father known" (Jn.1:18), and only through Him do we come to possess "the knowledge of the glory of God in the face of Christ" (2Cor.4:6). In the Old Testament, we hear the Father appearing through the (pre-incarnate) Son; in the New Testament, we see and hear the (incarnate) Son speaking the Father's words.
+
+So the Trinity has always been present in God's revelation of Himself to those who believe and follow Him. As Christians, whenever we say the word "God" we should keep in mind that for us, this means the Trinity – the Father and the Son and the Holy Spirit.
+
+{{% /toggleable-content %}}
+
+{{% toggleable-transcript %}}
+
+### Video/audio transcript {#appearances-of-christ-in-the-old-testament-video-audio-transcript}
+
+{{% timestamp videoId="B8EA_xrGqjI" time="0" display="00:00" %}} - so in this last lesson of this study of Bible basics part one theology we are going to be talking about the specific  
+{{% timestamp videoId="B8EA_xrGqjI" time="8" display="00:08" %}} - passages going over appearances of Christ in the Old Testament so just to situate ourselves we just finished uh  
+{{% timestamp videoId="B8EA_xrGqjI" time="16" display="00:16" %}} - recently talking about an overview of appearances of Christ in the Old Testament we talked about uh the  
+{{% timestamp videoId="B8EA_xrGqjI" time="23" display="00:23" %}} - difference between theophanies and christophanies and the father's invisibility his inaccessibility and his  
+{{% timestamp videoId="B8EA_xrGqjI" time="29" display="00:29" %}} - dignity conted with the sun's visibility accessibility and humility and that's introducing the concept but here's where  
+{{% timestamp videoId="B8EA_xrGqjI" time="35" display="00:35" %}} - we are now in the study very bottom going over the actual cases of christophany in the Old Testament so if  
+{{% timestamp videoId="B8EA_xrGqjI" time="41" display="00:41" %}} - we scroll down a bit this is what we're going to be talking about in this lesson here this part of the study and so it's  
+{{% timestamp videoId="B8EA_xrGqjI" time="46" display="00:46" %}} - sort of organized into uh two different kind of groupings here we have uh the just another overview talking about sort  
+{{% timestamp videoId="B8EA_xrGqjI" time="55" display="00:55" %}} - of the Angel of the Lord and what that means as a concept you know sort of what the words for Angel are in Greek and  
+{{% timestamp videoId="B8EA_xrGqjI" time="62" display="01:02" %}} - Hebrew and how their kind of generic usage as Messengers is different from Jesus Christ as the angel definite  
+{{% timestamp videoId="B8EA_xrGqjI" time="69" display="01:09" %}} - article of the Lord and then we're going to talk about the angel of Exodus of the book of uh Exodus or at least the first  
+{{% timestamp videoId="B8EA_xrGqjI" time="77" display="01:17" %}} - few books of the Bible where um the angel of the Lord leads the Israelites God's people out of Egypt so we have  
+{{% timestamp videoId="B8EA_xrGqjI" time="84" display="01:24" %}} - this um burning bush um you know the uh appearance of God to Moses calling him telling him to go to Egypt  
+{{% timestamp videoId="B8EA_xrGqjI" time="92" display="01:32" %}} - and rescue his people the column of cloud and fire that went before the people of Israel as they wand the  
+{{% timestamp videoId="B8EA_xrGqjI" time="98" display="01:38" %}} - Wilderness um the Angels sent before the Israelites to guard them on the way we have this passage in uh Exodus I think  
+{{% timestamp videoId="B8EA_xrGqjI" time="105" display="01:45" %}} - it's like chapter 21 we'll see the verses in the slides um talking about how he sent before them and then we have  
+{{% timestamp videoId="B8EA_xrGqjI" time="112" display="01:52" %}} - all these uh encounters with you know one member of the Trinity said to be God but someone who they speak to face to  
+{{% timestamp videoId="B8EA_xrGqjI" time="120" display="02:00" %}} - face so Moses for example was said to be a friend of God who spoke to him face to face that's actually the words that the  
+{{% timestamp videoId="B8EA_xrGqjI" time="126" display="02:06" %}} - Bible itself uses and you know we've already talked before about how this means that uh these appearances of God  
+{{% timestamp videoId="B8EA_xrGqjI" time="132" display="02:12" %}} - in the Old Testament have to be the sun because we have it on good authority also in the Bible that no one can see  
+{{% timestamp videoId="B8EA_xrGqjI" time="139" display="02:19" %}} - the father and live um so there's one way in which we know that all of these things have to be christophanies and  
+{{% timestamp videoId="B8EA_xrGqjI" time="145" display="02:25" %}} - then finally I'm just talking about how in the Book of Judges we get this mention of  
+{{% timestamp videoId="B8EA_xrGqjI" time="150" display="02:30" %}} - how the people were said to be led out of Egypt by the Angel um who we know to be the angel of the Lord definite  
+{{% timestamp videoId="B8EA_xrGqjI" time="157" display="02:37" %}} - article because we know that God himself was in that pillar or the pillar of cloud and fire um so all of these things  
+{{% timestamp videoId="B8EA_xrGqjI" time="164" display="02:44" %}} - we'll tie them together with the specific passages and we'll get this idea this powerful representation of God  
+{{% timestamp videoId="B8EA_xrGqjI" time="170" display="02:50" %}} - personally leading his people out of Slavery to Egypt um that is highly symbolic um you know Egypt that place we  
+{{% timestamp videoId="B8EA_xrGqjI" time="177" display="02:57" %}} - turn back to in our hearts that's us in sin man that is US turning to the Wicked Ways of the world um now we're not going  
+{{% timestamp videoId="B8EA_xrGqjI" time="185" display="03:05" %}} - to make too much more out of the metaphor than it is but you know this parallel we see as well is also going to  
+{{% timestamp videoId="B8EA_xrGqjI" time="191" display="03:11" %}} - be in play when we get to the end times in human history we are going to be you know Watching God judge the wickedness  
+{{% timestamp videoId="B8EA_xrGqjI" time="200" display="03:20" %}} - of the world just how he judged uh the Egyptians with the plagues we're going to see the the trumpet and bold  
+{{% timestamp videoId="B8EA_xrGqjI" time="206" display="03:26" %}} - judgments of Revelation as God preserves his people throughout that most trying time in  
+{{% timestamp videoId="B8EA_xrGqjI" time="212" display="03:32" %}} - human history and we will see the promised land at the end of it all we will have the peace and restoration of  
+{{% timestamp videoId="B8EA_xrGqjI" time="218" display="03:38" %}} - the Millennium just how the Israelites were led into the promised land of Canaan so in any case um the angel of  
+{{% timestamp videoId="B8EA_xrGqjI" time="226" display="03:46" %}} - Exodus um the uh rep uh the appearances of God as the definite artical Angel of the Lord in his direct shepherding of  
+{{% timestamp videoId="B8EA_xrGqjI" time="235" display="03:55" %}} - his people out of Egypt uh is one of the more um I I suppose like one of the the places  
+{{% timestamp videoId="B8EA_xrGqjI" time="243" display="04:03" %}} - in the Old Testament where we more frequently see God appear um as as opposed to being in Visions or talking  
+{{% timestamp videoId="B8EA_xrGqjI" time="249" display="04:09" %}} - to prophets or something we actually have what we would call physical manifestations of God in this particular  
+{{% timestamp videoId="B8EA_xrGqjI" time="256" display="04:16" %}} - account of uh the people of Israel being led out of Egypt and then we're also going to go over uh where the angel of  
+{{% timestamp videoId="B8EA_xrGqjI" time="263" display="04:23" %}} - the Lord is mentioned elsewhere in the Bible or where we we understand it to be him by implication um so we're going to  
+{{% timestamp videoId="B8EA_xrGqjI" time="270" display="04:30" %}} - get this this nice wide understanding look at all these passages together that show these appearances of God in the Old  
+{{% timestamp videoId="B8EA_xrGqjI" time="277" display="04:37" %}} - Testament and just as we've been arguing all along we're going to conclude that all of these are in fact christophanies  
+{{% timestamp videoId="B8EA_xrGqjI" time="283" display="04:43" %}} - that it's the pre-incarnate Jesus Christ who manifests as the angel of the Lord in these Old Testament appearances of  
+{{% timestamp videoId="B8EA_xrGqjI" time="290" display="04:50" %}} - God um and then notably um after Jesus Christ takes on a human nature in the Incarnation we stop hearing about the  
+{{% timestamp videoId="B8EA_xrGqjI" time="297" display="04:57" %}} - angel of the Lord there is no the Angel of the Lord in the New Testament there's just Jesus Christ and so that is the  
+{{% timestamp videoId="B8EA_xrGqjI" time="303" display="05:03" %}} - evidence here that there is continuity that the second member of the Trinity is and has always been the one who is  
+{{% timestamp videoId="B8EA_xrGqjI" time="310" display="05:10" %}} - visible to us so we're just going to be tying up this study kind of going over this last loose end in uh the Trinity  
+{{% timestamp videoId="B8EA_xrGqjI" time="319" display="05:19" %}} - talking about how the Trinity was manifested in the Old Testament with Jesus Christ sent on behalf of God the  
+{{% timestamp videoId="B8EA_xrGqjI" time="326" display="05:26" %}} - Father so the first thing that we're going to be talking about here uh is sort of  
+{{% timestamp videoId="B8EA_xrGqjI" time="334" display="05:34" %}} - going in a little bit more depth about this idea of the definite article Angel of the Lord and what that means and how  
+{{% timestamp videoId="B8EA_xrGqjI" time="341" display="05:41" %}} - we kind of contrast that with uh Messengers or Representatives sent on God's behalf who were not you know Jesus  
+{{% timestamp videoId="B8EA_xrGqjI" time="349" display="05:49" %}} - Christ because we have actual literal angels we also have human beings who can be sent as messengers of God like the  
+{{% timestamp videoId="B8EA_xrGqjI" time="355" display="05:55" %}} - prophets for example so uh we have been in the process here of demon rating that the appearances of God to Believers in  
+{{% timestamp videoId="B8EA_xrGqjI" time="362" display="06:02" %}} - the Old Testament are really pre-incarnate appearances of the father's representative that is Jesus  
+{{% timestamp videoId="B8EA_xrGqjI" time="367" display="06:07" %}} - Christ acting for the father and speaking in his stead that was sort of the point of the last lesson we went  
+{{% timestamp videoId="B8EA_xrGqjI" time="373" display="06:13" %}} - over kind of uh outlining exactly what theophanes and christophanies are as Concepts and arguing that in fact Jesus  
+{{% timestamp videoId="B8EA_xrGqjI" time="381" display="06:21" %}} - Christ pre-incarnate Jesus Christ was the member of the Trinity who appeared to folks in the Old Testament and so in  
+{{% timestamp videoId="B8EA_xrGqjI" time="390" display="06:30" %}} - the majority of these cases the Old Testament identifies such appearances using this particular phrase here is the  
+{{% timestamp videoId="B8EA_xrGqjI" time="398" display="06:38" %}} - Angel of the Lord and the importance of the wordthe is important there or sorry the the wordthe is important there  
+{{% timestamp videoId="B8EA_xrGqjI" time="406" display="06:46" %}} - because it is a so-called definite article it means that we're talking about a specific Angel of the Lord this  
+{{% timestamp videoId="B8EA_xrGqjI" time="412" display="06:52" %}} - one as opposed to just any old messenger of the Lord because that is actually what angel means so skipping ahead a bit  
+{{% timestamp videoId="B8EA_xrGqjI" time="421" display="07:01" %}} - here um the Greek word for Angel is angas um so you may actually see this transliterated sometimes with two G's  
+{{% timestamp videoId="B8EA_xrGqjI" time="428" display="07:08" %}} - because in Greek a gamma that comes before another Gamma or another V Act V consonant is pronounced as sort of the  
+{{% timestamp videoId="B8EA_xrGqjI" time="438" display="07:18" %}} - the same sound as in the word sing at the end of the word v nasal sound so angas here and then Malak in Hebrew it  
+{{% timestamp videoId="B8EA_xrGqjI" time="447" display="07:27" %}} - also has that same meaning here of messenger uh someone who is sent as a representative um and so we have some  
+{{% timestamp videoId="B8EA_xrGqjI" time="456" display="07:36" %}} - confusion here because angels have all this baggage from centuries and centuries of people talking about and  
+{{% timestamp videoId="B8EA_xrGqjI" time="463" display="07:43" %}} - teaching on these things that maybe sometimes we muddy the waters a bit here and we do have appearances of angels in  
+{{% timestamp videoId="B8EA_xrGqjI" time="470" display="07:50" %}} - the Bible we'll get to that just a sec but uh who we are talking about here with the angel of the Lord is not an  
+{{% timestamp videoId="B8EA_xrGqjI" time="477" display="07:57" %}} - angel as in that c ategory of created being we are talking about a member of the Trinity um so when God Appears in  
+{{% timestamp videoId="B8EA_xrGqjI" time="488" display="08:08" %}} - his interrogation of Adam and Eve in the Garden of Eden in the middle part of Genesis chapter 3 so when it says  
+{{% timestamp videoId="B8EA_xrGqjI" time="494" display="08:14" %}} - Genesis 38 says that they heard the sound of the Lord God Walking In The Garden in the cool of the day and then  
+{{% timestamp videoId="B8EA_xrGqjI" time="501" display="08:21" %}} - they hid themselves we have no mention of Angels In this passage you know it wasn't an Angelic being walking around  
+{{% timestamp videoId="B8EA_xrGqjI" time="509" display="08:29" %}} - in the garden it was the Lord God and so there is a physical manifestation of deity present in this account in Genesis  
+{{% timestamp videoId="B8EA_xrGqjI" time="518" display="08:38" %}} - chapter 3 but we don't have any mention of angels whatsoever and we also just know from all these passages that we're  
+{{% timestamp videoId="B8EA_xrGqjI" time="525" display="08:45" %}} - going to be going through that angel here is variously described as the Lord and the angel of the Lord so basically  
+{{% timestamp videoId="B8EA_xrGqjI" time="534" display="08:54" %}} - we know that all of these appearances have to be God manifesting himself to mankind as in physically something that  
+{{% timestamp videoId="B8EA_xrGqjI" time="542" display="09:02" %}} - people can see with their eyes it's not like I don't know a spectre in their minds or something like that it is  
+{{% timestamp videoId="B8EA_xrGqjI" time="547" display="09:07" %}} - actually God manifesting himself to humanity and so as we kind of skipped ahead we're talking about how angels are  
+{{% timestamp videoId="B8EA_xrGqjI" time="555" display="09:15" %}} - different than this right we said there were no Angels present in this passage in Genesis chapter 3 this is just the  
+{{% timestamp videoId="B8EA_xrGqjI" time="561" display="09:21" %}} - Lord God talking to Adam and Eve directly face to face um angels as a class of created creature are different  
+{{% timestamp videoId="B8EA_xrGqjI" time="570" display="09:30" %}} - than humans um Angels were created first ichus talks in great detail about some of angelic prehistory in the satanic  
+{{% timestamp videoId="B8EA_xrGqjI" time="577" display="09:37" %}} - Rebellion series um on the site um so all of that happens before the creation of mankind and in fact we are sort of in  
+{{% timestamp videoId="B8EA_xrGqjI" time="585" display="09:45" %}} - the midst of this Cosmic battle between Satan and the rebelling Angels uh and God of course God could win in an  
+{{% timestamp videoId="B8EA_xrGqjI" time="593" display="09:53" %}} - instant but he's letting this play out because these created creatures have dained to raise their hand against their  
+{{% timestamp videoId="B8EA_xrGqjI" time="599" display="09:59" %}} - creator but they are not God they are not they don't have the essence of divinity one of those properties being  
+{{% timestamp videoId="B8EA_xrGqjI" time="606" display="10:06" %}} - you know Infinity omniscience omnipotence externality to SpaceTime angels are just creatures they are you  
+{{% timestamp videoId="B8EA_xrGqjI" time="615" display="10:15" %}} - know smarter and wiser and and much more powerful than we are but they're still just created beings um so those are  
+{{% timestamp videoId="B8EA_xrGqjI" time="622" display="10:22" %}} - Angelic messengers of the actual quote unquote Angel variety but we do not refer to them when we talk about the  
+{{% timestamp videoId="B8EA_xrGqjI" time="633" display="10:33" %}} - angel of the Lord and so uh importantly actually these words that I mentioned so angas in Greek and Malak in Hebrew  
+{{% timestamp videoId="B8EA_xrGqjI" time="642" display="10:42" %}} - actually don't necessarily even mean a supernatural being as in we have the angel of the Lord who is pre-incarnate  
+{{% timestamp videoId="B8EA_xrGqjI" time="649" display="10:49" %}} - Jesus Christ we have Angels like Gabriel for example who are you know Angelic beings beings other than humans but it  
+{{% timestamp videoId="B8EA_xrGqjI" time="658" display="10:58" %}} - can actually just apply to normal regular human Messengers as well this is just the word in Greek and Hebrew for  
+{{% timestamp videoId="B8EA_xrGqjI" time="665" display="11:05" %}} - saying someone sent on behalf of another someone who is a messenger um Messengers from God you know who aren't inherently  
+{{% timestamp videoId="B8EA_xrGqjI" time="673" display="11:13" %}} - human you know except for the prophets who hear things from God well they would of necessity have to be Supernatural and  
+{{% timestamp videoId="B8EA_xrGqjI" time="680" display="11:20" %}} - a lot of the time so for example when uh the birth of the Messiah is communicated to Mary that is done through an Angel um  
+{{% timestamp videoId="B8EA_xrGqjI" time="689" display="11:29" %}} - uh Supernatural messenger from God who is not Jesus because you know the angel is communicating to Mary that Jesus will  
+{{% timestamp videoId="B8EA_xrGqjI" time="697" display="11:37" %}} - be born this is an actual angel in the literal sense of the word you know how we use that word in English but the  
+{{% timestamp videoId="B8EA_xrGqjI" time="704" display="11:44" %}} - point is is that the word doesn't necessarily have to mean that it can mean messenger and then you have to do  
+{{% timestamp videoId="B8EA_xrGqjI" time="710" display="11:50" %}} - some interpretation you know exercise that principle of hermeneutics that pulling things from Context you have to  
+{{% timestamp videoId="B8EA_xrGqjI" time="718" display="11:58" %}} - read things in the context in which they were written figure out what is the meaning what is the sense here well when  
+{{% timestamp videoId="B8EA_xrGqjI" time="723" display="12:03" %}} - you do all of that background work you will pretty clearly see that we have this pattern here that sometimes  
+{{% timestamp videoId="B8EA_xrGqjI" time="731" display="12:11" %}} - messenger refers to human being sometimes it refers to Angels that's pretty commonly who it refers to uh kind  
+{{% timestamp videoId="B8EA_xrGqjI" time="737" display="12:17" %}} - of if God is communicating with humanity and it's not otherwise clear that the one doing the communicating as God  
+{{% timestamp videoId="B8EA_xrGqjI" time="743" display="12:23" %}} - himself then often times God did speak through Angels um so it wasn't just in the new test you know Daniel several  
+{{% timestamp videoId="B8EA_xrGqjI" time="751" display="12:31" %}} - times had Angels communicate things to him for example um but some of the time it is also the angel of the Lord this  
+{{% timestamp videoId="B8EA_xrGqjI" time="761" display="12:41" %}} - this reincarnate appearance of Jesus Christ as the one and only representative of the father in a way  
+{{% timestamp videoId="B8EA_xrGqjI" time="768" display="12:48" %}} - that angels as created beings simply aren't um and so this isn't to say that they're not true messengers of God they  
+{{% timestamp videoId="B8EA_xrGqjI" time="775" display="12:55" %}} - are acting in their capacity but they aren't the messenger of God um and so that's sort of the point that  
+{{% timestamp videoId="B8EA_xrGqjI" time="781" display="13:01" %}} - we're introducing here the angel of the Lord is an entirely different story for scripture uses this phrase to designate  
+{{% timestamp videoId="B8EA_xrGqjI" time="788" display="13:08" %}} - an appearance of God himself taking on messenger form to deliver a message personally and so as we've already  
+{{% timestamp videoId="B8EA_xrGqjI" time="795" display="13:15" %}} - talked about it's best to take these appearances of the Angel of the Lord to be appearances of the messenger and  
+{{% timestamp videoId="B8EA_xrGqjI" time="802" display="13:22" %}} - minister of the father and that is Jesus Christ he is sent as the agent or the representative of our salvation of our  
+{{% timestamp videoId="B8EA_xrGqjI" time="809" display="13:29" %}} - Redemption and so for example when we read of Isaiah's vision of the Lord and this comes in chapter six of the book of  
+{{% timestamp videoId="B8EA_xrGqjI" time="816" display="13:36" %}} - Isaiah we have this accounting of a person sitting on the throne someone who's highly exalted and this is where  
+{{% timestamp videoId="B8EA_xrGqjI" time="824" display="13:44" %}} - we hear that Holy Holy Holy and Isaiah says woe is me I am ruined because I'm a man of unclean lips um and so king of uh  
+{{% timestamp videoId="B8EA_xrGqjI" time="832" display="13:52" %}} - the king the Lord of hosts here well who is Isaiah seeing here is he seeing the father or is he seeing the son well in  
+{{% timestamp videoId="B8EA_xrGqjI" time="839" display="13:59" %}} - John 12: 41 we get this mention of Isaiah saying that he said these things because he saw his glory and he spoke of  
+{{% timestamp videoId="B8EA_xrGqjI" time="848" display="14:08" %}} - him uh it's not quite an airtight deductive argument there this a little bit inferential but we have this this  
+{{% timestamp videoId="B8EA_xrGqjI" time="855" display="14:15" %}} - inkling then that Isaiah is actually talking about seeing Christ's glory and this uh to go back to the uh concept we  
+{{% timestamp videoId="B8EA_xrGqjI" time="862" display="14:22" %}} - talked about in our last lesson is kind of getting that idea of the monarchy of Jesus Christ ruling as a regent on the  
+{{% timestamp videoId="B8EA_xrGqjI" time="869" display="14:29" %}} - father's behalf Jesus not only the father but Jesus is called the king of king and the Lord of lords um so we have  
+{{% timestamp videoId="B8EA_xrGqjI" time="876" display="14:36" %}} - this hold on I know it comes up somewhere in the future here uh here uh in Revelation sorry I just have memory  
+{{% timestamp videoId="B8EA_xrGqjI" time="885" display="14:45" %}} - because I was going through the slides earlier here uh Jesus has a name written on his thigh king of King and Lord of  
+{{% timestamp videoId="B8EA_xrGqjI" time="891" display="14:51" %}} - lords this is right there in Revelation this is when he's returning in Revelation chapter 19 so Jesus has that  
+{{% timestamp videoId="B8EA_xrGqjI" time="897" display="14:57" %}} - he has that monarchy has that Authority delegated from the father here um and so where I'm going with all this is that  
+{{% timestamp videoId="B8EA_xrGqjI" time="905" display="15:05" %}} - that when we see Visions or not when we when prophets saw Visions were they seeing the father were they seeing  
+{{% timestamp videoId="B8EA_xrGqjI" time="913" display="15:13" %}} - Christ sometimes they were actually seeing Christ too it's not just appearing before people it depends on  
+{{% timestamp videoId="B8EA_xrGqjI" time="919" display="15:19" %}} - context of course as we said it's important for us to not try to make rules where there aren't any we always  
+{{% timestamp videoId="B8EA_xrGqjI" time="925" display="15:25" %}} - have to figure out you know who is in view by reading the round in context of the passages but the point is this is  
+{{% timestamp videoId="B8EA_xrGqjI" time="932" display="15:32" %}} - Jesus in his capacity as the King of Kings and the Lord of lords the glorified ruler of the earth who has  
+{{% timestamp videoId="B8EA_xrGqjI" time="938" display="15:38" %}} - accepted the mantle of rulership from the Father and Jesus will reign until he has placed all enemies under his feet in  
+{{% timestamp videoId="B8EA_xrGqjI" time="946" display="15:46" %}} - which point um the world is turned over to the father you know we have the heavens and the Earth remade so that's a  
+{{% timestamp videoId="B8EA_xrGqjI" time="952" display="15:52" %}} - quote from 1 Corinthians chapter 15 says he must Reign until he has put all his enemies under his feet  
+{{% timestamp videoId="B8EA_xrGqjI" time="960" display="16:00" %}} - so all of this is talking about Jesus serving as that representative just how we've been talking about from the  
+{{% timestamp videoId="B8EA_xrGqjI" time="966" display="16:06" %}} - beginning the distinction in terminology we're making here is that we are talking about the definite article Angel of the  
+{{% timestamp videoId="B8EA_xrGqjI" time="973" display="16:13" %}} - Lord we're putting sort of a title to it when Jesus appears in the Old Testament very often this language is used of him  
+{{% timestamp videoId="B8EA_xrGqjI" time="980" display="16:20" %}} - and even when it's not we can infer in other places that this is the being who is who has been sent by the father um  
+{{% timestamp videoId="B8EA_xrGqjI" time="989" display="16:29" %}} - so the appearance of uh the Lord to Moses in giving the Mosaic law uh presents a pretty similar Vision to that  
+{{% timestamp videoId="B8EA_xrGqjI" time="997" display="16:37" %}} - of Isaiah here at first glance we may assume that Moses is actually viewing the father or his likeness somehow but  
+{{% timestamp videoId="B8EA_xrGqjI" time="1004" display="16:44" %}} - the New Testament is actually quite explicit in stating that the law was given through angels and so in Greek  
+{{% timestamp videoId="B8EA_xrGqjI" time="1011" display="16:51" %}} - that is dongon here so this is a preposition uh that can mean like through um that's typic how it's  
+{{% timestamp videoId="B8EA_xrGqjI" time="1019" display="16:59" %}} - translated so through Angel the angelan here um we see that in all these passages which I'll read a little bit  
+{{% timestamp videoId="B8EA_xrGqjI" time="1025" display="17:05" %}} - later when we get to them but you can well no maybe I'll go through them now so you can see verse 19 it says that  
+{{% timestamp videoId="B8EA_xrGqjI" time="1032" display="17:12" %}} - transgressions having been ordained through Angels by the agency of immediate right so the law coming  
+{{% timestamp videoId="B8EA_xrGqjI" time="1038" display="17:18" %}} - through Angels Galatians chapter 3: 19-20 Hebrews chapter 2:2 says for if the words spoken through Angels proved  
+{{% timestamp videoId="B8EA_xrGqjI" time="1047" display="17:27" %}} - unalterable that his again talking about the law being given acts 7:38 um this is the one who was in the  
+{{% timestamp videoId="B8EA_xrGqjI" time="1056" display="17:36" %}} - congregation in the wilderness together with the angel who was speaking to him on Mount Si the angel speaking to him  
+{{% timestamp videoId="B8EA_xrGqjI" time="1063" display="17:43" %}} - although we know from Exodus chapter 32 through 34 you know that account of Moses receiving the law that it was the  
+{{% timestamp videoId="B8EA_xrGqjI" time="1070" display="17:50" %}} - Lord as in that tetragrammaton is used of him in the Hebrew the Lord was speaking to Moses so if he's called an  
+{{% timestamp videoId="B8EA_xrGqjI" time="1077" display="17:57" %}} - angel or the Angel rather but he's also called God that's where we get the angel of the Lord from um and then acts 7: 53  
+{{% timestamp videoId="B8EA_xrGqjI" time="1087" display="18:07" %}} - uh again said to have the laws ordained by Angels received through Angels um so all of this means that the laws were  
+{{% timestamp videoId="B8EA_xrGqjI" time="1096" display="18:16" %}} - given to humanity by a messenger or a representative and the problem with this translation as we just went through is  
+{{% timestamp videoId="B8EA_xrGqjI" time="1104" display="18:24" %}} - that a lot of the times people think that we have like I don't know Michael or Gabriel floating around as in Angelic  
+{{% timestamp videoId="B8EA_xrGqjI" time="1110" display="18:30" %}} - creatures of the class of beings that we call Angels rather than it being these things were given through a messenger is  
+{{% timestamp videoId="B8EA_xrGqjI" time="1119" display="18:39" %}} - the sense here and that messenger was Jesus Christ um so these Angelic appearances are represented in the Old  
+{{% timestamp videoId="B8EA_xrGqjI" time="1126" display="18:46" %}} - Testaments as appearances of God here's that passage from Exodus chapter 34 I was mentioning you can't take this as  
+{{% timestamp videoId="B8EA_xrGqjI" time="1134" display="18:54" %}} - anything other than the Lord the Lord descended in the cloud and stood there with him as he called upon the name of  
+{{% timestamp videoId="B8EA_xrGqjI" time="1139" display="18:59" %}} - the Lord the Lord passed in front of him the Lord the Lord God you know this is God talking to Moses god appearing  
+{{% timestamp videoId="B8EA_xrGqjI" time="1146" display="19:06" %}} - before Moses it is not like Gabriel or one of the other messenger Angels this is God himself except that passage in  
+{{% timestamp videoId="B8EA_xrGqjI" time="1155" display="19:15" %}} - Acts chapter 7 here just said that Moses was talking to an angel so you see how people might get  
+{{% timestamp videoId="B8EA_xrGqjI" time="1162" display="19:22" %}} - confused by this if they try to equate these with Angelic beings well if Exodus 34 says that you know it was God talking  
+{{% timestamp videoId="B8EA_xrGqjI" time="1170" display="19:30" %}} - to Moses but Acts chapter 7 says it was an angel talking to Moses and you think Angel equals creature you know not Angel  
+{{% timestamp videoId="B8EA_xrGqjI" time="1177" display="19:37" %}} - as the angel of the Lord then people run into problems because of this but this is actually exactly why it must be the  
+{{% timestamp videoId="B8EA_xrGqjI" time="1184" display="19:44" %}} - case that the New Testament passages which ascribe the giving of the law to angels are actually indicating that the  
+{{% timestamp videoId="B8EA_xrGqjI" time="1191" display="19:51" %}} - father spoke the law to Moses through an appearance of the Angel of the Lord a manifestation of our pre-incarnate Lord  
+{{% timestamp videoId="B8EA_xrGqjI" time="1200" display="20:00" %}} - Jesus Christ that is through christophany the law was given to us through a messenger through a  
+{{% timestamp videoId="B8EA_xrGqjI" time="1207" display="20:07" %}} - representative not by God the Father directly because that's what the New Testament says and the only way to make  
+{{% timestamp videoId="B8EA_xrGqjI" time="1214" display="20:14" %}} - this not have contradictions is if we understand that the person who was sent as a messenger the person who is called  
+{{% timestamp videoId="B8EA_xrGqjI" time="1221" display="20:21" %}} - an angel here you know angalo in uh the Greek which we should probably better translate less confusing in our Modern  
+{{% timestamp videoId="B8EA_xrGqjI" time="1229" display="20:29" %}} - English versions as messenger rather than Angel so that people don't get as confused well the one sent as a  
+{{% timestamp videoId="B8EA_xrGqjI" time="1234" display="20:34" %}} - messenger in this giving of the law was in fact Jesus Christ not you know an Angelic being like  
+{{% timestamp videoId="B8EA_xrGqjI" time="1242" display="20:42" %}} - Gabriel so I I know that was a lot of information this is sort of the Whirlwind overview to the specific  
+{{% timestamp videoId="B8EA_xrGqjI" time="1248" display="20:48" %}} - concept that we're going over here is that Jesus is the definite article Angel of the Lord he serves as we've already  
+{{% timestamp videoId="B8EA_xrGqjI" time="1254" display="20:54" %}} - talked about as a messenger or a representative of the father but we're talking here about how that makes him  
+{{% timestamp videoId="B8EA_xrGqjI" time="1261" display="21:01" %}} - distinct from both human Messengers and messengers of an Angelic variety as in the class of faded beings called angels  
+{{% timestamp videoId="B8EA_xrGqjI" time="1270" display="21:10" %}} - He is different from both of them because he is actually God so lot to go through there aie do you  
+{{% timestamp videoId="B8EA_xrGqjI" time="1278" display="21:18" %}} - have anything to add to this kind of upfront overview of how we're talking about Jesus in  
+{{% timestamp videoId="B8EA_xrGqjI" time="1285" display="21:25" %}} - his want say christop appearances when he's appearing in christophanies I think you covered the  
+{{% timestamp videoId="B8EA_xrGqjI" time="1294" display="21:34" %}} - the whole ground really the fact that uh Angel is not um it's really not the shall we say  
+{{% timestamp videoId="B8EA_xrGqjI" time="1302" display="21:42" %}} - technical name of the class of creatures that God created before human beings were created we we we only have this uh  
+{{% timestamp videoId="B8EA_xrGqjI" time="1312" display="21:52" %}} - we do have other terms the sons of God and uh um gods and what not yes we we have that but um we we frequently call  
+{{% timestamp videoId="B8EA_xrGqjI" time="1323" display="22:03" %}} - them angels and that has given many especially in our times the notion that when you see the word angel in the  
+{{% timestamp videoId="B8EA_xrGqjI" time="1332" display="22:12" %}} - Scriptures it would necessarily be addressing itself to a class of creatures but you've made it clear that  
+{{% timestamp videoId="B8EA_xrGqjI" time="1341" display="22:21" %}} - in fact it's just a word that means messenger and the messenger of the Lord Lord is um a very definite person that  
+{{% timestamp videoId="B8EA_xrGqjI" time="1353" display="22:33" %}} - we're talking about it's not just any one of the many messengers of the Lord but this one is a very he's a unique one  
+{{% timestamp videoId="B8EA_xrGqjI" time="1362" display="22:42" %}} - he stands out yeah um there isn't uh there isn't much more that I think uh I have to see yeah add we see this  
+{{% timestamp videoId="B8EA_xrGqjI" time="1373" display="22:53" %}} - distinctness that AI mentioned more clearly when we actually go through all the passages here this is just sort of  
+{{% timestamp videoId="B8EA_xrGqjI" time="1379" display="22:59" %}} - the upfront or just priming us to be ready for when we talk about Jesus in this way but we're going to see all the  
+{{% timestamp videoId="B8EA_xrGqjI" time="1385" display="23:05" %}} - passages as we go through the next slides here I me you know like we said this word that we translate as messenger  
+{{% timestamp videoId="B8EA_xrGqjI" time="1393" display="23:13" %}} - the fact that a lot of versions actually translated as Angel is actually somewhat what is confusing because in  
+{{% timestamp videoId="B8EA_xrGqjI" time="1400" display="23:20" %}} - English in English when we use the word Angel we don't think messenger we think subass of creature right but the problem  
+{{% timestamp videoId="B8EA_xrGqjI" time="1409" display="23:29" %}} - is that in Greek they're one and the same thing but we have specialized the meaning of that word such that I  
+{{% timestamp videoId="B8EA_xrGqjI" time="1415" display="23:35" %}} - actually think that this particular translation here in nasby 95 is a mistranslation I don't think you should  
+{{% timestamp videoId="B8EA_xrGqjI" time="1421" display="23:41" %}} - use that word in English here I think you need to say together with the messenger or the representative of the  
+{{% timestamp videoId="B8EA_xrGqjI" time="1426" display="23:46" %}} - father if you want who was speaking with him on sin because when you translate as Angel people think that it's like  
+{{% timestamp videoId="B8EA_xrGqjI" time="1432" display="23:52" %}} - Gabriel because that's how we use the word um so uh it's not any one translation that  
+{{% timestamp videoId="B8EA_xrGqjI" time="1439" display="23:59" %}} - does this I mean I bet if we were to go look up this verse in a bunch of different Bible versions it's not like  
+{{% timestamp videoId="B8EA_xrGqjI" time="1443" display="24:03" %}} - this is the only one that actually translates that word as Angel but it just tends to be misleading for us in  
+{{% timestamp videoId="B8EA_xrGqjI" time="1449" display="24:09" %}} - English uh because of how people use it yeah all right well I think that's where we'll stop this overview we will pick up  
+{{% timestamp videoId="B8EA_xrGqjI" time="1458" display="24:18" %}} - talking about all of these appearances of the Angel of the Lord throughout the Old Testament um so that's what we will  
+{{% timestamp videoId="B8EA_xrGqjI" time="1466" display="24:26" %}} - kind of spend the rest of this lesson going about we're going to talk first about specifically the appearances of  
+{{% timestamp videoId="B8EA_xrGqjI" time="1471" display="24:31" %}} - this Angel of the Lord in The Exodus account so that Narrative of God leading his people out of Egypt but we'll also  
+{{% timestamp videoId="B8EA_xrGqjI" time="1478" display="24:38" %}} - see that there's some other there's some other appearances of of the Angel of the Lord the definite artical Angel of the  
+{{% timestamp videoId="B8EA_xrGqjI" time="1485" display="24:45" %}} - Lord in the Old Testament too quite a few in fact and so um that's kind of what we'll be spending the rest of our  
+{{% timestamp videoId="B8EA_xrGqjI" time="1490" display="24:50" %}} - time in this lesson talking about so now we're going to be talking about this concept of the Angel of the  
+{{% timestamp videoId="B8EA_xrGqjI" time="1500" display="25:00" %}} - Lord that we have been going over this pre-incarnate Jesus Christ appearing to people in the Old Testament as the agent  
+{{% timestamp videoId="B8EA_xrGqjI" time="1508" display="25:08" %}} - or representative of the father well now we're going to spend some time specifically focusing on uh certain  
+{{% timestamp videoId="B8EA_xrGqjI" time="1514" display="25:14" %}} - things related to The Exodus the uh Escape of the people of Israel from slavery in Egypt and their Journey to  
+{{% timestamp videoId="B8EA_xrGqjI" time="1522" display="25:22" %}} - the promised land so um of all the places in scripture this is some of where we see most directly uh the  
+{{% timestamp videoId="B8EA_xrGqjI" time="1530" display="25:30" %}} - activity of the definite article Angel of the Lord you know he comes up in these places uh in this narrative so the  
+{{% timestamp videoId="B8EA_xrGqjI" time="1538" display="25:38" %}} - giving of the law on Mount Si the pillar of cloud and the pillar of fire we'll go through some other ones as you see as we  
+{{% timestamp videoId="B8EA_xrGqjI" time="1544" display="25:44" %}} - go here but this gives us a sense of God's relationship with his people and the one cent who we have talked about  
+{{% timestamp videoId="B8EA_xrGqjI" time="1554" display="25:54" %}} - being a messenger but not just any old messenger like human being beings or angels as creatures but the messenger of  
+{{% timestamp videoId="B8EA_xrGqjI" time="1562" display="26:02" %}} - God the person who actually speaks for the father who has the authority to do that and that is of course the  
+{{% timestamp videoId="B8EA_xrGqjI" time="1569" display="26:09" %}} - pre-incarnate Jesus Christ and so um the angel of The Exodus demonstrates both the Divinity of the Angel of the Lord  
+{{% timestamp videoId="B8EA_xrGqjI" time="1580" display="26:20" %}} - and his identification as a pre-incarnate manifestation of our Lord Jesus Christ and how we can kind of make  
+{{% timestamp videoId="B8EA_xrGqjI" time="1586" display="26:26" %}} - such a strong assertion I think we'll become a little bit clearer as we go through the first couple examples here  
+{{% timestamp videoId="B8EA_xrGqjI" time="1592" display="26:32" %}} - um but basically we know that this isn't just any old run-of-the-mill messenger because there are overtones of divinity  
+{{% timestamp videoId="B8EA_xrGqjI" time="1601" display="26:41" %}} - in the passages we're going to look at it it is clear that we are talking about God as in Yahweh Jehovah however you  
+{{% timestamp videoId="B8EA_xrGqjI" time="1610" display="26:50" %}} - want to transliterate the tetragramaton um you know the god of Abraham and Isaac and Jacob the god of your forefathers  
+{{% timestamp videoId="B8EA_xrGqjI" time="1617" display="26:57" %}} - that God is who we are talking about here and yet uh the being represented in many of these cases is also called an  
+{{% timestamp videoId="B8EA_xrGqjI" time="1626" display="27:06" %}} - Angel um and so the only way that you reconcile these things as we've kind of already been over is that well it has to  
+{{% timestamp videoId="B8EA_xrGqjI" time="1632" display="27:12" %}} - be a messenger who is also god um and that makes perfect sense we understand that that is the role that the son has  
+{{% timestamp videoId="B8EA_xrGqjI" time="1639" display="27:19" %}} - chosen to adopt in the Trinity he speaks as the father's agent uh carrying the authority of the father to be clear but  
+{{% timestamp videoId="B8EA_xrGqjI" time="1647" display="27:27" %}} - on his behalf he represents the plan of the Trinity to humanity as the one who we see the one who is visible to us uh  
+{{% timestamp videoId="B8EA_xrGqjI" time="1656" display="27:36" %}} - to whom we have access and so uh you'll kind of see exactly what I mean by quote unquote the angel of The Exodus as we go  
+{{% timestamp videoId="B8EA_xrGqjI" time="1665" display="27:45" %}} - here on that is I I I suppose I haven't read all the systematic theologies in the world I this is sort of something  
+{{% timestamp videoId="B8EA_xrGqjI" time="1671" display="27:51" %}} - that we're coining here as just a shorthand way to represent uh the being who is very much guiding Israel  
+{{% timestamp videoId="B8EA_xrGqjI" time="1679" display="27:59" %}} - throughout this period And so just as way of shorthand we're going to call this being the angel of The Exodus you  
+{{% timestamp videoId="B8EA_xrGqjI" time="1685" display="28:05" %}} - know you just compare the angel of the lord it's the same it's the same person uh it is the pre-incarnate Jesus Christ  
+{{% timestamp videoId="B8EA_xrGqjI" time="1692" display="28:12" %}} - but uh we are arguing that this person we're talking about here is the Angel of the Lord as in christophany as in the  
+{{% timestamp videoId="B8EA_xrGqjI" time="1700" display="28:20" %}} - pre-incarnate Jesus Christ that's kind of the argument we're making um but you'll see exactly what we mean by this  
+{{% timestamp videoId="B8EA_xrGqjI" time="1705" display="28:25" %}} - as we go through the following passages uh because it will kind of situate Us in context of of all the times that God  
+{{% timestamp videoId="B8EA_xrGqjI" time="1712" display="28:32" %}} - Appears to the Israelites during this period in the Old Testament so the specific Focus here is going to be on  
+{{% timestamp videoId="B8EA_xrGqjI" time="1719" display="28:39" %}} - passages from the first few books of the Bible so it's not strictly going to be Exodus although a lot of passages will  
+{{% timestamp videoId="B8EA_xrGqjI" time="1725" display="28:45" %}} - come from that book specifically you know we'll get some from numbers and Deuteronomy and things like that too um  
+{{% timestamp videoId="B8EA_xrGqjI" time="1730" display="28:50" %}} - so things like from the calling of Moses with the burning bush to Israel's flight from Egypt and pharaoh to their settle  
+{{% timestamp videoId="B8EA_xrGqjI" time="1738" display="28:58" %}} - in the promised land in every step of the way during this journey they were Guided by a pre-incarnate Jesus Christ  
+{{% timestamp videoId="B8EA_xrGqjI" time="1746" display="29:06" %}} - on behalf of the father so it's not like Jesus of his own will decided that this was the path that the Israelites were  
+{{% timestamp videoId="B8EA_xrGqjI" time="1752" display="29:12" %}} - going to take he was there as a representative of the father as God worked out his Redemptive plan for  
+{{% timestamp videoId="B8EA_xrGqjI" time="1759" display="29:19" %}} - Israel which by the way is a symbol of his Redemption of us right um and so we've talked a little bit about  
+{{% timestamp videoId="B8EA_xrGqjI" time="1767" display="29:27" %}} - symbolism and typology already but once you start looking for it you will see it everywhere um and this is one such  
+{{% timestamp videoId="B8EA_xrGqjI" time="1773" display="29:33" %}} - instance here with God's Deliverance of his people out of the clutches of pharaoh into the promised land we talked  
+{{% timestamp videoId="B8EA_xrGqjI" time="1780" display="29:40" %}} - about this uh eschatologically already a bit you know is going to mirror us going through the tribulation and being  
+{{% timestamp videoId="B8EA_xrGqjI" time="1787" display="29:47" %}} - delivered to the Millennium but it also is true of us on a personal spiritual level as well um and so uh it's not like  
+{{% timestamp videoId="B8EA_xrGqjI" time="1794" display="29:54" %}} - we're allegorizing this overly it's just typology can have multiple fulfillments that's the sort of idea here but not to  
+{{% timestamp videoId="B8EA_xrGqjI" time="1800" display="30:00" %}} - belabor that point too much as we go through these just keep in your mind that this person who is very physically  
+{{% timestamp videoId="B8EA_xrGqjI" time="1809" display="30:09" %}} - present with the Israelites in this time of their need this is the god whom we serve today as well and he is just as  
+{{% timestamp videoId="B8EA_xrGqjI" time="1817" display="30:17" %}} - present for us if only we would turn to him um and I think sometimes we forget that I don't want to go off on a tangent  
+{{% timestamp videoId="B8EA_xrGqjI" time="1824" display="30:24" %}} - here but just I think it's a point worth making that we think well you know back in the old days when people were more uh  
+{{% timestamp videoId="B8EA_xrGqjI" time="1831" display="30:31" %}} - superstitious and we didn't have smartphone cameras maybe God does things in the world you know maybe there's a  
+{{% timestamp videoId="B8EA_xrGqjI" time="1837" display="30:37" %}} - pillar of Fire in the Sky but you know we live in the the boring modern times where Miracles don't happen or whatever  
+{{% timestamp videoId="B8EA_xrGqjI" time="1845" display="30:45" %}} - and part of this is that we get fixated on physical Supernatural events as in Pillars of Fire And The Parting of the  
+{{% timestamp videoId="B8EA_xrGqjI" time="1853" display="30:53" %}} - Red Sea but we fail to understand God's spiritual deliverance and the spiritual import behind things because honestly  
+{{% timestamp videoId="B8EA_xrGqjI" time="1860" display="31:00" %}} - that's the important part right God takes us out of position of spiritual death to life eternal that's way more  
+{{% timestamp videoId="B8EA_xrGqjI" time="1869" display="31:09" %}} - impactful than just moving some water right um and I think that's the attitude we need to have when we think about  
+{{% timestamp videoId="B8EA_xrGqjI" time="1875" display="31:15" %}} - these things carrying it forward to ourselves is we're not just studying this because G whiz all these things  
+{{% timestamp videoId="B8EA_xrGqjI" time="1881" display="31:21" %}} - happened in the past well that's nice we're studying it because it helps us understand God who he is what he does  
+{{% timestamp videoId="B8EA_xrGqjI" time="1888" display="31:28" %}} - for his people and we are his people not just Israel we have been grafted onto the vine of Israel As Romans chapter 11  
+{{% timestamp videoId="B8EA_xrGqjI" time="1896" display="31:36" %}} - tells us so um before we kick off here Audi is there anything else you want to say just on uh kind of The Exodus story  
+{{% timestamp videoId="B8EA_xrGqjI" time="1905" display="31:45" %}} - itself and why that's a good way for us to frame talking about christophany specifically I think what you've said is  
+{{% timestamp videoId="B8EA_xrGqjI" time="1914" display="31:54" %}} - pretty much enough I don't think uh I'm going to be able to say anything right now that won't preempt a lot of stuff we  
+{{% timestamp videoId="B8EA_xrGqjI" time="1921" display="32:01" %}} - will'll be getting into and that's pretty normal for us right you know we have lots to go through so we'll get to  
+{{% timestamp videoId="B8EA_xrGqjI" time="1927" display="32:07" %}} - it in the individual ones then but just trying to frame us basically just be thinking about some of the stuff we've  
+{{% timestamp videoId="B8EA_xrGqjI" time="1934" display="32:14" %}} - talked about here as we go through all the examples moving forward we're talking about all of these specific  
+{{% timestamp videoId="B8EA_xrGqjI" time="1939" display="32:19" %}} - passages to give us that sense of ah this person who guided the Israelites that is the God we serve that is the pre  
+{{% timestamp videoId="B8EA_xrGqjI" time="1947" display="32:27" %}} - carnate Jesus Christ appearing to us in the Old Testament it is christophany so just bear that thought in mind as we go  
+{{% timestamp videoId="B8EA_xrGqjI" time="1954" display="32:34" %}} - forward with all of the specific passages kind of what we're trying to frame everything  
+{{% timestamp videoId="B8EA_xrGqjI" time="1959" display="32:39" %}} - with yeah so the first appearance that we're going to look at quite a famous one I  
+{{% timestamp videoId="B8EA_xrGqjI" time="1968" display="32:48" %}} - might add here is the burning bush in Exodus chapter three so I'm going to go ahead and read some of this it's  
+{{% timestamp videoId="B8EA_xrGqjI" time="1975" display="32:55" %}} - probably a familiar passage to many people uh it's a powerful physical symbol of the Judgment Christ endured  
+{{% timestamp videoId="B8EA_xrGqjI" time="1982" display="33:02" %}} - for us the bush which is not consumed by the fire right um and Dr lugan Bill explains how we get there a little bit  
+{{% timestamp videoId="B8EA_xrGqjI" time="1989" display="33:09" %}} - more with some of the verses that we'll go over in a second here but this is the story of when Moses encounters the  
+{{% timestamp videoId="B8EA_xrGqjI" time="1996" display="33:16" %}} - burning bush in the first part of Exodus chapter 3 so Exodus chapter 3 picking up at verse two says the angel of the Lord  
+{{% timestamp videoId="B8EA_xrGqjI" time="2004" display="33:24" %}} - appeared to him that is Moses in a blazing fire from the midst of a bush and he looked and behold the Bush was  
+{{% timestamp videoId="B8EA_xrGqjI" time="2011" display="33:31" %}} - burning with fire yet the Bush was not consumed so Moses said I must turn aside now and see this marvelous sight why  
+{{% timestamp videoId="B8EA_xrGqjI" time="2018" display="33:38" %}} - this bush is not burned up when the Lord saw that he turned aside to look God Called to him from the midst of the Bush  
+{{% timestamp videoId="B8EA_xrGqjI" time="2025" display="33:45" %}} - and said Moses Moses and he said here I am then he he being God saido not come near here remove your sandals from your  
+{{% timestamp videoId="B8EA_xrGqjI" time="2036" display="33:56" %}} - feet for the place on which you are standing is Holy Ground he also said I am the god of your father the god of  
+{{% timestamp videoId="B8EA_xrGqjI" time="2043" display="34:03" %}} - Abraham the god of Isaac and the god of Jacob then Moses hid his face for he was afraid to look at God the Lord said I  
+{{% timestamp videoId="B8EA_xrGqjI" time="2051" display="34:11" %}} - have surely seen the Affliction of my people who are in Egypt and have given heed to their cry because of their task  
+{{% timestamp videoId="B8EA_xrGqjI" time="2056" display="34:16" %}} - Masters for I am aware of their sufferings and so then God goes on to tell Moses that you know he is going to  
+{{% timestamp videoId="B8EA_xrGqjI" time="2064" display="34:24" %}} - bring his people out of the clutches of Egypt um because he has not turned his face away from their oppression but the  
+{{% timestamp videoId="B8EA_xrGqjI" time="2071" display="34:31" %}} - point here is that you can see in verse two that it opens with the angel of the lord it's what verse two says right but  
+{{% timestamp videoId="B8EA_xrGqjI" time="2081" display="34:41" %}} - then in verse six the the the being who is speaking says I am the god of your father the god of Abraham the god of  
+{{% timestamp videoId="B8EA_xrGqjI" time="2089" display="34:49" %}} - Isaac and the god of Jacob now to the monotheistic uh Jewish Folks at the time they would have said well this has to be  
+{{% timestamp videoId="B8EA_xrGqjI" time="2096" display="34:56" %}} - the father right because they didn't understand that there were multiple people within the Trinity they didn't  
+{{% timestamp videoId="B8EA_xrGqjI" time="2103" display="35:03" %}} - understand the Trinity um so to them well I don't know exactly what they thought I I am not in their mind in  
+{{% timestamp videoId="B8EA_xrGqjI" time="2110" display="35:10" %}} - their culture in their temporal context but some of that might have been a little bit confused because when we hear  
+{{% timestamp videoId="B8EA_xrGqjI" time="2117" display="35:17" %}} - things about the the Holiness of the father how do you reconcile that with the fact that well people were talking  
+{{% timestamp videoId="B8EA_xrGqjI" time="2124" display="35:24" %}} - to him right now to be fair some of the references for that we'll get back to these we've talked about these already  
+{{% timestamp videoId="B8EA_xrGqjI" time="2129" display="35:29" %}} - um it's somewhat only in the New Testament that that this distinction of no one can see the father we've talked  
+{{% timestamp videoId="B8EA_xrGqjI" time="2135" display="35:35" %}} - about this in 1 Timothy 6:16 that the father uh lives in unapproachable light whom no one has seen or can see and then  
+{{% timestamp videoId="B8EA_xrGqjI" time="2143" display="35:43" %}} - John 1:18 says that no one has ever seen God but only the one and only son right well that's New Testament um but  
+{{% timestamp videoId="B8EA_xrGqjI" time="2150" display="35:50" %}} - regardless we see in this passage here that the angel of the Lord is God you know if you compare verse two and verse  
+{{% timestamp videoId="B8EA_xrGqjI" time="2157" display="35:57" %}} - six that's immediately what you have to take like that's the context that's what the passage says all right so if the  
+{{% timestamp videoId="B8EA_xrGqjI" time="2164" display="36:04" %}} - angel of the Lord is God here well you know it's a bit more of a generalization to say that every time the angel of the  
+{{% timestamp videoId="B8EA_xrGqjI" time="2172" display="36:12" %}} - Lord if when we use that definite article in the phrasing shows up that that's you know God well that is the  
+{{% timestamp videoId="B8EA_xrGqjI" time="2178" display="36:18" %}} - argument we're going to make but you know you can kind of see how maybe we need a little bit more evidence than a  
+{{% timestamp videoId="B8EA_xrGqjI" time="2182" display="36:22" %}} - single passage to go on and and we'll get there you know we have multiple passages but let's talk a little bit  
+{{% timestamp videoId="B8EA_xrGqjI" time="2187" display="36:27" %}} - more about some of the specifics of this passage like what some of the symbolism here means so it is the Angel of the  
+{{% timestamp videoId="B8EA_xrGqjI" time="2194" display="36:34" %}} - Lord as verse two tells us who appeared to Moses in the fiery Flames but shortly thereafter the angel represents himself  
+{{% timestamp videoId="B8EA_xrGqjI" time="2202" display="36:42" %}} - as God the father or I think we should say here in the same way that we hear of God reporting himself elsewhere saying I  
+{{% timestamp videoId="B8EA_xrGqjI" time="2210" display="36:50" %}} - am the god of your father the god of Abraham the god of Isaac and the god of Jacob that's verse six like we just  
+{{% timestamp videoId="B8EA_xrGqjI" time="2215" display="36:55" %}} - talked about and then he also says later on in verse 14 which I gu I didn't really get to skimmed over some stuff  
+{{% timestamp videoId="B8EA_xrGqjI" time="2222" display="37:02" %}} - but uh this should look familiar to us here this I am who I am uh you know God tells Moses I am has sent has sent me to  
+{{% timestamp videoId="B8EA_xrGqjI" time="2232" display="37:12" %}} - you right this is Exodus chapter 3 vers I want to say 15 or so Exodus chapter 3 at any way um well this is that passage  
+{{% timestamp videoId="B8EA_xrGqjI" time="2241" display="37:21" %}} - here this is God saying who he is but this is the angel of the Lord right in context  
+{{% timestamp videoId="B8EA_xrGqjI" time="2250" display="37:30" %}} - here um you so I said have it right in front of me here it is verse 14 right um and so when we think of this In this  
+{{% timestamp videoId="B8EA_xrGqjI" time="2259" display="37:39" %}} - passage which we started out this study talking about we talked about how God's very nature is existing that's who God  
+{{% timestamp videoId="B8EA_xrGqjI" time="2267" display="37:47" %}} - is he is existence uh the Alpha and the Omega he who is and was and is to come and so that is the fundamental  
+{{% timestamp videoId="B8EA_xrGqjI" time="2276" display="37:56" %}} - characteristic of divinity we would say of the unchanging existence of God um and so even here in this rather famous  
+{{% timestamp videoId="B8EA_xrGqjI" time="2287" display="38:07" %}} - passage where God tells us who he is he uses the tetr Graton you know that four letters in Hebrew that represent that  
+{{% timestamp videoId="B8EA_xrGqjI" time="2295" display="38:15" %}} - are tied up in this idea of existence uh well when he's saying this the angel of the Lord is present in this context  
+{{% timestamp videoId="B8EA_xrGqjI" time="2303" display="38:23" %}} - right um the angel of the Lord is the one who says I am who I am um so that is something right and so we also know that  
+{{% timestamp videoId="B8EA_xrGqjI" time="2315" display="38:35" %}} - you know he's identified as the Lord you know verse seven this is you see the small caps Lord here that is the that is  
+{{% timestamp videoId="B8EA_xrGqjI" time="2323" display="38:43" %}} - the tetragramaton um in the Hebrew you know it was transliterated different ways you may see this sometimes as  
+{{% timestamp videoId="B8EA_xrGqjI" time="2329" display="38:49" %}} - Yahweh or Jehovah uh depends how people transliterate it you know but uh these are the four Hebrew letters together  
+{{% timestamp videoId="B8EA_xrGqjI" time="2339" display="38:59" %}} - that represent the Divine name of God and so not going to overly belor the point the point is the Angel of the Lord  
+{{% timestamp videoId="B8EA_xrGqjI" time="2346" display="39:06" %}} - is most definitely God proper that's what this passage tells us but to move into some of the symbolism here a little  
+{{% timestamp videoId="B8EA_xrGqjI" time="2354" display="39:14" %}} - bit the symbolism of the fire and the bush is important so uh there are other places where the angel of the Lord kind  
+{{% timestamp videoId="B8EA_xrGqjI" time="2362" display="39:22" %}} - of just walks up to people like he talks to Abraham in I want to say Genesis chap 18 I think we'll get there it's in the  
+{{% timestamp videoId="B8EA_xrGqjI" time="2370" display="39:30" %}} - later section but where you know he manifests and talks to people like physically so why did God appear to uh  
+{{% timestamp videoId="B8EA_xrGqjI" time="2378" display="39:38" %}} - Moses in the burning bush like what's the point of that why not just appear to him and talk to him normally you know  
+{{% timestamp videoId="B8EA_xrGqjI" time="2384" display="39:44" %}} - why why burning bush um so the symbolism of the fire and the bush is actually quite important um it is foreshadowing  
+{{% timestamp videoId="B8EA_xrGqjI" time="2392" display="39:52" %}} - we would say if this were a literary work which the Bible is in some respects but it's prophetic for us it is prophecy  
+{{% timestamp videoId="B8EA_xrGqjI" time="2399" display="39:59" %}} - of what was to come on the cross um so the bush calls attention to Christ the Messiah as the branch or the root um and  
+{{% timestamp videoId="B8EA_xrGqjI" time="2408" display="40:08" %}} - so there's a lot of passages that we're just going to look at real briefly here the concept of Christ as the branch you  
+{{% timestamp videoId="B8EA_xrGqjI" time="2415" display="40:15" %}} - know we have the I am the vine you are the branches sort of thing in John chapter 15 but Jesus as uh you know  
+{{% timestamp videoId="B8EA_xrGqjI" time="2422" display="40:22" %}} - using this analogy of plants and the growth of plants to represent um kind of Jesus's mission and his identity so just  
+{{% timestamp videoId="B8EA_xrGqjI" time="2431" display="40:31" %}} - going to go through some passages here this is just a driveby really honestly I'm just showing you this idea of this  
+{{% timestamp videoId="B8EA_xrGqjI" time="2438" display="40:38" %}} - this idea of like being the root or being the branch shows up actually it's very well attested in scripture so the  
+{{% timestamp videoId="B8EA_xrGqjI" time="2445" display="40:45" %}} - idea of the Bush here is kind of what we're getting at you know it's this this plant that is being consumed by fire  
+{{% timestamp videoId="B8EA_xrGqjI" time="2452" display="40:52" %}} - well if Jesus is the plant that's what we're going to establish the fire represents judgment so Isaiah 4:2 says  
+{{% timestamp videoId="B8EA_xrGqjI" time="2460" display="41:00" %}} - in that day the branch of the Lord will be beautiful and glorious and so on and so forth um Isaiah 11 verse1 then a  
+{{% timestamp videoId="B8EA_xrGqjI" time="2469" display="41:09" %}} - chute will spring from the stem of Jesse and a branch from his roots will bear fruit right so stem of Jess that's David  
+{{% timestamp videoId="B8EA_xrGqjI" time="2478" display="41:18" %}} - right um and so a descendant of David it's called this branch that will bear fruit that's Jesus Christ Isaiah chter  
+{{% timestamp videoId="B8EA_xrGqjI" time="2485" display="41:25" %}} - 53:2 um this is part of the suffering servant passage in Isaiah chapter 534 he grew up  
+{{% timestamp videoId="B8EA_xrGqjI" time="2493" display="41:33" %}} - before him like a tender Chute and like a root out of parched ground and so on and so forth right but same idea  
+{{% timestamp videoId="B8EA_xrGqjI" time="2501" display="41:41" %}} - continuing this idea of the plant metaphor the plant analogy in Jeremiah 23:5 behold the days are coming declares  
+{{% timestamp videoId="B8EA_xrGqjI" time="2511" display="41:51" %}} - the Lord when I will raise up for David A righteous branch and he will reign as king and act wisely and do justice and  
+{{% timestamp videoId="B8EA_xrGqjI" time="2518" display="41:58" %}} - righteousness in the land so again we have this idea of the branch Jeremiah 33:15 in those days and at that time I  
+{{% timestamp videoId="B8EA_xrGqjI" time="2527" display="42:07" %}} - will cause a righteous branch of David to Spring forth and he shall execute Justice and righteousness on the earth  
+{{% timestamp videoId="B8EA_xrGqjI" time="2534" display="42:14" %}} - zecharia Zechariah 3:8 now listen Joshua the high priest you and your friends who are sitting in front of you indeed they  
+{{% timestamp videoId="B8EA_xrGqjI" time="2543" display="42:23" %}} - are men who are a symbol for behold I am going to bring in my servant the branch and then Zechariah  
+{{% timestamp videoId="B8EA_xrGqjI" time="2552" display="42:32" %}} - 6:12 then say to him thus says the Lord of hosts Behold a man whose name is Branch for he will Branch out from where  
+{{% timestamp videoId="B8EA_xrGqjI" time="2560" display="42:40" %}} - he is and he will build the Temple of the Lord okay so all this to show that far from this place in Exodus chapter 3  
+{{% timestamp videoId="B8EA_xrGqjI" time="2570" display="42:50" %}} - kind of being an anomaly as in why is this symbolism present in Exodus 3 why is God speaking to Moses through a bush  
+{{% timestamp videoId="B8EA_xrGqjI" time="2579" display="42:59" %}} - well it's because we have this analogy that's actually well attested through the other prophets in the Old Testament  
+{{% timestamp videoId="B8EA_xrGqjI" time="2586" display="43:06" %}} - and all of this prophecy uh especially with the hindsight we have now that we have the New Testament is very obviously  
+{{% timestamp videoId="B8EA_xrGqjI" time="2592" display="43:12" %}} - Messianic pointing to Jesus Christ he is the branch out of the stem of Jesse right he is the one in the divic line  
+{{% timestamp videoId="B8EA_xrGqjI" time="2602" display="43:22" %}} - who fulfills all of these things okay so that's the identity of Jesus Christ as the bush as the branch as you know the  
+{{% timestamp videoId="B8EA_xrGqjI" time="2611" display="43:31" %}} - outshoot of Pless if you will but the fire here represents the Judgment of the cross that does not consume him so that  
+{{% timestamp videoId="B8EA_xrGqjI" time="2621" display="43:41" %}} - not consuming him bit is important because most things that burn um you know burning is actually a chemical  
+{{% timestamp videoId="B8EA_xrGqjI" time="2629" display="43:49" %}} - reaction and the output of it is you know it takes oxygen from the air and all this stuff happens and well at the  
+{{% timestamp videoId="B8EA_xrGqjI" time="2636" display="43:56" %}} - end of it you get ashes you have burned the thing you know you it is no longer in the same state as it was it is not  
+{{% timestamp videoId="B8EA_xrGqjI" time="2643" display="44:03" %}} - burned without being consumed that's not the normal state of things here in this world that's not how physics works if  
+{{% timestamp videoId="B8EA_xrGqjI" time="2649" display="44:09" %}} - you want to put it that way um however this idea of the branch burning yet not being consumed well that didn't just  
+{{% timestamp videoId="B8EA_xrGqjI" time="2658" display="44:18" %}} - happen for no reason either and that is because that represents the Judgment that Jesus Christ took for us upon the  
+{{% timestamp videoId="B8EA_xrGqjI" time="2666" display="44:26" %}} - cross um so I'm not going to read this whole chapter because this is rather lengthy and it's part of the law but in  
+{{% timestamp videoId="B8EA_xrGqjI" time="2673" display="44:33" %}} - Leviticus chapter 1 um it actually starts off talking about the legal codes relate relating to Burnt offerings and  
+{{% timestamp videoId="B8EA_xrGqjI" time="2682" display="44:42" %}} - so under the law they had blood sacrifice was part of it but they also had burnt offerings as in with fire and  
+{{% timestamp videoId="B8EA_xrGqjI" time="2690" display="44:50" %}} - elsewhere we know that fire um is definitely a symbol for judgment um and so for example a rather famous passage  
+{{% timestamp videoId="B8EA_xrGqjI" time="2700" display="45:00" %}} - in the New Testament where uh John the Baptist is speaking of baptism with spirit and with fire well if you  
+{{% timestamp videoId="B8EA_xrGqjI" time="2706" display="45:06" %}} - interpret that passage correctly baptism with fire is not something you want um this is not talking about Pentecost with  
+{{% timestamp videoId="B8EA_xrGqjI" time="2712" display="45:12" %}} - the tongues of fire representing baptism of the holy spirit it's not that baptism with fire is like the Lake of Fire in  
+{{% timestamp videoId="B8EA_xrGqjI" time="2718" display="45:18" %}} - eternity right the fire in the Lake of Fire is God's judgment um so Leviticus chapter 1 under the symbols of the law  
+{{% timestamp videoId="B8EA_xrGqjI" time="2728" display="45:28" %}} - the the system that the priests after the uh you know like the the levitical priesthood they made all these  
+{{% timestamp videoId="B8EA_xrGqjI" time="2735" display="45:35" %}} - sacrifices and they followed all these regulations for burnt offerings because that is symbolic of the Divine judgment  
+{{% timestamp videoId="B8EA_xrGqjI" time="2744" display="45:44" %}} - that accompanies the Forgiveness of sins um so here in um Exodus chapter 3 where we have the bush that is on fire facing  
+{{% timestamp videoId="B8EA_xrGqjI" time="2755" display="45:55" %}} - the Judgment of God yet not being consumed this is the work of Jesus Christ upon the cross the the God man  
+{{% timestamp videoId="B8EA_xrGqjI" time="2764" display="46:04" %}} - dying for Humanity in their place yet bearing it in his body through that hypostatic Union is what we call it  
+{{% timestamp videoId="B8EA_xrGqjI" time="2772" display="46:12" %}} - right the idea that he's fully God and fully man and he had to be both in order to pay for our sin all of that is  
+{{% timestamp videoId="B8EA_xrGqjI" time="2779" display="46:19" %}} - symbolized here um so I know I've talked for a long time here you can just see though that we've pulled in a lot of  
+{{% timestamp videoId="B8EA_xrGqjI" time="2786" display="46:26" %}} - other things that are related to this right we talked about all these passages that mention Jesus Christ as the branch  
+{{% timestamp videoId="B8EA_xrGqjI" time="2794" display="46:34" %}} - you know coming in the line of David he's a prophecied successor uh who will bring Justice and righteousness to the  
+{{% timestamp videoId="B8EA_xrGqjI" time="2802" display="46:42" %}} - world well the bush is representing this and then the fire here represents his judgment and the fact that he's not  
+{{% timestamp videoId="B8EA_xrGqjI" time="2810" display="46:50" %}} - consumed is foreshadowing what happens on the cross where he burns in payment of our sins  
+{{% timestamp videoId="B8EA_xrGqjI" time="2817" display="46:57" %}} - yet is not overcome by it because human beings would just be annihilated we would cease to exist we can't pay for  
+{{% timestamp videoId="B8EA_xrGqjI" time="2824" display="47:04" %}} - our own sin only Jesus could um so all of that is actually caught up here in this first appearance which as we've  
+{{% timestamp videoId="B8EA_xrGqjI" time="2832" display="47:12" %}} - talked about is the definite article Angel of the Lord who is also said to be Yahweh tetragramaton the god of Abraham  
+{{% timestamp videoId="B8EA_xrGqjI" time="2841" display="47:21" %}} - and Isaac and Jacob are said to be one and the same and so that's why we know that this one has to be christophany  
+{{% timestamp videoId="B8EA_xrGqjI" time="2848" display="47:28" %}} - because Jesus Christ is obviously representing for and speaking for the Father Here In this passage in Exodus  
+{{% timestamp videoId="B8EA_xrGqjI" time="2854" display="47:34" %}} - chapter three so was a little bit rambly but aie you have I'm sure other things we can talk about here  
+{{% timestamp videoId="B8EA_xrGqjI" time="2863" display="47:43" %}} - um yeah um okay first of all I'll apologize for um any noise from my little one apparently she decided she  
+{{% timestamp videoId="B8EA_xrGqjI" time="2874" display="47:54" %}} - didn't want to sleep after all so she's up again um I think that one thing that I want to  
+{{% timestamp videoId="B8EA_xrGqjI" time="2884" display="48:04" %}} - say is it's less about making an argument for whether or not you know everything that Moses actually  
+{{% timestamp videoId="B8EA_xrGqjI" time="2891" display="48:11" %}} - experienced was a christophany and more about showing  
+{{% timestamp videoId="B8EA_xrGqjI" time="2896" display="48:16" %}} - just um the many the multitudinous ways in which this was  
+{{% timestamp videoId="B8EA_xrGqjI" time="2905" display="48:25" %}} - foreshadowing the coming of the Messiah because there is one overarching proof that everything that  
+{{% timestamp videoId="B8EA_xrGqjI" time="2914" display="48:34" %}} - Moses run into was a christophany and it's that the Bible States unequivocally that no man can see  
+{{% timestamp videoId="B8EA_xrGqjI" time="2921" display="48:41" %}} - the father so every um interaction that Moses had with God was necessarily with some other member of the Trinity it  
+{{% timestamp videoId="B8EA_xrGqjI" time="2932" display="48:52" %}} - couldn't be the father he could not have seen the father so having established that we we we are demonstrating now just  
+{{% timestamp videoId="B8EA_xrGqjI" time="2944" display="49:04" %}} - how this is a rich um Revelation so to speak of Jesus Christ before he actually came into the world this was a we get  
+{{% timestamp videoId="B8EA_xrGqjI" time="2957" display="49:17" %}} - pictures of what it would be like when he finally comes so for example in this very first instance we see a clear  
+{{% timestamp videoId="B8EA_xrGqjI" time="2965" display="49:25" %}} - demonstration of what his coming would actually be so the very first time that he meets with Moses who is going to be  
+{{% timestamp videoId="B8EA_xrGqjI" time="2976" display="49:36" %}} - the quintessential purveyor of the law and remember what happened when Jesus came he's rejected especially by the  
+{{% timestamp videoId="B8EA_xrGqjI" time="2986" display="49:46" %}} - Pharisees and teachers of the law as someone who is sort of encouraging a Breaking of the law the very first time  
+{{% timestamp videoId="B8EA_xrGqjI" time="2994" display="49:54" %}} - that Moses has this interaction with God it is the Lord Jesus himself that he is speaking to and we will see eventually  
+{{% timestamp videoId="B8EA_xrGqjI" time="3002" display="50:02" %}} - that it is the Lord Jesus who gave him that law which was why later on when he says to the Pharisees and the teachers  
+{{% timestamp videoId="B8EA_xrGqjI" time="3009" display="50:09" %}} - of the law I am or the son of man is the lord of the Sabbath he was not just talking  
+{{% timestamp videoId="B8EA_xrGqjI" time="3017" display="50:17" %}} - and he was not just trying to be provocative he was telling them the absolute truth he had given them the law  
+{{% timestamp videoId="B8EA_xrGqjI" time="3024" display="50:24" %}} - of the Sabbath so when we take all of that together we should see just how great what it is  
+{{% timestamp videoId="B8EA_xrGqjI" time="3032" display="50:32" %}} - we're talking about is this is the greater one of whom Hebrews were speaking the actual owner of the house  
+{{% timestamp videoId="B8EA_xrGqjI" time="3041" display="50:41" %}} - in which Moses had proved faithful this is him commissioning Moses for that work so we see then that's even in this  
+{{% timestamp videoId="B8EA_xrGqjI" time="3053" display="50:53" %}} - capacity of course um there are those who will argue because when you go to Revelation you'll see the angel who is  
+{{% timestamp videoId="B8EA_xrGqjI" time="3060" display="51:00" %}} - um speaking for the Lord Jesus and it seems as if it is the same Angel who is saying I Jesus have sent my angel to  
+{{% timestamp videoId="B8EA_xrGqjI" time="3067" display="51:07" %}} - such and such and it's like well that's that's proof that when the fact that an angel is speaking does not mean that he  
+{{% timestamp videoId="B8EA_xrGqjI" time="3074" display="51:14" %}} - cannot speak as if he is God which is rubbish because that angel could not have been saying I Jesus have sent my  
+{{% timestamp videoId="B8EA_xrGqjI" time="3080" display="51:20" %}} - Angel and even if he was saying I Jesus have sent my angel it would have been a very interesting thing he actually said  
+{{% timestamp videoId="B8EA_xrGqjI" time="3088" display="51:28" %}} - I jesus sent an angel in this case we don't see the angel saying anything of that sort but note that when first this  
+{{% timestamp videoId="B8EA_xrGqjI" time="3096" display="51:36" %}} - person in the burning bush is mentioned we hear that he is the Angel of the Lord after that it seems like nothing is said  
+{{% timestamp videoId="B8EA_xrGqjI" time="3103" display="51:43" %}} - anymore of him being the angel we hear God God God God throughout that passage and um uh when he does  
+{{% timestamp videoId="B8EA_xrGqjI" time="3112" display="51:52" %}} - speak when he does speak when we see him interacting with mes um he speaks okay so the fact that  
+{{% timestamp videoId="B8EA_xrGqjI" time="3122" display="52:02" %}} - he actually starts out the first thing that we hear about him being the angel of the Lord is actually pointing to  
+{{% timestamp videoId="B8EA_xrGqjI" time="3127" display="52:07" %}} - something because after that it's doesn't seem relevant anymore to mention that he is the messenger of the Lord but  
+{{% timestamp videoId="B8EA_xrGqjI" time="3134" display="52:14" %}} - the reason that's the first introduction we get is to keep our eyes on the fact that this is not the father so to speak  
+{{% timestamp videoId="B8EA_xrGqjI" time="3144" display="52:24" %}} - and there is a reason for that remember man is supposed to be um cast out so to speak you're not  
+{{% timestamp videoId="B8EA_xrGqjI" time="3153" display="52:33" %}} - allowed to have this interaction with the father but the father has not left you bereth he sends someone to come and  
+{{% timestamp videoId="B8EA_xrGqjI" time="3161" display="52:41" %}} - do this work of bringing his children back his children who have been thrown out of the house because of their bad  
+{{% timestamp videoId="B8EA_xrGqjI" time="3168" display="52:48" %}} - behavior and now this person is supposed to guide them back and this person is acting like a messenger of the Lord so  
+{{% timestamp videoId="B8EA_xrGqjI" time="3175" display="52:55" %}} - that is something that I think um will be front and center of every discussion that we see about the angel of the Lord  
+{{% timestamp videoId="B8EA_xrGqjI" time="3184" display="53:04" %}} - that even though he is truly God in his own right and that will continue to be the case every time we run into him we  
+{{% timestamp videoId="B8EA_xrGqjI" time="3190" display="53:10" %}} - will see that the the the the very first thing that we're supposed to see every time we run into him is that he is  
+{{% timestamp videoId="B8EA_xrGqjI" time="3198" display="53:18" %}} - speaking for the father he is acting for the Father which is what creates a lot of the confusion that people run into  
+{{% timestamp videoId="B8EA_xrGqjI" time="3203" display="53:23" %}} - and why is that it will continue to be that his job is to bring God's children back to him that's also why In This Very  
+{{% timestamp videoId="B8EA_xrGqjI" time="3213" display="53:33" %}} - in this first instance the thing that we see is him in the burning bush that's because that's what he has  
+{{% timestamp videoId="B8EA_xrGqjI" time="3223" display="53:43" %}} - to do to bring the children of God back to the father yeah I mean it's the message that he Bears you know we've  
+{{% timestamp videoId="B8EA_xrGqjI" time="3231" display="53:51" %}} - talked about this I think probably in just our previous lesson about how Jesus is coming as the agent or the  
+{{% timestamp videoId="B8EA_xrGqjI" time="3239" display="53:59" %}} - representative of the father that's his mission that is how he appears to us he is not appearing on his own authority  
+{{% timestamp videoId="B8EA_xrGqjI" time="3248" display="54:08" %}} - but with the authority of the one who sent him and it gets confusing because he speaks with that Authority right is  
+{{% timestamp videoId="B8EA_xrGqjI" time="3256" display="54:16" %}} - Jesus the father no Jesus is not the father but he speaks for the father right they have perfect Unity of will  
+{{% timestamp videoId="B8EA_xrGqjI" time="3262" display="54:22" %}} - one of the other things that AI mentioned you know just as he was opening up here was that you know the  
+{{% timestamp videoId="B8EA_xrGqjI" time="3268" display="54:28" %}} - Bible obviously doesn't make this argument that we're making in so many words right as in look the angel of the  
+{{% timestamp videoId="B8EA_xrGqjI" time="3274" display="54:34" %}} - Lord is you know Yahweh the angel of the Lord is this it's just there you know we we made this argument when we talked  
+{{% timestamp videoId="B8EA_xrGqjI" time="3280" display="54:40" %}} - about uh the Trinity as a general concept that the Bible doesn't argue for it in what I would call  
+{{% timestamp videoId="B8EA_xrGqjI" time="3288" display="54:48" %}} - the the the manner of of philosophical deductive proofs right it's simply there it's simply asserted  
+{{% timestamp videoId="B8EA_xrGqjI" time="3297" display="54:57" %}} - and the Bible doesn't set out to argue or Justified it's just there um that is just so in this case as well um this  
+{{% timestamp videoId="B8EA_xrGqjI" time="3308" display="55:08" %}} - point that we're making and why we're emphasizing it and drilling on it by the way is because it is rather important  
+{{% timestamp videoId="B8EA_xrGqjI" time="3314" display="55:14" %}} - this idea of the son's role even before the Incarnation I think really does go underappreciated by a lot of folks and  
+{{% timestamp videoId="B8EA_xrGqjI" time="3322" display="55:22" %}} - it is kind of a big deal in properly interpreting the roles of the trinity as they correspond to all of creation right  
+{{% timestamp videoId="B8EA_xrGqjI" time="3330" display="55:30" %}} - past present and future um so it's not like minor but the reason why we're setting this up in what I would term you  
+{{% timestamp videoId="B8EA_xrGqjI" time="3337" display="55:37" %}} - know like we're arguing for it it's because it's useful theologically but it is right for us to point out that the  
+{{% timestamp videoId="B8EA_xrGqjI" time="3343" display="55:43" %}} - Bible itself actually doesn't make the argument in quite so many words right um it is simply there and present in the  
+{{% timestamp videoId="B8EA_xrGqjI" time="3352" display="55:52" %}} - text and it is good and proper for us to be connecting these dots like I'm not trying to say we shouldn't  
+{{% timestamp videoId="B8EA_xrGqjI" time="3359" display="55:59" %}} - but we just need to keep in mind what the Bible does and does not say right and so this this argument that we're  
+{{% timestamp videoId="B8EA_xrGqjI" time="3366" display="56:06" %}} - making here about how all of these appearances of the Angel of the Lord are actually christophany appearances of the  
+{{% timestamp videoId="B8EA_xrGqjI" time="3373" display="56:13" %}} - pre-incarnate Jesus Christ it is a good thing for us to be focusing on and be justifying but in all the other passages  
+{{% timestamp videoId="B8EA_xrGqjI" time="3381" display="56:21" %}} - as we'll see it's just the same as this one the angel of the Lord through context is clearly associated  
+{{% timestamp videoId="B8EA_xrGqjI" time="3389" display="56:29" %}} - with God but that that's not like the point of any of these things right um that's just merely incidental to what  
+{{% timestamp videoId="B8EA_xrGqjI" time="3398" display="56:38" %}} - ends up happening um yeah yeah I mean we've already kind of been over this this concept you know we we we talked  
+{{% timestamp videoId="B8EA_xrGqjI" time="3405" display="56:45" %}} - about this a lot when we were talking about the Trinity just r large that it is important for us to note that the  
+{{% timestamp videoId="B8EA_xrGqjI" time="3412" display="56:52" %}} - Bible doesn't argue for these things in the way that some people who want the very  
+{{% timestamp videoId="B8EA_xrGqjI" time="3417" display="56:57" %}} - uh like what I might call like full accounting of things you they want it all spelled out with bullet points  
+{{% timestamp videoId="B8EA_xrGqjI" time="3422" display="57:02" %}} - that's not the kind of book that the Bible is that's not to say that the Bible doesn't give us truth that's the  
+{{% timestamp videoId="B8EA_xrGqjI" time="3427" display="57:07" %}} - whole point of the Bible but it it doesn't do it on our terms according to our preconceived notions of what it  
+{{% timestamp videoId="B8EA_xrGqjI" time="3435" display="57:15" %}} - ought to give us right um yeah it is perfect in the way that God has given it to us for his purpose for it but we  
+{{% timestamp videoId="B8EA_xrGqjI" time="3443" display="57:23" %}} - don't get to find fault with him for you know it not being like a bullet point list of propositions you know that's not  
+{{% timestamp videoId="B8EA_xrGqjI" time="3451" display="57:31" %}} - how it works um so we we we we can actually make our peace with the fact that if the Bible is asserting something  
+{{% timestamp videoId="B8EA_xrGqjI" time="3459" display="57:39" %}} - or just taking something for granted and not making an argument for it it it's we are supposed to take it the same way if  
+{{% timestamp videoId="B8EA_xrGqjI" time="3466" display="57:46" %}} - we have any in credulity about it we should just wait until we actually stand before the Judgment seats of Christ  
+{{% timestamp videoId="B8EA_xrGqjI" time="3471" display="57:51" %}} - he'll explain everything at that point but we shouldn't be too worried if if things are not argued um as you have  
+{{% timestamp videoId="B8EA_xrGqjI" time="3481" display="58:01" %}} - said systematically breaking everything down Point by point and Rel because in the end in a lot of ways the Bible is  
+{{% timestamp videoId="B8EA_xrGqjI" time="3488" display="58:08" %}} - also a dictionary it states things categorically a lot of things is take them categorically take them or you  
+{{% timestamp videoId="B8EA_xrGqjI" time="3495" display="58:15" %}} - leave them so that's the case in in many of the issues we'll be dealing with including this particular one too yeah  
+{{% timestamp videoId="B8EA_xrGqjI" time="3504" display="58:24" %}} - yeah and we'll see this as I say so just keep your eyes peeled as we go through the next uh several appearances of the  
+{{% timestamp videoId="B8EA_xrGqjI" time="3511" display="58:31" %}} - angel of Exodus um you know the angel of the Lord showing up in this Exodus narrative um that that's not the focus  
+{{% timestamp videoId="B8EA_xrGqjI" time="3518" display="58:38" %}} - and that's fine that's what we're trying to say here um but it is simply asserted it is there it's present in the text but  
+{{% timestamp videoId="B8EA_xrGqjI" time="3525" display="58:45" %}} - it isn't argued in so many words and that is something that is absolutely fine for us because it you know we can  
+{{% timestamp videoId="B8EA_xrGqjI" time="3533" display="58:53" %}} - make that connection even if we don't put it the bullet points that might satisfy Skeptics because that's not the  
+{{% timestamp videoId="B8EA_xrGqjI" time="3540" display="59:00" %}} - point of all this um so we won't get more off topic there but this was us looking at this first appearance of  
+{{% timestamp videoId="B8EA_xrGqjI" time="3548" display="59:08" %}} - Christ to Moses in the burning bush and all of that foreshadows about the cross and you'll see that theme uh come back  
+{{% timestamp videoId="B8EA_xrGqjI" time="3555" display="59:15" %}} - up as we go through the other passages here too Dr luging bill has done a very good job of tying all of these  
+{{% timestamp videoId="B8EA_xrGqjI" time="3561" display="59:21" %}} - appearances of the Angel even in some ways that I hadn't connected myself before  
+{{% timestamp videoId="B8EA_xrGqjI" time="3566" display="59:26" %}} - to the work of Christ on the cross um the symbolism once you see it is quite powerful it really does Point directly  
+{{% timestamp videoId="B8EA_xrGqjI" time="3574" display="59:34" %}} - to the cross and what Christ did for us on it so you'll see what I mean as we get to the other ones here in just a  
+{{% timestamp videoId="B8EA_xrGqjI" time="3582" display="59:42" %}} - sec so the next appearance here that we're going to be talking about the angel of The Exodus here is in Exodus CH  
+{{% timestamp videoId="B8EA_xrGqjI" time="3590" display="59:50" %}} - 14 verse 19 where we are told that the angel of God the angel of the Lord right who had been going before the camp of  
+{{% timestamp videoId="B8EA_xrGqjI" time="3599" display="59:59" %}} - Israel moved and went behind them and the pillar of cloud moved before them and stood behind them with the angel of  
+{{% timestamp videoId="B8EA_xrGqjI" time="3605" display="01:00:05" %}} - the Lord right Angel of the Lord's in the cloud pillar well that's Exodus 14: 19 but previously last chapter in Exodus  
+{{% timestamp videoId="B8EA_xrGqjI" time="3614" display="01:00:14" %}} - Exodus chap 13: 211 we we are told that the Lord was going before them in a pillar of cloud by day to lead them the  
+{{% timestamp videoId="B8EA_xrGqjI" time="3621" display="01:00:21" %}} - way and a pillar of Fire by night to give them light that they might travel by day and by night okay so critical  
+{{% timestamp videoId="B8EA_xrGqjI" time="3627" display="01:00:27" %}} - thing again you'll see small caps Lord here this is the tetr Graton this is Yahweh Jehovah the God of Abraham the  
+{{% timestamp videoId="B8EA_xrGqjI" time="3634" display="01:00:34" %}} - god of Isaac and the god of Jacob right in the same way that we saw that in Exodus chapter 3 with uh the being  
+{{% timestamp videoId="B8EA_xrGqjI" time="3641" display="01:00:41" %}} - speaking from the burning bush first being identified as the angel of the Lord and then as Yahweh proper so to  
+{{% timestamp videoId="B8EA_xrGqjI" time="3648" display="01:00:48" %}} - here I guess the orders flipped right in Exodus 13 we're told that it's the Lord and then in Exodus 14 we're told that  
+{{% timestamp videoId="B8EA_xrGqjI" time="3654" display="01:00:54" %}} - it's the angel of God right messenger of God right remember Angel just means Messenger right and so people get  
+{{% timestamp videoId="B8EA_xrGqjI" time="3661" display="01:01:01" %}} - tripped up because we use Angel as a label for a separate class of creatures that are not human um but angel in Greek  
+{{% timestamp videoId="B8EA_xrGqjI" time="3670" display="01:01:10" %}} - and Hebrew just means Messengers so we think of this as the messenger of God who had been going before them it's not  
+{{% timestamp videoId="B8EA_xrGqjI" time="3676" display="01:01:16" %}} - an angel creature it is Jesus Christ in reincarnate St that's what we have been arguing here so God himself is said to  
+{{% timestamp videoId="B8EA_xrGqjI" time="3684" display="01:01:24" %}} - be the one going ahead head of the Israelites in the column of cloud and fire that's what Exodus 13: 211 says but  
+{{% timestamp videoId="B8EA_xrGqjI" time="3691" display="01:01:31" %}} - in Exodus 14:19 we see that that is the angel of God the messenger of God and so the Lord and the angel that is the  
+{{% timestamp videoId="B8EA_xrGqjI" time="3699" display="01:01:39" %}} - messenger are identified as one and the same and here's where I mentioned that all of these tieback Dr lville has done  
+{{% timestamp videoId="B8EA_xrGqjI" time="3708" display="01:01:48" %}} - a good job tying back all the symbolism to the Cross we're gonna spend a few minutes kind of digging deep into this  
+{{% timestamp videoId="B8EA_xrGqjI" time="3715" display="01:01:55" %}} - one to try to convince us that this really is true the symbolism is actually there it's not fanciful um so when the  
+{{% timestamp videoId="B8EA_xrGqjI" time="3723" display="01:02:03" %}} - column of fire comes to stand over the place of the Ark in the Tabernacle where the blood representing Christ sacrifice  
+{{% timestamp videoId="B8EA_xrGqjI" time="3732" display="01:02:12" %}} - would be sprinkled on the day of atonement we there to have a picture of Christ saving work enduring judgment on  
+{{% timestamp videoId="B8EA_xrGqjI" time="3740" display="01:02:20" %}} - our behalf okay so again the idea here is that this foreshadows and symbol IES Christ payment for our sin so we'll  
+{{% timestamp videoId="B8EA_xrGqjI" time="3749" display="01:02:29" %}} - start with Leviticus 16 because this is pretty easy just like on the last section we mentioned Leviticus 1 that  
+{{% timestamp videoId="B8EA_xrGqjI" time="3756" display="01:02:36" %}} - section of the law code dealing with burnt offerings well Leviticus 16 deals with the law of atonement and  
+{{% timestamp videoId="B8EA_xrGqjI" time="3763" display="01:02:43" %}} - specifically this idea of Aaron as the high priest or you know the high priest generally going into the most holy place  
+{{% timestamp videoId="B8EA_xrGqjI" time="3771" display="01:02:51" %}} - to make atonement for the people for their sin offering right right so uh verse 13 here in Leviticus chapter 16  
+{{% timestamp videoId="B8EA_xrGqjI" time="3781" display="01:03:01" %}} - says that all this stuff is dealing with the mercy seat on the uh the Arc of the testimony you'll see that here that's  
+{{% timestamp videoId="B8EA_xrGqjI" time="3790" display="01:03:10" %}} - verse 13 the Ark of the testimony right we're talking about the Arc of the Covenant here where the law is um and so  
+{{% timestamp videoId="B8EA_xrGqjI" time="3796" display="01:03:16" %}} - there's a lot of you know more things that go into it here but this is discussing about where this takes place  
+{{% timestamp videoId="B8EA_xrGqjI" time="3804" display="01:03:24" %}} - is obviously dealing with the Ark of the Covenant that's placed in the most holy place in one of the specific tents that  
+{{% timestamp videoId="B8EA_xrGqjI" time="3813" display="01:03:33" %}} - were erected when the people of Israel made camp now when they were going through the Wilderness um you know going  
+{{% timestamp videoId="B8EA_xrGqjI" time="3820" display="01:03:40" %}} - from Egypt to Canaan well they had to carry everything with them they didn't have a static place for uh the ark of  
+{{% timestamp videoId="B8EA_xrGqjI" time="3828" display="01:03:48" %}} - the covenant for God to quote unquote reside with them in fact um later on in the narrative in the Old Testament it's  
+{{% timestamp videoId="B8EA_xrGqjI" time="3836" display="01:03:56" %}} - a really big deal when they make a kind of static permanent Temple for God because previously the Ark of the  
+{{% timestamp videoId="B8EA_xrGqjI" time="3842" display="01:04:02" %}} - Covenant had been traveling with them all this time kind of in a mobile fashion so I don't want to get super off  
+{{% timestamp videoId="B8EA_xrGqjI" time="3848" display="01:04:08" %}} - topic the point here is that Leviticus chapter 16 is talking about blood sacrifice for atonement right which  
+{{% timestamp videoId="B8EA_xrGqjI" time="3855" display="01:04:15" %}} - should sound an awful lot like what Jesus did for us on the cross right okay so that's Leviticus 16 the part of the  
+{{% timestamp videoId="B8EA_xrGqjI" time="3861" display="01:04:21" %}} - law code dealing with blood sacrifice for atonement and we said in verse 13 here we hear about the mercy seat on the  
+{{% timestamp videoId="B8EA_xrGqjI" time="3868" display="01:04:28" %}} - Ark of the Covenant right um so we know that that's the location of this sacrifice that has all that symbolism  
+{{% timestamp videoId="B8EA_xrGqjI" time="3876" display="01:04:36" %}} - right and so if we compare that to Numbers chapter 9 verse 15 which here we say that the pillar of cloud and fire  
+{{% timestamp videoId="B8EA_xrGqjI" time="3887" display="01:04:47" %}} - that we've been talking about actually shows up it covers the Tabernacle the tent of testimony and the evening it was  
+{{% timestamp videoId="B8EA_xrGqjI" time="3896" display="01:04:56" %}} - like an appearance of fire over the Tabernacle until morning right remember we said fire has all sorts of symbolism  
+{{% timestamp videoId="B8EA_xrGqjI" time="3902" display="01:05:02" %}} - too so we have blood sacrifice going on in this tent and the pillar of fire over it representing what we've already  
+{{% timestamp videoId="B8EA_xrGqjI" time="3909" display="01:05:09" %}} - discussed well how do we know that these two things are happening at the same place that's the question here so in  
+{{% timestamp videoId="B8EA_xrGqjI" time="3917" display="01:05:17" %}} - Numbers chapter 9 verse1 15 we see this socalled tent of testimony so what is the tent of testimony how do we know  
+{{% timestamp videoId="B8EA_xrGqjI" time="3925" display="01:05:25" %}} - that that's where the Arc of the Covenant is right this is something that ichus just quotes here and he's not  
+{{% timestamp videoId="B8EA_xrGqjI" time="3931" display="01:05:31" %}} - wrong as we'll see I I'll dig into it a little bit more just for our own benefit on the video because I wanted to trace  
+{{% timestamp videoId="B8EA_xrGqjI" time="3937" display="01:05:37" %}} - this a little bit just to make sure I understood properly how we know all of this well we are not the first people in  
+{{% timestamp videoId="B8EA_xrGqjI" time="3944" display="01:05:44" %}} - the world to ask this so this is a question on What's called the hermeneutic stack exchange so  
+{{% timestamp videoId="B8EA_xrGqjI" time="3949" display="01:05:49" %}} - hermeneutics is kind of the study of interpretation and have you never been on stack exchange sites anymore people  
+{{% timestamp videoId="B8EA_xrGqjI" time="3954" display="01:05:54" %}} - ask questions and you get some answers so I don't buy 100% of what this guy says in the answer but it was a good  
+{{% timestamp videoId="B8EA_xrGqjI" time="3960" display="01:06:00" %}} - starting place just to kind of show us here that um when this gets mentioned later in Revelation chapter 15 uh here's  
+{{% timestamp videoId="B8EA_xrGqjI" time="3968" display="01:06:08" %}} - what the Greek looks like um well this thing that we're talking about comes up again in the New Testament right the  
+{{% timestamp videoId="B8EA_xrGqjI" time="3975" display="01:06:15" %}} - Temple of the Tabernacle of testimony in heaven was open right I'm not going to go dig into the context there because I  
+{{% timestamp videoId="B8EA_xrGqjI" time="3981" display="01:06:21" %}} - don't want us to get even more off topic than we're inevitably going to be here but the point is is that this is kind of  
+{{% timestamp videoId="B8EA_xrGqjI" time="3986" display="01:06:26" %}} - a defined place in Scripture it has meaning it's not just kind of like mentioned offand and so to really  
+{{% timestamp videoId="B8EA_xrGqjI" time="3993" display="01:06:33" %}} - establish how we know that what we're talking about is where that sacrifice happens we're going to go look at a  
+{{% timestamp videoId="B8EA_xrGqjI" time="4000" display="01:06:40" %}} - passage in Numbers chapter 17 here um so if you are familiar with Aaron's Rod budding um uh and producing almonds uh  
+{{% timestamp videoId="B8EA_xrGqjI" time="4011" display="01:06:51" %}} - that's verse eight here numb 17 ver8 well this story is interesting for lots of other reasons but specifically what  
+{{% timestamp videoId="B8EA_xrGqjI" time="4018" display="01:06:58" %}} - we're going to be looking at is this idea of the location how can we line up that Pillar of Fire which represents the  
+{{% timestamp videoId="B8EA_xrGqjI" time="4026" display="01:07:06" %}} - presence of God over the place where the sacrifices of atonement were done right presence of God sacrifices of atonement  
+{{% timestamp videoId="B8EA_xrGqjI" time="4034" display="01:07:14" %}} - well that's what Jesus did on the cross right that's how we make the connection all right so you'll see here in Numbers  
+{{% timestamp videoId="B8EA_xrGqjI" time="4040" display="01:07:20" %}} - chapter 17 we have this mentioned here you'll deposit the staffs I'm so just a little bit of context they're getting a  
+{{% timestamp videoId="B8EA_xrGqjI" time="4048" display="01:07:28" %}} - rod or a staff for each one of the father's households 12 rods from all their leaders according to their  
+{{% timestamp videoId="B8EA_xrGqjI" time="4054" display="01:07:34" %}} - father's households and Aaron's name gets put on the rod of Levi so Moses is told to put these things in the tent of  
+{{% timestamp videoId="B8EA_xrGqjI" time="4063" display="01:07:43" %}} - meeting in front of the testimony um so we'll Circle back to that when we look at a different translation again in a  
+{{% timestamp videoId="B8EA_xrGqjI" time="4071" display="01:07:51" %}} - second this is nasb 1995 version so uh pretty strict literal interpretation of this says the testimony there um and so  
+{{% timestamp videoId="B8EA_xrGqjI" time="4080" display="01:08:00" %}} - you can see that Moses went into the tent of the testimony aha that is the same place that we saw here in Numbers  
+{{% timestamp videoId="B8EA_xrGqjI" time="4089" display="01:08:09" %}} - Chapter n where we have the tent of testimony where the pillar of cloud and fire set to be right hovers over this  
+{{% timestamp videoId="B8EA_xrGqjI" time="4098" display="01:08:18" %}} - place and what we're trying to do is make sure that that lines up with where the atonements happen in Leviticus  
+{{% timestamp videoId="B8EA_xrGqjI" time="4104" display="01:08:24" %}} - chapter 16 right that's kind of the purpose of why we're going through all this so Moses  
+{{% timestamp videoId="B8EA_xrGqjI" time="4110" display="01:08:30" %}} - deposits these things the staff in front of the testimony in the tent of testimony that's what the context of  
+{{% timestamp videoId="B8EA_xrGqjI" time="4119" display="01:08:39" %}} - this passage in Numbers chapter 17 says and then Aaron's Rod sprouts and put forth Buds and Blossoms and then later  
+{{% timestamp videoId="B8EA_xrGqjI" time="4128" display="01:08:48" %}} - on here we we read that Moses brought out all the rods from the presence of the Lord and they looked and each man  
+{{% timestamp videoId="B8EA_xrGqjI" time="4134" display="01:08:54" %}} - took his rod but God tells Moses put back the rod of Aaron before the testimony to be kept as  
+{{% timestamp videoId="B8EA_xrGqjI" time="4142" display="01:09:02" %}} - a sign of the rebels that you may put an end to their grumblings against me so that they may not die okay so the rod of  
+{{% timestamp videoId="B8EA_xrGqjI" time="4148" display="01:09:08" %}} - Aaron gets put back in this so-called tent of testimony so before we move on what  
+{{% timestamp videoId="B8EA_xrGqjI" time="4156" display="01:09:16" %}} - exactly does before the testimony mean like you'll see this a here is a footnote um so if we look here that  
+{{% timestamp videoId="B8EA_xrGqjI" time="4162" display="01:09:22" %}} - shows up in verse four here as well right right in front of the testimony and so we get some cross references if I  
+{{% timestamp videoId="B8EA_xrGqjI" time="4169" display="01:09:29" %}} - look at this we'll just go ahead and examine those real briefly here Oops I did not actually mean to go jump there  
+{{% timestamp videoId="B8EA_xrGqjI" time="4177" display="01:09:37" %}} - um because if I hover we can get it um so Exodus chapter 25 verse 16 says you should put in the arc the testimony that  
+{{% timestamp videoId="B8EA_xrGqjI" time="4186" display="01:09:46" %}} - I shall give you right what goes in the arc well the law tablets go in the ark right Exodus chap 25: 21 you should put  
+{{% timestamp videoId="B8EA_xrGqjI" time="4194" display="01:09:54" %}} - The Mercy Seat on the top of the Ark and in the arc you shall put the testimony that I give you now this is the nasb  
+{{% timestamp videoId="B8EA_xrGqjI" time="4201" display="01:10:01" %}} - 1995 version that's the translation being used here and then verse 22 also talking about Above The Mercy Seat we  
+{{% timestamp videoId="B8EA_xrGqjI" time="4209" display="01:10:09" %}} - have the cherubim that are on the Ark of the testimony which you'll also hear called the Ark of the Covenant right  
+{{% timestamp videoId="B8EA_xrGqjI" time="4216" display="01:10:16" %}} - I'll speak with you about all of that given to the Commandment of Israel okay so with that going to point us towards  
+{{% timestamp videoId="B8EA_xrGqjI" time="4224" display="01:10:24" %}} - same Passage Numbers chapter 17 now we're going to look at it in the New International Version which is a little  
+{{% timestamp videoId="B8EA_xrGqjI" time="4230" display="01:10:30" %}} - bit it's not that it's a loose translation but it tries to capture the meaning a little bit more rather than  
+{{% timestamp videoId="B8EA_xrGqjI" time="4235" display="01:10:35" %}} - just plugging in strict definition tries to makes it perhaps a little bit more thought forth thought versus word for  
+{{% timestamp videoId="B8EA_xrGqjI" time="4241" display="01:10:41" %}} - word not going to get into translation debates here but if we look at verse seven here in this particular  
+{{% timestamp videoId="B8EA_xrGqjI" time="4249" display="01:10:49" %}} - translations it says that the staffs that Moses was commanded to put back in this place were put in the tent of the  
+{{% timestamp videoId="B8EA_xrGqjI" time="4256" display="01:10:56" %}} - Covenant law the Covenant law goes in the Ark of the Covenant which as we were told before in Leviticus chapter 16 is  
+{{% timestamp videoId="B8EA_xrGqjI" time="4266" display="01:11:06" %}} - where the sacrifices of atonement are made right tracking so far okay so we see that this translation by  
+{{% timestamp videoId="B8EA_xrGqjI" time="4276" display="01:11:16" %}} - interpretation this is what we're talking about here this testimony that gets mentioned in the nasb version is  
+{{% timestamp videoId="B8EA_xrGqjI" time="4282" display="01:11:22" %}} - talking about the Ark of the Covenant so the Ark of the Covenant is placed in the tent of  
+{{% timestamp videoId="B8EA_xrGqjI" time="4288" display="01:11:28" %}} - testimony so if you're not always con if you're not already convinced by all this going to look at one more passage here  
+{{% timestamp videoId="B8EA_xrGqjI" time="4294" display="01:11:34" %}} - and then I'll get off my digression in Hebrews chapter 9 veres 3 to 4 we hear about the curtain um this is the chapter  
+{{% timestamp videoId="B8EA_xrGqjI" time="4303" display="01:11:43" %}} - where we hear about how Christ sacrifice was once for all as opposed to the yearly sacrifices of the high priest who  
+{{% timestamp videoId="B8EA_xrGqjI" time="4310" display="01:11:50" %}} - go into the most holy place to do their sacrifice of atonement well that's kind of the point of Hebrews 9 uh and  
+{{% timestamp videoId="B8EA_xrGqjI" time="4317" display="01:11:57" %}} - following the the later verses of Hebrews chapter 9 contrast finality and efficacy of Christ's single sacrifice  
+{{% timestamp videoId="B8EA_xrGqjI" time="4323" display="01:12:03" %}} - and contrast that with the repeated sacrifice of the high priests but in verses 3 to four we see that behind the  
+{{% timestamp videoId="B8EA_xrGqjI" time="4329" display="01:12:09" %}} - second curtain we have the room called the most holy Place what's in the most holy Place well we have the golden altar  
+{{% timestamp videoId="B8EA_xrGqjI" time="4336" display="01:12:16" %}} - of incense and the gold covered Arc of the Covenant this art contained the gold jars of mana and look it contains  
+{{% timestamp videoId="B8EA_xrGqjI" time="4343" display="01:12:23" %}} - Aaron's staff that had budded and in Numbers chapter 17 verse 10 God tells Moses to stick the rod back in the tent  
+{{% timestamp videoId="B8EA_xrGqjI" time="4353" display="01:12:33" %}} - of testimony which is why we know that because of this verse here in Hebrews chapter 9 that's why we know that the  
+{{% timestamp videoId="B8EA_xrGqjI" time="4361" display="01:12:41" %}} - Ark of the Covenant must have been in the tent of testimony because that's where the rod is said to be and the  
+{{% timestamp videoId="B8EA_xrGqjI" time="4366" display="01:12:46" %}} - staff is said to be in the Ark of the Covenant along with the stone tablet of the law QED basically so I'm sorry that  
+{{% timestamp videoId="B8EA_xrGqjI" time="4373" display="01:12:53" %}} - was a bit of a digression but why I'm saying all of this is because that's why when Dr Lugano lines up the presence of  
+{{% timestamp videoId="B8EA_xrGqjI" time="4381" display="01:13:01" %}} - God with the altar on the Ark of the Covenant where the sacrifices of atonement are that's why when you marry  
+{{% timestamp videoId="B8EA_xrGqjI" time="4389" display="01:13:09" %}} - these Concepts we get a picture of Christ's saving work enduring judgment on our behalf and paying that price of  
+{{% timestamp videoId="B8EA_xrGqjI" time="4397" display="01:13:17" %}} - atonement so I hope that wasn't too Technical and we didn't get too far off in the weeds but I just wanted to trace  
+{{% timestamp videoId="B8EA_xrGqjI" time="4403" display="01:13:23" %}} - out a little bit because it's really cool when you see the links it's it's there I mean we're not just making  
+{{% timestamp videoId="B8EA_xrGqjI" time="4409" display="01:13:29" %}} - things up it's there in scripture but we had to do a little bit of digging to put all that together to see that this  
+{{% timestamp videoId="B8EA_xrGqjI" time="4416" display="01:13:36" %}} - really is the place where those sacrifices of atonement were made and that is where the presence of God rests  
+{{% timestamp videoId="B8EA_xrGqjI" time="4423" display="01:13:43" %}} - and it doesn't rest over this specific tent for no reason it rests there because that is conceptually where the  
+{{% timestamp videoId="B8EA_xrGqjI" time="4431" display="01:13:51" %}} - presence of God is and that is where the atonement is done well when you put those two things together you see  
+{{% timestamp videoId="B8EA_xrGqjI" time="4438" display="01:13:58" %}} - that God is the one who pays for the atonement right um so uh AI you have anything you want to  
+{{% timestamp videoId="B8EA_xrGqjI" time="4448" display="01:14:08" %}} - go here I know I got a little bit sidetracked but um was rich I mean seriously what what  
+{{% timestamp videoId="B8EA_xrGqjI" time="4455" display="01:14:15" %}} - you went into was um a very good expansion of what he discussed here I'm not sure I'm not sure what I could add  
+{{% timestamp videoId="B8EA_xrGqjI" time="4464" display="01:14:24" %}} - to sorry so reviewing the main point of this slide that interesting tangent aside was actually talking just about  
+{{% timestamp videoId="B8EA_xrGqjI" time="4472" display="01:14:32" %}} - what we talked about before how the angel who's said to go before them is basically said to be God right which  
+{{% timestamp videoId="B8EA_xrGqjI" time="4479" display="01:14:39" %}} - means has to be christophany I mean which is I'm not saying that point isn't interesting but uh it was the figuring  
+{{% timestamp videoId="B8EA_xrGqjI" time="4487" display="01:14:47" %}} - out exactly how we TI all the other things together was what caught my attention here but the fundamental Point  
+{{% timestamp videoId="B8EA_xrGqjI" time="4492" display="01:14:52" %}} - here is that the column of cloud and fire that's mentioned all throughout the Exodus narrative that leads the  
+{{% timestamp videoId="B8EA_xrGqjI" time="4499" display="01:14:59" %}} - Israelites that is the Angel of the Lord that's what Exodus 14 say but it's also said to be the Lord Yahweh Jehovah tetr  
+{{% timestamp videoId="B8EA_xrGqjI" time="4507" display="01:15:07" %}} - Graton in Exodus chapter 13 basically meaning that they're one and the same so God leads his people  
+{{% timestamp videoId="B8EA_xrGqjI" time="4515" display="01:15:15" %}} - personally right Jesus Christ sent on behalf of the father to guide his people it's a christophy  
+{{% timestamp videoId="B8EA_xrGqjI" time="4523" display="01:15:23" %}} - um yeah yeah yeah um I I honestly don't know what I could add to that suffice to say that it's it's well tied together  
+{{% timestamp videoId="B8EA_xrGqjI" time="4534" display="01:15:34" %}} - Exodus 13:21 told us who was in the cloud the column of cloud and fire Exodus 14: 19 tells us who was so one  
+{{% timestamp videoId="B8EA_xrGqjI" time="4542" display="01:15:42" %}} - could if if people want to argue that God was with an Angel just as he was when he went to visit Abraham they  
+{{% timestamp videoId="B8EA_xrGqjI" time="4551" display="01:15:51" %}} - welcome to argue that but I think that we have more than enough reason to identify that angel with the Lord  
+{{% timestamp videoId="B8EA_xrGqjI" time="4559" display="01:15:59" %}} - himself especially because of how the angel talks he doesn't talk like most pretty much any other angel that you you  
+{{% timestamp videoId="B8EA_xrGqjI" time="4568" display="01:16:08" %}} - would have read in the scriptures anywhere else no angel who has come to speak for the Lord tends to identify  
+{{% timestamp videoId="B8EA_xrGqjI" time="4576" display="01:16:16" %}} - himself with the Lord they don't do that so um that is one thing that's definite but again and again  
+{{% timestamp videoId="B8EA_xrGqjI" time="4585" display="01:16:25" %}} - it the the the particularly amazing thing and that's one of the reasons I really love the foray that um Steven  
+{{% timestamp videoId="B8EA_xrGqjI" time="4594" display="01:16:34" %}} - went into right here the amazing thing about um this identification of the Angel and the the  
+{{% timestamp videoId="B8EA_xrGqjI" time="4603" display="01:16:43" %}} - various ways in which he appears to Moses and to the Israelites with the um cross is especially when you start  
+{{% timestamp videoId="B8EA_xrGqjI" time="4613" display="01:16:53" %}} - working through the Hebrew series that Prof Robert is wrri is writing right now it's very significant because all of  
+{{% timestamp videoId="B8EA_xrGqjI" time="4620" display="01:17:00" %}} - these things are things that should have told Israel especially when the Lord Jesus came this is the same person the  
+{{% timestamp videoId="B8EA_xrGqjI" time="4629" display="01:17:09" %}} - the the the pillar of cloud and fire was speaking to the Judgment of the cross the um the Burning Bush was speaking to  
+{{% timestamp videoId="B8EA_xrGqjI" time="4639" display="01:17:19" %}} - the Judgment of the Cross and all of this somehow in Exodus 14 the law had not yet been given we can see that by  
+{{% timestamp videoId="B8EA_xrGqjI" time="4648" display="01:17:28" %}} - Exodus 20 it is given so you we we see that even preceding this whole business of you're going to be performing these  
+{{% timestamp videoId="B8EA_xrGqjI" time="4657" display="01:17:37" %}} - sacrifices you'll have a pruit of this sort you will have um uh so many uh uh regulations you're supposed to keep to  
+{{% timestamp videoId="B8EA_xrGqjI" time="4668" display="01:17:48" %}} - dietary requirements and whatnot all of that actually follows these symbols of of the Cross which seems I mean that's  
+{{% timestamp videoId="B8EA_xrGqjI" time="4678" display="01:17:58" %}} - why it is actually incredible that Jesus had the opposition that he had when he came because it's  
+{{% timestamp videoId="B8EA_xrGqjI" time="4686" display="01:18:06" %}} - like how Beyond actually spelling it out for you saying that at such and such a time in history I will come and die on a  
+{{% timestamp videoId="B8EA_xrGqjI" time="4695" display="01:18:15" %}} - cross Beyond doing that as in if if we if we were to say okay if he does not SP it out literally  
+{{% timestamp videoId="B8EA_xrGqjI" time="4705" display="01:18:25" %}} - in those ways what other way could he have told them that this was what was going to happen right so we see it over  
+{{% timestamp videoId="B8EA_xrGqjI" time="4712" display="01:18:32" %}} - and over again in these symbols the way that this Angel of the Lord showed up and again and again we see that the  
+{{% timestamp videoId="B8EA_xrGqjI" time="4719" display="01:18:39" %}} - angel of the Lord accepted the role of a messenger that's why he he continues to be called The Angel the angel even  
+{{% timestamp videoId="B8EA_xrGqjI" time="4727" display="01:18:47" %}} - though he's identified with the Lord which is the same thing that happened with Jesus Christ much later he never  
+{{% timestamp videoId="B8EA_xrGqjI" time="4732" display="01:18:52" %}} - denied that he was God but he did not claim that position either you know so everything that that that was happening  
+{{% timestamp videoId="B8EA_xrGqjI" time="4740" display="01:19:00" %}} - when he came when we say he never claimed it it doesn't mean that he was like um being humble or anything it was  
+{{% timestamp videoId="B8EA_xrGqjI" time="4748" display="01:19:08" %}} - more like he didn't just like the angel of the Lord did not put that in the face of of Moses or in the face of the  
+{{% timestamp videoId="B8EA_xrGqjI" time="4754" display="01:19:14" %}} - Israelites he was God but he was pointing to the father more than he was pointing to himself that's what Jesus  
+{{% timestamp videoId="B8EA_xrGqjI" time="4762" display="01:19:22" %}} - also did when he came so in for us who who are seeing these things we might not need to be told that this was the Lord  
+{{% timestamp videoId="B8EA_xrGqjI" time="4771" display="01:19:31" %}} - Jesus so it's less about actually being persuaded that the angel of the Lord the angel of God as we saw as we seeing in  
+{{% timestamp videoId="B8EA_xrGqjI" time="4779" display="01:19:39" %}} - Exodus was Jesus Christ but we can see in all of these discussions how this was speaking to what Jesus would do  
+{{% timestamp videoId="B8EA_xrGqjI" time="4789" display="01:19:49" %}} - later on in history and what it has to do with our reconciliation to the father we we we should see also how none of  
+{{% timestamp videoId="B8EA_xrGqjI" time="4798" display="01:19:58" %}} - this was an accident the Lord was not reacting to anything all of this was planned and carried out by the Lord from  
+{{% timestamp videoId="B8EA_xrGqjI" time="4806" display="01:20:06" %}} - start to finish that we would sin that we would be redeemed that we will be brought into this eternal glory with um  
+{{% timestamp videoId="B8EA_xrGqjI" time="4815" display="01:20:15" %}} - the father in the end because of the sacrifice of the Lord Jesus this has been front and center and you'll see  
+{{% timestamp videoId="B8EA_xrGqjI" time="4821" display="01:20:21" %}} - throughout the discussion of the Trinity that's actually one sorry theology that's actually one reason that whenever  
+{{% timestamp videoId="B8EA_xrGqjI" time="4826" display="01:20:26" %}} - I think about writing uh um a Systematic Theology of my own when I think about writing theology I don't know any way to  
+{{% timestamp videoId="B8EA_xrGqjI" time="4834" display="01:20:34" %}} - represent the thing as well as profor Robert has done it or even better I can't think of any way because the way  
+{{% timestamp videoId="B8EA_xrGqjI" time="4839" display="01:20:39" %}} - that he structured that teaching was to focus on the cross that this was this is the Lynch pin of God's plan that  
+{{% timestamp videoId="B8EA_xrGqjI" time="4847" display="01:20:47" %}} - ultimately everything creation is possible because Jesus will die on the cross and we see that front and center  
+{{% timestamp videoId="B8EA_xrGqjI" time="4854" display="01:20:54" %}} - as weing talking about the revelation of God in the Old Testament especially through the angel of God the angel of  
+{{% timestamp videoId="B8EA_xrGqjI" time="4862" display="01:21:02" %}} - the Lord as we keep seeing him showing up signs symbols of the Cross are coming they're coming along with that um um  
+{{% timestamp videoId="B8EA_xrGqjI" time="4870" display="01:21:10" %}} - revelation of himself at that point so for us again like I said we it might bore us so to speak to be uh having  
+{{% timestamp videoId="B8EA_xrGqjI" time="4880" display="01:21:20" %}} - these arguments laid out for why the angel of the Lord was God himself but I think that we should be particular  
+{{% timestamp videoId="B8EA_xrGqjI" time="4888" display="01:21:28" %}} - about noticing too how in each of these instances the angel of the Lord is showing us how the cross is a big part  
+{{% timestamp videoId="B8EA_xrGqjI" time="4898" display="01:21:38" %}} - of the plan that the Lord not the big part it is the entirety of God's plan we see that even before the law is given  
+{{% timestamp videoId="B8EA_xrGqjI" time="4906" display="01:21:46" %}} - the law on which the the Pharisees were claiming to stand to eventually crucify their own God  
+{{% timestamp videoId="B8EA_xrGqjI" time="4915" display="01:21:55" %}} - yeah now we should be a bit fair to point out this concept of progressive revelation really helps us right we have  
+{{% timestamp videoId="B8EA_xrGqjI" time="4923" display="01:22:03" %}} - hindsight um and that makes a lot of difference right because all of this is illuminated most helpfully by the New  
+{{% timestamp videoId="B8EA_xrGqjI" time="4931" display="01:22:11" %}} - Testament um absolutely and so if you wonder you know why didn't they see it um it's not so shockingly blindingly  
+{{% timestamp videoId="B8EA_xrGqjI" time="4939" display="01:22:19" %}} - obvious that I mean I certainly think wise people in the past read this and had  
+{{% timestamp videoId="B8EA_xrGqjI" time="4946" display="01:22:26" %}} - questions that is likely right but how do they answer them you know and this is why it always comes down to a matter of  
+{{% timestamp videoId="B8EA_xrGqjI" time="4955" display="01:22:35" %}} - faith God gives us the information we need in our circumstances to put our trust in him right um so I've often  
+{{% timestamp videoId="B8EA_xrGqjI" time="4962" display="01:22:42" %}} - thought that some of what we're talking about here is perhaps some of what Jesus said on the road to Emmas right they ask  
+{{% timestamp videoId="B8EA_xrGqjI" time="4969" display="01:22:49" %}} - about the scriptures that speak of him Exodus chapter 3 is a great example right the burning bush burning yet not  
+{{% timestamp videoId="B8EA_xrGqjI" time="4977" display="01:22:57" %}} - consumed you know um Jesus also you know pre prefigured his death and payment for sin upon the cross he told people this  
+{{% timestamp videoId="B8EA_xrGqjI" time="4984" display="01:23:04" %}} - now people didn't understand it until afterwards but I mean it's all there um now yeah one reason that I personally  
+{{% timestamp videoId="B8EA_xrGqjI" time="4995" display="01:23:15" %}} - don't cut the Pharisees any slack I mean I do agree with you that largely a lot of these things were hidden from view it  
+{{% timestamp videoId="B8EA_xrGqjI" time="5003" display="01:23:23" %}} - was only after the cross that they became brilliantly obvious is that someone like  
+{{% timestamp videoId="B8EA_xrGqjI" time="5009" display="01:23:29" %}} - David knew it he might not have known exactly how Jesus would pay the price he might not have fully understood just  
+{{% timestamp videoId="B8EA_xrGqjI" time="5017" display="01:23:37" %}} - like a lot the truth of this is that how what would happen at the coming of the Messiah was hidden from view but in Isa  
+{{% timestamp videoId="B8EA_xrGqjI" time="5025" display="01:23:45" %}} - in in Psalm 51 what does um David say that God does not take the light in burnt offerings that he wants a broken  
+{{% timestamp videoId="B8EA_xrGqjI" time="5035" display="01:23:55" %}} - heart a contrite spirit so we see that even even Believers such as he recognized that the law was really  
+{{% timestamp videoId="B8EA_xrGqjI" time="5044" display="01:24:04" %}} - pointing to something else it's not that God wants these sacrifices it's not that he wants someone who is very meticulous  
+{{% timestamp videoId="B8EA_xrGqjI" time="5050" display="01:24:10" %}} - about keeping the law it's someone who understands his need for salvation that's going to be paid for by another  
+{{% timestamp videoId="B8EA_xrGqjI" time="5057" display="01:24:17" %}} - person so even though in many ways the cross was not an obvious fact before before it happened they did not  
+{{% timestamp videoId="B8EA_xrGqjI" time="5066" display="01:24:26" %}} - understand the truth of it they didn't understand much of what the Messiah would do but we've talked about for  
+{{% timestamp videoId="B8EA_xrGqjI" time="5072" display="01:24:32" %}} - example Genesis chapter 3 where again we can see that the Lord was being a bit cryptic when he said that  
+{{% timestamp videoId="B8EA_xrGqjI" time="5083" display="01:24:43" %}} - the serpent would bruise the heel of the seed of the woman but the seed of the woman would crush his head maybe that  
+{{% timestamp videoId="B8EA_xrGqjI" time="5091" display="01:24:51" %}} - sounds like a proverb an idiom or whatever it's not it's not very straightforward we we don't get much  
+{{% timestamp videoId="B8EA_xrGqjI" time="5097" display="01:24:57" %}} - about the cross out of that but then following upon that there was the provision of the coats of skin and not  
+{{% timestamp videoId="B8EA_xrGqjI" time="5104" display="01:25:04" %}} - only that not too long after that we have this issue of Cain and Abel with Abel clearly understanding precisely  
+{{% timestamp videoId="B8EA_xrGqjI" time="5112" display="01:25:12" %}} - what was expected of him and Cain acting as if it made no difference what God has said to his parents so it's not as if  
+{{% timestamp videoId="B8EA_xrGqjI" time="5121" display="01:25:21" %}} - this was so completely obscure that those who kind kind of understood it where Geniuses of some sort the Lord did  
+{{% timestamp videoId="B8EA_xrGqjI" time="5129" display="01:25:29" %}} - make sure that the Brilliance of the light of this truth was not hidden it might the very details of it how the the  
+{{% timestamp videoId="B8EA_xrGqjI" time="5137" display="01:25:37" %}} - the Son of God the the the Messiah would pay the price how he would redeem um the the world might not be clear in its  
+{{% timestamp videoId="B8EA_xrGqjI" time="5146" display="01:25:46" %}} - details but life was going to be given for life that much was known it was known by Adam and Eve by Abel by no  
+{{% timestamp videoId="B8EA_xrGqjI" time="5155" display="01:25:55" %}} - by everybody who performed the sacrifice and it was enshrined in the law but here is the the thing that actually struck me  
+{{% timestamp videoId="B8EA_xrGqjI" time="5161" display="01:26:01" %}} - I'd never thought about it until we actually started having this conversation that from the beginning of  
+{{% timestamp videoId="B8EA_xrGqjI" time="5167" display="01:26:07" %}} - the revelation of himself to Moses the very start of it symbols of the Cross attended every part of it so that seemed  
+{{% timestamp videoId="B8EA_xrGqjI" time="5175" display="01:26:15" %}} - to be saying yes I'm going to give you a look but don't miss the points yeah I mean and also I just want to make  
+{{% timestamp videoId="B8EA_xrGqjI" time="5183" display="01:26:23" %}} - emphasize that we modern folks we forget the absolute visceral physical connection to blood sacrifice it doesn't  
+{{% timestamp videoId="B8EA_xrGqjI" time="5193" display="01:26:33" %}} - hit us you know we understand intellectually you know animals were sacrificed as symbols but we have never  
+{{% timestamp videoId="B8EA_xrGqjI" time="5201" display="01:26:41" %}} - held a knife and taken the life of another living being in such a conscious way right or had a priest do it on our  
+{{% timestamp videoId="B8EA_xrGqjI" time="5210" display="01:26:50" %}} - behalf yeah I mean and I'm not you know obviously this was done for a purpose right God didn't you know as that that  
+{{% timestamp videoId="B8EA_xrGqjI" time="5219" display="01:26:59" %}} - Psalm that AI read it's not like God just wanted us to kill animals right like that is not the point here the  
+{{% timestamp videoId="B8EA_xrGqjI" time="5226" display="01:27:06" %}} - point is what that symbolism was but it would hit a lot harder if we actually understood this is what they did you  
+{{% timestamp videoId="B8EA_xrGqjI" time="5235" display="01:27:15" %}} - know I don't think that as a person who is conscientious enough to want to follow the law that you bring a  
+{{% timestamp videoId="B8EA_xrGqjI" time="5242" display="01:27:22" %}} - sacrifice one does not go through the motions when you're taking the life of another living being I'm sure some  
+{{% timestamp videoId="B8EA_xrGqjI" time="5248" display="01:27:28" %}} - people did obviously the Pharisees did but for people who had even the barest amount of care for why would God ever  
+{{% timestamp videoId="B8EA_xrGqjI" time="5258" display="01:27:38" %}} - instruct us to do this it's right there exactly right um yeah one other thing I want to bring up  
+{{% timestamp videoId="B8EA_xrGqjI" time="5264" display="01:27:44" %}} - in this um this is G be sound like kind of I'm just changing the subject randomly but um I don't want to forget  
+{{% timestamp videoId="B8EA_xrGqjI" time="5270" display="01:27:50" %}} - that's why I want to bring it up um so when we talk about angels as a title Jesus is a messenger of God um so when  
+{{% timestamp videoId="B8EA_xrGqjI" time="5279" display="01:27:59" %}} - we hear the angel of the Lord think in your head the messenger of God is a title um I was I'm always so amused when  
+{{% timestamp videoId="B8EA_xrGqjI" time="5288" display="01:28:08" %}} - little kids think that Jesus's last name is Christ have you ever come across this you know in Greek it's Yus Christos  
+{{% timestamp videoId="B8EA_xrGqjI" time="5296" display="01:28:16" %}} - right that's what we hear we hear Jesus Christ Jesus Christ Jesus Christ now we don't know exactly I don't know if their  
+{{% timestamp videoId="B8EA_xrGqjI" time="5303" display="01:28:23" %}} - names in Hebrew society were patronymic um I could probably go look that up but you know he would be Jesus the son of  
+{{% timestamp videoId="B8EA_xrGqjI" time="5309" display="01:28:29" %}} - Joseph right Joseph and Mary yeah exactly that's what he would know or you know Jesus the one from  
+{{% timestamp videoId="B8EA_xrGqjI" time="5316" display="01:28:36" %}} - Nazareth right um butus Christos kristos is a title um and we forget this you know we refer to him  
+{{% timestamp videoId="B8EA_xrGqjI" time="5324" display="01:28:44" %}} - by title as Christ Christ did that Christ did this you know um but it's not a last name um and so we are very  
+{{% timestamp videoId="B8EA_xrGqjI" time="5332" display="01:28:52" %}} - comfortable saying Jes Jesus Christ this Jesus Christ that and when we say Jesus Christ really what we are saying is  
+{{% timestamp videoId="B8EA_xrGqjI" time="5339" display="01:28:59" %}} - Jesus the Messiah Jesus the Messiah that's what Christ means um yes pretty much we have we have Jesus the Messiah  
+{{% timestamp videoId="B8EA_xrGqjI" time="5346" display="01:29:06" %}} - and we also have the messenger of God see what I'm saying it's the same prely um it is not different here we have the  
+{{% timestamp videoId="B8EA_xrGqjI" time="5356" display="01:29:16" %}} - messenger of God is just a title no more no less and that is a title that Jesus Christ bears in the same way that he  
+{{% timestamp videoId="B8EA_xrGqjI" time="5362" display="01:29:22" %}} - Bears the title ch Messiah um yeah so I I just I hadn't really it hadn't hit me before but I  
+{{% timestamp videoId="B8EA_xrGqjI" time="5370" display="01:29:30" %}} - think it's really parallel because we don't get to make great hay out of Christ it's just a title it just  
+{{% timestamp videoId="B8EA_xrGqjI" time="5377" display="01:29:37" %}} - represents who Jesus is in the same way angas in Greek here or Malak in Hebrew it's just a title it just is  
+{{% timestamp videoId="B8EA_xrGqjI" time="5386" display="01:29:46" %}} - saying The Messer you know definite article of God it's what he does it's talking about who he is and what he does  
+{{% timestamp videoId="B8EA_xrGqjI" time="5394" display="01:29:54" %}} - um and so we shouldn't make it more complicated than that it's what it is um yeah yeah true all right well we far  
+{{% timestamp videoId="B8EA_xrGqjI" time="5403" display="01:30:03" %}} - fared fared we went kind of far a field here um but this is just it's a very good poignant discussion for us of how  
+{{% timestamp videoId="B8EA_xrGqjI" time="5412" display="01:30:12" %}} - all of this points to the cross in the future um like Audi said I hadn't actually in the same way I hadn't really  
+{{% timestamp videoId="B8EA_xrGqjI" time="5421" display="01:30:21" %}} - connected all the dots and been wow from the very beginning when God speaks to Moses as AI says cross is in view the  
+{{% timestamp videoId="B8EA_xrGqjI" time="5428" display="01:30:28" %}} - whole time every step of the way um I really put that together before but it just CHS that this was always the plan  
+{{% timestamp videoId="B8EA_xrGqjI" time="5438" display="01:30:38" %}} - we've been over this before too right um the cross was always the plan it was there from day one Genesis chapter 3  
+{{% timestamp videoId="B8EA_xrGqjI" time="5445" display="01:30:45" %}} - like we've talked about um Believers throughout all history look towards this with Faith and only in that revealing of  
+{{% timestamp videoId="B8EA_xrGqjI" time="5452" display="01:30:52" %}} - the plan did everything become clear to us right um the mystery was revealed and we are blessed to be able to understand  
+{{% timestamp videoId="B8EA_xrGqjI" time="5460" display="01:31:00" %}} - it um so yeah well that's the second one here we have a couple more to go speaking of  
+{{% timestamp videoId="B8EA_xrGqjI" time="5469" display="01:31:09" %}} - appearances of the Angel of the Lord here in this Exodus narrative pointing us not only to the angel of the Lord  
+{{% timestamp videoId="B8EA_xrGqjI" time="5477" display="01:31:17" %}} - being God but also this Angel of the Lord being Christ crucified um so we look at a couple more examples when we  
+{{% timestamp videoId="B8EA_xrGqjI" time="5486" display="01:31:26" %}} - pick up so the next topic that we're going to talk about with respect to the angel of  
+{{% timestamp videoId="B8EA_xrGqjI" time="5495" display="01:31:35" %}} - the Lord in Exodus so the angel of The Exodus and we're just kind of using that as a title for the being who guided the  
+{{% timestamp videoId="B8EA_xrGqjI" time="5503" display="01:31:43" %}} - people of Israel um out of their flight from Egypt to Canaan uh and they wandering in the wilderness for all  
+{{% timestamp videoId="B8EA_xrGqjI" time="5509" display="01:31:49" %}} - those years uh so we are going to be talking here about the Angel sent who is said to be sent before the Israelites to  
+{{% timestamp videoId="B8EA_xrGqjI" time="5517" display="01:31:57" %}} - guard them on the way in their travels and so as part of the giving of the law to Moses on Mount Si and this uh at  
+{{% timestamp videoId="B8EA_xrGqjI" time="5526" display="01:32:06" %}} - least this particular thing we're going to read comes from Exodus chapter 23 verses 20 to 23 um and this is the being  
+{{% timestamp videoId="B8EA_xrGqjI" time="5536" display="01:32:16" %}} - who is speaking to Moses in this particular uh place in Exodus so during the giving of the law that being says I  
+{{% timestamp videoId="B8EA_xrGqjI" time="5544" display="01:32:24" %}} - am going to send an angel before you to guard you on the way and bring you into the place which I have prepared be on  
+{{% timestamp videoId="B8EA_xrGqjI" time="5551" display="01:32:31" %}} - your guard before him and obey his voice do not be rebellious towards him for he will not pardon your transgression since  
+{{% timestamp videoId="B8EA_xrGqjI" time="5558" display="01:32:38" %}} - my name is in him but if you truly obey his voice and do all that I say then I will be an enemy to your enemies and an  
+{{% timestamp videoId="B8EA_xrGqjI" time="5564" display="01:32:44" %}} - adversary to your adversaries for my angel will go before you and bring you into the land of the amorites the  
+{{% timestamp videoId="B8EA_xrGqjI" time="5571" display="01:32:51" %}} - Hittites the perizzites the Canaanites the h ites and the jebusites and I will completely destroy them all right so the  
+{{% timestamp videoId="B8EA_xrGqjI" time="5579" display="01:32:59" %}} - thing that complicates the interpretation here is we've already argued um in something we talked about  
+{{% timestamp videoId="B8EA_xrGqjI" time="5585" display="01:33:05" %}} - in the past uh you know I know we're a couple weeks separated now since we're recording these in chunks but um these  
+{{% timestamp videoId="B8EA_xrGqjI" time="5591" display="01:33:11" %}} - verses here that talks about how the law was given through angels and we talk about not like Angels plural as in  
+{{% timestamp videoId="B8EA_xrGqjI" time="5598" display="01:33:18" %}} - creature Angels but we argued that all of these verses so Galatians chapter 3: 19 Hebrews chapter 2: 2 the word spoken  
+{{% timestamp videoId="B8EA_xrGqjI" time="5606" display="01:33:26" %}} - through Angels acts 7: 38 uh which talks about um together with the angel who was speaking to him on Mount Si this one's  
+{{% timestamp videoId="B8EA_xrGqjI" time="5616" display="01:33:36" %}} - real CA it's Angel singular acts 7:38 and then acts 7:53 you know the law is ordained by Angels um so the being that  
+{{% timestamp videoId="B8EA_xrGqjI" time="5626" display="01:33:46" %}} - we mentioned who is speaking in Exodus chap 23 is said to be a messenger um and so the complic bit here is that Jesus in  
+{{% timestamp videoId="B8EA_xrGqjI" time="5636" display="01:33:56" %}} - his christophany which is what we're arguing is happening in this passage here in the giving of the law is saying  
+{{% timestamp videoId="B8EA_xrGqjI" time="5644" display="01:34:04" %}} - that an angel is going to be sent before the Israelites and he says that he's going to send that angel now the thing  
+{{% timestamp videoId="B8EA_xrGqjI" time="5650" display="01:34:10" %}} - that complicates this and why I think a lot of people tend to think that the father was the one uh you know present  
+{{% timestamp videoId="B8EA_xrGqjI" time="5658" display="01:34:18" %}} - during the given of the law is that Jesus is here speaking as a representative of the father and so if  
+{{% timestamp videoId="B8EA_xrGqjI" time="5664" display="01:34:24" %}} - you if you think yourself into knots here you'll say well how is Jesus going to send himself because it's obvious  
+{{% timestamp videoId="B8EA_xrGqjI" time="5672" display="01:34:32" %}} - that the Angel that's being sent before them is Jesus right he is the christophany the messenger the one who  
+{{% timestamp videoId="B8EA_xrGqjI" time="5679" display="01:34:39" %}} - is protecting them in the pillar of cloud and fire like we just talked about so Jesus is saying he's going to send an  
+{{% timestamp videoId="B8EA_xrGqjI" time="5685" display="01:34:45" %}} - angel before them to guard them but he is that angel um but the reason why we know that how all this works is because  
+{{% timestamp videoId="B8EA_xrGqjI" time="5694" display="01:34:54" %}} - you can see that the the person being sent is said to have my name in him um so we know that the the being speaking  
+{{% timestamp videoId="B8EA_xrGqjI" time="5702" display="01:35:02" %}} - what we mean by this name is we know that the the members of the Trinity share an Essence and so when the person  
+{{% timestamp videoId="B8EA_xrGqjI" time="5709" display="01:35:09" %}} - speaking in Exodus chapter 23 here says that my name is in him I.E the person who is going to be sent that's a clear  
+{{% timestamp videoId="B8EA_xrGqjI" time="5716" display="01:35:16" %}} - indication that that being that's going to be sent is God that's it's kind of what we're to take this to mean  
+{{% timestamp videoId="B8EA_xrGqjI" time="5724" display="01:35:24" %}} - but we already know that it is said that the person speaking here during the giving of the law is the Lord like tetr  
+{{% timestamp videoId="B8EA_xrGqjI" time="5731" display="01:35:31" %}} - Gaton is used in Hebrew uh it is definitely God himself but then we have all these passages that we just  
+{{% timestamp videoId="B8EA_xrGqjI" time="5739" display="01:35:39" %}} - mentioned here you know like that acts 7381 who was the angel who was speaking to him on Mount Si so was it God or was  
+{{% timestamp videoId="B8EA_xrGqjI" time="5745" display="01:35:45" %}} - it an angel the only way to reconcile it is that it was a messenger of God but it was the messenger of God and so  
+{{% timestamp videoId="B8EA_xrGqjI" time="5754" display="01:35:54" %}} - we should not be troubled by the fact that Jesus is speaking here the words from the father are given to him to tell  
+{{% timestamp videoId="B8EA_xrGqjI" time="5762" display="01:36:02" %}} - to Moses here and that the one who he is saying is going to be sent to guard the Israelites is him he is the Angel of the  
+{{% timestamp videoId="B8EA_xrGqjI" time="5772" display="01:36:12" %}} - Lord um and so he is serving as the messenger and if you want to think about it like this in human history when kings  
+{{% timestamp videoId="B8EA_xrGqjI" time="5780" display="01:36:20" %}} - sent you know important documents to other kingdoms for war treaties or trade agreements or whatever those people  
+{{% timestamp videoId="B8EA_xrGqjI" time="5788" display="01:36:28" %}} - basically spoke on the authority of the king they had the king's words and that is the sense uh with which we need to  
+{{% timestamp videoId="B8EA_xrGqjI" time="5795" display="01:36:35" %}} - take this particular topic of Jesus in a christophany in the giving of the law saying that the angel of the Lord will  
+{{% timestamp videoId="B8EA_xrGqjI" time="5803" display="01:36:43" %}} - be sent to guard the Israelites on their way there is no contradiction in that and we've talked about some of the  
+{{% timestamp videoId="B8EA_xrGqjI" time="5810" display="01:36:50" %}} - nonsensical uh things that people who try to rle out the Trinity do like so for example in the baptism of Jesus they  
+{{% timestamp videoId="B8EA_xrGqjI" time="5817" display="01:36:57" %}} - would say that you know uh the father uh you know was baptizing the father and the spirit descended on the father and  
+{{% timestamp videoId="B8EA_xrGqjI" time="5824" display="01:37:04" %}} - they're all the father it just doesn't make sense conceptually the way in which this is not that is that we are talking  
+{{% timestamp videoId="B8EA_xrGqjI" time="5833" display="01:37:13" %}} - about the words that were given to the messenger who then gave them to Moses um it's a different situation um so I'm not  
+{{% timestamp videoId="B8EA_xrGqjI" time="5841" display="01:37:21" %}} - going to spend too much time on that maybe we'll disc discuss that a bit as we go here um but the point here uh  
+{{% timestamp videoId="B8EA_xrGqjI" time="5847" display="01:37:27" %}} - vises the angel of The Exodus is that this Angel of the Lord was sent to guard them on the way he's going to send the  
+{{% timestamp videoId="B8EA_xrGqjI" time="5857" display="01:37:37" %}} - angel before the Israelites to lead and guard them and this is in exactly the manner that Christ is sent by the father  
+{{% timestamp videoId="B8EA_xrGqjI" time="5863" display="01:37:43" %}} - um he is the visible person of the Trinity to us when we operate in the world and so Moses is also here told  
+{{% timestamp videoId="B8EA_xrGqjI" time="5870" display="01:37:50" %}} - that they are supposed to obey the angel because my name is is in him I I mentioned that that is a clear reference  
+{{% timestamp videoId="B8EA_xrGqjI" time="5877" display="01:37:57" %}} - to deity that's what that phrasing means um and we're going to actually look at another passage here uh in Revelation  
+{{% timestamp videoId="B8EA_xrGqjI" time="5884" display="01:38:04" %}} - chapter 19 that will strengthen this connection that we know this is Jesus Christ and so this is when Christ  
+{{% timestamp videoId="B8EA_xrGqjI" time="5890" display="01:38:10" %}} - Returns the second coming the end of the tribulation when he comes to destroy the armies of the Antichrist at Armageddon  
+{{% timestamp videoId="B8EA_xrGqjI" time="5898" display="01:38:18" %}} - um so picking up at verse 11 so Revelation 19: 11 and following say and I saw heaven opened and behold a white  
+{{% timestamp videoId="B8EA_xrGqjI" time="5906" display="01:38:26" %}} - horse and he who sat on it is called faithful and true and in righteousness he judges and wages War his eyes are a  
+{{% timestamp videoId="B8EA_xrGqjI" time="5912" display="01:38:32" %}} - flame of fire and on his head are many diadems and he has a name written on him which no one knows except himself so  
+{{% timestamp videoId="B8EA_xrGqjI" time="5921" display="01:38:41" %}} - notice the name written on him right um verse 13 He is clothed with a robe dipped in Blood and his name is called  
+{{% timestamp videoId="B8EA_xrGqjI" time="5928" display="01:38:48" %}} - the word of God you know name again uh this is obviously speaking of Jesus Christ and the armies which are in  
+{{% timestamp videoId="B8EA_xrGqjI" time="5935" display="01:38:55" %}} - heaven clothed in fine linen white and clean were following him on white horses from his mouth comes a sharp sword so  
+{{% timestamp videoId="B8EA_xrGqjI" time="5942" display="01:39:02" %}} - that with it he may strike down the Nations and he will rule them with a rod of iron and he Treads The Wine Press of  
+{{% timestamp videoId="B8EA_xrGqjI" time="5948" display="01:39:08" %}} - the fierce wrath of God the almighty and on his robe and on his thigh he has a name written king of kings and Lord of  
+{{% timestamp videoId="B8EA_xrGqjI" time="5956" display="01:39:16" %}} - lords so again verse 12 he has a name written on him which no one knows except himself himself as God and then verse 16  
+{{% timestamp videoId="B8EA_xrGqjI" time="5964" display="01:39:24" %}} - he has a name on his thigh written king of kings and Lord of lords and so if we go back and we look at this passage that  
+{{% timestamp videoId="B8EA_xrGqjI" time="5972" display="01:39:32" %}} - we were looking at in Exodus chapter 23 this idea of the name of God being in the angel of the Lord it is very  
+{{% timestamp videoId="B8EA_xrGqjI" time="5982" display="01:39:42" %}} - parallel to this passage in Revelation chapter 19 this is Jesus Christ we're talking about here in other words it is  
+{{% timestamp videoId="B8EA_xrGqjI" time="5988" display="01:39:48" %}} - a christophy so that's this idea and of course the angel being sent to guard  
+{{% timestamp videoId="B8EA_xrGqjI" time="5994" display="01:39:54" %}} - them on the way is the angel in the pillar of cloud and fire it's not like there's two of them it's just this is An  
+{{% timestamp videoId="B8EA_xrGqjI" time="6000" display="01:40:00" %}} - Occurrence uh in Exodus chapter 23 where we hear another mention of this person who is sent with the Israelites you know  
+{{% timestamp videoId="B8EA_xrGqjI" time="6008" display="01:40:08" %}} - another way in which it stated that this Angel Of The Exodus as we're calling him was sent to guide and protect them that  
+{{% timestamp videoId="B8EA_xrGqjI" time="6015" display="01:40:15" %}} - just shows up here in this passage in Exodus 23 so Audie do you have anything you want to say uh I think the hardest  
+{{% timestamp videoId="B8EA_xrGqjI" time="6021" display="01:40:21" %}} - part of all this is is kind of making sense of Jesus speaking to Moses about sending the angel of the Lord if we're  
+{{% timestamp videoId="B8EA_xrGqjI" time="6028" display="01:40:28" %}} - saying that the angel of the Lord is Jesus in both places well how do we think about that um you might be able to  
+{{% timestamp videoId="B8EA_xrGqjI" time="6033" display="01:40:33" %}} - explain it better than I did I'm pretty sure that there is no better explanation than that it's  
+{{% timestamp videoId="B8EA_xrGqjI" time="6039" display="01:40:39" %}} - precisely what you said he was speaking for the father as a messenger and uh um speaking of himself you know so we have  
+{{% timestamp videoId="B8EA_xrGqjI" time="6051" display="01:40:51" %}} - to understand that even if did not say thus says the Lord and so on and so forth even in his appearances he was not  
+{{% timestamp videoId="B8EA_xrGqjI" time="6058" display="01:40:58" %}} - really appearing as a second member of the Trinity he was appearing as the father so to speak that is the people  
+{{% timestamp videoId="B8EA_xrGqjI" time="6065" display="01:41:05" %}} - who were interacting with him were supposed to be interacting with God right so it wasn't for his own sake that  
+{{% timestamp videoId="B8EA_xrGqjI" time="6075" display="01:41:15" %}} - he was interacting with Moses and all the others he was doing that on behalf of the father so he was speaking on  
+{{% timestamp videoId="B8EA_xrGqjI" time="6082" display="01:41:22" %}} - behalf of the father and therefore the words he was speaking to Moses at that time they pertained to himself but they  
+{{% timestamp videoId="B8EA_xrGqjI" time="6090" display="01:41:30" %}} - were really the father's words this is a position he takes even when he comes um In the Flesh he keeps saying the words I  
+{{% timestamp videoId="B8EA_xrGqjI" time="6099" display="01:41:39" %}} - speak to you and they're not my words I'm speaking to you what I heard from the father stuff like that he's  
+{{% timestamp videoId="B8EA_xrGqjI" time="6105" display="01:41:45" %}} - maintained that same attitude throughout his uh engagement with um Humanity from the beginning until now  
+{{% timestamp videoId="B8EA_xrGqjI" time="6116" display="01:41:56" %}} - so that's really the it shouldn't be a conundrum for anybody but if anybody struggles with it that's the answer it's  
+{{% timestamp videoId="B8EA_xrGqjI" time="6126" display="01:42:06" %}} - it's not at all as you said it's not at all like uh the situation where um uh God sent himself and and also spoke to  
+{{% timestamp videoId="B8EA_xrGqjI" time="6136" display="01:42:16" %}} - himself from the earth is like there's a bit Insanity for the people who are doing these things it doesn't apply here  
+{{% timestamp videoId="B8EA_xrGqjI" time="6143" display="01:42:23" %}} - M yeah I think another thing that could help is when we understand that God is Trinity then it's accurate to say God  
+{{% timestamp videoId="B8EA_xrGqjI" time="6151" display="01:42:31" %}} - did this and God did that and God did that for actions of all three of them right and in particular when we talk  
+{{% timestamp videoId="B8EA_xrGqjI" time="6157" display="01:42:37" %}} - about his name the tetragrammaton is shared between all of them it gets at that Divine existence  
+{{% timestamp videoId="B8EA_xrGqjI" time="6164" display="01:42:44" %}} - that is part of the essence of God that we talked about in our past studies you know the essence and nature of God those  
+{{% timestamp videoId="B8EA_xrGqjI" time="6170" display="01:42:50" %}} - come from the shared Essence three persons one Essence that Essence is tied up in the Divine name and so when we  
+{{% timestamp videoId="B8EA_xrGqjI" time="6179" display="01:42:59" %}} - have members of the Trinity and we say um God told Moses in Exodus 23 that he was going to send God to guide the  
+{{% timestamp videoId="B8EA_xrGqjI" time="6190" display="01:43:10" %}} - Israelites do you see how when we think of it in terms of the Trinity that maybe makes a little more sense right it do it  
+{{% timestamp videoId="B8EA_xrGqjI" time="6197" display="01:43:17" %}} - does because you know that is an accurate statement and because we repeat the same being  
+{{% timestamp videoId="B8EA_xrGqjI" time="6205" display="01:43:25" %}} - there you know like I don't know if that helps at all I'm I just think maybe that's a useful concept for us thinking  
+{{% timestamp videoId="B8EA_xrGqjI" time="6210" display="01:43:30" %}} - about talking about it um that is precisely the point once you take the Trinity out of the explanation the whole  
+{{% timestamp videoId="B8EA_xrGqjI" time="6218" display="01:43:38" %}} - thing becomes either insane or just um not outlandish what's the word that I would use it has now left the realm of  
+{{% timestamp videoId="B8EA_xrGqjI" time="6229" display="01:43:49" %}} - trying to make sense and now we're in the realm of mysticism where it is possible Right In in this case if we are  
+{{% timestamp videoId="B8EA_xrGqjI" time="6237" display="01:43:57" %}} - going to make sense of the fact that one person is saying that he will send a messenger who has his  
+{{% timestamp videoId="B8EA_xrGqjI" time="6248" display="01:44:08" %}} - Essence now we if once you remove the Trinity from that discussion now what we're talking about essentially is that  
+{{% timestamp videoId="B8EA_xrGqjI" time="6256" display="01:44:16" %}} - a schizophrenic person is actually it's it's it's a mad situation it's like you're splitting into multiple  
+{{% timestamp videoId="B8EA_xrGqjI" time="6263" display="01:44:23" %}} - personalities that's what's happening but with the Trinity it makes sense Jesus can speak for the father about  
+{{% timestamp videoId="B8EA_xrGqjI" time="6270" display="01:44:30" %}} - himself that's it yep yep I really don't think it's more complicated than that and I don't think we need to jump on  
+{{% timestamp videoId="B8EA_xrGqjI" time="6278" display="01:44:38" %}} - people for kind of squinting at it and being like that's hard to understand it is a bit hard to understand um it's it's  
+{{% timestamp videoId="B8EA_xrGqjI" time="6286" display="01:44:46" %}} - this is where the Triune nature of the Trinity and the three persons one Essence bit when we plug that in to the  
+{{% timestamp videoId="B8EA_xrGqjI" time="6296" display="01:44:56" %}} - the what we shall call the characters here right the one talking to Moses in Exodus chapter 23 and the one who is  
+{{% timestamp videoId="B8EA_xrGqjI" time="6302" display="01:45:02" %}} - sent before the Israelites well in both cases it is God a member of the Trinity who is involved and so happens is the  
+{{% timestamp videoId="B8EA_xrGqjI" time="6310" display="01:45:10" %}} - same member here but because they share that will in essence the the words that are given to Jesus Christ to say to  
+{{% timestamp videoId="B8EA_xrGqjI" time="6320" display="01:45:20" %}} - Moses come positionally from the father father and so that's why it's really not it's not a contradiction uh it's not  
+{{% timestamp videoId="B8EA_xrGqjI" time="6327" display="01:45:27" %}} - something that we should get uh uh you know troubled by we just need to understand that this is how the Trinity  
+{{% timestamp videoId="B8EA_xrGqjI" time="6334" display="01:45:34" %}} - Works in its operations with Jesus as the messenger of the father not just speaking words the father gives him but  
+{{% timestamp videoId="B8EA_xrGqjI" time="6341" display="01:45:41" %}} - basically speaking as the father right he is god um and so you know it it it stretches our brain a little bit but  
+{{% timestamp videoId="B8EA_xrGqjI" time="6350" display="01:45:50" %}} - that doesn't necessarily mean that there's anything wrong with that's what I'm trying to emphasize um yeah yeah  
+{{% timestamp videoId="B8EA_xrGqjI" time="6359" display="01:45:59" %}} - agreed so next uh in this sequence of the appearances of the Angel of the Exodus we're going to be talking about  
+{{% timestamp videoId="B8EA_xrGqjI" time="6367" display="01:46:07" %}} - the one who Moses among other people knew and spoke to face to face so uh we have been told previously in the study  
+{{% timestamp videoId="B8EA_xrGqjI" time="6375" display="01:46:15" %}} - that no one has ever seen the father while on this Earth so I'm just going to briefly reread a couple of those verses  
+{{% timestamp videoId="B8EA_xrGqjI" time="6380" display="01:46:20" %}} - we have 1 Timothy 6:16 that says uh who you know this is talking about the father you know in  
+{{% timestamp videoId="B8EA_xrGqjI" time="6388" display="01:46:28" %}} - context whom no one has seen or can see um talking about the father there um John  
+{{% timestamp videoId="B8EA_xrGqjI" time="6396" display="01:46:36" %}} - 1818 uh no one has ever seen God meaning the father but the one and only son who is himself God and is in closest  
+{{% timestamp videoId="B8EA_xrGqjI" time="6405" display="01:46:45" %}} - relationship with the father has made him known so in both of these we're talking about the father we've already  
+{{% timestamp videoId="B8EA_xrGqjI" time="6411" display="01:46:51" %}} - made this point previously in our studies here here but we are told that you know despite this fact that no one's  
+{{% timestamp videoId="B8EA_xrGqjI" time="6417" display="01:46:57" %}} - ever seen the father we're told that the elders saw the god of Israel in the company with Moses and Aaron so there's  
+{{% timestamp videoId="B8EA_xrGqjI" time="6424" display="01:47:04" %}} - this passage in Exodus chapter 24 where you know they're eating with the Elders of Israel so Moses went up with Aaron  
+{{% timestamp videoId="B8EA_xrGqjI" time="6431" display="01:47:11" %}} - naab and abaho and 70 of the Elders of Israel and they saw the god of Israel and under his feet there appeared to be  
+{{% timestamp videoId="B8EA_xrGqjI" time="6437" display="01:47:17" %}} - a pavement of sapphire as clear as the sky itself yet he did not stretch out his hand against the Nobles of the sons  
+{{% timestamp videoId="B8EA_xrGqjI" time="6443" display="01:47:23" %}} - of Israel and they saw God and they ate and drank so well can't be the father right that's what we just said so when  
+{{% timestamp videoId="B8EA_xrGqjI" time="6452" display="01:47:32" %}} - we're talking about them seeing the god of Israel and we understand that the spirit is the Unseen member of the  
+{{% timestamp videoId="B8EA_xrGqjI" time="6458" display="01:47:38" %}} - Trinity that is his characteristic um well by process of elimination has to be Jesus Christ a  
+{{% timestamp videoId="B8EA_xrGqjI" time="6465" display="01:47:45" %}} - pre-incarnate Jesus Christ as in a christophy so that's Exodus 24: 9 through1 that we just read and we also  
+{{% timestamp videoId="B8EA_xrGqjI" time="6472" display="01:47:52" %}} - know that Moses entered a Cloud of Glory and spoke with the Lord on SI you know we we're just in Exodus chapter 23 um  
+{{% timestamp videoId="B8EA_xrGqjI" time="6479" display="01:47:59" %}} - Exodus chap 24 verses 16- 18 says that the glory of the Lord rested on Mount Si and a cloud covered it for six days and  
+{{% timestamp videoId="B8EA_xrGqjI" time="6488" display="01:48:08" %}} - on the seventh day he called to Moses from the midst of the cloud and to the eyes of the sons of Israel the  
+{{% timestamp videoId="B8EA_xrGqjI" time="6494" display="01:48:14" %}} - appearance of the glory of the Lord was like a consuming fire on the Mountaintop Moses entered the midst of the cloud as  
+{{% timestamp videoId="B8EA_xrGqjI" time="6502" display="01:48:22" %}} - he went up to the mountain and Moses was on the mountain for 40 days and 40 nights so Moses went into the midst of  
+{{% timestamp videoId="B8EA_xrGqjI" time="6507" display="01:48:27" %}} - the cloud where you know the glory of the Lord was and so he saw the glory of the Lord because he went inside the  
+{{% timestamp videoId="B8EA_xrGqjI" time="6514" display="01:48:34" %}} - cloud again can't be the father because no one can see the father uh according to those verses we read and then uh you  
+{{% timestamp videoId="B8EA_xrGqjI" time="6522" display="01:48:42" %}} - know Moses actually further petitioned God here to show him his glory we we see that in Exodus 33 um you know uh so I'll  
+{{% timestamp videoId="B8EA_xrGqjI" time="6533" display="01:48:53" %}} - read that Exodus 33: 18-23 then Moses said I pray you show me your glory and he uh being the Lord here  
+{{% timestamp videoId="B8EA_xrGqjI" time="6543" display="01:49:03" %}} - said I myself will make all my goodness pass before you and will proclaim the name of the Lord before you and I will  
+{{% timestamp videoId="B8EA_xrGqjI" time="6549" display="01:49:09" %}} - be gracious to whom I will be gracious and will show compassion on whom I will show compassion but he said you cannot  
+{{% timestamp videoId="B8EA_xrGqjI" time="6555" display="01:49:15" %}} - see my face for no man can see me and live then the Lord said behold there's a place by me and you shall stand there on  
+{{% timestamp videoId="B8EA_xrGqjI" time="6561" display="01:49:21" %}} - the Rock and it will come about while my glory is passing by that I will put you in the Clift of The Rock and cover you  
+{{% timestamp videoId="B8EA_xrGqjI" time="6566" display="01:49:26" %}} - with my hand until I have passed by then I will take my hand away and you shall see my back but my face shall not be  
+{{% timestamp videoId="B8EA_xrGqjI" time="6572" display="01:49:32" %}} - seen um so complexity here is well who's being talked about right we know that on Sinai it's a christophany but when he  
+{{% timestamp videoId="B8EA_xrGqjI" time="6582" display="01:49:42" %}} - talks about no one can see my face and live while are we talking about the christophany um we'll kind of pull back  
+{{% timestamp videoId="B8EA_xrGqjI" time="6587" display="01:49:47" %}} - to that may let aie take a crack at it when we get to it as well but the point here is that we know from New Testament  
+{{% timestamp videoId="B8EA_xrGqjI" time="6595" display="01:49:55" %}} - passages that it cannot be the father um because the Bible is very clear that when we talk of uh appearances of God in  
+{{% timestamp videoId="B8EA_xrGqjI" time="6605" display="01:50:05" %}} - the Old Testament we talk of who is seeing the Lord then the Bible says itself like first John here that no one  
+{{% timestamp videoId="B8EA_xrGqjI" time="6612" display="01:50:12" %}} - has ever seen the father except for the son John 1118 um so we just we have to interpret in light of that uh that  
+{{% timestamp videoId="B8EA_xrGqjI" time="6621" display="01:50:21" %}} - progressive revelation that we have in the New Testament is the only way we can take it because that's right there in  
+{{% timestamp videoId="B8EA_xrGqjI" time="6626" display="01:50:26" %}} - the Bible so we also have here in numbers 12:8 um where uh you know we said to speak mouth to- mouth openly not  
+{{% timestamp videoId="B8EA_xrGqjI" time="6637" display="01:50:37" %}} - in dark sayings and he beholds form of the Lord why then were you not afraid to speak against my servant against Moses  
+{{% timestamp videoId="B8EA_xrGqjI" time="6644" display="01:50:44" %}} - so Moses is said to behold the form of the Lord again compare those verses that we were uh writing there the Lord speaks  
+{{% timestamp videoId="B8EA_xrGqjI" time="6652" display="01:50:52" %}} - to him M to mouth he speaks openly with him um directly we would say and then uh even clearer we have the  
+{{% timestamp videoId="B8EA_xrGqjI" time="6661" display="01:51:01" %}} - the idiom here face to face you know that's an presumably an idiom in Hebrew as well um as in English here uh so  
+{{% timestamp videoId="B8EA_xrGqjI" time="6668" display="01:51:08" %}} - since that time uh no Prophet has risen in Israel like Moses whom the Lord knew face to face so Moses knew God face to  
+{{% timestamp videoId="B8EA_xrGqjI" time="6678" display="01:51:18" %}} - face again despite these passages we talked about with 1 Timothy 6 16 John 1:18 and others talking about no one can  
+{{% timestamp videoId="B8EA_xrGqjI" time="6685" display="01:51:25" %}} - see the father well all of this points to that these occurrences that we're talking about are once again the angel  
+{{% timestamp videoId="B8EA_xrGqjI" time="6693" display="01:51:33" %}} - of the Lord not the actual presence of the father but the appearance of the one who is sent by him speaks for him and  
+{{% timestamp videoId="B8EA_xrGqjI" time="6700" display="01:51:40" %}} - who has undertaken to fulfill his Plan of Salvation in this world and that person is our Lord and Savior Jesus  
+{{% timestamp videoId="B8EA_xrGqjI" time="6706" display="01:51:46" %}} - Christ appearing in pre-incarnate christophany so before he took on a human nature before he was born of Mary  
+{{% timestamp videoId="B8EA_xrGqjI" time="6714" display="01:51:54" %}} - and came into this world as the Messiah the prophecied people or prophecied person who would deliver his people  
+{{% timestamp videoId="B8EA_xrGqjI" time="6722" display="01:52:02" %}} - Jesus Christ in pre-incarnate christophany well he was the one who talked to Moses face to face and ate  
+{{% timestamp videoId="B8EA_xrGqjI" time="6728" display="01:52:08" %}} - with the Elders of Israel and showed Moses his glory on Mount Si so I think the concept is pretty straightforward we  
+{{% timestamp videoId="B8EA_xrGqjI" time="6737" display="01:52:17" %}} - have to interpret this way simply because everything in the Bible is true and if these other verses say that no no  
+{{% timestamp videoId="B8EA_xrGqjI" time="6743" display="01:52:23" %}} - one has seen the father except for the son well it just has to be that way because you know Moses would have seen  
+{{% timestamp videoId="B8EA_xrGqjI" time="6748" display="01:52:28" %}} - the father if it was the father in that passage so um aie I wonder if you could maybe do a better a better job than me  
+{{% timestamp videoId="B8EA_xrGqjI" time="6755" display="01:52:35" %}} - explaining this passage here in Exodus 33 where we talk about specifically no man seeing my face you know is it the  
+{{% timestamp videoId="B8EA_xrGqjI" time="6763" display="01:52:43" %}} - words of the father or is Jesus talking about his face that sort of thing um you're talking you're  
+{{% timestamp videoId="B8EA_xrGqjI" time="6769" display="01:52:49" %}} - muted sorry um yeah I think uh you captured it completely the the position of the  
+{{% timestamp videoId="B8EA_xrGqjI" time="6779" display="01:52:59" %}} - scriptures is that no one can actually see the father so everything we see of the appearance of of uh of God  
+{{% timestamp videoId="B8EA_xrGqjI" time="6787" display="01:53:07" %}} - necessarily has to be another member of the Trinity so yeah so when we see um statements like the one you are talking  
+{{% timestamp videoId="B8EA_xrGqjI" time="6798" display="01:53:18" %}} - about it's still the Lord Jesus who is making such a statement then when we see um how are you not afraid to speak of  
+{{% timestamp videoId="B8EA_xrGqjI" time="6809" display="01:53:29" %}} - Moses I speak to him face to face still the Lord Jesus that's the thing um so it's all it's all the Lord Jesus that's  
+{{% timestamp videoId="B8EA_xrGqjI" time="6819" display="01:53:39" %}} - the thing we we cannot take just one part of the Bible and ignore the rest we can't get confused about this because  
+{{% timestamp videoId="B8EA_xrGqjI" time="6827" display="01:53:47" %}} - we're isolating that you know we have to take it all together if if the Bible tells us in in the New Testament and no  
+{{% timestamp videoId="B8EA_xrGqjI" time="6834" display="01:53:54" %}} - and not just in the New Testament but let's go with the New Testament that no man has ever seen the father and we know  
+{{% timestamp videoId="B8EA_xrGqjI" time="6841" display="01:54:01" %}} - that there were multiple examples of people who saw God Isaiah did the Elders of Israel you name it so that tells you  
+{{% timestamp videoId="B8EA_xrGqjI" time="6851" display="01:54:11" %}} - something it didn't see yeah I think I just want to just to push on this I was just going to give  
+{{% timestamp videoId="B8EA_xrGqjI" time="6858" display="01:54:18" %}} - you a chance um but this verse in particular in Exodus 33:20 I think why people stumble on this is because this  
+{{% timestamp videoId="B8EA_xrGqjI" time="6866" display="01:54:26" %}} - sounds like the father right like you can't see me and live right um but why do we have in our heads that that sort  
+{{% timestamp videoId="B8EA_xrGqjI" time="6875" display="01:54:35" %}} - of thing only applies to the father and I just want us to take a second to stop and think about it Jesus in his  
+{{% timestamp videoId="B8EA_xrGqjI" time="6881" display="01:54:41" %}} - pre-incarnate form was like his glory was not veiled under kinosis like it was during the  
+{{% timestamp videoId="B8EA_xrGqjI" time="6888" display="01:54:48" %}} - Incarnation and so why exactly is that we suppose that you know we look at God in the eye and  
+{{% timestamp videoId="B8EA_xrGqjI" time="6896" display="01:54:56" %}} - we wouldn't have consequences for it and I'm talking about Jesus Christ here and that's exactly what he tells Moses no  
+{{% timestamp videoId="B8EA_xrGqjI" time="6903" display="01:55:03" %}} - one can see my face no one can see me and live right um yes but why do we think that can't apply to the pre the  
+{{% timestamp videoId="B8EA_xrGqjI" time="6911" display="01:55:11" %}} - pre-incarnate Jesus Christ see that's the problem that people have with this passage is they say well you know people  
+{{% timestamp videoId="B8EA_xrGqjI" time="6917" display="01:55:17" %}} - saw Jesus just fine when he was walking around as a human being and even after his glorification when he had a human  
+{{% timestamp videoId="B8EA_xrGqjI" time="6922" display="01:55:22" %}} - nature but we're talking about pre-incarnate Jesus here and if the Bible says this then it is so you know  
+{{% timestamp videoId="B8EA_xrGqjI" time="6930" display="01:55:30" %}} - and and simple as that you know and so when the person who's talking in Exodus 33 has to be the son saying you cannot  
+{{% timestamp videoId="B8EA_xrGqjI" time="6938" display="01:55:38" %}} - see my face for no one can see me and live has to be the sun saying this we know that from what we've gone through  
+{{% timestamp videoId="B8EA_xrGqjI" time="6944" display="01:55:44" %}} - this statement has to apply to the son and there is no contradiction in this because it can be equally true that no  
+{{% timestamp videoId="B8EA_xrGqjI" time="6950" display="01:55:50" %}} - one can see the father and live and no one can see the Sun and live both those things can be true but it's not that we  
+{{% timestamp videoId="B8EA_xrGqjI" time="6955" display="01:55:55" %}} - can see the Sun at all is that they can't see his face they can't look him in the eye in this way when he is  
+{{% timestamp videoId="B8EA_xrGqjI" time="6962" display="01:56:02" %}} - showing his glory that's the other big contextual thing here is that Moses asked to to for him to show me uh  
+{{% timestamp videoId="B8EA_xrGqjI" time="6971" display="01:56:11" %}} - basically Show Me Your Glory um he asked the Lord for that and we know that his face glowed at this point but by you  
+{{% timestamp videoId="B8EA_xrGqjI" time="6980" display="01:56:20" %}} - know by understanding this we know that you know on Mount Si the Israelites saw God like fire it's what the text says on  
+{{% timestamp videoId="B8EA_xrGqjI" time="6988" display="01:56:28" %}} - if not here I don't remember if that's here exactly but like we know this that it was massive overwhelming what we  
+{{% timestamp videoId="B8EA_xrGqjI" time="6995" display="01:56:35" %}} - would call pyrot Technics if you will um that is what we mean by the glory of the Lord but when Jesus talks to Abraham I'm  
+{{% timestamp videoId="B8EA_xrGqjI" time="7003" display="01:56:43" %}} - going to skip ahead we we'll get to these other slides and stuff in in Genesis Chapter 18 and he wrestles with  
+{{% timestamp videoId="B8EA_xrGqjI" time="7008" display="01:56:48" %}} - Jacob and the man who appears to Joshua and and all of these other things do we see that fire do we see the pyrot  
+{{% timestamp videoId="B8EA_xrGqjI" time="7017" display="01:56:57" %}} - Technics the glory of the Lord completely unveiled well we don't right because we have no indication then when  
+{{% timestamp videoId="B8EA_xrGqjI" time="7025" display="01:57:05" %}} - Abraham was chatting with this person there was like Flames everywhere right the the the glory of the Lord shining  
+{{% timestamp videoId="B8EA_xrGqjI" time="7031" display="01:57:11" %}} - from him kind of in this unmistakable way his identity was veiled we'll get to this in a couple slides when we talk  
+{{% timestamp videoId="B8EA_xrGqjI" time="7039" display="01:57:19" %}} - about some of these other christophanies in the old Testament but this passage with Moses that's the second big  
+{{% timestamp videoId="B8EA_xrGqjI" time="7046" display="01:57:26" %}} - contextual thing to keep in mind here is this you cannot see my face and live business this is talking about Jesus in  
+{{% timestamp videoId="B8EA_xrGqjI" time="7052" display="01:57:32" %}} - christophany but the other big thing is that we're talking in context here specifically about when Jesus isn't  
+{{% timestamp videoId="B8EA_xrGqjI" time="7058" display="01:57:38" %}} - bailing his glory at all um and so some people also have they try to draw a contradiction here while they say well  
+{{% timestamp videoId="B8EA_xrGqjI" time="7065" display="01:57:45" %}} - you know all these other people saw God in the Old Testament but look here in Exodus 33 it says that you can't see him  
+{{% timestamp videoId="B8EA_xrGqjI" time="7070" display="01:57:50" %}} - and live contrad it's not because in the ofes his glory he could not do this even Jesus Christ under christophany and so  
+{{% timestamp videoId="B8EA_xrGqjI" time="7080" display="01:58:00" %}} - at no point in any of this is there any contradiction um yeah I mean that's just what it is  
+{{% timestamp videoId="B8EA_xrGqjI" time="7089" display="01:58:09" %}} - you know and and people do struggle with this and they try to proof text this specifically to find fault with the  
+{{% timestamp videoId="B8EA_xrGqjI" time="7096" display="01:58:16" %}} - Bible or say that it contradicts itself or or whatnot but the the person here is Jesus we as we've already been over has  
+{{% timestamp videoId="B8EA_xrGqjI" time="7104" display="01:58:24" %}} - to be him from the New Testament references that says no one's ever seen the father um and Jesus says you cannot  
+{{% timestamp videoId="B8EA_xrGqjI" time="7110" display="01:58:30" %}} - see his face and live um so that's why Moses is allowed to see his back when his glory is fully revealed when he's  
+{{% timestamp videoId="B8EA_xrGqjI" time="7117" display="01:58:37" %}} - not veiling anything in his pre-incarnate form um so yeah it's kind of a lot to get through there but um I  
+{{% timestamp videoId="B8EA_xrGqjI" time="7125" display="01:58:45" %}} - hope that helps us not be troubled by this um you know because I do think this is one of those occurrences in the Old  
+{{% timestamp videoId="B8EA_xrGqjI" time="7132" display="01:58:52" %}} - Testament where I think people I mean you can kind of be forgiven for it a little bit people associate that no one  
+{{% timestamp videoId="B8EA_xrGqjI" time="7138" display="01:58:58" %}} - has seen the father and no one can see me and live here they tie those things together and they think that means this  
+{{% timestamp videoId="B8EA_xrGqjI" time="7145" display="01:59:05" %}} - had to be the father but that actually kind of like contradicts itself right but um yeah you know uh but I'm just  
+{{% timestamp videoId="B8EA_xrGqjI" time="7152" display="01:59:12" %}} - saying because like the these verses in John 1118 no one has seen the father it's like well seeing his back is still  
+{{% timestamp videoId="B8EA_xrGqjI" time="7159" display="01:59:19" %}} - seeing the father right see what I'm saying um so the only way that this works is if Jesus is the one saying this  
+{{% timestamp videoId="B8EA_xrGqjI" time="7166" display="01:59:26" %}} - um yeah well in discussion on this uh after we paused for a sec I think we came up with several other good ways to  
+{{% timestamp videoId="B8EA_xrGqjI" time="7174" display="01:59:34" %}} - explain this topic which is admittedly a little bit hard to wrap our heads around so one of the analogies that came up in  
+{{% timestamp videoId="B8EA_xrGqjI" time="7180" display="01:59:40" %}} - our discussion was kind of like looking at an eclipse and so we're not supposed to do this with our eyes directly  
+{{% timestamp videoId="B8EA_xrGqjI" time="7188" display="01:59:48" %}} - because if you do that you get the full dose of looking at the sun you go blind um it hurts your vision um and that's  
+{{% timestamp videoId="B8EA_xrGqjI" time="7195" display="01:59:55" %}} - sort of the sense here you know light is a is a metaphor for Glory all throughout the Bible like 2 Corinthians chapter 3  
+{{% timestamp videoId="B8EA_xrGqjI" time="7202" display="02:00:02" %}} - for example we hear about Moses's face reflecting light and you know there's this idea of light being Glory um and uh  
+{{% timestamp videoId="B8EA_xrGqjI" time="7209" display="02:00:09" %}} - at any rate uh when we think about this in terms of the eclipse we have to use sunglasses when we look at it we cannot  
+{{% timestamp videoId="B8EA_xrGqjI" time="7217" display="02:00:17" %}} - bear the full dose of that light um so to speak that's the same thing that we're talking about here with Moses so  
+{{% timestamp videoId="B8EA_xrGqjI" time="7225" display="02:00:25" %}} - uh when Moses says he wants to see the glory of God God kind of says okay but then he puts him in a rock and he only  
+{{% timestamp videoId="B8EA_xrGqjI" time="7232" display="02:00:32" %}} - lets him see his glory as he's passed by from behind this is the in our analogy this is using sunglasses it's not Moses  
+{{% timestamp videoId="B8EA_xrGqjI" time="7241" display="02:00:41" %}} - did not get the full dose of God so to speak of Jesus's in his christophany the pre-incarnate Christ he did not get the  
+{{% timestamp videoId="B8EA_xrGqjI" time="7249" display="02:00:49" %}} - full dose of his unveiled Glory um now when we were discussing this the other main point aside from the uh the uh sort  
+{{% timestamp videoId="B8EA_xrGqjI" time="7259" display="02:00:59" %}} - of eclipse analogy and not getting the full dose was the fact that the father just never veils his glory this is why  
+{{% timestamp videoId="B8EA_xrGqjI" time="7266" display="02:01:06" %}} - there's a difference it's because all three members of the Trinity share the same Essence all three of them are holy  
+{{% timestamp videoId="B8EA_xrGqjI" time="7272" display="02:01:12" %}} - they are intolerant of sin cannot be in the presence of sin but Jesus veils his glory um sometimes like as when he's  
+{{% timestamp videoId="B8EA_xrGqjI" time="7279" display="02:01:19" %}} - talking with Abraham in Genesis 18 He looks like a man right he's not he's not lighting up the entire top of Mount  
+{{% timestamp videoId="B8EA_xrGqjI" time="7287" display="02:01:27" %}} - Si like he is in this place right when he's speaking with Moses in the cloud but he can do that and like when he  
+{{% timestamp videoId="B8EA_xrGqjI" time="7293" display="02:01:33" %}} - leads the Israelites um so it's a matter of how much Jesus has uh uh veiled himself from us but the the point is the  
+{{% timestamp videoId="B8EA_xrGqjI" time="7303" display="02:01:43" %}} - father never does that and so that's why it's true that people can't see the father at all but when Jesus removes  
+{{% timestamp videoId="B8EA_xrGqjI" time="7310" display="02:01:50" %}} - those limits when he does not Veil his divinity in that way and the pre-incarnate Christ remember didn't  
+{{% timestamp videoId="B8EA_xrGqjI" time="7317" display="02:01:57" %}} - have a human body at this point we're still talking about before the Incarnation so even at this point like  
+{{% timestamp videoId="B8EA_xrGqjI" time="7322" display="02:02:02" %}} - when God walks with Moses in Genesis Chapter 18 which we'll get to um he's doing that you know he's manifesting  
+{{% timestamp videoId="B8EA_xrGqjI" time="7329" display="02:02:09" %}} - this physical form within the world to interact with other human beings well he's doing that even without a physical  
+{{% timestamp videoId="B8EA_xrGqjI" time="7334" display="02:02:14" %}} - body but he's doing that with his divinity Veil um so it's not really kosis it's not the same concept as that  
+{{% timestamp videoId="B8EA_xrGqjI" time="7343" display="02:02:23" %}} - really but it's this idea that the sun is the one who appears to us but his role he is veiling that full essence of  
+{{% timestamp videoId="B8EA_xrGqjI" time="7352" display="02:02:32" %}} - divinity because if he didn't that would be looking at the eclipse with no sunglasses full on that would be  
+{{% timestamp videoId="B8EA_xrGqjI" time="7358" display="02:02:38" %}} - blinding to us it would kill us we'd be destroyed because of God's holiness and so when you think about it like this  
+{{% timestamp videoId="B8EA_xrGqjI" time="7367" display="02:02:47" %}} - then this whole thing I think makes a little bit more sense because no one can see the father no one has seen the  
+{{% timestamp videoId="B8EA_xrGqjI" time="7372" display="02:02:52" %}} - father because the father never veils his glory that's his uh he he represents the the unapproachable side of deity  
+{{% timestamp videoId="B8EA_xrGqjI" time="7381" display="02:03:01" %}} - right he is the representation of deity within the Trinity um and so the father never veils his glory we can only see  
+{{% timestamp videoId="B8EA_xrGqjI" time="7388" display="02:03:08" %}} - the sun headon we can only get the full dose when he is veiling his glory that's what this passage here in Exodus chapter  
+{{% timestamp videoId="B8EA_xrGqjI" time="7396" display="02:03:16" %}} - 33 ver 18 and foll is talking about is that even when we're talking about the son if the son fully unveils himself in  
+{{% timestamp videoId="B8EA_xrGqjI" time="7406" display="02:03:26" %}} - the same way that the father is his glory is not veiled it all at any time if the sun does the same thing we still  
+{{% timestamp videoId="B8EA_xrGqjI" time="7413" display="02:03:33" %}} - die just as much because he's God because the only time when we aren't immediately annihilated upon this sort  
+{{% timestamp videoId="B8EA_xrGqjI" time="7419" display="02:03:39" %}} - of thing is when God Is veiling His glory and so this whole passage um you know Moses being put behind in the Clift  
+{{% timestamp videoId="B8EA_xrGqjI" time="7428" display="02:03:48" %}} - of a rock and only seeing his back what we are being told here in essence is that he did not get the  
+{{% timestamp videoId="B8EA_xrGqjI" time="7434" display="02:03:54" %}} - full dose that he would if Jesus unveiled his glory and we didn't have these circumstances that made him kind  
+{{% timestamp videoId="B8EA_xrGqjI" time="7442" display="02:04:02" %}} - of see less than the fully unveiled glory of the Son of God of Jesus Christ in his pre-incarnate form so hopefully  
+{{% timestamp videoId="B8EA_xrGqjI" time="7450" display="02:04:10" %}} - that kind of helps explain things a little more here um uh you know help us work through you know is it the son is  
+{{% timestamp videoId="B8EA_xrGqjI" time="7457" display="02:04:17" %}} - it the father how do we know um there's no contradictions that that whole thing we've been talking about here to clear  
+{{% timestamp videoId="B8EA_xrGqjI" time="7462" display="02:04:22" %}} - up this passage um some of those things in discussion I just kind of think help us maybe get a little bit more intuition  
+{{% timestamp videoId="B8EA_xrGqjI" time="7467" display="02:04:27" %}} - for it which just sometimes makes it easier for us to understand believe it accept it that sort of thing so hope all  
+{{% timestamp videoId="B8EA_xrGqjI" time="7475" display="02:04:35" %}} - of that has been helpful in our understanding of this point here in Exodus chapter  
+{{% timestamp videoId="B8EA_xrGqjI" time="7482" display="02:04:42" %}} - 33 all right so the last occurrence here of appearances of the Angel of the Exodus that's the section we've kind of  
+{{% timestamp videoId="B8EA_xrGqjI" time="7491" display="02:04:51" %}} - been going through here we're going to be talking about uh this reference in Judges chapter 2 where uh the angel is  
+{{% timestamp videoId="B8EA_xrGqjI" time="7499" display="02:04:59" %}} - talking about the one who led them up from Egypt um so Judges chapter 2 veres 1-5 I'm just going to go ahead and read  
+{{% timestamp videoId="B8EA_xrGqjI" time="7507" display="02:05:07" %}} - this just like we've been doing all the other passages so Exodus 21 or sorry Judges chapter 2 verse one um now the  
+{{% timestamp videoId="B8EA_xrGqjI" time="7514" display="02:05:14" %}} - angel of the Lord came up from gilgal to boim and he said I brought you up out of Egypt and led you into the land which I  
+{{% timestamp videoId="B8EA_xrGqjI" time="7521" display="02:05:21" %}} - have warn to your fathers and I said I will never break my Covenant with you and as for you you shall make no  
+{{% timestamp videoId="B8EA_xrGqjI" time="7527" display="02:05:27" %}} - Covenant with the inhabitants of this land you shall tear down their altars but you have not obeyed me what is this  
+{{% timestamp videoId="B8EA_xrGqjI" time="7533" display="02:05:33" %}} - you have done therefore I also said I will not drive them out before you but they will become as thorns in your sides  
+{{% timestamp videoId="B8EA_xrGqjI" time="7540" display="02:05:40" %}} - and their gods will be a snare to you when the angel of the Lord spoke these words to all the sons of Israel the  
+{{% timestamp videoId="B8EA_xrGqjI" time="7546" display="02:05:46" %}} - people lifted up their voices and wept so they named that place boim and there they sacrificed to the Lord so the  
+{{% timestamp videoId="B8EA_xrGqjI" time="7553" display="02:05:53" %}} - operative points here is that the angel of the Lord is the one speaking but he says this speaking in the first person I  
+{{% timestamp videoId="B8EA_xrGqjI" time="7560" display="02:06:00" %}} - brought you up out of Egypt into this land which I have sworn to your fathers and I said I will never break my  
+{{% timestamp videoId="B8EA_xrGqjI" time="7566" display="02:06:06" %}} - Covenant with you so the angel of the Lord uses the first person when we're talking about the Covenant between the  
+{{% timestamp videoId="B8EA_xrGqjI" time="7573" display="02:06:13" %}} - people of Israel and the god of Abraham and Isaac and Jacob ero christophany this one is  
+{{% timestamp videoId="B8EA_xrGqjI" time="7580" display="02:06:20" %}} - really not that complicated relative to the others that we've been talking about um the angel claims to be the one who  
+{{% timestamp videoId="B8EA_xrGqjI" time="7586" display="02:06:26" %}} - led them up from Egypt and reminds the Israelites that he will never break my Covenant with you only the father could  
+{{% timestamp videoId="B8EA_xrGqjI" time="7593" display="02:06:33" %}} - make such a claim or someone representing him that is his servant our Lord Jesus Christ who would fulfill that  
+{{% timestamp videoId="B8EA_xrGqjI" time="7601" display="02:06:41" %}} - Covenant and he would make a new one he would Minister a new one for us in his blood that's what he did for us on the  
+{{% timestamp videoId="B8EA_xrGqjI" time="7608" display="02:06:48" %}} - cross um New Covenant not old Covenant but point is the Angel of the Lord is talking about his Covenant the Covenant  
+{{% timestamp videoId="B8EA_xrGqjI" time="7616" display="02:06:56" %}} - that he first person made with the people of Israel and he has to be doing that sent as a representative of the  
+{{% timestamp videoId="B8EA_xrGqjI" time="7623" display="02:07:03" %}} - father um so I think this one is pretty straightforward is there anything else you want to add  
+{{% timestamp videoId="B8EA_xrGqjI" time="7629" display="02:07:09" %}} - aie so um like you said pretty straightforward it's would be quite  
+{{% timestamp videoId="B8EA_xrGqjI" time="7636" display="02:07:16" %}} - arrogant for any ordinary Angel to be saying all that right we we we have said that in the other example Jesus was  
+{{% timestamp videoId="B8EA_xrGqjI" time="7645" display="02:07:25" %}} - speaking for the father but there's a special status that Jesus actually occupies other Angels would they  
+{{% timestamp videoId="B8EA_xrGqjI" time="7652" display="02:07:32" %}} - wouldn't speak like that it would be it would be Madness to speak that way so you kind of think of this in terms of  
+{{% timestamp videoId="B8EA_xrGqjI" time="7661" display="02:07:41" %}} - in debate or philosophy there's something called a reductio adab zurin it's Latin for like a reduction to the  
+{{% timestamp videoId="B8EA_xrGqjI" time="7667" display="02:07:47" %}} - Absurd right if you say that this being that we Angel well is it a creature angel or is it the angel of the Lord if  
+{{% timestamp videoId="B8EA_xrGqjI" time="7674" display="02:07:54" %}} - you say this is a creature Angel we know elsewhere that creature Angels like AI just said they don't talk like this it  
+{{% timestamp videoId="B8EA_xrGqjI" time="7682" display="02:08:02" %}} - doesn't make any sense um and and we know from elsewhere and actually we can we can do this we don't have to rely on  
+{{% timestamp videoId="B8EA_xrGqjI" time="7690" display="02:08:10" %}} - kind of inferential arguments we know elsewhere that the person who is said to have brought the people out of Egypt and  
+{{% timestamp videoId="B8EA_xrGqjI" time="7696" display="02:08:16" %}} - lead them into the land and make covenants with them is you know t Graton god um Yahweh Jehovah um because of that  
+{{% timestamp videoId="B8EA_xrGqjI" time="7707" display="02:08:27" %}} - that's where we get this equivalence between the angel of the Lord and God himself as in second member of the  
+{{% timestamp videoId="B8EA_xrGqjI" time="7713" display="02:08:33" %}} - Trinity because the angel of the Lord is said to have done these things right here in this passage in Judges chapter 2  
+{{% timestamp videoId="B8EA_xrGqjI" time="7721" display="02:08:41" %}} - but also God is said to have done these things you know Alim tetr grammaton you know The God Who to them they would have  
+{{% timestamp videoId="B8EA_xrGqjI" time="7730" display="02:08:50" %}} - viewed him probably not as Triune yet but we understand that it is the god of Abraham and Isaac and Jacob he is God  
+{{% timestamp videoId="B8EA_xrGqjI" time="7738" display="02:08:58" %}} - it's what we're saying the angel of the Lord is God and for that reason it's the second member of the Trinity which means  
+{{% timestamp videoId="B8EA_xrGqjI" time="7745" display="02:09:05" %}} - this is christophany um yes so now we're going to be talking  
+{{% timestamp videoId="B8EA_xrGqjI" time="7754" display="02:09:14" %}} - about references to the angel of the Lord elsewhere in the Old Testament so we've just finished now talking about  
+{{% timestamp videoId="B8EA_xrGqjI" time="7762" display="02:09:22" %}} - appearances of the Angel of the Lord sort of in The Exodus account so so-called Angel Of The Exodus guiding  
+{{% timestamp videoId="B8EA_xrGqjI" time="7769" display="02:09:29" %}} - the people of Israel out of Egypt and uh through the Wilderness to the promised land and we know that God did this you  
+{{% timestamp videoId="B8EA_xrGqjI" time="7777" display="02:09:37" %}} - know the the Lord uh Yahweh Tetra Graton God did this and we know that he's also described as being the angel  
+{{% timestamp videoId="B8EA_xrGqjI" time="7786" display="02:09:46" %}} - of the Lord um so that is you know this passage that we just got done with here um in judges 15 um well the angel of the  
+{{% timestamp videoId="B8EA_xrGqjI" time="7795" display="02:09:55" %}} - Lord you know that's where we get this phrase from among other places it's used directly there in judges so that's who  
+{{% timestamp videoId="B8EA_xrGqjI" time="7800" display="02:10:00" %}} - we've been talking about well it's the same being that we're going to be addressing now except we're going to  
+{{% timestamp videoId="B8EA_xrGqjI" time="7806" display="02:10:06" %}} - just kind of go over a bit of a wider stretch of passages a couple of these will be familiar a couple of these we've  
+{{% timestamp videoId="B8EA_xrGqjI" time="7811" display="02:10:11" %}} - kind of already talked about but just multiple instances in the Old Testament where we know it is an actual appearance  
+{{% timestamp videoId="B8EA_xrGqjI" time="7819" display="02:10:19" %}} - of God and as we've talked about four when we have an appearance of God in the Old Testament you know that is what the  
+{{% timestamp videoId="B8EA_xrGqjI" time="7827" display="02:10:27" %}} - word theophany means we are making that point that all such appearances are actually appearances of a pre-incarnate  
+{{% timestamp videoId="B8EA_xrGqjI" time="7834" display="02:10:34" %}} - Jesus Christ not the father because as we've gone over quite a lot already um we only know the father through the son  
+{{% timestamp videoId="B8EA_xrGqjI" time="7843" display="02:10:43" %}} - only the son has seen the father that this is what the New Testament says very clearly about this so it has to be a  
+{{% timestamp videoId="B8EA_xrGqjI" time="7849" display="02:10:49" %}} - christophany that is the point that we've been emphasizing that's where we've been going uh for our last uh you  
+{{% timestamp videoId="B8EA_xrGqjI" time="7855" display="02:10:55" %}} - know kind of few topics we've gone over here and so now you're just going to see aside from The Exodus account where God  
+{{% timestamp videoId="B8EA_xrGqjI" time="7862" display="02:11:02" %}} - is leading his people out of Egypt and through the Wilderness to Canaan well aside from that which we went over a few  
+{{% timestamp videoId="B8EA_xrGqjI" time="7869" display="02:11:09" %}} - examples of uh appearances of the Angel of the Lord so for example to Moses on Mount Si uh you know the pillar of fire  
+{{% timestamp videoId="B8EA_xrGqjI" time="7876" display="02:11:16" %}} - and pillar of cloud things like this well aside from that narrative we have all the other instances as well where  
+{{% timestamp videoId="B8EA_xrGqjI" time="7883" display="02:11:23" %}} - it's pretty clear that this is God we're talking about is an appearance of God in the Old Testament and that means that  
+{{% timestamp videoId="B8EA_xrGqjI" time="7890" display="02:11:30" %}} - it's a christophy um and so you'll see what I mean as we go here um lots of instances and all of these a just  
+{{% timestamp videoId="B8EA_xrGqjI" time="7897" display="02:11:37" %}} - upfront note points to that symbolism of the blood of Christ and what his sacrifice represents for us just as we  
+{{% timestamp videoId="B8EA_xrGqjI" time="7905" display="02:11:45" %}} - kind of introduced with uh some of the other uh the passages and topics we were going through before uh so for example  
+{{% timestamp videoId="B8EA_xrGqjI" time="7913" display="02:11:53" %}} - the pillar of fire being over the the part of the Tabernacle where uh the high priest goes into on the day of atonement  
+{{% timestamp videoId="B8EA_xrGqjI" time="7920" display="02:12:00" %}} - the holy of holies representing Christ's judgment you know the shedding of blood for the Forgiveness of sins on that sort  
+{{% timestamp videoId="B8EA_xrGqjI" time="7926" display="02:12:06" %}} - of thing well think in terms of that as we go about uh talking about some of these passages too so not all of them  
+{{% timestamp videoId="B8EA_xrGqjI" time="7933" display="02:12:13" %}} - some of them are way more clear than others and you'll kind of see what I mean when we get there so the first  
+{{% timestamp videoId="B8EA_xrGqjI" time="7938" display="02:12:18" %}} - instance we're going to be talking about that is another clear instance of an appearance of God in the Old Testament  
+{{% timestamp videoId="B8EA_xrGqjI" time="7944" display="02:12:24" %}} - that we're identifying as a christophany is when Jacob wrestles with the angel and this is in Genesis chter 32 picking  
+{{% timestamp videoId="B8EA_xrGqjI" time="7952" display="02:12:32" %}} - up in verse 22 so as I say lots of scripture that we are going to be uh a that's interesting the reference  
+{{% timestamp videoId="B8EA_xrGqjI" time="7961" display="02:12:41" %}} - from exus picks up at verse 22 looks like verse 24 is kind of where it starts but regardless maybe 24 through 32 um so  
+{{% timestamp videoId="B8EA_xrGqjI" time="7968" display="02:12:48" %}} - uh reading lots of scripture here to just give that account of the situations  
+{{% timestamp videoId="B8EA_xrGqjI" time="7973" display="02:12:53" %}} - we're talking about so uh Genesis CH 32 picking up at verse 24 says then Jacob was alone and a man wrestled with him  
+{{% timestamp videoId="B8EA_xrGqjI" time="7982" display="02:13:02" %}} - until Daybreak when he saw that he had not prevailed against him he touched the socket of his thigh so the socket of  
+{{% timestamp videoId="B8EA_xrGqjI" time="7988" display="02:13:08" %}} - Jacob's thigh was dislocated while he wrestled with him then he said let me go for the Dawn is Breaking but he said uh  
+{{% timestamp videoId="B8EA_xrGqjI" time="7997" display="02:13:17" %}} - he being Jacob here I will not let you go unless you bless me so he said to to him what is your name and he said Jacob  
+{{% timestamp videoId="B8EA_xrGqjI" time="8003" display="02:13:23" %}} - he said your name shall no longer be Jacob but Israel for you have striven with God and with men and have prevailed  
+{{% timestamp videoId="B8EA_xrGqjI" time="8010" display="02:13:30" %}} - then Jacob asked him and said please tell me your name but he said why is it that you ask my name and he blessed him  
+{{% timestamp videoId="B8EA_xrGqjI" time="8016" display="02:13:36" %}} - there so Jacob named the place penel for he said I have seen God face to face yet my life has been preserved now the son  
+{{% timestamp videoId="B8EA_xrGqjI" time="8025" display="02:13:45" %}} - Rose upon him just as he crossed over penel and he was limping on his thigh therefore to this day the sons of Israel  
+{{% timestamp videoId="B8EA_xrGqjI" time="8033" display="02:13:53" %}} - do not eat the sine of the hip which is on the socket of the thigh because he touched the socket of Jacob's thigh in  
+{{% timestamp videoId="B8EA_xrGqjI" time="8039" display="02:13:59" %}} - the sen of the hip so a couple interesting things to point out is that Jacob knows at least he does at the  
+{{% timestamp videoId="B8EA_xrGqjI" time="8047" display="02:14:07" %}} - point of verse 30 he knows that this being who he wrestled with was God and that he saw God face to face not an  
+{{% timestamp videoId="B8EA_xrGqjI" time="8054" display="02:14:14" %}} - Angel um but you know Elohim here right God himself rather than uh another creature um and so uh you know whether  
+{{% timestamp videoId="B8EA_xrGqjI" time="8065" display="02:14:25" %}} - or not he knew that from the first as Paul it but he also asks for a blessing earlier on in the passage which you know  
+{{% timestamp videoId="B8EA_xrGqjI" time="8073" display="02:14:33" %}} - would he ask angels for blessings you have some interpretive things like that but the point is Jacob knew that this  
+{{% timestamp videoId="B8EA_xrGqjI" time="8079" display="02:14:39" %}} - was an appearance of the Lord and that the being that he saw here face to face um as we have talked about before has to  
+{{% timestamp videoId="B8EA_xrGqjI" time="8089" display="02:14:49" %}} - be reincarnate Jesus Christ because no one sees the father um so this is another place in the Old Testament where  
+{{% timestamp videoId="B8EA_xrGqjI" time="8096" display="02:14:56" %}} - we see an appearance of the Angel of the Lord um and in fact Hosea 12 confirms that this occurrence here um so we're  
+{{% timestamp videoId="B8EA_xrGqjI" time="8106" display="02:15:06" %}} - told that it was God here in Genesis 32:30 Jacob says I have seen God face to face yet my life has been preserved well  
+{{% timestamp videoId="B8EA_xrGqjI" time="8114" display="02:15:14" %}} - how do we know it's not the father well among other reasons we know this is the Angel of the Lord because of hoseah  
+{{% timestamp videoId="B8EA_xrGqjI" time="8120" display="02:15:20" %}} - chapter 12 so in Hosea 12: 3- 4 um this is speaking of Jacob it says that in the womb he being Jacob took his brother by  
+{{% timestamp videoId="B8EA_xrGqjI" time="8130" display="02:15:30" %}} - the heel and in his maturity he contended with God okay so that's God again as we saw in Genesis chapter 32  
+{{% timestamp videoId="B8EA_xrGqjI" time="8137" display="02:15:37" %}} - verse3 but then in verse four of chapter 12 of Hosea we see that Jacob wrestled with the angel and prevailed notice the  
+{{% timestamp videoId="B8EA_xrGqjI" time="8146" display="02:15:46" %}} - angel so we just said contended with God wrestled with the angel so the Angel is God right he wept and sought his F favor  
+{{% timestamp videoId="B8EA_xrGqjI" time="8154" display="02:15:54" %}} - he found him at bethl and there he spoke with us so the angel and God just as we've talked about multiple times before  
+{{% timestamp videoId="B8EA_xrGqjI" time="8161" display="02:16:01" %}} - are equated with one another here um and this parallelism that you'll see here he contended with God yes he wrestled with  
+{{% timestamp videoId="B8EA_xrGqjI" time="8168" display="02:16:08" %}} - the angel and prevailed that parallelism is very common in Hebrew um uh and different languages sort of have their  
+{{% timestamp videoId="B8EA_xrGqjI" time="8175" display="02:16:15" %}} - different uh think about the right word it's not strictly like Poetic syntax but um this destruction if you want to call  
+{{% timestamp videoId="B8EA_xrGqjI" time="8182" display="02:16:22" %}} - it that uh these things are being put in opposition to one another the angel is God as we've been going over all this  
+{{% timestamp videoId="B8EA_xrGqjI" time="8190" display="02:16:30" %}} - time before but that's how we know here that this particular occurrence of Jacob wrestling with this being in Genesis  
+{{% timestamp videoId="B8EA_xrGqjI" time="8197" display="02:16:37" %}} - chapter 32 well not only is it said to be God but we know that it is the Angel of the Lord that Jacob wrestled with  
+{{% timestamp videoId="B8EA_xrGqjI" time="8204" display="02:16:44" %}} - because hoseah 12 says it's the angel so this is another occurrence of Christ in the Old Testament now another one here  
+{{% timestamp videoId="B8EA_xrGqjI" time="8214" display="02:16:54" %}} - um that we're going to look at is Genesis 18 and so um this is uh you know talking about the birth of Isaac and  
+{{% timestamp videoId="B8EA_xrGqjI" time="8224" display="02:17:04" %}} - you'll see um this one's a little bit long here um but we have uh Jacob or sorry Abraham speaking with the Lord so  
+{{% timestamp videoId="B8EA_xrGqjI" time="8234" display="02:17:14" %}} - again small caps Lord means we know that we are speaking of the god of Abraham and Isaac and Jacob uh yah way Jehovah  
+{{% timestamp videoId="B8EA_xrGqjI" time="8242" display="02:17:22" %}} - um this is the tetr Gaton in the Hebrew so the Lord appeared to him in being Abraham by The Oaks of mamra where he  
+{{% timestamp videoId="B8EA_xrGqjI" time="8250" display="02:17:30" %}} - was sitting at the tent Door In the Heat of the day and so when Abraham lifted up his eyes and looked behold three men  
+{{% timestamp videoId="B8EA_xrGqjI" time="8257" display="02:17:37" %}} - were standing opposite him and when he saw them he ran to the tent door to meet them and bowed himself to the Earth and  
+{{% timestamp videoId="B8EA_xrGqjI" time="8263" display="02:17:43" %}} - said my Lord if I have now found favor in your sight please do not pass your servant by please let a little water be  
+{{% timestamp videoId="B8EA_xrGqjI" time="8269" display="02:17:49" %}} - brought and wash your feet and rest your El under the tree and I will bring a piece of bread that you may be that you  
+{{% timestamp videoId="B8EA_xrGqjI" time="8274" display="02:17:54" %}} - may refresh yourselves after that you may go on since you have visited your servant and they said so do as you have  
+{{% timestamp videoId="B8EA_xrGqjI" time="8279" display="02:17:59" %}} - said um and so Abraham and Sarah um basically uh you know this is where the  
+{{% timestamp videoId="B8EA_xrGqjI" time="8289" display="02:18:09" %}} - birth of Isaac is prophecied um but uh it's very clear In this passage in Genesis Chapter 18 that um Abraham is  
+{{% timestamp videoId="B8EA_xrGqjI" time="8298" display="02:18:18" %}} - actually speaking with the Lord um and I'm not going to go ahead and read the whole thing um just because uh you know  
+{{% timestamp videoId="B8EA_xrGqjI" time="8307" display="02:18:27" %}} - it it basically the point that we're making here is that the Lord appeared to him right and again that is the the  
+{{% timestamp videoId="B8EA_xrGqjI" time="8315" display="02:18:35" %}} - language be talking about the appearance of the Lord theophany and this has to be christophy for all the reasons we've  
+{{% timestamp videoId="B8EA_xrGqjI" time="8321" display="02:18:41" %}} - said now the other people the other beings who were present here that Abraham saw as well well it's not like  
+{{% timestamp videoId="B8EA_xrGqjI" time="8329" display="02:18:49" %}} - this is like the three members of the trinity not the right way to take this it was that it would have been the  
+{{% timestamp videoId="B8EA_xrGqjI" time="8333" display="02:18:53" %}} - pre-incarnate Jesus Christ in angels as well um so uh but basically this appearance to Abraham is well of the  
+{{% timestamp videoId="B8EA_xrGqjI" time="8343" display="02:19:03" %}} - Lord because the passage itself says that the Lord appeared to him um not just an angel but God himself um and so  
+{{% timestamp videoId="B8EA_xrGqjI" time="8352" display="02:19:12" %}} - a uh sorry uh Genesis Chapter 18 uh the appearance of the Lord to Abraham uh this is another place where where well  
+{{% timestamp videoId="B8EA_xrGqjI" time="8361" display="02:19:21" %}} - it's not exactly The Exodus narrative but it is an appearance of God in the Old Testament which we take to be a  
+{{% timestamp videoId="B8EA_xrGqjI" time="8367" display="02:19:27" %}} - christophany um so again I just mentioned lots of passages we're going to go through here reading scripture the  
+{{% timestamp videoId="B8EA_xrGqjI" time="8375" display="02:19:35" %}} - next one we're going to look at is the man who appeared to Joshua in Joshua chapter 5 who said to be the commander  
+{{% timestamp videoId="B8EA_xrGqjI" time="8384" display="02:19:44" %}} - of the Lord's host um and so we'll go ahead and read this passage and then come back to our descript destion of it  
+{{% timestamp videoId="B8EA_xrGqjI" time="8391" display="02:19:51" %}} - so Joshua 5 picking up at verse 13 says now it came about when Joshua was by Jericho that he lifted up his eyes and  
+{{% timestamp videoId="B8EA_xrGqjI" time="8399" display="02:19:59" %}} - looked and behold a man was standing opposite him with his sword drawn in his hand and Joshua went to him and said to  
+{{% timestamp videoId="B8EA_xrGqjI" time="8405" display="02:20:05" %}} - him are you for us or for our adversaries he said no rather I indeed come now as captain of the host of the  
+{{% timestamp videoId="B8EA_xrGqjI" time="8413" display="02:20:13" %}} - Lord and Joshua fell on his face to the Earth and bowed down and said to himwhat has my Lord to say to his servant the  
+{{% timestamp videoId="B8EA_xrGqjI" time="8421" display="02:20:21" %}} - captain of the Lord's host said to Joshua remove your sandals from your feet for the place where you are  
+{{% timestamp videoId="B8EA_xrGqjI" time="8426" display="02:20:26" %}} - standing is Holy and Joshua did so so a couple things point to this person here the commander of the Lord's  
+{{% timestamp videoId="B8EA_xrGqjI" time="8436" display="02:20:36" %}} - host actually being reincarnate Jesus Christ so uh number one Joshua worships him he bows down in actual worship now  
+{{% timestamp videoId="B8EA_xrGqjI" time="8447" display="02:20:47" %}} - he is not the only person in the Bible to bow down at the appearance of of some being who's obviously not human but in  
+{{% timestamp videoId="B8EA_xrGqjI" time="8453" display="02:20:53" %}} - Revelation chapter 19 when John does this taken away in his prophetic Vision when he does this for an Angel and the  
+{{% timestamp videoId="B8EA_xrGqjI" time="8461" display="02:21:01" %}} - angel scolds him and says no no um I am a fellow servant of yours and your brethren who hold the testimony of Jesus  
+{{% timestamp videoId="B8EA_xrGqjI" time="8468" display="02:21:08" %}} - Christ worship God for the testimony of Jesus is the spirit of Prophecy so um John says this in Revelation 19:10 and  
+{{% timestamp videoId="B8EA_xrGqjI" time="8477" display="02:21:17" %}} - similar thing here in Revelation 22:9 he does it again and the angel says don't do that I'm a fellow servant of  
+{{% timestamp videoId="B8EA_xrGqjI" time="8484" display="02:21:24" %}} - yours and your brethren and the prophets who heed the words of this book worship God and so we know from the Bible that  
+{{% timestamp videoId="B8EA_xrGqjI" time="8491" display="02:21:31" %}} - if humans try to Bow Down and Worship Angels the Angels would be like don't do that uh don't worship me worship God but  
+{{% timestamp videoId="B8EA_xrGqjI" time="8500" display="02:21:40" %}} - you'll notice that in this particular passage in Joshua chapter 5 the being who appears before Joshua doesn't  
+{{% timestamp videoId="B8EA_xrGqjI" time="8507" display="02:21:47" %}} - say no stop I'm a fellow servant of yours he accepts the worship and then he tells Joshua to remove his sandals  
+{{% timestamp videoId="B8EA_xrGqjI" time="8515" display="02:21:55" %}} - because he's standing on ground that is Holy and uh that should sound real familiar because we talked about the  
+{{% timestamp videoId="B8EA_xrGqjI" time="8521" display="02:22:01" %}} - burning bush not so long ago where we burning bush is very obviously christophany we we talked about that a  
+{{% timestamp videoId="B8EA_xrGqjI" time="8529" display="02:22:09" %}} - few slides back well the wording here is very nearly identical remove your sandals from your feet for the place on  
+{{% timestamp videoId="B8EA_xrGqjI" time="8536" display="02:22:16" %}} - which you are standing is Holy Ground yeah that showed up in Exodus 3 versus you know like five and following where  
+{{% timestamp videoId="B8EA_xrGqjI" time="8543" display="02:22:23" %}} - Moses comes to the burning bush that same phrasing is used here in Joshua chapter 5 when Joshua is talking to the  
+{{% timestamp videoId="B8EA_xrGqjI" time="8550" display="02:22:30" %}} - commander of the Lord's host so third example here of an appearance of the pre-incarnate Christ in the Old  
+{{% timestamp videoId="B8EA_xrGqjI" time="8558" display="02:22:38" %}} - Testament as a christophany um you know aside from the the ones dealing with the angel of The Exodus that we've already  
+{{% timestamp videoId="B8EA_xrGqjI" time="8565" display="02:22:45" %}} - been over um and so this one next one that we're going to look at uh in Exodus chapter 24 we've actually already talked  
+{{% timestamp videoId="B8EA_xrGqjI" time="8572" display="02:22:52" %}} - about this one um overlaps a bit here with what we've already talked about where the Elders of Israel so Exodus 24:  
+{{% timestamp videoId="B8EA_xrGqjI" time="8581" display="02:23:01" %}} - 9-1 the Elders of Israel saw the god of Israel and under his feet there appeared to be a pavement of sapphires clear as  
+{{% timestamp videoId="B8EA_xrGqjI" time="8587" display="02:23:07" %}} - the sky himself yet he did not stretch out his hand against the Nobles of the sons of Israel and they saw God and they  
+{{% timestamp videoId="B8EA_xrGqjI" time="8592" display="02:23:12" %}} - ate and drank together with him so um this particular not just Moses and Aaron but actually the Elders of Israel as  
+{{% timestamp videoId="B8EA_xrGqjI" time="8599" display="02:23:19" %}} - well seeing God on Mount Si in The Exodus narrative um we've already been over this once I'm not going to spend  
+{{% timestamp videoId="B8EA_xrGqjI" time="8605" display="02:23:25" %}} - too much time on this but something that is worthy of note and this is presumably why Dr L will brings it back up again in  
+{{% timestamp videoId="B8EA_xrGqjI" time="8612" display="02:23:32" %}} - the study is that the symbolic meal of fellowship with him um which probably going to blow your mind a bit when we  
+{{% timestamp videoId="B8EA_xrGqjI" time="8619" display="02:23:39" %}} - when we talk about this this is clearly foreshadowing communion based on the blood of Jesus Christ and so I think  
+{{% timestamp videoId="B8EA_xrGqjI" time="8628" display="02:23:48" %}} - sometimes this particular particular significance not that I want us to get super off topic here sometimes we might  
+{{% timestamp videoId="B8EA_xrGqjI" time="8634" display="02:23:54" %}} - not make this connection uh when people think of communion as a hyper ritualized you know they they call it a uh one of  
+{{% timestamp videoId="B8EA_xrGqjI" time="8643" display="02:24:03" %}} - the things in the church that I don't know why the word's escaping me um you know it's like marriage  
+{{% timestamp videoId="B8EA_xrGqjI" time="8650" display="02:24:10" %}} - um whatever um you know basically if you make it a ritual you rob it of the fact that communion has always been about  
+{{% timestamp videoId="B8EA_xrGqjI" time="8658" display="02:24:18" %}} - sharing a meal that's what it was when Jesus first instituted it with the apostles it's about this idea of  
+{{% timestamp videoId="B8EA_xrGqjI" time="8665" display="02:24:25" %}} - Fellowship shared in the blood of Christ and so this is clearly a precursor to it is symbolizing foreshadowing prophesying  
+{{% timestamp videoId="B8EA_xrGqjI" time="8676" display="02:24:36" %}} - that future institution that Jesus gives to us to commemorate what he did on the cross um it's foreshadowing you know  
+{{% timestamp videoId="B8EA_xrGqjI" time="8684" display="02:24:44" %}} - that is what prop prophetic typology does here um and so that is a connection that we hadn't  
+{{% timestamp videoId="B8EA_xrGqjI" time="8692" display="02:24:52" %}} - explored before but um this is what I meant about keep in mind all of these places where we were pointing everything  
+{{% timestamp videoId="B8EA_xrGqjI" time="8699" display="02:24:59" %}} - back to the Cross to what Jesus did how all of these things uh foreshadow it they they tell of what Jesus would do um  
+{{% timestamp videoId="B8EA_xrGqjI" time="8708" display="02:25:08" %}} - even all of these appearances in the Old Testament now we're about to see two more that even more clearly say that so  
+{{% timestamp videoId="B8EA_xrGqjI" time="8715" display="02:25:15" %}} - keeping on as I say long section here um the next one that we're going to look at is in Judges chapter 6 and so this is uh  
+{{% timestamp videoId="B8EA_xrGqjI" time="8724" display="02:25:24" %}} - when the angel of the Lord appears to Gideon um so Judges chapter 6 picking up in verse 11 um this one is a little bit  
+{{% timestamp videoId="B8EA_xrGqjI" time="8734" display="02:25:34" %}} - longer but I am going to read this whole one it's not quite as long as the Genesis 18 passage from before so then  
+{{% timestamp videoId="B8EA_xrGqjI" time="8741" display="02:25:41" %}} - verse 11 then the angel of the Lord came and sat under the oak that was in arra which belonged to joash the abz as his  
+{{% timestamp videoId="B8EA_xrGqjI" time="8750" display="02:25:50" %}} - son Gideon was beating out wheat in the wine press in order to save it from the midianites the angel of the Lord  
+{{% timestamp videoId="B8EA_xrGqjI" time="8757" display="02:25:57" %}} - appeared to him and said to him the Lord is with you oh Valiant Warrior then Gideon said to him oh my Lord if the  
+{{% timestamp videoId="B8EA_xrGqjI" time="8764" display="02:26:04" %}} - Lord is with us why then has all this happened to us and where are all his miracles which our fathers told us about  
+{{% timestamp videoId="B8EA_xrGqjI" time="8770" display="02:26:10" %}} - saying did not the Lord bring us up from Egypt but now the Lord has abandoned us and given us into the hand of Midian the  
+{{% timestamp videoId="B8EA_xrGqjI" time="8778" display="02:26:18" %}} - Lord looked at him and said go in this your strength and deliver Israel from the hand of Midian have I not sent you  
+{{% timestamp videoId="B8EA_xrGqjI" time="8785" display="02:26:25" %}} - he said to him oh Lord how shall I deliver Israel behold my family is the least in manasse and I am the youngest  
+{{% timestamp videoId="B8EA_xrGqjI" time="8791" display="02:26:31" %}} - in my father's house but the Lord said to him surely I will be with you and you shall defeat Midian as one man so Gideon  
+{{% timestamp videoId="B8EA_xrGqjI" time="8799" display="02:26:39" %}} - said to him if now I have found favor in your sight then show me a sign that is you who speak to me please do not depart  
+{{% timestamp videoId="B8EA_xrGqjI" time="8806" display="02:26:46" %}} - from here until I come back to you and bring out my offering and lay it before you  
+{{% timestamp videoId="B8EA_xrGqjI" time="8810" display="02:26:50" %}} - and he said I will remain until you return Then Gideon went in and prepared a young goat and unleavened bread from  
+{{% timestamp videoId="B8EA_xrGqjI" time="8817" display="02:26:57" %}} - an aath of flour he put the meat in a basket and the broth in a pot and brought them out to him under the Oak  
+{{% timestamp videoId="B8EA_xrGqjI" time="8823" display="02:27:03" %}} - and presented them the angel of God said to him take the meat and the unleavened bread and lay them on this rock and pour  
+{{% timestamp videoId="B8EA_xrGqjI" time="8829" display="02:27:09" %}} - out the broth and he did so then the angel of the Lord put out the end of the staff that was in his hand and touched  
+{{% timestamp videoId="B8EA_xrGqjI" time="8835" display="02:27:15" %}} - the meat and the unloving bread and fire sprang up from the Rock and consumed the meat and the unleavened bread then the  
+{{% timestamp videoId="B8EA_xrGqjI" time="8843" display="02:27:23" %}} - angel of the Lord vanished from his sight when Gideon saw that he was the angel of the Lord he said alas oh Lord  
+{{% timestamp videoId="B8EA_xrGqjI" time="8851" display="02:27:31" %}} - God for now I have seen the angel of the Lord face to face the Lord said to him peace to you do not fear you shall not  
+{{% timestamp videoId="B8EA_xrGqjI" time="8859" display="02:27:39" %}} - die all right so passage where God is calling Gideon he is basically giving him a job and Gideon says well how do I  
+{{% timestamp videoId="B8EA_xrGqjI" time="8869" display="02:27:49" %}} - know it's you God and through the sacrifice that is consumed in fire Gideon is given a sign to understand  
+{{% timestamp videoId="B8EA_xrGqjI" time="8876" display="02:27:56" %}} - that this is God he's talking to and you'll notice all throughout the passage the person in question here is said to  
+{{% timestamp videoId="B8EA_xrGqjI" time="8882" display="02:28:02" %}} - be the angel of the Lord right so that that particular connection there between God and the angel of the Lord is one  
+{{% timestamp videoId="B8EA_xrGqjI" time="8889" display="02:28:09" %}} - we've made over and over here but the symbolism that we're going to just give a nod to here is that the angel  
+{{% timestamp videoId="B8EA_xrGqjI" time="8897" display="02:28:17" %}} - identifies himself with the sacrifice by touching it with his staff and so that is towards the end of the passage  
+{{% timestamp videoId="B8EA_xrGqjI" time="8905" display="02:28:25" %}} - here um verse 21 the angel of the Lord put out the end of the staff that was in his hand and touched the meat and the  
+{{% timestamp videoId="B8EA_xrGqjI" time="8911" display="02:28:31" %}} - unloving bread and fire sprang up from the Rock and consumed the meat and the unloving bread um so we kind of talked  
+{{% timestamp videoId="B8EA_xrGqjI" time="8918" display="02:28:38" %}} - already about how in the Mosaic law they had a particular set of uh regulations concerning burnt offerings uh this came  
+{{% timestamp videoId="B8EA_xrGqjI" time="8927" display="02:28:47" %}} - up before when we were talking about the symbolism there well when this goes up in Flames this represents typologically  
+{{% timestamp videoId="B8EA_xrGqjI" time="8935" display="02:28:55" %}} - the Judgment of God that Christ was to undergo on our behalf and so this is again perhaps not something that you  
+{{% timestamp videoId="B8EA_xrGqjI" time="8943" display="02:29:03" %}} - would have seen um taught on much but the symbolism is there um this is not like a huge stretch we're making here  
+{{% timestamp videoId="B8EA_xrGqjI" time="8951" display="02:29:11" %}} - that we are speaking of the pre-incarnate Jesus Christ and the offering that Gideon gives to him is  
+{{% timestamp videoId="B8EA_xrGqjI" time="8959" display="02:29:19" %}} - going to be representing God's fire consuming the offering you know basically put up for the Redemption of  
+{{% timestamp videoId="B8EA_xrGqjI" time="8966" display="02:29:26" %}} - all of our sins um and so that particular theme of redemption tracing throughout all these appearances of God  
+{{% timestamp videoId="B8EA_xrGqjI" time="8974" display="02:29:34" %}} - it's just something that I hadn't seen before until we connect the dots when we go through the appearances of Christ in  
+{{% timestamp videoId="B8EA_xrGqjI" time="8981" display="02:29:41" %}} - the Old Testament like this so more as well um next one probably even more uh overt  
+{{% timestamp videoId="B8EA_xrGqjI" time="8990" display="02:29:50" %}} - in this connection um actually pretty similar um so in Judges chapter 13 we hear about the parents of Samson um so  
+{{% timestamp videoId="B8EA_xrGqjI" time="9000" display="02:30:00" %}} - uh see it's been a second since I've looked at this but um you know so the the birth of Samson is prophecied here  
+{{% timestamp videoId="B8EA_xrGqjI" time="9007" display="02:30:07" %}} - um you know uh we have this it's not even like a literary theme because we know the Bible is true but this idea of  
+{{% timestamp videoId="B8EA_xrGqjI" time="9014" display="02:30:14" %}} - a barren woman given birth uh you can also compare uh uh you know Elizabeth the mother of John the Baptist and and  
+{{% timestamp videoId="B8EA_xrGqjI" time="9021" display="02:30:21" %}} - Sarah of course the wife of Abraham well um so we have a certain man of Zora of the family at the day nights whose name  
+{{% timestamp videoId="B8EA_xrGqjI" time="9029" display="02:30:29" %}} - was monoa and his wife was baren and had borne no children so we have the birth of Samson prophecied here and he is said  
+{{% timestamp videoId="B8EA_xrGqjI" time="9036" display="02:30:36" %}} - that he will be Nazarite and um you'll note that at this particular time uh the angel of the Lord appears but at this  
+{{% timestamp videoId="B8EA_xrGqjI" time="9044" display="02:30:44" %}} - point they are not tracking so much that the one who appeared was God um so verse three uh we are said that the angel of  
+{{% timestamp videoId="B8EA_xrGqjI" time="9052" display="02:30:52" %}} - the Lord appeared to the woman who was Barren and said to her uh you know so on um but in verse six the woman comes and  
+{{% timestamp videoId="B8EA_xrGqjI" time="9060" display="02:31:00" %}} - gets her husband saying a man of God came to see me and his his appearance was like the angel of the angel of God  
+{{% timestamp videoId="B8EA_xrGqjI" time="9067" display="02:31:07" %}} - very awesome and I did not ask him where he came from nor did he tell me his name um so they aren't 100% here um and they  
+{{% timestamp videoId="B8EA_xrGqjI" time="9077" display="02:31:17" %}} - can suspect right because we see that the appearance of of the angel of God was very awesome but when when Noah  
+{{% timestamp videoId="B8EA_xrGqjI" time="9084" display="02:31:24" %}} - entreats the Lord later on um you know basically hold on let me look at the passage for a sec here  
+{{% timestamp videoId="B8EA_xrGqjI" time="9092" display="02:31:32" %}} - um so he comes back I'm I'm looking for the let me see the particular passage was through verse  
+{{% timestamp videoId="B8EA_xrGqjI" time="9101" display="02:31:41" %}} - 23 uh right um so I'm I'm skipping some stuff in the middle I'm sorry I just I this section is already going to be  
+{{% timestamp videoId="B8EA_xrGqjI" time="9108" display="02:31:48" %}} - pretty long um but uh we have this idea of an offering again here um so when monoa and his wife do this um they  
+{{% timestamp videoId="B8EA_xrGqjI" time="9119" display="02:31:59" %}} - prepare an offering for the Lord um because you know uh this is just what was arranged well then uh basically  
+{{% timestamp videoId="B8EA_xrGqjI" time="9130" display="02:32:10" %}} - monoa asks the name um of the person that they're talking to um but the angel of the Lord ascends in the flame of the  
+{{% timestamp videoId="B8EA_xrGqjI" time="9139" display="02:32:19" %}} - altar so when Noah and his wife saw this they fell on their faces to the ground because they knew that this was the  
+{{% timestamp videoId="B8EA_xrGqjI" time="9146" display="02:32:26" %}} - angel of the Lord so again there's this idea we will surely sigh for we have seen God very parallel to the end of  
+{{% timestamp videoId="B8EA_xrGqjI" time="9152" display="02:32:32" %}} - this passage in Judges chapter 6 where you know Midian sees he he sees that the angel of the  
+{{% timestamp videoId="B8EA_xrGqjI" time="9161" display="02:32:41" %}} - Lord touched his burnt offering with his staff and then the fire consumed it and then that was the sign and then he he  
+{{% timestamp videoId="B8EA_xrGqjI" time="9169" display="02:32:49" %}} - recognizes that he he'd seen the angel of the Lord face to face and then God says you know peace to you do not fear  
+{{% timestamp videoId="B8EA_xrGqjI" time="9174" display="02:32:54" %}} - you won't die well similar sort of thing happens at the end of this passage in Judges chapter 13 uh like verse  
+{{% timestamp videoId="B8EA_xrGqjI" time="9182" display="02:33:02" %}} - 2223 um monoa and his wife realized that they have seen God that this was the angel of the Lord that they were talking  
+{{% timestamp videoId="B8EA_xrGqjI" time="9189" display="02:33:09" %}} - to um but he does not heal them right this is the understanding that the being before them was this reincarnate appear  
+{{% timestamp videoId="B8EA_xrGqjI" time="9199" display="02:33:19" %}} - of Christ so I'm sorry a bit rambly I forgotten how long this one was um so the angel uh the connection that we're  
+{{% timestamp videoId="B8EA_xrGqjI" time="9205" display="02:33:25" %}} - going to make here is that the angel is described as such throughout the passage but manoah and his wife though realizing  
+{{% timestamp videoId="B8EA_xrGqjI" time="9213" display="02:33:33" %}} - that an angel has appeared to them and is obviously you know not a human being they don't completely realize that this  
+{{% timestamp videoId="B8EA_xrGqjI" time="9220" display="02:33:40" %}} - is in fact the angel of the Lord until his departure in verse 21 when they exclaim that they have seen God so in  
+{{% timestamp videoId="B8EA_xrGqjI" time="9229" display="02:33:49" %}} - the passage we talked about in Judges chapter 6 where um we spoke of Gideon's sacrifice and symbolism of the sacrifice  
+{{% timestamp videoId="B8EA_xrGqjI" time="9239" display="02:33:59" %}} - being consumed by the fire prefiguring uh Jesus's judgment upon the cross it's even more explicit here in this passage  
+{{% timestamp videoId="B8EA_xrGqjI" time="9247" display="02:34:07" %}} - with the parents of Samson um because um when they offer this one sec um right the the bit I have  
+{{% timestamp videoId="B8EA_xrGqjI" time="9258" display="02:34:18" %}} - highlighted right now um the angel of the Lord ascended in the flame of the altar he becomes associated with it he  
+{{% timestamp videoId="B8EA_xrGqjI" time="9266" display="02:34:26" %}} - goes through the Flames um and so this is just a clearer parallel here um it's more distinctly drawn how ikus puts it  
+{{% timestamp videoId="B8EA_xrGqjI" time="9273" display="02:34:33" %}} - is more distinctly drawn in this passage for he ascended quote unquote in the flame of the burnt sacrifice the very  
+{{% timestamp videoId="B8EA_xrGqjI" time="9279" display="02:34:39" %}} - picture of Christ being judged on our behalf teaching Old Testament Believers to look forward to God's future  
+{{% timestamp videoId="B8EA_xrGqjI" time="9284" display="02:34:44" %}} - forgiveness of sins through a sacrifice that he would provide um so the symbolis here it is particularly noteworthy that  
+{{% timestamp videoId="B8EA_xrGqjI" time="9294" display="02:34:54" %}} - the angel of the Lord that we're talking about is Jesus Christ he is the one who ascended Through the flames of judgment  
+{{% timestamp videoId="B8EA_xrGqjI" time="9301" display="02:35:01" %}} - um and this is one of those reasons why getting this idea of christophany correct theologically  
+{{% timestamp videoId="B8EA_xrGqjI" time="9309" display="02:35:09" %}} - speaking that these appearances in the Old Testament of this being are of Jesus Christ has that symbolic punch to it  
+{{% timestamp videoId="B8EA_xrGqjI" time="9317" display="02:35:17" %}} - because it points everything forward to the Cross we understand that this is the visible member of the Trinity who would  
+{{% timestamp videoId="B8EA_xrGqjI" time="9324" display="02:35:24" %}} - be sent to die for our sins okay so we have my four more four more passages left here um so we have  
+{{% timestamp videoId="B8EA_xrGqjI" time="9335" display="02:35:35" %}} - talked about all of these places so wrestling with Jacob appearing to Abraham um the man who appeared to  
+{{% timestamp videoId="B8EA_xrGqjI" time="9341" display="02:35:41" %}} - Joshua the commander of the Lord's host uh the being who ate with the um the Elders of Israel and Moses and a in  
+{{% timestamp videoId="B8EA_xrGqjI" time="9349" display="02:35:49" %}} - prefiguring communion uh the angel of the Lord who appeared to Gideon when Gideon was called the angel of the Lord  
+{{% timestamp videoId="B8EA_xrGqjI" time="9356" display="02:35:56" %}} - appearing to the parents of Samson um well we're gonna talk now about a couple of prophetic Visions which through some  
+{{% timestamp videoId="B8EA_xrGqjI" time="9366" display="02:36:06" %}} - interpretive leg work we can identify as actually being Jesus Christ so uh we will cross reference some of this with  
+{{% timestamp videoId="B8EA_xrGqjI" time="9373" display="02:36:13" %}} - Revelation because we have a description of Jesus Christ in Revelation but in the book of Isaiah um Isaiah has a vision of  
+{{% timestamp videoId="B8EA_xrGqjI" time="9381" display="02:36:21" %}} - Israel's King and this is in Isaiah chapter 6 um and so you know somewhat long chapter not going to entirely go  
+{{% timestamp videoId="B8EA_xrGqjI" time="9389" display="02:36:29" %}} - through it here but if you compare the Lord sitting on the throne lofty and exalted with a train of his robe filling  
+{{% timestamp videoId="B8EA_xrGqjI" time="9397" display="02:36:37" %}} - the temple and then you know I'm going to go on and read a little bit here um this is it the first part of Isaiah  
+{{% timestamp videoId="B8EA_xrGqjI" time="9404" display="02:36:44" %}} - chapter 6 picking up at verse one um so that person sitting on the throne in the temple with his robe filling the temple  
+{{% timestamp videoId="B8EA_xrGqjI" time="9412" display="02:36:52" %}} - sarim stand above him this is picking up at verse two each having six wings with two he covered his face and with two he  
+{{% timestamp videoId="B8EA_xrGqjI" time="9418" display="02:36:58" %}} - covered his feet and with two he flew and one called out to another and they said holy holy holy is the Lord of hosts  
+{{% timestamp videoId="B8EA_xrGqjI" time="9424" display="02:37:04" %}} - the whole earth is full of his glory and the foundations of the thresholds trembled with the voice of him who  
+{{% timestamp videoId="B8EA_xrGqjI" time="9428" display="02:37:08" %}} - called out while the temple was filling with smoke and then Isaiah speaks of being a man of unclean lips for he has  
+{{% timestamp videoId="B8EA_xrGqjI" time="9436" display="02:37:16" %}} - seen the king the Lord of hosts um so um um okay so that's Isaiah chapter 6 well how do we know that this is Jesus Christ  
+{{% timestamp videoId="B8EA_xrGqjI" time="9445" display="02:37:25" %}} - um we have somewhat of an oblique reference to this in the Gospel of John in John 12: 41 because Isaiah is said to  
+{{% timestamp videoId="B8EA_xrGqjI" time="9453" display="02:37:33" %}} - have seen his glory and he spoke of him and so you have to do some uh some BL work there um you have to do a bit of of  
+{{% timestamp videoId="B8EA_xrGqjI" time="9463" display="02:37:43" %}} - interpretation to get here but that particular passage in Isaiah chapter 6 we're talking about with the being on  
+{{% timestamp videoId="B8EA_xrGqjI" time="9469" display="02:37:49" %}} - the throne uh you know with the seraphim in present we line this up with this reference in the Book of John and we  
+{{% timestamp videoId="B8EA_xrGqjI" time="9479" display="02:37:59" %}} - understand that Isaiah was seen to uh he saw a vision of Jesus Christ and one of the other reasons why we know this um is  
+{{% timestamp videoId="B8EA_xrGqjI" time="9487" display="02:38:07" %}} - that the altar upon which this being stands when the Cole is taken from the altar that is what takes away the sin of  
+{{% timestamp videoId="B8EA_xrGqjI" time="9496" display="02:38:16" %}} - Isaiah here um so you can kind of take my word for uh we don't quite have enough time to go into all the  
+{{% timestamp videoId="B8EA_xrGqjI" time="9502" display="02:38:22" %}} - connections there but this is one vision of Jesus Christ enthroned in glory we talked about him as the father's uh  
+{{% timestamp videoId="B8EA_xrGqjI" time="9511" display="02:38:31" %}} - representative or messenger carrying basically as the Crown Prince Regent of this world he carries that monarchy that  
+{{% timestamp videoId="B8EA_xrGqjI" time="9519" display="02:38:39" %}} - is part of his you know he has his mission and uh what he's been sent to do but part of that is that he will reign  
+{{% timestamp videoId="B8EA_xrGqjI" time="9525" display="02:38:45" %}} - he will be the king of king and the Lord of lords um so we have a kind of similar thing so that was Isaiah chapter 6 in  
+{{% timestamp videoId="B8EA_xrGqjI" time="9532" display="02:38:52" %}} - Ezekiel chapter 1 uh shorter this time so Ezekiel chapter 1 picking up at verse 25 through verse 28 um so Ezekiel 125  
+{{% timestamp videoId="B8EA_xrGqjI" time="9542" display="02:39:02" %}} - and there came a voice from above the expanse that was over their heads whenever they Stood Still they dropped  
+{{% timestamp videoId="B8EA_xrGqjI" time="9548" display="02:39:08" %}} - their wings now above the expanse that was over their heads there was something resembling a throne like lapis lazuli in  
+{{% timestamp videoId="B8EA_xrGqjI" time="9554" display="02:39:14" %}} - appearance and on that which resembled a throne high up was a figure with the appearance of a man and I noticed from  
+{{% timestamp videoId="B8EA_xrGqjI" time="9560" display="02:39:20" %}} - the appearance of his loins and upward something like glowing metal that looked like fire all around within it and from  
+{{% timestamp videoId="B8EA_xrGqjI" time="9566" display="02:39:26" %}} - the appearance of his loins and downward I saw something like fire and there was a Radiance around him and the appearance  
+{{% timestamp videoId="B8EA_xrGqjI" time="9572" display="02:39:32" %}} - of the rainbow in the cloud as the appearance of the rainbow in the clouds on a rainy day so was the appearance of  
+{{% timestamp videoId="B8EA_xrGqjI" time="9578" display="02:39:38" %}} - the surrounding Radiance such was the appearance of the likeness of the glory of the Lord and when I saw it I fell on  
+{{% timestamp videoId="B8EA_xrGqjI" time="9584" display="02:39:44" %}} - my face and I heard a voice speaking so obviously being represented in the glory of the radiance about him  
+{{% timestamp videoId="B8EA_xrGqjI" time="9593" display="02:39:53" %}} - that idea of visible light being a manifestation of God's God's glory um well that's where this comes from in  
+{{% timestamp videoId="B8EA_xrGqjI" time="9601" display="02:40:01" %}} - Ezekiel well when we compare what we just read in Ezekiel chapter 1 with the description of the glorified Christ  
+{{% timestamp videoId="B8EA_xrGqjI" time="9608" display="02:40:08" %}} - found in Revelation um you know and also the appearance of the one who you know ate with the elders uh who were upon the  
+{{% timestamp videoId="B8EA_xrGqjI" time="9617" display="02:40:17" %}} - pavement of sapphire in Exodus CH 24 like we already read well when we go compare what we just read in Ezekiel  
+{{% timestamp videoId="B8EA_xrGqjI" time="9624" display="02:40:24" %}} - chap 1 to the description of uh Jesus Christ in Revelation CH 1 verses 12- 16 um well picking up at  
+{{% timestamp videoId="B8EA_xrGqjI" time="9633" display="02:40:33" %}} - verse 12 we said I turned to see the voice that was speaking to me and having turned I saw seven golden lampstands and  
+{{% timestamp videoId="B8EA_xrGqjI" time="9638" display="02:40:38" %}} - in the middle of the lampstands I saw one like a son of man Flo in a robe reaching to his reaching to the feet and  
+{{% timestamp videoId="B8EA_xrGqjI" time="9645" display="02:40:45" %}} - gted across his chest with a golden sash his head and his hair were like white wool like snow and his eyes were like a  
+{{% timestamp videoId="B8EA_xrGqjI" time="9652" display="02:40:52" %}} - flame of fire his feet were like burnished bronze when it has been made to Glow in a furnace and his voice was  
+{{% timestamp videoId="B8EA_xrGqjI" time="9658" display="02:40:58" %}} - like the sound of many Waters in his right hand he held the Seven Stars and out of his mouth came a sharp two-edged  
+{{% timestamp videoId="B8EA_xrGqjI" time="9663" display="02:41:03" %}} - sword and his face was like the sun shining in its strength so same idea of the outpouring of Glory with light um we  
+{{% timestamp videoId="B8EA_xrGqjI" time="9673" display="02:41:13" %}} - also have uh you know his feet burn his bronze made to Glow in a furnace and you can compare that to  
+{{% timestamp videoId="B8EA_xrGqjI" time="9679" display="02:41:19" %}} - you know the uh basically from his loins downward something like fire this Radiance coming out from him in Ezekiel  
+{{% timestamp videoId="B8EA_xrGqjI" time="9687" display="02:41:27" %}} - again you do some interpr interpretive leg work here but we can line the being seen in ezel up with the glorified Jesus  
+{{% timestamp videoId="B8EA_xrGqjI" time="9697" display="02:41:37" %}} - Christ um and so these are a little bit distinct from some of the appearances that that we've talked about in the  
+{{% timestamp videoId="B8EA_xrGqjI" time="9704" display="02:41:44" %}} - physical manifestations these are appearances of Jesus Christ and prophetic Visions now the thing that  
+{{% timestamp videoId="B8EA_xrGqjI" time="9709" display="02:41:49" %}} - complicates this a little bit not that we're going to get super far into it because the section's already super long  
+{{% timestamp videoId="B8EA_xrGqjI" time="9714" display="02:41:54" %}} - is that you can also have visions of the father um so difference between appearances of God in the world those  
+{{% timestamp videoId="B8EA_xrGqjI" time="9722" display="02:42:02" %}} - are always Jesus Christ is that you can have prophetic visions of the father is well um and so doing the interpretive  
+{{% timestamp videoId="B8EA_xrGqjI" time="9728" display="02:42:08" %}} - leg work to show this is actually a vision of the glorified Christ rather than the father that is actually  
+{{% timestamp videoId="B8EA_xrGqjI" time="9733" display="02:42:13" %}} - something that you have to do um but again we're kind of skipping over that here so you apologize but um well  
+{{% timestamp videoId="B8EA_xrGqjI" time="9741" display="02:42:21" %}} - another prophetic passage to kind of seal the the several that we're going to look at here comes from Zechariah  
+{{% timestamp videoId="B8EA_xrGqjI" time="9746" display="02:42:26" %}} - Chapter One um so H see am I gonna read this whole thing  
+{{% timestamp videoId="B8EA_xrGqjI" time="9755" display="02:42:35" %}} - um well so basically we have a okay I'll go ahead and read the whole thing just to give us all the context so Zechariah  
+{{% timestamp videoId="B8EA_xrGqjI" time="9763" display="02:42:43" %}} - 1: 7 and following on the 24th day of the 11 month which which is the month Shabbat in the second year of Darius the  
+{{% timestamp videoId="B8EA_xrGqjI" time="9772" display="02:42:52" %}} - word of the Lord came to Zechariah the prophet the son of bariah the son of Ido as follows I saw at night and behold a  
+{{% timestamp videoId="B8EA_xrGqjI" time="9780" display="02:43:00" %}} - man was riding on a red horse and he was standing among the Myrtle trees which were in the Ravine with red sorl and  
+{{% timestamp videoId="B8EA_xrGqjI" time="9786" display="02:43:06" %}} - white horses behind him then I said my Lord what are these and the angel who was speaking with me said to me I will  
+{{% timestamp videoId="B8EA_xrGqjI" time="9792" display="02:43:12" %}} - show you what these are and the man who was standing among the Myrtle trees answered and said these are those whom  
+{{% timestamp videoId="B8EA_xrGqjI" time="9798" display="02:43:18" %}} - the Lord has sent to patrol the Earth so they answered the angel of the Lord I note the angel of the Lord's here in  
+{{% timestamp videoId="B8EA_xrGqjI" time="9805" display="02:43:25" %}} - verse 11 who was standing among the Myrtle trees that is the Angel of the Lord is the one standing among the  
+{{% timestamp videoId="B8EA_xrGqjI" time="9810" display="02:43:30" %}} - Myrtle trees and said we have patrolled the Earth and behold all Earth is peaceful all the Earth is peaceful and  
+{{% timestamp videoId="B8EA_xrGqjI" time="9816" display="02:43:36" %}} - quiet then the angel of the Lord said oh lord of hosts how long will you have no compassion for Jerusalem in the cities  
+{{% timestamp videoId="B8EA_xrGqjI" time="9822" display="02:43:42" %}} - of Judah with which you have been indignant these 70 years the Lord answered the angel who was speaking with  
+{{% timestamp videoId="B8EA_xrGqjI" time="9832" display="02:43:52" %}} - me gracious words comforting words so the angel who was speaking with me said to me Proclaim saying thus says the Lord  
+{{% timestamp videoId="B8EA_xrGqjI" time="9838" display="02:43:58" %}} - of hosts I am exceedingly jealous for Jerusalem and Zion but I am very angry with the Nations who are at ease for  
+{{% timestamp videoId="B8EA_xrGqjI" time="9844" display="02:44:04" %}} - while I was only a little angry they furthered the disaster therefore thus says the Lord I will return to Jerusalem  
+{{% timestamp videoId="B8EA_xrGqjI" time="9851" display="02:44:11" %}} - with compassion my house will be built in it declares the Lord of hosts and a measuring line will be stretched over  
+{{% timestamp videoId="B8EA_xrGqjI" time="9857" display="02:44:17" %}} - Jerusalem again Proclaim saying thus says the Lord of hosts my cities will again overflow with prosperity and the  
+{{% timestamp videoId="B8EA_xrGqjI" time="9863" display="02:44:23" %}} - Lord will again Comfort Zion and again choose Jerusalem all right so this one is  
+{{% timestamp videoId="B8EA_xrGqjI" time="9871" display="02:44:31" %}} - notable because in this part of Zechariah here um you know uh the word of the Lord came to Zechariah the  
+{{% timestamp videoId="B8EA_xrGqjI" time="9880" display="02:44:40" %}} - prophet well we know this to be more than just a figure of speech because we know that is the Angel of the Lord who  
+{{% timestamp videoId="B8EA_xrGqjI" time="9887" display="02:44:47" %}} - is standing in the Myrtle tree speaking to Zechariah here that's what verse 11 tells us but the thing that is so  
+{{% timestamp videoId="B8EA_xrGqjI" time="9892" display="02:44:52" %}} - crucial to helping us understand how this works you know when we talk about who is talking who is appearing and the  
+{{% timestamp videoId="B8EA_xrGqjI" time="9900" display="02:45:00" %}} - distinctions between the people of the Trinity now remember Zechariah the Old Testament here is that the angel of the  
+{{% timestamp videoId="B8EA_xrGqjI" time="9907" display="02:45:07" %}} - Lord who appears said right so the angel of the Lord said oh lord of hosts he's addressing a different being he's  
+{{% timestamp videoId="B8EA_xrGqjI" time="9917" display="02:45:17" %}} - addressing some other person in the Trinity um should blow our minds a little bit right the angel of  
+{{% timestamp videoId="B8EA_xrGqjI" time="9924" display="02:45:24" %}} - the Lord in this passage in Zechariah Chapter 1 is distinct from The Lord of hosts um but we know from other places  
+{{% timestamp videoId="B8EA_xrGqjI" time="9932" display="02:45:32" %}} - in the Old Testament that they're both god um so um that is the takeaway here and I mean this is all this evidence  
+{{% timestamp videoId="B8EA_xrGqjI" time="9944" display="02:45:44" %}} - that we've gone through all of these other places in the Old Testament that we see the appearance of the Angel of  
+{{% timestamp videoId="B8EA_xrGqjI" time="9950" display="02:45:50" %}} - the Lord equated with God or appearing to all these people this is why we are saying that  
+{{% timestamp videoId="B8EA_xrGqjI" time="9956" display="02:45:56" %}} - the uniform conclusion is that all of these appearances are of Jesus Christ in a pre-incarnate state um and if all of  
+{{% timestamp videoId="B8EA_xrGqjI" time="9964" display="02:46:04" %}} - that weren't enough to finally top it all off we have the fact and again this is something I never put together until  
+{{% timestamp videoId="B8EA_xrGqjI" time="9971" display="02:46:11" %}} - I read this part on ichus that after the birth of Christ Angels appear plenty right there are still more appearances  
+{{% timestamp videoId="B8EA_xrGqjI" time="9977" display="02:46:17" %}} - of angels in the Bible but never again does the angel of the Lord appear in scriptures we only hear of Jesus Christ  
+{{% timestamp videoId="B8EA_xrGqjI" time="9986" display="02:46:26" %}} - right Jesus Christ appears after this you know as in the God man who is now perfectly God and perfectly man the  
+{{% timestamp videoId="B8EA_xrGqjI" time="9993" display="02:46:33" %}} - hypostatic union that man appears but we don't hear anymore of the Angel of the Lord who as  
+{{% timestamp videoId="B8EA_xrGqjI" time="10001" display="02:46:41" %}} - we've just gone through appears many places in the Old Testament has this this role of speaking authoritatively  
+{{% timestamp videoId="B8EA_xrGqjI" time="10009" display="02:46:49" %}} - for god well the one that we see doing that in the New Testament is Jesus Christ if you want to compare the quote  
+{{% timestamp videoId="B8EA_xrGqjI" time="10018" display="02:46:58" %}} - unquote job descriptions of the Angel of the Lord in Jesus Christ they're the same and so this is why we know Jesus  
+{{% timestamp videoId="B8EA_xrGqjI" time="10025" display="02:47:05" %}} - Christ is the Angel of the Lord and this argument from Silence if you want to call it that that after Jesus Takes on a  
+{{% timestamp videoId="B8EA_xrGqjI" time="10032" display="02:47:12" %}} - human nature after he becomes human he's born during the Incarnation we no longer see appearances of the Angel of the Lord  
+{{% timestamp videoId="B8EA_xrGqjI" time="10039" display="02:47:19" %}} - we only hear about appearances of Jesus Christ is perhaps some of the strongest evidence of all that these two beings  
+{{% timestamp videoId="B8EA_xrGqjI" time="10046" display="02:47:26" %}} - have always been the same person that this is how the plan of God has worked so that was an awful lot we've gone  
+{{% timestamp videoId="B8EA_xrGqjI" time="10052" display="02:47:32" %}} - through here um all of these things point to that that truth that we've been outlining this entire time that when we  
+{{% timestamp videoId="B8EA_xrGqjI" time="10061" display="02:47:41" %}} - hear of God appearing to people in the Old Testament in all of these ways even in Visions sometimes we know that we are  
+{{% timestamp videoId="B8EA_xrGqjI" time="10068" display="02:47:48" %}} - speaking of Jesus Christ this is the member of the Trinity who appears who is visible to us who represents the  
+{{% timestamp videoId="B8EA_xrGqjI" time="10076" display="02:47:56" %}} - authority of the father so that's actually where we're going to wrap this particular section  
+{{% timestamp videoId="B8EA_xrGqjI" time="10084" display="02:48:04" %}} - talking about christophanies and appearances of Jesus Christ in the Old Testament it's actually where we're  
+{{% timestamp videoId="B8EA_xrGqjI" time="10090" display="02:48:10" %}} - going to be ending this study here that we've been going through of theology proper as well so we started out talking  
+{{% timestamp videoId="B8EA_xrGqjI" time="10096" display="02:48:16" %}} - about the uh the nature of God his infinite nature and his perfect character and then we shifted into  
+{{% timestamp videoId="B8EA_xrGqjI" time="10103" display="02:48:23" %}} - talking about the Trinity and that's kind of The Wider section that we're wrapping up here um appearances of God  
+{{% timestamp videoId="B8EA_xrGqjI" time="10109" display="02:48:29" %}} - in the Old Testament manifesting Jesus Christ the second person of the Trinity being present even from the earliest  
+{{% timestamp videoId="B8EA_xrGqjI" time="10115" display="02:48:35" %}} - parts of scripture um but the takeaway point that Dr lugan bille has Us close on here is that the Lord Jesus Christ  
+{{% timestamp videoId="B8EA_xrGqjI" time="10125" display="02:48:45" %}} - has always been the win the has always been and will always be the person with whom we have to do in whom we must  
+{{% timestamp videoId="B8EA_xrGqjI" time="10134" display="02:48:54" %}} - believe in order to have an eternal relationship with the father it's only Christ who has quote unquote made the  
+{{% timestamp videoId="B8EA_xrGqjI" time="10140" display="02:49:00" %}} - father known it's what John chapter 1 verse 18 says to us um no one has seen God the only be the only begotten is in  
+{{% timestamp videoId="B8EA_xrGqjI" time="10149" display="02:49:09" %}} - the bosom of the father he has explained him so Jesus Christ is the only one who has seen the father um and only through  
+{{% timestamp videoId="B8EA_xrGqjI" time="10156" display="02:49:16" %}} - him do we come to possess uh the quote knowledge of the glory of God in the face of Christ that's quoting 2  
+{{% timestamp videoId="B8EA_xrGqjI" time="10163" display="02:49:23" %}} - Corinthians 4:6 for God who said light shall shine out of darkness is the one who has shown in our hearts to give the  
+{{% timestamp videoId="B8EA_xrGqjI" time="10170" display="02:49:30" %}} - light of the knowledge of the glory of God in the face of Christ so you can also compare the first part of Jesus  
+{{% timestamp videoId="B8EA_xrGqjI" time="10176" display="02:49:36" %}} - Christ or sorry the first part of Hebrews chapter 1 talking about how Jesus is the exact representation of the  
+{{% timestamp videoId="B8EA_xrGqjI" time="10183" display="02:49:43" %}} - glory of the father um so in the Old Testament we hear the father appearing through the pr incarnate son in the New  
+{{% timestamp videoId="B8EA_xrGqjI" time="10190" display="02:49:50" %}} - Testament we see and hear the Incarnate son speaking the father's words so Jesus Christ and this is what I was getting at  
+{{% timestamp videoId="B8EA_xrGqjI" time="10197" display="02:49:57" %}} - before in his pre-incarnate appearances as the angel of the Lord the function if you want to call it that  
+{{% timestamp videoId="B8EA_xrGqjI" time="10207" display="02:50:07" %}} - that he served in the division of labor that the Trinity split their roles he in both cases was the representative of the  
+{{% timestamp videoId="B8EA_xrGqjI" time="10216" display="02:50:16" %}} - Father the agent sent to act on behalf of the father um that has been consistent across his appearances as the  
+{{% timestamp videoId="B8EA_xrGqjI" time="10223" display="02:50:23" %}} - angel of the Lord pre-incarnate Jesus Christ as well as after the Incarnation um so to wrap all this up into a nice  
+{{% timestamp videoId="B8EA_xrGqjI" time="10231" display="02:50:31" %}} - neat bow this particular section here the Trinity has always been present in God's revelation of himself to those who  
+{{% timestamp videoId="B8EA_xrGqjI" time="10238" display="02:50:38" %}} - believe and follow him we saw that just before in that passage in Zechariah Chapter one you know the angel of the  
+{{% timestamp videoId="B8EA_xrGqjI" time="10244" display="02:50:44" %}} - Lord said to the Lord of hosts if you don't see the Trinity there um it's right there in the text right  
+{{% timestamp videoId="B8EA_xrGqjI" time="10253" display="02:50:53" %}} - the Trinity has always been present in God's revelation of himself to those who believe and follow him as Christians  
+{{% timestamp videoId="B8EA_xrGqjI" time="10259" display="02:50:59" %}} - whenever we say the word God we should keep in mind that for us this means the Trinity the father and the Son and the  
+{{% timestamp videoId="B8EA_xrGqjI" time="10266" display="02:51:06" %}} - Holy Spirit um and I don't think this is uh think I the right way to say this like we think of God and God is one  
+{{% timestamp videoId="B8EA_xrGqjI" time="10276" display="02:51:16" %}} - because he has one essence know the shared Essence between the members of the Trinity um however we know that the  
+{{% timestamp videoId="B8EA_xrGqjI" time="10284" display="02:51:24" %}} - three persons of the Trinity all work together in perfect Unity to bring about that plan as we've talked about um so is  
+{{% timestamp videoId="B8EA_xrGqjI" time="10291" display="02:51:31" %}} - there anything else you want to say to to close us off here this particular section on uh basically you know uh us  
+{{% timestamp videoId="B8EA_xrGqjI" time="10299" display="02:51:39" %}} - seeing everything through Jesus Christ as the representative of the father or us thinking of God in terms of the  
+{{% timestamp videoId="B8EA_xrGqjI" time="10304" display="02:51:44" %}} - Trinity when we consider him anything else at all Audi before we close this one  
+{{% timestamp videoId="B8EA_xrGqjI" time="10311" display="02:51:51" %}} - out I I hope you'll be able to hear me my um connection has been pretty bad um there isn't very much to say we can  
+{{% timestamp videoId="B8EA_xrGqjI" time="10324" display="02:52:04" %}} - say for certain that um God is one and God is three and those three  
+{{% timestamp videoId="B8EA_xrGqjI" time="10336" display="02:52:16" %}} - persons self assign Rose themselves in order to bring about the plan that God had from eternity the  
+{{% timestamp videoId="B8EA_xrGqjI" time="10345" display="02:52:25" %}} - whole point of discussing and exploring the nature of God is to understand who we're  
+{{% timestamp videoId="B8EA_xrGqjI" time="10354" display="02:52:34" %}} - dealing with there are all sorts of conceptions about God out there there are all manner of  
+{{% timestamp videoId="B8EA_xrGqjI" time="10362" display="02:52:42" %}} - things that people have to deal with in negotiating life with God in charge of our Affairs think about  
+{{% timestamp videoId="B8EA_xrGqjI" time="10372" display="02:52:52" %}} - this if if you were voting in an election generally you want to know what sort of person you would be giving the  
+{{% timestamp videoId="B8EA_xrGqjI" time="10385" display="02:53:05" %}} - right to set the environment for the choices you'll be making so depending on what kind of person it  
+{{% timestamp videoId="B8EA_xrGqjI" time="10393" display="02:53:13" %}} - is you might end up with some with some really hard choices or with some really easy  
+{{% timestamp videoId="B8EA_xrGqjI" time="10399" display="02:53:19" %}} - choices so we tend to want to know everything we can learn in order to make best choices we  
+{{% timestamp videoId="B8EA_xrGqjI" time="10406" display="02:53:26" %}} - can now it's the same thing when we're talking about eternity there are all manner of candidates out there for what  
+{{% timestamp videoId="B8EA_xrGqjI" time="10415" display="02:53:35" %}} - God we want to serve the goal is not just what happens to us in this life even though a lot of  
+{{% timestamp videoId="B8EA_xrGqjI" time="10423" display="02:53:43" %}} - people think that that is what it's about whether you're having a good time living in this world or you're  
+{{% timestamp videoId="B8EA_xrGqjI" time="10431" display="02:53:51" %}} - having a miserable time yes it doesn't matter what quality of life we can have in this world to  
+{{% timestamp videoId="B8EA_xrGqjI" time="10438" display="02:53:58" %}} - some degree because if you can't make any choices at all about eternity  
+{{% timestamp videoId="B8EA_xrGqjI" time="10444" display="02:54:04" %}} - then well it's out of your hands what sort of Eternity you will have so the quality of life does matter to some  
+{{% timestamp videoId="B8EA_xrGqjI" time="10453" display="02:54:13" %}} - extent but it only matters because we have to make a choice about eternity life in this world is extraordinarily  
+{{% timestamp videoId="B8EA_xrGqjI" time="10463" display="02:54:23" %}} - temporary no one has managed to survive from the beginning of the human race until now so we can take for granted  
+{{% timestamp videoId="B8EA_xrGqjI" time="10472" display="02:54:32" %}} - everybody will die if you do believe in cryogenics and all the scientific mumbo jumbo about  
+{{% timestamp videoId="B8EA_xrGqjI" time="10482" display="02:54:42" %}} - eventually uh making it possible for human beings to live forever well I don't think I can say much to you I  
+{{% timestamp videoId="B8EA_xrGqjI" time="10490" display="02:54:50" %}} - think that should that that does belong in the realm of Science Fiction and that is where it should  
+{{% timestamp videoId="B8EA_xrGqjI" time="10496" display="02:54:56" %}} - stay but if we know that we're going to die and Eternity is a reality and the question we have to answer is with all  
+{{% timestamp videoId="B8EA_xrGqjI" time="10507" display="02:55:07" %}} - of these things claiming to be God and there are very many claims out there just as I believe it's First Corinthians  
+{{% timestamp videoId="B8EA_xrGqjI" time="10515" display="02:55:15" %}} - says there are gods and Lords many for us who believe of course there is only one God but then if we're going to  
+{{% timestamp videoId="B8EA_xrGqjI" time="10524" display="02:55:24" %}} - make the best choice for eternity it does matter who are we going to believe if anyone claims to be God how  
+{{% timestamp videoId="B8EA_xrGqjI" time="10533" display="02:55:33" %}} - do we know that their claim is true and if we choose to follow the scriptures well this is what the  
+{{% timestamp videoId="B8EA_xrGqjI" time="10539" display="02:55:39" %}} - scriptures tells us or tell us about who the true God is it tells us that he's a trinity that there are three persons who  
+{{% timestamp videoId="B8EA_xrGqjI" time="10549" display="02:55:49" %}} - are in perfect unity and share one Essence so that they are one God now that might break your brain or it might  
+{{% timestamp videoId="B8EA_xrGqjI" time="10557" display="02:55:57" %}} - not whichever the case is it's what the Bible says do you believe it is the question then it tells us that these  
+{{% timestamp videoId="B8EA_xrGqjI" time="10565" display="02:56:05" %}} - three persons have self- assigned roles to themselves in order to bring about the plan the objective that God had for  
+{{% timestamp videoId="B8EA_xrGqjI" time="10574" display="02:56:14" %}} - creating everything that exists and along the way in understanding his plan we come to see  
+{{% timestamp videoId="B8EA_xrGqjI" time="10584" display="02:56:24" %}} - that because of sin the father took the role of being the face of God to us the one who says who speaks to us uh  
+{{% timestamp videoId="B8EA_xrGqjI" time="10597" display="02:56:37" %}} - authoritatively as God he acts as God to was on behalf of the three of them and the Lord Jesus Took the role of the  
+{{% timestamp videoId="B8EA_xrGqjI" time="10607" display="02:56:47" %}} - servant of the father for our sakes in order to realize  
+{{% timestamp videoId="B8EA_xrGqjI" time="10614" display="02:56:54" %}} - our Redemption because of sin we have to keep that in mind it is because of sin that all of this is happening and the  
+{{% timestamp videoId="B8EA_xrGqjI" time="10621" display="02:57:01" %}} - Holy Spirit took up the role of empowering everything that God wants done in  
+{{% timestamp videoId="B8EA_xrGqjI" time="10628" display="02:57:08" %}} - creation so it is for this reason that we talk about the manifestations of God in creation it's not just an academic  
+{{% timestamp videoId="B8EA_xrGqjI" time="10637" display="02:57:17" %}} - topic it's not just an interesting thing to maybe waste a little time over since we're Christians we have to talk  
+{{% timestamp videoId="B8EA_xrGqjI" time="10642" display="02:57:22" %}} - Christian stuff no there is a reason for exploring this we come to appreciate how intimately involved God has been with  
+{{% timestamp videoId="B8EA_xrGqjI" time="10652" display="02:57:32" %}} - this matter he's not been absentee even though the father has been in the third heaven now keep that in mind even though  
+{{% timestamp videoId="B8EA_xrGqjI" time="10661" display="02:57:41" %}} - he is actually omnipresent just like the son is omnipresent and the Holy Spirit is omnipresent there is a symbolism here  
+{{% timestamp videoId="B8EA_xrGqjI" time="10669" display="02:57:49" %}} - there is a metaphor there is something they're communicating with how they've arranged things the father being in the  
+{{% timestamp videoId="B8EA_xrGqjI" time="10676" display="02:57:56" %}} - third heaven is essentially to say I do not tolerate sin I must be separated from sin so that I can save  
+{{% timestamp videoId="B8EA_xrGqjI" time="10688" display="02:58:08" %}} - The Sinner that's a very important lesson for us to show us that it is out of his love for the Sinners who are his  
+{{% timestamp videoId="B8EA_xrGqjI" time="10696" display="02:58:16" %}} - enemies that he separat himself from them to give them a chance to come to repentance so that they can be brought  
+{{% timestamp videoId="B8EA_xrGqjI" time="10704" display="02:58:24" %}} - back to him as his children and in order for them to be brought back as his children a member of  
+{{% timestamp videoId="B8EA_xrGqjI" time="10712" display="02:58:32" %}} - the Trinity has to play the role of the servant of the father in order to bring them home to their  
+{{% timestamp videoId="B8EA_xrGqjI" time="10722" display="02:58:42" %}} - father that's exactly the role that Jesus plays that's why we see this whole business of the Angel of the Lord and  
+{{% timestamp videoId="B8EA_xrGqjI" time="10729" display="02:58:49" %}} - and um the christophanies being theophanes and or theophanes being christophanies and all of that it's not  
+{{% timestamp videoId="B8EA_xrGqjI" time="10735" display="02:58:55" %}} - just the nice intellectual exercise to have it is a description of God's love for us something God did not have to do  
+{{% timestamp videoId="B8EA_xrGqjI" time="10746" display="02:59:06" %}} - one bit he didn't have to create a single thing but he did because he is love and sharing himself with  
+{{% timestamp videoId="B8EA_xrGqjI" time="10754" display="02:59:14" %}} - intelligent creatures who are capable of making a choice to accept his gift or to deny or to reject his gift that is the  
+{{% timestamp videoId="B8EA_xrGqjI" time="10764" display="02:59:24" %}} - essence of his character that's what we see in this matter so all this discussion that we are having is to put  
+{{% timestamp videoId="B8EA_xrGqjI" time="10773" display="02:59:33" %}} - us in the right position to appreciate that this person is the right God to serve of all the claims out there who  
+{{% timestamp videoId="B8EA_xrGqjI" time="10784" display="02:59:44" %}} - has gone as far as he has gone who has done what he has done how what wisdom has been demonstrated To Us by any other  
+{{% timestamp videoId="B8EA_xrGqjI" time="10793" display="02:59:53" %}} - God that even remotely matches what we have seen that that Jesus himself would play  
+{{% timestamp videoId="B8EA_xrGqjI" time="10799" display="02:59:59" %}} - the role not just of the servant but as the representative of the father in way that he did appearing to Moses appearing  
+{{% timestamp videoId="B8EA_xrGqjI" time="10807" display="03:00:07" %}} - to uh old time Old Testament Believers in all the ways that we have seen in order to bring that plan to pass that  
+{{% timestamp videoId="B8EA_xrGqjI" time="10816" display="03:00:16" %}} - required him to end up on the cross paying a very Dreadful price for our sin the the amount of thought that had to  
+{{% timestamp videoId="B8EA_xrGqjI" time="10824" display="03:00:24" %}} - have gone into that in order to see us become Believers and become children of God saved for all eternity that is what  
+{{% timestamp videoId="B8EA_xrGqjI" time="10834" display="03:00:34" %}} - we are exploring it's not just a very nice um theological discussion where we can pick a camp and decide whether we  
+{{% timestamp videoId="B8EA_xrGqjI" time="10845" display="03:00:45" %}} - are trinitarians or not trinitarian Etc that's um what I think I have that yeah um and uh it is a good sort of Koda  
+{{% timestamp videoId="B8EA_xrGqjI" time="10858" display="03:00:58" %}} - to this very long study that we are now concluding here is that when we get to the end of such things as these you know  
+{{% timestamp videoId="B8EA_xrGqjI" time="10866" display="03:01:06" %}} - if we have spent all this time and energy on this it does not go to waste because this is the stuff that spiritual  
+{{% timestamp videoId="B8EA_xrGqjI" time="10873" display="03:01:13" %}} - growth is made of um when we go through this it's not you know academic as AI has been saying it is so that when we  
+{{% timestamp videoId="B8EA_xrGqjI" time="10882" display="03:01:22" %}} - study and learn about who God is we can use that understanding the spirit will use it as capital so to speak in our  
+{{% timestamp videoId="B8EA_xrGqjI" time="10890" display="03:01:30" %}} - heart to help us do what we're supposed to as Christians this is the sort of thing that helps us better understand  
+{{% timestamp videoId="B8EA_xrGqjI" time="10899" display="03:01:39" %}} - God his purposes his plans and that in turn is what we're here to do uh we have to learn this because it's the only way  
+{{% timestamp videoId="B8EA_xrGqjI" time="10907" display="03:01:47" %}} - that we can actually serve God as he wishes for us so excellent discussion to recap here we are doing all of this  
+{{% timestamp videoId="B8EA_xrGqjI" time="10914" display="03:01:54" %}} - because this understanding we gain of God through this close study through all of the details that we've been going  
+{{% timestamp videoId="B8EA_xrGqjI" time="10920" display="03:02:00" %}} - over is what helps us to actually know him um know him as the Bible says not in some sort of Airy fairy sense of well I  
+{{% timestamp videoId="B8EA_xrGqjI" time="10929" display="03:02:09" %}} - I talk to God therefore I know him but we know what he is like and how he operates and what his goals and plans  
+{{% timestamp videoId="B8EA_xrGqjI" time="10936" display="03:02:16" %}} - are because then we can fit ourselves into what he wants us to do so we'll close one sec in uh just a moment here  
+{{% timestamp videoId="B8EA_xrGqjI" time="10944" display="03:02:24" %}} - going over everything that we've done in this last section but this is a good stopping point for this study um it is  
+{{% timestamp videoId="B8EA_xrGqjI" time="10951" display="03:02:31" %}} - one of the most Central topics for us as Christians understanding exactly who God is uh specifically what Jesus did for us  
+{{% timestamp videoId="B8EA_xrGqjI" time="10959" display="03:02:39" %}} - there is almost nothing more Central than understanding the nature of the God we  
+{{% timestamp videoId="B8EA_xrGqjI" time="10966" display="03:02:46" %}} - serve all right all right so uh this review is going over everything that we've done in this last lesson here in  
+{{% timestamp videoId="B8EA_xrGqjI" time="10974" display="03:02:54" %}} - the study where we've been talking about actual appearances of Christ in the Old Testament so not just the concept of it  
+{{% timestamp videoId="B8EA_xrGqjI" time="10980" display="03:03:00" %}} - but actual occurrences by reading all these passages going over the appearances of the Angel of the Exodus  
+{{% timestamp videoId="B8EA_xrGqjI" time="10987" display="03:03:07" %}} - so the one who led the Israelites out of Egypt through the Wilderness to the promised land um we talked about all  
+{{% timestamp videoId="B8EA_xrGqjI" time="10993" display="03:03:13" %}} - these separate cases that we identified as clear christophanies the burning bush the column of cloud and fire the angel  
+{{% timestamp videoId="B8EA_xrGqjI" time="11001" display="03:03:21" %}} - sent before the Israelites to guard them on the way uh the being who spoke to Moses and the elders and and other  
+{{% timestamp videoId="B8EA_xrGqjI" time="11007" display="03:03:27" %}} - people face to face and the angel who is said to have led the Israelites out of Egypt on that Judges chapter two passage  
+{{% timestamp videoId="B8EA_xrGqjI" time="11015" display="03:03:35" %}} - all of these all of these point to the angel of the Lord who is a pre-incarnate Jesus Christ and then after that we  
+{{% timestamp videoId="B8EA_xrGqjI" time="11021" display="03:03:41" %}} - talked about um all sorts of references here uh to other appearances of the Angel of the Lord in the Old Testament  
+{{% timestamp videoId="B8EA_xrGqjI" time="11029" display="03:03:49" %}} - so wrestling with Jacob appearing to Abraham in Genesis Chapter 18 uh appearing to Joshua as the commander of  
+{{% timestamp videoId="B8EA_xrGqjI" time="11035" display="03:03:55" %}} - the Lord's host in Joshua 5 uh you know appearing to Gideon in Judges chapter 6 the parents of Samson in Judges chapter  
+{{% timestamp videoId="B8EA_xrGqjI" time="11043" display="03:04:03" %}} - 13 these visions that we identified in Isaiah chapter 6 and Ezekiel chapter 1 and then zechariah's vision of the Angel  
+{{% timestamp videoId="B8EA_xrGqjI" time="11050" display="03:04:10" %}} - of the Lord addressing the Lord of hosts as a different person in Zechariah Chapter 1 and we might go on even I'm  
+{{% timestamp videoId="B8EA_xrGqjI" time="11057" display="03:04:17" %}} - not not sure this has been completely comprehensive but in all of this we see that the pre-incarnate Jesus Christ has  
+{{% timestamp videoId="B8EA_xrGqjI" time="11065" display="03:04:25" %}} - been the messenger of the Father the one bearing of Father's plan for us from the very beginning and that didn't just  
+{{% timestamp videoId="B8EA_xrGqjI" time="11073" display="03:04:33" %}} - start after the Incarnation but it has always been the case and so um this concludes this particular study that  
+{{% timestamp videoId="B8EA_xrGqjI" time="11080" display="03:04:40" %}} - we've gone through here uh going over theology proper the study of God um his his nature his infinite nature his  
+{{% timestamp videoId="B8EA_xrGqjI" time="11087" display="03:04:47" %}} - perfect character and now his his uh how he is in the matter of the Trinity um three persons one Essence um all of  
+{{% timestamp videoId="B8EA_xrGqjI" time="11096" display="03:04:56" %}} - these things that we've gone over help us get that picture of who God really is and that in turn helps us understand  
+{{% timestamp videoId="B8EA_xrGqjI" time="11103" display="03:05:03" %}} - what he has done for us in redeeming Humanity out of our sins  
+
+{{% /toggleable-transcript %}}
+
+{{% discussion-pages %}}
+
+{{% /discussion-pages %}}
+
+
 <!-- aggregate-page-content -->
