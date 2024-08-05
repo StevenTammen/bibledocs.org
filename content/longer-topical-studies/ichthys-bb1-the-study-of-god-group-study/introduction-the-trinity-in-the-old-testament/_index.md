@@ -23,7 +23,7 @@ slides=""
 
 ## Summary {#summary}
 
-TODO
+God has always been triune in nature; He did not somehow change to become three persons in New Testament times, but rather, has always existed as such. What has changed is not God, but our perspective and understanding of Him. As to why God might have chosen to veil his triune nature until the time He actually did reveal it to mankind, we put forward two explanations: that God did not reveal His triune nature in order to head off idolatry among the people of Israel, and that God did not reveal His triune nature simply because it was not possible for humanity to fully grasp it until the First Advent of Christ.
 
 ## Timestamps {#timestamps}
 
@@ -39,6 +39,12 @@ TODO
 
 ### Given the benefit of subsequent clarifying New Testament revelation, the Trinity is visible in the Old Testament {#given-the-benefit-of-subsequent-clarifying-new-testament-revelation-the-trinity-is-visible-in-the-old-testament}
 
+{{< subjects >}}
+Trinity > Is clearly visible in Old Testament, when viewed in light of the New Testament
+Progressive revelation
+{{< /subjects >}}
+<!-- p="Genesis 1:26; Isaiah 6:3; Numbers 6:24-26; 2 Samuel 23:2-3; 1 Corinthians 10:4; Isaiah 48:15-17; Isaiah 63:9-10; Zechariah 2:7-13; Matthew 22:41-46" -->
+
 The Trinity is not only present in the verses of the Old Testament, but portrayed clearly enough to see (with the benefit of New Testament revelation).
 - When God says "let *us* make Man in *our* image (Gen.1:26)
 - When the angels of God praise Him with their three-fold "holy, holy, holy" (Is.6:3)
@@ -49,6 +55,14 @@ In these cases and others, the clear intent is to reflect (if not to convey) the
 <!-- --- -->
 
 ### Matthew 22:41-46 {#matthew-22-41-46}
+
+{{< subjects >}}
+Progressive revelation
+Progressive revelation > There are still plenty of matters veiled from us
+Old Testament Believers > Earnestly desired to have the knowledge we now have
+Angels > Are interested in God's redemptive plan for humanity
+{{< /subjects >}}
+<!-- p="Matthew 22:41-46; Matthew 13:17; Luke 10:24; John 8:56; 1 Peter 1:10-12; Romans 3:25; Psalm 110:1" -->
 
 {{% ichthys-translation p="Matthew 22:41-46" %}}
 As the Pharisees were gathering together, Jesus put a question to them, saying "What do you think about the Messiah? Whose son is he?" They answered Him, "David's son." Then He said to them, "Well then, how can David, speaking in the Spirit, call Him Lord? For he says,  
@@ -64,6 +78,13 @@ We are not to assume that David, when he penned this prophecy under divine inspi
 
 ### Prophetic foreshortening {#prophetic-foreshortening}
 
+{{< subjects >}}
+Prophetic foreshortening
+Interpretation > Principles > Prophetic foreshortening
+Prophetic foreshortening > Examples > Trinity
+Prophetic foreshortening > Examples > Coming of the Messiah
+{{< /subjects >}}
+
 In the Old Testament, the three Persons stand in front of us like three mighty mountains, one after the other, all partially visible, but not readily distinguishable from each other. Only with the revelation provided by the incarnation of Jesus Christ and the New Testament do we see the Old Testament picture of the Trinity from a sidelong perspective, so that now the three mountains become visible in their own right when viewed from this new vantage point.
 
 We should note that all three mountains have always been there, even if humanity was not previously able to distinguish them from one another. One did not suddenly become three. Instead, our perspective merely changed.
@@ -74,6 +95,13 @@ This illustration of the Trinity in the Old Testament is commonly called "prophe
 
 ### Why did God decide to veil the triune nature of His essence in Old Testament times? {#why-did-god-decide-to-veil-the-triune-nature-of-his-essence-in-old-testament-times}
 
+{{< subjects >}}
+Hypotheticals > There is one perfect Plan of God that actually happens
+Faith > Fully trusting God that what has happened is objectively best
+Faith > Giving God the benefit of the doubt
+{{< /subjects >}}
+<!-- p="Matthew 11:20-24" -->
+
 Exactly why did God decide to veil the triune nature of His essence in Old Testament times, choosing instead to only foreshadow it, in the manner discussed above?
 
 Sometimes the explanation put forth for this veiling is the prevention of idolatry: God did not make His triune nature known to Israel in Old Testament times to help them avoid falling into idolatry (the mechanics of which we will examine in a moment). While this explanation has merit, it is not alone sufficient. We will instead argue that God did not reveal Himself in triune form before the 1st Advent of Christ simply because the Trinity can only be clearly explained and understood after the 1st Advent of Christ.
@@ -83,6 +111,14 @@ In any case, the point is God has good reasons for His progressive revelation of
 <!-- --- -->
 
 #### Idolatry as an explanation for God's veiling of His nature {#idolatry-as-an-explanation-for-god-s-veiling-of-his-nature}
+
+{{< subjects >}}
+Interpretation > Inferences have their place when they only go so far as the evidence allows
+Idolatry > Of Israel
+Israel > Theocracy > Idolatry had severe national consequences
+Trinity > What it is not > A pantheon
+{{< /subjects >}}
+<!-- p="Exodus 20:1-6; Numbers 25; John 10:30; 1 Corinthians 3:8" -->
 
 Idolatry, a major problem in ancient times and one of Israel's most serious stumbling blocks, is often adduced as the reason for this veiling in pre-Christian times of our present knowledge of the Trinity. Certainly it is true that the threat of idolatry to the faith and practice of Old Testament believers was a very real one. We need only to consider that the first two of the "ten commandments" deal with this subject (Ex.20:1-6), and that Balaam's counsel of idolatrous seduction was more destructive to Israel than any curse could ever have been (Num.25). The argument suggests that there was, therefore, a need to emphasize the *oneness* of God in the face of this very real polytheistic threat, thus obviating any possible twisting of a proper understanding of the Trinity. This explanation possesses much of value, but it does not entirely resolve the matter.
 
@@ -95,6 +131,12 @@ Pagan pantheons (not to mention pagan religions) are different from God and the 
 <!-- --- -->
 
 #### The person of Jesus Christ not yet come as an explanation for God's veiling of His nature {#the-person-of-jesus-christ-not-yet-come-as-an-explanation-for-god-s-veiling-of-his-nature}
+
+{{< subjects >}}
+Interpretation > Inferences have their place when they only go so far as the evidence allows
+Trinity > Cannot be fully understood by humanity without the witness of the First Advent of Christ
+{{< /subjects >}}
+<!-- p="John 1:14; John 1:18; John 14:9; Hebrews 1:1-3; Matthew 27:51; 2 Corinthians 4:6; 2 Corinthians 3:14; John 7:39" -->
 
 The full answer lies in the person of Jesus Christ. Before the fact, before we see with our own eyes Christ come in the flesh, His humility, His suffering, His sacrifice for us, can we really appreciate in full the Trinity and what God has chosen to do for us in Christ's incarnation and death on the cross? Without the *accomplished reality* of the incarnation of Jesus, how could we ever but dimly conceive the glory of it? And without the accomplished fact of His incarnation, how could we possibly understand and appreciate the triune nature of God? For it is only through Christ – after He has come into the world in person – that we begin to see God with the clarity of vision it has now been given us to possess (Jn.1:18; 14:9).
 
