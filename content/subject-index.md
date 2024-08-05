@@ -54,6 +54,17 @@ header-title="Luke 16 - on the chasm of separation"
 
 ## Angels {#angels}
 
+### Angels > Are interested in God's redemptive plan for humanity {#angels-are-interested-in-god-s-redemptive-plan-for-humanity}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-old-testament/#matthew-22-41-46"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity in the Old Testament"
+header-title="Matthew 22:41-46"
+%}}
+
 ### Angels > Are subject to matter {#angels-are-subject-to-matter}
 
 {{% subject-index-link
@@ -185,6 +196,17 @@ header-title="Hebrew 9:27's wider context"
 
 ## Blood of Christ {#blood-of-christ}
 
+### Blood of Christ > How it changed the relationship between us and the Father {#blood-of-christ-how-it-changed-the-relationship-between-us-and-the-father}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament-introduction/#the-inaccessibility-of-the-father-apart-from-christ"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament - Introduction"
+header-title="The inaccessibility of the Father apart from Christ"
+%}}
+
 ### Blood of Christ > Satisfies both God's love and God's justice {#blood-of-christ-satisfies-both-god-s-love-and-god-s-justice}
 
 {{% subject-index-link
@@ -194,6 +216,41 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/conclusio
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Conclusions - The Essence of God"
 header-title="An overview in words"
+%}}
+
+## Blood sacrifice {#blood-sacrifice}
+
+### Blood sacrifice > Animal sacrifice points straight to the cross of Christ {#blood-sacrifice-animal-sacrifice-points-straight-to-the-cross-of-christ}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/the-messiah-pre-figured-in-the-old-testament/#blood-sacrifice"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="The Messiah Pre-figured in the Old Testament"
+header-title="Blood sacrifice"
+%}}
+
+### Blood sacrifice > Shows the horrific severity of sin, and glossing over it cheapens grace {#blood-sacrifice-shows-the-horrific-severity-of-sin-and-glossing-over-it-cheapens-grace}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/the-messiah-pre-figured-in-the-old-testament/#blood-sacrifice"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="The Messiah Pre-figured in the Old Testament"
+header-title="Blood sacrifice"
+%}}
+
+### Blood sacrifice > When understood properly, holds that God is the one providing the sacrifice {#blood-sacrifice-when-understood-properly-holds-that-god-is-the-one-providing-the-sacrifice}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/the-messiah-pre-figured-in-the-old-testament/#blood-sacrifice"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="The Messiah Pre-figured in the Old Testament"
+header-title="Blood sacrifice"
 %}}
 
 ## Born again {#born-again}
@@ -207,6 +264,32 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-r
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Trinity Roles as Demonstrated in Gods Plan for Human History"
 header-title="Regeneration of the Believer"
+%}}
+
+## Branch {#branch}
+
+### Branch > Jesus is the Branch out of the stem of Jesse {#branch-jesus-is-the-branch-out-of-the-stem-of-jesse}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament/#the-burning-bush"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament"
+header-title="The burning bush"
+%}}
+
+## Burning bush {#burning-bush}
+
+### Burning bush > Symbolizes the cross - Christ burning but not being consumed {#burning-bush-symbolizes-the-cross-christ-burning-but-not-being-consumed}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament/#the-burning-bush"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament"
+header-title="The burning bush"
 %}}
 
 ## Busybody behavior {#busybody-behavior}
@@ -251,10 +334,30 @@ header-title="Abuse"
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament-introduction/#definition-of-theophany-and-christophany"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament - Introduction"
+header-title="Definition of Theophany and Christophany"
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
 link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-essence-of-god/#q-we-say-god-dwells-in-this-unapproachable-light-that-no-one-has-seen-nor-ever-can-see-what-then-of-cases-in-scripture-where-people-seem-to-have-seen-god"
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Introduction - The Essence of God"
 header-title="Q: We say God dwells in this unapproachable light that no one has seen nor ever can see. What then of cases in scripture where people seem to have \"seen God?\""
+%}}
+
+### Christophany > Occurrences external to Exodus narrative {#christophany-occurrences-external-to-exodus-narrative}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament/#the-angel-of-the-lord-elsewhere"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament"
+header-title="The Angel of the Lord elsewhere"
 %}}
 
 ## Chronology {#chronology}
@@ -268,6 +371,30 @@ link="/questions-and-answers/reader-correspondence/on-the-possibility-of-multipl
 study-title="On the Possibility of Multiple Rahabs"
 page-title="Handling Several Other Matters"
 header-title="\"It's not the same Rahab because the chronology does not work\""
+%}}
+
+## Column of cloud and fire {#column-of-cloud-and-fire}
+
+### Column of cloud and fire > Is a pre-incarnate Jesus Christ, not an angel {#column-of-cloud-and-fire-is-a-pre-incarnate-jesus-christ-not-an-angel}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament/#the-column-of-cloud-and-fire"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament"
+header-title="The column of cloud and fire"
+%}}
+
+### Column of cloud and fire > When combined with location above the ark, is symbolic of the cross {#column-of-cloud-and-fire-when-combined-with-location-above-the-ark-is-symbolic-of-the-cross}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament/#the-column-of-cloud-and-fire"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament"
+header-title="The column of cloud and fire"
 %}}
 
 ## Confession {#confession}
@@ -428,6 +555,15 @@ page-title="Genesis 1:1 - What \"Beginning\" Is in View?"
 header-title="The \"beginning\" mentioned in Genesis 1:1 (and also John 1:1) is indefinite not definite"
 %}}
 
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament/#overview"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament"
+header-title="Overview"
+%}}
+
 ## Divorce {#divorce}
 
 ### Divorce > Abuse exception {#divorce-abuse-exception}
@@ -539,6 +675,54 @@ page-title="Introduction - The Essence of God"
 header-title="Comment: God's glory as it relates to \"every knee will bow, and every tongue confess\""
 %}}
 
+## Exodus {#exodus}
+
+### Exodus > People of Israel personally superintended every step of the way by God {#exodus-people-of-israel-personally-superintended-every-step-of-the-way-by-god}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament/#the-angel-of-the-exodus"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament"
+header-title="The Angel of the Exodus"
+%}}
+
+### Exodus > Symbolism of {#exodus-symbolism-of}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament/#the-angel-of-the-exodus"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament"
+header-title="The Angel of the Exodus"
+%}}
+
+## Faith {#faith}
+
+### Faith > Fully trusting God that what has happened is objectively best {#faith-fully-trusting-god-that-what-has-happened-is-objectively-best}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-old-testament/#why-did-god-decide-to-veil-the-triune-nature-of-his-essence-in-old-testament-times"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity in the Old Testament"
+header-title="Why did God decide to veil the triune nature of His essence in Old Testament times?"
+%}}
+
+### Faith > Giving God the benefit of the doubt {#faith-giving-god-the-benefit-of-the-doubt}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-old-testament/#why-did-god-decide-to-veil-the-triune-nature-of-his-essence-in-old-testament-times"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity in the Old Testament"
+header-title="Why did God decide to veil the triune nature of His essence in Old Testament times?"
+%}}
+
 ## Fall {#fall}
 
 ### Fall > Effects on mankind {#fall-effects-on-mankind}
@@ -587,6 +771,19 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Roles of the Trinity in the Plan of God"
 header-title="The Father (the 1st Person of the Trinity)"
+%}}
+
+## Fire {#fire}
+
+### Fire > Is a symbol of judgement {#fire-is-a-symbol-of-judgement}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament/#the-burning-bush"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament"
+header-title="The burning bush"
 %}}
 
 ## Forgiveness {#forgiveness}
@@ -939,6 +1136,15 @@ header-title="The resplendence of God: light and glory"
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament-introduction/#the-invisibility-of-the-father"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament - Introduction"
+header-title="The invisibility of the Father"
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
 link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-essence-of-god/#the-resplendence-of-god-light-and-glory"
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Introduction - The Essence of God"
@@ -954,6 +1160,21 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduct
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Introduction - The Essence of God"
 header-title="Comment: God's glory as it relates to \"every knee will bow, and every tongue confess\""
+%}}
+
+## God's overwhelming glory {#god-s-overwhelming-glory}
+
+### God's overwhelming glory > Instant death for sinful flesh {#god-s-overwhelming-glory-instant-death-for-sinful-flesh}
+
+#### God's overwhelming glory > Instant death for sinful flesh > Does not just apply to the Father {#god-s-overwhelming-glory-instant-death-for-sinful-flesh-does-not-just-apply-to-the-father}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament/#the-one-whom-moses-among-others-knew-and-spoke-to-face-to-face"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament"
+header-title="The one whom Moses (among others) knew and spoke to \"face to face\""
 %}}
 
 ## Heaven {#heaven}
@@ -1116,6 +1337,32 @@ page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
 header-title="On the nature and composition of human beings"
 %}}
 
+## Hypotheticals {#hypotheticals}
+
+### Hypotheticals > There is one perfect Plan of God that actually happens {#hypotheticals-there-is-one-perfect-plan-of-god-that-actually-happens}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-old-testament/#why-did-god-decide-to-veil-the-triune-nature-of-his-essence-in-old-testament-times"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity in the Old Testament"
+header-title="Why did God decide to veil the triune nature of His essence in Old Testament times?"
+%}}
+
+## Idolatry {#idolatry}
+
+### Idolatry > Of Israel {#idolatry-of-israel}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-old-testament/#idolatry-as-an-explanation-for-god-s-veiling-of-his-nature"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity in the Old Testament"
+header-title="Idolatry as an explanation for God's veiling of His nature"
+%}}
+
 ## Image of God {#image-of-god}
 
 ### Image of God > We are godlike in our free will/ability to choose {#image-of-god-we-are-godlike-in-our-free-will-ability-to-choose}
@@ -1201,6 +1448,17 @@ page-title="Lazarus and Jairus' Daughter - Are They Sleeping or Dead?"
 header-title="What of Hebrews 9:27?"
 %}}
 
+#### Interpretation > Apparent contradictions > If Jesus gave Moses the Law not the Farther, did He say He will send Himself? {#interpretation-apparent-contradictions-if-jesus-gave-moses-the-law-not-the-farther-did-he-say-he-will-send-himself}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament/#the-angel-sent-before-the-israelites-to-guard-them-on-the-way"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament"
+header-title="The angel sent before the Israelites to guard them on the way"
+%}}
+
 ### Interpretation > Challenges {#interpretation-challenges}
 
 #### Interpretation > Challenges > Different cultures use different idioms, metaphors, and so on {#interpretation-challenges-different-cultures-use-different-idioms-metaphors-and-so-on}
@@ -1246,6 +1504,24 @@ header-title="The Greek adverb *hapax*"
 %}}
 
 ### Interpretation > Inferences have their place when they only go so far as the evidence allows {#interpretation-inferences-have-their-place-when-they-only-go-so-far-as-the-evidence-allows}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-old-testament/#idolatry-as-an-explanation-for-god-s-veiling-of-his-nature"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity in the Old Testament"
+header-title="Idolatry as an explanation for God's veiling of His nature"
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-old-testament/#the-person-of-jesus-christ-not-yet-come-as-an-explanation-for-god-s-veiling-of-his-nature"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity in the Old Testament"
+header-title="The person of Jesus Christ not yet come as an explanation for God's veiling of His nature"
+%}}
 
 {{% subject-index-link
 content-type="Reader Q&A"
@@ -1298,6 +1574,41 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Roles of the Trinity in the Plan of God"
 header-title="Note: Analogies Are Just Analogies, and Nothing More"
+%}}
+
+### Interpretation > Principles {#interpretation-principles}
+
+#### Interpretation > Principles > "No one has seen the Father" {#interpretation-principles-no-one-has-seen-the-father}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament-introduction/#the-invisibility-of-the-father"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament - Introduction"
+header-title="The invisibility of the Father"
+%}}
+
+#### Interpretation > Principles > Prophetic foreshortening {#interpretation-principles-prophetic-foreshortening}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-old-testament/#prophetic-foreshortening"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity in the Old Testament"
+header-title="Prophetic foreshortening"
+%}}
+
+#### Interpretation > Principles > Unapproachableness of the Father {#interpretation-principles-unapproachableness-of-the-father}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament-introduction/#the-inaccessibility-of-the-father-apart-from-christ"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament - Introduction"
+header-title="The inaccessibility of the Father apart from Christ"
 %}}
 
 ### Interpretation > Semantic overloading - words with unique connotations stemming from multiple meanings {#interpretation-semantic-overloading-words-with-unique-connotations-stemming-from-multiple-meanings}
@@ -1353,7 +1664,57 @@ page-title="All Members of the Trinity Are Deity"
 header-title="Revelation 1:4 - What is going on with the mention of seven Spirits?"
 %}}
 
+## Israel {#israel}
+
+### Israel > Theocracy {#israel-theocracy}
+
+#### Israel > Theocracy > Idolatry had severe national consequences {#israel-theocracy-idolatry-had-severe-national-consequences}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-old-testament/#idolatry-as-an-explanation-for-god-s-veiling-of-his-nature"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity in the Old Testament"
+header-title="Idolatry as an explanation for God's veiling of His nature"
+%}}
+
 ## Jesus {#jesus}
+
+### Jesus > As mediator between us and the Father {#jesus-as-mediator-between-us-and-the-father}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament-introduction/#the-inaccessibility-of-the-father-apart-from-christ"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament - Introduction"
+header-title="The inaccessibility of the Father apart from Christ"
+%}}
+
+### Jesus > As messenger of the Father {#jesus-as-messenger-of-the-father}
+
+#### Jesus > As messenger of the Father > Does not speak how angel messengers like Gabriel do {#jesus-as-messenger-of-the-father-does-not-speak-how-angel-messengers-like-gabriel-do}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament/#the-angel-who-is-said-to-have-led-the-israelites-out-of-egypt"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament"
+header-title="The angel who is said to have led the Israelites out of Egypt"
+%}}
+
+### Jesus > As the Messiah, has been spoken of since the beginning of creation {#jesus-as-the-messiah-has-been-spoken-of-since-the-beginning-of-creation}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/the-messiah-pre-figured-in-the-old-testament/#introduction-the-old-testament-s-portrayal-of-the-suffering-of-christ"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="The Messiah Pre-figured in the Old Testament"
+header-title="Introduction: the Old Testament's portrayal of the suffering of Christ"
+%}}
 
 ### Jesus > First advent {#jesus-first-advent}
 
@@ -1366,6 +1727,28 @@ page-title="Trinity Roles as Demonstrated in Gods Plan for Human History"
 header-title="Christ's 1st Advent"
 %}}
 
+### Jesus > Has adopted a role of humility and service, unlike the Father's role of authority and majesty {#jesus-has-adopted-a-role-of-humility-and-service-unlike-the-father-s-role-of-authority-and-majesty}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament-introduction/#the-visibility-accessibility-and-humility-of-the-son"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament - Introduction"
+header-title="The visibility, accessibility and humility of the Son"
+%}}
+
+### Jesus > Has been delegated authority from the father {#jesus-has-been-delegated-authority-from-the-father}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament-introduction/#the-dignity-of-the-father"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament - Introduction"
+header-title="The dignity of the Father"
+%}}
+
 ### Jesus > Intentionally avoided celebrity {#jesus-intentionally-avoided-celebrity}
 
 {{% subject-index-link
@@ -1375,6 +1758,63 @@ link="/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-deat
 study-title="Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More"
 page-title="Lazarus and Jairus' Daughter - Are They Sleeping or Dead?"
 header-title="It is not a euphemism this time, but something completely different"
+%}}
+
+### Jesus > Is accessible to us, unlike the Father {#jesus-is-accessible-to-us-unlike-the-father}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament-introduction/#the-visibility-accessibility-and-humility-of-the-son"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament - Introduction"
+header-title="The visibility, accessibility and humility of the Son"
+%}}
+
+### Jesus > Is visible to us, unlike the Father {#jesus-is-visible-to-us-unlike-the-father}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament-introduction/#the-visibility-accessibility-and-humility-of-the-son"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament - Introduction"
+header-title="The visibility, accessibility and humility of the Son"
+%}}
+
+### Jesus > Prince regent of the world, sent with the Father's authority {#jesus-prince-regent-of-the-world-sent-with-the-father-s-authority}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament-introduction/#the-dignity-of-the-father"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament - Introduction"
+header-title="The dignity of the Father"
+%}}
+
+### Jesus > Showing Moses His glory {#jesus-showing-moses-his-glory}
+
+#### Jesus > Showing Moses His glory > Is speaking of seeing His full unveiled glory, not seeing His face generally {#jesus-showing-moses-his-glory-is-speaking-of-seeing-his-full-unveiled-glory-not-seeing-his-face-generally}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament/#the-one-whom-moses-among-others-knew-and-spoke-to-face-to-face"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament"
+header-title="The one whom Moses (among others) knew and spoke to \"face to face\""
+%}}
+
+### Jesus > Speaks for the Father as a messenger {#jesus-speaks-for-the-father-as-a-messenger}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament/#the-angel-sent-before-the-israelites-to-guard-them-on-the-way"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament"
+header-title="The angel sent before the Israelites to guard them on the way"
 %}}
 
 ## Josephus {#josephus}
@@ -1397,6 +1837,17 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-r
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Trinity Roles as Demonstrated in Gods Plan for Human History"
 header-title="The Victory of Salvation"
+%}}
+
+### Kenosis > Completely veiled Jesus's overwhelming divine glory during His First Advent {#kenosis-completely-veiled-jesus-s-overwhelming-divine-glory-during-his-first-advent}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament/#the-one-whom-moses-among-others-knew-and-spoke-to-face-to-face"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament"
+header-title="The one whom Moses (among others) knew and spoke to \"face to face\""
 %}}
 
 ### Kenosis > On the cross {#kenosis-on-the-cross}
@@ -1477,6 +1928,32 @@ page-title="However, if Our Parents Are Out of Line, There Are Exceptions"
 header-title="Should we step in if people aren't parenting how we would?"
 %}}
 
+## Messiah {#messiah}
+
+### Messiah > In the Old Testament {#messiah-in-the-old-testament}
+
+#### Messiah > In the Old Testament > Is clearly prophesied to suffer {#messiah-in-the-old-testament-is-clearly-prophesied-to-suffer}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/the-messiah-pre-figured-in-the-old-testament/#introduction-the-old-testament-s-portrayal-of-the-suffering-of-christ"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="The Messiah Pre-figured in the Old Testament"
+header-title="Introduction: the Old Testament's portrayal of the suffering of Christ"
+%}}
+
+#### Messiah > In the Old Testament > Is spoken of extensively {#messiah-in-the-old-testament-is-spoken-of-extensively}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/the-messiah-pre-figured-in-the-old-testament/#introduction-the-old-testament-s-portrayal-of-the-suffering-of-christ"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="The Messiah Pre-figured in the Old Testament"
+header-title="Introduction: the Old Testament's portrayal of the suffering of Christ"
+%}}
+
 ## Middle knowledge {#middle-knowledge}
 
 {{% subject-index-link
@@ -1532,6 +2009,19 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduct
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Introduction - The Essence of God"
 header-title="Q: We say God dwells in this unapproachable light that no one has seen nor ever can see. What then of cases in scripture where people seem to have \"seen God?\""
+%}}
+
+## Old Testament Believers {#old-testament-believers}
+
+### Old Testament Believers > Earnestly desired to have the knowledge we now have {#old-testament-believers-earnestly-desired-to-have-the-knowledge-we-now-have}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-old-testament/#matthew-22-41-46"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity in the Old Testament"
+header-title="Matthew 22:41-46"
 %}}
 
 ## Omniscience {#omniscience}
@@ -1771,13 +2261,66 @@ header-title="Prayers of the Believer"
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-old-testament/#given-the-benefit-of-subsequent-clarifying-new-testament-revelation-the-trinity-is-visible-in-the-old-testament"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity in the Old Testament"
+header-title="Given the benefit of subsequent clarifying New Testament revelation, the Trinity is visible in the Old Testament"
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-old-testament/#matthew-22-41-46"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity in the Old Testament"
+header-title="Matthew 22:41-46"
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
 link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-names-of-the-trinity-individual-names"
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Roles of the Trinity in the Plan of God"
 header-title="The Names of the Trinity: Individual Names"
 %}}
 
+### Progressive revelation > There are still plenty of matters veiled from us {#progressive-revelation-there-are-still-plenty-of-matters-veiled-from-us}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-old-testament/#matthew-22-41-46"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity in the Old Testament"
+header-title="Matthew 22:41-46"
+%}}
+
 ## Prophecy {#prophecy}
+
+### Prophecy > Old Testament {#prophecy-old-testament}
+
+#### Prophecy > Old Testament > Not just the person of the Messiah that is prophesied, but also His suffering {#prophecy-old-testament-not-just-the-person-of-the-messiah-that-is-prophesied-but-also-his-suffering}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/the-messiah-pre-figured-in-the-old-testament/#prophecy"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="The Messiah Pre-figured in the Old Testament"
+header-title="Prophecy"
+%}}
+
+#### Prophecy > Old Testament > Prophecies pointing towards Christ {#prophecy-old-testament-prophecies-pointing-towards-christ}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/the-messiah-pre-figured-in-the-old-testament/#prophecy"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="The Messiah Pre-figured in the Old Testament"
+header-title="Prophecy"
+%}}
 
 ### Prophecy > mechanics of {#prophecy-mechanics-of}
 
@@ -1788,6 +2331,41 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infi
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="God's Infinite Nature"
 header-title="The relationship between future prophecy and the time continuum"
+%}}
+
+## Prophetic foreshortening {#prophetic-foreshortening}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-old-testament/#prophetic-foreshortening"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity in the Old Testament"
+header-title="Prophetic foreshortening"
+%}}
+
+### Prophetic foreshortening > Examples {#prophetic-foreshortening-examples}
+
+#### Prophetic foreshortening > Examples > Coming of the Messiah {#prophetic-foreshortening-examples-coming-of-the-messiah}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-old-testament/#prophetic-foreshortening"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity in the Old Testament"
+header-title="Prophetic foreshortening"
+%}}
+
+#### Prophetic foreshortening > Examples > Trinity {#prophetic-foreshortening-examples-trinity}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-old-testament/#prophetic-foreshortening"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity in the Old Testament"
+header-title="Prophetic foreshortening"
 %}}
 
 ## Protoevangelium {#protoevangelium}
@@ -1887,6 +2465,17 @@ header-title="Walk of the Believer"
 %}}
 
 ## Satan {#satan}
+
+### Satan > Being replaced by Jesus Christ, a human being {#satan-being-replaced-by-jesus-christ-a-human-being}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament-introduction/#the-dignity-of-the-father"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament - Introduction"
+header-title="The dignity of the Father"
+%}}
 
 ### Satan > Is already positionally defeated {#satan-is-already-positionally-defeated}
 
@@ -2155,6 +2744,43 @@ page-title="How Does the Concept of Resuscitation Affect the Afterlife?"
 header-title="Interim bodies"
 %}}
 
+## The Angel of the Exodus {#the-angel-of-the-exodus}
+
+### The Angel of the Exodus > Is a pre-incarnate Jesus Christ, not an angel {#the-angel-of-the-exodus-is-a-pre-incarnate-jesus-christ-not-an-angel}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament/#the-angel-of-the-exodus"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament"
+header-title="The Angel of the Exodus"
+%}}
+
+## The Angel of the Lord {#the-angel-of-the-lord}
+
+### The Angel of the Lord > Inferentially must be a pre-incarnate Christ, since this being never appears again after the incarnation {#the-angel-of-the-lord-inferentially-must-be-a-pre-incarnate-christ-since-this-being-never-appears-again-after-the-incarnation}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament/#the-angel-of-the-lord-elsewhere"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament"
+header-title="The Angel of the Lord elsewhere"
+%}}
+
+### The Angel of the Lord > Is a pre-incarnate Jesus Christ, not an angel {#the-angel-of-the-lord-is-a-pre-incarnate-jesus-christ-not-an-angel}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament/#overview"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament"
+header-title="Overview"
+%}}
+
 ## The Word of God {#the-word-of-god}
 
 {{% subject-index-link
@@ -2166,7 +2792,29 @@ page-title="Trinity Roles as Demonstrated in Gods Plan for Human History"
 header-title="Revelation of the Word"
 %}}
 
+## Theology proper {#theology-proper}
+
+### Theology proper > Is not just some dusty academic subject, but is crucial in informing our worldview and decisions {#theology-proper-is-not-just-some-dusty-academic-subject-but-is-crucial-in-informing-our-worldview-and-decisions}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament/#conclusion"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament"
+header-title="Conclusion"
+%}}
+
 ## Theophany {#theophany}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament-introduction/#definition-of-theophany-and-christophany"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament - Introduction"
+header-title="Definition of Theophany and Christophany"
+%}}
 
 {{% subject-index-link
 content-type="Longer Topical"
@@ -2175,6 +2823,17 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduct
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Introduction - The Essence of God"
 header-title="Q: We say God dwells in this unapproachable light that no one has seen nor ever can see. What then of cases in scripture where people seem to have \"seen God?\""
+%}}
+
+### Theophany > All Old Testament Theophanies are in fact Christophanies {#theophany-all-old-testament-theophanies-are-in-fact-christophanies}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament-introduction/#definition-of-theophany-and-christophany"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament - Introduction"
+header-title="Definition of Theophany and Christophany"
 %}}
 
 ## Translation {#translation}
@@ -2256,6 +2915,17 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduct
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Introduction - The Trinity in the Bible"
 header-title="Is Jesus \"the Father's seed\"? Is the Holy Spirit \"the Father's spirit\"?"
+%}}
+
+### Trinity > Cannot be fully understood by humanity without the witness of the First Advent of Christ {#trinity-cannot-be-fully-understood-by-humanity-without-the-witness-of-the-first-advent-of-christ}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-old-testament/#the-person-of-jesus-christ-not-yet-come-as-an-explanation-for-god-s-veiling-of-his-nature"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity in the Old Testament"
+header-title="The person of Jesus Christ not yet come as an explanation for God's veiling of His nature"
 %}}
 
 ### Trinity > Definition {#trinity-definition}
@@ -2381,6 +3051,17 @@ page-title="Illustrating the Trinity"
 header-title="An illustration from the early church: the Trinity \"triangle\""
 %}}
 
+### Trinity > Is clearly visible in Old Testament, when viewed in light of the New Testament {#trinity-is-clearly-visible-in-old-testament-when-viewed-in-light-of-the-new-testament}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-old-testament/#given-the-benefit-of-subsequent-clarifying-new-testament-revelation-the-trinity-is-visible-in-the-old-testament"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity in the Old Testament"
+header-title="Given the benefit of subsequent clarifying New Testament revelation, the Trinity is visible in the Old Testament"
+%}}
+
 ### Trinity > Jointly partake in one single essence {#trinity-jointly-partake-in-one-single-essence}
 
 #### Trinity > Jointly partake in one single essence > Father {#trinity-jointly-partake-in-one-single-essence-father}
@@ -2417,6 +3098,15 @@ header-title="The Son and the Father are revealed to be uniquely God"
 %}}
 
 ### Trinity > Roles {#trinity-roles}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-old-testament/"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity in the Old Testament"
+
+%}}
 
 {{% subject-index-link
 content-type="Longer Topical"
@@ -2461,6 +3151,33 @@ header-title="Roles of the Trinity in the Plan of God"
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament-introduction/#the-dignity-of-the-father"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament - Introduction"
+header-title="The dignity of the Father"
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament-introduction/#the-inaccessibility-of-the-father-apart-from-christ"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament - Introduction"
+header-title="The inaccessibility of the Father apart from Christ"
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament-introduction/#the-invisibility-of-the-father"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament - Introduction"
+header-title="The invisibility of the Father"
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
 link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-father-the-1st-person-of-the-trinity"
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Roles of the Trinity in the Plan of God"
@@ -2483,10 +3200,30 @@ header-title="The Holy Spirit (the 3rd Person of the Trinity)"
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament-introduction/#the-visibility-accessibility-and-humility-of-the-son"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament - Introduction"
+header-title="The visibility, accessibility and humility of the Son"
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
 link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god/#the-son-the-2nd-person-of-the-trinity"
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Roles of the Trinity in the Plan of God"
 header-title="The Son (the 2nd Person of the Trinity)"
+%}}
+
+#### Trinity > Roles > The Son has always been the visible member of the Trinity {#trinity-roles-the-son-has-always-been-the-visible-member-of-the-trinity}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament-introduction/#overview"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament - Introduction"
+header-title="Overview"
 %}}
 
 ### Trinity > Scripture alone is sufficient for establishing the teaching {#trinity-scripture-alone-is-sufficient-for-establishing-the-teaching}
@@ -2592,6 +3329,15 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-membe
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="All Members of the Trinity Are Joint Partakers of the Same Essence"
 header-title="Key point: God is *three* in person, but that does *not* mean that the Trinity is composed of three (or more) different \"gods\""
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-old-testament/#idolatry-as-an-explanation-for-god-s-veiling-of-his-nature"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Introduction - The Trinity in the Old Testament"
+header-title="Idolatry as an explanation for God's veiling of His nature"
 %}}
 
 #### Trinity > What it is not > A union with inferiority or disparity between members {#trinity-what-it-is-not-a-union-with-inferiority-or-disparity-between-members}
@@ -2741,6 +3487,21 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perf
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="God's Perfect Character"
 header-title="\"How is it just for unbelievers to face infinite, eternal punishment for finite sins?\""
+%}}
+
+## Veil in Temple {#veil-in-temple}
+
+### Veil in Temple > Symbolic of separation from God {#veil-in-temple-symbolic-of-separation-from-god}
+
+#### Veil in Temple > Symbolic of separation from God > Torn in two after the cross {#veil-in-temple-symbolic-of-separation-from-god-torn-in-two-after-the-cross}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/appearances-of-christ-in-the-old-testament-introduction/#the-inaccessibility-of-the-father-apart-from-christ"
+study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
+page-title="Appearances of Christ in the Old Testament - Introduction"
+header-title="The inaccessibility of the Father apart from Christ"
 %}}
 
 ## Virtue thinking {#virtue-thinking}

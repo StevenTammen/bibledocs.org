@@ -113,10 +113,10 @@ Jesus most certainly does not say that it is a parable, although that is His pra
 ##### Jesus' describing Lazarus as "sleeping" in John 11 {#lazarus-and-jairus-daughter-are-they-sleeping-or-dead-jesus-describing-lazarus-as-sleeping-in-john-11}
 
 {{< subjects >}}
-<a href="/subject-index/#sleep-as-a-euphemism-for-death">Sleep > As a euphemism for death</a>
+<a href="/subject-index/#sleep-as-a-euphimism-for-death">Sleep > As a euphimism for death</a>
 <a href="/subject-index/#interpretation-challenges-different-cultures-use-different-idioms-metaphors-and-so-on">Interpretation > Challenges > Different cultures use different idioms, metaphors, and so on</a>
 <a href="/subject-index/#interpretation-sensitivity-to-the-cultural-context-of-the-audience-to-whom-the-text-was-written">Interpretation > Sensitivity to the cultural context of the audience to whom the text was written</a>
-<a href="/subject-index/#euphemism-use-in-scripture">Euphemism > Use in scripture</a>
+<a href="/subject-index/#euphimism-use-in-scripture">Euphimism > Use in scripture</a>
 {{< /subjects >}}
 <!-- p="John 11" -->
 
