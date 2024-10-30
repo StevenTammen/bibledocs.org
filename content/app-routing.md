@@ -17,13 +17,6 @@ title = "App Routing"
 
     var app = getQueryVariable("app");
 
-    // ms-settings:bluetooth
-    if(app == "ms-settings") {
-        var page = getQueryVariable("page");
-        window.location.href = "ms-settings:" + page;
-        window.close();
-    }
-
     // logosres:esv;ref=BibleESV.Is45.22
     else if(app == "logos") {
         var resource = getQueryVariable("resource");
@@ -33,16 +26,24 @@ title = "App Routing"
     }
 
     // olivetree://bible/romans.8.28
-    else if (app == "olivetree") {
+    else if (app == "olive-tree") {
         var ref = getQueryVariable("ref");
         window.location.href = "olivetree://bible/" + ref;
         window.close();
     }
 
-    // pycharm://open?file=/absolute/path/to/file.md
-    else if (app == "pycharm") {
-        var file = getQueryVariable("file");
-        window.location.href = "pycharm://open?file=" + file;
+    // http://localhost:63342/api/relative-path-to-file-in-currently-open-project/myfile.md
+    else if (app == "py-charm") {
+        var relativeFilePath = getQueryVariable("relative-file-path");
+        window.location.href = "http://localhost:63342/api/" + relativeFilePath;
         window.close();
     }
+
+    // potplayer://C:/some-directory/some-subdirectory/video.mp4
+    else if (app == "pot-player") {
+        var absoluteFilePath = getQueryVariable("absolute-file-path");
+        window.location.href = "potplayer://" + absoluteFilePath;
+        window.close();
+    }
+
 </script>
