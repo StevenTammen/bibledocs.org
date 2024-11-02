@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Slides</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="https://unpkg.com/littlefoot/dist/littlefoot.css" />
+  <link rel="stylesheet" href="/css/slides.css"/>
+ </head>
+ <body>
+  <textarea id="source">
+
+class: center, middle
+
+## First discussion
+
+
+
+---
+
+
+### Summary
+
+TODO
+---
+
+
+#### Outline
+
+- [Test header on discussion page](#4)
+
+---
+
+
+### Test header on discussion page
+
+Something something
+
+- A bullet point
+
+
+
+
+<!-- Footnote List -->
+<div class="footnotes">
+<ol>
+
+  </ol>
+</div>
+  
+
+---
+
+
+#### Outline
+
+- [Test header on discussion page](#4)
+
+
+
+  </textarea>
+  <script src="https://remarkjs.com/downloads/remark-latest.min.js">
+  </script>
+  <script>
+   var slideshow = remark.create({ ratio: "16:9" });
+  </script>
+<script
+src="https://unpkg.com/littlefoot/dist/littlefoot.js"
+type="application/javascript"
+></script>
+<script type="application/javascript"> littlefoot.default({
+    activateOnHover: true,
+    dismissOnUnhover: true,
+    hoverDelay: 200,
+    buttonTemplate: `
+    <button
+    aria-label="Footnote <% number %>"
+    class="littlefoot__button"
+    id="<% reference %>"
+    />
+    <% number %>
+    </button>
+    `,
+  }) </script>
+  <!-- RefTagger -->
+  <script>
+    var refTagger = {
+      settings: {
+        bibleVersion: "NASB",
+        convertHyperlinks: false,		
+        roundCorners: true,
+        socialSharing: [],
+        tagChapters: true
+      } 
+    };
+    
+    (function(d, t) { 
+      var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; 
+      g.src = 'https://api.reftagger.com/v2/RefTagger.js'; 
+      s.parentNode.insertBefore(g, s); 
+    }(document, 'script'));
+  </script>
+ </body>
+</html>
