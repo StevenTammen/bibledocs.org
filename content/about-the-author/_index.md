@@ -16,7 +16,7 @@ show-lists: true
     <img src="italy-picture.png" style="max-height: 300px;"/>
 </div>
 
-My name is Steven Tammen. I currently work in Warner Robins Georgia as a civilian employee of the [402 Software Engineering Group (SWEG)](https://www.linkedin.com/company/402d-sweg/), United States Air Force. My team in particular does full-stack web applications with C# ([ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core)) on the backend and [Angular](https://angular.io/) on the frontend.
+My name is Steven Tammen. I currently work in Warner Robins Georgia as a civilian employee of the [AFSC Software Directorate](https://www.linkedin.com/company/afsc-software/), United States Air Force. My team in particular does full-stack web applications with C# ([ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core)) on the backend and [Angular](https://angular.io/) on the frontend. At present, I am an assistant project manager, and help coordinate all the work for a group of ~18 software developers that are split into three separate scrum teams.
 
 <!-- TODO: explain why work at Air force position vs. something else, like a higher paying job in industry -->
 
