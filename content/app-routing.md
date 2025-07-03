@@ -18,7 +18,7 @@ title = "App Routing"
     var app = getQueryVariable("app");
 
     // logosres:esv;ref=BibleESV.Is45.22
-    else if(app == "logos") {
+    if(app == "logos") {
         var resource = getQueryVariable("resource");
         var ref = getQueryVariable("ref");
         window.location.href = "logosres:" + resource + ";ref=" + ref;
@@ -32,18 +32,20 @@ title = "App Routing"
         window.close();
     }
 
-    // http://localhost:63342/api/relative-path-to-file-in-currently-open-project/myfile.md
+    // http://localhost:63342/api/file/relative-path-to-file-in-currently-open-project/myfile.md
     else if (app == "py-charm") {
         var relativeFilePath = getQueryVariable("relative-file-path");
-        window.location.href = "http://localhost:63342/api/" + relativeFilePath;
-        window.close();
+        pyCharmApiPath = "http://localhost:63342/api/file/" + relativeFilePath;
+        req = new XMLHttpRequest();
+        req.onreadystatechange = function () {
+            if (req.readyState == XMLHttpRequest.DONE) {
+                window.close();
+            }
+        }
+        req.open("GET", pyCharmApiPath);
+        req.send();
     }
 
-    // potplayer://C:/some-directory/some-subdirectory/video.mp4
-    else if (app == "pot-player") {
-        var absoluteFilePath = getQueryVariable("absolute-file-path");
-        window.location.href = "potplayer://" + absoluteFilePath;
-        window.close();
-    }
+
 
 </script>
