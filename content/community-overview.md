@@ -4,15 +4,44 @@ title: Community Overview
 
 All the teaching materials on this site (text, video, and audio) are always available for your use, no matter where you may be in the world or what your schedule may be like. There is absolutely nothing wrong with never getting more involved than simply accessing the materials on this site as you see fit.
 
-For anyone who does want to get involved with a group of like-minded individuals also interested in these same things, however, this site does formally run a community.
+For anyone who does want to get involved with a group of like-minded individuals also interested in these same things, however, this site does formally run a community of sorts. Two communities in fact. Let me explain:
 
-At present, there are three primary community channels:
+## CrossTalk Bible Study vs. Ichthys Bible Study
 
-- WhatsApp
-- A web forum
-- Weekly in-person meetings, fully tied-in to Zoom so that non-local folks can participate
+I run two Bible studies every week (see [Community Meetings](/community-meetings)), and the communities this site runs are basically centered around these meetings.
 
-Following sections on this page will go into more detail about all three of these things. But before that, I'll go over specific sections within the community, and why things are divided up in this way.
+The two Bible studies are the CrossTalk Bible Study (which is probably what most people are interested in), and the Ichthys Bible Study (which is a different meeting where followers of [Ichthys](https://ichthys.com/) and other ministries in its orbit---like my own ministry---can meet to discuss things adjacent to the teachings of Ichthys). Everyone is welcome at both meetings, but what we talk about in the Ichthys Bible Study meetings will tend to be a bit less generally applicable to most Christians, since it relates to a particular flavor of Christian theology. You might compare how Presbyterians and Baptists have plenty of common ground, but still have their own specific theological beliefs that are generally only of interest to people who follow their branch of theology. Same general idea here. This certainly doesn't mean that people who don't agree with all of what Ichthys teaches aren't welcome---far from it. If you are interested in attending two Bible studies a week, then even if you don't read or follow Ichthys, there is no reason you can't come to the Ichthys Bible Study meetings alongside the CrossTalk Bible Study meetings. The structure is generally similar across the two Bible studies, so if you want more of the same, doing that will make good sense for you.
+
+## Community interaction
+
+Each of these two types of Bible studies has its own [GroupMe](https://groupme.com/) group chat where I post meeting info and recording info every week, as well as other general announcements. I also cross-post on a couple<!-- several --> other platforms, to give people a choice as to how they participate:
+
+- The [Signal](https://signal.org/) group chat is for international folks (GroupMe only works in the US) and folks who prefer only communicating with open-source E2EE apps. We settled on Signal instead of [WhatsApp](https://www.whatsapp.com/) or [Telegram](https://telegram.org/) or [WeChat](https://www.wechat.com/) or what have you due to Signal's excellent privacy features.
+- The [Discord](https://discord.com/) group chat is for people who already basically live in Discord, and would rather participate that way.
+
+You can join as many or as few of these as you want. Since I do cross-post announcements and such, the choice is really up to you. Many people do participate across multiple different platforms, so you don't have to only pick one. 
+
+Here are the invite links:
+
+CrossTalk Bible Study:
+
+- [GroupMe invite link](https://groupme.com/join_group/108517145/A4Aid3Kj)
+- [Signal invite link](https://signal.group/#CjQKILdsyB39hPYb7kDx242yhbZcFxJupTwmi_JsZQrrCHJiEhDkVCmnJxfWBtWAkI3MLgod)
+- [Discord invite link](https://discord.gg/Su8TUdJxcD)
+
+Ichthys Bible Study:
+
+- [GroupMe invite link](https://groupme.com/join_group/108517107/murGbD4P)
+- [Signal invite link](https://signal.group/#CjQKIFh6Hr0rqa-n8q0mXLcEOClWSxpQI1D_oJCUKhgs9C2wEhDP6uD2Hqynt3jfBCf2gzCb)
+- [Discord invite link](https://discord.gg/MPTVRMc)
+
+## Future plans
+
+I plan on also eventually setting up self-hosted web forums for each of these two types of Bible studies. Forums are great since they allow you to easily link to past posts and threads rather than old discussions getting completely buried by new discussions. In other words, forums are a lot better than other platforms in terms of allowing for the cross-referencing of conversations (in my opinion), which is why I see this as a worthwhile goal to pursue.
+
+I already have the forums somewhat set up, since I have for a while now been hosting private forums for a separate community (and can reuse a lot of what is there by just creating new visibility-locked sections rather than a completely new forum superstructure), but I want to make sure I completely dot my I's and cross my T's (so to speak) when adding new forum sections that anyone on the internet can join, since security needs to be a lot tighter when the forums are open and can be accessed by anyone who registers rather than only those who are explicitly invited. This other forum I already administer is invite-only, so that is why I will have extra work in setting up these new forum sections that are "of a different kind". This being the case, I don't really have an ETA at this time.
+
+<!-- 
 
 ## Different community sections
 
@@ -106,7 +135,7 @@ The fact that WhatsApp conversations tend to be more casual to begin with -- and
 
 Sometimes people end up directly messaging or calling each other too, individual-to-individual. That can be a very positive thing. We do ask that people respect the privacy of others though, and be careful to only get more personally involved if both sides truly want it.
 
-<!-- WhatsApp doesn't itself support much in the way of searching through and organizing past conversations, but it does have a plaintext export feature. I manually clean up the chat export and format it as a searchable HTML page so that we can still find things from past conversations. This file is kept up-to-date on the relevant pinned thread on the forum. (Don't worry, some text-editor magic means it really doesn't take me that long). -->
+<!-- WhatsApp doesn't itself support much in the way of searching through and organizing past conversations, but it does have a plaintext export feature. I manually clean up the chat export and format it as a searchable HTML page so that we can still find things from past conversations. This file is kept up-to-date on the relevant pinned thread on the forum. (Don't worry, some text-editor magic means it really doesn't take me that long).
 
 ## The forum
 
@@ -174,6 +203,7 @@ Other miscellaneous information:
 
 *For instructions on how to fill this form out, see [directly above](#instructions-for-filling-out-the-form)*.
 
+
 <form name="join-community" method="POST" data-netlify="true" style="border: 1px solid black; border-radius: 5px; padding: 5px 5px;">
   <div style="display:flex; padding: 5px 5px;">
     <label style="width: 4rem;">Name:</label>
@@ -211,3 +241,5 @@ $inputs.on('input', function () {
     $inputs.not(this).prop('required', !$(this).val().length);
 });
 </script>
+
+-->
