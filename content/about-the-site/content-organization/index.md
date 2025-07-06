@@ -28,7 +28,7 @@ TODO: videos and audio on archive.org, set up Podcasts and stream on Google Cast
 
 ### There will always tend to be at least some text content that is not yet backed by video and audio
 
-The order in which content is filled out is always text ➜ video/audio; that is, at any given point in time, there will almost certainly be some written studies on the site that I have not yet recorded the videos for. Making the videos<!--, ripping the audio, --> and then subsequently making the timestamps/transcripts is not terribly complicated, but it does take some time and effort.
+The order in which content is filled out is always text ➜ video/audio; that is, at any given point in time, there will almost certainly be some written studies on the site that I have not yet recorded the videos for. Making the videos<!--, ripping the audio, and then subsequently making the timestamps/transcripts--> is not terribly complicated, but it does take some time and effort.
 
 Once I have checked-over and polished some content, I may be comfortable releasing it on the site (in written form) before I really feel like it is the right time for me to make the video for it. It may prove to be useful to people in written form long before I might be able to get around to making the video, so why wouldn't I let people make use of it in this intervening period?
 
@@ -56,14 +56,14 @@ Other than these considerations, however, you can go with whichever medium works
 ### Content supporting all three communication mediums has many facets
 
 There are a great many things that go into the organization of content that spans across all three communication mediums:
-
-- A descriptive title
-- A link to the video playlist for the wider study the content is a part of
 <!--
 - A link to download the video for offline use (as an .mp4 file)
 - A link to download the audio for offline use (as an .mp3 file)
 -->
-- A link to see the full slides of the presentation
+
+- A descriptive title
+- A link to the video playlist for the wider study the content is a part of
+- A link to see the slides version of the content
 - A concise summary of the topics the content discusses
 - Full timestamps by topic (these apply to both the video and the audio)
 - The text of the slides laid out without divisions, to be able to read through it seamlessly, navigate via a dynamic table of contents, and search or skim through it without having to go slide-by-slide

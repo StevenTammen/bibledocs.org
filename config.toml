@@ -150,18 +150,18 @@ ignoreFiles = ["assessment\\.md$", "anki-flashcards\\.md$", "checklist\\.xlsx$"]
     weight = 2
     identifier = "community-meetings"
     url = "/community-meetings"
-  [[menu.community]]
-    name = "Forums"
-    pre = "<i class='fab fa-discourse fa-fw'></i>"
-    weight = 3
-    identifier = "forums"
-    url = "https://community.bibledocs.org/"
-  [[menu.community]]
-    name = "Prayer List"
-    pre = "<i class='fas fa-praying-hands fa-fw'></i>"
-    weight = 4
-    identifier = "prayer-list"
-    url = "/prayer-list/"
+#  [[menu.community]]
+#    name = "Forums"
+#    pre = "<i class='fab fa-discourse fa-fw'></i>"
+#    weight = 3
+#    identifier = "forums"
+#    url = "https://community.bibledocs.org/"
+#  [[menu.community]]
+#    name = "Prayer List"
+#    pre = "<i class='fas fa-praying-hands fa-fw'></i>"
+#    weight = 4
+#    identifier = "prayer-list"
+#    url = "/prayer-list/"
 #  [[menu.community]]
 #    name = "Contact Network"
 #    pre = "<i class='fas fa-address-book fa-fw'></i>"
@@ -218,11 +218,11 @@ ignoreFiles = ["assessment\\.md$", "anki-flashcards\\.md$", "checklist\\.xlsx$"]
     weight = 29
     identifier = "mailing-list"
     url = "/mailing-list/"
-  [[menu.meta]]  
-    name = "RSS"
-    pre = "<i class='fas fa-rss fa-fw'></i>"
-    weight = 30
-    identifier = "rss"
-    url = "/rss/"
+#  [[menu.meta]]  
+#    name = "RSS"
+#    pre = "<i class='fas fa-rss fa-fw'></i>"
+#    weight = 30
+#    identifier = "rss"
+#    url = "/rss/"
 	
 	
