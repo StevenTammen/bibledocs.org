@@ -1,0 +1,33 @@
+{{ $src := .Get "src" }}
+{{ $text := .Get "text" }}
+{{ $url := .Get "url" }}
+
+<div class="special-content cautionary-note">
+
+	<strong>
+		Note: The following contains discussion of content not original to me
+	</strong>
+	
+	<p>The following contains discussion of content that was <em>not</em> originally made by me. Please help the original content rank higher in the algorithms by viewing it at its original location, and also giving it a like and a comment and so on (if applicable):</p>
+
+	<ul>
+		<li>
+			<a href="{{ $url }}">{{ $text }}</a>
+		</li>
+	</ul>
+
+	<p>Also, be sure to follow/subscribe to/support the original content creator on all their platforms:</p>
+
+	{{ if eq (lower $src) "ichthys"}}
+	<ul>
+		<li>
+			Website: <a href="https://www/ichthys.com">Ichthys.com</a>
+		</li>
+	</ul>
+	{{ end }}
+
+	<p>The things labeled "summary points" on this page are highly derivative of the original content, since they are summarizing the original content.</p>
+
+	<!-- Please see [here]() for further discussion of how discussion content works on this site. -->
+		
+</div>
