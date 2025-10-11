@@ -1,24 +1,21 @@
 ---
-title: Discussion - Ichthys - Lesson 5 - Judgment, restoration, and replacement
-weight: 
-contentlevel: advanced
-layout: aggregation-page
-summary:
-    This discussion series is about lesson 5 of the Satanic Rebellion series from Ichthys. The original study is about God's complete plan for human history, split into seven millennial "days" that parallel the seven days of re-creation discussed in the early chapters of Genesis. Human history is playing out amidst wider phases of judgment, restoration, and replacement, as God's plan to redeem all creation proceeds to its inexorable conclusion, culminating in the creation of the New Heavens and New Earth.
+title: Discussion - Ichthys - The four ages of human history - Introduction
+date: "21 Sep 25 19:00 EST"
+weight: 80
+layout: content-page
+video: 
+playlist:
 ---
 
-<!-- aggregate-page-content -->
-
-## [Discussion - Ichthys - The four ages of human history - Introduction](/discussion/ichthys/longer-topical-studies/satanic-rebellion-series/lesson-5-judgment-restoration-and-replacement/the-four-ages-of-human-history-introduction) {#discussion-ichthys-the-four-ages-of-human-history-introduction}
 {{< subjects >}}
 
 {{< /subjects >}}
 
+{{% section-navigation %}}
 
+{{< discussion-note src="Ichthys" text="Part 5:  Judgment, Restoration, and Replacement" url="https://ichthys.com/Satans-Rebellion-Part5.htm" >}}
 
-{{< discussion-note src="Ichthys" text="Read Your Bible!" url="https://ichthys.com/readbible.htm" >}}
-
-### Video {#discussion-ichthys-the-four-ages-of-human-history-introduction-video}
+## Video {#video}
 
 - [Link to recording segments on Dropbox](https://www.dropbox.com/scl/fo/z5fx33jo43h6fg43cz5t9/ADUenNArTk1AWoTJZXxeRxU?rlkey=h6ul37rcznz03hw7665rtrb91&st=8b6aez93&dl=0)
 - [Link to slides](/slides/discussion/ichthys/longer-topical-studies/satanic-rebellion-series/lesson-5-judgment-restoration-and-replacement/the-four-ages-of-human-history-introduction)
@@ -35,23 +32,23 @@ slides=""
 
 -->
 
-### Summary {#discussion-ichthys-the-four-ages-of-human-history-introduction-summary}
+## Summary {#summary}
 
 The cherubim (the fourfold angelic guardians of God's chariot-throne), have taken over some of the responsibilities Satan used to have in his duties before his rebellion, but more importantly, also serve to point to Satan's true replacement: Jesus Christ, the God-Man. Each of the four faces that these angels possess represents a "mission" that Jesus has undertaken/will undertake as humanity's liberator and champion.
 
 <!--
 
-### Timestamps {#discussion-ichthys-the-four-ages-of-human-history-introduction-timestamps}
+## Timestamps {#timestamps}
 
 -->
 
-{{% toggleable-content %}}
+{{% content %}}
 
-### Content {#discussion-ichthys-the-four-ages-of-human-history-introduction-content}
+## Content {#content}
 
 <!-- --- -->
 
-#### Text-to-speech clip {#discussion-ichthys-the-four-ages-of-human-history-introduction-text-to-speech-clip}
+### Text-to-speech clip {#text-to-speech-clip}
 
 <audio controls
   preload="auto" 
@@ -83,7 +80,7 @@ As we saw in the first installment of this series, Satan, in his role as Lucifer
 
 <!-- --- -->
 
-#### Summary points {#discussion-ichthys-the-four-ages-of-human-history-introduction-summary-points}
+### Summary points {#summary-points}
 
 Satan used to be the pre-eminent created creature. After His rebellion he was replaced by four elect angelic creatures known as the cherubim.
 
@@ -109,7 +106,7 @@ In line with that underlying replacement, the function of the cherubim from the 
 
 <!-- --- -->
 
-#### Follow-on topics {#discussion-ichthys-the-four-ages-of-human-history-introduction-follow-on-topics}
+### Follow-on topics {#follow-on-topics}
 
 Sometimes I think we get so used to thinking about Satan as an architect of evil that we forget that he used to be in the highest position of authority in the entire created universe. In many ways, this makes his rebellion all the greater a betrayal. If God is analogous to a human king (well, really it is the other way around in terms of true symbolism, but you get the idea), then Satan's rebellion was akin to a *coup d'état* led by the king's closest subordinate. That sort of knife in the back is in many respects the most heartbreaking kind.
 
@@ -125,25 +122,24 @@ We have repeatedly emphasized how all history is ultimately about Jesus Christ, 
 
 {{% video-only %}}
 
-#### Further discussion {#discussion-ichthys-the-four-ages-of-human-history-introduction-further-discussion}
+### Further discussion {#further-discussion}
 
 {{% video-only-note %}}
 
 {{% /video-only %}}
 
-{{% /toggleable-content %}}
+{{% /content %}}
 
 <!--
 
-{{% toggleable-transcript %}}
+{{% transcript %}}
 
-### Video/audio transcript {#discussion-ichthys-the-four-ages-of-human-history-introduction-video-audio-transcript}
+## Video/audio transcript {#video-audio-transcript}
 
 
 
-{{% /toggleable-transcript %}}
+{{% /transcript %}}
 
 -->
 
-
-<!-- aggregate-page-content -->
+{{% section-navigation %}}
