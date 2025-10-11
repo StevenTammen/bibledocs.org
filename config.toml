@@ -76,6 +76,18 @@ ignoreFiles = ["assessment\\.md$", "anki-flashcards\\.md$", "checklist\\.xlsx$"]
 #    weight = 2
 #    identifier = "topical-studies"
 #    url = "/topical-studies/"
+  [[menu.content]]
+    name = "CrossTalk Bible Study"
+    pre = "<i class='fas fa-file-alt fa-fw'></i>"
+    weight = 1
+    identifier = "crosstalk-bible-study"
+    url = "/crosstalk-bible-study/"
+  [[menu.content]]
+    name = "Icthys Bible Study"
+    pre = "<i class='fas fa-file-alt fa-fw'></i>"
+    weight = 2
+    identifier = "ichthys-bible-study"
+    url = "/ichthys-bible-study/"
 #  [[menu.content]]
 #    name = "Pages"
 #    pre = "<i class='fas fa-file-alt fa-fw'></i>"
@@ -85,25 +97,25 @@ ignoreFiles = ["assessment\\.md$", "anki-flashcards\\.md$", "checklist\\.xlsx$"]
   [[menu.content]]
     name = "Shorter Topical"
     pre = "<i class='fab fa-youtube fa-fw'></i>"
-    weight = 1
+    weight = 3
     identifier = "shorter-topical-studies"
     url = "/shorter-topical-studies/"
   [[menu.content]]
     name = "Longer Topical"
     pre = "<i class='fab fa-youtube fa-fw'></i>"
-    weight = 2
+    weight = 4
     identifier = "longer-topical-studies"
     url = "/longer-topical-studies/"
   [[menu.content]]
     name = "Verse-by-verse"
     pre = "<i class='fab fa-youtube fa-fw'></i>"
-    weight = 3
+    weight = 5
     identifier = "verse-by-verse-studies"
     url = "/verse-by-verse-studies/"
   [[menu.content]]
     name = "Q&As"
     pre = "<i class='fab fa-youtube fa-fw'></i>"
-    weight = 4
+    weight = 6
     identifier = "questions-and-answers"
     url = "/questions-and-answers/"
 #  [[menu.content]]
