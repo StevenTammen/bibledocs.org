@@ -1,11 +1,11 @@
 ---
-date: 2025-09-21T15:00:00
+date: 2025-10-26T15:00:00
 domain: —pb-d-ichthys=l
-title: "The four ages of human history: Introduction (src: Ichthys)"
+title: "The five dispensational divisions of human history (src: Ichthys)"
 stags: 
 ptags: 
 
-weight: 90
+weight: 110
 category: Ichthys Bible Study
 layout: content-page
 ---

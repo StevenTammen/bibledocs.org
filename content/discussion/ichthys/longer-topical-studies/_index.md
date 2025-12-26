@@ -1,5 +1,5 @@
 ---
-title: Discussion - Ichthys - Longer topical studies
+title: "Longer topical studies (src: Ichthys)"
 layout: list-page
 summary:
     This section contains discussion series based on longer topical studies from Ichthys.

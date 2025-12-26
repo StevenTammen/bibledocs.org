@@ -1,11 +1,11 @@
 ---
-date: 2025-09-21T15:00:00
+date: 2025-08-10T15:00:00
 domain: —pb-d-ichthys=l
-title: "The four ages of human history: Introduction (src: Ichthys)"
+title: "Introduction: Sanctification and the Plan of God (src: Ichthys)"
 stags: 
 ptags: 
 
-weight: 90
+weight: 10
 category: Ichthys Bible Study
 layout: content-page
 ---

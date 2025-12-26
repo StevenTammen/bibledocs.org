@@ -1,11 +1,11 @@
 ---
-date: 2025-09-21T15:00:00
+date: 2025-08-24T15:00:00
 domain: —pb-d-ichthys=l
-title: "The four ages of human history: Introduction (src: Ichthys)"
+title: "The two phases of human history: Introduction (src: Ichthys)"
 stags: 
 ptags: 
 
-weight: 90
+weight: 50
 category: Ichthys Bible Study
 layout: content-page
 ---

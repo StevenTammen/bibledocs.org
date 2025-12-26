@@ -1,11 +1,11 @@
 ---
-date: 2025-10-04T19:00:00
+date: 2025-09-06T19:00:00
 domain: —pb-d-ichthys=s
-title: "Specifics relating to reading the Bible (src: Ichthys)"
+title: "The Bible as our standard of evaluation (src: Ichthys)"
 stags: 
 ptags: 
 
-weight: 40
+weight: 10
 category: CrossTalk Bible Study
 layout: content-page
 ---

@@ -1,11 +1,11 @@
 ---
-date: 2025-10-04T19:00:00
+date: 2025-09-20T19:00:00
 domain: —pb-d-ichthys=s
-title: "Specifics relating to reading the Bible (src: Ichthys)"
+title: "Excuses people give for not reading the Bible (src: Ichthys)"
 stags: 
 ptags: 
 
-weight: 40
+weight: 20
 category: CrossTalk Bible Study
 layout: content-page
 ---

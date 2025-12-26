@@ -1,11 +1,11 @@
 ---
-date: 2025-09-21T15:00:00
+date: 2025-08-10T16:00:00
 domain: —pb-d-ichthys=l
-title: "The four ages of human history: Introduction (src: Ichthys)"
+title: "Judgement, restoration, and replacement I (src: Ichthys)"
 stags: 
 ptags: 
 
-weight: 90
+weight: 20
 category: Ichthys Bible Study
 layout: content-page
 ---
