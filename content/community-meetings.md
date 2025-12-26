@@ -14,9 +14,25 @@ The calendar is also embedded below for quick reference:
 
 <iframe src="https://calendar.google.com/calendar/embed?src=64glk00tql51oucld0l2rorhr0%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
+Our community has its own [GroupMe](https://groupme.com/) group chat where I post meeting info and recording info every week, as well as other general announcements. I also cross-post on a couple other platforms, to give people a choice as to how they participate:
+
+- The [Signal](https://signal.org/) group chat is for international folks (GroupMe only works in the US) and folks who prefer only communicating with open-source E2EE apps. We settled on Signal instead of [WhatsApp](https://www.whatsapp.com/) or [Telegram](https://telegram.org/) or [WeChat](https://www.wechat.com/) or what have you due to Signal's excellent privacy features.
+- The [Discord](https://discord.com/) group chat is for people who already basically live in Discord, and would rather participate that way.
+
+You can join as many or as few of these as you want. Since I do cross-post announcements and such, the choice is really up to you. Many people do participate across multiple different platforms, so you don't have to only pick one. 
+
+Here are the invite links:
+
+- [GroupMe invite link](https://groupme.com/join_group/108517145/A4Aid3Kj)
+- [Signal invite link](https://signal.group/#CjQKILdsyB39hPYb7kDx242yhbZcFxJupTwmi_JsZQrrCHJiEhDkVCmnJxfWBtWAkI3MLgod)
+- [Discord invite link](https://discord.gg/Su8TUdJxcD)
+
+
+<!--
+
 Note that this calendar includes meetings for two types of Bible studies: the CrossTalk Bible Study (which is probably what most people are interested in), and the Ichthys Bible Study (which is a different meeting where followers of [Ichthys](https://ichthys.com/) and other ministries in its orbit---like my own ministry---can meet to discuss things adjacent to the teachings of Ichthys). Everyone is welcome at both meetings, but what we talk about in the Ichthys Bible Study meetings will tend to be a bit less generally applicable to most Christians, since it relates to a particular flavor of Christian theology. You might compare how Presbyterians and Baptists have plenty of common ground, but still have their own specific theological beliefs that are generally only of interest to people who follow their branch of theology. Same general idea here. This certainly doesn't mean that people who don't agree with all of what Ichthys teaches aren't welcome---far from it. If you are interested in attending two Bible studies a week, then even if you don't read or follow Ichthys, there is no reason you can't come to the Sunday Ichthys Bible Study meetings alongside the Saturday CrossTalk Bible Study meetings. The structure is generally similar across the two Bible studies, so if you want more of the same, doing that will make good sense for you.
 
-Each of these two types of Bible studies has its own [GroupMe](https://groupme.com/) group chat where I post meeting info and recording info every week, as well as other general announcements. I also cross-post on a couple<!-- several --> other platforms, to give people a choice as to how they participate:
+Each of these two types of Bible studies has its own [GroupMe](https://groupme.com/) group chat where I post meeting info and recording info every week, as well as other general announcements. I also cross-post on a couple other platforms, to give people a choice as to how they participate:
 
 - The [Signal](https://signal.org/) group chat is for international folks (GroupMe only works in the US) and folks who prefer only communicating with open-source E2EE apps. We settled on Signal instead of [WhatsApp](https://www.whatsapp.com/) or [Telegram](https://telegram.org/) or [WeChat](https://www.wechat.com/) or what have you due to Signal's excellent privacy features.
 - The [Discord](https://discord.com/) group chat is for people who already basically live in Discord, and would rather participate that way.
@@ -36,6 +52,8 @@ Ichthys Bible Study:
 - [GroupMe invite link](https://groupme.com/join_group/108517107/murGbD4P)
 - [Signal invite link](https://signal.group/#CjQKIFh6Hr0rqa-n8q0mXLcEOClWSxpQI1D_oJCUKhgs9C2wEhDP6uD2Hqynt3jfBCf2gzCb)
 - [Discord invite link](https://discord.gg/MPTVRMc)
+
+-->
 
 #### Why Saturday evenings for the CrossTalk Bible Study meeting time?
 
@@ -91,9 +109,15 @@ Finding this form of fully-realized unity in the truth (no matter our other diff
 
 All of our Bible studies are recorded so that people who miss a week (for whatever reason) can easily catch back up, and also so that it is possible for anyone interested to go back through the discussions over time to revisit them. This is especially useful after it has been months or years, and remembrance has started to fade; repetition is essential to the learning process. Additionally, having this backlog of past recordings also lets new group members benefit from all of our past discussions too.
 
+These recordings *will* eventually end up posted publicly on the internet on [this ministry's YouTube channel](https://www.youtube.com/@BibleDocs), so if that is a concern for you, do be careful what you say when the recording is rolling.
+
+<!--
+
 However, **none of these recordings are posted publicly to the internet, but only shared within the group chats**. This is important for a couple reasons:
 
 - It helps protect our privacy
 - It means we can talk more freely and generally have to be less guarded about what we say, since the recordings will not end up publicly memorialized for all time on the internet
 
 These recordings are for us and only us, basically. I do create public Bible study content on [the YouTube channel](https://www.youtube.com/@BibleDocs), but nowadays none of that content comes from our group meeting recordings. (This did not used to be the case; this is a change as of 2025).
+
+-->

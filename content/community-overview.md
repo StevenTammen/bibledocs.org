@@ -4,7 +4,25 @@ title: Community Overview
 
 All the teaching materials on this site (text, video, and audio) are always available for your use, no matter where you may be in the world or what your schedule may be like. There is absolutely nothing wrong with never getting more involved than simply accessing the materials on this site as you see fit.
 
-For anyone who does want to get involved with a group of like-minded individuals also interested in these same things, however, this site does formally run a community of sorts. Two communities in fact. Let me explain:
+For anyone who does want to get involved with a group of like-minded individuals also interested in these same things, however, this site does formally run a community of sorts. 
+
+Our community has its own [GroupMe](https://groupme.com/) group chat where I post meeting info and recording info every week, as well as other general announcements. I also cross-post on a couple other platforms, to give people a choice as to how they participate:
+
+- The [Signal](https://signal.org/) group chat is for international folks (GroupMe only works in the US) and folks who prefer only communicating with open-source E2EE apps. We settled on Signal instead of [WhatsApp](https://www.whatsapp.com/) or [Telegram](https://telegram.org/) or [WeChat](https://www.wechat.com/) or what have you due to Signal's excellent privacy features.
+- The [Discord](https://discord.com/) group chat is for people who already basically live in Discord, and would rather participate that way.
+
+You can join as many or as few of these as you want. Since I do cross-post announcements and such, the choice is really up to you. Many people do participate across multiple different platforms, so you don't have to only pick one. 
+
+Here are the invite links:
+
+- [GroupMe invite link](https://groupme.com/join_group/108517145/A4Aid3Kj)
+- [Signal invite link](https://signal.group/#CjQKILdsyB39hPYb7kDx242yhbZcFxJupTwmi_JsZQrrCHJiEhDkVCmnJxfWBtWAkI3MLgod)
+- [Discord invite link](https://discord.gg/Su8TUdJxcD)
+
+
+<!--
+
+Two communities in fact. Let me explain:
 
 ## CrossTalk Bible Study vs. Ichthys Bible Study
 
@@ -14,7 +32,7 @@ The two Bible studies are the CrossTalk Bible Study (which is probably what most
 
 ## Community interaction
 
-Each of these two types of Bible studies has its own [GroupMe](https://groupme.com/) group chat where I post meeting info and recording info every week, as well as other general announcements. I also cross-post on a couple<!-- several --> other platforms, to give people a choice as to how they participate:
+Each of these two types of Bible studies has its own [GroupMe](https://groupme.com/) group chat where I post meeting info and recording info every week, as well as other general announcements. I also cross-post on a couple other platforms, to give people a choice as to how they participate:
 
 - The [Signal](https://signal.org/) group chat is for international folks (GroupMe only works in the US) and folks who prefer only communicating with open-source E2EE apps. We settled on Signal instead of [WhatsApp](https://www.whatsapp.com/) or [Telegram](https://telegram.org/) or [WeChat](https://www.wechat.com/) or what have you due to Signal's excellent privacy features.
 - The [Discord](https://discord.com/) group chat is for people who already basically live in Discord, and would rather participate that way.
@@ -40,6 +58,8 @@ Ichthys Bible Study:
 I plan on also eventually setting up self-hosted web forums for each of these two types of Bible studies. Forums are great since they allow you to easily link to past posts and threads rather than old discussions getting completely buried by new discussions. In other words, forums are a lot better than other platforms in terms of allowing for the cross-referencing of conversations (in my opinion), which is why I see this as a worthwhile goal to pursue.
 
 I already have the forums somewhat set up, since I have for a while now been hosting private forums for a separate community (and can reuse a lot of what is there by just creating new visibility-locked sections rather than a completely new forum superstructure), but I want to make sure I completely dot my I's and cross my T's (so to speak) when adding new forum sections that anyone on the internet can join, since security needs to be a lot tighter when the forums are open and can be accessed by anyone who registers rather than only those who are explicitly invited. This other forum I already administer is invite-only, so that is why I will have extra work in setting up these new forum sections that are "of a different kind". This being the case, I don't really have an ETA at this time.
+
+-->
 
 <!-- 
 
