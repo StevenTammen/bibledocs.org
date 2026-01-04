@@ -180,8 +180,25 @@ a {
   text-decoration: none;
 }
 
-table, th, td {
-  border: 1px solid black;
+table {
+	margin: auto
+}
+
+th {
+	background: #333;
+	color: #f7f7f7;
+	font-weight: bold;
+}
+
+tr:nth-child(even) {
+	background-color: #f2f2f2;
+}
+
+td,
+th {
+	padding: 10px;
+	border: 1px solid #999;
+	text-align: left;
 }
 
 /* Special content sections */
