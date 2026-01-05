@@ -1,0 +1,22 @@
+{{ if (.Get "srcmp3audiourl") }}
+
+<audio
+  controls
+  preload="auto" 
+  src="{{ .Get "srcmp3audiourl" }}#t={{ .Get "srcstart" | safeHTML }},{{ .Get "srcend" | safeHTML }}"
+  title="{{ .Get "srctitle" }}">
+
+{{ else if (.Get "srcyoutubevideoid") }}
+
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/{{ .Get "srcyoutubevideoid" }}?start={{ .Get "srcstart" }}&end={{ .Get "srcend" }}"
+  title="{{ .Get "srctitle" }}"
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allowfullscreen>
+</iframe>
+
+{{ end }}

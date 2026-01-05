@@ -6,7 +6,7 @@ stags:
 ptags: 
 
 category: CrossTalk Bible Study
-layout: content-page
+layout: single-page
 ---
 
 Coming soon!
