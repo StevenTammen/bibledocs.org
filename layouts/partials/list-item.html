@@ -11,5 +11,5 @@
 		<a href="javascript:showSummary('{{$idString}}');" class="list-item-summary-toggle show {{$idString}}"><i class="fas fa-plus fa-fw"></i></a>
 		<a href="javascript:hideSummary('{{$idString}}');" class="list-item-summary-toggle hide {{$idString}}"><i class="fas fa-times fa-fw"></i></a>
 	</div>
-	<a href="{{ .Permalink }}" class="list-item-summary-section {{$idString}}">{{ .Params.summary }}</a>
+	<div class="list-item-summary-section {{$idString}}">{{ .Summary }}</div>
 </div>
