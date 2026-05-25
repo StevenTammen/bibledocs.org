@@ -1,17 +1,52 @@
+
+{{/* srcstart is neither missing nor an empty string. */}}
+{{ $hasSrcStart := .Get "srcstart" }}
+
+{{/* srcend is neither missing nor an empty string. */}}
+{{ $hasSrcEnd := .Get "srcend" }}
+
+{{/* If embedding audio */}}
 {{ if (.Get "srcmp3audiourl") }}
 
-<audio
-  controls
-  preload="auto" 
-  src="{{ .Get "srcmp3audiourl" }}#t={{ .Get "srcstart" | safeHTML }},{{ .Get "srcend" | safeHTML }}"
-  title="{{ .Get "srctitle" }}">
+{{ $srcmp3audiourl := .Get "srcmp3audiourl" }}
 
+{{ $srcstart := "00:00" }}
+{{ if $hasSrcStart }}
+  {{ $srcstart = .Get "srcstart" }}
+{{ end }}
+
+{{ $srcend := "" }}
+{{ if $hasSrcEnd }}
+  {{ $srcend = printf ",%s" (.Get "srcend") }}
+{{ end }}
+
+{{ $audiourl := printf "%s#t=%s%s" $srcmp3audiourl $srcstart $srcend }}
+
+<audio controls preload="auto" title="{{ .Get "srctitle" }}">
+  <source src="{{ $audiourl }}" type="audio/mpeg">
+</audio>
+
+{{/* If embedding video */}}
 {{ else if (.Get "srcyoutubevideoid") }}
+
+{{ $srcyoutubevideoid := .Get "srcyoutubevideoid" }}
+
+{{ $srcstart := "0" }}
+{{ if $hasSrcStart }}
+  {{ $srcstart = .Get "srcstart" }}
+{{ end }}
+
+{{ $srcend := "" }}
+{{ if $hasSrcEnd }}
+  {{ $srcend = printf "&end=%s" (.Get "srcend") }}
+{{ end }}
+
+{{ $videourl := printf "https://www.youtube.com/embed/%s?start=%s%s" $srcyoutubevideoid $srcstart $srcend }}
 
 <iframe
   width="560"
   height="315"
-  src="https://www.youtube.com/embed/{{ .Get "srcyoutubevideoid" }}?start={{ .Get "srcstart" }}&end={{ .Get "srcend" }}"
+  {{ printf "src=%q" $videourl | safeHTMLAttr }}
   title="{{ .Get "srctitle" }}"
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
