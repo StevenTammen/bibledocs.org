@@ -8,7 +8,8 @@
 	<div class="container">
 		{{ if .Truncated }}
 		    {{ $summaryLen := sub (len .Summary) 1 }}
-		    {{ substr .Content $summaryLen | safeHTML }}
+		    {{ $onlyContent := substr .Content $summaryLen | safeHTML }}
+		    {{ $onlyContent | strings.TrimPrefix ">" | safeHTML }}
 		{{ else }}
 		    {{ .Content }}
 		{{ end }}
