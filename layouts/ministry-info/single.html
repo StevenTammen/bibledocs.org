@@ -10,7 +10,7 @@
 			{{ partial "in-progress.html" . }}
 		{{ end }}
 		{{ if .Truncated }}
-		    {{ $summaryLen := len .Summary }}
+		    {{ $summaryLen := sub (len .Summary) 1 }}
 		    {{ substr .Content $summaryLen | safeHTML }}
 		{{ else }}
 		    {{ .Content }}
