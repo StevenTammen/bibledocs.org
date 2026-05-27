@@ -7,8 +7,9 @@ stags:
 ptags: 
 
 weight: 90
+contentlevel: intermediate
 category: CrossTalk Bible Study
-layout: content-page
+layout: single-page
 ---
 
 Contrary to prevailing misconceptions, the Middle Ages did not merely consist of people laboring through their miserable lives only to die an early death. Although this time period had certain customs and beliefs that we in the 21st century might find odd, the world during this time was not completely lacking in hygiene, money, art, or medicine. Many interesting artistic, theological and literary developments occurred during the Middle Ages. 

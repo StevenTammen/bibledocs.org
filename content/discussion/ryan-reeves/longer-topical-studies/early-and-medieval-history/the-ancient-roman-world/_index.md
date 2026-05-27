@@ -6,8 +6,9 @@ stags:
 ptags: 
 
 weight: 20
+contentlevel: intermediate
 category: CrossTalk Bible Study
-layout: content-page
+layout: single-page
 ---
 
 At the time the gospel spread throughout the Mediterranean in the first century AD, it mostly traveled through parts of the world under Roman control. For this reason, it is beneficial to examine Roman society and culture to help us get a better understanding of this world of the Early Church. Roman society influenced both Jewish and Christian communities and religious expression, and while the New Testament may have ended up written in Greek not Latin, the influence of Roman society and culture can nonetheless be felt all throughout, once you know to look for it.

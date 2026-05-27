@@ -8,8 +8,9 @@ stags:
 ptags: 
 
 weight: 70
+contentlevel: intermediate
 category: CrossTalk Bible Study
-layout: content-page
+layout: single-page
 ---
 
 While some credit the early Church Councils and Creeds with developing doctrine, they primarily sought to refine the theological terminology used to describe biblical doctrines (doctrines which Christians undoubtedly believed long prior to these formal meetings). Church Councils sought to clarify how the Church discussed theological concepts, often in response to heresy. Modalism (the concept that God is one being, yet shows Himself in three different "modes") was one of the earliest heresies regarding the relationship between the Father and the Son (and the Spirit). Modalism was rejected by the Church due to its incompatibility with the truth of Scripture. Alternative explanations arose in response, including Arianism, which denies that Christ is co-eternal with the Father. In short, while giving us useful historical background to contextualize theological points, the determinations of Church Councils and Creeds are not the basis for our theological positions; that is a place reserved for the Bible alone. 

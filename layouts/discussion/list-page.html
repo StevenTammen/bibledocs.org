@@ -15,7 +15,7 @@
   
 	<!-- {{ partial "content-list-weight-then-title" . }} -->
 		
-	{{ range .Sections.ByTitle }}
+	{{ range .Sections.ByWeight }}
 
 		{{ partial "list-item" . }}
 	<!-- <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>

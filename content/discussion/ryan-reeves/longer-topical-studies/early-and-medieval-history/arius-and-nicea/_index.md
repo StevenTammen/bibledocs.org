@@ -8,8 +8,9 @@ stags:
 ptags:
 
 weight: 80
+contentlevel: intermediate
 category: CrossTalk Bible Study
-layout: content-page
+layout: single-page
 ---
 
 To properly understand the council of Nicea, we must understand the historical, political, and spiritual backdrop surrounding that event. Constantine had come to the throne and unified the empire after the civil wars of the Diocletian era, and likely wanted to promote a unified and undivided Christianity. Heresies related to the doctrine of the Trinity were spreading. With anti-Modalism at its roots, Arius and others were teaching that the Father, Son and Spirit do not share the same essence but have unity of will, describing the Father as the “Unbegotton One” and teaching that the Son is a mere creature. In response to the threat of Arianism, some bishops prevailed upon Constantine to support an ecumenical council, thus giving Arians and Non-Arians a chance to discuss the doctrine of the Trinity. Alexander of Alexandria convinced the other bishops that Arianism violated a plain reading of Scripture and causes problems with soteriology. Those attending the Council of Nicea sought to affirm the unity of God while also affirming the proper division between the Father and the Son, and the Nicene Creed resulted.

@@ -6,8 +6,9 @@ stags:
 ptags: 
 
 weight: 50
+contentlevel: intermediate
 category: CrossTalk Bible Study
-layout: content-page
+layout: single-page
 ---
 
 TODO: Summary
