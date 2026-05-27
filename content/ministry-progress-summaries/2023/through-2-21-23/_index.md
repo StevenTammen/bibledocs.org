@@ -4,9 +4,9 @@ weight: 30
 layout: content-page
 ---
 
-{{< subjects >}}
+This cycle ran long on account of me being busy getting set up and established at some local church fellowships. That said, I got 16 (!) new content pages up on the site, making this the biggest content release since the beginning of this ministry. I'll see if I can keep up the pace as we move forward into the future. Prayers appreciated!
 
-{{< /subjects >}}
+<!--more-->
 
 {{% section-navigation %}}
 
@@ -22,7 +22,11 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2023/throug
 
 ## Summary {#summary}
 
+
+
 This cycle ran long on account of me being busy getting set up and established at some local church fellowships. That said, I got 16 (!) new content pages up on the site, making this the biggest content release since the beginning of this ministry. I'll see if I can keep up the pace as we move forward into the future. Prayers appreciated!
+
+
 
 ## Timestamps {#timestamps}
 

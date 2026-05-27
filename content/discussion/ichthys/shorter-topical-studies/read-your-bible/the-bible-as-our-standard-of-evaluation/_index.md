@@ -10,4 +10,293 @@ category: CrossTalk Bible Study
 layout: content-page
 ---
 
-Coming soon!
+TODO: Summary
+
+<!--more-->
+
+{{% section-navigation %}}
+
+{{< discussion-note src="Ichthys" text="Read Your Bible! - A Basic Christian Right and Responsibility" url="https://ichthys.com/readbible.htm" >}}
+
+## Video {#video}
+
+- [Link to recording segments on Dropbox](https://www.dropbox.com/scl/fo/dkyf3cj7i059g96l8pthu/AEY8WF5ffhEqzxpa5u_MJ2o?rlkey=wt5j3prvt4xh40enp1gpwkfli&st=swf9fhmv&dl=0)
+
+## Summary {#summary}
+
+
+
+TODO: Summary
+
+
+
+{{% content %}}
+
+## Content {#content}
+
+<!-- --- -->
+
+### Verifying Bible teaching against the Bible {#verifying-bible-teaching-against-the-bible}
+
+#### Audio clip from Ichthys {#audio-clip-from-ichthys}
+
+{{< properties 
+
+srcmp3audiourl="https://ichthys.com/MP3/read-your-bible-ak.mp3"
+srctitle="Read Your Bible! - A Basic Christian Right and Responsibility"
+srcstart=""
+srcend=""
+
+>}}
+
+<!-- --- -->
+
+{{% quote src="https://ichthys.com/readbible.htm" text="Ichthys" %}}
+
+This site, [Ichthys.com](https://ichthys.com/index.htm), is a ministry devoted to Christian spiritual growth through detailed Bible study. One *very important principle* that should be accepted as an essential prerequisite to any directed Bible study such as this site provides is that Christians should ***read the Bible*** for themselves every day without fail!
+
+<!-- --- -->
+
+**The Example of the Bereans**:
+
+{{% ichthys-translation p="Acts 17:11" %}}
+
+Now the [Bereans] were more honorable in character than the people of Thessalonika, for they received the Word with great enthusiasm, while examining the scriptures for verification of what [they were being taught].
+
+{{% /ichthys-translation %}}
+
+Rather than criticizing these early believers for "checking out" the veracity of what had been taught to them by the apostle Paul, this verse actually praises them for doing so. And while it is clear from the Greek text that the Bereans are being applauded here primarily for their enthusiastic acceptance of the Gospel, this verse *also* - so far from *condemning* them for a lack of trust - actually *commends* them for their action. This verse plainly approves the practice of taking the time and interest to <u>***consult the scriptures***</u> in order to establish the veracity of what is being taught. We find this to be a most reasonable approach, for:
+
+<!-- --- -->
+
+> ☑ ***If what is taught is really true, then the scriptures will clearly confirm it.***
+
+It is true that taking advantage of accurate Bible teaching *is* an important part of the believer's spiritual growth. Indeed, that is the whole point of this ministry. Furthermore, the provision of Bible teaching is an undisputed ministry of God the Holy Spirit (Eph.4:11-16). At the same time, however, it is the <u>***responsibility of the listener to compare***</u> what is being taught with the Bible. To be sure, this should be done in a spirit of humility (as the Bereans demonstrated), but *it should be done.* No one who teaches the Bible should have a problem with this, for such a procedure is really *the only way to keep everyone honest.* As believers in Jesus Christ, we must ultimately place our faith in God and in the Word of God - Jesus, the living Word, and in the Bible, the written Word - *not* in man's words.
+
+<!-- --- -->
+
+Ideally, there will be no conflict between what your teacher teaches and what you read in the Bible as you check out the scripture references given to support a principle or doctrine. It is also true that there are many non-sinister reasons why you may feel there is some discrepancy between what is taught and what you read, and no one is advocating that you part company on the basis of minor discrepancies. At the same time, however, if, as you continue with the daily reading of your Bible, the "warning bells" begin to go off too frequently and too loudly, it is in the interest of your spiritual safety that you not ignore them. The apostle Paul even goes so far as to extend this warning to himself, establishing the principle that no track-record, even one as illustrious as his, exempts believers from continuing to apply the test of scripture to all Bible teaching:
+
+{{% ichthys-translation p="Galatians 1:8-9" %}}
+
+But if I myself - or even an angel out of heaven - should preach to you something out of keeping with what I have preached to you, let him be cursed!
+
+{{% /ichthys-translation %}}
+
+<!-- --- -->
+
+Believers have the responsibility to place what the Bible says over what people (even well-intentioned and respected people) may say. Now this principle is impossible to fulfill *without reading your Bible regularly*. As believers, we are to "evaluate everything" (1Thes.5:21), "test the spirits, to see whether or not they are from God" (1Jn.4:1), and "assess" teaching and prophecy (1Cor.14:29). But how are we to do this without prior information? The fulfillment of these commands is impossible without a deep, solid grounding in the Bible itself.
+
+{{% /quote %}}
+
+<!-- --- -->
+
+#### Summary points and follow-on topics {#summary-points-and-follow-on-topics}
+
+Summary points:
+
+- In Acts 17:11, Paul commends the Bereans for checking his words against the scriptures. From this we infer that this practice of cross-checking what is taught against the Bible is not only "not wrong", but in fact is very commendable for us as Christians. We *ought* to be doing this.
+- Nobody gets a pass in this. I don't care how famous the teacher is, how many people believe them, and so on. What they say *must* always be evaluated against the Bible. 
+- This process should be undertaken with humility, but it should be done. No exceptions. The truth is too important to risk.
+- It is impossible for us to properly verify Bible teaching against what the Bible says if we are not intimately familiar with what the Bible says. This would seem to be rather obvious, but it bears repeating because it is so important. *We cannot do our jobs properly as Christians if we don't regularly read our Bibles*.
+
+<!-- --- -->
+
+Follow-on topics:
+
+- Ignorance is no excuse here. We'll talk more about the notion of excuses in a later segment, but I hope right upfront it is clear that we determine by our own hand how familiar we are or aren't with the Bible. It is a matter of where we choose to put our focus here in this world.
+- If we are led astray by false teaching because we could not be bothered to familiarize ourselves with what the Bible actually says, then that is upon our own head. It is true that many cults and false teachers are extremely emotionally manipulative, and that people exploited by them are in some sense victims, and deserving of our sympathy. But nonetheless, if they did not take even basic steps to familiarize themselves with God's Word, part of the responsibly for being led astray is upon their own shoulders.
+- We'll talk more about cults specifically in a bit, but I should note that this extends to far more than just cults. Most churches, even if they are lukewarm and not terribly interested in serious Bible study, will still not get you into nearly as much bad stuff as the cults proper. But the same principle nonetheless applies: if you believe some false teaching just because your church teaches it or your pastor teaches it, well, you had the power to avoid such, if only you had compared their words against the Bible rather than uncritically accepting them.
+  - Hyper-Calvinism comes to mind. Parts of it clearly contradict Bible verses right on the face of it. In my opinion, one of the only reasons this collection of teachings has stuck around as persistently as it has is because people proof-text specific passages and aren't familiar enough with the Bible *as a whole* to see how incongruous these teachings are with God's overall plan for humanity vis-à-vis the concept of [free-will-faith](https://ichthys.com/mail-Free-Will-Faith-and-Will-of-God.htm).<!-- --- -->
+- This doesn't mean you have try to nitpick your pastor's teaching and go looking for flaws in some sort of misplaced crusade for a legalistic standard of perfection. The point is that many modern Christians seem blind to the fact that they have a mandatory personal responsibility to fact-check their Bible teachers against scripture, and are completely incapable of doing it properly because they very seldom seriously read their Bibles, and therefore have low overall familiarity with what it actually says. This is a very serious problem, and not just something to shrug off as "unfortunate, but whatever".
+- As a very loose parallel, consider how silly it would be to take a class on Shakespeare but never read any of his works. Can you be said to "know Shakespeare" if all you've ever heard are other people's opinions about what he wrote? Of course, Bible teachers doing it properly ought to be teaching God's truth empowered by the Holy Spirit (rather than "just" their own opinions), but I hope you can see that common sense dictates that to "really understand Shakespeare", you'd better actually read what he wrote himself. And so too when it comes to the Bible.
+- I would argue that much of what we are discussing here is becoming even more important to emphasize in our modern day. Some AI Chatbot's summary of a Bible book is not the same as actually reading it. Some person's 60-second TikTok summary of a passage is not the same as actually reading it. And so on. Our modern culture tends to de-emphasize the sort of deep, repetitive study of sources that is in view here—the kind that lets you paraphrase what the Bible teaches about various subjects off the top of your head, with very high accuracy. You can't fake that kind of practiced ease in confidently sounding forth about "what the Bible says about topic X". It only comes from years, even decades, of consistent daily Bible reading. (Supplemented by good Bible teaching, which we'll talk about in a bit).<!-- --- -->
+- The neuroscientists and cognitive psychologists would point us to the idea of "neurons that fire together wire together". In some senses, learning is nothing more than forming neural connections in our brains... which is impossible to do if you are missing the Bible-text-neurons (so to speak). If we were being cheeky, we might say "science proves that you have to consistently read your Bible to actually learn it!" Again, common sense, but it really is true.
+
+<!-- --- -->
+
+#### Further discussion {#further-discussion}
+
+<!-- --- -->
+
+### The Bible is the touchstone with which we must evaluate the truth {#the-bible-is-the-touchstone-with-which-we-must-evaluate-the-truth}
+
+#### Audio clip from Ichthys {#audio-clip-from-ichthys}
+
+{{< properties 
+
+srcmp3audiourl="https://ichthys.com/MP3/read-your-bible-ak.mp3"
+srctitle="Read Your Bible! - A Basic Christian Right and Responsibility"
+srcstart=""
+srcend=""
+
+>}}
+
+<!-- --- -->
+
+{{% quote src="https://ichthys.com/readbible.htm" text="Ichthys" %}}
+
+> ☑ ***The Bible is the touchstone with which we must evaluate the truth.***
+
+And it is not just appropriate passages which must be taken into consideration. We need to have a broad understanding and feel for the entire canon of scripture, its whole woof and warp. As in the famous riddle of the blind men and the elephant, if we only have a limited view of all that is actually in the Bible, our judgment is bound to be distorted. It takes disciplined, regular reading of *all *the Holy scriptures in combination with doctrinally accurate teaching to provide maximum protection from false teaching:
+
+{{% ichthys-translation p="Ephesians 4:11-16" %}}
+Christ Himself appointed some of us apostles, some prophets, some evangelists, some pastors and teachers in order to prepare all of His holy people for their own ministry work, that the entire body of Christ might thus be built up, until we all reach that unifying goal of believing what is right and of giving our complete allegiance to the Son of God, that each of us might be a perfect person, that is, that we might attain to that standard of maturity whose "attainment" is defined by Christ; that we may no longer be immature, swept off-course and carried headlong by every breeze of so-called teaching that emanates from the trickery of men in their readiness to do anything to cunningly work their deceit, but rather that we may, ***by embracing the truth*** in love, grow up in all respects, with Christ, who is the head of the Church, as our model. In this way, the entire body of the Church, fit and joined together by Him through the sinews He powerfully supplies to each and every part, works out its own growth for the building up of itself in love.
+{{% /ichthys-translation %}}
+
+<!-- --- -->
+
+**The Christ Test:** What source of truth do we have, if not the Bible? How do we expect to be led to Jesus Christ, if not through the Holy Scripture? As the apostle Paul makes clear in the passage quoted above from the epistle to the Ephesians, the point of "embracing the truth" is twofold: 1) to avoid being taken in by false teaching, and 2) to develop a stronger relationship with our Lord Jesus Christ. To put it simply, false teaching leads ***away from*** Christ, correct teaching leads ***toward*** Christ. This, then, is essentially how the believer must discern whether the teaching in question is correct or false. All teaching must pass the "Christ test".
+
+{{% ichthys-translation p="1 John 4:2" %}}
+Any spirit [i.e. person, teaching, organization] which professes that Jesus Christ has come in the flesh is of God, but any spirit which does not profess that Jesus Christ has come in the flesh is not from God.
+{{% /ichthys-translation %}}
+
+<!-- --- -->
+
+That is to say, all correct teaching must start with this proposition, a proposition that includes and is based on the following corollaries, <u>***all or some of which false teaching inevitably denies***</u>:
+
+- *that Jesus Christ is both undiminished deity and true humanity.* [Rom.9:5; Col.2:9; 1Jn.5:6-12]
+- *that He came into the world to die for all mankind.* [Jn.3:16; 1Pet.2:24]
+- *that His work was deemed acceptable by the Father.* [Rom.3:21-26]
+- *that we are saved on the basis of our faith in Him and in His work alone (and not by our own works).* [Eph.2:8-9]
+- *that apart from faith in Jesus Christ, there is no way to approach the Father.* [Jn.14:6]
+- *that the true believer in Jesus Christ follows Christ and His teachings throughout his life on this earth.* [Matt.7:20; 1Jn.2:4]
+
+This last point brings us back full-circle to the issue of reading our Bibles everyday. If we are to follow Christ and His teachings, we must learn about Him and about them. Our indoctrination or "discipleship" in the truth must thus come from two sources: 1) reading the Bible for ourselves, and 2) accepting the authority of legitimate, prepared Bible teachers. But even (and perhaps especially) in regard to this second source for learning about Christ and His teachings, all correct teaching is ultimately and fundamentally derived ***from the Bible***. But how are we, as believers, to evaluate the correctness of what we are taught unless we make it a daily habit to go to the source of truth itself, for ourselves?
+
+<!-- --- -->
+
+Let no one say, moreover, whether teacher or lay, that he or she *follows Christ, not the Bible.* For such a thing is an impossibility, and such a statement, therefore, a dangerous lie. How could it be otherwise? For just as Jesus Christ is the living reflection of the complete, luminescent truth of God, so the Holy Scriptures are the concrete expression of the person and the mind of Jesus Christ, given to us His saints that we might learn and know that truth:
+
+<u>The Bible is God's Word</u>:
+
+{{% ichthys-translation p="Hebrews 4:12" %}}
+
+For the Word of God is living and powerful; it is sharper than any two-edged sword, penetrating even to the point of being able to divide the spirit from its earthly life and the marrow from its bones; it acts as a judge of our heart's intentions and emotions.
+
+{{% /ichthys-translation %}}
+
+<u>The Bible, God's Word, is divinely inspired by Him</u>:
+
+{{% ichthys-translation p="2 Timothy 3:16" %}}
+
+All scripture is inspired by God and useful for teaching, for admonishing, for correcting, and for training in righteousness.
+
+{{% /ichthys-translation %}}
+
+<!-- --- -->
+
+<u>The written Word of God is God's truth and carries God's authority</u>:
+
+{{% ichthys-translation p="John 5:39" %}}
+
+Search the scriptures (since you assume by how you read them that you have eternal life)! These are the very scriptures that bear testimony about Me.
+
+{{% /ichthys-translation %}}
+
+<u>Jesus Christ is **both** the truth **and** the living Word of God</u>:
+
+{{% ichthys-translation p="John 14:6" %}}
+
+I am the way, the truth and the life.
+
+{{% /ichthys-translation %}}
+
+{{% ichthys-translation p="1 John 1:1" %}}
+
+What we have seen from the beginning, what we have heard and seen with our eyes, what we have observed and touched with our hands - this is about the Word of life [i.e. Jesus Christ].
+
+{{% /ichthys-translation %}}
+
+<!-- --- -->
+
+<u>The written Word manifests Jesus Christ, the Living Word (through the Holy Spirit)</u>:
+
+{{% ichthys-translation p="1 Corinthians 2:16 (cf. 1Cor.2:12-13)" %}}
+
+For who has known the mind of the Lord, that he might instruct Him? But we possess the very mind of Christ [i.e. the Holy Spirit illuminating the scriptures which are Christ's very thinking].
+
+{{% /ichthys-translation %}}
+
+<u>Therefore the Bible is the only sure witness to Christ</u>:
+
+{{% ichthys-translation p="2 Peter 1:16-21" %}}
+
+For I did not follow concocted tales in making known to you the power and the coming return of our Lord, Jesus Christ, but was an eyewitness to His majesty. For when He had received honor and glory from God the Father, these words sounded forth to Him from God's majestic glory: "This is my beloved Son with whom I am well-pleased." And these words I myself heard as they were delivered from heaven, for I was with Him on the holy mountain [cf. Matt.17:1-8]. Yet I consider the prophetically inspired Word [i.e. the Bible] even more reliable [i.e. than what I saw with my own eyes]. You too would do well to pay the closest attention to this [prophetically inspired Word], just as to a lamp shining in a dark place [cf. Ps.119:105], until the day dawns, and the Morning Star rises [i.e. Christ returns], pondering in your hearts this principle of prime importance: no single verse of prophetically inspired scripture has ever come into being as a result of personal reflection. For true prophecy has never occurred by human will, but only when holy men of God have spoken under the direction and agency of the Holy Spirit.
+
+{{% /ichthys-translation %}}
+
+<!-- --- -->
+
+***<u>The Bible itself</u>***, not the writings or teachings of any man or organization, not the supposed eyewitness accounts of any third party, nor any vision, dream, prophecy or any other possible source of information, ***<u>is the only proper standard of faith and practice for those who purport to be followers of Jesus Christ</u>***.
+
+{{% /quote %}}
+
+<!-- --- -->
+
+#### Summary points and follow-on topics {#summary-points-and-follow-on-topics}
+
+Summary points:
+
+- The knowledge we are called to have is not limited or specific. To do things properly, we need to have a broad understanding and feel for the *entire canon of scripture*.
+- The point of "embracing the truth in love" (Ephesians 4:15) is twofold: 1) to avoid being taken in by false teaching, and 2) to develop a stronger relationship with our Lord Jesus Christ.
+- False teaching fundamentally distorts some or all of these points about Jesus Christ:
+  - That He is both undiminished deity and true humanity.
+  - That He came into the world to die for all mankind.
+  - That His work was deemed acceptable by the Father.
+  - That we are saved on the basis of our faith in Him and in His work alone (and not by our own works). 
+  - That apart from faith in Him, there is no way to approach the Father.
+  - That the true believer in Jesus Christ follows Christ and His teachings throughout his life on this earth.<!-- --- -->
+- If we are to follow Christ's teachings, that brings us right back to how we know what those are. The only sure way to learn about Jesus Christ and His teachings is through the Bible. Because:
+  - The Bible is God's Word.
+  - The Bible, God's Word, is divinely inspired by Him.
+  - The written Word of God is God's truth and carries God's authority.
+  - Jesus Christ is **both** the truth **and** the living Word of God.
+  - The written Word manifests Jesus Christ, the Living Word (through the Holy Spirit).
+  - Therefore the Bible is the only sure witness to Christ.
+- The Bible itself, not the writings or teachings of any man or organization, not the supposed eyewitness accounts of any third party, nor any vision, dream, prophecy or any other possible source of information, is the only proper standard of faith and practice for those who purport to be followers of Jesus Christ. Full stop.
+
+<!-- --- -->
+
+Follow-on topics:
+
+- The point that we need to know *all* of the Bible's truth (not just a little bit of it) is very critical. Many complex teachings pull from multiple different parts of the Bible at the same time, and so it is that certain parts of the truth will be completely inaccessible to us until we have a proper appreciation for large cross-cutting swathes of the Bible's teachings. Compare the general concept of [emergence](https://en.wikipedia.org/wiki/Emergence), which "occurs when a complex entity has properties or behaviors that its parts do not have on their own, and emerge only when they interact in a wider whole". This is definitely true of biblical truth in a general sense, particularly in the areas of prophecy and eschatology.
+- One consequence of this fact is that you are going to need to be reading your Bible *a lot*. The Bible is not a short book... at all. So it follows that to get familiar with large cross-cutting swathes of the Bible's teachings (like discussed just above), you are going to need to put in the necessary time.
+- And once you get to the end, you are going to need to start over again, to ensure that the knowledge you acquire stays fresh and accurate in your head. It cannot just be something you do once and then stop, as if that were enough.<!-- --- -->
+- As the study says, "What source of truth do we have, if not the Bible? How do we expect to be led to Jesus Christ, if not through the Holy Scripture?"
+- So, how exactly do we go about comparing Bible teaching to the Bible? That is, how do we properly use the Bible as our standard of evaluation when examining Bible teaching? Well the first and most important principle is seeing what the Bible teaching in question has to say about Jesus Christ.
+- Many false teachings flunk this very basic test right upfront.
+  - For example, the notion that we are saved on the basis of our faith in Jesus and in His work alone directly contradicts a lot of what I would call "finger-wagging Christianity". What does salvation have to do with consuming alcohol, dancing, and playing cards? The idea that people would even think to try to define salvation in terms of abstaining from these things is greatly misguided. It is not that sin doesn't matter—it very much does (compare Romans 6). The point is that you can't put the cart before the horse. In other words, while I would in fact be willing to argue that one can partake in certain forms of these three things without any sin involved, the wider issue with this legalistic line of thinking is just that we can never earn our salvation in the least, and anything that even borders on that is very nearly blasphemous.
+  - As another example, consider those that hold that people can somehow be saved apart from Jesus Christ. This makes a mockery of God's justice. Jesus went to the cross to pay the penalty for us in our place. Asserting that there was no need for the penalty to begin with makes all of Christ's suffering fundamentally pointless, does it not? And if it wasn't necessary for Christ to suffer how He did, doesn't that make the Father a monster for sending Him to the cross anyway? Have people even thought through what they are believing here?
+  - Etc.<!-- --- -->
+- I would say that a lot of this is obvious from even a very cursory reading of scripture, but actually a lot of these sorts of false teachings have millions of ardent followers. Just look at the prosperity gospel. It doesn't seem to matter much that plenty of individual verses directly disprove the prosperity gospel; tons of people still wholeheartedly believe it. 
+- And that brings us to the unfortunately true principle that most people do not want the truth. Not really. It's too uncomfortable, and demands too much from us. That this point is true is obvious from how many people go chasing after things that are clearly false, as above. We know they aren't reading their Bibles consistently because if they were, they wouldn't be able to tell us with a straight face that Jesus wants their pastor to have a private jet, and that this is the Will of God.<!-- --- -->
+- As a closing point, many translations do not really do justice to this passage in 2 Peter 1:
+
+{{% ichthys-translation p="2 Peter 1:16-21" %}}
+
+For I did not follow concocted tales in making known to you the power and the coming return of our Lord, Jesus Christ, but was an eyewitness to His majesty. For when He had received honor and glory from God the Father, these words sounded forth to Him from God's majestic glory: "This is my beloved Son with whom I am well-pleased." And these words I myself heard as they were delivered from heaven, for I was with Him on the holy mountain [cf. Matt.17:1-8]. Yet I consider the prophetically inspired Word [i.e. the Bible] even more reliable [i.e. than what I saw with my own eyes]. You too would do well to pay the closest attention to this [prophetically inspired Word], just as to a lamp shining in a dark place [cf. Ps.119:105], until the day dawns, and the Morning Star rises [i.e. Christ returns], pondering in your hearts this principle of prime importance: no single verse of prophetically inspired scripture has ever come into being as a result of personal reflection. For true prophecy has never occurred by human will, but only when holy men of God have spoken under the direction and agency of the Holy Spirit.
+
+{{% /ichthys-translation %}}
+
+<!-- --- -->
+
+- In verse 19, the Greek has καὶ ἔχομεν βεβαιότερον τὸν προφητικὸν λόγον, "Yet we consider the prophetic word *more* reliable". Because the adjective βεβαιότερον is a comparative, failing to translate with that comparative sense is a mistranslation, in my opinion. I can forgive the translators though, because this passage is a bit hard. The thing that is being compared is what Peter saw with his own eyes during the Transfiguration (Matthew 17:1-8). *That* is what Peter is saying the prophetic word (i.e., the Bible) is more reliable than. The rhetorical point then is that we should trust the Bible over *all* personal experience and observation, since none of us can claim to have any experience more impressive than observing the Transfiguration in person like Peter did.
+- In terms of logic, this is the idea that if A is more reliable than B, and B is more reliable than C, then A is necessarily more reliable than C. If you let A = "The Bible", B = "Peter's personal experience in witnessing the Transfiguration", and C = "any other personal experience we might have", then you can see that a plain reading of this passage clearly teaches that we need to put the Bible above *all* personal experience, and trust it more than even that which we see with our own eyes.
+- And this is why the Bible is the standard of evaluation in all things. In a proper Christian epistemology, it is the ultimate foundation for *absolutely everything*. All statements have to pass muster not just with some verses, but all verses across the entire Bible. Everything needs to be be compared against the Bible in this way, without exception.
+- And to be able to make such determinations accurately (i.e., in order to properly prioritize this source of ultimate truth that is more dependable than even our physical senses), we have to consistently read our Bibles. QED.
+
+<!-- --- -->
+
+#### Further discussion {#further-discussion}
+
+{{% /content %}}
+
+## Review Questions {#review-questions}
+
+{{< quizdown >}}
+
+{{< /quizdown >}}
+
+{{% section-navigation %}}

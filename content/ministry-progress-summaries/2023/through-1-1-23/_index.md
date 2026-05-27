@@ -4,9 +4,9 @@ weight: 10
 layout: content-page
 ---
 
-{{< subjects >}}
+This cycle I spent time relaxing over the holidays with family. I also made a good bit of progress on several various upcoming studies, although I didn't finish any of these enough to publish anything. There were also several things accomplished on the practical front, like building the standing desk that will serve as a speaking podium when used out in the living room during Bible studies at the house.
 
-{{< /subjects >}}
+<!--more-->
 
 {{% section-navigation %}}
 
@@ -22,7 +22,11 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2023/throug
 
 ## Summary {#summary}
 
+
+
 This cycle I spent time relaxing over the holidays with family. I also made a good bit of progress on several various upcoming studies, although I didn't finish any of these enough to publish anything. There were also several things accomplished on the practical front, like building the standing desk that will serve as a speaking podium when used out in the living room during Bible studies at the house.
+
+
 
 ## Timestamps {#timestamps}
 

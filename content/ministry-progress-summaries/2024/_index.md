@@ -2,16 +2,15 @@
 title: 2024 Ministry Progress Summaries
 weight: 
 layout: aggregation-page
-summary: >-
-   2024 will hopefully be the year that content production really takes off. Still sort of TBD at present, but that will be the goal.
 ---
+
+2024 will hopefully be the year that content production really takes off. Still sort of TBD at present, but that will be the goal.
+
+<!--more-->
 
 <!-- aggregate-page-content -->
 
 ## [Through 3/23/24](/ministry-progress-summaries/2024/through-3-23-24) {#through-3-23-24}
-{{< subjects >}}
-
-{{< /subjects >}}
 
 
 
@@ -27,7 +26,11 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2024/throug
 
 ### Summary {#through-3-23-24-summary}
 
+
+
 This cycle I mostly focused on completing a large chunk of the development effort to automate video content processing. With the progress I've now made on my Python application, I should be able to post the backlog of BB1: Theology videos I have recorded and ready (probably ~20 videos) in a much shorter timeframe than if I had to manually process them one-by-one. I also recorded a short series of videos on some matters relating to death, resuscitation, and the afterlife that I will be posting in the near future, alongide the aforementioned BB1 videos.
+
+
 
 ### Timestamps {#through-3-23-24-timestamps}
 
@@ -148,9 +151,9 @@ In our BB1 study, we are still talking about the Trinity, but are now in the las
 
 In the immediate short term, I have three other primary goals:
 
-- Setting up completely automatic silence removal in the video editing process (to further save me time---right now it is still a bit tedious, since I have to process segment by segment using a GUI tool). This will entail switching us away from Zoom, since Zoom recordings don't seem to play nice with the scriptable command-line tool I'd like to use, for some strange reason. I'm going have us try Microsoft Teams next, I think.
+- Setting up completely automatic silence removal in the video editing process (to further save me time—right now it is still a bit tedious, since I have to process segment by segment using a GUI tool). This will entail switching us away from Zoom, since Zoom recordings don't seem to play nice with the scriptable command-line tool I'd like to use, for some strange reason. I'm going have us try Microsoft Teams next, I think.
 - Setting up further automation with the topic transitions in videos. I would like to automatically generate the top transition video segments in a hands-off (completely automated) way. Right now I have to manually record the short segments one by one.
-- Setting up a BibleDocs podcast on the podcasting platform [PodBean](https://www.podbean.com/), to include all the content from our Ichthys group Bible studies (at least that is the content stream I'll start with for podcasting---I will probably expand to others too, later). I need to support ripping mp3 audio off of the mp4 videos, and generating proper mp3 metadata/episode descriptions so that podcast episode timestamps will work properly on Apple Podcasts and Spotify (the two most dominant podcast apps, at present).
+- Setting up a BibleDocs podcast on the podcasting platform [PodBean](https://www.podbean.com/), to include all the content from our Ichthys group Bible studies (at least that is the content stream I'll start with for podcasting—I will probably expand to others too, later). I need to support ripping mp3 audio off of the mp4 videos, and generating proper mp3 metadata/episode descriptions so that podcast episode timestamps will work properly on Apple Podcasts and Spotify (the two most dominant podcast apps, at present).
 
 <!-- --- -->
 
@@ -685,9 +688,6 @@ This will definitely be my next longer-term goal. I've been meaning to make this
 
 
 ## [Through 6/18/24](/ministry-progress-summaries/2024/through-6-18-24) {#through-6-18-24}
-{{< subjects >}}
-
-{{< /subjects >}}
 
 
 
@@ -703,7 +703,11 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2024/throug
 
 ### Summary {#through-6-18-24-summary}
 
+
+
 This cycle I mostly spent time finishing remaining tasks in my command line application to automate video processing. Many of these things have been long-term goals of mine for a long time now, so it is nice to see everything finally come together.
+
+
 
 ### Timestamps {#through-6-18-24-timestamps}
 
@@ -727,9 +731,9 @@ This cycle I mostly spent time finishing remaining tasks in my command line appl
 
 Last ministry progress summary, I said I had these three immediate short-term goals:
 
-- Setting up completely automatic silence removal in the video editing process (to further save me time---right now it is still a bit tedious, since I have to process segment by segment using a GUI tool). This will entail switching us away from Zoom, since Zoom recordings don't seem to play nice with the scriptable command-line tool I'd like to use, for some strange reason. I'm going have us try Microsoft Teams next, I think.
+- Setting up completely automatic silence removal in the video editing process (to further save me time—right now it is still a bit tedious, since I have to process segment by segment using a GUI tool). This will entail switching us away from Zoom, since Zoom recordings don't seem to play nice with the scriptable command-line tool I'd like to use, for some strange reason. I'm going have us try Microsoft Teams next, I think.
 - Setting up further automation with the topic transitions in videos. I would like to automatically generate the topic transition video segments in a hands-off (completely automated) way. Right now I have to manually record the short segments one by one.
-- Setting up a BibleDocs podcast on the podcasting platform [PodBean](https://www.podbean.com/), to include all the content from our Ichthys group Bible studies (at least that is the content stream I'll start with for podcasting---I will probably expand to others too, later). I need to support ripping mp3 audio off of the mp4 videos, and generating proper mp3 metadata/episode descriptions so that podcast episode timestamps will work properly on Apple Podcasts and Spotify (the two most dominant podcast apps, at present).
+- Setting up a BibleDocs podcast on the podcasting platform [PodBean](https://www.podbean.com/), to include all the content from our Ichthys group Bible studies (at least that is the content stream I'll start with for podcasting—I will probably expand to others too, later). I need to support ripping mp3 audio off of the mp4 videos, and generating proper mp3 metadata/episode descriptions so that podcast episode timestamps will work properly on Apple Podcasts and Spotify (the two most dominant podcast apps, at present).
 
 I'll be going over what progress I've made on these (and some other things besides).
 

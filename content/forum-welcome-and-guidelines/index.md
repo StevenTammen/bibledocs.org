@@ -2,6 +2,10 @@
 title: Forum Welcome and Guidelines
 ---
 
+TODO: Summary
+
+<!--more-->
+
 Welcome to the BibleDocs Community forum!
 
 ## The Discourse forum platform
