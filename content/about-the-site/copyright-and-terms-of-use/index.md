@@ -4,11 +4,9 @@ date: 2021-01-10T21:46:24-05:00
 tags: []
 subsection: overview
 weight: 50
+summary: >-
+   All the teaching materials of this ministry may be freely used and accessed, and even remixed and reworked (for different ministry purposes, e.g.), as long as proper attribution is given and the materials are not being charged for. However, the same copyright terms must apply to any derived materials, such that they are also made freely available to all for noncommercial use. You could summarize all this in a sentence by stating that this ministry is very much against charging for and making money off of Bible teaching, so as long you don't run afoul of that, you're most of the way there.
 ---
-
-All the teaching materials of this ministry may be freely used and accessed, and even remixed and reworked (for different ministry purposes, e.g.), as long as proper attribution is given and the materials are not being charged for. However, the same copyright terms must apply to any derived materials, such that they are also made freely available to all for noncommercial use. You could summarize all this in a sentence by stating that this ministry is very much against charging for and making money off of Bible teaching, so as long you don't run afoul of that, you're most of the way there.
-
-<!--more-->
 
 The contents of this site are licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/). That link is to a well-thought-out human-readable version of the license that does not require you to speak legalese to understand it, so I do actually recommend you have a look at it.
 

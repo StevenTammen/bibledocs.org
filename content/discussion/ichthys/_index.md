@@ -1,19 +1,13 @@
 ---
 title: "Discussion source: Ichthys"
 layout: list-page
+summary:
+    Ichthys is an independent online Bible teaching ministry with longform text studies, some of which have been turned into MP3 files using a high-quality text-to-speech program. Among other things, it offers a full systematic theology, a series about Satan's rebellion and fall (and how this sets the stage for human history), and a series about the end times that goes through Revelation verse-by-verse.
 ---
-
-Ichthys is an independent online Bible teaching ministry with longform text studies, some of which have been turned into MP3 files using a high-quality text-to-speech program. Among other things, it offers a full systematic theology, a series about Satan's rebellion and fall (and how this sets the stage for human history), and a series about the end times that goes through Revelation verse-by-verse.
-
-<!--more-->
 
 This section contains discussion series based on studies from Ichthys.
 
-<!-- summary -->
-
 Ichthys is an independent online Bible teaching ministry with longform text studies, some of which have been turned into MP3 files using a high-quality text-to-speech program. Among other things, it offers a full systematic theology, a series about Satan's rebellion and fall (and how this sets the stage for human history), and a series about the end times that goes through Revelation verse-by-verse.
-
-<!-- summary -->
 
 Ministry links:
 
