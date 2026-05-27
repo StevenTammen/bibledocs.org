@@ -5,7 +5,13 @@
 </div>
 <div class="content">
 
-	{{ .Content }}
+	{{ if .Truncated }}
+	    {{ $summaryLen := sub (len .Summary) 1 }}
+	    {{ $onlyContent := substr .Content $summaryLen | safeHTML }}
+	    {{ $onlyContent | strings.TrimPrefix ">" | safeHTML }}
+	{{ else }}
+	    {{ .Content }}
+	{{ end }}
 
 	{{ range .Sections.ByTitle }}
 
