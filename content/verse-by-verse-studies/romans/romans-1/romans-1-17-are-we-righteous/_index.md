@@ -4,9 +4,9 @@ weight: 50
 layout: content-page
 ---
 
-{{< subjects >}}
+As human beings, we have no righteousness of our own. God only sees us as righteous if we have faith, because then He sees us covered in the blood of Christ. That is, only by faith does Christ's righteousness becomes our own—and there is no other way for humans to be justified before God. So we are only saved by faith alone in Christ alone.
 
-{{< /subjects >}}
+<!--more-->
 
 {{% section-navigation %}}
 
@@ -22,7 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-As human beings, we have no righteousness of our own. God only sees us as righteous if we have faith, because then He sees us covered in the blood of Christ. That is, only by faith does Christ's righteousness becomes our own---and there is no other way for humans to be justified before God. So we are only saved by faith alone in Christ alone.
+
+
+As human beings, we have no righteousness of our own. God only sees us as righteous if we have faith, because then He sees us covered in the blood of Christ. That is, only by faith does Christ's righteousness becomes our own—and there is no other way for humans to be justified before God. So we are only saved by faith alone in Christ alone.
+
+
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -34,7 +38,7 @@ As human beings, we have no righteousness of our own. God only sees us as righte
 
 Are we righteous? On our own? *Absolutely not*. We are only righteous because we have been washed clean in the blood of Christ. God sees us as righteous only because He sees us covered in the righteousness of Jesus.
 
-Our righteousness is "by faith from first to last" (Romans 1:17). It is not of ourselves, but of Christ. And the only way we take hold of it is through simple faith---nothing more, and nothing less.
+Our righteousness is "by faith from first to last" (Romans 1:17). It is not of ourselves, but of Christ. And the only way we take hold of it is through simple faith—nothing more, and nothing less.
 
 We *need* to get this bit right, because we truly can do nothing on our own. We cannot work our way into heaven in the slightest, because salvation is only by grace through faith, not by works (Ephesians 2:8-10).
 

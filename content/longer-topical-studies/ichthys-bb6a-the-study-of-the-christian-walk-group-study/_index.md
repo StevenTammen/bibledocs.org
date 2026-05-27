@@ -3,16 +3,15 @@ title: Group Study - Ichthys' BB6A Peripateology - The Study of the Christian Wa
 weight: 
 contentlevel: intermediate
 layout: aggregation-page
-summary: >-
-   This video series is a discussion-based group Bible study going through Bible Basics Part 6A (BB6A) on Ichthys, a study of the Christian walk—the path of spiritual growth and production that we must all walk as believers. The early recordings in this series were the very first video content that I ever recorded, and we were not particularly organized, because wider distribution was not at that point something I had in mind. All the lessons posted in this study on the website, however, correspond to the later videos in the series, once we started to become (somewhat) more organized and focused.
 ---
+
+This video series is a discussion-based group Bible study going through Bible Basics Part 6A (BB6A) on Ichthys, a study of the Christian walk—the path of spiritual growth and production that we must all walk as believers. The early recordings in this series were the very first video content that I ever recorded, and we were not particularly organized, because wider distribution was not at that point something I had in mind. All the lessons posted in this study on the website, however, correspond to the later videos in the series, once we started to become (somewhat) more organized and focused.
+
+<!--more-->
 
 <!-- aggregate-page-content -->
 
 ## [Confession, forgiveness, avoiding self-loathing, and reorienting towards God after we fall](/longer-topical-studies/ichthys-bb6a-the-study-of-the-christian-walk-group-study/confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall) {#confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall}
-{{< subjects >}}
-
-{{< /subjects >}}
 
 
 
@@ -28,7 +27,11 @@ slides="https://bibledocs.org/slides/longer-topical-studies/ichthys-bb6a-the-chr
 
 ### Summary {#confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall-summary}
 
+
+
 This week we talked about how to recover after we have stumbled in sin -- the procedure for picking ourselves up, dusting ourselves off, and getting back onto the high road to Zion. A good bit of time is spent discussing 1 John 1:9, and how obtaining forgiveness really is as simple as this verse says: if we confess to God (and mean it), then God *does* forgive us just like that, because Jesus Christ has already paid the price to redeem us.
+
+
 
 ### Timestamps {#confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall-timestamps}
 

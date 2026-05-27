@@ -1,6 +1,10 @@
-+++
-title = "Contact"
-+++
+---
+title: "Contact"
+---
+
+TODO: Summary
+
+<!--more-->
 
 For matters relating to this ministry, you can get in contact with me using any of the below options. In general, I check my email most frequently. But what works for you works for me.
 

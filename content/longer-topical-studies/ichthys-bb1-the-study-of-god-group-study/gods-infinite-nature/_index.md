@@ -6,6 +6,10 @@ video: https://www.youtube.com/watch?v=2EMBqNotHqs
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
 ---
 
+This lesson, we are going to be talking about God's infinite nature, and what that means in terms of His abilities.
+
+<!--more-->
+
 {{< subjects >}}
 <a href="/subject-index/#infinity">Infinity</a>
 <a href="/subject-index/#god-is-infinite-in-nature">God > Is infinite in nature</a>
@@ -25,7 +29,11 @@ slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-
 
 ## Summary {#summary}
 
+
+
 This lesson, we are going to be talking about God's infinite nature, and what that means in terms of His abilities.
+
+
 
 ## Timestamps {#timestamps}
 
@@ -147,7 +155,7 @@ From the standpoint of His *transcendence* of the physical universe, He is uniqu
 | Being eternal (rather than bound by time)       | Omniscience (God knows everything in creation from beginning to end, and even what could have been)                   |
 | Being immeasurable (rather than bound by space) | Omnipresence (God is ever-present in creation: as far as the East is from the West, nothing can separate us from God) |
 
-While we may not be properly able to fully grasp God's true nature since we are small, finite beings bound by spacetime, it should nonetheless be clearly apparent that it is not possible for any created creature to compare with the Creator. Even creatures far more powerful than ourselves---Satan and the other angels---are bound and limited in ways God is not, leaving God completely alone and unique in His transcendence of and supremacy within the physical universe.
+While we may not be properly able to fully grasp God's true nature since we are small, finite beings bound by spacetime, it should nonetheless be clearly apparent that it is not possible for any created creature to compare with the Creator. Even creatures far more powerful than ourselves—Satan and the other angels—are bound and limited in ways God is not, leaving God completely alone and unique in His transcendence of and supremacy within the physical universe.
 
 <!-- --- -->
 
@@ -177,7 +185,7 @@ We can let people who wish to not believe on account such an argument go on thei
 
 <!-- --- -->
 
-My counsel would be to avoid all such nonsense. God can do "it", whatever "it" may be. Always. We follow אֵל שַׁדַּי, *El Shaddai*, God Almighty, He who was, and is, and is to come---He who holds the strings of the universe in His hands, and can create or annihilate galaxies in the blink of an eye. And we'd better fear that power and majesty as we ought, to keep our lives in perspective. We are tiny compared to the vastness of the Earth, much less our solar system, much less our galaxy, much less the universe. But God is even bigger (infinitely bigger), and could snuff them all out in the blink of an eye if He decided to. *That* is the kind of power in view when we speak of God being omnipotent. Not that He will actually snuff out the universe on a whim, but that it would be nothing for Him to do so, since He is in complete control of matter, time, and space... and things only exist because *He* causes them to exist.
+My counsel would be to avoid all such nonsense. God can do "it", whatever "it" may be. Always. We follow אֵל שַׁדַּי, *El Shaddai*, God Almighty, He who was, and is, and is to come—He who holds the strings of the universe in His hands, and can create or annihilate galaxies in the blink of an eye. And we'd better fear that power and majesty as we ought, to keep our lives in perspective. We are tiny compared to the vastness of the Earth, much less our solar system, much less our galaxy, much less the universe. But God is even bigger (infinitely bigger), and could snuff them all out in the blink of an eye if He decided to. *That* is the kind of power in view when we speak of God being omnipotent. Not that He will actually snuff out the universe on a whim, but that it would be nothing for Him to do so, since He is in complete control of matter, time, and space... and things only exist because *He* causes them to exist.
 
 {{% /sidenote %}}
 
@@ -209,7 +217,7 @@ Same deal with perfectly disciplining us, and plenty of other matters besides. P
 
 <!-- --- -->
 
-For now, you should mostly ignore the fact that some people have again put God in a box in their minds, and content yourself with the sure confidence that God knows everything---absolutely everything, inclusive of our free-will decisions before we even make them---and is so infinitely wise as to have perfectly mapped out all of creature history before the universe was even created. There is a Perfect Divine Plan being worked out around us, and God knows very well what He is doing, rest assured.
+For now, you should mostly ignore the fact that some people have again put God in a box in their minds, and content yourself with the sure confidence that God knows everything—absolutely everything, inclusive of our free-will decisions before we even make them—and is so infinitely wise as to have perfectly mapped out all of creature history before the universe was even created. There is a Perfect Divine Plan being worked out around us, and God knows very well what He is doing, rest assured.
 
 <!-- --- -->
 

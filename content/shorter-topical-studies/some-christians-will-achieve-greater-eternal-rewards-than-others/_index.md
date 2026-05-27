@@ -3,13 +3,16 @@ title: Some Christians Will Achieve Greater Eternal Rewards Than Others
 weight: 
 contentlevel: intermediate+
 layout: aggregation-page
-summary: >-
-   As Ephesians 2:8-9 tells us, salvation most assuredly does come by grace through faith (and not by works). However, this does not mean that all Christians will end up with the same level of reward in eternity. Quite to the contrary, the Bible is very clear that those who render more distinguished service with what they have been given in this life will be rewarded in proportion to their true commitment to the Lord. The goal of this page is to briefly put forward some of the scriptural evidence for this concept.
 ---
+
+As Ephesians 2:8-9 tells us, salvation most assuredly does come by grace through faith (and not by works). However, this does not mean that all Christians will end up with the same level of reward in eternity. Quite to the contrary, the Bible is very clear that those who render more distinguished service with what they have been given in this life will be rewarded in proportion to their true commitment to the Lord. The goal of this page is to briefly put forward some of the scriptural evidence for this concept.
+
+<!--more-->
 
 <!-- aggregate-page-content -->
 
 ## [Introduction to the idea that some Christians will receive greater eternal rewards than others](/shorter-topical-studies/some-christians-will-achieve-greater-eternal-rewards-than-others/introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others) {#introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others}
+
 {{< subjects >}}
 <a href="/subject-index/#eternal-rewards-not-all-people-will-receive-the-same-amount">Eternal rewards > Not all people will receive the same amount</a>
 {{< /subjects >}}
@@ -28,7 +31,11 @@ slides="https://www.steventammen.com/slides/"
 
 ### Summary {#introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others-summary}
 
+
+
 Even though most people don't have issues decorating only certain particularly worthy soldiers for exemplary service, for example, many seem to have problems when that idea is mapped onto the concept of eternal rewards from the hand of God. Despite the skepticism, scripture is actually pretty clear on this specific question, so for all who are truly willing to look at what the Bible says, it becomes quickly apparent that God will in fact reward some individuals more than others in eternity, based upon the quality of their Christian walk here in time.
+
+
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -180,9 +187,6 @@ These passages directly teach that there is ranking in heaven. If we were all th
 
 
 ## [The Parable of the Talents and the Parable of the Minas](/shorter-topical-studies/some-christians-will-achieve-greater-eternal-rewards-than-others/the-parable-of-the-talents-and-the-parable-of-the-minas) {#the-parable-of-the-talents-and-the-parable-of-the-minas}
-{{< subjects >}}
-
-{{< /subjects >}}
 
 
 
@@ -198,7 +202,11 @@ slides="https://www.steventammen.com/slides/"
 
 ### Summary {#the-parable-of-the-talents-and-the-parable-of-the-minas-summary}
 
+
+
 The parable of the talents and the parable of the minas both clearly teach that the level of our reward in eternity is dependent upon what we do here on Earth. When the master (Christ) returns from His long journey (the second coming, Christ's παρουσία), he will judge individual Christians (servants) according to what return they have produced using the resources he gave them (everything we are blessed with in life -- talents, wealth, and so on). Those found to have produced more with that which they were given will be rewarded proportionally more highly.
+
+
 
 <!-- ## Timestamps {#timestamps} -->
 

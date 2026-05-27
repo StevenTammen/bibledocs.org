@@ -4,9 +4,9 @@ weight: 130
 layout: content-page
 ---
 
-{{< subjects >}}
+Since all of us struggle with different areas of sin, it does not seem to me to pose any theological problems to hypothesize that it is possible that temptation in the matter of homosexuality is ultimately something outside the control of human free will. However, that does not excuse giving into the temptation in the least—any more than it is ever OK to give into sexual temptations of the heterosexual variety. Moreover, due to our culture's and media's idolization of sexual deviance, it seems quite likely to me that the supposed numbers here are artificially inflated via so-called "copycat effects".
 
-{{< /subjects >}}
+<!--more-->
 
 {{% section-navigation %}}
 
@@ -22,7 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-Since all of us struggle with different areas of sin, it does not seem to me to pose any theological problems to hypothesize that it is possible that temptation in the matter of homosexuality is ultimately something outside the control of human free will. However, that does not excuse giving into the temptation in the least---any more than it is ever OK to give into sexual temptations of the heterosexual variety. Moreover, due to our culture's and media's idolization of sexual deviance, it seems quite likely to me that the supposed numbers here are artificially inflated via so-called "copycat effects".
+
+
+Since all of us struggle with different areas of sin, it does not seem to me to pose any theological problems to hypothesize that it is possible that temptation in the matter of homosexuality is ultimately something outside the control of human free will. However, that does not excuse giving into the temptation in the least—any more than it is ever OK to give into sexual temptations of the heterosexual variety. Moreover, due to our culture's and media's idolization of sexual deviance, it seems quite likely to me that the supposed numbers here are artificially inflated via so-called "copycat effects".
+
+
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -71,8 +75,8 @@ So... maybe it is not controllable in some cases, *and* maybe our current cultur
 
 Leaving things here in this discussion may be somewhat unsatisfying in that no hard position is being put forward, *per se*. However, what I can say with certainty is that:
 
-1) We must accept those who confess Christ and repent of sinful behaviors---those who both acknowledge such behaviors as wrong and also acknowledge their need for forgiveness for any lapses. We are all sinners in need of grace, after all (Romans 3:23; James 3:2).
-2) But we must never accept those who claim to be Christian and yet refuse to acknowledge that homosexuality is wrong and sinful. That would put us in direct opposition to 1 Corinthians 5:9-13. (And Romans 1:32, in our immediate context---since we would essentially be approving of evil).
+1) We must accept those who confess Christ and repent of sinful behaviors—those who both acknowledge such behaviors as wrong and also acknowledge their need for forgiveness for any lapses. We are all sinners in need of grace, after all (Romans 3:23; James 3:2).
+2) But we must never accept those who claim to be Christian and yet refuse to acknowledge that homosexuality is wrong and sinful. That would put us in direct opposition to 1 Corinthians 5:9-13. (And Romans 1:32, in our immediate context—since we would essentially be approving of evil).
 
 {{% /content %}}
 

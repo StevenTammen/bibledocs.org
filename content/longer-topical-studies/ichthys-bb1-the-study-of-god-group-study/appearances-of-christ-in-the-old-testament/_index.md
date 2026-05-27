@@ -6,8 +6,9 @@ video: https://www.youtube.com/watch?v=B8EA_xrGqjI
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
 ---
 
-{{< subjects >}}
-{{< /subjects >}}
+All appearances of the The (definite article) Angel of the Lord in the Old Testament were appearances of a pre-incarnate Jesus Christ, the second member of the Trinity. The Angel of the Lord appeared many times during the Exodus of God's people from Egypt (and their subsequent journey into the promised land), and also appeared in various other places in the Old Testament as well, before such people as Abraham, Joshua, Gideon, and so on.
+
+<!--more-->
 
 {{% section-navigation %}}
 
@@ -23,7 +24,11 @@ slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-
 
 ## Summary {#summary}
 
+
+
 All appearances of the The (definite article) Angel of the Lord in the Old Testament were appearances of a pre-incarnate Jesus Christ, the second member of the Trinity. The Angel of the Lord appeared many times during the Exodus of God's people from Egypt (and their subsequent journey into the promised land), and also appeared in various other places in the Old Testament as well, before such people as Abraham, Joshua, Gideon, and so on.
+
+
 
 ## Timestamps {#timestamps}
 
@@ -78,7 +83,7 @@ The appearance of the Lord to Moses in giving the Mosaic Law presents a case sim
 
 The case of the Angel of the Exodus demonstrates both the divinity of the Angel of the Lord and His identification as a pre-incarnate manifestation of our Lord Jesus Christ.
 
-You'll see exactly what we mean by "the Angel of the Exodus" as we go through the next bit. The specific focus here is on passages from the first few books of the Bible---from the calling of Moses, to Israel's flight from Egypt, to their settlement in the promised land. At every step of the way, they were guided by a pre-incarnate Jesus Christ, on behalf of the Father.
+You'll see exactly what we mean by "the Angel of the Exodus" as we go through the next bit. The specific focus here is on passages from the first few books of the Bible—from the calling of Moses, to Israel's flight from Egypt, to their settlement in the promised land. At every step of the way, they were guided by a pre-incarnate Jesus Christ, on behalf of the Father.
 
 <!-- --- -->
 

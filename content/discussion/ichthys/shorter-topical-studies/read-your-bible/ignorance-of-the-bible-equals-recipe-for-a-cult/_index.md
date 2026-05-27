@@ -10,4 +10,8 @@ category: CrossTalk Bible Study
 layout: content-page
 ---
 
+TODO: Summary
+
+<!--more-->
+
 Coming soon!

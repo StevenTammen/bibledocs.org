@@ -4,9 +4,11 @@ date: 2021-01-17T20:37:11-05:00
 tags: []
 subsection: overview
 weight: 1
-summary: >-
- I was fortunate to grow up in a Christian family, but my path to ministry was far from inevitable (or conventional). This page sets out to give a general introduction as to where I came from and how I ended up here. I did try to make it brief, but, well, telling the full story does require some ink. This is probably as close as I'll ever get to a testimony, if that sort of thing interests you.
 ---
+
+I was fortunate to grow up in a Christian family, but my path to ministry was far from inevitable (or conventional). This page sets out to give a general introduction as to where I came from and how I ended up here. I did try to make it brief, but, well, telling the full story does require some ink. This is probably as close as I'll ever get to a testimony, if that sort of thing interests you.
+
+<!--more-->
 
 I've tried to keep things as focused and to-the-point as possible, hence the bullet point format.
 

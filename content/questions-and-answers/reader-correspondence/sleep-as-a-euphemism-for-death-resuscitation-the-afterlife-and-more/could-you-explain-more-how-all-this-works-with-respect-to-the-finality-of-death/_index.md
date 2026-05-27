@@ -6,6 +6,10 @@ video: https://www.youtube.com/watch?v=EwrLrmwB4X4
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
 ---
 
+The word that some English versions translate as "once" in Hebrews 9:27 is the Greek adjective *hapax*. This lesson argues that the best way (and in fact only correct way) to take the sense of this verse is that "it is appointed for people to die once for all" rather than "it is appointed for people to die one time (as opposed to two times, three times, etc.)." If the correct interpretation of this verse really is the "once for all" sense of things, then there is no contradiction in resuscitated people facing physical death more than once, since even those people who are brought back to life for a time will still face eventual permanent physical death. 
+
+<!--more-->
+
 {{% section-navigation %}}
 
 ## Video {#video}
@@ -20,7 +24,11 @@ slides="https://www.bibledocs.org/slides/questions-and-answers/reader-correspond
 
 ## Summary {#summary}
 
+
+
 The word that some English versions translate as "once" in Hebrews 9:27 is the Greek adjective *hapax*. This lesson argues that the best way (and in fact only correct way) to take the sense of this verse is that "it is appointed for people to die once for all" rather than "it is appointed for people to die one time (as opposed to two times, three times, etc.)." If the correct interpretation of this verse really is the "once for all" sense of things, then there is no contradiction in resuscitated people facing physical death more than once, since even those people who are brought back to life for a time will still face eventual permanent physical death. 
+
+
 
 ## Timestamps {#timestamps}
 
@@ -71,7 +79,7 @@ So what to make of this? How do we puzzle it out? The key point is that in resur
 
 <!-- --- -->
 
-I also don't think we should lose sight of the fact that raising people from the dead (resuscitation) was clearly recognized as being utterly miraculous. It is *not* normal, but completely extraordinary---that's the whole point! So far from arguing "well, resuscitation can't actually be a thing, because it would mean that dead people have to cross an uncrossable boundary", we should instead be emphasizing how awe-inspiring it is that God, out of His overflowing grace and mercy and love, actually Himself violates the natural order He has set up, for our benefit!
+I also don't think we should lose sight of the fact that raising people from the dead (resuscitation) was clearly recognized as being utterly miraculous. It is *not* normal, but completely extraordinary—that's the whole point! So far from arguing "well, resuscitation can't actually be a thing, because it would mean that dead people have to cross an uncrossable boundary", we should instead be emphasizing how awe-inspiring it is that God, out of His overflowing grace and mercy and love, actually Himself violates the natural order He has set up, for our benefit!
 
 This reminds me in some respects of people struggling with exactly how the divine nature of Jesus Christ could possibly come to be bound to a physical body in the incarnation. It is fine to wonder and ponder and meditate upon (for it is certainly not easy to metabolize), but past a certain point, the important thing is that God *did* send His one and only Son into the world to take on humanity and die for our sins, so that we might be reconciled to Him. Shouldn't we focus on the wonder and awe of that, rather than focusing on raising objections to the "logic" of it, so to speak?
 
@@ -90,7 +98,7 @@ I'm afraid in the prior video [when I discussed Hebrews 9:27](), I was not as cl
 
 While I don't think there is anything technically wrong with what I said, perhaps this is not actually the ideal framework for trying to explain the concept, now that I think about it. Since it's not so much that the "dying" is different (so to speak), so much as what comes after it. That is, the difference comes from the following condition of the human being's existence more than it comes from how they left the physical world the first time around.
 
-So, for example, if Jairus' daughter died of illness (as is likely, given that she was only about 12 years old per Luke 8:42, and the text gives us no reason to think it was anything different), then her death from illness was no different than that of someone who would not ultimately be resuscitated. There was nothing special about this part, *per se*. What was special came only afterwards: that someone who was once dead (well and truly dead, not merely asleep) once again had life. *That* is the special thing---the miracle---not the "type of death".
+So, for example, if Jairus' daughter died of illness (as is likely, given that she was only about 12 years old per Luke 8:42, and the text gives us no reason to think it was anything different), then her death from illness was no different than that of someone who would not ultimately be resuscitated. There was nothing special about this part, *per se*. What was special came only afterwards: that someone who was once dead (well and truly dead, not merely asleep) once again had life. *That* is the special thing—the miracle—not the "type of death".
 
 What I had been trying to get at before was that there is a sort of death after which one stays dead, and that is true of all humans, even those who were resuscitated in the interim. Permanent physical death eventually comes for us all, and cannot be avoided by anyone.
 

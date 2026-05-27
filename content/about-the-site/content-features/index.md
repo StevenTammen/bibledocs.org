@@ -4,9 +4,11 @@ date: 2021-01-10T20:25:12-05:00
 tags: []
 subsection: content
 weight: 10
-summary: >-
-   This page goes over some notable features that enhance content on the site. Among other things, it explains how site content uses dynamic auto-scrolling tables of contents, maintains a thorough subject index with bidirectional links (content links to the subject index and vice versa), embeds feature-rich Bible app windows via the STEP Bible app API, automatically tags all Bible verses on the page to display scripture references in tooltip pop-up windows, implements footnotes that display in a tooltip on hover (very similar to the verse tagging), and utilizes direct paragraph-level or even sentence-level links to web resources or resources in Bible software programs, to make navigating to quoted or cited text instant and painless.
 ---
+
+This page goes over some notable features that enhance content on the site. Among other things, it explains how site content uses dynamic auto-scrolling tables of contents, maintains a thorough subject index with bidirectional links (content links to the subject index and vice versa), embeds feature-rich Bible app windows via the STEP Bible app API, automatically tags all Bible verses on the page to display scripture references in tooltip pop-up windows, implements footnotes that display in a tooltip on hover (very similar to the verse tagging), and utilizes direct paragraph-level or even sentence-level links to web resources or resources in Bible software programs, to make navigating to quoted or cited text instant and painless.
+
+<!--more-->
 
 ## Introduction
 

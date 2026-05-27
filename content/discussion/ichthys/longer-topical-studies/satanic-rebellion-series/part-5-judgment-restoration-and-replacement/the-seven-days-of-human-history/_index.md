@@ -3,19 +3,17 @@ date: 2025-01-04T16:00:00
 domain: —pb-d-ichthys=l
 title: "The seven days of human history (src: Ichthys)"
 stags: 
+  - God's plan for human history > The seven millennial days of human history
 ptags: 
 
 weight: 130
 category: Ichthys Bible Study
 layout: content-page
-
-summary:
-    
 ---
 
-{{< subjects >}}
+The seven days of re-creation start the process of God's judgment upon evil and His restoration of the earth as a suitable habitation for mankind, the replacements for Satan and the fallen angels. Additionally, each day of re-creation corresponds to one millennia of human history. While Satan intended the fall of Adam and Eve to disrupt God's plan, it only served to set it in motion, leading to the person and work of Jesus Christ who will judge, restore and replace all things according to God's divine plan at the end of the seven millennia of human history.
 
-{{< /subjects >}}
+<!--more-->
 
 {{% section-navigation %}}
 
@@ -24,28 +22,14 @@ summary:
 ## Video/audio {#video-audio}
 
 - [Link to recording segments on Dropbox](https://www.dropbox.com/scl/fo/895if8q7sx277u2ldfqxp/AAOOS_c1Sd1BU9KxID1VujY?rlkey=m3urioyzyphrd4cgb0eldoc5m&st=kuckfa8e&dl=0)
-- [Link to slides](slides.html)
-
-<!--
-
-{{% video
-videoId=""
-
-videoPlaylist=""
-
-slides=""
-%}}
-
--->
 
 ## Summary {#summary}
 
 
-<!--
 
-## Timestamps {#timestamps}
+The seven days of re-creation start the process of God's judgment upon evil and His restoration of the earth as a suitable habitation for mankind, the replacements for Satan and the fallen angels. Additionally, each day of re-creation corresponds to one millennia of human history. While Satan intended the fall of Adam and Eve to disrupt God's plan, it only served to set it in motion, leading to the person and work of Jesus Christ who will judge, restore and replace all things according to God's divine plan at the end of the seven millennia of human history.
 
--->
+
 
 {{% content %}}
 
@@ -59,8 +43,8 @@ slides=""
 
 srcmp3audiourl="https://ichthys.com/MP3/sr5-pt2-ak.mp3"
 srctitle="SR5 Audio Subpart 2"
-srcstart="00:10:17"
-srcend="00:15:11"
+srcstart="10:17"
+srcend="15:11"
 
 >}}
 
@@ -68,7 +52,7 @@ srcend="00:15:11"
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
-When God restored the heavens and the earth to habitable form, He did so in six literal days, leaving the seventh as a day of rest to memorialize the principle of peace and rest available to all who trust in Him. These seven days of the earth's re-creation began the process of God's judgment upon evil, His restoration of the universe, and His replacement of Satan. As we saw in [section I](https://ichthys.com/Satans-Rebellion-Part5.htm#I.%20Judgment,%20Restoration%20and%20Replacement%20I:%20Positional%20Victory%20%28Progeny%20and%20Promise%29) above, following His divine judgment upon the heavens and the earth in response to Satan's rebellion, God restored the earth and set the stage for the replacement of Satan and his followers with Adam and his progeny. Though the devil thought to disrupt this prospect through his temptation of Adam and Eve, the fall of mankind merely set in motion the grand Plan of God for human history, a design which pivots around the incarnation and sacrifice of Jesus Christ, and which will culminate in the ultimate replacement of the devil and his followers at history's end.
+When God restored the heavens and the earth to habitable form, He did so in six literal days, leaving the seventh as a day of rest to memorialize the principle of peace and rest available to all who trust in Him. These seven days of the earth's re-creation began the process of God's judgment upon evil, His restoration of the universe, and His replacement of Satan. As we saw in [section I](https://ichthys.com/Satans-Rebellion-Part5.htm#I.%20Judgment,%20Restoration%20and%20Replacement%20I:%20Positional%20Victory%20%28Progeny%20and%20Promise%29) above, following His divine *judgment* upon the heavens and the earth in response to Satan's rebellion, God *restored* the earth and set the stage for the *replacement* of Satan and his followers with Adam and his progeny. Though the devil thought to disrupt this prospect through his temptation of Adam and Eve, the fall of mankind merely set in motion the grand Plan of God for human history, a design which pivots around the incarnation and sacrifice of Jesus Christ, and which will culminate in the ultimate replacement of the devil and his followers at history's end.
 
 <!-- --- -->
 
@@ -197,16 +181,118 @@ For whatever reason, many people seem to have "issues" with that as a possible p
 
 {{% /content %}}
 
-<!--
+## Review questions {#review-questions}
 
-{{% transcript %}}
+{{< quizdown >}}
 
-## Video/audio transcript {#video-audio-transcript}
+# True or False: The seven literal days of re-creation are symbolic of the seven millennia of human history {#true-or-false-the-seven-literal-days-of-re-creation-are-symbolic-of-the-seven-millennia-of-human-history}
 
+1. [x] True
+1. [ ] False
 
+# True or False: The fall of Adam and Eve altered God's plan for human history {#true-or-false-the-fall-of-adam-and-eve-altered-god-s-plan-for-human-history}
 
-{{% /transcript %}}
+1. [ ] True
+1. [x] False
 
--->
+# Put the seven millennia of human history in order {#put-the-seven-millennia-of-human-history-in-order}
+
+1. The Antediluvian civilization
+2. The division of the nations
+3. The nation of Israel 
+4. The kingdom of Israel 
+5. Centralized Christianity
+6. Decentralized Christianity
+7. The Millennium 
+
+# True or False: The Bible does not give us specific information about the timeline of human history. {#true-or-false-the-bible-does-not-give-us-specific-information-about-the-timeline-of-human-history}
+
+1. [ ] True
+1. [x] False
+
+# The Antediluvian Civilization spans what time? {#the-antediluvian-civilization-spans-what-time}
+
+1. [ ] From the Second Advent of Christ to the Gog-Magog Rebellion
+1. [ ] From circa Noah to Abraham
+1. [ ] From Abraham to circa David
+1. [x] From Adam's fall to circa Noah
+1. [ ] From Christ to circa the schism of the Church
+1. [ ] From circa David to Christ
+1. [ ] From circa the schism of the Church to the Second Advent of Christ
+
+# The Division of the Nations spans what time? {#the-division-of-the-nations-spans-what-time}
+
+1. [ ] From Adam's fall to circa Noah
+1. [ ] From circa the schism of the Church to the Second Advent of Christ
+1. [ ] From Christ to circa the schism of the Church
+1. [ ] From circa David to Christ
+1. [ ] From the Second Advent of Christ to the Gog-Magog Rebellion
+1. [x] From circa Noah to Abraham
+1. [ ] From Abraham to circa David
+
+# The Nation of Israel spans what time? {#the-nation-of-israel-spans-what-time}
+
+1. [x] From Abraham to circa David
+1. [ ] From the Second Advent of Christ to the Gog-Magog Rebellion 
+1. [ ] From Christ to circa the schism of the Church
+1. [ ] From circa Noah to Abraham
+1. [ ] From circa the schism of the Church to the Second Advent of Christ
+1. [ ] From Adam's fall to circa Noah
+1. [ ] From circa David to Christ
+
+# The Kingdom of Israel spans what time? {#the-kingdom-of-israel-spans-what-time}
+
+1. [x] From circa David to Christ
+1. [ ] From Abraham to circa David
+1. [ ] From circa the schism of the Church to the Second Advent of Christ
+1. [ ] From circa Noah to Abraham
+1. [ ] From Adam's fall to circa Noah
+1. [ ] From Christ to circa the schism of the Church
+1. [ ] From the Second Advent of Christ to the Gog-Magog Rebellion
+
+# Centralized Christianity spans what time? {#centralized-christianity-spans-what-time}
+
+1. [ ] From circa David to Christ
+1. [ ] From Adam's fall to circa Noah
+1. [x] From Christ to circa the schism of the Church
+1. [ ] From circa the schism of the Church to the Second Advent of Christ
+1. [ ] From the Second Advent of Christ to the Gog-Magog Rebellion
+1. [ ] From Abraham to circa David
+1. [ ] From circa Noah to Abraham
+
+# Decentralized Christianity spans what time? {#decentralized-christianity-spans-what-time}
+
+1. [ ] From circa Noah to Abraham
+1. [x] From circa the schism of the Church to the Second Advent of Christ
+1. [ ] From the Second Advent of Christ to the Gog-Magog Rebellion
+1. [ ] From Abraham to circa David
+1. [ ] From circa David to Christ
+1. [ ] From Adam's fall to circa Noah
+1. [ ] From Christ to circa the schism of the Church
+
+# The Millennium spans what time? {#the-millennium-spans-what-time}
+
+1. [ ] From circa the schism of the Church to the Second Advent of Christ
+1. [ ] From Abraham to circa David
+1. [ ] From Adam's fall to circa Noah
+1. [ ] From circa David to Christ
+1. [x] From the Second Advent of Christ to the Gog-Magog Rebellion
+1. [ ] From circa Noah to Abraham
+1. [ ] From Christ to circa the schism of the Church
+
+# Which of the following statements about the seven days of re-creation are true? {#which-of-the-following-statements-about-the-seven-days-of-re-creation-are-true}
+
+I. Starts the process of God's judgment on evil
+II. Starts God's restoration of the universe
+III. Starts God's replacement of Satan
+IV. Symbolizes God's plan for the seven millennia of human history
+
+1. [ ] I. and III. alone
+1. [ ] III. and IV. alone
+1. [ ] I. alone
+1. [ ] IV. alone
+1. [x] All of the above
+
+{{< /quizdown >}}
 
 {{% section-navigation %}}

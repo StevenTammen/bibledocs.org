@@ -4,9 +4,11 @@ weight: 50
 layout: content-page
 ---
 
-{{< subjects >}}
+In this release, we've got the first 9 lessons in a new study of BB1: Theology off Ichthys (the section of Ichthys' systematic theology that goes over theology proper)---well, the written parts, at any rate. The videos will hopefully go up soon, once I've processed and polished them a bit more.
 
-{{< /subjects >}}
+There are also *lots* of new pages in new verse-by-verse studies of Romans and 1 Thessalonians: Romans 1, Romans 2, 1 Thessalonians 4, and 1 Thessalonians 5. I've also got a bunch more discussion-based pages scaffolded out for Romans 1 through Romans 10 in a separate study of Romans. These pages are more like lists of discussion questions with my rough notes accompanying them. At least, that will be the idea, once I get around to actually filling in my notes.
+
+<!--more-->
 
 {{% section-navigation %}}
 
@@ -22,9 +24,13 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2023/throug
 
 ## Summary {#summary}
 
+
+
 In this release, we've got the first 9 lessons in a new study of BB1: Theology off Ichthys (the section of Ichthys' systematic theology that goes over theology proper)---well, the written parts, at any rate. The videos will hopefully go up soon, once I've processed and polished them a bit more.
 
 There are also *lots* of new pages in new verse-by-verse studies of Romans and 1 Thessalonians: Romans 1, Romans 2, 1 Thessalonians 4, and 1 Thessalonians 5. I've also got a bunch more discussion-based pages scaffolded out for Romans 1 through Romans 10 in a separate study of Romans. These pages are more like lists of discussion questions with my rough notes accompanying them. At least, that will be the idea, once I get around to actually filling in my notes.
+
+
 
 ## Timestamps {#timestamps}
 
@@ -74,7 +80,7 @@ And in that vein, I'm afraid this video probably will not completely describe ev
 
 ### BibleDriven, Jordan Bomberger's online ministry, is now live! {#bibledriven-jordan-bomberger-s-online-ministry-is-now-live}
 
-In my last update, I had mentioned that I was helping my close friend, roommate, and fellow Bible teacher set up his ministry website, and that that would be my primary focus for at least for a while. (Which it was---a couple weeks at least). 
+In my last update, I had mentioned that I was helping my close friend, roommate, and fellow Bible teacher set up his ministry website, and that that would be my primary focus for at least for a while. (Which it was—a couple weeks at least). 
 
 Well, I am pleased to report that his launch went smoothly, and his [ministry website is now live](https://www.bibledriven.org/)! Jordan, in fact, probably has a good bit more written content than myself at present, and his website should serve as an excellent supplement to [Ichthys](https://ichthys.com/), [Bible Academy](https://www.youtube.com/channel/UCkp-J7VPT7NcwmuiNfD2fkg), and this ministry here at BibleDocs.
 
@@ -84,7 +90,7 @@ Should you have questions relating any of these things he has written (or others
 
 <!-- --- -->
 
-I am planning to cross-link to Jordan's content a good bit in my own work moving forward, as I identify areas where he has already covered something. Hopefully that should be indicative of the regard I hold for my friend's efforts---not that we probably agree on every single thing, but that his writing is truly worthy of consideration.
+I am planning to cross-link to Jordan's content a good bit in my own work moving forward, as I identify areas where he has already covered something. Hopefully that should be indicative of the regard I hold for my friend's efforts—not that we probably agree on every single thing, but that his writing is truly worthy of consideration.
 
 <!-- --- -->
 
@@ -104,7 +110,7 @@ At present, our study is meeting Saturday afternoons at 4:00 PM EST (Atlanta/New
 
 While we are several months into this study (and I therefore have a nice backlog of videos already recorded), I wish for the video format to be just so (editing things in for topic transitions, etc.), so have not yet gotten around to processing and posting all the videos. Part of the reason this ministry update is coming out so late is because I kept wishing for the videos to be part of the update (and therefore kept pushing back the timing of the update to try to give myself more time to finish things here), but it just hasn't happened yet due to all the other things I'm trying to get done at the same time. And I eventually decided that I'd best release what I've been working on in the meantime, videos or no videos.
 
-They will be a primary focus of mine in the next bit though---catching up so that I post each new video as we have the study week by week. You'll probably see a bunch of videos pop up on the channel in the next several weeks as I work my way through the backlog here. I'm going to try to clear this backlog before I make the next ministry progress summary video, but we'll see.
+They will be a primary focus of mine in the next bit though—catching up so that I post each new video as we have the study week by week. You'll probably see a bunch of videos pop up on the channel in the next several weeks as I work my way through the backlog here. I'm going to try to clear this backlog before I make the next ministry progress summary video, but we'll see.
 
 <!-- --- -->
 
@@ -156,7 +162,7 @@ Both of these are studies I'd like to get out in the near future, hopefully. I h
 
 As already mentioned, I'd first like to finish processing and then post all of the past weeks for our Zoom Bible Study going over BB1: Theology. So doing that, then just keeping up with the series thereafter, is going to be a priority.
 
-Odii (my friend and "co-host" in the BB1 series) and I have discussed the idea of doing a parallel study on the Coming Tribulation (CT) series on Ichthys as well, meeting more ad-hoc during the week as our schedules allow (rather than also having this second study be formally/consistently scheduled---contrast the BB1 study, which always happens at the same time on Saturdays), and we might like to try this out in the future. That could well lead to preparing for, recording, processing, and posting two (or perhaps even three) long/in-depth videos every week or two, which would keep me busy, for sure.
+Odii (my friend and "co-host" in the BB1 series) and I have discussed the idea of doing a parallel study on the Coming Tribulation (CT) series on Ichthys as well, meeting more ad-hoc during the week as our schedules allow (rather than also having this second study be formally/consistently scheduled—contrast the BB1 study, which always happens at the same time on Saturdays), and we might like to try this out in the future. That could well lead to preparing for, recording, processing, and posting two (or perhaps even three) long/in-depth videos every week or two, which would keep me busy, for sure.
 
 <!-- --- -->
 
@@ -164,19 +170,19 @@ I'd also like to catch up and then keep up better with posting my brief notes fo
 
 <!-- --- -->
 
-Finally, I'm weighing the idea of getting involved in a few online Christian communities---like forums, Facebook groups, Subreddits, Discord servers, and that sort of thing. The idea would be to engage more actively with others, rather than only posting static content. I only have so much time, of course, but it has been something that I thought might be a good fit for me. Especially as I finish getting all of my voice recognition and text editing things set up, and my writing efficiency continues to go up.
+Finally, I'm weighing the idea of getting involved in a few online Christian communities—like forums, Facebook groups, Subreddits, Discord servers, and that sort of thing. The idea would be to engage more actively with others, rather than only posting static content. I only have so much time, of course, but it has been something that I thought might be a good fit for me. Especially as I finish getting all of my voice recognition and text editing things set up, and my writing efficiency continues to go up.
 
 <!-- --- -->
 
 ### Index of new content this release {#index-of-new-content-this-release}
 
-I mentioned the higher-level categories above, but now I'm going to link each new page individually---I believe the following sections exhaustively list out all the new content pages in this release.
+I mentioned the higher-level categories above, but now I'm going to link each new page individually—I believe the following sections exhaustively list out all the new content pages in this release.
 
 <!-- --- -->
 
 #### BB1: Theology lessons {#bb1-theology-lessons}
 
-These are the lessons we've already gotten through in our group Bible study of BB1. I've got everything set up to embed the videos as soon as I get around to posting them---hopefully soon.
+These are the lessons we've already gotten through in our group Bible study of BB1. I've got everything set up to embed the videos as soon as I get around to posting them—hopefully soon.
 
 * [Introduction - The Essence of God · BibleDocs](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-essence-of-god/)
 * [God's Infinite Nature · BibleDocs](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/)

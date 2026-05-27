@@ -3,9 +3,11 @@ title: On the Actions of Abraham, Sarah, and Hagar in Genesis 16
 weight: 
 contentlevel: intermediate
 layout: single-page
-summary: >-
-   Is it proper to say that the morality of actions depends upon cultural context? That aside, was Hagar a young girl taken advantage of and pressured into Abraham's bed against her will, or was she a willing adult participant who came to arrogantly disrespect the legitimate authority of her mistress? We will be addressing these matters in our discussion here.
 ---
+
+Is it proper to say that the morality of actions depends upon cultural context? That aside, was Hagar a young girl taken advantage of and pressured into Abraham's bed against her will, or was she a willing adult participant who came to arrogantly disrespect the legitimate authority of her mistress? We will be addressing these matters in our discussion here.
+
+<!--more-->
 
 <!-- ## Video {#video}
 
@@ -19,7 +21,11 @@ slides="https://www.bibledocs.org/slides/"
 
 ## Summary {#summary}
 
+
+
 Is it proper to say that the morality of actions depends upon cultural context? That aside, was Hagar a young girl taken advantage of and pressured into Abraham's bed against her will, or was she a willing adult participant who came to arrogantly disrespect the legitimate authority of her mistress? We will be addressing these matters in our discussion here.
+
+
 
 <!-- ## Timestamps {#timestamps} -->
 
