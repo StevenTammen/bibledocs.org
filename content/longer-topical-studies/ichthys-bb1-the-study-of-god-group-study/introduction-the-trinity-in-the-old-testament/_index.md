@@ -6,6 +6,10 @@ video: https://www.youtube.com/watch?v=2XAJZQUjYn0
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
 ---
 
+God has always been triune in nature; He did not somehow change to become three persons in New Testament times, but rather, has always existed as such. What has changed is not God, but our perspective and understanding of Him. As to why God might have chosen to veil his triune nature until the time He actually did reveal it to mankind, we put forward two explanations: that God did not reveal His triune nature in order to head off idolatry among the people of Israel, and that God did not reveal His triune nature simply because it was not possible for humanity to fully grasp it until the First Advent of Christ.
+
+<!--more-->
+
 {{< subjects >}}
 <a href="/subject-index/#trinity-roles">Trinity > Roles</a>
 {{< /subjects >}}
@@ -24,7 +28,11 @@ slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-
 
 ## Summary {#summary}
 
+
+
 God has always been triune in nature; He did not somehow change to become three persons in New Testament times, but rather, has always existed as such. What has changed is not God, but our perspective and understanding of Him. As to why God might have chosen to veil his triune nature until the time He actually did reveal it to mankind, we put forward two explanations: that God did not reveal His triune nature in order to head off idolatry among the people of Israel, and that God did not reveal His triune nature simply because it was not possible for humanity to fully grasp it until the First Advent of Christ.
+
+
 
 ## Timestamps {#timestamps}
 

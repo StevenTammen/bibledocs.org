@@ -4,12 +4,13 @@ chapter: 1
 layout: aggregation-page
 ---
 
+Studies relating to Genesis 1.
+
+<!--more-->
+
 <!-- aggregate-page-content -->
 
 ## [Genesis 1:1 - What "Beginning" Is in View?](/verse-by-verse-studies/genesis/genesis-1/genesis-1-1-what-beginning-is-in-view) {#genesis-1-1-what-beginning-is-in-view}
-{{< subjects >}}
-
-{{< /subjects >}}
 
 
 
@@ -25,7 +26,11 @@ slides="https://www.steventammen.com/slides/"
 
 ### Summary {#genesis-1-1-what-beginning-is-in-view-summary}
 
+
+
 Genesis 1:1 (in the original Hebrew and Greek Septuagint both) and John 1:1 do not have direct articles, meaning the texts read "a beginning" not "the beginning." This supports the idea that the beginning referred to is the beginning of God's actions regarding the material universe, not the beginning of the material universe itself. Making this clear guarantees that people properly understand that God transcends space and time (things of His own creation), rather than Himself being somehow bound by the material universe.
+
+
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -93,7 +98,7 @@ We have בְּרֵאשִׁית not בָּרֵאשִׁית in Genesis 1:1. We hav
 
 {{% /nt %}}
 
-{{% ot t="septuagint" h="300px" p="Genesis 1:1" %}}
+{{% ot t="lxx" h="300px" p="Genesis 1:1" %}}
 
 {{% scripture-h p="Genesis 1:1 | Rahlf's LXX" %}}
 Ἐν ἀρχῇ ἐποίησεν ὁ θεὸς τὸν οὐρανὸν καὶ τὴν γῆν.

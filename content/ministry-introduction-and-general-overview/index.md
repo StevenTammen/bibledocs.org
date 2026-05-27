@@ -2,6 +2,10 @@
 title: Ministry Introduction and General Overview
 ---
 
+This video provides a summary of this ministry: who is behind it, what resources it offers, its community, and the meetings that the community has. This may not sound oh-so-complicated, but even so, there are a lot of things to go over, so the video is still not particularly short. Nonetheless, by the end of this video, you should have a good idea of what this ministry is setting out to do, and whether or not it might have things that you personally would find interesting and useful. If you have any questions or want more information, you can always reach out to me at steven@bibledocs.org.
+
+<!--more-->
+
 ## Video {#video}
 
 {{% video
@@ -14,7 +18,11 @@ slides="https://www.bibledocs.org/slides/ministry-introduction-and-general-overv
 
 ## Summary {#summary}
 
+<!-- summary -->
+
 This video provides a summary of this ministry: who is behind it, what resources it offers, its community, and the meetings that the community has. This may not sound oh-so-complicated, but even so, there are a lot of things to go over, so the video is still not particularly short. Nonetheless, by the end of this video, you should have a good idea of what this ministry is setting out to do, and whether or not it might have things that you personally would find interesting and useful. If you have any questions or want more information, you can always reach out to me at steven@bibledocs.org.
+
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 

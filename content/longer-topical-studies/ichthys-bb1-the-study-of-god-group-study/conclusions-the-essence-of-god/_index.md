@@ -6,9 +6,9 @@ video: https://www.youtube.com/watch?v=6lZG04vtRfY
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
 ---
 
-{{< subjects >}}
+In this lesson, we are going to be summarizing what we've done in the last several lessons, sort of pulling it all together. This will then conclude our discussion of the Essence of God: both His infinite nature, and His perfect character.
 
-{{< /subjects >}}
+<!--more-->
 
 {{% section-navigation %}}
 
@@ -24,7 +24,11 @@ slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-
 
 ## Summary {#summary}
 
+
+
 In this lesson, we are going to be summarizing what we've done in the last several lessons, sort of pulling it all together. This will then conclude our discussion of the Essence of God: both His infinite nature, and His perfect character.
+
+
 
 ## Timestamps {#timestamps}
 

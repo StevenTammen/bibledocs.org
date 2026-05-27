@@ -6,6 +6,10 @@ video: https://www.youtube.com/watch?v=8GMxPLPmj90
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
 ---
 
+In this lesson, we are going to be starting an examination of a new topic in our study of God: the Trinity. God existing in three persons yet with one shared essence is about as core a concept as any we have in Christianity, which is one of the reasons that heresies related to the Trinity have been among the most existential of all threats to truth in the Church. This being the case, it is very important for us to understand the ins and outs of this keystone doctrine, so that we may stand firm in the truth of the Bible and its teaching.
+
+<!--more-->
+
 {{< subjects >}}
 <a href="/subject-index/#trinity-definition">Trinity > Definition</a>
 {{< /subjects >}}
@@ -24,7 +28,11 @@ slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-
 
 ## Summary {#summary}
 
+
+
 In this lesson, we are going to be starting an examination of a new topic in our study of God: the Trinity. God existing in three persons yet with one shared essence is about as core a concept as any we have in Christianity, which is one of the reasons that heresies related to the Trinity have been among the most existential of all threats to truth in the Church. This being the case, it is very important for us to understand the ins and outs of this keystone doctrine, so that we may stand firm in the truth of the Bible and its teaching.
+
+
 
 ## Timestamps {#timestamps}
 
@@ -90,7 +98,7 @@ The explanation that makes the most sense is simply that John, inspired by the H
 
 The Apostolic Fathers, the generation that followed the men who actually penned the New Testament, also felt that merely quoting scriptures was an entirely adequate way of discussing the relationship between Father, Son, and Holy Spirit.
 
-Not until the late second and early third centuries did the term "Trinity" itself come into general use as a way of defending (against a variety of heresies which sought to deny various aspects of the unique triune nature of God) what earlier generations of Christians had taken completely for granted based upon their common-sense approach to reading the Bible: that God the Father, the Lord Jesus Christ, and the Holy Spirit are all God, and that at the same time they are---in what we may call a "personal" way---also distinct from each other.
+Not until the late second and early third centuries did the term "Trinity" itself come into general use as a way of defending (against a variety of heresies which sought to deny various aspects of the unique triune nature of God) what earlier generations of Christians had taken completely for granted based upon their common-sense approach to reading the Bible: that God the Father, the Lord Jesus Christ, and the Holy Spirit are all God, and that at the same time they are—in what we may call a "personal" way—also distinct from each other.
 
 God is one. God is also three. And there is no contradiction between these statements.
 

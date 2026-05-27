@@ -4,9 +4,9 @@ weight: 60
 layout: content-page
 ---
 
-{{< subjects >}}
+This cycle I was mostly stuck working on personal matters that needed to get done. I did mostly get the teleprompter set up though, so hopefully I can start using that effectively in the future. And I also built a spreadsheet to automate some of the stuff I need to do to send updates about these ministry progress summaries, to speed things up more moving forward.
 
-{{< /subjects >}}
+<!--more-->
 
 {{% section-navigation %}}
 
@@ -22,7 +22,11 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/throug
 
 ## Summary {#summary}
 
+
+
 This cycle I was mostly stuck working on personal matters that needed to get done. I did mostly get the teleprompter set up though, so hopefully I can start using that effectively in the future. And I also built a spreadsheet to automate some of the stuff I need to do to send updates about these ministry progress summaries, to speed things up more moving forward.
+
+
 
 ## Timestamps {#timestamps}
 

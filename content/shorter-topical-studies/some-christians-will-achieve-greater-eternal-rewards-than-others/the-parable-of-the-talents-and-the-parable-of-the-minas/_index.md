@@ -4,9 +4,9 @@ weight: 10
 layout: content-page
 ---
 
-{{< subjects >}}
+The parable of the talents and the parable of the minas both clearly teach that the level of our reward in eternity is dependent upon what we do here on Earth. When the master (Christ) returns from His long journey (the second coming, Christ's παρουσία), he will judge individual Christians (servants) according to what return they have produced using the resources he gave them (everything we are blessed with in life -- talents, wealth, and so on). Those found to have produced more with that which they were given will be rewarded proportionally more highly.
 
-{{< /subjects >}}
+<!--more-->
 
 {{% section-navigation %}}
 
@@ -22,7 +22,11 @@ slides="https://www.steventammen.com/slides/"
 
 ## Summary {#summary}
 
+
+
 The parable of the talents and the parable of the minas both clearly teach that the level of our reward in eternity is dependent upon what we do here on Earth. When the master (Christ) returns from His long journey (the second coming, Christ's παρουσία), he will judge individual Christians (servants) according to what return they have produced using the resources he gave them (everything we are blessed with in life -- talents, wealth, and so on). Those found to have produced more with that which they were given will be rewarded proportionally more highly.
+
+
 
 <!-- ## Timestamps {#timestamps} -->
 

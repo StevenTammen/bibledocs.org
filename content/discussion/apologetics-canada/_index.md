@@ -1,9 +1,11 @@
 ---
 title: "Discussion source: Apologetics Canada"
 layout: list-page
-summary:
-    Apologetics Canada Ministries (AC) is an evangelical, non-denominational Canadian charity dedicated to equipping the Christian community to understand, defend, and share gospel truth. They have a few different apologetics-focused video series, and also organize various events/summits. Some of their members (like Andy Steiger and Wes Huff) also fairly regularly speak at events other folks run.
 ---
+
+Apologetics Canada Ministries (AC) is an evangelical, non-denominational Canadian charity dedicated to equipping the Christian community to understand, defend, and share gospel truth. They have a few different apologetics-focused video series, and also organize various events/summits. Some of their members (like Andy Steiger and Wes Huff) also fairly regularly speak at events other folks run.
+
+<!--more-->
 
 This section contains discussion series based on studies from Apologetics Canada.
 

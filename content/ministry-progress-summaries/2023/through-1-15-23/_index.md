@@ -4,9 +4,9 @@ weight: 20
 layout: content-page
 ---
 
-{{< subjects >}}
+This cycle was very research-heavy. I worked more on the studies I'm in the process of drafting, and in the process of researching a related topic, kicked off a massive forum discussion, and an email chain with my mentor. I also researched options for local fellowships, and narrowed down the options to several that look promising.
 
-{{< /subjects >}}
+<!--more-->
 
 {{% section-navigation %}}
 
@@ -22,7 +22,11 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2023/throug
 
 ## Summary {#summary}
 
+
+
 This cycle was very research-heavy. I worked more on the studies I'm in the process of drafting, and in the process of researching a related topic, kicked off a massive forum discussion, and an email chain with my mentor. I also researched options for local fellowships, and narrowed down the options to several that look promising.
+
+
 
 ## Timestamps {#timestamps}
 

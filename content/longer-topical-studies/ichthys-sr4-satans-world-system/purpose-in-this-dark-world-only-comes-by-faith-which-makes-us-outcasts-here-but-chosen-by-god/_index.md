@@ -4,16 +4,16 @@ weight: 20
 layout: content-page
 ---
 
-{{< subjects >}}
+TODO: Summary
 
-{{< /subjects >}}
+<!--more-->
 
 {{% section-navigation %}}
 
 ## Video {#video}
 
 {{% video
-videoId=""
+videoId="hsSICBg67Og"
 
 videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4"
 
@@ -21,6 +21,10 @@ slides="https://bibledocs.org/slides/longer-topical-studies/ichthys-sr4-satans-w
 %}}
 
 ## Summary {#summary}
+
+
+
+TODO: Summary
 
 
 
@@ -146,44 +150,6 @@ For this reason, we can expect the world's hostility, as our Lord warned us (Joh
 {{% /transcript %}}
 
 {{% discussion-pages %}}
-
-## [SR4 Discussion Page](/longer-topical-studies/ichthys-sr4-satans-world-system/purpose-in-this-dark-world-only-comes-by-faith-which-makes-us-outcasts-here-but-chosen-by-god/some-clarifications-on-monasticism-taking-care-not-to-forget-the-darkness-of-the-world) {#sr4-discussion-page}
-{{< subjects >}}
-
-{{< /subjects >}}
-
-
-
-### Video {#sr4-discussion-page-video}
-
-{{% video
-videoId=""
-
-videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4"
-
-slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr4-satans-world-system/" 
-%}}
-
-### Summary {#sr4-discussion-page-summary}
-
-Test and test again
-
-### Timestamps {#sr4-discussion-page-timestamps}
-
-{{% toggleable-content %}}
-
-### Content {#sr4-discussion-page-content}
-
-(Derived from https://ichthys.com/SR4(SWS).htm)
-
-{{% /toggleable-content %}}
-
-{{% toggleable-transcript %}}
-
-### Video/audio transcript {#sr4-discussion-page-video-audio-transcript}
-
-{{% /toggleable-transcript %}}
-
 
 {{% /discussion-pages %}}
 

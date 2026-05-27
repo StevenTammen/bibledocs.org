@@ -4,9 +4,9 @@ weight: 40
 layout: content-page
 ---
 
-{{< subjects >}}
+1 Thessalonians 4:13-18 speaks of the resurrection of the dead at the second coming of Christ, and also the "catching up" of those believers still alive at the time, which is commonly called "the rapture". All this happens when Christ returns right before Armageddon (as described in Revelation 19:11ff.), *not* before the Tribulation. Believing in the false doctrine of the pre-tribulation rapture inherently makes one spiritually complacent, so getting this right is important.
 
-{{< /subjects >}}
+<!--more-->
 
 {{% section-navigation %}}
 
@@ -22,7 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
+
+
 1 Thessalonians 4:13-18 speaks of the resurrection of the dead at the second coming of Christ, and also the "catching up" of those believers still alive at the time, which is commonly called "the rapture". All this happens when Christ returns right before Armageddon (as described in Revelation 19:11ff.), *not* before the Tribulation. Believing in the false doctrine of the pre-tribulation rapture inherently makes one spiritually complacent, so getting this right is important.
+
+
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -45,9 +49,9 @@ Different theologians hold different views on exactly when this event happens, r
 
 To be clear, this post-tribulation rapture does *not* mean believers will themselves face the full judgments described in Revelation. Just how the generation of the Exodus [^typological-parallel] was basically spared from the judgments rendered upon Egypt, believers in the Tribulation will also be basically spared the judgments rendered upon the world around them. But also just how the Exodus generation had to go "through" not "around" (so to speak), so too in this case.
 
-[^typological-parallel]: A *very* clear parallel vis-à-vis prophetic typology---pharaoh is a clear prophetic type of antichrist, the plagues clearly correspond to the judgments of Revelation, the promised rest of the Millennium clearly corresponds to the promised land overflowing with milk and honey = Israel's inheritance, and so on.
+[^typological-parallel]: A *very* clear parallel vis-à-vis prophetic typology—pharaoh is a clear prophetic type of antichrist, the plagues clearly correspond to the judgments of Revelation, the promised rest of the Millennium clearly corresponds to the promised land overflowing with milk and honey = Israel's inheritance, and so on.
 
-There is only one *parousia* (Greek: [παρουσία](https://www.blueletterbible.org/lexicon/g3952/esv/mgnt/0-1/)) of Christ discussed in scripture---a clear and obvious challenge to the notion that Christ comes as described here in 1 Thessalonians 4, only to disappear for a while (?) until coming again right before Armageddon, as described in Revelation 19:11ff.
+There is only one *parousia* (Greek: [παρουσία](https://www.blueletterbible.org/lexicon/g3952/esv/mgnt/0-1/)) of Christ discussed in scripture—a clear and obvious challenge to the notion that Christ comes as described here in 1 Thessalonians 4, only to disappear for a while (?) until coming again right before Armageddon, as described in Revelation 19:11ff.
 
 Further, while we might say that the falseness of this position in an epistemological sense is established only based on arguments from scripture (i.e., rather than based on utilitarian/consequentialist arguments), we might also note that this false teaching inherently leads to a large amount of spiritual complacency, no matter how much supporters of the position might protest and claim that this is not necessarily the case. (Most do). To put it bluntly, if God will just miraculously spare us from all hardship, why bother preparing spiritually for those difficult times ahead? Even if you know you ought to... well, knowing right and doing right are two very different things, are they not?
 

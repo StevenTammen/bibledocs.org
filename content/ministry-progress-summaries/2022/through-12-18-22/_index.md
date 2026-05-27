@@ -4,9 +4,9 @@ weight: 80
 layout: content-page
 ---
 
-{{< subjects >}}
+This cycle I started producing new written content again. This time, one study was on the office of pastor-teacher and church polity, another was on the actions of Abraham, Sarah, and Hagar in Genesis 16, and the final one was on college decisions and career path.
 
-{{< /subjects >}}
+<!--more-->
 
 {{% section-navigation %}}
 
@@ -22,7 +22,11 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/throug
 
 ## Summary {#summary}
 
+
+
 This cycle I started producing new written content again. This time, one study was on the office of pastor-teacher and church polity, another was on the actions of Abraham, Sarah, and Hagar in Genesis 16, and the final one was on college decisions and career path.
+
+
 
 ## Timestamps {#timestamps}
 

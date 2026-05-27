@@ -4,9 +4,9 @@ weight: 140
 layout: content-page
 ---
 
-{{< subjects >}}
+The text in Romans 1:27 ("receiving in themselves the due penalty for their error") is sort of ambiguous as to what the error in view is, as well as what the penalty (or negative result/consequence) for said error is. As I see things, things make the most sense if you view this clause as being inclusive and broad in its application rather than exclusive and specific.
 
-{{< /subjects >}}
+<!--more-->
 
 {{% section-navigation %}}
 
@@ -22,7 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
+
+
 The text in Romans 1:27 ("receiving in themselves the due penalty for their error") is sort of ambiguous as to what the error in view is, as well as what the penalty (or negative result/consequence) for said error is. As I see things, things make the most sense if you view this clause as being inclusive and broad in its application rather than exclusive and specific.
+
+
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -79,7 +83,7 @@ I actually do not view this as an exclusive choice at all. Verse 24 directly say
 - Because of their idolatry, God gave them over to the unnatural lusts involved in homosexuality (verse 24 and 26a)
 - But also because of this shameful behavior, additional negative consequences too will follow
 
-To the extent that the error is "suppressing the truth" (Romans 1:18), the penalty is "handing them over to a reprobate mind" (Romans 1:28); to the extent that the error is specifically "abandoning natural relations," then the penalty is the natural results of such degrading behavior (see below---the result of sin is always death, and sexual sin specifically comes in for special reproof). This concept of compounding choices and consequences is akin to the virtuous cycle of spiritual growth, but the opposite---a feedback loop of depravity.
+To the extent that the error is "suppressing the truth" (Romans 1:18), the penalty is "handing them over to a reprobate mind" (Romans 1:28); to the extent that the error is specifically "abandoning natural relations," then the penalty is the natural results of such degrading behavior (see below—the result of sin is always death, and sexual sin specifically comes in for special reproof). This concept of compounding choices and consequences is akin to the virtuous cycle of spiritual growth, but the opposite—a feedback loop of depravity.
 
 Hopefully this explanation makes sense. It can take a bit of squinting to see how the all the bits fit together, but the passage really does make the most sense if you view this clause as being inclusive and broad in its application rather than exclusive and specific.
 
@@ -95,7 +99,7 @@ The wages of sin is **death**
 Then, after desire has conceived, it gives birth to sin; and sin, when it is full-grown, **gives birth to death**.
 {{% /scripture %}}
 
-The Bible is very clear that sin leads to death. There are actually [three aspects of death](https://ichthys.com/3B-Hamartio.htm#1.%20The%20Three%20Aspects%20of%20Death). When Eve ate from the tree after being tempted by Satan, she did not immediately die *physically* (hence Satan's selection of this half-truth angle of attack), although now she inevitably would eventually. However, she did immediately die *spiritually*---she was instantly cut off from the perfect fellowship with God she had enjoyed up until this point. And this action of hers---absenting a Savior being judged in her place, as foreshadowed by the animal skins God gives in Genesis 3---would lead to *eternal* or ("second") death---separation from God in hell.
+The Bible is very clear that sin leads to death. There are actually [three aspects of death](https://ichthys.com/3B-Hamartio.htm#1.%20The%20Three%20Aspects%20of%20Death). When Eve ate from the tree after being tempted by Satan, she did not immediately die *physically* (hence Satan's selection of this half-truth angle of attack), although now she inevitably would eventually. However, she did immediately die *spiritually*---she was instantly cut off from the perfect fellowship with God she had enjoyed up until this point. And this action of hers—absenting a Savior being judged in her place, as foreshadowed by the animal skins God gives in Genesis 3---would lead to *eternal* or ("second") death—separation from God in hell.
 
 For believers, sin separates us from God until we confess and restore our relationship with Him; it *does* inherently cause spiritual death. And if we keep on sinning despite mounting divine discipline, one of the other two types of death will inevitably come into play too. Either God will take us out of the world due to our exceedingly poor witness for His Name (the so-called "sin unto death"), or we will harden ourselves to the truth enough that we actually stop believing (apostasy).
 
