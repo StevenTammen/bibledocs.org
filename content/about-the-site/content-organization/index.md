@@ -4,9 +4,11 @@ date: 2021-01-10T20:25:12-05:00
 tags: []
 subsection: content
 weight: 1
-summary: >-
-   This page goes over how content on the site is organized. Among other things, it explains how this site supports text, video, and audio (all three content mediums), the content types this site uses, the hierarchical page types within each content type (list pages, aggregation pages, and content pages), the concepts of content level (spiritual difficulty level) and writing level (how hard the writing itself is to read), and the fine-grained sectioning this site employs by using special content sections to mark out different types of content (for example discussion of application, as opposed to direct teaching).
 ---
+
+This page goes over how content on the site is organized. Among other things, it explains how this site supports text, video, and audio (all three content mediums), the content types this site uses, the hierarchical page types within each content type (list pages, aggregation pages, and content pages), the concepts of content level (spiritual difficulty level) and writing level (how hard the writing itself is to read), and the fine-grained sectioning this site employs by using special content sections to mark out different types of content (for example discussion of application, as opposed to direct teaching).
+
+<!--more-->
 
 ## Much content on this site supports all three communication mediums: text, video, and audio
 
