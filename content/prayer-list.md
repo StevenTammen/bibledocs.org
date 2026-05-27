@@ -1,12 +1,10 @@
 ---
 title: Prayer List
-summary: >-
-   This ministry runs a prayer list, with requests coming from myself and the wider community of readers and their loved ones. Praying for one another is an important duty we have as Christians, and is something that we can do from the very first day we believe.
 ---
 
+This ministry runs a prayer list, with requests coming from myself and the wider community of readers and their loved ones. Praying for one another is an important duty we have as Christians, and is something that we can do from the very first day we believe.
 
-
-
+<!--more-->
 
 ## Overview
 
@@ -23,7 +21,7 @@ I have organized the prayer list into various sections based on commonalities (a
 
 ### Contemporary wider issues
 
-- For the conflicts in Russia/Ukraine and Israel/Gaza---for all those displaced and harmed by the wars.
+- For the conflicts in Russia/Ukraine and Israel/Gaza—for all those displaced and harmed by the wars.
 - For those who have suffered and are suffering as a result of recent economic hiccups: inflation, high mortgage rates, and so on.
 - For persecuted believers in Afghanistan.
 
@@ -44,7 +42,7 @@ I have organized the prayer list into various sections based on commonalities (a
 
 ### Comfort
 
-- For {Michelle's|M.'s} relatives coping with the death of wife and and mother---for the husband and young daughter left behind
+- For {Michelle's|M.'s} relatives coping with the death of wife and and mother—for the husband and young daughter left behind
 - For M., who lost her husband to cancer
 - For M. and L., who lost their mom to early-onset Alzheimer's
 
