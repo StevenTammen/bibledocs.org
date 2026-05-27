@@ -8,6 +8,8 @@
 		Note: The following contains discussion of content not original to me
 	</strong>
 	
+	{{ if $url }}
+
 	<p>The following contains discussion of content that was <em>not</em> originally made by me. Please help the original content rank higher in the algorithms by viewing it at its original location, and also giving it a like and a comment and so on (if applicable):</p>
 
 	<ul>
@@ -17,6 +19,12 @@
 	</ul>
 
 	<p>Also, be sure to follow/subscribe to/support the original content creator on all their platforms:</p>
+
+	{{ else }}
+	<p>The following contains discussion of content that was <em>not</em> originally made by me.</p>
+
+	<p>Be sure to follow/subscribe to/support the original content creator on all their platforms:</p>
+	{{ end }}
 
 	{{ if eq (lower $src) "apologetics canada"}}
 	<ul>
@@ -31,6 +39,23 @@
 		</li>
 		<li>
 			Instagram: <a href="https://www.instagram.com/apologeticscanada/">instagram.com/apologeticscanada</a>
+		</li>
+	</ul>
+	{{ end }}
+
+	{{ if eq (lower $src) "central baptist - warner robins"}}
+	<ul>
+		<li>
+			Website: <a href="https://www.centralwr.com/">centralwr.com</a>
+		</li>
+		<li>
+			YouTube: <a href="https://www.youtube.com/@centralbaptistwarnerrobins">youtube.com/@centralbaptistwarnerrobins</a>
+		</li>
+		<li>
+			Facebook: <a href="https://www.facebook.com/CentralWR/">facebook.com/CentralWR</a>
+		</li>
+		<li>
+			Instagram: <a href="https://www.instagram.com/central_wr/">instagram.com/central_wr</a>
 		</li>
 	</ul>
 	{{ end }}
