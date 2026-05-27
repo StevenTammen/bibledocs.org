@@ -1,0 +1,9 @@
+#+HUGO_BASE_DIR: ../../
+#+HUGO_SECTION: pages
+
+#+TITLE: {{ replace .Name "-" " " | title }}
+#+DATE: {{ .Date }}
+#+HUGO_CATEGORIES: 
+#+HUGO_TAGS: 
+#+HUGO_CUSTOM_FRONT_MATTER: :inprogress false
+

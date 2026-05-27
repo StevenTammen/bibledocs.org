@@ -1,0 +1,202 @@
+nav[data-toggle='toc'] {
+  border: .1rem solid #f5f5f5;
+  background-color: #191818;
+  height: 100%;
+  padding-top: 6px;
+}
+
+nav[data-toggle='toc'] ul{
+  overflow: auto;
+  margin-block-start: 0em;
+  margin-block-end: 0em;
+  padding: 0px 2px !important;
+  list-style:none !important;
+  list-style-type:none !important;
+}
+
+nav[data-toggle='toc'] > ul {
+	height: 99vh;
+}
+
+.sticky {
+  position:fixed !important;
+  position: absolute; /*ie6 */
+  width: 35%;
+  height: 100vh;
+  right: 0;
+  z-index: 100;
+  border-top: 0;
+  line-height: 1.1;
+  display: inline-block;
+  box-shadow: -3px 6px 8px 0px rgba(0,0,0,0.1);
+}
+
+
+@keyframes fadeInOpacity {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+
+/* Set proper spacing with .main */
+
+#layout {
+	margin-right: 35%;
+}
+
+@media (max-width: 97.5rem) {
+  .sticky {
+	width: 30%;
+  }
+  
+  #layout {
+	margin-right: 30%;
+  }
+}
+
+@media (max-width: 91rem) {
+  .sticky {
+	width: 25%;
+  }
+  
+  #layout {
+	margin-right: 25%;
+  }
+}
+
+@media (min-width: 85rem) {
+  .sticky {
+	display: inline-block;
+  }
+}
+
+
+/* show TOC only on large screens */
+
+@media (max-width: 85rem) {
+  .sticky {
+	display: none;
+    width: 50%;
+  }
+  
+  nav[data-toggle='toc'] ul ul > li > a {
+	padding-top: 10px !important;
+	padding-bottom: 10px !important;
+  }
+
+  #layout {
+	margin-right: 0rem;
+  }
+}
+
+@media (min-width: 85rem), (max-width: 48em) {
+  #menu-toc-toggle {
+    display: none;
+  }
+}
+
+@media (max-width: 48em) {
+  .sticky {
+	/* to prevent mobile bar from blocking */
+	height: calc(100vh - 50px);
+	margin-bottom: 50px;
+    width: 80%;
+  }
+  
+  nav[data-toggle='toc'] > ul {
+	height: calc(100vh - 60px);
+  }
+  
+  .menu-not-bar {
+	display: none;
+  }
+}
+
+
+
+
+/*!
+ * Bootstrap Table of Contents v1.0.0 (http://afeld.github.io/bootstrap-toc/)
+ * Copyright 2015 Aidan Feldman
+ * Licensed under MIT (https://github.com/afeld/bootstrap-toc/blob/gh-pages/LICENSE.md) */
+
+/* modified from https://github.com/twbs/bootstrap/blob/94b4076dd2efba9af71f0b18d4ee4b163aa9e0dd/docs/assets/css/src/docs.css#L548-L601 */
+
+/* All levels of nav */
+nav[data-toggle='toc'] ul > li > a {
+  display: block;
+  padding: 8px 0px 8px 4px;
+  font-size: 12px;
+  font-weight: 500;
+  color: #999;
+}
+nav[data-toggle='toc'] ul > li > a:hover,
+nav[data-toggle='toc'] ul > li > a:focus {
+  color: #999900;
+  text-decoration: none;
+  background-color: #333;
+}
+
+
+nav[data-toggle='toc'] li.active {
+  border-left: 2px solid #999900;
+}
+
+nav[data-toggle='toc'] li.active > a:first-child {
+  margin-left: -2px;
+  border-left: 2px solid #191818;
+  font-weight: 900;
+}
+
+nav[data-toggle='toc'] li.active > a:only-child {
+  border-left: 2px solid #999900;
+}
+
+
+/* Second level */
+nav[data-toggle='toc'] ul ul > li > a {
+  padding-top: 2px;
+  padding-left: 10px;
+  font-size: 12px;
+  font-weight: normal;
+}
+
+/* Third level */
+
+nav[data-toggle='toc'] ul ul ul > li > a {
+  padding-left: 25px;
+}
+
+nav[data-toggle='toc'] ul ul ul ul > li > a {
+  padding-left: 40px;
+}
+
+nav[data-toggle='toc'] ul ul ul ul ul > li > a {
+  padding-left: 55px;
+}
+
+nav[data-toggle='toc'] ul ul ul ul ul ul > li > a {
+  padding-left: 70px;
+}
+
+/* Different from default for this TOC plugin : show all headings at all times*/
+nav[data-toggle='toc'] li > ul {
+  display: block;
+  padding-bottom: 10px;
+}
+nav[data-toggle='toc'] .active > ul {
+  display: block;
+}
+
+
+
+/*
+ * Customizations of Bootstrap Table of Contents v0.4.1 (bootstrap-toc, with modifications)
+ */
+nav[data-toggle='toc'] ul ul > li > a {
+  padding-bottom: 3px;
+}

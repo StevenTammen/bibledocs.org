@@ -1,0 +1,14 @@
+[[https://waffle.io/StevenTammen/spartan][https://badge.waffle.io/StevenTammen/spartan.svg?columns=all]]
+
+* Quick Overview
+
+This project is basically my fork of Yoshiharu Yamashita's [[https://github.com/yoshiharuyamashita/blackburn][Blackburn theme]]. Copyright (c) 2016 Yoshiharu Yamashita, MIT License.
+
+I wanted to add a few things (most notably a table of contents sidebar that uses Bootstrap's scrollspy to update based on page position). I shamelessly copied the table of contents from https://ircama.github.io/osm-carto-tutorials/. I tweaked some of the styling and reorganized the Javascript, but I essentially appropriated it wholesale. Copyright (c) 2016 Ircama, MIT License. The initial code comes from the Table of Contents Plugin for Bootstrap, Copyright (c) 2015 Aidan Feldman, MIT License.
+
+I also wanted to change around the archetype structure to revolve around using Org mode via [[https://github.com/kaushalmodi/ox-hugo][ox-hugo]] and my [[https://github.com/StevenTammen/ox-hugo-publish][own publishing frontend]]. At the moment, this theme is setup explicitly for this workflow rather than markdown.
+
+I have a lot of other plans for this theme eventually (e.g., restructuring the responsive menu to put it as a bar at the bottom of phone screens to make it thumb-accessible, writing a JavaScript page wrapper to allow for automatic pagination of pages to make reading on the site better by reducing cognitive load from scrolling, writing a fully filterable and customizable front-end for searching across Hugo taxonomies and archetypes, etc.). If I ever get the time.
+
+At the moment, you should probably think of this more as a personal theme that I made so that I can easily clone it as a submodule for any sites I build that run my Org mode workflow, rather than a general theme for new Hugo peoples. I'll try to generalize it eventually, particularly once I start doing more custom front-end stuff that would be attractive to everyone, rather than Org mode users who share my particular opinions (such as a single-page workflow).
+

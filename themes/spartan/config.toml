@@ -1,0 +1,87 @@
+baseurl = "" # Change
+title = "My Title" # Change
+theme = ""
+author = "" # Change
+canonifyurls = true
+paginate = 10
+
+[indexes]
+  tag = "tags"
+  category = "categories"
+
+[params]
+  # Shown in the home page
+  subtitle = "A descriptive subheader" # Change
+  googleAnalytics = "" # Change
+  disqus = "" # Change
+  # CSS name for highlight.js
+  highlightjs = "solarized-dark"
+  # additional languages for highlight.js (for all pages)
+  highlightjs_extra_languages = ["lisp", "r", "autohotkey"] # Customize for irregular languages that show up in your posts
+  dateFormat = "02 Jan 2006, 15:04"
+
+
+# This is just a stock example. You should customize the menu according to your preferences
+[menu]
+
+  # Shown in the side menu.
+  [[menu.navigation]]
+    name = "Home"
+    pre = "<i class='fas fa-home fa-fw'></i>"
+    weight = 1
+    identifier = "home"
+    url = "/"
+	
+	
+  [[menu.content]]
+    name = "Posts"
+    pre = "<i class='fas fa-image fa-fw'></i>"
+    weight = 2
+    identifier = "posts"
+    url = "/posts/"
+  [[menu.content]]
+    name = "Pages"
+    pre = "<i class='fas fa-file-alt fa-fw'></i>"
+    weight = 3
+    identifier = "pages"
+    url = "/pages/"
+  [[menu.content]]
+    name = "Categories"
+    pre = "<i class='fas fa-folder fa-fw'></i>"
+    weight = 4
+    identifier = "categories"
+    url = "/categories/"
+  [[menu.content]]
+    name = "Tags"
+    pre = "<i class='fas fa-tags fa-fw'></i>"
+    weight = 5
+    identifier = "tags"
+    url = "/tags/"
+	
+
+  [[menu.site]]  
+    name = "About"
+    pre = "<i class='fas fa-sitemap fa-fw'></i>"
+    weight = 6
+    identifier = "about-the-site"
+    url = "/pages/about-the-site/"	
+  [[menu.site]]  
+    name = "RSS"
+    pre = "<i class='fas fa-rss fa-fw'></i>"
+    weight = 7
+    identifier = "rss"
+    url = "/index.xml"
+
+	
+  [[menu.author]]
+    name = "About"
+    pre = "<i class='fas fa-user fa-fw'></i>"
+    weight = 8
+	identifier = "about-the-author"
+    url = "/pages/about-the-author/"
+  [[menu.author]]
+    name = "Contact"
+    pre = "<i class='fas fa-phone fa-fw'></i>"
+    weight = 9
+	identifier = "contact"
+    url = "/pages/contact/"

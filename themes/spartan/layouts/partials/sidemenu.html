@@ -1,0 +1,140 @@
+<div id="menu">
+
+  <div class="pure-menu">
+    <ul class="pure-menu-list">
+      {{ range .Site.Menus.navigation }}
+      {{ if .HasChildren }}
+        <li class="pure-menu-item pure-menu-has-children">
+          <a class="pure-menu-link" href="#">{{ .Pre }}{{ .Name }}</a>
+          <ul class="pure-menu-children">
+            {{ range .Children }}
+            <li class="pure-menu-item">
+              <a href="{{ .URL }}">{{ .Name }}</a>
+            </li>
+            {{ end }}
+          </ul>
+      {{else}}
+        <li class="pure-menu-item">
+          <a class="pure-menu-link" {{ printf "href=%q" .URL | safeHTMLAttr }}>{{ .Pre }}{{ .Name }}</a>
+      {{end}}
+        </li>
+      {{end}}
+    </ul>
+  </div>
+
+  <div class="pure-menu">
+	<strong style="font-weight:800;">&nbsp Webpage</strong>
+	<ul class="pure-menu-list">
+		<li class="pure-menu-item">
+			<a class="pure-menu-link" {{ printf "href=%s%s" .URL  "#" | safeHTMLAttr }}>
+				<i class='fas fa-level-up-alt fa-fw'></i>Back to Top
+			</a>
+		</li>
+		<li class="pure-menu-item">
+			<a class="pure-menu-link menu-not-bar" href="javascript:window.scrollBy(0, -(document.documentElement.clientHeight - 80));">
+				<i class='fas fa-chevron-circle-up fa-fw'></i>PgUp
+			</a>
+		</li>
+		<li class="pure-menu-item">
+			<a class="pure-menu-link menu-not-bar" href="javascript:window.scrollBy(0, document.documentElement.clientHeight - 80);">
+				<i class='fas fa-chevron-circle-down fa-fw'></i>PgDn
+			</a>
+		</li>
+	</ul>
+  </div>
+  
+  <div class="pure-menu">
+	<strong style="font-weight:800;">&nbsp Author/Community</strong>
+    <ul class="pure-menu-list">
+      {{ range .Site.Menus.author }}
+      {{ if .HasChildren }}
+        <li class="pure-menu-item pure-menu-has-children">
+          <a class="pure-menu-link" href="#">{{ .Pre }}{{ .Name }}</a>
+          <ul class="pure-menu-children">
+            {{ range .Children }}
+            <li class="pure-menu-item">
+              <a href="{{ .URL }}">{{ .Name }}</a>
+            </li>
+            {{ end }}
+          </ul>
+      {{else}}
+        <li class="pure-menu-item">
+          <a class="pure-menu-link" {{ printf "href=%q" .URL | safeHTMLAttr }}>{{ .Pre }}{{ .Name }}</a>
+      {{end}}
+        </li>
+      {{end}}
+    </ul>
+  </div>
+  
+  <div class="pure-menu">
+	<strong style="font-weight:800;">&nbsp Content</strong>
+    <ul class="pure-menu-list">
+      {{ range .Site.Menus.content }}
+      {{ if .HasChildren }}
+        <li class="pure-menu-item pure-menu-has-children">
+          <a class="pure-menu-link" href="#">{{ .Pre }}{{ .Name }}</a>
+          <ul class="pure-menu-children">
+            {{ range .Children }}
+            <li class="pure-menu-item">
+              <a href="{{ .URL }}">{{ .Name }}</a>
+            </li>
+            {{ end }}
+          </ul>
+      {{else}}
+        <li class="pure-menu-item">
+          <a class="pure-menu-link" {{ printf "href=%q" .URL | safeHTMLAttr }}>{{ .Pre }}{{ .Name }}</a>
+      {{end}}
+        </li>
+      {{end}}
+    </ul>
+  </div>
+  
+  <div class="pure-menu">
+	<strong style="font-weight:800;">&nbsp Site</strong>
+    <ul class="pure-menu-list">
+      {{ range .Site.Menus.site }}
+      {{ if .HasChildren }}
+        <li class="pure-menu-item pure-menu-has-children">
+          <a class="pure-menu-link" href="#">{{ .Pre }}{{ .Name }}</a>
+          <ul class="pure-menu-children">
+            {{ range .Children }}
+            <li class="pure-menu-item">
+              <a href="{{ .URL }}">{{ .Name }}</a>
+            </li>
+            {{ end }}
+          </ul>
+      {{else}}
+        <li class="pure-menu-item">
+          <a class="pure-menu-link" {{ printf "href=%q" .URL | safeHTMLAttr }}>{{ .Pre }}{{ .Name }}</a>
+      {{end}}
+        </li>
+      {{end}}
+    </ul>
+  </div>
+  
+  <!--
+  <div class="pure-menu">
+	<strong style="font-weight:800;">&nbsp Community</strong>
+    <ul class="pure-menu-list">
+      {{ range .Site.Menus.community }}
+      {{ if .HasChildren }}
+        <li class="pure-menu-item pure-menu-has-children">
+          <a class="pure-menu-link" href="#">{{ .Pre }}{{ .Name }}</a>
+          <ul class="pure-menu-children">
+            {{ range .Children }}
+            <li class="pure-menu-item">
+              <a href="{{ .URL }}">{{ .Name }}</a>
+            </li>
+            {{ end }}
+          </ul>
+      {{else}}
+        <li class="pure-menu-item">
+          <a class="pure-menu-link" {{ printf "href=%q" .URL | safeHTMLAttr }}>{{ .Pre }}{{ .Name }}</a>
+      {{end}}
+        </li>
+      {{end}}
+    </ul>
+  </div>
+  -->
+  
+</div>

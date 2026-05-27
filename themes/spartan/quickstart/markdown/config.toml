@@ -1,0 +1,112 @@
+baseurl = "" # Change
+title = "" # Change
+theme = "spartan"
+author = "" # Change
+canonifyurls = true
+paginate = 10
+
+[indexes]
+  tag = "tags"
+  category = "categories"
+  project = "projects"
+
+[params]
+  # Shown in the home page
+  subtitle = "" # Change
+  googleAnalytics = "" # Change
+  disqus = "" # Change
+  # CSS name for highlight.js
+  highlightjs = "solarized-dark"
+  # additional languages for highlight.js (for all pages)
+  highlightjs_extra_languages = ["lisp", "r", "autohotkey"] # Customize for irregular languages that show up in your posts
+  dateFormat = "02 Jan 2006, 15:04"
+
+
+# This is just a stock example. You should customize the menu according to your preferences
+[menu]
+
+  # Shown in the side menu.
+  [[menu.navigation]]
+    name = "Home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 1
+    identifier = "home"
+    url = "/"
+	
+	
+  [[menu.content]]
+    name = "Posts"
+    pre = "<i class='fa fa-picture-o fa-fw'></i>"
+    weight = 2
+    identifier = "posts"
+    url = "/posts/"
+  [[menu.content]]
+    name = "Pages"
+    pre = "<i class='fa fa-file-text fa-fw'></i>"
+    weight = 3
+    identifier = "pages"
+    url = "/pages/"
+  [[menu.content]]
+    name = "Links"
+    pre = "<i class='fa fa-link fa-fw'></i>"
+    weight = 4
+    identifier = "links"
+    url = "/links/"
+  [[menu.content]]
+    name = "Tags"
+    pre = "<i class='fa fa-tags fa-fw'></i>"
+    weight = 5
+    identifier = "tags"
+    url = "/tags/"
+  [[menu.content]]
+    name = "Categories"
+    pre = "<i class='fa fa-folder fa-fw'></i>"
+    weight = 6
+    identifier = "categories"
+    url = "/categories/"
+	
+	
+  [[menu.site]]  
+    name = "RSS"
+    pre = "<i class='fa fa-rss fa-fw'></i>"
+    weight = 7
+    identifier = "rss"
+    url = "/index.xml"
+  [[menu.site]]  
+    name = "About"
+    pre = "<i class='fa fa-sitemap fa-fw'></i>"
+    weight = 8
+    identifier = "about"
+    url = "/about/"
+  [[menu.site]]  
+    name = "Roadmap"
+    pre = "<i class='fa fa-trello fa-fw'></i>"
+    weight = 9
+    identifier = "roadmap"
+    url = "https://waffle.io/UserName/mysite.com" # Change
+  [[menu.site]]  
+    name = "Settings"
+    pre = "<i class='fa fa-cog fa-fw'></i>"
+    weight = 10
+    identifier = "settings"
+    url = "/settings/"
+	
+	
+  [[menu.author]]
+    name = "Projects"
+    pre = "<i class='fa fa-code fa-fw'></i>"
+    weight = 11
+	identifier = "projects"
+    url = "/projects/"
+  [[menu.author]]
+    name = "Resume"
+    pre = "<i class='fa fa-file-pdf-o fa-fw'></i>"
+    weight = 12
+	identifier = "resume"
+    url = "/resume.pdf"
+  [[menu.author]]
+    name = "Contact"
+    pre = "<i class='fa fa-phone fa-fw'></i>"
+    weight = 13
+	identifier = "contact"
+    url = "/contact/"

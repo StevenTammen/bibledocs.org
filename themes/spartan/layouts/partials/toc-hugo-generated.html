@@ -1,0 +1,1 @@
+{{ .TableOfContents | replaceRE "<nav id=\"TableOfContents\">([[:space:]]*)<ul>[[:space:]]*<li>[[:space:]]*" "<nav id=\"toc\" data-toggle=\"toc\">$1<ul class=\"nav navbar-nav\">" | replaceRE "</li>[[:space:]]*</ul>([[:space:]]*</nav>[:space:]]*</div>)" "</ul>$1" | safeHTML }}

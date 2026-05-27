@@ -1,0 +1,309 @@
+::-webkit-scrollbar {
+  -webkit-overflow-scrolling: auto;
+  -webkit-appearance: none;
+  width: 15px;
+  background-color: #e6e6e6;
+}
+
+::-webkit-scrollbar-thumb {
+  -webkit-overflow-scrolling: auto;
+  border-radius: 4px;
+  background-color: #a6a6a6;
+  box-shadow: 0 0 1px rgba(255, 255, 255, .5);
+}
+
+.header {
+  font-family: "Raleway", Helvetica, Arial, sans-serif
+}
+
+h2, h3, h4, h5, h6 {
+	margin-block-start: 16px;
+	margin-block-end: 16px;
+}
+
+h2 {
+	font-size: 2em;
+}
+
+h3 {
+	font-size: 1.75em;
+}
+
+h4 {
+	font-size: 1.5em;
+}
+
+h5 {
+	font-size: 1.25em;
+}
+
+h6 {
+	font-size: 1em;
+}
+
+a {
+  color: #3b8bba;
+  text-decoration: none;
+}
+a:hover,
+a:focus {
+  text-decoration: underline;
+}
+a:visited {
+  color: #265778;
+}
+
+/* added to theme */
+
+table {
+	margin: auto
+}
+
+th { 
+  background: #333; 
+  color: #f7f7f7; 
+  font-weight: bold; 
+}
+
+tr:nth-child(even) {
+	background-color: #f2f2f2;
+}
+
+td, th { 
+  padding: 10px; 
+  border: 1px solid #999; 
+  text-align: left; 
+}
+
+img, figure {
+  display: block;
+  height: 100%;
+  width: 100%;
+  max-height: 100vh;
+  max-width: 100vh;
+  object-fit: contain;
+  margin: 10px auto;
+}
+
+figure img {
+  margin: 0px;
+}
+
+figure.captioned {
+  text-align: center;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin silver solid;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
+code {
+	background: #e4e4e4;
+	border-radius: 3px;
+}
+
+
+/* Hide stuff */
+
+.display-none {
+  display: none;
+}
+
+
+/* Special content sections */
+
+.special-content {
+	border-radius: 5px;
+	padding: 0px 10px 10px 10px;
+	margin-bottom: 10px;
+}
+
+.special-content >  .special-content {
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 20px;
+}
+
+.special-content > strong {
+	display: block;
+	text-align: center;
+	border-bottom: 1px solid black;
+}
+
+.special-content.technical-discussion {
+	background: #ffe0cc;
+}
+
+.special-content.sidenote {
+	background: #fffae6;
+}
+
+.special-content.quote {
+	background: #e6e6e6;
+}
+
+.special-content.indirect-reasoning {
+	background: #e6f5ff;
+}
+
+.special-content.cautionary-note {
+	background: #ffe6e6;
+}
+
+.special-content.application {
+	background: #ebfaeb;
+}
+
+.special-content.post-hoc-note {
+	background: #f2d9f2;
+}
+
+
+/* STEP Bible app iframes */
+
+.step-iframe-wrapper {
+	max-width: 766px;
+	margin: auto;
+}
+
+.height-button-bar {
+	display: flex;
+	height: 35px;
+	background-color: #191818;
+}
+
+.height-button-bar a {
+	border: 1px solid #999;
+	text-align: center;
+	line-height: 35px;
+	color: #999;
+	display: inline-block;
+	flex-grow: 1;
+}
+
+.height-button-bar a:hover,
+.height-button-bar a:focus,
+.height-button-bar a.active {
+	background: #333;
+	color: #999900;
+	text-decoration: none;
+}
+
+@media screen and (max-width:900px) {
+    .step-iframe-wrapper {
+		display: none;
+	}
+	
+	.step-fallback {
+		display: block;
+	}
+}
+
+
+/* Footer with display toggles */
+
+.mobile-bar {
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #191818;
+  color: #999;
+  display: flex;
+}
+
+#menu-div, #toc-div, #pgdn-div, #pgup-div {
+  flex: 1 1 0;
+  text-align: center;
+  border: 1px solid #999;
+  padding: 10px 0px;
+}
+
+#menu-div a, #toc-div a, #pgdn-div a, #pgup-div a {
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  font-size: 20px;
+  font-weight: 900;
+  color: #999;
+  text-decoration: none;
+}
+
+@media (min-width: 48em) {
+  .mobile-bar {
+	display: none;
+  }
+}
+
+@media (max-width: 48em) {
+  .mobile-bar {
+	display: flex;
+  }
+}
+
+
+/* ----------------------------------- */
+
+.small-print {
+  font-size: 0.8em;
+  margin: 0.6em;
+}
+
+.post-meta {
+  font-size: 90%;
+}
+
+article > footer {
+  text-align: right;
+}
+
+.prev-next-post {
+  margin-top: 2em;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+}
+
+.prev-next-post .prev {
+  float: left;
+  text-align: left;
+  overflow: hidden;
+}
+
+.prev-next-post .next {
+  float: right;
+  text-align: right;
+  overflow: hidden;
+}
+
+#menu .brand {
+  font-family: Raleway;
+  font-weight: bold;
+  font-size: 1em;
+  letter-spacing: 0.1em;
+  text-transform: none;
+  background: transparent;
+  text-decoration: none;
+  margin: 0.5em 0;
+}
+
+#menu .pure-menu {
+  font-size: 0.9em;
+}
+
+i {
+  display: inline-block;
+  margin-right: 0.2em;
+}
+
+.pagination {
+  text-align: center;
+  margin-top: 3em;
+}
+
+.pagination a {
+  color: #265778;
+}
