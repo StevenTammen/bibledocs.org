@@ -4,9 +4,11 @@ date: 2021-01-10T22:11:52-05:00
 tags: []
 subsection: overview
 weight: 1
-summary: >-
-   We all need one another in the body of Christ, and those in ministry (be it teaching like myself, or evangelism/missions, or other callings besides) especially need the support of other believers. Bearing this in mind, this page goes over some ways in which you can help this ministry.
 ---
+
+We all need one another in the body of Christ, and those in ministry (be it teaching like myself, or evangelism/missions, or other callings besides) especially need the support of other believers. Bearing this in mind, this page goes over some ways in which you can help this ministry.
+
+<!--more-->
 
 ## Praying for this ministry
 
