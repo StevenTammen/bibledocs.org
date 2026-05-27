@@ -6,10 +6,6 @@ video: https://www.youtube.com/watch?v=MQ8Y1XTexdA
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
 ---
 
-The best way to get an understanding of how the three members of the Trinity work together in perfect unity to establish their shared Will (despite their different roles) is to go through some examples. The principle is true generally, but by examining the the roles taken by the Trinity in several specific areas, we can come to get a better view of how this concept actually works in practice. The roles the Trinity chose to adopt do not restrict God; rather, they are labels given to us to help us better conceptualize Him, given the confines of our limited human understanding.
-
-<!--more-->
-
 {{< subjects >}}
 <a href="/subject-index/#trinity-roles">Trinity > Roles</a>
 {{< /subjects >}}
@@ -28,11 +24,7 @@ slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-
 
 ## Summary {#summary}
 
-
-
 The best way to get an understanding of how the three members of the Trinity work together in perfect unity to establish their shared Will (despite their different roles) is to go through some examples. The principle is true generally, but by examining the the roles taken by the Trinity in several specific areas, we can come to get a better view of how this concept actually works in practice. The roles the Trinity chose to adopt do not restrict God; rather, they are labels given to us to help us better conceptualize Him, given the confines of our limited human understanding.
-
-
 
 ## Timestamps {#timestamps}
 

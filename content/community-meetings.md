@@ -2,10 +2,6 @@
 title: Community Meetings
 ---
 
-TODO: Summary
-
-<!--more-->
-
 ## Quick reference
 
 ### Meeting dates and times
@@ -34,7 +30,7 @@ Here are the invite links:
 
 <!--
 
-Note that this calendar includes meetings for two types of Bible studies: the CrossTalk Bible Study (which is probably what most people are interested in), and the Ichthys Bible Study (which is a different meeting where followers of [Ichthys](https://ichthys.com/) and other ministries in its orbit—like my own ministry—can meet to discuss things adjacent to the teachings of Ichthys). Everyone is welcome at both meetings, but what we talk about in the Ichthys Bible Study meetings will tend to be a bit less generally applicable to most Christians, since it relates to a particular flavor of Christian theology. You might compare how Presbyterians and Baptists have plenty of common ground, but still have their own specific theological beliefs that are generally only of interest to people who follow their branch of theology. Same general idea here. This certainly doesn't mean that people who don't agree with all of what Ichthys teaches aren't welcome—far from it. If you are interested in attending two Bible studies a week, then even if you don't read or follow Ichthys, there is no reason you can't come to the Sunday Ichthys Bible Study meetings alongside the Saturday CrossTalk Bible Study meetings. The structure is generally similar across the two Bible studies, so if you want more of the same, doing that will make good sense for you.
+Note that this calendar includes meetings for two types of Bible studies: the CrossTalk Bible Study (which is probably what most people are interested in), and the Ichthys Bible Study (which is a different meeting where followers of [Ichthys](https://ichthys.com/) and other ministries in its orbit---like my own ministry---can meet to discuss things adjacent to the teachings of Ichthys). Everyone is welcome at both meetings, but what we talk about in the Ichthys Bible Study meetings will tend to be a bit less generally applicable to most Christians, since it relates to a particular flavor of Christian theology. You might compare how Presbyterians and Baptists have plenty of common ground, but still have their own specific theological beliefs that are generally only of interest to people who follow their branch of theology. Same general idea here. This certainly doesn't mean that people who don't agree with all of what Ichthys teaches aren't welcome---far from it. If you are interested in attending two Bible studies a week, then even if you don't read or follow Ichthys, there is no reason you can't come to the Sunday Ichthys Bible Study meetings alongside the Saturday CrossTalk Bible Study meetings. The structure is generally similar across the two Bible studies, so if you want more of the same, doing that will make good sense for you.
 
 Each of these two types of Bible studies has its own [GroupMe](https://groupme.com/) group chat where I post meeting info and recording info every week, as well as other general announcements. I also cross-post on a couple other platforms, to give people a choice as to how they participate:
 
@@ -69,11 +65,11 @@ As to getting to my house and parking, I share my address in the group chats bef
 
 I somewhat encourage people to park in the parking lot of the Elementary School directly behind my house and then walk the half block or so to get to my house, since parking there reduces the risk of y'all's cars getting hit when parked on the street, nobody has to parallel park, nobody will ever end up getting boxed-in (like can happen if someone parks behind you on my driveway), my neighbors will probably be less annoyed overall, and it ensures that the parking directly in front of my house can stay open in case someone is on crutches or in a wheelchair or otherwise actually must park close due some other physical need. If you are on crutches or in a wheelchair or have any other need like that, then do of course park as close to the front door as you feasibly can. You are also welcome to park in the driveway.
 
-While we do typically give people a few minutes to trickle in, we will actually start reasonably close to the scheduled times, so just plan accordingly. It is least disruptive for everyone if most people are there when we start, but if you do end up running a bit late for whatever reason, just try to slip in quietly while minimizing the amount you disturb others as best you can. It's alright—life happens.
+While we do typically give people a few minutes to trickle in, we will actually start reasonably close to the scheduled times, so just plan accordingly. It is least disruptive for everyone if most people are there when we start, but if you do end up running a bit late for whatever reason, just try to slip in quietly while minimizing the amount you disturb others as best you can. It's alright---life happens.
 
 ### Joining us over Zoom
 
-The Zoom meetings happen at the same time as the in-person meetings shown above on the calendar schedule—the Zoom meetings are fully tied-in to the in-person meetings. And when I say fully, I mean fully; we use an 8-channel wireless microphone system to ensure all discussion gets captured on the meetings, so people who aren't in-person can follow everything.
+The Zoom meetings happen at the same time as the in-person meetings shown above on the calendar schedule---the Zoom meetings are fully tied-in to the in-person meetings. And when I say fully, I mean fully; we use an 8-channel wireless microphone system to ensure all discussion gets captured on the meetings, so people who aren't in-person can follow everything.
 
 The link to directly join our Zoom meetings is also shared in the group chats before each meeting. We generally don't change the meeting room/passcode, so you can probably just bookmark it once and then keep using the same link, but we don't post the meeting information publicly here for privacy reasons.
 
@@ -101,9 +97,9 @@ I mostly do things this way to make sure that people who have other time commitm
 
 ### Finding true (rather than only apparent) unity in the truth
 
-The Church (with a capital C) is in fact composed of all people who truly believe—and we are all supposed to be united to such a high degree that we function as one single body, the body of Christ here in the world. However, it is a sad truth that there is much factionalism and us vs. them rhetoric within the ranks of those professing Christianity.
+The Church (with a capital C) is in fact composed of all people who truly believe---and we are all supposed to be united to such a high degree that we function as one single body, the body of Christ here in the world. However, it is a sad truth that there is much factionalism and us vs. them rhetoric within the ranks of those professing Christianity.
 
-It is not that we want to encourage a form of ecumenism where truth is the casualty; quite to the contrary, the truth in the Word of God is the very thing that unites us. If we focus our hearts and minds upon learning, believing, and applying the Bible—to the exclusion of most all else—we will come to observe that it is easy to find ourselves running side-by-side with a wide variety of people from all sorts of backgrounds, regardless of such things as race, gender, culture, nationality, socioeconomic status, and whatever else it is we imagine divides us. (Compare Galatians 3:28).
+It is not that we want to encourage a form of ecumenism where truth is the casualty; quite to the contrary, the truth in the Word of God is the very thing that unites us. If we focus our hearts and minds upon learning, believing, and applying the Bible---to the exclusion of most all else---we will come to observe that it is easy to find ourselves running side-by-side with a wide variety of people from all sorts of backgrounds, regardless of such things as race, gender, culture, nationality, socioeconomic status, and whatever else it is we imagine divides us. (Compare Galatians 3:28).
 
 In other words, if we dive deep into the Word of God and keep our focus there, we will see superficial differences fade away as the truth takes front-and-center.
 

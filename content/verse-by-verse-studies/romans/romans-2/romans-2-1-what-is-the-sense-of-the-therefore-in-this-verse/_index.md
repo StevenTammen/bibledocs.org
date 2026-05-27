@@ -4,9 +4,9 @@ weight: 1
 layout: content-page
 ---
 
-The "therefore" in Romans 2:1 is pointing back to the entire preceding passage in chapter 1 (Romans 1:18-32)---the fact of divine justice being perfect, absolute, and imminent for anyone who trifles with it. Chapter divisions were added later (are not part of the inspired text itself), so the air of separation that may be introduced by the chapter break is not actually inherent to the text.
+{{< subjects >}}
 
-<!--more-->
+{{< /subjects >}}
 
 {{% section-navigation %}}
 
@@ -22,11 +22,7 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
-
 The "therefore" in Romans 2:1 is pointing back to the entire preceding passage in chapter 1 (Romans 1:18-32)---the fact of divine justice being perfect, absolute, and imminent for anyone who trifles with it. Chapter divisions were added later (are not part of the inspired text itself), so the air of separation that may be introduced by the chapter break is not actually inherent to the text.
-
-
 
 <!-- ## Timestamps {#timestamps} -->
 

@@ -2,10 +2,6 @@
 title: Subject Index
 ---
 
-TODO: Summary
-
-<!--more-->
-
 <!-- subject-index -->
 
 ## Abuse {#abuse}
@@ -2481,6 +2477,46 @@ page-title="Appearances of Christ in the Old Testament - Introduction"
 header-title="The dignity of the Father"
 %}}
 
+### Satan > Is already positionally defeated {#satan-is-already-positionally-defeated}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr4-satans-world-system/level-of-depth-calling-many-deceived-too-harsh-why-god-allows-satan-control/#why-doesn-t-god-just-defeat-satan-already"
+study-title="Ichthys' SR4 - Satan's World System"
+page-title="Discussion - Level of depth; calling many deceived -- too harsh?; why God allows Satan control"
+header-title="Why doesn't God just defeat Satan already?"
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr4-satans-world-system/#why-doesn-t-god-just-defeat-satan-already"
+study-title="Ichthys' SR4 - Satan's World System"
+page-title="Introduction to SR4 - Satan's World System"
+header-title="Why doesn't God just defeat Satan already?"
+%}}
+
+### Satan > The enemy of believers {#satan-the-enemy-of-believers}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr4-satans-world-system/level-of-depth-calling-many-deceived-too-harsh-why-god-allows-satan-control/#is-this-much-depth-really-necessary"
+study-title="Ichthys' SR4 - Satan's World System"
+page-title="Discussion - Level of depth; calling many deceived -- too harsh?; why God allows Satan control"
+header-title="Is this much depth really necessary?"
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr4-satans-world-system/#is-this-much-depth-really-necessary"
+study-title="Ichthys' SR4 - Satan's World System"
+page-title="Introduction to SR4 - Satan's World System"
+header-title="Is this much depth really necessary?"
+%}}
+
 ## Satan's rebellion {#satan-s-rebellion}
 
 ### Satan's rebellion > Is the backdrop of all creature history {#satan-s-rebellion-is-the-backdrop-of-all-creature-history}
@@ -3373,6 +3409,26 @@ header-title="Creation of the World"
 %}}
 
 ## Truth {#truth}
+
+### Truth > Most people are blind to it {#truth-most-people-are-blind-to-it}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr4-satans-world-system/level-of-depth-calling-many-deceived-too-harsh-why-god-allows-satan-control/#are-many-christians-really-so-helpless"
+study-title="Ichthys' SR4 - Satan's World System"
+page-title="Discussion - Level of depth; calling many deceived -- too harsh?; why God allows Satan control"
+header-title="Are many Christians really so helpless?"
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr4-satans-world-system/#are-many-christians-really-so-helpless"
+study-title="Ichthys' SR4 - Satan's World System"
+page-title="Introduction to SR4 - Satan's World System"
+header-title="Are many Christians really so helpless?"
+%}}
 
 ### Truth > Plato's allegory of the cave {#truth-plato-s-allegory-of-the-cave}
 

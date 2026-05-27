@@ -4,13 +4,12 @@ chapter: 1
 layout: aggregation-page
 ---
 
-Studies relating to Romans 1.
-
-<!--more-->
-
 <!-- aggregate-page-content -->
 
 ## [Romans 1:1 - What is a bondservant?](/verse-by-verse-studies/romans/romans-1/romans-1-1-what-is-a-bondservant) {#romans-1-1-what-is-a-bondservant}
+{{< subjects >}}
+
+{{< /subjects >}}
 
 
 
@@ -26,11 +25,7 @@ slides="https://bibledocs.org/slides/"
 
 ### Summary {#romans-1-1-what-is-a-bondservant-summary}
 
-
-
 In Romans 1:1, Paul call himself a servant/slave of Jesus Christ. What exactly does that mean? This page will be examining that question.
-
-
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -73,6 +68,9 @@ Think about that next time you talk about redemption! That is how central a meta
 
 
 ## [Romans 1:3-4 - What does it mean for Jesus to be "declared Son of God"?](/verse-by-verse-studies/romans/romans-1/romans-1-3-4-what-does-it-mean-for-jesus-to-be-declared-son-of-god) {#romans-1-3-4-what-does-it-mean-for-jesus-to-be-declared-son-of-god}
+{{< subjects >}}
+
+{{< /subjects >}}
 
 
 
@@ -88,11 +86,7 @@ slides="https://bibledocs.org/slides/"
 
 ### Summary {#romans-1-3-4-what-does-it-mean-for-jesus-to-be-declared-son-of-god-summary}
 
-
-
-When Jesus was declared son of God through the resurrection, it showed that He is more than just a descendant of David in a physical sense—He is God as well. So Jesus is fully God yet also fully man.
-
-
+When Jesus was declared son of God through the resurrection, it showed that He is more than just a descendant of David in a physical sense---He is God as well. So Jesus is fully God yet also fully man.
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -129,6 +123,9 @@ Going too far either direction is problematic. Jesus is fully God *and* fully ma
 
 
 ## [Romans 1:5-7 - How should we approach other sinners?](/verse-by-verse-studies/romans/romans-1/romans-1-5-7-how-should-we-approach-other-sinners) {#romans-1-5-7-how-should-we-approach-other-sinners}
+{{< subjects >}}
+
+{{< /subjects >}}
 
 
 
@@ -144,11 +141,7 @@ slides="https://bibledocs.org/slides/"
 
 ### Summary {#romans-1-5-7-how-should-we-approach-other-sinners-summary}
 
-
-
-God's banquet table has plenty of seats waiting to be filled. It is our duty to invite people to join us at the banquet—not that we can force them to come, but we do still need to give them the invitation. All are invited to the feast, even sinners. Although since few choose to respond, few are chosen (cf. Matthew 22:14).
-
-
+God's banquet table has plenty of seats waiting to be filled. It is our duty to invite people to join us at the banquet---not that we can force them to come, but we do still need to give them the invitation. All are invited to the feast, even sinners. Although since few choose to respond, few are chosen (cf. Matthew 22:14).
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -185,6 +178,9 @@ It is of course important to note that in broad strokes *we* are the sinners in 
 
 
 ## [Romans 1:8 - Does faith truly make an impact?](/verse-by-verse-studies/romans/romans-1/romans-1-8-does-faith-truly-make-an-impact) {#romans-1-8-does-faith-truly-make-an-impact}
+{{< subjects >}}
+
+{{< /subjects >}}
 
 
 
@@ -200,11 +196,7 @@ slides="https://bibledocs.org/slides/"
 
 ### Summary {#romans-1-8-does-faith-truly-make-an-impact-summary}
 
-
-
-If we are ever tempted to question if our faith really matters or changes anything in this dark world of ours, we ought to remember that the witness of our faith *is* always shining, whether we see its full effects or not.
-
-
+If we are ever tempted to question if our faith really matters or changes anything in this dark world of ours, we ought to remember that the witness of our faith *is* always shining, whether we see its full effects or not. 
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -218,7 +210,7 @@ In Romans 1:8, Paul's statement directly implies that the faith of the Roman chu
 
 That must have been quite the witness they had! (Especially, one might note, given the relatively lesser interconnectedness of peoples in antiquity, compared to today. Today, widespread literacy, effective mail delivery, telephones, and of course the internet can keep us connected to each at all times, but back then none of this was the case). So if we are ever tempted to question if our faith really matters or changes anything in this dark world of ours, we ought to remember that the witness of our faith *is* always shining, whether we see its full effects or not. And so it is that we ought not lose hope generally, despair of reaching the lost, or feel down for failing to directly/personally encourage a large number of brothers and sisters in the Church. Just because we don't personally know all the ways our faith shines light into the lives of others does not mean that our faith is not impactful!
 
-After all, we are but tools in the hands of the Master Craftsman, and He knows very well what He is doing. We just need to be pleased to trust in Him and do what He tells us to—which is to learn His truth by reading the Bible and listening to gifted and prepared Bible teachers, apply it to our lives under the pressures of life down here in Satan's world system, and then help others do likewise (by utilizing the spiritual gifts and ministries that God has given to us individually).
+After all, we are but tools in the hands of the Master Craftsman, and He knows very well what He is doing. We just need to be pleased to trust in Him and do what He tells us to---which is to learn His truth by reading the Bible and listening to gifted and prepared Bible teachers, apply it to our lives under the pressures of life down here in Satan's world system, and then help others do likewise (by utilizing the spiritual gifts and ministries that God has given to us individually).
 
 {{% /toggleable-content %}}
 
@@ -239,6 +231,9 @@ After all, we are but tools in the hands of the Master Craftsman, and He knows v
 
 
 ## [Romans 1:11-12 - How important is encouragement?](/verse-by-verse-studies/romans/romans-1/romans-1-11-12-how-important-is-encouragement) {#romans-1-11-12-how-important-is-encouragement}
+{{< subjects >}}
+
+{{< /subjects >}}
 
 
 
@@ -254,11 +249,7 @@ slides="https://bibledocs.org/slides/"
 
 ### Summary {#romans-1-11-12-how-important-is-encouragement-summary}
 
-
-
 Encouragement was Paul's primary reason for wishing to visit Rome, it seems, and is also the primary reason given for Christian assembly in Hebrews 10:24-25. But what we mean by "encouragement" is very much centered around the truth of the Word of God, rather than some of the other things people sometimes improperly elevate to primary importance.
-
-
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -274,7 +265,7 @@ I should note that encouragement is actually given as the primary reason for Chr
 
 But what is it, exactly? Are we talking about trying to cheer up people who are feeling down? That can certainly be part of it (see [here](/verse-by-verse-studies/1-thessalonians/1-thessalonians-5/1-thessalonians-5-13b-14-how-ought-we-relate-to-different-groups-of-people/#encourage-the-disheartened) for some of what I've written on the topic of encouraging the disheartened), but it is in fact much more about the truth than mere emotion.
 
-As Christians, we derive encouragement by seeing one another's faith—by seeing the light of God's truth radiate from each other's lives and persons. As one body (compare 1 Corinthians 12), we all need one another, and much of that is by spurring each other ever forward as we build one another up in truth and love (Ephesians 4:15-16).
+As Christians, we derive encouragement by seeing one another's faith---by seeing the light of God's truth radiate from each other's lives and persons. As one body (compare 1 Corinthians 12), we all need one another, and much of that is by spurring each other ever forward as we build one another up in truth and love (Ephesians 4:15-16).
 
 The Word of God is the essential part of this process, without which none of the rest of it works. If someone is grieving, the Bible speaks of how one might navigate such. If one is struggling with suffering and asking "But why, God?", the Bible also speaks of how one might navigate such. In fact, it contains *everything* God thinks we humans need to know to navigate these lives of ours down here in the world, and is therefore completely unique.
 
@@ -299,6 +290,9 @@ But we need to understand what it says and means before we can be encouraged by 
 
 
 ## [Romans 1:17 - Are we righteous?](/verse-by-verse-studies/romans/romans-1/romans-1-17-are-we-righteous) {#romans-1-17-are-we-righteous}
+{{< subjects >}}
+
+{{< /subjects >}}
 
 
 
@@ -314,11 +308,7 @@ slides="https://bibledocs.org/slides/"
 
 ### Summary {#romans-1-17-are-we-righteous-summary}
 
-
-
-As human beings, we have no righteousness of our own. God only sees us as righteous if we have faith, because then He sees us covered in the blood of Christ. That is, only by faith does Christ's righteousness becomes our own—and there is no other way for humans to be justified before God. So we are only saved by faith alone in Christ alone.
-
-
+As human beings, we have no righteousness of our own. God only sees us as righteous if we have faith, because then He sees us covered in the blood of Christ. That is, only by faith does Christ's righteousness becomes our own---and there is no other way for humans to be justified before God. So we are only saved by faith alone in Christ alone.
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -330,7 +320,7 @@ As human beings, we have no righteousness of our own. God only sees us as righte
 
 Are we righteous? On our own? *Absolutely not*. We are only righteous because we have been washed clean in the blood of Christ. God sees us as righteous only because He sees us covered in the righteousness of Jesus.
 
-Our righteousness is "by faith from first to last" (Romans 1:17). It is not of ourselves, but of Christ. And the only way we take hold of it is through simple faith—nothing more, and nothing less.
+Our righteousness is "by faith from first to last" (Romans 1:17). It is not of ourselves, but of Christ. And the only way we take hold of it is through simple faith---nothing more, and nothing less.
 
 We *need* to get this bit right, because we truly can do nothing on our own. We cannot work our way into heaven in the slightest, because salvation is only by grace through faith, not by works (Ephesians 2:8-10).
 
@@ -359,6 +349,9 @@ And this is why even when we act righteously, it is not because *we* are righteo
 
 
 ## [Romans 1:18-25 - Who gets a pass?](/verse-by-verse-studies/romans/romans-1/romans-1-18-25-who-gets-a-pass) {#romans-1-18-25-who-gets-a-pass}
+{{< subjects >}}
+
+{{< /subjects >}}
 
 
 
@@ -374,11 +367,7 @@ slides="https://bibledocs.org/slides/"
 
 ### Summary {#romans-1-18-25-who-gets-a-pass-summary}
 
-
-
 In Romans 1:18ff. and Psalm 19, the Bible teaches that all human beings are without excuse for not believing in and submitting to God, due to the created world pointing at every turn to Him. Such a concept in theology is typically called "natural revelation".
-
-
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -424,9 +413,9 @@ One might compare the wise men who followed the star and brought Jesus gifts. Th
 The Gospel narrative recalls verses from Israel’s Scriptures that foresee Gentiles bringing gifts to Israel. Once the magi arrive in Bethlehem, they offer Yeshua “**gifts** (δῶρα; *dora*)” of “**gold and frankincense** (χρυσὸν καὶ λίβανον; *chrusòn kaì líbanon*) and myrrh” (Matt 2:11). This scene echoes the Psalms’ picture of other nations bringing “**gifts**” (δῶρα; *dora*) to Israel (cf. Ps 72:10 [71:10 LXX]; 76:11-12 [75:11-12 LXX]). Isaiah 60:5-6 calls these foreign gifts the “wealth of the Gentiles,” which includes “**gold and frankincense**” (χρυσίον καὶ λίβανον; *chrusíon kaì líbanon*). Matthew also notes that the magi bring “myrrh” (σμύρνα; *smúrna*)—an aromatic resin that [the Jewish Queen Esther receives from a Persian king](https://weekly.israelbiblecenter.com/esther-joseph-part/) (see Est 2:12 LXX). More, the oil made from myrrh—called στακτή (*stakté*)—is said to have been [an item of trade among traveling Gentiles in Joseph’s day (see Gen 37:25 LXX)](https://weekly.israelbiblecenter.com/esther-joseph-part-ii/), and royal figures of other nations offer it as tribute to King Solomon (cf. 1 Kgs 10:25; 2 Chron 9:24 LXX). Thus, it is fitting for Matthew’s traveling Gentile magi to offer myrrh to Jesus, the King of the Jews.
 {{% /quote %}}
 
-I quoted heavily from this single source because it does a very good job establishing the point—kudos to the writer. I will also add to all this that God most certainly communicated with the wise men in dreams because scripture directly says as much (cf. Matthew 2:12).
+I quoted heavily from this single source because it does a very good job establishing the point---kudos to the writer. I will also add to all this that God most certainly communicated with the wise men in dreams because scripture directly says as much (cf. Matthew 2:12).
 
-The wider point is that God leads all those who desire to have a relationship with Him to the truth—we may trust in this absolutely unreservedly. And so it is that despite being born as the Savior of the Jews—born to Israel specifically, as their prophesied Messiah—some of the more notable guests in the welcoming of Jesus Christ into the world were Gentile travelers from afar.
+The wider point is that God leads all those who desire to have a relationship with Him to the truth---we may trust in this absolutely unreservedly. And so it is that despite being born as the Savior of the Jews---born to Israel specifically, as their prophesied Messiah---some of the more notable guests in the welcoming of Jesus Christ into the world were Gentile travelers from afar.
 
 The implication should not be lost on us!
 {{% /sidenote %}}
@@ -450,6 +439,9 @@ The implication should not be lost on us!
 
 
 ## [Romans 1:22-25 - What are our modern day idols, given that the worshiping of animal statues isn't so much a thing anymore?](/verse-by-verse-studies/romans/romans-1/romans-1-22-25-what-are-our-modern-day-idols-given-that-the-worshiping-of-animal-statues-isnt-so-much-a-thing-anymore) {#romans-1-22-25-what-are-our-modern-day-idols-given-that-the-worshiping-of-animal-statues-isn-t-so-much-a-thing-anymore}
+{{< subjects >}}
+
+{{< /subjects >}}
 
 
 
@@ -465,11 +457,7 @@ slides="https://bibledocs.org/slides/"
 
 ### Summary {#romans-1-22-25-what-are-our-modern-day-idols-given-that-the-worshiping-of-animal-statues-isn-t-so-much-a-thing-anymore-summary}
 
-
-
-Idolatry is not just bowing to down to statues of wood and stone, but is any time we place something above God in our lives. Therefore, it is very much *not* "just a thing of the past" that only superstitious ancient peoples participated in (as opposed to us modern enlightened people—or so the thought goes). On the contrary, it is a very real problem in our day as well.
-
-
+Idolatry is not just bowing to down to statues of wood and stone, but is any time we place something above God in our lives. Therefore, it is very much *not* "just a thing of the past" that only superstitious ancient peoples participated in (as opposed to us modern enlightened people---or so the thought goes). On the contrary, it is a very real problem in our day as well.
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -481,13 +469,13 @@ Idolatry is not just bowing to down to statues of wood and stone, but is any tim
 
 People nowadays might scoff at the idea of bowing down and worshiping physical animal idols of wood and stone, but we would be quite foolish to think that idolatry isn't a problem in our time. If you wanted to be clever and make a play on words, you might point out as one example that animals still seem more important than God to some people (or more important than the human beings in God's Church, at any rate). I might even generally agree with the idea that puppies and kittens are generally friendlier and cuddlier and more likable than some or even many human beings, but we do not have a responsibility to work towards their salvation in the same way we are called to do for our fellow man.
 
-To be clear, there is nothing wrong with enjoying the company of and advocating for the rights of animals, just how there is nothing wrong with working hard at one's job and advancing in one's career, enjoying a couple beers with friends after work, or watching a sports game every now and then to relax and unwind. What *is* a problem is when we let anything other than God sit on the throne in our heart—or even get near it.
+To be clear, there is nothing wrong with enjoying the company of and advocating for the rights of animals, just how there is nothing wrong with working hard at one's job and advancing in one's career, enjoying a couple beers with friends after work, or watching a sports game every now and then to relax and unwind. What *is* a problem is when we let anything other than God sit on the throne in our heart---or even get near it.
 
 Next time someone you know treats idolatry as "something in the past" that only those naïve ancients engaged in, ask them how much time they spent last week reading their Bible or taking in in-depth Bible teaching vs. how much time they spent watching things on Netflix or other streaming services. Ask them whether they think their Christianity is really more important to them than social media, given that they may be on Facebook, Twitter, Instagram, Snapchat, TikTok, and so on for hours every day, but fail to seriously pray daily, or even any frequency approaching daily.
 
-And for those who think they're in the clear even still... ask them whether they value their family and/or career more than their faith. Work is a good thing (cf. Ecclesiastes 2:24), and obviously so is family. But compared to God, they ought to be such a distant second that they are barely even noticeable. Compare Luke 14:26ff. We are not to actually "hate" our family—we are to prioritize God so much more that by comparison, it seems that way by a relative measure.
+And for those who think they're in the clear even still... ask them whether they value their family and/or career more than their faith. Work is a good thing (cf. Ecclesiastes 2:24), and obviously so is family. But compared to God, they ought to be such a distant second that they are barely even noticeable. Compare Luke 14:26ff. We are not to actually "hate" our family---we are to prioritize God so much more that by comparison, it seems that way by a relative measure.
 
-Nobody is perfect in this—not even close. The point is that we should stop lying to ourselves that idolatry is just bowing down to statues and the like. Idolatry is whenever we put anything in the world (even things that are otherwise good and proper) above God—He who not only made us, but redeemed us with the precious blood of His one and only Son, in order that we might have eternal life with Him, if we would but believe.
+Nobody is perfect in this---not even close. The point is that we should stop lying to ourselves that idolatry is just bowing down to statues and the like. Idolatry is whenever we put anything in the world (even things that are otherwise good and proper) above God---He who not only made us, but redeemed us with the precious blood of His one and only Son, in order that we might have eternal life with Him, if we would but believe.
 
 {{% /toggleable-content %}}
 
@@ -508,6 +496,9 @@ Nobody is perfect in this—not even close. The point is that we should stop lyi
 
 
 ## [Romans 1:24 - What ought we make of the "vile impurity" or "uncleanness" mentioned here?](/verse-by-verse-studies/romans/romans-1/romans-1-24-what-ought-we-make-of-the-vile-impurity-or-uncleanness-mentioned-here) {#romans-1-24-what-ought-we-make-of-the-vile-impurity-or-uncleanness-mentioned-here}
+{{< subjects >}}
+
+{{< /subjects >}}
 
 
 
@@ -523,11 +514,7 @@ slides="https://bibledocs.org/slides/"
 
 ### Summary {#romans-1-24-what-ought-we-make-of-the-vile-impurity-or-uncleanness-mentioned-here-summary}
 
-
-
-The impurity mentioned in Romans 1:24 is speaking of moral uncleanness—with overtones of lustful, profligate behavior. We *must* view sexual sin as unclean (in much the same we would soiled clothing), even if our culture disagrees.
-
-
+The impurity mentioned in Romans 1:24 is speaking of moral uncleanness---with overtones of lustful, profligate behavior. We *must* view sexual sin as unclean (in much the same we would soiled clothing), even if our culture disagrees.
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -547,7 +534,7 @@ That's a decidedly strong rendering. Many other versions translate this word sim
 
 The word here is *akatharsia* (Greek: [ἀκαθαρσία](https://www.blueletterbible.org/lexicon/g167/esv/mgnt/0-1/)). You might check the concordance on that page if you'd like to see other places in the Bible this exact Greek word is used, and what the context of those other usages is. 2 Corinthians 12:21, Galatians 5:19, Ephesians 4:19, Ephesians 5:3, and Colossians 3:5 are good cross-references usage-wise, for example.
 
-The word can mean uncleanness in a physical sense—like soiled clothing. But what is in view here (and in the passages just mentioned as cross-references) is the metaphorical meaning of uncleanness in a moral sense—particularly with connotations of lustful, profligate behavior.
+The word can mean uncleanness in a physical sense---like soiled clothing. But what is in view here (and in the passages just mentioned as cross-references) is the metaphorical meaning of uncleanness in a moral sense---particularly with connotations of lustful, profligate behavior.
 
 In the context of verse 24 in Romans 1, this word is being used in reference to sexual sin. There is no other way to responsibly interpret it in this passage.
 
@@ -585,6 +572,9 @@ And so as to not have double standards (like some unfortunately do with regards 
 
 
 ## [Romans 1:25 - Why would people choose the lies of the world over the truth of God?](/verse-by-verse-studies/romans/romans-1/romans-1-25-why-would-people-choose-the-lies-of-the-world-over-the-truth-of-god) {#romans-1-25-why-would-people-choose-the-lies-of-the-world-over-the-truth-of-god}
+{{< subjects >}}
+
+{{< /subjects >}}
 
 
 
@@ -600,11 +590,7 @@ slides="https://bibledocs.org/slides/"
 
 ### Summary {#romans-1-25-why-would-people-choose-the-lies-of-the-world-over-the-truth-of-god-summary}
 
-
-
 It can be tempting to choose the lies of the world over the truth of God because choosing the truth of God makes the world hate us. If we do not look with eyes of faith, it can be easy to only see what we imagine we are losing, without keeping our eyes fixed on the eternal things we are gaining. For the former is right before our eyes, while the latter is veiled from our sight.
-
-
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -620,13 +606,13 @@ Then being a Christian is probably not for you. Compare John 15:18-20.
 
 Because God has temporarily allowed Satan to manipulate and control the systems of this world in order to test humanity, we are very much in "enemy territory". This world is not our home (at least it is not supposed to be); we are merely sojourners here.
 
-Governments, media, corporations, nonprofit organizations, even culture itself—all largely dance to Satan's tune, not God's. And so it is that we Christians tend to find ourselves faced with the choice of either falling into line and conforming, or sticking out and facing the consequences of such.
+Governments, media, corporations, nonprofit organizations, even culture itself---all largely dance to Satan's tune, not God's. And so it is that we Christians tend to find ourselves faced with the choice of either falling into line and conforming, or sticking out and facing the consequences of such.
 
-Perhaps we may not go so far as unbelievers in rejecting the entire truth of God for the lies of the world, but we might still compromise ourselves in smaller ways (by, for example, being too cowardly to speak up when we ought to). And we do it for the same reasons that unbelievers choose not to believe to begin with—because going along with the world will make the world love us, while standing against it (even if we have the truth, not it) will only make it hate us.
+Perhaps we may not go so far as unbelievers in rejecting the entire truth of God for the lies of the world, but we might still compromise ourselves in smaller ways (by, for example, being too cowardly to speak up when we ought to). And we do it for the same reasons that unbelievers choose not to believe to begin with---because going along with the world will make the world love us, while standing against it (even if we have the truth, not it) will only make it hate us.
 
-When we are tempted to make peace with that which we ought not just to gain the approval of others, consider who it is that is on the other side of the scale. Why in the world would we weigh the opinions of some human being(s)---fellow sinners all—higher than the opinion of our Eternal, All-powerful God, He who "can destroy both soul and body in hell" (Matthew 10:28)?! It makes no sense whatsoever, viewed in this light.
+When we are tempted to make peace with that which we ought not just to gain the approval of others, consider who it is that is on the other side of the scale. Why in the world would we weigh the opinions of some human being(s)---fellow sinners all---higher than the opinion of our Eternal, All-powerful God, He who "can destroy both soul and body in hell" (Matthew 10:28)?! It makes no sense whatsoever, viewed in this light.
 
-But the temptation will always be there, because only those who lose their lives will find them (cf. Matthew 16:25-26), and unless we take the greatest pains to continually look with eyes of faith, this prospect of "losing our life" (whatever we have down here in this world of lust, rust, and dust) will make us cowardly from time to time—whereas we ought to instead always be bold for the truth.
+But the temptation will always be there, because only those who lose their lives will find them (cf. Matthew 16:25-26), and unless we take the greatest pains to continually look with eyes of faith, this prospect of "losing our life" (whatever we have down here in this world of lust, rust, and dust) will make us cowardly from time to time---whereas we ought to instead always be bold for the truth.
 
 {{% /toggleable-content %}}
 
@@ -647,6 +633,9 @@ But the temptation will always be there, because only those who lose their lives
 
 
 ## [Romans 1:26 - Does God "give up" on sinners?](/verse-by-verse-studies/romans/romans-1/romans-1-26-does-god-give-up-on-sinners) {#romans-1-26-does-god-give-up-on-sinners}
+{{< subjects >}}
+
+{{< /subjects >}}
 
 
 
@@ -662,11 +651,7 @@ slides="https://bibledocs.org/slides/"
 
 ### Summary {#romans-1-26-does-god-give-up-on-sinners-summary}
 
-
-
-There is no point after which a sinner is too far gone. God will *always* accept repentant sinners back with open arms—praise be to Him! However, God does give us the ability to actually choose; if we decide we want to throw Him and His truth away and bury our heads in the sand, He is involved in that choice of ours as well, in that He hardens our hearts to make that choice even possible to begin with (since it violates natural logic and instinct). In other words, God actively removes His blessings of restraint and spiritual insight from wayward creatures who have decided that they want nothing to do with Him.
-
-
+There is no point after which a sinner is too far gone. God will *always* accept repentant sinners back with open arms---praise be to Him! However, God does give us the ability to actually choose; if we decide we want to throw Him and His truth away and bury our heads in the sand, He is involved in that choice of ours as well, in that He hardens our hearts to make that choice even possible to begin with (since it violates natural logic and instinct). In other words, God actively removes His blessings of restraint and spiritual insight from wayward creatures who have decided that they want nothing to do with Him.
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -686,7 +671,7 @@ Put simply, God allows us to delude ourselves exactly as much as we ourselves wa
 
 #### Hardness of heart - Pharaoh, Satan {#romans-1-26-does-god-give-up-on-sinners-hardness-of-heart-pharaoh-satan}
 
-The thing in all this that ought to inspire fearful reverence and awe is that God is *even said to be the one hardening hearts* (keep reading if this active way of phrasing it seems "off" to you—explanation will be forthcoming). Romans 1:26 aside, Exodus 14 showcases this phenomenon, when God hardened Pharaoh's heart so that the Egyptians foolishly chased after the Israelites, even after having already tasted of the supernatural consequences of such a path.
+The thing in all this that ought to inspire fearful reverence and awe is that God is *even said to be the one hardening hearts* (keep reading if this active way of phrasing it seems "off" to you---explanation will be forthcoming). Romans 1:26 aside, Exodus 14 showcases this phenomenon, when God hardened Pharaoh's heart so that the Egyptians foolishly chased after the Israelites, even after having already tasted of the supernatural consequences of such a path.
 
 {{% technical-discussion %}}
 For a thorough technical discussion of the hardening of Pharaoh's heart specifically, see [here](https://ichthys.com/e2.htm#:~:text=%22And%20I%20will%20harden%20Pharaoh%27s%20heart%20and%20he%20will%20pursue%20after%20them%20so%20that%20I%20may%20gain%20glory%20through%20Pharaoh%20and%20through%20his%20force%20and%20so%20that%20the%20Egyptians%20may%20know%20that%20I%20am%20the%20Lord.%22%20And%20they%20did%20so.).
@@ -695,28 +680,28 @@ For a thorough technical discussion of the hardening of Pharaoh's heart specific
 After the Egyptians faced the ten plagues described in Exodus (culminating in the loss of their firstborn sons), they *definitely* ought to have known better than to go after God's people again. No matter how iron their stomachs might be, humans beings are not so deficient in self-preservation that they will, with properly-functioning neurons (so to speak), zealously pursue a path leading to their own certain destruction. Even the animals don't do that. But God will *even remove the restraint of natural instincts* to let us chase our folly, if it is what we have decided we want.
 
 {{% sidenote %}}
-For any Classics nerds out there, what we are discussing here fits right in with the literary theme of madness (μανία) in Greek myth and tragedy. The Ancient Greeks often considered madness to be a means of divine punishment for an act of hubris or sacrilege. The gods would blind someone to the consequences of their actions so that they would do things that normal logic and restraint would otherwise stop them from doing—usually to tragic effect.
+For any Classics nerds out there, what we are discussing here fits right in with the literary theme of madness (μανία) in Greek myth and tragedy. The Ancient Greeks often considered madness to be a means of divine punishment for an act of hubris or sacrilege. The gods would blind someone to the consequences of their actions so that they would do things that normal logic and restraint would otherwise stop them from doing---usually to tragic effect.
 
 It is decidedly dangerous to try to interpret the Bible in terms of secular writings, but that is not the point of bringing this up. The point is that *even the ancient pagans understood the connection between human sin and madness/folly*.
 
-All sin against God is, in essence, temporary madness. If we would keep our eyes firmly fixed upon Jesus Christ, the divine *logos* (Greek: [λόγος](https://www.blueletterbible.org/lexicon/g3056/esv/tr/0-1/))---He who gives order and logic to the universe—we would find our thinking transformed, such that we no longer suffer under the madness and irrationality of sin, but have "clear eyes", eyes quickened by the spiritual insight afforded by the indwelling Holy Spirit.
+All sin against God is, in essence, temporary madness. If we would keep our eyes firmly fixed upon Jesus Christ, the divine *logos* (Greek: [λόγος](https://www.blueletterbible.org/lexicon/g3056/esv/tr/0-1/))---He who gives order and logic to the universe---we would find our thinking transformed, such that we no longer suffer under the madness and irrationality of sin, but have "clear eyes", eyes quickened by the spiritual insight afforded by the indwelling Holy Spirit.
 {{% /sidenote %}}
 
-All this to say, God's progressive removal of restraint from wayward children is the logical end result of what Him respecting our free will truly means, and it is more than a bit terrifying to ponder. For example, one implicit consequence of all this is that each and every one of us is capable of great, great evil—not that we would ever do certain things now with our critical thinking intact, but were we to resolutely decide to act against nature and morality, *God would make it possible for us to do so, by removing the blessing of natural restraint*. Because God will always respect our choices, be them for good or ill, our free will puts 100% of the responsibility for our choices upon *us*!
+All this to say, God's progressive removal of restraint from wayward children is the logical end result of what Him respecting our free will truly means, and it is more than a bit terrifying to ponder. For example, one implicit consequence of all this is that each and every one of us is capable of great, great evil---not that we would ever do certain things now with our critical thinking intact, but were we to resolutely decide to act against nature and morality, *God would make it possible for us to do so, by removing the blessing of natural restraint*. Because God will always respect our choices, be them for good or ill, our free will puts 100% of the responsibility for our choices upon *us*!
 
-As another example of God giving creatures over to their folly, consider Satan's rebellion against God. Satan is an angel far more intelligent and capable than we can even imagine. He was the preeminent created being—the one tasked with warding off evil from the throne of God (cf. Ezekiel 28:11ff.). Satan *knew* God. But he still chose to raise his arm against his Creator. It is utter madness, complete insanity. How could a finite created being ever defeat his Infinite Maker?!
+As another example of God giving creatures over to their folly, consider Satan's rebellion against God. Satan is an angel far more intelligent and capable than we can even imagine. He was the preeminent created being---the one tasked with warding off evil from the throne of God (cf. Ezekiel 28:11ff.). Satan *knew* God. But he still chose to raise his arm against his Creator. It is utter madness, complete insanity. How could a finite created being ever defeat his Infinite Maker?!
 
 #### God's removal of restraint does *not* violate creature free will {#romans-1-26-does-god-give-up-on-sinners-god-s-removal-of-restraint-does-not-violate-creature-free-will}
 
-God removing restraint from those choosing a path of rebellion is basically synonymous with Him removing His blessings of natural instinct and insight/understanding from them. These things—cf. the human conscience—are gifts God gives humanity out of His great mercy and grace, not because He must. But when people turn away from Him, He merely removes some of these blessings He would not need to give us to begin with. Without these blessings He gives, we would *all* be in this sorry state of utter blindness, lacking the ability to understand even the most basic of spiritual truths. Praise be to God that He only removes His insight from us if that is well and truly what we have decided in our heart of hearts that we want, and never for any other reason!
+God removing restraint from those choosing a path of rebellion is basically synonymous with Him removing His blessings of natural instinct and insight/understanding from them. These things---cf. the human conscience---are gifts God gives humanity out of His great mercy and grace, not because He must. But when people turn away from Him, He merely removes some of these blessings He would not need to give us to begin with. Without these blessings He gives, we would *all* be in this sorry state of utter blindness, lacking the ability to understand even the most basic of spiritual truths. Praise be to God that He only removes His insight from us if that is well and truly what we have decided in our heart of hearts that we want, and never for any other reason!
 
-In any case, we might rephrase what we have been talking about to be something like "God removes His blessings of general insight and accurate spiritual appraisal from wayward creatures, so that they are able to make the choices that they truly wish to make, insane as they may be in reality." And so it is that when Jesus literally raised people from the dead, still those witnessing such a miracle did not believe, not even with the irrefutable evidence right before their eyes. *God* made it so that they would not believe—through His removal of His insight. When their eyes became blinded and their ears closed up, it was not because God withheld the truth from those who wanted it; rather, because people did not want the truth, God merely gave them over to their choice, and made it possible for them to blind themselves to it. This is what is really going on in Matthew 13:13-15.
+In any case, we might rephrase what we have been talking about to be something like "God removes His blessings of general insight and accurate spiritual appraisal from wayward creatures, so that they are able to make the choices that they truly wish to make, insane as they may be in reality." And so it is that when Jesus literally raised people from the dead, still those witnessing such a miracle did not believe, not even with the irrefutable evidence right before their eyes. *God* made it so that they would not believe---through His removal of His insight. When their eyes became blinded and their ears closed up, it was not because God withheld the truth from those who wanted it; rather, because people did not want the truth, God merely gave them over to their choice, and made it possible for them to blind themselves to it. This is what is really going on in Matthew 13:13-15.
 
-Calvinists take all this the wrong way and say that this is all God controlling who is saved and who isn't, but in fact that is entirely backwards. That is, God does not harden people's hearts such that they don't want the truth, but people don't want the truth such that God is compelled to harden their hearts (=remove His restraint/remove His insight) so that they aren't forced—by the clear logic of a level-headed appraisal without such hardness of heart—into acknowledging the truth. God stifles spiritual insight in or even completely removes spiritual insight from those who do not want to believe, such that even the clearest, most irrefutable evidence appears to them as no more than foolish nonsense (cf. 1 Corinthians 1:18). Think about that for a second!
+Calvinists take all this the wrong way and say that this is all God controlling who is saved and who isn't, but in fact that is entirely backwards. That is, God does not harden people's hearts such that they don't want the truth, but people don't want the truth such that God is compelled to harden their hearts (=remove His restraint/remove His insight) so that they aren't forced---by the clear logic of a level-headed appraisal without such hardness of heart---into acknowledging the truth. God stifles spiritual insight in or even completely removes spiritual insight from those who do not want to believe, such that even the clearest, most irrefutable evidence appears to them as no more than foolish nonsense (cf. 1 Corinthians 1:18). Think about that for a second!
 
 {{% note %}}
 
-The wording here can be a bit tricky if we aren't careful. When we say "God hardens someone heart" (with God as the subject of this active verb), we *must* specify exactly what we mean by that—as we have been doing here—else we risk causing misunderstandings (e.g., that God is somehow causally responsible for unbelief and/or evil). Here are a couple ways of framing these concepts that I personally find helpful in elucidating the correct teachings:
+The wording here can be a bit tricky if we aren't careful. When we say "God hardens someone heart" (with God as the subject of this active verb), we *must* specify exactly what we mean by that---as we have been doing here---else we risk causing misunderstandings (e.g., that God is somehow causally responsible for unbelief and/or evil). Here are a couple ways of framing these concepts that I personally find helpful in elucidating the correct teachings:
 
 1) God hardens the hearts only of those who want their hearts to be hardened. It is the logical opposite of Him choosing all those who choose Him (another true principle). In both cases, God respects our free will.
 2) Let's say that going down a path of spiritual hardness is like driving a car off of a cliff. Then God does not pick up someone's car and drop it off the side of the cliff, but simply removes the guardrails that had been there before, and then the person in question drives over the side all on their own, according to their choice. Even though such is madness.
@@ -725,11 +710,11 @@ So it is best to view hardness of heart as removal of restraint/insight accordin
 
 {{% /note %}}
 
-There will come a time when God will remove the veil, remove the hardness by which He allows humanity to deceive itself, and thereby reject Him. At that time, "every knee will bow, and every tongue will confess" (cf. Isaiah 45:23; Romans 14:11; Philippians 2:10-11). (**Note**: this does not teach Universalism, the notion that somehow all will be saved in the end. Instead, it is more along the lines of hitting the back of an unwilling prisoner's knees to make him bow before the King. On that Great Day of Days, people will be powerless to deny the truth, and the weight of it will force out an acknowledgement of God's righteous authority, completely against their will). The only reason why people aren't forced to their knees in the present—overwhelmed by the sheer majesty of the Almighty—is because He hardens their hearts according to their desire to not be with Him.
+There will come a time when God will remove the veil, remove the hardness by which He allows humanity to deceive itself, and thereby reject Him. At that time, "every knee will bow, and every tongue will confess" (cf. Isaiah 45:23; Romans 14:11; Philippians 2:10-11). (**Note**: this does not teach Universalism, the notion that somehow all will be saved in the end. Instead, it is more along the lines of hitting the back of an unwilling prisoner's knees to make him bow before the King. On that Great Day of Days, people will be powerless to deny the truth, and the weight of it will force out an acknowledgement of God's righteous authority, completely against their will). The only reason why people aren't forced to their knees in the present---overwhelmed by the sheer majesty of the Almighty---is because He hardens their hearts according to their desire to not be with Him.
 
 #### So no, God does not ever "give up" on sinners {#romans-1-26-does-god-give-up-on-sinners-so-no-god-does-not-ever-give-up-on-sinners}
 
-So to bring us full circle, God never gives up on sinners; the door is *always* open. At any moment, if we would but turn to Him instead of refusing to submit to Him, He would stop giving us over to our stubborn hearts, and instead deliver us from our afflictions (cf. Psalm 81:11-16, and also cf. the parable of the prodigal son, Luke 15:11-32). But He will also let us freely toss Him aside without cognitive dissonance or discomfort—if it is what we decide we truly want—since He will harden our hearts ever more if we continually choose against Him. And *that* is a most sobering thought indeed. May we ever choose to submit to Him rather than forcing Him to harden our hearts!
+So to bring us full circle, God never gives up on sinners; the door is *always* open. At any moment, if we would but turn to Him instead of refusing to submit to Him, He would stop giving us over to our stubborn hearts, and instead deliver us from our afflictions (cf. Psalm 81:11-16, and also cf. the parable of the prodigal son, Luke 15:11-32). But He will also let us freely toss Him aside without cognitive dissonance or discomfort---if it is what we decide we truly want---since He will harden our hearts ever more if we continually choose against Him. And *that* is a most sobering thought indeed. May we ever choose to submit to Him rather than forcing Him to harden our hearts!
 
 #### What about when God gives people no more chances? {#romans-1-26-does-god-give-up-on-sinners-what-about-when-god-gives-people-no-more-chances}
 
@@ -737,13 +722,13 @@ For example, when coming into the Promised Land, the Israelites were commanded t
 
 Is it just? How can God make it so some people seemingly have a longer opportunity to turn from their sin than others, who are violently wiped from the face of the Earth?
 
-Past a certain point, we need to understand that questioning God's Justice very much becomes the clay questioning the Potter (cf. Romans 9:20). God knows what He is doing. These people we perhaps feel sorry for would not have repented even if God had given them additional years of chances—even many more lifetimes of chances. For all who do not believe do not believe *of their own free will*. And let us not forget that natural revelation leaves all without excuse anyway, ([as we have already discussed](/verse-by-verse-studies/romans/romans-1/romans-1-18-25-who-gets-a-pass/)). If given another chance, they would still spit in God's face rather than submit to Him... even though He has already judged His own Son in their place, that they might be forgiven and have eternal life, if only they would "not say no." God has already done *absolutely all He can* for these people, short of overriding their free will to force them to believe.
+Past a certain point, we need to understand that questioning God's Justice very much becomes the clay questioning the Potter (cf. Romans 9:20). God knows what He is doing. These people we perhaps feel sorry for would not have repented even if God had given them additional years of chances---even many more lifetimes of chances. For all who do not believe do not believe *of their own free will*. And let us not forget that natural revelation leaves all without excuse anyway, ([as we have already discussed](/verse-by-verse-studies/romans/romans-1/romans-1-18-25-who-gets-a-pass/)). If given another chance, they would still spit in God's face rather than submit to Him... even though He has already judged His own Son in their place, that they might be forgiven and have eternal life, if only they would "not say no." God has already done *absolutely all He can* for these people, short of overriding their free will to force them to believe.
 
-Anyhow, all judgement is in the hands of the Lord. He is the one who controls such things as the fate of nations, "their appointed times in history, and the boundaries of their lands" (Acts 17:26). When He metes out justice, it is utterly perfect. We *must* believe that—not weakly and with lingering uncertainty, but with full confidence. For we serve a God who is the Perfect Judge of all things. No one will *ever* receive anything other than exactly that which they deserve (cf. Romans 2:6-8, which we will get to soon enough).
+Anyhow, all judgement is in the hands of the Lord. He is the one who controls such things as the fate of nations, "their appointed times in history, and the boundaries of their lands" (Acts 17:26). When He metes out justice, it is utterly perfect. We *must* believe that---not weakly and with lingering uncertainty, but with full confidence. For we serve a God who is the Perfect Judge of all things. No one will *ever* receive anything other than exactly that which they deserve (cf. Romans 2:6-8, which we will get to soon enough).
 
 {{% sidenote %}}
 
-If we find ourselves doubting the justice of God in the face of the suffering experienced by ourselves or other believers we know ("Making the righteous prosper, huh God? Sure doesn't seem that way to me!"), we might consider the eternal rewards that God promises those who serve Him. On that Great Day of Days, the positive works of the righteous will be made clear for all to see—that "no cup of cold water given in Jesus' name" (equivalent) is ever unrewarded. And, moreover, the wicked choices of the unrighteous will also likewise be made clear for all to see—their eternal condemnation will be shown to be fair and just, since even though Jesus paid for their sin upon the cross, they rejected His sacrifice in lieu of standing upon their own works, which will be shown to be evil and without merit. Cutting both ways (i.e., for believers and unbelievers both), it will be shown that God's justice is completely perfect.
+If we find ourselves doubting the justice of God in the face of the suffering experienced by ourselves or other believers we know ("Making the righteous prosper, huh God? Sure doesn't seem that way to me!"), we might consider the eternal rewards that God promises those who serve Him. On that Great Day of Days, the positive works of the righteous will be made clear for all to see---that "no cup of cold water given in Jesus' name" (equivalent) is ever unrewarded. And, moreover, the wicked choices of the unrighteous will also likewise be made clear for all to see---their eternal condemnation will be shown to be fair and just, since even though Jesus paid for their sin upon the cross, they rejected His sacrifice in lieu of standing upon their own works, which will be shown to be evil and without merit. Cutting both ways (i.e., for believers and unbelievers both), it will be shown that God's justice is completely perfect.
 
 Atheists find this concept to be complete madness. Karl Marx famously called religion "the opiate of the masses," and George Orwell mocks the concept as well in his allegorical novella [*Animal Farm*](https://en.wikipedia.org/wiki/Animal_Farm). In that novella, a raven named Moses spreads tales of "Sugarcandy Mountain" to the other animals, saying that all their work will not be for nothing and that after they die they will be rewarded in this paradise he speaks of. The pigs (representing communist authority) initially scorn his ideas and try to convince the other animals not to listen to him. But then once they are in power, they change their tune, and keep the raven around to manipulate the other animals, so that on account of these fantastical (implied to be false) tales of paradise, they will docilely put up with being treated unjustly in the present.
 
@@ -772,6 +757,9 @@ We ought not cheer about this, *per se* (we ought to instead truly desire the sa
 
 
 ## [Romans 1:26 - What is a "dishonorable passion" or "shameful lust" in this context?](/verse-by-verse-studies/romans/romans-1/romans-1-26-what-is-a-dishonorable-passion-or-shameful-lust-in-this-context) {#romans-1-26-what-is-a-dishonorable-passion-or-shameful-lust-in-this-context}
+{{< subjects >}}
+
+{{< /subjects >}}
 
 
 
@@ -787,11 +775,7 @@ slides="https://bibledocs.org/slides/"
 
 ### Summary {#romans-1-26-what-is-a-dishonorable-passion-or-shameful-lust-in-this-context-summary}
 
-
-
 In Romans 1:26, the "dishonorable passion" or "shameful lust" that is spoken of is clearly referring to homosexuality. Homosexuality is not the only sin falling into such a categorization (lusting after an already-married woman is much the same, e.g.), but it is most certainly what is in view in this specific context. That doesn't stop people from trying to deny such in an attempt to rationalize their sin in this area, but they are simply wrong.
-
-
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -831,6 +815,9 @@ These verses are quite unambiguous. Both homosexual relationships between women 
 
 
 ## [Romans 1:26-27 - Love is love, right? You can't be against love!](/verse-by-verse-studies/romans/romans-1/romans-1-26-27-love-is-love-right-you-cant-be-against-love) {#romans-1-26-27-love-is-love-right-you-can-t-be-against-love}
+{{< subjects >}}
+
+{{< /subjects >}}
 
 
 
@@ -846,11 +833,7 @@ slides="https://bibledocs.org/slides/"
 
 ### Summary {#romans-1-26-27-love-is-love-right-you-can-t-be-against-love-summary}
 
-
-
-Greek has multiple words for "love." The fact that God clearly supports "love" (in the sense of brotherly love between believers, the divine unconditional love we are to have even for our enemies, and so on) does not mean he supports homosexual sexual relationships. That would be a different word in the Greek—not one of the words dealing with those aforementioned types of love, but instead the word dealing with sexual passion. So making an argument like this is very much rubbish, even upon only the most cursory of examinations.
-
-
+Greek has multiple words for "love." The fact that God clearly supports "love" (in the sense of brotherly love between believers, the divine unconditional love we are to have even for our enemies, and so on) does not mean he supports homosexual sexual relationships. That would be a different word in the Greek---not one of the words dealing with those aforementioned types of love, but instead the word dealing with sexual passion. So making an argument like this is very much rubbish, even upon only the most cursory of examinations.
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -908,6 +891,9 @@ Finally, if you really love someone, *you do not encourage and enable their gros
 
 
 ## [Romans 1:26-27 - Are people "born gay"?](/verse-by-verse-studies/romans/romans-1/romans-1-26-27-are-people-born-gay) {#romans-1-26-27-are-people-born-gay}
+{{< subjects >}}
+
+{{< /subjects >}}
 
 
 
@@ -923,11 +909,7 @@ slides="https://bibledocs.org/slides/"
 
 ### Summary {#romans-1-26-27-are-people-born-gay-summary}
 
-
-
-Since all of us struggle with different areas of sin, it does not seem to me to pose any theological problems to hypothesize that it is possible that temptation in the matter of homosexuality is ultimately something outside the control of human free will. However, that does not excuse giving into the temptation in the least—any more than it is ever OK to give into sexual temptations of the heterosexual variety. Moreover, due to our culture's and media's idolization of sexual deviance, it seems quite likely to me that the supposed numbers here are artificially inflated via so-called "copycat effects".
-
-
+Since all of us struggle with different areas of sin, it does not seem to me to pose any theological problems to hypothesize that it is possible that temptation in the matter of homosexuality is ultimately something outside the control of human free will. However, that does not excuse giving into the temptation in the least---any more than it is ever OK to give into sexual temptations of the heterosexual variety. Moreover, due to our culture's and media's idolization of sexual deviance, it seems quite likely to me that the supposed numbers here are artificially inflated via so-called "copycat effects".
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -976,8 +958,8 @@ So... maybe it is not controllable in some cases, *and* maybe our current cultur
 
 Leaving things here in this discussion may be somewhat unsatisfying in that no hard position is being put forward, *per se*. However, what I can say with certainty is that:
 
-1) We must accept those who confess Christ and repent of sinful behaviors—those who both acknowledge such behaviors as wrong and also acknowledge their need for forgiveness for any lapses. We are all sinners in need of grace, after all (Romans 3:23; James 3:2).
-2) But we must never accept those who claim to be Christian and yet refuse to acknowledge that homosexuality is wrong and sinful. That would put us in direct opposition to 1 Corinthians 5:9-13. (And Romans 1:32, in our immediate context—since we would essentially be approving of evil).
+1) We must accept those who confess Christ and repent of sinful behaviors---those who both acknowledge such behaviors as wrong and also acknowledge their need for forgiveness for any lapses. We are all sinners in need of grace, after all (Romans 3:23; James 3:2).
+2) But we must never accept those who claim to be Christian and yet refuse to acknowledge that homosexuality is wrong and sinful. That would put us in direct opposition to 1 Corinthians 5:9-13. (And Romans 1:32, in our immediate context---since we would essentially be approving of evil).
 
 {{% /toggleable-content %}}
 
@@ -998,6 +980,9 @@ Leaving things here in this discussion may be somewhat unsatisfying in that no h
 
 
 ## [Romans 1:27 - What exactly does "receiving in themselves the due penalty for their error" mean?](/verse-by-verse-studies/romans/romans-1/romans-1-27-what-exactly-does-receiving-in-themselves-the-due-penalty-for-their-error-mean) {#romans-1-27-what-exactly-does-receiving-in-themselves-the-due-penalty-for-their-error-mean}
+{{< subjects >}}
+
+{{< /subjects >}}
 
 
 
@@ -1013,11 +998,7 @@ slides="https://bibledocs.org/slides/"
 
 ### Summary {#romans-1-27-what-exactly-does-receiving-in-themselves-the-due-penalty-for-their-error-mean-summary}
 
-
-
 The text in Romans 1:27 ("receiving in themselves the due penalty for their error") is sort of ambiguous as to what the error in view is, as well as what the penalty (or negative result/consequence) for said error is. As I see things, things make the most sense if you view this clause as being inclusive and broad in its application rather than exclusive and specific.
-
-
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -1074,7 +1055,7 @@ I actually do not view this as an exclusive choice at all. Verse 24 directly say
 - Because of their idolatry, God gave them over to the unnatural lusts involved in homosexuality (verse 24 and 26a)
 - But also because of this shameful behavior, additional negative consequences too will follow
 
-To the extent that the error is "suppressing the truth" (Romans 1:18), the penalty is "handing them over to a reprobate mind" (Romans 1:28); to the extent that the error is specifically "abandoning natural relations," then the penalty is the natural results of such degrading behavior (see below—the result of sin is always death, and sexual sin specifically comes in for special reproof). This concept of compounding choices and consequences is akin to the virtuous cycle of spiritual growth, but the opposite—a feedback loop of depravity.
+To the extent that the error is "suppressing the truth" (Romans 1:18), the penalty is "handing them over to a reprobate mind" (Romans 1:28); to the extent that the error is specifically "abandoning natural relations," then the penalty is the natural results of such degrading behavior (see below---the result of sin is always death, and sexual sin specifically comes in for special reproof). This concept of compounding choices and consequences is akin to the virtuous cycle of spiritual growth, but the opposite---a feedback loop of depravity.
 
 Hopefully this explanation makes sense. It can take a bit of squinting to see how the all the bits fit together, but the passage really does make the most sense if you view this clause as being inclusive and broad in its application rather than exclusive and specific.
 
@@ -1090,7 +1071,7 @@ The wages of sin is **death**
 Then, after desire has conceived, it gives birth to sin; and sin, when it is full-grown, **gives birth to death**.
 {{% /scripture %}}
 
-The Bible is very clear that sin leads to death. There are actually [three aspects of death](https://ichthys.com/3B-Hamartio.htm#1.%20The%20Three%20Aspects%20of%20Death). When Eve ate from the tree after being tempted by Satan, she did not immediately die *physically* (hence Satan's selection of this half-truth angle of attack), although now she inevitably would eventually. However, she did immediately die *spiritually*---she was instantly cut off from the perfect fellowship with God she had enjoyed up until this point. And this action of hers—absenting a Savior being judged in her place, as foreshadowed by the animal skins God gives in Genesis 3---would lead to *eternal* or ("second") death—separation from God in hell.
+The Bible is very clear that sin leads to death. There are actually [three aspects of death](https://ichthys.com/3B-Hamartio.htm#1.%20The%20Three%20Aspects%20of%20Death). When Eve ate from the tree after being tempted by Satan, she did not immediately die *physically* (hence Satan's selection of this half-truth angle of attack), although now she inevitably would eventually. However, she did immediately die *spiritually*---she was instantly cut off from the perfect fellowship with God she had enjoyed up until this point. And this action of hers---absenting a Savior being judged in her place, as foreshadowed by the animal skins God gives in Genesis 3---would lead to *eternal* or ("second") death---separation from God in hell.
 
 For believers, sin separates us from God until we confess and restore our relationship with Him; it *does* inherently cause spiritual death. And if we keep on sinning despite mounting divine discipline, one of the other two types of death will inevitably come into play too. Either God will take us out of the world due to our exceedingly poor witness for His Name (the so-called "sin unto death"), or we will harden ourselves to the truth enough that we actually stop believing (apostasy).
 
@@ -1151,6 +1132,9 @@ The passage we just quoted from in 1 Corinthians 6 is quite relevant to our spec
 
 
 ## [Romans 1:27 - What is considered "natural"?](/verse-by-verse-studies/romans/romans-1/romans-1-27-what-is-considered-natural) {#romans-1-27-what-is-considered-natural}
+{{< subjects >}}
+
+{{< /subjects >}}
 
 
 
@@ -1166,11 +1150,7 @@ slides="https://bibledocs.org/slides/"
 
 ### Summary {#romans-1-27-what-is-considered-natural-summary}
 
-
-
 Genesis 2:23-24 and Matthew 19:4-6 make it clear what God holds to be natural in human sexuality: that sexual relations are to be limited to a man and a woman who are married to each other. From the outset, this inherently rules out all other "possibilities".
-
-
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -1192,7 +1172,7 @@ In other words, even if we had absolutely no other passages forbidding various f
 
 I suppose I should note that in Genesis 2:25 and Matthew 19:5 both, the word translated as "wife" also means woman generally. The word is *ishsha* (Hebrew: [אִשָּׁה](https://www.blueletterbible.org/lexicon/h802/esv/wlc/0-1/)) in Genesis, and *gune* (Greek: [γυνή](https://www.blueletterbible.org/lexicon/g1135/esv/tr/0-1/)) in Matthew.
 
-In both languages, the normal word for woman also means wife. (The same holds true for man/husband---[אִישׁ](https://www.blueletterbible.org/lexicon/h376/esv/wlc/0-1/) in Hebrew, and [ἀνήρ](https://www.blueletterbible.org/lexicon/g435/esv/mgnt/0-1/) in Greek). To a degree, this shows just how fundamental the concept of marriage is—that linguistically, being a man and being a woman is implicitly connotatively tied to being married. (At least in these two specific languages).
+In both languages, the normal word for woman also means wife. (The same holds true for man/husband---[אִישׁ](https://www.blueletterbible.org/lexicon/h376/esv/wlc/0-1/) in Hebrew, and [ἀνήρ](https://www.blueletterbible.org/lexicon/g435/esv/mgnt/0-1/) in Greek). To a degree, this shows just how fundamental the concept of marriage is---that linguistically, being a man and being a woman is implicitly connotatively tied to being married. (At least in these two specific languages).
 
 For other usages of these words where "wife" rather than "woman" is definitely in view, you might compare Proverbs 5:15-19; 1 Corinthians 7:2; Ephesians 5:33.
 
@@ -1229,6 +1209,9 @@ Polygamy is not sinful *per se*, but that also doesn't make it something that we
 
 
 ## [Romans 1:28 - What is the result of our passions?](/verse-by-verse-studies/romans/romans-1/romans-1-28-what-is-the-result-of-our-passions) {#romans-1-28-what-is-the-result-of-our-passions}
+{{< subjects >}}
+
+{{< /subjects >}}
 
 
 
@@ -1244,11 +1227,7 @@ slides="https://bibledocs.org/slides/"
 
 ### Summary {#romans-1-28-what-is-the-result-of-our-passions-summary}
 
-
-
-Romans 1:28 says that the result of straying from God's truth is God giving us over to a depraved mind, so that we do that which ought not to be done. It should rightly frighten us that God will give us over to a depraved mind if we turn away from Him, but we do not need to fear what horrible actions we might engage in upon such a path of straying if we choose instead to never stray—walking in the Spirit by always keeping our eyes firmly fixed upon Jesus Christ and the righteousness we have through Him. Then our minds will be renewed by the truth (cf. Romans 12:1-3), rather than becoming filled with depraved desires.
-
-
+Romans 1:28 says that the result of straying from God's truth is God giving us over to a depraved mind, so that we do that which ought not to be done. It should rightly frighten us that God will give us over to a depraved mind if we turn away from Him, but we do not need to fear what horrible actions we might engage in upon such a path of straying if we choose instead to never stray---walking in the Spirit by always keeping our eyes firmly fixed upon Jesus Christ and the righteousness we have through Him. Then our minds will be renewed by the truth (cf. Romans 12:1-3), rather than becoming filled with depraved desires.
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -1264,7 +1243,7 @@ We discussed some of mechanics of this [already](/verse-by-verse-studies/romans/
 
 We also previously went over the consequences of sin, [how sin inherently begets death](/verse-by-verse-studies/romans/romans-1/romans-1-27-what-exactly-does-receiving-in-themselves-the-due-penalty-for-their-error-mean/#the-penalty-for-sin-generally-death). That discussion is also relevant here.
 
-It should rightly frighten us that God will give us over to a depraved mind if we turn away from Him. The consequences of such a path are, in fact, a godly way to keep us on the straight and narrow. It seems to me that many find it fashionable to criticize the supposedly "selfish" attitude of turning to Christianity to flee hell. (What is usually pushed instead is how we ought to act "only" out of motivations of wanting to please God). But I don't see anything in the Bible that condemns taking the carrot (eternal rewards for following God) and stick (eternal damnation) into account when we make decisions. We ought to want to please God *too*, of course, but the point is more that the things are not mutually contradictory. And this truth—that we can be self-interested while yet at the same time also truly be acting out of a desire to please God—is in fact by the grace of God.
+It should rightly frighten us that God will give us over to a depraved mind if we turn away from Him. The consequences of such a path are, in fact, a godly way to keep us on the straight and narrow. It seems to me that many find it fashionable to criticize the supposedly "selfish" attitude of turning to Christianity to flee hell. (What is usually pushed instead is how we ought to act "only" out of motivations of wanting to please God). But I don't see anything in the Bible that condemns taking the carrot (eternal rewards for following God) and stick (eternal damnation) into account when we make decisions. We ought to want to please God *too*, of course, but the point is more that the things are not mutually contradictory. And this truth---that we can be self-interested while yet at the same time also truly be acting out of a desire to please God---is in fact by the grace of God.
 
 That is, God arranged the world in such a way that we do not even have to go against our self-interested natures to be saved. Submitting to God is actually the logical choice, from the perspective of self-interest! But we do have to not say no. Otherwise, as this verse says, we will face the consequences.
 
@@ -1287,6 +1266,9 @@ That is, God arranged the world in such a way that we do not even have to go aga
 
 
 ## [Romans 1:29-31 - What is not proper in God's eyes?](/verse-by-verse-studies/romans/romans-1/romans-1-29-31-what-is-not-proper-in-gods-eyes) {#romans-1-29-31-what-is-not-proper-in-god-s-eyes}
+{{< subjects >}}
+
+{{< /subjects >}}
 
 
 
@@ -1302,11 +1284,7 @@ slides="https://bibledocs.org/slides/"
 
 ### Summary {#romans-1-29-31-what-is-not-proper-in-god-s-eyes-summary}
 
-
-
-Romans 1:29-31 contains quite a list of things that we ought to avoid—things that characterize those who "do not think it worthwhile to retain the knowledge of God" (Romans 1:28). Because appearances can be deceiving in this world, we ought not blindly trust people and institutions that others hold up as "good"---even if seemingly everyone else agrees—but instead compare them against these standards here, to see for ourselves whether or not they truly are. Because all too often, evil masquerades as good, and many people are deceived completely by the lies. Let us not be among them!
-
-
+Romans 1:29-31 contains quite a list of things that we ought to avoid---things that characterize those who "do not think it worthwhile to retain the knowledge of God" (Romans 1:28). Because appearances can be deceiving in this world, we ought not blindly trust people and institutions that others hold up as "good"---even if seemingly everyone else agrees---but instead compare them against these standards here, to see for ourselves whether or not they truly are. Because all too often, evil masquerades as good, and many people are deceived completely by the lies. Let us not be among them!
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -1357,7 +1335,7 @@ Of course, this list is not meant to be completely comprehensive, and not all of
 
 I should also note that appearances can be deceiving. Evil masquerades as good, all while putting the truth to death. In our modern day, for example, certain social justice causes claim the moral high ground in their PR campaigning, yet are very much characterized by a lack of "understanding, fidelity, love, and mercy" (Romans 1:31). Unidirectional tolerance (along the lines of "rules for thee but not for me"), demagoguery and purposefully inflammatory rhetoric to stir up hatred and divisions, grandstanding and preening and misrepresentation in front of the media to distort the facts and pervert justice... are these the actions of truth and godliness?
 
-So, the point of bringing this up is that before making up our minds about something (anything), we need to be careful to screen it against this list to see "if the shoe fits". Sadly, it does a lot more of the time than one might wish—even for people and institutions that the rest of the world holds up as "good". But we are not to use the world's standards when we evaluate things, but God's, and that makes all the difference.
+So, the point of bringing this up is that before making up our minds about something (anything), we need to be careful to screen it against this list to see "if the shoe fits". Sadly, it does a lot more of the time than one might wish---even for people and institutions that the rest of the world holds up as "good". But we are not to use the world's standards when we evaluate things, but God's, and that makes all the difference.
 
 All of this is important for ensuring that we accurately discern the nature of things so that we don't support that which we ought not, and thereby attach the name of Christ to ungodliness. For we are at all times ambassadors of the Kingdom of God.
 
@@ -1380,6 +1358,9 @@ All of this is important for ensuring that we accurately discern the nature of t
 
 
 ## [Romans 1:32 - What does this verse have to say about the notion of "live and let live"?](/verse-by-verse-studies/romans/romans-1/romans-1-32-what-does-this-verse-have-to-say-about-the-notion-of-live-and-let-live) {#romans-1-32-what-does-this-verse-have-to-say-about-the-notion-of-live-and-let-live}
+{{< subjects >}}
+
+{{< /subjects >}}
 
 
 
@@ -1395,11 +1376,7 @@ slides="https://bibledocs.org/slides/"
 
 ### Summary {#romans-1-32-what-does-this-verse-have-to-say-about-the-notion-of-live-and-let-live-summary}
 
-
-
-Romans 1:32 calls out the practice of "approving of" evil—different from "doing", to be sure, but still problematic. The thing is, making sure we do not approve of evil is a very different thing than constantly injecting ourselves into the business of others to shove the truth down their throats. "Not approving of evil" thus does not necessarily equate to "going around and telling people they are doing evil and will go to hell" (and so on), in other words. Sometimes, per Matthew 7:6 ("pearls before swine"), we instead need to bite our tongue, and make sure we are wise in terms of where we direct our words and efforts. For the time is short, and we truly don't have the resources to waste on people who won't listen to the truth in any capacity whatsoever. These people aren't somehow irredeemable/beyond salvation or somehow unworthy of the gospel message (perish the thought!)---the point is more just that the time may not yet be right for them, and if it is in fact not yet right for them, then we shouldn't push things at present. Being circumspect about when we speak up like this is being prudent and godly—rather than somehow improperly worshiping the notion of "live and let live", or "approving of evil".
-
-
+Romans 1:32 calls out the practice of "approving of" evil---different from "doing", to be sure, but still problematic. The thing is, making sure we do not approve of evil is a very different thing than constantly injecting ourselves into the business of others to shove the truth down their throats. "Not approving of evil" thus does not necessarily equate to "going around and telling people they are doing evil and will go to hell" (and so on), in other words. Sometimes, per Matthew 7:6 ("pearls before swine"), we instead need to bite our tongue, and make sure we are wise in terms of where we direct our words and efforts. For the time is short, and we truly don't have the resources to waste on people who won't listen to the truth in any capacity whatsoever. These people aren't somehow irredeemable/beyond salvation or somehow unworthy of the gospel message (perish the thought!)---the point is more just that the time may not yet be right for them, and if it is in fact not yet right for them, then we shouldn't push things at present. Being circumspect about when we speak up like this is being prudent and godly---rather than somehow improperly worshiping the notion of "live and let live", or "approving of evil".
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -1409,21 +1386,21 @@ Romans 1:32 calls out the practice of "approving of" evil—different from "doin
 
 <!-- --- -->
 
-"Live and let live" is a popular sentiment in our modern culture. (At least among the younger generation—speaking from my time in college, the idea of "you do you" very much permeated the expected social fabric). Being frustrated by this over-emphasized tolerance, it might be tempting to interpret verse 32's condemnation of approving evil works as *carte blanch* for poking our nose into all manner of sinful conduct in the lives of others. After all, if one believes silence implicitly means approval, then we really would have no choice, right? But does silence really mean approval? And what exactly does "silence" (=not speaking up) mean anyway, in practice? How does it interact with the concept of "pearls before swine"?
+"Live and let live" is a popular sentiment in our modern culture. (At least among the younger generation---speaking from my time in college, the idea of "you do you" very much permeated the expected social fabric). Being frustrated by this over-emphasized tolerance, it might be tempting to interpret verse 32's condemnation of approving evil works as *carte blanch* for poking our nose into all manner of sinful conduct in the lives of others. After all, if one believes silence implicitly means approval, then we really would have no choice, right? But does silence really mean approval? And what exactly does "silence" (=not speaking up) mean anyway, in practice? How does it interact with the concept of "pearls before swine"?
 
 Since a close contextual example here in Romans 1 is homosexuality, let's use that as an example. If verse 32 calls out not just "doing" such things, but also "approving" of them, that would certainly mean we have no business praising the "braveness" of public figures coming out as gay, attending gay pride events as supporters of their cause, clapping at speeches that malign traditional marriage between one man and one woman, and so on. All of these things would amount to directly approving of those who practice and/or preach homosexuality, and therefore run afoul of this verse.
 
-However, it ought to be fairly obvious that *not doing* these things is decidedly different from *doing* such things as organizing counter-protests at gay pride events, shouting "turn or burn" at people coming out of gay bars, and things like that. (Cf. also bombing abortion clinics). So are we supposed to take action in these ways—is that the only valid way to "not approve"? Some people say so. They say that you are being a cowardly Christian if you don't always inject yourself into unbelievers' business to tell them what's what.
+However, it ought to be fairly obvious that *not doing* these things is decidedly different from *doing* such things as organizing counter-protests at gay pride events, shouting "turn or burn" at people coming out of gay bars, and things like that. (Cf. also bombing abortion clinics). So are we supposed to take action in these ways---is that the only valid way to "not approve"? Some people say so. They say that you are being a cowardly Christian if you don't always inject yourself into unbelievers' business to tell them what's what.
 
-*They would be wrong*. Matthew 7:6 speaks of casting pearls before swine. Put simply, this verse does not somehow instruct us to avoid sharing the gospel, but rather commands us to use discernment, and not throw our limited time and effort towards people who have not demonstrated even a shred of receptiveness towards the truth. Some people might decide that there can't be anything wrong with always continuing to push the gospel anyway—the gospel is always a good thing, right? Except that's not what the Bible commands. It is *wrong* to misallocate our time like that.
+*They would be wrong*. Matthew 7:6 speaks of casting pearls before swine. Put simply, this verse does not somehow instruct us to avoid sharing the gospel, but rather commands us to use discernment, and not throw our limited time and effort towards people who have not demonstrated even a shred of receptiveness towards the truth. Some people might decide that there can't be anything wrong with always continuing to push the gospel anyway---the gospel is always a good thing, right? Except that's not what the Bible commands. It is *wrong* to misallocate our time like that.
 
 One does have to be careful not to give up before one even starts. We ought to always season our speech with the salt of the gospel, for example. That general practice is not what we are speaking of. We are speaking of the evangelism equivalent of "throwing good money after a bad cause", of failing to choose one's battles wisely. We need to be responsible and wise in when we choose to press forward, and when we choose to step back and just pray for people rather than trying to forcefully shove the truth down their throats when they obviously aren't the least bit open to it.
 
-I'd like to say this ought to be obvious, but it apparently isn't, since a large number of self-professed Christians hold up this very thing we are discussing (what one might term somewhat harshly as "forcibly shoving the truth down others' throats") as "evangelism"---and pat themselves on the back for engaging in this decidedly problematic behavior—when in fact true evangelism is much more organic than forced, and is based upon personal relationships that develop naturally. Evangelists (i.e., those members of the body of Christ with the spiritual gift of evangelism) are supernaturally empowered in their ability form connections with unbelievers and share Jesus with them in a way that leads to them accepting the gospel. Not grudgingly through force, but with joy and rejoicing through well-placed words and well-maintained relationships.
+I'd like to say this ought to be obvious, but it apparently isn't, since a large number of self-professed Christians hold up this very thing we are discussing (what one might term somewhat harshly as "forcibly shoving the truth down others' throats") as "evangelism"---and pat themselves on the back for engaging in this decidedly problematic behavior---when in fact true evangelism is much more organic than forced, and is based upon personal relationships that develop naturally. Evangelists (i.e., those members of the body of Christ with the spiritual gift of evangelism) are supernaturally empowered in their ability form connections with unbelievers and share Jesus with them in a way that leads to them accepting the gospel. Not grudgingly through force, but with joy and rejoicing through well-placed words and well-maintained relationships.
 
 In a stroke of irony, at the same time many are far too eager to go around crusading for their set of moral standards out in the world (see: very politically active Christians in America, who have completely sacrificed spiritual growth for political campaigning), they completely drop the ball at policing their churches from within. In 1 Corinthians 5:9-13, Paul makes it clear what our conduct should be when it comes to dealing with the immoral behavior of others. Alongside Matthew 7:6, this passage makes it crystal clear that unbelievers are *not* ours to correct and police, but God's. However, those who claim to be brothers in Christ get no such pass. If they claim Christ with their lips but clearly reject His truth in their brazen, unashamed flouting of His commands, we are to *throw them out of the Church*, and refuse to associate with them until they submit to the Lord in repentance. (We need to welcome them back with open arms then, of course, but *not* before then).
 
-To pull us back, it really depends what one means by "live and let live". As Christians, we obviously need to not approve of evil (and that is essentially all this verse specifically says). The rest comes down to spiritual discernment. Sometimes we need to speak up and boldly proclaim the truth. But sometimes too we need to take a step back and not force the issue—if it is not the right time for a given individual. Perhaps we may have planted seeds that will take root in time, but even that is not always for us to know.
+To pull us back, it really depends what one means by "live and let live". As Christians, we obviously need to not approve of evil (and that is essentially all this verse specifically says). The rest comes down to spiritual discernment. Sometimes we need to speak up and boldly proclaim the truth. But sometimes too we need to take a step back and not force the issue---if it is not the right time for a given individual. Perhaps we may have planted seeds that will take root in time, but even that is not always for us to know.
 
 Regardless of the circumstances, we can always pray for others.
 

@@ -4,11 +4,9 @@ weight: 40
 layout: content-page
 ---
 
-Due to various circumstances, I haven't gotten as much done (as quickly) as I might have liked in the last little bit. I'm helping a close friend get content ready for his own ministry website, which has taken up a good bit of my time. I also moved into a new role at work, which had somewhat of a learning curve, and was very busy when sent on a business trip for two weeks. There were other things too, but you get the idea.
+{{< subjects >}}
 
-Nonetheless, this release brings some new content for many of the lessons in the Winter series from our Sunday School class at Central Baptist, relating to discerning the voice of God.
-
-<!--more-->
+{{< /subjects >}}
 
 {{% section-navigation %}}
 
@@ -24,13 +22,9 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2023/throug
 
 ## Summary {#summary}
 
-
-
 Due to various circumstances, I haven't gotten as much done (as quickly) as I might have liked in the last little bit. I'm helping a close friend get content ready for his own ministry website, which has taken up a good bit of my time. I also moved into a new role at work, which had somewhat of a learning curve, and was very busy when sent on a business trip for two weeks. There were other things too, but you get the idea.
 
 Nonetheless, this release brings some new content for many of the lessons in the Winter series from our Sunday School class at Central Baptist, relating to discerning the voice of God.
-
-
 
 ## Timestamps {#timestamps}
 

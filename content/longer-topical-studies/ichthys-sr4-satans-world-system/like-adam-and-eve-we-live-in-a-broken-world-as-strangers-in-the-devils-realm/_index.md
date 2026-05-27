@@ -4,9 +4,9 @@ weight: 10
 layout: content-page
 ---
 
-This lesson we first go over why the title of the introduction to SR4 mentions Satan's rebellion and fall: because that sequence of events kicked off the battlefield upon which creature history plays out. Bearing in mind this wider spiritual conflict can help contextualize the present set of circumstances before us in this life. After going over these points, we talk about the content of the introduction to SR4, which discusses Adam and Eve: how their circumstances changed post-fall, how God promised in the prophecy of Genesis 3:15 and through the *protoevangelium* to reconcile humanity back to Himself, and how the wider circumstances of our lives today have not fundamentally changed from Adam's and Eve's outside the garden. Finally, we make a brief outline of the next set of topics we will be covering in future lessons, dealing with the wider idea of us as stranger's in the devil's realm, as sojourners in this fallen world under his control.
+{{< subjects >}}
 
-<!--more-->
+{{< /subjects >}}
 
 {{% section-navigation %}}
 
@@ -22,11 +22,7 @@ slides="https://bibledocs.org/slides/longer-topical-studies/ichthys-sr4-satans-w
 
 ## Summary {#summary}
 
-
-
 This lesson we first go over why the title of the introduction to SR4 mentions Satan's rebellion and fall: because that sequence of events kicked off the battlefield upon which creature history plays out. Bearing in mind this wider spiritual conflict can help contextualize the present set of circumstances before us in this life. After going over these points, we talk about the content of the introduction to SR4, which discusses Adam and Eve: how their circumstances changed post-fall, how God promised in the prophecy of Genesis 3:15 and through the *protoevangelium* to reconcile humanity back to Himself, and how the wider circumstances of our lives today have not fundamentally changed from Adam's and Eve's outside the garden. Finally, we make a brief outline of the next set of topics we will be covering in future lessons, dealing with the wider idea of us as stranger's in the devil's realm, as sojourners in this fallen world under his control.
-
-
 
 ## Timestamps {#timestamps}
 
@@ -974,6 +970,52 @@ In fact, God soon will put down the beast forever, but in the meantime, we belie
 {{% /transcript %}}
 
 {{% discussion-pages %}}
+
+## [Discussion - Why care about Satan's rebellion and open with Adam and Eve; why these consequences for Fall](/longer-topical-studies/ichthys-sr4-satans-world-system/like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devils-realm/why-care-about-satans-rebellion-and-open-with-adam-eve-why-these-consequences-for-fall) {#discussion-why-care-about-satan-s-rebellion-and-open-with-adam-and-eve-why-these-consequences-for-fall}
+{{< subjects >}}
+
+{{< /subjects >}}
+
+
+
+### Video {#discussion-why-care-about-satan-s-rebellion-and-open-with-adam-and-eve-why-these-consequences-for-fall-video}
+
+{{% video
+videoId=""
+
+videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy-0I_RPPIU0S1jdywU7ZNw4"
+
+slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-sr4-satans-world-system/introduction-to-sr4-satans-world-system/"
+%}}
+
+### Summary {#discussion-why-care-about-satan-s-rebellion-and-open-with-adam-and-eve-why-these-consequences-for-fall-summary}
+
+
+
+### Timestamps {#discussion-why-care-about-satan-s-rebellion-and-open-with-adam-and-eve-why-these-consequences-for-fall-timestamps}
+
+
+
+{{% toggleable-content %}}
+
+### Content {#discussion-why-care-about-satan-s-rebellion-and-open-with-adam-and-eve-why-these-consequences-for-fall-content}
+
+(Derived from https://ichthys.com/SR4(SWS).htm)
+
+<!-- --- -->
+
+
+
+{{% /toggleable-content %}}
+
+{{% toggleable-transcript %}}
+
+### Video/audio transcript {#discussion-why-care-about-satan-s-rebellion-and-open-with-adam-and-eve-why-these-consequences-for-fall-video-audio-transcript}
+
+
+
+{{% /toggleable-transcript %}}
+
 
 {{% /discussion-pages %}}
 

@@ -4,13 +4,9 @@ weight: 30
 layout: content-page
 ---
 
-This cycle was dominated by two primary areas: tech research and setup, and coding support for discussion pages.
+{{< subjects >}}
 
-On the tech side of things, I did research, bought, and started setting up several different things. A stenomask and voice recognition software to be able to dictate prose at high speeds, a separate wireless lapel mic system to use for content recordings and live presentations, and a portable monitor setup for working on-the-go, so that I can perhaps work in a local public library on the weekends, as sometimes I find that working in a public place can help me focus better.
-
-Aside from all that, the biggest task knocked out this cycle was coding support for discussion pages in the Python preprocessor application for static sites that I've been developing over the last few months. This was a large coding effort, taking me many days. But I'm very glad to have it behind me now, so that it will no longer be hanging over my head.
-
-<!--more-->
+{{< /subjects >}}
 
 {{% section-navigation %}}
 
@@ -26,15 +22,11 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/throug
 
 ## Summary {#summary}
 
-
-
 This cycle was dominated by two primary areas: tech research and setup, and coding support for discussion pages.
 
 On the tech side of things, I did research, bought, and started setting up several different things. A stenomask and voice recognition software to be able to dictate prose at high speeds, a separate wireless lapel mic system to use for content recordings and live presentations, and a portable monitor setup for working on-the-go, so that I can perhaps work in a local public library on the weekends, as sometimes I find that working in a public place can help me focus better.
 
 Aside from all that, the biggest task knocked out this cycle was coding support for discussion pages in the Python preprocessor application for static sites that I've been developing over the last few months. This was a large coding effort, taking me many days. But I'm very glad to have it behind me now, so that it will no longer be hanging over my head.
-
-
 
 ## Timestamps {#timestamps}
 

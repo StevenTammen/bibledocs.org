@@ -6,9 +6,8 @@ video: https://www.youtube.com/watch?v=KF-287QM3ig
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
 ---
 
-From the very beginning, the scriptures spoke of a Messiah that would come to save His people from their sins. All the way back in the earliest chapters of Genesis (with the protoevangelium and Abel's blood sacrifice, for example), we can see that the Old Testament clearly pre-figures the Messiah. In this lesson we go over how both blood sacrifice and prophecy (in a more general sense) point not only to the person of the Messiah, but also His suffering.
-
-<!--more-->
+{{< subjects >}}
+{{< /subjects >}}
 
 {{% section-navigation %}}
 
@@ -24,11 +23,7 @@ slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-
 
 ## Summary {#summary}
 
-
-
 From the very beginning, the scriptures spoke of a Messiah that would come to save His people from their sins. All the way back in the earliest chapters of Genesis (with the protoevangelium and Abel's blood sacrifice, for example), we can see that the Old Testament clearly pre-figures the Messiah. In this lesson we go over how both blood sacrifice and prophecy (in a more general sense) point not only to the person of the Messiah, but also His suffering.
-
-
 
 ## Timestamps {#timestamps}
 

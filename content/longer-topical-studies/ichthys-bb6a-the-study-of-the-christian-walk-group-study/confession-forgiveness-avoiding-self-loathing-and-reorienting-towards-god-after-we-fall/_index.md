@@ -4,9 +4,9 @@ weight: 1
 layout: content-page
 ---
 
-This week we talked about how to recover after we have stumbled in sin -- the procedure for picking ourselves up, dusting ourselves off, and getting back onto the high road to Zion. A good bit of time is spent discussing 1 John 1:9, and how obtaining forgiveness really is as simple as this verse says: if we confess to God (and mean it), then God *does* forgive us just like that, because Jesus Christ has already paid the price to redeem us.
+{{< subjects >}}
 
-<!--more-->
+{{< /subjects >}}
 
 {{% section-navigation %}}
 
@@ -22,11 +22,7 @@ slides="https://bibledocs.org/slides/longer-topical-studies/ichthys-bb6a-the-chr
 
 ## Summary {#summary}
 
-
-
 This week we talked about how to recover after we have stumbled in sin -- the procedure for picking ourselves up, dusting ourselves off, and getting back onto the high road to Zion. A good bit of time is spent discussing 1 John 1:9, and how obtaining forgiveness really is as simple as this verse says: if we confess to God (and mean it), then God *does* forgive us just like that, because Jesus Christ has already paid the price to redeem us.
-
-
 
 ## Timestamps {#timestamps}
 

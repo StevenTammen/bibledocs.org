@@ -3,16 +3,13 @@ title: Sleep as a Euphemism for Death; Resuscitation; the Afterlife; and More
 weight: 
 contentlevel: intermediate
 layout: aggregation-page
+summary: >-
+   Lazarus and Jairus' daughter are two examples of people whom Jesus raises from the dead in what is typically termed "resuscitation" (as opposed to resurrection). In both cases Jesus uses language of these two individuals "sleeping", although I argue for completely different reasons. Understanding resuscitation properly requires first understanding what a more typical post-death path looks like for a human being (so this study covers that—as part of showing how resuscitation does not actually affect anyone's ultimate afterlife path, but is only a temporary deviation from the norm). We also examine how resuscitation does not contradict Hebrews 9:27, which says that "it is appointed for people to die once." If you take that "once" as meaning "once for all" rather than "one time," then there is no contradiction whatsoever.
 ---
-
-Lazarus and Jairus' daughter are two examples of people whom Jesus raises from the dead in what is typically termed "resuscitation" (as opposed to resurrection). In both cases Jesus uses language of these two individuals "sleeping", although I argue for completely different reasons. Understanding resuscitation properly requires first understanding what a more typical post-death path looks like for a human being (so this study covers that—as part of showing how resuscitation does not actually affect anyone's ultimate afterlife path, but is only a temporary deviation from the norm). We also examine how resuscitation does not contradict Hebrews 9:27, which says that "it is appointed for people to die once." If you take that "once" as meaning "once for all" rather than "one time," then there is no contradiction whatsoever.
-
-<!--more-->
 
 <!-- aggregate-page-content -->
 
 ## [Lazarus and Jairus' Daughter - Are They Sleeping or Dead?](/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/lazarus-and-jairus-daughter-are-they-sleeping-or-dead) {#lazarus-and-jairus-daughter-are-they-sleeping-or-dead}
-
 
 
 ### Video {#lazarus-and-jairus-daughter-are-they-sleeping-or-dead-video}
@@ -27,11 +24,7 @@ slides="https://www.bibledocs.org/slides/questions-and-answers/reader-correspond
 
 ### Summary {#lazarus-and-jairus-daughter-are-they-sleeping-or-dead-summary}
 
-
-
 When Jesus says that Jairus' daughter is "sleeping", and says that Lazarus (the brother of Mary and Martha) is "sleeping", well, why? Were they sleeping, or were they dead? Why would Jesus put things like this?
-
-
 
 ### Timestamps {#lazarus-and-jairus-daughter-are-they-sleeping-or-dead-timestamps}
 
@@ -95,7 +88,7 @@ One might go on. The point is, just like today, it was not all that uncommon for
 And so, of course, while it is completely reasonable to line up the two people named Lazarus, the shared name alone is not proof of them being the same person. In fact, there is some evidence to the contrary:
 
 - In John 12:3, we are told that Lazarus' sister Mary anointed Jesus's feet with nard, an expensive type of perfume. Additionally, John 11:19 says "many Jews" came to comfort the sisters in the loss of their brother. From these verses and others, it is apparent that Mary, Martha, and Lazarus were relatively affluent and well-connected.
-- But the Lazarus of Luke 16 is a beggar—perhaps the lowest social station possible.
+- But the Lazarus of Luke 16 is a beggar---perhaps the lowest social station possible.
 
 So quite simply, from the Bible itself, it seems unlikely that these two men are the same person.
 
@@ -189,7 +182,7 @@ So this is the "setting of the scene" for this passage here in Matthew.
 It might be tempting to think Jesus was merely using sleep as a euphemism for death here too (just like in John 11), but there are some issues with taking that approach:
 
 - First, as you are quite right in pointing out, Jesus never clarifies to say the girl was in fact dead. That would have been a very natural thing to do when the crowd began to mock him in verse 24. After all, if he really did mean in saying that the girl was sleeping that she was dead, why would he hide it then?
-- Second, note that Jesus shoos the people away. He kicks them out of the house, and makes them wait outside. If there were nothing else going on here—and he were merely speaking euphemistically—then why would he do this?
+- Second, note that Jesus shoos the people away. He kicks them out of the house, and makes them wait outside. If there were nothing else going on here---and he were merely speaking euphemistically---then why would he do this?
 
 So what *was* going on here, then?
 
@@ -211,7 +204,7 @@ There are only two other instances of Jesus raising people from the dead aside f
 
 <!-- --- -->
 
-I will acknowledge that much of what I have just said is based on inference and a degree of speculation on my part (that is, it is not as if the Bible says these things very explicitly). However, I do believe this is more than just an opinion—I believe this is the actual truth of it, indirect as it may be. For I see little other explanation that satisfies all the elements at once without having other problems. Jesus sending the people out especially makes little sense under most other possible interpretations.
+I will acknowledge that much of what I have just said is based on inference and a degree of speculation on my part (that is, it is not as if the Bible says these things very explicitly). However, I do believe this is more than just an opinion---I believe this is the actual truth of it, indirect as it may be. For I see little other explanation that satisfies all the elements at once without having other problems. Jesus sending the people out especially makes little sense under most other possible interpretations.
 
 I should note that some people might be offended that this line of thinking suggests that Jesus intentionally misdirected the beliefs of others (critics would call it lying). To that I would ask what they think of the actions of the Hebrew midwives in Exodus 1:15-22 (and also what God thought about the actions of the midwives in that context), and also the actions of Rahab in Joshua 2 (and cf. the New Testament praise of Rahab's actions in Hebrews 11:31 and James 2:25). No doubt this teaching will ruffle some feathers, but part of growing up spiritually is learning to distinguish moral virtue from legalistic rules that have the appearance of holiness, but are in fact incompatible with true righteousness.
 
@@ -877,7 +870,6 @@ Bob L.
 
 
 ## [Does Jesus' Use of the Sleeping Terminology Have Anything to Do with Resuscitation?](/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/does-jesus-use-of-the-sleeping-terminology-have-anything-to-do-with-resuscitation) {#does-jesus-use-of-the-sleeping-terminology-have-anything-to-do-with-resuscitation}
-
 {{< subjects >}}
 <a href="/subject-index/#sleep-as-a-euphemism-for-death-does-not-necessarily-point-to-eventual-resuscitation">Sleep > As a euphemism for death > Does not necessarily point to eventual resuscitation</a>
 {{< /subjects >}}
@@ -896,11 +888,7 @@ slides="https://www.bibledocs.org/slides/questions-and-answers/reader-correspond
 
 ### Summary {#does-jesus-use-of-the-sleeping-terminology-have-anything-to-do-with-resuscitation-summary}
 
-
-
 Does it mean anything that both Lazarus and Jairus' daughter came back to life after Jesus said they were "sleeping?" Does "sleeping" necessarily predict eventual resuscitation? The answer to this question is no. Sleep as a metaphor/euphemism is more linked with death than resuscitation, and other evidence from the Bible helps us show that the normal way to take things is actually that those who are "sleeping" are dead. That these two specific individuals happened to be resuscitated does not change the fact that the metaphorical/euphemistic usage of sleep is linked to death, not resuscitation.
-
-
 
 ### Timestamps {#does-jesus-use-of-the-sleeping-terminology-have-anything-to-do-with-resuscitation-timestamps}
 
@@ -960,7 +948,7 @@ We also ought to note that there are places where sleeping is mentioned alongsid
 {{< /subjects >}}
 <!-- p="Jeremiah 51:39; Jeremiah 51:57; Job 14:12; Daniel 12:2" -->
 
-The verb for raising someone from death is the same as awakening/rousing someone from sleep in both Hebrew and Greek—see Hebrew's *qutz* ([קוּץ](https://www.blueletterbible.org/lexicon/h6974/esv/wlc/0-1/)) and Greek's *egeiro* ([ἐγείρω](https://www.blueletterbible.org/lexicon/g1453/esv/mgnt/0-1/)), and the relevant concordance entries for this type of usage (that is, when the verbs are being used of death not sleep).
+The verb for raising someone from death is the same as awakening/rousing someone from sleep in both Hebrew and Greek---see Hebrew's *qutz* ([קוּץ](https://www.blueletterbible.org/lexicon/h6974/esv/wlc/0-1/)) and Greek's *egeiro* ([ἐγείρω](https://www.blueletterbible.org/lexicon/g1453/esv/mgnt/0-1/)), and the relevant concordance entries for this type of usage (that is, when the verbs are being used of death not sleep).
 
 You might especially compare passages that clearly describe death as a perpetual sleep from which one does not awaken. For example:
 
@@ -971,7 +959,7 @@ Or passages that describe those that have been buried as sleeping in the ground:
 
 - Daniel 12:2
 
-So it's not just by accident that the verbs overlap in usage, but because of an enduring semantic relationship between the concepts, present in English as well (perhaps most commonly in poetic phrasing—cf. John Donne's famous Sonnet ["Death, be not proud"](https://www.poetryfoundation.org/poems/44107/holy-sonnets-death-be-not-proud)), and actually most other languages too I'd reckon. Not that I've done a formal study of it, but it just makes sense for us humans to associate these two concepts that have similar surface appearances.
+So it's not just by accident that the verbs overlap in usage, but because of an enduring semantic relationship between the concepts, present in English as well (perhaps most commonly in poetic phrasing---cf. John Donne's famous Sonnet ["Death, be not proud"](https://www.poetryfoundation.org/poems/44107/holy-sonnets-death-be-not-proud)), and actually most other languages too I'd reckon. Not that I've done a formal study of it, but it just makes sense for us humans to associate these two concepts that have similar surface appearances.
 
 {{% /toggleable-content %}}
 
@@ -1185,6 +1173,9 @@ So it's not just by accident that the verbs overlap in usage, but because of an 
 
 
 ## [How Does the Concept of Resuscitation Affect the Afterlife?](/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/how-does-the-concept-of-resuscitation-affect-the-afterlife) {#how-does-the-concept-of-resuscitation-affect-the-afterlife}
+{{< subjects >}}
+
+{{< /subjects >}}
 
 
 
@@ -1200,11 +1191,7 @@ slides="https://www.bibledocs.org/slides/questions-and-answers/reader-correspond
 
 ### Summary {#how-does-the-concept-of-resuscitation-affect-the-afterlife-summary}
 
-
-
-Answering the question "what happens after a human being dies physically—where do they go, and what is their experience like?" is deceptively complex. Are we talking about a believer, or an unbeliever? Are we talking before Christ's ascension, or after Christ's ascension? Are we talking in the short term, or what the eternal state will be? We'll get into some of the specifics of all this in this lesson, with the ultimate goal of showing that people who are resuscitated do not ultimately end up in the final state any different than people who die once and stay dead. Both sorts of people (those who are resuscitated, those who are not) ultimately die once for all in the end, and in that unavoidable conclusion to every mortal's time upon this Earth, all humanity faces much the same afterlife. Those who are resuscitated back into their mortal bodies (in a demonstration of God's miraculous power over life and death) will face death again all the same, and end up in the same places as those who were not so raised. Only final *resurrection* (contrast *resuscitation*) will render us truly impervious to death's sting.
-
-
+Answering the question "what happens after a human being dies physically---where do they go, and what is their experience like?" is deceptively complex. Are we talking about a believer, or an unbeliever? Are we talking before Christ's ascension, or after Christ's ascension? Are we talking in the short term, or what the eternal state will be? We'll get into some of the specifics of all this in this lesson, with the ultimate goal of showing that people who are resuscitated do not ultimately end up in the final state any different than people who die once and stay dead. Both sorts of people (those who are resuscitated, those who are not) ultimately die once for all in the end, and in that unavoidable conclusion to every mortal's time upon this Earth, all humanity faces much the same afterlife. Those who are resuscitated back into their mortal bodies (in a demonstration of God's miraculous power over life and death) will face death again all the same, and end up in the same places as those who were not so raised. Only final *resurrection* (contrast *resuscitation*) will render us truly impervious to death's sting.
 
 ### Timestamps {#how-does-the-concept-of-resuscitation-affect-the-afterlife-timestamps}
 
@@ -1277,7 +1264,7 @@ There are three "types of death" that human beings can experience:
 - Spiritual death (spiritual separation from God)
 - Eternal death (also called the "second death")---spending eternity in the Lake of Fire, eternally separated from God
 
-When Satan told Eve that she would "surely not die" in Genesis 3:4, he spoke a half-truth. While disobeying God did not cause immediate physical death for Adam and Eve, their actions caused immediate spiritual death (spiritual separation from God), and in fact would cause eventual physical death... even if not instantaneously. Further, if God had not provided a gracious means of escape for us in the blood of Jesus Christ (symbolized and foreshadowed by God's gifting of the animal skins in Genesis 3:21, which is often called the *protoevangelium*), all of us—Adam and Eve included—would necessarily face certain eternal death as well.
+When Satan told Eve that she would "surely not die" in Genesis 3:4, he spoke a half-truth. While disobeying God did not cause immediate physical death for Adam and Eve, their actions caused immediate spiritual death (spiritual separation from God), and in fact would cause eventual physical death... even if not instantaneously. Further, if God had not provided a gracious means of escape for us in the blood of Jesus Christ (symbolized and foreshadowed by God's gifting of the animal skins in Genesis 3:21, which is often called the *protoevangelium*), all of us---Adam and Eve included---would necessarily face certain eternal death as well.
 
 Our present topic is focused upon the first type of death: physical death.
 
@@ -1400,7 +1387,7 @@ That is the eternal state of believers and elect angels. By way of contrast, unb
 {{< /subjects >}}
 <!-- p="1 John 3:2; Corinthians 15:35-58" -->
 
-Unfortunately, a lot of "pop culture" representations of heaven involve pearly gates, clouds, floating gold streets, and what have you—things that make it seem somehow floaty and ephemeral rather than physical. This is not compatible with the Bible's descriptions of the afterlife.
+Unfortunately, a lot of "pop culture" representations of heaven involve pearly gates, clouds, floating gold streets, and what have you---things that make it seem somehow floaty and ephemeral rather than physical. This is not compatible with the Bible's descriptions of the afterlife.
 
 The Bible is clear that in final resurrection we will be "like" Christ (1 John 3:2, and cf. 1 Corinthians 15:35-58), and will dwell upon the remade Earth (now free from sin and death) rather than up in the clouds somewhere. We will have bodies that are incorruptible, "spiritual bodies" that will be ruled over by spiritual impulses rather than the sinful fleshly ones like we have at present. We can only grasp the barest outlines of exactly what this means, but the key point is that our spirits will still be housed in bodies, even if they are different than the ones we are now in.
 
@@ -1417,7 +1404,7 @@ So what about before the resurrection, we might ask? Did the people in Abraham's
 {{< /subjects >}}
 <!-- p="Luke 16:24; 1 Corinthians 15:44; 2 Corinthians 5:1-4; Revelation 6:11; Revelation 7:9" -->
 
-The answer to these questions is yes—people in the afterlife (even before the resurrection) have bodies too. Recall at the beginning of today's video how we talked about the composition of humans—how we are composed of body and spirit. How could humans exist as only spirit? It is simply not how God has made us, ontologically speaking.
+The answer to these questions is yes---people in the afterlife (even before the resurrection) have bodies too. Recall at the beginning of today's video how we talked about the composition of humans---how we are composed of body and spirit. How could humans exist as only spirit? It is simply not how God has made us, ontologically speaking.
 
 Clothing is a metaphor employed in the Bible for the concept of human spirits being joined with physical bodies (cf. 2 Corinthians 5:1-4; Revelation 6:11, 7:9). For a human to be, well, a human, a human spirit must be embodied and joined with some form of "vessel" = a physical body.
 
@@ -1427,7 +1414,7 @@ Scripture therefore indirectly teaches a concept that my mentor has termed "inte
 
 One of the reasons why this teaching is often missed or misunderstood is because of [a complex textual issue relating to 2 Corinthians 5:3](https://ichthys.com/mail-Resurrection-Body-Eternal-Future.htm#interim%20body%20taught%20in%202nd%20Corinthians%205:3). Textual criticism is the art and science of figuring out what the original text of the Bible said; since the Bible was copied and recopied many times over the decades and centuries, changes could creep in and corrupt the text. The exact specifics of this particular textual matter are a bit beyond what I want to get into here (although see the link if interested in the gory technical details), but suffice it to say that the proper way to translate 2 Corinthians 5:3 is actually along the lines of "when we are **un**-clothed (i.e., because we have died, and our spirits have left our physical bodies), we will not be found naked (i.e., God will clothe our spirits with some new body)" rather than "when we are clothed (i.e., joined with a body of some form), we will not be found naked (i.e., we will not end up being disembodied)". Note that the meaning is entirely flipped between those two options, and also note the nearly tautological sense of the second (incorrect) option.
 
-To put that into a bit plainer English: 2 Corinthians 5:3---when translated using the correct textual base—says that when we put off our present bodies when we die physically, we will not be found naked in the sense of being without a body for our human spirit. Ergo, interim bodies.
+To put that into a bit plainer English: 2 Corinthians 5:3---when translated using the correct textual base---says that when we put off our present bodies when we die physically, we will not be found naked in the sense of being without a body for our human spirit. Ergo, interim bodies.
 
 There is other evidence too:
 
@@ -2160,7 +2147,6 @@ That is to say, when Jairus' daughter died the first time (assuming for the sake
 ## [Could You Explain More How All This Works with Respect to the Finality of Death?](/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death) {#could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death}
 
 
-
 ### Video {#could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death-video}
 
 {{% video
@@ -2173,11 +2159,7 @@ slides="https://www.bibledocs.org/slides/questions-and-answers/reader-correspond
 
 ### Summary {#could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death-summary}
 
-
-
 The word that some English versions translate as "once" in Hebrews 9:27 is the Greek adjective *hapax*. This lesson argues that the best way (and in fact only correct way) to take the sense of this verse is that "it is appointed for people to die once for all" rather than "it is appointed for people to die one time (as opposed to two times, three times, etc.)." If the correct interpretation of this verse really is the "once for all" sense of things, then there is no contradiction in resuscitated people facing physical death more than once, since even those people who are brought back to life for a time will still face eventual permanent physical death. 
-
-
 
 ### Timestamps {#could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death-timestamps}
 
@@ -2228,7 +2210,7 @@ So what to make of this? How do we puzzle it out? The key point is that in resur
 
 <!-- --- -->
 
-I also don't think we should lose sight of the fact that raising people from the dead (resuscitation) was clearly recognized as being utterly miraculous. It is *not* normal, but completely extraordinary—that's the whole point! So far from arguing "well, resuscitation can't actually be a thing, because it would mean that dead people have to cross an uncrossable boundary", we should instead be emphasizing how awe-inspiring it is that God, out of His overflowing grace and mercy and love, actually Himself violates the natural order He has set up, for our benefit!
+I also don't think we should lose sight of the fact that raising people from the dead (resuscitation) was clearly recognized as being utterly miraculous. It is *not* normal, but completely extraordinary---that's the whole point! So far from arguing "well, resuscitation can't actually be a thing, because it would mean that dead people have to cross an uncrossable boundary", we should instead be emphasizing how awe-inspiring it is that God, out of His overflowing grace and mercy and love, actually Himself violates the natural order He has set up, for our benefit!
 
 This reminds me in some respects of people struggling with exactly how the divine nature of Jesus Christ could possibly come to be bound to a physical body in the incarnation. It is fine to wonder and ponder and meditate upon (for it is certainly not easy to metabolize), but past a certain point, the important thing is that God *did* send His one and only Son into the world to take on humanity and die for our sins, so that we might be reconciled to Him. Shouldn't we focus on the wonder and awe of that, rather than focusing on raising objections to the "logic" of it, so to speak?
 
@@ -2247,7 +2229,7 @@ I'm afraid in the prior video [when I discussed Hebrews 9:27](), I was not as cl
 
 While I don't think there is anything technically wrong with what I said, perhaps this is not actually the ideal framework for trying to explain the concept, now that I think about it. Since it's not so much that the "dying" is different (so to speak), so much as what comes after it. That is, the difference comes from the following condition of the human being's existence more than it comes from how they left the physical world the first time around.
 
-So, for example, if Jairus' daughter died of illness (as is likely, given that she was only about 12 years old per Luke 8:42, and the text gives us no reason to think it was anything different), then her death from illness was no different than that of someone who would not ultimately be resuscitated. There was nothing special about this part, *per se*. What was special came only afterwards: that someone who was once dead (well and truly dead, not merely asleep) once again had life. *That* is the special thing—the miracle—not the "type of death".
+So, for example, if Jairus' daughter died of illness (as is likely, given that she was only about 12 years old per Luke 8:42, and the text gives us no reason to think it was anything different), then her death from illness was no different than that of someone who would not ultimately be resuscitated. There was nothing special about this part, *per se*. What was special came only afterwards: that someone who was once dead (well and truly dead, not merely asleep) once again had life. *That* is the special thing---the miracle---not the "type of death".
 
 What I had been trying to get at before was that there is a sort of death after which one stays dead, and that is true of all humans, even those who were resuscitated in the interim. Permanent physical death eventually comes for us all, and cannot be avoided by anyone.
 

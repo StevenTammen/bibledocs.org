@@ -6,10 +6,6 @@ video: https://www.youtube.com/watch?v=_s0PMBAP-fs
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
 ---
 
-Does it mean anything that both Lazarus and Jairus' daughter came back to life after Jesus said they were "sleeping?" Does "sleeping" necessarily predict eventual resuscitation? The answer to this question is no. Sleep as a metaphor/euphemism is more linked with death than resuscitation, and other evidence from the Bible helps us show that the normal way to take things is actually that those who are "sleeping" are dead. That these two specific individuals happened to be resuscitated does not change the fact that the metaphorical/euphemistic usage of sleep is linked to death, not resuscitation.
-
-<!--more-->
-
 {{< subjects >}}
 <a href="/subject-index/#sleep-as-a-euphemism-for-death-does-not-necessarily-point-to-eventual-resuscitation">Sleep > As a euphemism for death > Does not necessarily point to eventual resuscitation</a>
 {{< /subjects >}}
@@ -28,11 +24,7 @@ slides="https://www.bibledocs.org/slides/questions-and-answers/reader-correspond
 
 ## Summary {#summary}
 
-
-
 Does it mean anything that both Lazarus and Jairus' daughter came back to life after Jesus said they were "sleeping?" Does "sleeping" necessarily predict eventual resuscitation? The answer to this question is no. Sleep as a metaphor/euphemism is more linked with death than resuscitation, and other evidence from the Bible helps us show that the normal way to take things is actually that those who are "sleeping" are dead. That these two specific individuals happened to be resuscitated does not change the fact that the metaphorical/euphemistic usage of sleep is linked to death, not resuscitation.
-
-
 
 ## Timestamps {#timestamps}
 
@@ -92,7 +84,7 @@ We also ought to note that there are places where sleeping is mentioned alongsid
 {{< /subjects >}}
 <!-- p="Jeremiah 51:39; Jeremiah 51:57; Job 14:12; Daniel 12:2" -->
 
-The verb for raising someone from death is the same as awakening/rousing someone from sleep in both Hebrew and Greek—see Hebrew's *qutz* ([קוּץ](https://www.blueletterbible.org/lexicon/h6974/esv/wlc/0-1/)) and Greek's *egeiro* ([ἐγείρω](https://www.blueletterbible.org/lexicon/g1453/esv/mgnt/0-1/)), and the relevant concordance entries for this type of usage (that is, when the verbs are being used of death not sleep).
+The verb for raising someone from death is the same as awakening/rousing someone from sleep in both Hebrew and Greek---see Hebrew's *qutz* ([קוּץ](https://www.blueletterbible.org/lexicon/h6974/esv/wlc/0-1/)) and Greek's *egeiro* ([ἐγείρω](https://www.blueletterbible.org/lexicon/g1453/esv/mgnt/0-1/)), and the relevant concordance entries for this type of usage (that is, when the verbs are being used of death not sleep).
 
 You might especially compare passages that clearly describe death as a perpetual sleep from which one does not awaken. For example:
 
@@ -103,7 +95,7 @@ Or passages that describe those that have been buried as sleeping in the ground:
 
 - Daniel 12:2
 
-So it's not just by accident that the verbs overlap in usage, but because of an enduring semantic relationship between the concepts, present in English as well (perhaps most commonly in poetic phrasing—cf. John Donne's famous Sonnet ["Death, be not proud"](https://www.poetryfoundation.org/poems/44107/holy-sonnets-death-be-not-proud)), and actually most other languages too I'd reckon. Not that I've done a formal study of it, but it just makes sense for us humans to associate these two concepts that have similar surface appearances.
+So it's not just by accident that the verbs overlap in usage, but because of an enduring semantic relationship between the concepts, present in English as well (perhaps most commonly in poetic phrasing---cf. John Donne's famous Sonnet ["Death, be not proud"](https://www.poetryfoundation.org/poems/44107/holy-sonnets-death-be-not-proud)), and actually most other languages too I'd reckon. Not that I've done a formal study of it, but it just makes sense for us humans to associate these two concepts that have similar surface appearances.
 
 {{% /content %}}
 

@@ -4,9 +4,9 @@ weight: 10
 layout: content-page
 ---
 
-When Jesus was declared son of God through the resurrection, it showed that He is more than just a descendant of David in a physical sense—He is God as well. So Jesus is fully God yet also fully man.
+{{< subjects >}}
 
-<!--more-->
+{{< /subjects >}}
 
 {{% section-navigation %}}
 
@@ -22,11 +22,7 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
-
-When Jesus was declared son of God through the resurrection, it showed that He is more than just a descendant of David in a physical sense—He is God as well. So Jesus is fully God yet also fully man.
-
-
+When Jesus was declared son of God through the resurrection, it showed that He is more than just a descendant of David in a physical sense---He is God as well. So Jesus is fully God yet also fully man.
 
 <!-- ## Timestamps {#timestamps} -->
 

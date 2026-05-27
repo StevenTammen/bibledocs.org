@@ -4,9 +4,9 @@ weight: 150
 layout: content-page
 ---
 
-Genesis 2:23-24 and Matthew 19:4-6 make it clear what God holds to be natural in human sexuality: that sexual relations are to be limited to a man and a woman who are married to each other. From the outset, this inherently rules out all other "possibilities".
+{{< subjects >}}
 
-<!--more-->
+{{< /subjects >}}
 
 {{% section-navigation %}}
 
@@ -22,11 +22,7 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
-
 Genesis 2:23-24 and Matthew 19:4-6 make it clear what God holds to be natural in human sexuality: that sexual relations are to be limited to a man and a woman who are married to each other. From the outset, this inherently rules out all other "possibilities".
-
-
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -48,7 +44,7 @@ In other words, even if we had absolutely no other passages forbidding various f
 
 I suppose I should note that in Genesis 2:25 and Matthew 19:5 both, the word translated as "wife" also means woman generally. The word is *ishsha* (Hebrew: [אִשָּׁה](https://www.blueletterbible.org/lexicon/h802/esv/wlc/0-1/)) in Genesis, and *gune* (Greek: [γυνή](https://www.blueletterbible.org/lexicon/g1135/esv/tr/0-1/)) in Matthew.
 
-In both languages, the normal word for woman also means wife. (The same holds true for man/husband---[אִישׁ](https://www.blueletterbible.org/lexicon/h376/esv/wlc/0-1/) in Hebrew, and [ἀνήρ](https://www.blueletterbible.org/lexicon/g435/esv/mgnt/0-1/) in Greek). To a degree, this shows just how fundamental the concept of marriage is—that linguistically, being a man and being a woman is implicitly connotatively tied to being married. (At least in these two specific languages).
+In both languages, the normal word for woman also means wife. (The same holds true for man/husband---[אִישׁ](https://www.blueletterbible.org/lexicon/h376/esv/wlc/0-1/) in Hebrew, and [ἀνήρ](https://www.blueletterbible.org/lexicon/g435/esv/mgnt/0-1/) in Greek). To a degree, this shows just how fundamental the concept of marriage is---that linguistically, being a man and being a woman is implicitly connotatively tied to being married. (At least in these two specific languages).
 
 For other usages of these words where "wife" rather than "woman" is definitely in view, you might compare Proverbs 5:15-19; 1 Corinthians 7:2; Ephesians 5:33.
 

@@ -6,10 +6,6 @@ video: https://www.youtube.com/watch?v=LoKHW0rRxzU
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
 ---
 
-This lesson's main focus is examining the point that God is *three* in person, but that does *not* mean that the Trinity is composed of three (or more) different "gods".
-
-<!--more-->
-
 {{< subjects >}}
 <a href="/subject-index/#trinity-all-members-share-the-same-essence">Trinity > All members share the same essence</a>
 {{< /subjects >}}
@@ -28,11 +24,7 @@ slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-
 
 ## Summary {#summary}
 
-
-
 This lesson's main focus is examining the point that God is *three* in person, but that does *not* mean that the Trinity is composed of three (or more) different "gods".
-
-
 
 ## Timestamps {#timestamps}
 

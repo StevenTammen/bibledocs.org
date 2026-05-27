@@ -4,9 +4,9 @@ weight: 120
 layout: content-page
 ---
 
-Greek has multiple words for "love." The fact that God clearly supports "love" (in the sense of brotherly love between believers, the divine unconditional love we are to have even for our enemies, and so on) does not mean he supports homosexual sexual relationships. That would be a different word in the Greek—not one of the words dealing with those aforementioned types of love, but instead the word dealing with sexual passion. So making an argument like this is very much rubbish, even upon only the most cursory of examinations.
+{{< subjects >}}
 
-<!--more-->
+{{< /subjects >}}
 
 {{% section-navigation %}}
 
@@ -22,11 +22,7 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
-
-Greek has multiple words for "love." The fact that God clearly supports "love" (in the sense of brotherly love between believers, the divine unconditional love we are to have even for our enemies, and so on) does not mean he supports homosexual sexual relationships. That would be a different word in the Greek—not one of the words dealing with those aforementioned types of love, but instead the word dealing with sexual passion. So making an argument like this is very much rubbish, even upon only the most cursory of examinations.
-
-
+Greek has multiple words for "love." The fact that God clearly supports "love" (in the sense of brotherly love between believers, the divine unconditional love we are to have even for our enemies, and so on) does not mean he supports homosexual sexual relationships. That would be a different word in the Greek---not one of the words dealing with those aforementioned types of love, but instead the word dealing with sexual passion. So making an argument like this is very much rubbish, even upon only the most cursory of examinations.
 
 <!-- ## Timestamps {#timestamps} -->
 

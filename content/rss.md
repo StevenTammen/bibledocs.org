@@ -4,11 +4,9 @@ date: 2021-01-10T20:25:12-05:00
 tags: []
 subsection: meta
 weight: 80
+summary: >-
+   This ministry maintains RSS feeds that readers can subscribe to in order to stay up to date with site happenings. This page describes these RSS feeds.
 ---
-
-This ministry maintains RSS feeds that readers can subscribe to in order to stay up to date with site happenings. This page describes these RSS feeds.
-
-<!--more-->
 
 You can use an RSS feed reader like [Feedly](https://feedly.com/) to stay up to date on new site content without having to check manually (it saves lots of time -- I highly recommend using RSS).
 

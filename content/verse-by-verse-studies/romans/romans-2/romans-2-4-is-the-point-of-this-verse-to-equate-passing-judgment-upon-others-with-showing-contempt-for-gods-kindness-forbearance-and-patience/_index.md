@@ -4,9 +4,9 @@ weight: 20
 layout: content-page
 ---
 
-In essence, Romans 2:4 introduces another "possible explanation" for how the people in view here can be so insane as to to ignore natural revelation and natural behavior—in the manner Paul talks about in Romans 1:18ff. In verse 3, Paul asks if maybe it is because they somehow think they won't face the judgement. But in verse 4, he uses a connecting conjunction ("or") to introduce another possibility: perhaps these people persist in this folly not for the former reason, but instead because they show contempt for God's kindness (that he demonstrates in delaying judgement). The sense is that were they to not make light of God's kindness and patience, then they would not act in such a depraved way.
+{{< subjects >}}
 
-<!--more-->
+{{< /subjects >}}
 
 {{% section-navigation %}}
 
@@ -22,11 +22,7 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
-
-In essence, Romans 2:4 introduces another "possible explanation" for how the people in view here can be so insane as to to ignore natural revelation and natural behavior—in the manner Paul talks about in Romans 1:18ff. In verse 3, Paul asks if maybe it is because they somehow think they won't face the judgement. But in verse 4, he uses a connecting conjunction ("or") to introduce another possibility: perhaps these people persist in this folly not for the former reason, but instead because they show contempt for God's kindness (that he demonstrates in delaying judgement). The sense is that were they to not make light of God's kindness and patience, then they would not act in such a depraved way.
-
-
+In essence, Romans 2:4 introduces another "possible explanation" for how the people in view here can be so insane as to to ignore natural revelation and natural behavior---in the manner Paul talks about in Romans 1:18ff. In verse 3, Paul asks if maybe it is because they somehow think they won't face the judgement. But in verse 4, he uses a connecting conjunction ("or") to introduce another possibility: perhaps these people persist in this folly not for the former reason, but instead because they show contempt for God's kindness (that he demonstrates in delaying judgement). The sense is that were they to not make light of God's kindness and patience, then they would not act in such a depraved way.
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -62,7 +58,7 @@ If this is all still confusing, perhaps a loose paraphrase of Romans 2:1-4 will 
 All these people we are talking about have no excuse, those who hypocritically pass judgement upon others while doing the exact same things. God's judgement rightly falls upon these people. Do they suppose that somehow God won't judge them, even though they do the same things they condemn others for? Is that why they persist in this folly of evil? Or is it that they make light of God's kindness, tolerance, and patience, not understanding that God's kindness is what leads to repentance?
 {{% /scripture %}}
 
-Verse 4 is therefore just another "possible explanation" for how these people can be so insane as to ignore natural revelation and natural behavior—in the manner Paul talks about in Romans 1:18ff. The sense is that were they to not make light of God's kindness and patience, then they would not act in such a depraved way.
+Verse 4 is therefore just another "possible explanation" for how these people can be so insane as to ignore natural revelation and natural behavior---in the manner Paul talks about in Romans 1:18ff. The sense is that were they to not make light of God's kindness and patience, then they would not act in such a depraved way.
 
 {{% /content %}}
 

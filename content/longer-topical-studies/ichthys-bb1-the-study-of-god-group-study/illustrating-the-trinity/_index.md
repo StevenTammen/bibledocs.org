@@ -6,10 +6,6 @@ video: https://www.youtube.com/watch?v=sPdsq-NwiDw
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
 ---
 
-In this lesson we discuss illustrations that seek to help explain the Trinity. Since nothing in this created universe is truly like God, all of these illustrations are necessarily lacking in one way or another, and it is for this reason that we need to be quite wary of reading too much into them. If they help us better wrap our minds around the core teaching of the Trinity (namely, that God exists in three persons sharing one essence), then all to the good. However, we ought not ever build doctrine on top of things that are merely analogies, and analogies that are not even in scripture at that.
-
-<!--more-->
-
 {{< subjects >}}
 <a href="/subject-index/#trinity-illustrations">Trinity > Illustrations</a>
 {{< /subjects >}}
@@ -28,11 +24,7 @@ slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-
 
 ## Summary {#summary}
 
-
-
 In this lesson we discuss illustrations that seek to help explain the Trinity. Since nothing in this created universe is truly like God, all of these illustrations are necessarily lacking in one way or another, and it is for this reason that we need to be quite wary of reading too much into them. If they help us better wrap our minds around the core teaching of the Trinity (namely, that God exists in three persons sharing one essence), then all to the good. However, we ought not ever build doctrine on top of things that are merely analogies, and analogies that are not even in scripture at that.
-
-
 
 ## Timestamps {#timestamps}
 

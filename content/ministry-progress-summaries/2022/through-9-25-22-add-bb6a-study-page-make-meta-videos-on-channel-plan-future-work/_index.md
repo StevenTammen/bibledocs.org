@@ -4,11 +4,9 @@ weight: 20
 layout: content-page
 ---
 
-Well, it's now been a full month since initial launch. I might wish I had gotten more done thus far, but slow and steady wins the race. I'm still sort of in the set up phase -- in more ways than one. This cycle, I did all the things for the first video of the focused BB6A playlist on the channel, so that I could set up the BB6A study page on the website. I also made 7 meta-related videos for the YouTube channel. 4 of those videos dealt with explaining playlist structure for existing conternt playlists, 2 were content introductions for both BB6A playlists (the more focused version, and the full version), and the last video was a new banner video for the channel that condensed all of the content from the initial intro video I had made... the one that ended up around ~45 minutes long. That was too long for the general banner video (in my opinion), hence the new shorter version too.
+{{< subjects >}}
 
-The desktop computer I'd ordered also came this cycle, so I spent a good bit of time setting it up. This entire ministry progress summary was produced on the new computer. It is many times more powerful than the old tablet it is replacing.
-
-<!--more-->
+{{< /subjects >}}
 
 {{% section-navigation %}}
 
@@ -24,13 +22,9 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/throug
 
 ## Summary {#summary}
 
-
-
 Well, it's now been a full month since initial launch. I might wish I had gotten more done thus far, but slow and steady wins the race. I'm still sort of in the set up phase -- in more ways than one. This cycle, I did all the things for the first video of the focused BB6A playlist on the channel, so that I could set up the BB6A study page on the website. I also made 7 meta-related videos for the YouTube channel. 4 of those videos dealt with explaining playlist structure for existing conternt playlists, 2 were content introductions for both BB6A playlists (the more focused version, and the full version), and the last video was a new banner video for the channel that condensed all of the content from the initial intro video I had made... the one that ended up around ~45 minutes long. That was too long for the general banner video (in my opinion), hence the new shorter version too.
 
 The desktop computer I'd ordered also came this cycle, so I spent a good bit of time setting it up. This entire ministry progress summary was produced on the new computer. It is many times more powerful than the old tablet it is replacing.
-
-
 
 ## Timestamps {#timestamps}
 

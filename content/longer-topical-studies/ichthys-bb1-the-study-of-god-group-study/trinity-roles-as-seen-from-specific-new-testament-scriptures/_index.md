@@ -6,10 +6,6 @@ video: https://www.youtube.com/watch?v=ND2bRu4j_Hc
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
 ---
 
-The Trinity Roles are clearly visible in many passages in the New Testament. While the Bible does not have a specific passage where it gives us a full accounting of how the Trinity Roles work together to bring about God's purposes (with all the specifics listed out in tidy boxes), one would be entirely remiss in stating that the Bible "doesn't talk about the Trinity" (or the roles therein). Quite to the contrary, the Trinity is all over the New Testament, and not even in shadows and symbolism as in the Old Testament. With the benefit of the specific revelation given to us in our day and time (cf. the concept of progressive revelation), God's triune nature is evident at every turn, and inescapably so.
-
-<!--more-->
-
 {{< subjects >}}
 <a href="/subject-index/#trinity-roles">Trinity > Roles</a>
 {{< /subjects >}}
@@ -28,11 +24,7 @@ slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-
 
 ## Summary {#summary}
 
-
-
 The Trinity Roles are clearly visible in many passages in the New Testament. While the Bible does not have a specific passage where it gives us a full accounting of how the Trinity Roles work together to bring about God's purposes (with all the specifics listed out in tidy boxes), one would be entirely remiss in stating that the Bible "doesn't talk about the Trinity" (or the roles therein). Quite to the contrary, the Trinity is all over the New Testament, and not even in shadows and symbolism as in the Old Testament. With the benefit of the specific revelation given to us in our day and time (cf. the concept of progressive revelation), God's triune nature is evident at every turn, and inescapably so.
-
-
 
 ## Timestamps {#timestamps}
 

@@ -4,9 +4,9 @@ weight: 110
 layout: content-page
 ---
 
-In Romans 1:26, the "dishonorable passion" or "shameful lust" that is spoken of is clearly referring to homosexuality. Homosexuality is not the only sin falling into such a categorization (lusting after an already-married woman is much the same, e.g.), but it is most certainly what is in view in this specific context. That doesn't stop people from trying to deny such in an attempt to rationalize their sin in this area, but they are simply wrong.
+{{< subjects >}}
 
-<!--more-->
+{{< /subjects >}}
 
 {{% section-navigation %}}
 
@@ -22,11 +22,7 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
-
 In Romans 1:26, the "dishonorable passion" or "shameful lust" that is spoken of is clearly referring to homosexuality. Homosexuality is not the only sin falling into such a categorization (lusting after an already-married woman is much the same, e.g.), but it is most certainly what is in view in this specific context. That doesn't stop people from trying to deny such in an attempt to rationalize their sin in this area, but they are simply wrong.
-
-
 
 <!-- ## Timestamps {#timestamps} -->
 

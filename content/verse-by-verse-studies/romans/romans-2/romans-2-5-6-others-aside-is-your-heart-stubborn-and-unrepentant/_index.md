@@ -4,9 +4,9 @@ weight: 40
 layout: content-page
 ---
 
-We need to take care when thinking about the stubborn and unrepentant people that are the subject of Romans 2:5 not to think ourselves so divorced from such an attitude that we have no need to examine ourselves reflexively and see if there are places we too might do better. In fact, every day we also make decisions wherein we stubbornly cling to our pursuit of worldly things rather than keeping our eyes upon the eternal as we ought. Because everything will be laid bare before the Throne of Judgment, we should strive as much as possible to order our lives in such a way that this coming evaluation of our actions before the Throne will bring us only praise and honor—that our actions will do us credit, rather than being shown to have been characterized by stubbornness and a lack of true repentance.
+{{< subjects >}}
 
-<!--more-->
+{{< /subjects >}}
 
 {{% section-navigation %}}
 
@@ -22,11 +22,7 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
-
-We need to take care when thinking about the stubborn and unrepentant people that are the subject of Romans 2:5 not to think ourselves so divorced from such an attitude that we have no need to examine ourselves reflexively and see if there are places we too might do better. In fact, every day we also make decisions wherein we stubbornly cling to our pursuit of worldly things rather than keeping our eyes upon the eternal as we ought. Because everything will be laid bare before the Throne of Judgment, we should strive as much as possible to order our lives in such a way that this coming evaluation of our actions before the Throne will bring us only praise and honor—that our actions will do us credit, rather than being shown to have been characterized by stubbornness and a lack of true repentance.
-
-
+We need to take care when thinking about the stubborn and unrepentant people that are the subject of Romans 2:5 not to think ourselves so divorced from such an attitude that we have no need to examine ourselves reflexively and see if there are places we too might do better. In fact, every day we also make decisions wherein we stubbornly cling to our pursuit of worldly things rather than keeping our eyes upon the eternal as we ought. Because everything will be laid bare before the Throne of Judgment, we should strive as much as possible to order our lives in such a way that this coming evaluation of our actions before the Throne will bring us only praise and honor---that our actions will do us credit, rather than being shown to have been characterized by stubbornness and a lack of true repentance.
 
 <!-- ## Timestamps {#timestamps} -->
 

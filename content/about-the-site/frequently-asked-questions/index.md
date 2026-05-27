@@ -4,11 +4,9 @@ date: 2021-01-10T21:44:35-05:00
 tags: []
 subsection: overview
 weight: 30
+summary: >-
+   This page contains frequently asked questions about this ministry, and my responses to said questions.
 ---
-
-This page contains frequently asked questions about this ministry, and my responses to said questions.
-
-<!--more-->
 
 ## Ministry and website
 

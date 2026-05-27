@@ -6,10 +6,6 @@ video: https://www.youtube.com/watch?v=hr2UB_pRqeg
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
 ---
 
-When Jesus says that Jairus' daughter is "sleeping", and says that Lazarus (the brother of Mary and Martha) is "sleeping", well, why? Were they sleeping, or were they dead? Why would Jesus put things like this?
-
-<!--more-->
-
 {{% section-navigation %}}
 
 ## Video {#video}
@@ -24,11 +20,7 @@ slides="https://www.bibledocs.org/slides/questions-and-answers/reader-correspond
 
 ## Summary {#summary}
 
-
-
 When Jesus says that Jairus' daughter is "sleeping", and says that Lazarus (the brother of Mary and Martha) is "sleeping", well, why? Were they sleeping, or were they dead? Why would Jesus put things like this?
-
-
 
 ## Timestamps {#timestamps}
 
@@ -92,7 +84,7 @@ One might go on. The point is, just like today, it was not all that uncommon for
 And so, of course, while it is completely reasonable to line up the two people named Lazarus, the shared name alone is not proof of them being the same person. In fact, there is some evidence to the contrary:
 
 - In John 12:3, we are told that Lazarus' sister Mary anointed Jesus's feet with nard, an expensive type of perfume. Additionally, John 11:19 says "many Jews" came to comfort the sisters in the loss of their brother. From these verses and others, it is apparent that Mary, Martha, and Lazarus were relatively affluent and well-connected.
-- But the Lazarus of Luke 16 is a beggar—perhaps the lowest social station possible.
+- But the Lazarus of Luke 16 is a beggar---perhaps the lowest social station possible.
 
 So quite simply, from the Bible itself, it seems unlikely that these two men are the same person.
 
@@ -186,7 +178,7 @@ So this is the "setting of the scene" for this passage here in Matthew.
 It might be tempting to think Jesus was merely using sleep as a euphemism for death here too (just like in John 11), but there are some issues with taking that approach:
 
 - First, as you are quite right in pointing out, Jesus never clarifies to say the girl was in fact dead. That would have been a very natural thing to do when the crowd began to mock him in verse 24. After all, if he really did mean in saying that the girl was sleeping that she was dead, why would he hide it then?
-- Second, note that Jesus shoos the people away. He kicks them out of the house, and makes them wait outside. If there were nothing else going on here—and he were merely speaking euphemistically—then why would he do this?
+- Second, note that Jesus shoos the people away. He kicks them out of the house, and makes them wait outside. If there were nothing else going on here---and he were merely speaking euphemistically---then why would he do this?
 
 So what *was* going on here, then?
 
@@ -208,7 +200,7 @@ There are only two other instances of Jesus raising people from the dead aside f
 
 <!-- --- -->
 
-I will acknowledge that much of what I have just said is based on inference and a degree of speculation on my part (that is, it is not as if the Bible says these things very explicitly). However, I do believe this is more than just an opinion—I believe this is the actual truth of it, indirect as it may be. For I see little other explanation that satisfies all the elements at once without having other problems. Jesus sending the people out especially makes little sense under most other possible interpretations.
+I will acknowledge that much of what I have just said is based on inference and a degree of speculation on my part (that is, it is not as if the Bible says these things very explicitly). However, I do believe this is more than just an opinion---I believe this is the actual truth of it, indirect as it may be. For I see little other explanation that satisfies all the elements at once without having other problems. Jesus sending the people out especially makes little sense under most other possible interpretations.
 
 I should note that some people might be offended that this line of thinking suggests that Jesus intentionally misdirected the beliefs of others (critics would call it lying). To that I would ask what they think of the actions of the Hebrew midwives in Exodus 1:15-22 (and also what God thought about the actions of the midwives in that context), and also the actions of Rahab in Joshua 2 (and cf. the New Testament praise of Rahab's actions in Hebrews 11:31 and James 2:25). No doubt this teaching will ruffle some feathers, but part of growing up spiritually is learning to distinguish moral virtue from legalistic rules that have the appearance of holiness, but are in fact incompatible with true righteousness.
 

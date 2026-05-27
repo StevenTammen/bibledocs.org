@@ -4,9 +4,9 @@ weight: 60
 layout: content-page
 ---
 
-In Romans 1:18ff. and Psalm 19, the Bible teaches that all human beings are without excuse for not believing in and submitting to God, due to the created world pointing at every turn to Him. Such a concept in theology is typically called "natural revelation".
+{{< subjects >}}
 
-<!--more-->
+{{< /subjects >}}
 
 {{% section-navigation %}}
 
@@ -22,11 +22,7 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
-
 In Romans 1:18ff. and Psalm 19, the Bible teaches that all human beings are without excuse for not believing in and submitting to God, due to the created world pointing at every turn to Him. Such a concept in theology is typically called "natural revelation".
-
-
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -72,9 +68,9 @@ One might compare the wise men who followed the star and brought Jesus gifts. Th
 The Gospel narrative recalls verses from Israel’s Scriptures that foresee Gentiles bringing gifts to Israel. Once the magi arrive in Bethlehem, they offer Yeshua “**gifts** (δῶρα; *dora*)” of “**gold and frankincense** (χρυσὸν καὶ λίβανον; *chrusòn kaì líbanon*) and myrrh” (Matt 2:11). This scene echoes the Psalms’ picture of other nations bringing “**gifts**” (δῶρα; *dora*) to Israel (cf. Ps 72:10 [71:10 LXX]; 76:11-12 [75:11-12 LXX]). Isaiah 60:5-6 calls these foreign gifts the “wealth of the Gentiles,” which includes “**gold and frankincense**” (χρυσίον καὶ λίβανον; *chrusíon kaì líbanon*). Matthew also notes that the magi bring “myrrh” (σμύρνα; *smúrna*)—an aromatic resin that [the Jewish Queen Esther receives from a Persian king](https://weekly.israelbiblecenter.com/esther-joseph-part/) (see Est 2:12 LXX). More, the oil made from myrrh—called στακτή (*stakté*)—is said to have been [an item of trade among traveling Gentiles in Joseph’s day (see Gen 37:25 LXX)](https://weekly.israelbiblecenter.com/esther-joseph-part-ii/), and royal figures of other nations offer it as tribute to King Solomon (cf. 1 Kgs 10:25; 2 Chron 9:24 LXX). Thus, it is fitting for Matthew’s traveling Gentile magi to offer myrrh to Jesus, the King of the Jews.
 {{% /quote %}}
 
-I quoted heavily from this single source because it does a very good job establishing the point—kudos to the writer. I will also add to all this that God most certainly communicated with the wise men in dreams because scripture directly says as much (cf. Matthew 2:12).
+I quoted heavily from this single source because it does a very good job establishing the point---kudos to the writer. I will also add to all this that God most certainly communicated with the wise men in dreams because scripture directly says as much (cf. Matthew 2:12).
 
-The wider point is that God leads all those who desire to have a relationship with Him to the truth—we may trust in this absolutely unreservedly. And so it is that despite being born as the Savior of the Jews—born to Israel specifically, as their prophesied Messiah—some of the more notable guests in the welcoming of Jesus Christ into the world were Gentile travelers from afar.
+The wider point is that God leads all those who desire to have a relationship with Him to the truth---we may trust in this absolutely unreservedly. And so it is that despite being born as the Savior of the Jews---born to Israel specifically, as their prophesied Messiah---some of the more notable guests in the welcoming of Jesus Christ into the world were Gentile travelers from afar.
 
 The implication should not be lost on us!
 {{% /sidenote %}}

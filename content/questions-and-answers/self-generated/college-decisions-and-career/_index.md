@@ -3,11 +3,9 @@ title: College Decisions and Career Path
 weight: 
 contentlevel: basic
 layout: single-page
+summary: >-
+   Discerning one's path in life is a very important task, but with so many possible options to choose from, it can be a challenging one. It is difficult for teachers to weigh in on specifics here because so much is personal application, but there are some general observations that may help inform decisions in this area. This page goes over some of these.
 ---
-
-Discerning one's path in life is a very important task, but with so many possible options to choose from, it can be a challenging one. It is difficult for teachers to weigh in on specifics here because so much is personal application, but there are some general observations that may help inform decisions in this area. This page goes over some of these.
-
-<!--more-->
 
 <!-- ## Video {#video}
 
@@ -21,11 +19,7 @@ slides="https://www.bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
-
 Discerning one's path in life is a very important task, but with so many possible options to choose from, it can be a challenging one. It is difficult for teachers to weigh in on specifics here because so much is personal application, but there are some general observations that may help inform decisions in this area. This page goes over some of these.
-
-
 
 <!-- ## Timestamps {#timestamps} -->
 

@@ -3,17 +3,19 @@ date: 2025-01-04T15:00:00
 domain: —pb-d-ichthys=l
 title: "The six chronological periods of human history (src: Ichthys)"
 stags: 
-  - God's plan for human history > The six chronological periods of human history 
 ptags: 
 
 weight: 120
 category: Ichthys Bible Study
 layout: content-page
+
+summary:
+    
 ---
 
-Without considering the divine point of view, human history is characterized by dark, satanic attack. The six chronological divisions of human history in this lesson highlight the different approaches Satan takes as he opposes God. As a mere creature, Satan's actions are only reactions to God's perfect divine plan. Despite Satan's attempts to foil God's plan, he cannot win against his Creator (even when Satan deploys his most furious efforts during the Tribulation). Our highest priority should be serious spiritual growth so that we can withstand that imminent time, for the Tribulation will be the most intense time of satanic activity in all of human history.
+{{< subjects >}}
 
-<!--more-->
+{{< /subjects >}}
 
 {{% section-navigation %}}
 
@@ -22,14 +24,28 @@ Without considering the divine point of view, human history is characterized by 
 ## Video/audio {#video-audio}
 
 - [Link to recording segments on Dropbox](https://www.dropbox.com/scl/fo/2wjtqkpom4zuyp96x557r/AJJFNKceTd9yiFf3JzPOHrM?rlkey=k2erxu7f3235fak7s17w90vmx&st=4r2giule&dl=0)
+- [Link to slides](slides.html)
+
+<!--
+
+{{% video
+videoId=""
+
+videoPlaylist=""
+
+slides=""
+%}}
+
+-->
 
 ## Summary {#summary}
 
 
+<!--
 
-Without considering the divine point of view, human history is characterized by dark, satanic attack. The six chronological divisions of human history in this lesson highlight the different approaches Satan takes as he opposes God. As a mere creature, Satan's actions are only reactions to God's perfect divine plan. Despite Satan's attempts to foil God's plan, he cannot win against his Creator (even when Satan deploys his most furious efforts during the Tribulation). Our highest priority should be serious spiritual growth so that we can withstand that imminent time, for the Tribulation will be the most intense time of satanic activity in all of human history.
+## Timestamps {#timestamps}
 
-
+-->
 
 {{% content %}}
 
@@ -37,14 +53,14 @@ Without considering the divine point of view, human history is characterized by 
 
 <!-- --- -->
 
-### Audio clip from Ichthys {#audio-clip-from-ichthys}
+### Audio clip from Icthys {#audio-clip-from-icthys}
 
 {{< properties 
 
 srcmp3audiourl="https://ichthys.com/MP3/sr5-pt2-ak.mp3"
 srctitle="SR5 Audio Subpart 2"
-srcstart="07:24"
-srcend="10:13"
+srcstart="00:07:24"
+srcend="00:10:13"
 
 >}}
 
@@ -78,7 +94,7 @@ Satan's counter-strategy (against God's plan), therefore, forms the basis for th
 
 ### Summary points {#summary-points}
 
-Unlike the divisions of history we have previously examined (one through five) and the one that will follow (seven)---all of which divide history by various spiritually-significant criteria—the sixfold division of history we are putting forward here is actually mostly focused on looking at history absent the divine point of view. That is why the divisions outlined here are dealing with targets of Satan's attack on God's plan: since we are here looking at things *not* from God's point of view, it makes sense to examine that angle. (At least in part as a foil to God's purposes).
+Unlike the divisions of history we have previously examined (one through five) and the one that will follow (seven)---all of which divide history by various spiritually-significant criteria---the sixfold division of history we are putting forward here is actually mostly focused on looking at history absent the divine point of view. That is why the divisions outlined here are dealing with targets of Satan's attack on God's plan: since we are here looking at things *not* from God's point of view, it makes sense to examine that angle. (At least in part as a foil to God's purposes).
 
 <!-- --- -->
 
@@ -123,7 +139,7 @@ You can imagine how frustrating this must be for Satan. At every turn he is bloc
 
 <!-- --- -->
 
-And so it is that when Satan is cast out from heaven (as Revelation 12 describes), he will pour out his stored-up wrath upon the Earth. His rage will be terrible—like that of a cornered beast—not only because everything he has worked for from the beginning will have utterly failed, but also because he will know at this point that final judgment will soon come upon him, that the clock will be indefatigably ticking a countdown to his certain doom.
+And so it is that when Satan is cast out from heaven (as Revelation 12 describes), he will pour out his stored-up wrath upon the Earth. His rage will be terrible---like that of a cornered beast---not only because everything he has worked for from the beginning will have utterly failed, but also because he will know at this point that final judgment will soon come upon him, that the clock will be indefatigably ticking a countdown to his certain doom.
 
 And the truly terrifying thing is that God will remove the largest part of His restrictions on Satan during this period. So not only will Satan be seething with fury like never before, but he will also for the first time in human history be allowed to actually vent that fury in a manner even close to approaching what he truly desires.
 
@@ -135,145 +151,16 @@ Thus it is that Satan's attacks upon humanity during the Tribulation will put al
 
 {{% /content %}}
 
-## Review questions {#review-questions}
+<!--
 
-{{< quizdown >}}
+{{% transcript %}}
 
-# True or False: The six chronological periods of human history are divided by forms of satanic attack {#true-or-false-the-six-chronological-periods-of-human-history-are-divided-by-forms-of-satanic-attack}
+## Video/audio transcript {#video-audio-transcript}
 
-1. [x] True
-1. [ ] False
 
-# Put the periods of human history in order {#put-the-periods-of-human-history-in-order}
 
-1. The Antediluvian Period
-2. The Postdiluvian Period
-3. The Jewish Period 
-4. The Church Period
-5. The Tribulational Period
-6. The Millennial Period
+{{% /transcript %}}
 
-# The Antediluvian period spans what time? {#the-antediluvian-period-spans-what-time}
-
-1. [ ] The seven years proceeding the return of Christ
-1. [ ] The flood to Abraham 
-1. [ ] The one thousand years following the return of Christ
-1. [ ] Christ to the beginning of the Tribulation 
-1. [x] The fall to the flood 
-1. [ ] Abraham to Christ
-
-# The Postdiluvian period spans what time? {#the-postdiluvian-period-spans-what-time}
-
-1. [ ] The fall to the flood 
-1. [ ] Abraham to Christ
-1. [ ] Christ to the beginning of the Tribulation 
-1. [x] The flood to Abraham 
-1. [ ] The one thousand years following the return of Christ
-1. [ ] The seven years proceeding the return of Christ 
-
-# The Jewish period spans what time? {#the-jewish-period-spans-what-time}
-
-1. [x] Abraham to Christ
-1. [ ] The one thousand years following the return of Christ
-1. [ ] The flood to Abraham 
-1. [ ] The seven years proceeding the return of Christ 
-1. [ ] The fall to the flood 
-1. [ ] Christ to the beginning of the Tribulation 
-
-# The Church period spans what time? {#the-church-period-spans-what-time}
-
-1. [ ] Abraham to Christ
-1. [x] Christ to the beginning of the Tribulation 
-1. [ ] The seven years proceeding the return of Christ 
-1. [ ] The fall to the flood 
-1. [ ] The flood to Abraham 
-1. [ ] The one thousand years following the return of Christ
-
-# The Tribulational period spans what time? {#the-tribulational-period-spans-what-time}
-
-1. [ ] The one thousand years following the return of Christ
-1. [ ] The flood to Abraham 
-1. [ ] The fall to the flood 
-1. [ ] Abraham to Christ
-1. [ ] Christ to the beginning of the Tribulation 
-1. [x] The seven years proceeding the return of Christ 
-
-# The Millennial period spans what time? {#the-millennial-period-spans-what-time}
-
-1. [ ] Christ to the beginning of the Tribulation 
-1. [ ] The flood to Abraham 
-1. [ ] The seven years proceeding the return of Christ 
-1. [x] The one thousand years following the return of Christ
-1. [ ] Abraham to Christ
-1. [ ] The fall to the flood 
-
-# True or False: Satan is a creature and thus can only observe and react to events in human history. {#true-or-false-satan-is-a-creature-and-thus-can-only-observe-and-react-to-events-in-human-history}
-
-1. [x] True
-1. [ ] False
-
-# What was the primary satanic target in the Antediluvian period? {#what-was-the-primary-satanic-target-in-the-antediluvian-period}
-
-1. [ ] Freedom and law 
-1. [ ] The people and the nation of Israel 
-1. [ ] The rule of Christ 
-1. [x] True humanity
-1. [ ] Humanity, freedom and law, Israel, truth, the lives of believers
-1. [ ] The truth of the Word of God 
-
-# What was the primary satanic target in the Postdiluvian Gentile period? {#what-was-the-primary-satanic-target-in-the-postdiluvian-gentile-period}
-
-1. [ ] The people and the nation of Israel 
-1. [ ] True humanity
-1. [x] Freedom and law 
-1. [ ] Humanity, freedom and law, Israel, truth, the lives of believers 
-1. [ ] The truth of the Word of God
-1. [ ] The rule of Christ
-
-# What was the primary satanic target in the Jewish period? {#what-was-the-primary-satanic-target-in-the-jewish-period}
-
-1. [ ] The truth of the Word of God 
-1. [ ] Humanity, freedom and law, Israel, truth, the lives of believers 
-1. [ ] The rule of Christ
-1. [ ] True humanity
-1. [x] The people and the nation of Israel 
-1. [ ] Freedom and law 
-
-# What was the primary satanic target in the Church period? {#what-was-the-primary-satanic-target-in-the-church-period}
-
-1. [ ] the people and the nation of Israel 
-1. [ ] freedom and law 
-1. [ ] the rule of Christ
-1. [ ] humanity, freedom and law, Israel, truth, the lives of believers 
-1. [x] the truth of the Word of God 
-1. [ ] true humanity
-
-# What is the primary satanic target in the Tribulational period? {#what-is-the-primary-satanic-target-in-the-tribulational-period}
-
-1. [ ] The rule of Christ
-1. [x] Humanity, freedom and law, Israel, truth, the lives of believers 
-1. [ ] The people and the nation of Israel 
-1. [ ] True humanity
-1. [ ] Freedom and law 
-1. [ ] The truth of the Word of God 
-
-# What is the primary satanic target in the Millennial Period? {#what-is-the-primary-satanic-target-in-the-millennial-period}
-
-1. [x] The rule of Christ
-1. [ ] True humanity
-1. [ ] The truth of the Word of God 
-1. [ ] Freedom and law 
-1. [ ] The people and the nation of Israel 
-1. [ ] Humanity, freedom and law, Israel, truth, the lives of believers 
-
-# Which of the following statements are true? {#which-of-the-following-statements-are-true}
-
-- [x] God is significantly limiting Satan's power until the Tribulational period
-- [ ] God changes His plans to counteract Satan's evil actions
-- [x] In the Tribulation, Satan will be allowed to conduct his evil as never before
-- [x] Serious spiritual growth should be our highest priority
-- [ ] Satan devises his evil plans through his knowledge of the future 
-
-{{< /quizdown >}}
+-->
 
 {{% section-navigation %}}

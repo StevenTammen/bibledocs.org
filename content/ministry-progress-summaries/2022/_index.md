@@ -2,15 +2,16 @@
 title: 2022 Ministry Progress Summaries
 weight: 
 layout: aggregation-page
+summary: >-
+   Ah, 2022. The year that things finally launched. The year of learning and figuring out. The year BibleDocs was born. Here, friends, you can read and watch about the birth of this ministry, and the initial steps taken thereafter.
 ---
-
-Ah, 2022. The year that things finally launched. The year of learning and figuring out. The year BibleDocs was born. Here, friends, you can read and watch about the birth of this ministry, and the initial steps taken thereafter.
-
-<!--more-->
 
 <!-- aggregate-page-content -->
 
 ## [Introduction](/ministry-progress-summaries/2022/introduction) {#introduction}
+{{< subjects >}}
+
+{{< /subjects >}}
 
 
 
@@ -26,11 +27,7 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/introd
 
 ### Summary {#introduction-summary}
 
-
-
 In this video, I go over exactly what these ministry progress summary videos are, and also how they are different from the daily progress summary videos that I upload on a separate YouTube channel.
-
-
 
 ### Timestamps {#introduction-timestamps}
 
@@ -271,6 +268,9 @@ Although, if you wish to get a better idea of who I am as an individual -- to pu
 
 
 ## [Through 9/11/22](/ministry-progress-summaries/2022/through-9-11-22-forum-threads-organizing-youtube-channel-tech-research) {#through-9-11-22}
+{{< subjects >}}
+
+{{< /subjects >}}
 
 
 
@@ -286,11 +286,7 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/throug
 
 ### Summary {#through-9-11-22-summary}
 
-
-
 This first summary video here, I go over all of the things that happened in the first couple weeks since ministry launch. Even though we had a three-day weekend in here, I got really caught up in a forum conversation, and didn't perhaps make as much forward progress as I had initially thought I might. I also spent a lot of time researching various things relating to technology to hopefully make future video content better for this ministry. But, nonetheless, I did get a number of things done, especially in terms of organizing the YouTube channel more. 
-
-
 
 ### Timestamps {#through-9-11-22-timestamps}
 
@@ -1318,6 +1314,9 @@ Finally, I'm planning to keep researching all that I need to do to finish prepar
 
 
 ## [Through 9/25/22](/ministry-progress-summaries/2022/through-9-25-22-add-bb6a-study-page-make-meta-videos-on-channel-plan-future-work) {#through-9-25-22}
+{{< subjects >}}
+
+{{< /subjects >}}
 
 
 
@@ -1333,13 +1332,9 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/throug
 
 ### Summary {#through-9-25-22-summary}
 
-
-
 Well, it's now been a full month since initial launch. I might wish I had gotten more done thus far, but slow and steady wins the race. I'm still sort of in the set up phase -- in more ways than one. This cycle, I did all the things for the first video of the focused BB6A playlist on the channel, so that I could set up the BB6A study page on the website. I also made 7 meta-related videos for the YouTube channel. 4 of those videos dealt with explaining playlist structure for existing conternt playlists, 2 were content introductions for both BB6A playlists (the more focused version, and the full version), and the last video was a new banner video for the channel that condensed all of the content from the initial intro video I had made... the one that ended up around ~45 minutes long. That was too long for the general banner video (in my opinion), hence the new shorter version too.
 
 The desktop computer I'd ordered also came this cycle, so I spent a good bit of time setting it up. This entire ministry progress summary was produced on the new computer. It is many times more powerful than the old tablet it is replacing.
-
-
 
 ### Timestamps {#through-9-25-22-timestamps}
 
@@ -1886,6 +1881,9 @@ Because I was concatenating several different takes this time to be able to shar
 
 
 ## [Through 10/9/22](/ministry-progress-summaries/2022/through-10-9-22) {#through-10-9-22}
+{{< subjects >}}
+
+{{< /subjects >}}
 
 
 
@@ -1901,15 +1899,11 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/throug
 
 ### Summary {#through-10-9-22-summary}
 
-
-
 This cycle was dominated by two primary areas: tech research and setup, and coding support for discussion pages.
 
 On the tech side of things, I did research, bought, and started setting up several different things. A stenomask and voice recognition software to be able to dictate prose at high speeds, a separate wireless lapel mic system to use for content recordings and live presentations, and a portable monitor setup for working on-the-go, so that I can perhaps work in a local public library on the weekends, as sometimes I find that working in a public place can help me focus better.
 
 Aside from all that, the biggest task knocked out this cycle was coding support for discussion pages in the Python preprocessor application for static sites that I've been developing over the last few months. This was a large coding effort, taking me many days. But I'm very glad to have it behind me now, so that it will no longer be hanging over my head.
-
-
 
 ### Timestamps {#through-10-9-22-timestamps}
 
@@ -2424,6 +2418,9 @@ I've been lazy and haven't been committing as consistently in the preprocessor r
 
 
 ## [Through 10/23/22](/ministry-progress-summaries/2022/through-10-23-22) {#through-10-23-22}
+{{< subjects >}}
+
+{{< /subjects >}}
 
 
 
@@ -2439,11 +2436,7 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/throug
 
 ### Summary {#through-10-23-22-summary}
 
-
-
 Unfortunately, I didn't get through quite as much I had hoped this cycle, in terms of forward progress I think most people will actually care about. I did write up a draft for documentation on discussion pages, but wasn't able to completely finish since I was waiting to take screenshots until I had a couple more discussion pages fleshed out, but then was blocked from actually doing that (temporarily) for various reasons. I got even more stuff done on the "workflow" side of things -- continuing to set up voice recognition, handling Markdown in Microsoft Word, mics and monitors, etc. -- still maintaining the hope that eventually all this upfront work will be worth it, and I can kick production into full gear.
-
-
 
 ### Timestamps {#through-10-23-22-timestamps}
 
@@ -2928,6 +2921,9 @@ Unfortunately, I didn't get through quite as much I had hoped this cycle, in ter
 
 
 ## [Through 11/6/22](/ministry-progress-summaries/2022/through-11-6-22) {#through-11-6-22}
+{{< subjects >}}
+
+{{< /subjects >}}
 
 
 
@@ -2943,11 +2939,7 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/throug
 
 ### Summary {#through-11-6-22-summary}
 
-
-
 This cycle I worked some on organizing content pages/videos and discussion pages/videos for the first three lessons in the SR4 series. I also spent some time doing more things to improve my workflow in various ways, all with that hope that these things will set me up for success in the long term.
-
-
 
 ### Timestamps {#through-11-6-22-timestamps}
 
@@ -3037,6 +3029,9 @@ You can judge the quality improvements for yourself, given that this video right
 
 
 ## [Through 11/20/22](/ministry-progress-summaries/2022/through-11-20-22) {#through-11-20-22}
+{{< subjects >}}
+
+{{< /subjects >}}
 
 
 
@@ -3052,11 +3047,7 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/throug
 
 ### Summary {#through-11-20-22-summary}
 
-
-
 This cycle I was mostly stuck working on personal matters that needed to get done. I did mostly get the teleprompter set up though, so hopefully I can start using that effectively in the future. And I also built a spreadsheet to automate some of the stuff I need to do to send updates about these ministry progress summaries, to speed things up more moving forward.
-
-
 
 ### Timestamps {#through-11-20-22-timestamps}
 
@@ -3126,6 +3117,9 @@ This cycle I was mostly stuck working on personal matters that needed to get don
 
 
 ## [Through 12/4/22](/ministry-progress-summaries/2022/through-12-4-22) {#through-12-4-22}
+{{< subjects >}}
+
+{{< /subjects >}}
 
 
 
@@ -3141,11 +3135,7 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/throug
 
 ### Summary {#through-12-4-22-summary}
 
-
-
 Like in past cycles, there's a fair bit of setup stuff still going on. However, I did successfully write a bash script to automate video processing, and I've now also decided to formally put some of the video organization stuff I'm having a hard time motivating myself to do on the backburner, and instead turn to drafting some new written ministry content, at least for a time. So stay tuned for that!
-
-
 
 ### Timestamps {#through-12-4-22-timestamps}
 
@@ -3227,6 +3217,9 @@ Together these things reduce some of the time opportunity cost that goes into ma
 
 
 ## [Through 12/18/22](/ministry-progress-summaries/2022/through-12-18-22) {#through-12-18-22}
+{{< subjects >}}
+
+{{< /subjects >}}
 
 
 
@@ -3242,11 +3235,7 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/throug
 
 ### Summary {#through-12-18-22-summary}
 
-
-
 This cycle I started producing new written content again. This time, one study was on the office of pastor-teacher and church polity, another was on the actions of Abraham, Sarah, and Hagar in Genesis 16, and the final one was on college decisions and career path.
-
-
 
 ### Timestamps {#through-12-18-22-timestamps}
 

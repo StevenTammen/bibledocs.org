@@ -3,16 +3,13 @@ title: On the Office of Pastor-Teacher, and Church Polity
 weight: 
 contentlevel: intermediate
 layout: content-page
+summary: >-
+   This study sets out to describe the office in the Church known by various different names -- "elder", "overseer", "pastor" and so on. People in this office have authority over the Church, and are the primary teachers of the Word of God. (Teaching the Bible such that Church builds itself up in love is their primary responsibility). This page also describes a bit more about local church organization, and other Church offices like Apostle, prophet, and evangelist. (The former two are no longer active offices in the Church).
 ---
-
-This study sets out to describe the office in the Church known by various different names -- "elder", "overseer", "pastor" and so on. People in this office have authority over the Church, and are the primary teachers of the Word of God. (Teaching the Bible such that Church builds itself up in love is their primary responsibility). This page also describes a bit more about local church organization, and other Church offices like Apostle, prophet, and evangelist. (The former two are no longer active offices in the Church).
-
-<!--more-->
 
 <!-- aggregate-page-content -->
 
 ## [Overview of the Office of Pastor-Teacher in the Church, and How Church Polity Needs to be Flexible](/questions-and-answers/self-generated/on-the-office-of-pastor-teacher-and-church-polity/overview-of-the-office-of-pastor-teacher-in-the-church-and-how-church-polity-needs-to-be-flexible) {#overview-of-the-office-of-pastor-teacher-in-the-church-and-how-church-polity-needs-to-be-flexible}
-
 <!-- ## Video {#video}
 
 {{% video
@@ -25,11 +22,7 @@ slides="https://www.bibledocs.org/slides/"
 
 ### Summary {#overview-of-the-office-of-pastor-teacher-in-the-church-and-how-church-polity-needs-to-be-flexible-summary}
 
-
-
 This lesson goes over the responsibilities pastor-teachers have in the Church -- all of which revolve entirely around the Word of God. Different teachers can exercise this same gifting in different ways, all while individually following the paths God has laid out before them. For this reason, flexibility in church polity (that is, local church organization and governance) is very much a feature not a bug, despite what groups that emphasize ritual might say to the contrary.
-
-
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -149,7 +142,6 @@ That this is not the case for absolutely all modern churches in no way diminishe
 
 
 ## [Do Elders Need to be Physically Old? Do They Need to be Married?](/questions-and-answers/self-generated/on-the-office-of-pastor-teacher-and-church-polity/do-elders-need-to-be-physically-old-do-they-need-to-be-married) {#do-elders-need-to-be-physically-old-do-they-need-to-be-married}
-
 <!-- ## Video {#video}
 
 {{% video
@@ -162,11 +154,7 @@ slides="https://www.bibledocs.org/slides/"
 
 ### Summary {#do-elders-need-to-be-physically-old-do-they-need-to-be-married-summary}
 
-
-
 In this lesson we examine in more detail a couple of the requirements for elders mentioned in the books of 1 Timothy and Titus. Specifically, we examine whether pastors/elders need to be physically old or not to be qualified for the office (they do not *have* to be -- for example, see Timothy -- but it is not uncommon for this to be the case), and also whether or not they need to be married to be qualified for the office (they do not -- they just can't have more than one wife if they are married).
-
-
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -266,7 +254,6 @@ All of this "noise" also serves to distract from the primary purpose of assembly
 
 
 ## [Additional Clarification, and Other Offices in the Church](/questions-and-answers/self-generated/on-the-office-of-pastor-teacher-and-church-polity/additional-clarification-and-other-offices-in-the-church) {#additional-clarification-and-other-offices-in-the-church}
-
 <!-- ## Video {#video}
 
 {{% video
@@ -279,11 +266,7 @@ slides="https://www.bibledocs.org/slides/"
 
 ### Summary {#additional-clarification-and-other-offices-in-the-church-summary}
 
-
-
 In this lesson we go over some specifics in a bit more detail, and also briefly go over the other offices in the Church mentioned in Ephesians 4:11, including Apostle, prophet, and evangelist. While there are no more Apostles or prophets nowadays, evangelists are another still-active office in the Church.
-
-
 
 <!-- ## Timestamps {#timestamps} -->
 

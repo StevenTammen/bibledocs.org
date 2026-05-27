@@ -3,10 +3,6 @@ title: About the Author
 show-lists: true
 ---
 
-TODO: Summary
-
-<!--more-->
-
 <style>
     @media screen and (max-width: 950px) {
         #photos {

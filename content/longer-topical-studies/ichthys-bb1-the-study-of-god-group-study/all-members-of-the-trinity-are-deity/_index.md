@@ -6,10 +6,6 @@ video: https://www.youtube.com/watch?v=4l_OzkCbJxg
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
 ---
 
-In this lesson we kick off a series of discussions we will be having about what the Trinity is *not*, to help throw into starker relief what it actually is. This lesson's main focus is examining the point that God is *one* in essence, but that does *not* mean that only one person of the Trinity is deity.
-
-<!--more-->
-
 {{< subjects >}}
 <a href="/subject-index/#trinity-all-members-are-deity">Trinity > All members are deity</a>
 {{< /subjects >}}
@@ -28,11 +24,7 @@ slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-
 
 ## Summary {#summary}
 
-
-
 In this lesson we kick off a series of discussions we will be having about what the Trinity is *not*, to help throw into starker relief what it actually is. This lesson's main focus is examining the point that God is *one* in essence, but that does *not* mean that only one person of the Trinity is deity.
-
-
 
 ## Timestamps {#timestamps}
 
@@ -167,7 +159,7 @@ See: Matt.6:9; 1Cor.8:6; Eph.3:14-15.
 
 {{% video-only-note %}}
 
-Interpreting Ephesians 3:15 correctly depends upon translating the phrase πᾶσα πατριὰ as "whole family" rather than "every family". (Within its normal usage as an adjective generally, πᾶσα can mean either "whole" or "every." But when interpreting Ephesians 3:15 correctly, it is "whole" not "every" in this specific usage). And so it is that we understand that our global family of believers (i.e., the universal Church—the bride of Christ) "derives its name" from the authority of the Father, just how human families carry the names of their earthly fathers.
+Interpreting Ephesians 3:15 correctly depends upon translating the phrase πᾶσα πατριὰ as "whole family" rather than "every family". (Within its normal usage as an adjective generally, πᾶσα can mean either "whole" or "every." But when interpreting Ephesians 3:15 correctly, it is "whole" not "every" in this specific usage). And so it is that we understand that our global family of believers (i.e., the universal Church---the bride of Christ) "derives its name" from the authority of the Father, just how human families carry the names of their earthly fathers.
 
 {{% /video-only %}}
 

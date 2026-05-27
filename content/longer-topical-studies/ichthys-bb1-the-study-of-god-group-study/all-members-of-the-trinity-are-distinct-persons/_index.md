@@ -6,10 +6,6 @@ video: https://www.youtube.com/watch?v=eKpw0_W78Sc
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
 ---
 
-This lesson's main focus is examining the point that God is *one* in essence, but that does *not* mean that the Trinity is only one person (merely displaying three modes or aspects of Himself).
-
-<!--more-->
-
 {{< subjects >}}
 <a href="/subject-index/#trinity-all-members-are-distinct-from-one-another">Trinity > All members are distinct from one another</a>
 {{< /subjects >}}
@@ -28,11 +24,7 @@ slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-
 
 ## Summary {#summary}
 
-
-
 This lesson's main focus is examining the point that God is *one* in essence, but that does *not* mean that the Trinity is only one person (merely displaying three modes or aspects of Himself).
-
-
 
 ## Timestamps {#timestamps}
 
