@@ -1,6 +1,0 @@
-#+HUGO_BASE_DIR: ../
-#+HUGO_SECTION:
-
-#+TITLE: {{ replace .Name "-" " " | title }}
-#+DATE: {{ .Date }}
-

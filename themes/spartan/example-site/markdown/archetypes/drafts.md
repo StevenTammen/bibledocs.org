@@ -1,1 +1,0 @@
-title: {{ replace .Name "-" " " | title }}
