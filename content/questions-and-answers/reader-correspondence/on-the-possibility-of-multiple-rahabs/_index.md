@@ -3,13 +3,16 @@ title: On the Possibility of Multiple Rahabs
 weight: 
 contentlevel: advanced
 layout: aggregation-page
-summary: >-
-   Some people ask whether the prostitute Rahab who hid the Jewish spies is the Rahab in the lineage of Christ. There really is no problem in asking the question, as duplicate names are a real thing in scripture. (Compare keeping all the people named Mary straight). However, what is problematic is swearing up and down that the two Rahabs can't possibly be the same solely because a prostitute can't be in the bloodline of Christ (*gasp*). That's not a good argument based on evidence, but an unfounded prejudice based on legalism.
 ---
+
+Some people ask whether the prostitute Rahab who hid the Jewish spies is the Rahab in the lineage of Christ. There really is no problem in asking the question, as duplicate names are a real thing in scripture. (Compare keeping all the people named Mary straight). However, what is problematic is swearing up and down that the two Rahabs can't possibly be the same solely because a prostitute can't be in the bloodline of Christ (\*gasp\*). That's not a good argument based on evidence, but an unfounded prejudice based on legalism.
+
+<!--more-->
 
 <!-- aggregate-page-content -->
 
 ## [Dealing With the Main Arguments Against a Single Rahab Interpretation](/questions-and-answers/reader-correspondence/on-the-possibility-of-multiple-rahabs/dealing-with-the-main-arguments-against-a-single-rahab-interpretation) {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation}
+
 {{< subjects >}}
 <a href="/subject-index/#rahab-the-prostitute">Rahab the prostitute</a>
 {{< /subjects >}}
@@ -28,7 +31,11 @@ slides="https://www.steventammen.com/slides/"
 
 ### Summary {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-summary}
 
+
+
 A curious friend emailed me wondering about whether the Rahab mentioned in the genealogy of Christ is the same Rahab as the prostitute in Joshua 2. It's a good question, since scripture does contain a number of different individuals sharing identical names (e.g., people named Mary, people named John). In the first part of my response here, I mostly focused on finding a reasonably-representative position to argue against (to make sure I addressed contrary arguments that my friend might have come across), picking things apart point-by-point. At the end of it all, when the dust settles, most of the opposing argument seemed to hinge on the fact that when Rahab is mentioned in Hebrews 11 and James 2, her profession and actions of faith are mentioned explicitly, while that is not the case in Matthew's genealogy. The problem is that assuming that this is supposed to signify a different person to prove that this is in fact a different person is inherently circular. It would be kind of like saying there must be two Jesus's in the New Testament because His identity as the Son of God is only mentioned in some places (e.g., His baptism), but not all!
+
+
 
 <!-- 
 ### Timestamps {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-timestamps}
@@ -205,9 +212,6 @@ Hopefully the above convinced you that the main argument of the link I supplied 
 
 
 ## [The Supposed Scandal of a Prostitute in the Line of Christ](/questions-and-answers/reader-correspondence/on-the-possibility-of-multiple-rahabs/the-supposed-scandal-of-a-prostitute-in-the-line-of-christ) {#the-supposed-scandal-of-a-prostitute-in-the-line-of-christ}
-{{< subjects >}}
-
-{{< /subjects >}}
 
 
 
@@ -223,7 +227,11 @@ slides="https://www.steventammen.com/slides/"
 
 ### Summary {#the-supposed-scandal-of-a-prostitute-in-the-line-of-christ-summary}
 
+
+
 This lesson spends time focusing on a single thing: refuting the idea that it must be a different Rahab because there couldn't possibly be a prostitute in the line of Christ (\*gasp in horror\*). The problem with this is that there are plenty of people in the genealogy (including men) who were not universally praiseworthy in their choices (not that they were horrible or not believers or anything like that -- the point is that Rahab's prostitution is not the only thing nailed to the cross among those in the genealogy). Further, there is the matter of Matthew's purpose in including the women he did in the genealogy. This lesson argues that the other women in the lineage of Christ are all mentioned specifically to demonstrate God's great love and grace towards humanity, so it makes little sense for the Rahab mentioned here to be some random woman we know nothing else about rather than the reformed prostitute bearing that name. Far from making this unlikely, the context in Matthew practically demands such an identification.
+
+
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -348,9 +356,6 @@ If I were to make an another argument about all this from scratch, I would hit t
 
 
 ## [Handling Several Other Matters](/questions-and-answers/reader-correspondence/on-the-possibility-of-multiple-rahabs/handling-several-other-matters) {#handling-several-other-matters}
-{{< subjects >}}
-
-{{< /subjects >}}
 
 
 
@@ -366,7 +371,11 @@ slides="https://www.steventammen.com/slides/"
 
 ### Summary {#handling-several-other-matters-summary}
 
+
+
 This lesson handles a couple other objections that some people raise in trying to argue that the Rahab in Matthew's genealogy is not the prostitute of Joshua 2. The chronology to make this identification work does demand some long lifespans, but that is far from unprecedented in this exact period (compare Caleb still being strong and vigorous at the tender young age of...  eighty-five -- see Joshua 14:10-11). There is also the matter that neither Joshua nor other sources (like Josephus, for example, who repeats the story of the spies) states directly that Rahab the prostitute married Salmon. But the absence of evidence is not the evidence of absence (that's a classical logical fallacy). This lesson also ends with an attached exchange I had with my mentor about the transliteration of Rahab's name in one of the earliest full NT manuscripts we have (Sinaiticus). The upshot: transliteration is so inconsistent it is best to not ever make great hay of it, here included.
+
+
 
 <!-- ## Timestamps {#timestamps}
  -->

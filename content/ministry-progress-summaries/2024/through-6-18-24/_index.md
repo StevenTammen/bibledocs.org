@@ -6,9 +6,9 @@ video: https://www.youtube.com/watch?v=bb9cZ7WWrF4
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_RPB-7ZFePE4eTotFZ-aJb
 ---
 
-{{< subjects >}}
+This cycle I mostly spent time finishing remaining tasks in my command line application to automate video processing. Many of these things have been long-term goals of mine for a long time now, so it is nice to see everything finally come together.
 
-{{< /subjects >}}
+<!--more-->
 
 {{% section-navigation %}}
 
@@ -24,7 +24,11 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2024/throug
 
 ## Summary {#summary}
 
+
+
 This cycle I mostly spent time finishing remaining tasks in my command line application to automate video processing. Many of these things have been long-term goals of mine for a long time now, so it is nice to see everything finally come together.
+
+
 
 ## Timestamps {#timestamps}
 
@@ -48,9 +52,9 @@ This cycle I mostly spent time finishing remaining tasks in my command line appl
 
 Last ministry progress summary, I said I had these three immediate short-term goals:
 
-- Setting up completely automatic silence removal in the video editing process (to further save me time---right now it is still a bit tedious, since I have to process segment by segment using a GUI tool). This will entail switching us away from Zoom, since Zoom recordings don't seem to play nice with the scriptable command-line tool I'd like to use, for some strange reason. I'm going have us try Microsoft Teams next, I think.
+- Setting up completely automatic silence removal in the video editing process (to further save me time—right now it is still a bit tedious, since I have to process segment by segment using a GUI tool). This will entail switching us away from Zoom, since Zoom recordings don't seem to play nice with the scriptable command-line tool I'd like to use, for some strange reason. I'm going have us try Microsoft Teams next, I think.
 - Setting up further automation with the topic transitions in videos. I would like to automatically generate the topic transition video segments in a hands-off (completely automated) way. Right now I have to manually record the short segments one by one.
-- Setting up a BibleDocs podcast on the podcasting platform [PodBean](https://www.podbean.com/), to include all the content from our Ichthys group Bible studies (at least that is the content stream I'll start with for podcasting---I will probably expand to others too, later). I need to support ripping mp3 audio off of the mp4 videos, and generating proper mp3 metadata/episode descriptions so that podcast episode timestamps will work properly on Apple Podcasts and Spotify (the two most dominant podcast apps, at present).
+- Setting up a BibleDocs podcast on the podcasting platform [PodBean](https://www.podbean.com/), to include all the content from our Ichthys group Bible studies (at least that is the content stream I'll start with for podcasting—I will probably expand to others too, later). I need to support ripping mp3 audio off of the mp4 videos, and generating proper mp3 metadata/episode descriptions so that podcast episode timestamps will work properly on Apple Podcasts and Spotify (the two most dominant podcast apps, at present).
 
 I'll be going over what progress I've made on these (and some other things besides).
 

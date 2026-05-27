@@ -4,9 +4,9 @@ weight: 1
 layout: content-page
 ---
 
-{{< subjects >}}
+In Romans 1:1, Paul call himself a servant/slave of Jesus Christ. What exactly does that mean? This page will be examining that question.
 
-{{< /subjects >}}
+<!--more-->
 
 {{% section-navigation %}}
 
@@ -22,7 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
+
+
 In Romans 1:1, Paul call himself a servant/slave of Jesus Christ. What exactly does that mean? This page will be examining that question.
+
+
 
 <!-- ## Timestamps {#timestamps} -->
 

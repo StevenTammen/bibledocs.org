@@ -3,13 +3,19 @@ title: On the Emotion of Anger
 weight: 
 contentlevel: intermediate
 layout: single-page
-summary: >-
-   Some folks struggle with anger management more than others, although perhaps said others have different areas of weakness (like lust or pride, for example). If you are someone who struggles with your temper, what do you need to know about the emotion of anger from a biblical perspective? This page goes over this some.
 ---
+
+Some folks struggle with anger management more than others, although perhaps said others have different areas of weakness (like lust or pride, for example). If you are someone who struggles with your temper, what do you need to know about the emotion of anger from a biblical perspective? This page goes over this some.
+
+<!--more-->
 
 ## Summary {#summary}
 
+
+
 Some folks struggle with anger management more than others, although perhaps said others have different areas of weakness (like lust or pride, for example). If you are someone who struggles with your temper, what do you need to know about the emotion of anger from a biblical perspective? This page goes over this some.
+
+
 
 {{% content %}}
 

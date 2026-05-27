@@ -6,6 +6,10 @@ video: https://www.youtube.com/watch?v=4okunpItA7w
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
 ---
 
+This lesson, we are going to be talking about God's perfect character, and what that means in terms of His motives.
+
+<!--more-->
+
 {{< subjects >}}
 <a href="/subject-index/#perfection">Perfection</a>
 <a href="/subject-index/#god-is-perfect-in-character">God > Is perfect in character</a>
@@ -25,7 +29,11 @@ slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-
 
 ## Summary {#summary}
 
+
+
 This lesson, we are going to be talking about God's perfect character, and what that means in terms of His motives.
+
+
 
 ## Timestamps {#timestamps}
 
@@ -73,7 +81,7 @@ So be perfect, just as your Father in heaven is perfect.
 
 {{% /nt %}}
 
-When firmly grasped, God's perfection---perfection in every way and according to any conceivable true standard---is a clarifying concept, *illuminating His motives*. God's perfect character will never be less than the highest, the best, and the purest that the human mind can comprehend.
+When firmly grasped, God's perfection—perfection in every way and according to any conceivable true standard—is a clarifying concept, *illuminating His motives*. God's perfect character will never be less than the highest, the best, and the purest that the human mind can comprehend.
 
 <!-- --- -->
 
@@ -171,7 +179,7 @@ Not allowing them to die in their sins, as evil suggests He will, but *reconcili
 | Holiness          | Justice                    | Forgiving sin                     | Mercy                               | Justification  |
 | Truth             | Life                       | Reconciling sinful man to Himself | Peace                               | Reconciliation |
 
-In this---God's full plan for saving sinful man---absolutely everything relies upon the cross, the blood of Jesus Christ. One particularly memorable way I have heard it described is that "God's Mercy and Justice intersect in the cross."
+In this—God's full plan for saving sinful man—absolutely everything relies upon the cross, the blood of Jesus Christ. One particularly memorable way I have heard it described is that "God's Mercy and Justice intersect in the cross."
 
 <!-- --- -->
 
@@ -209,9 +217,9 @@ Demanding justice for His creatures is a natural consequence of God's holiness. 
 
 This question's wording presupposes something that is simply not true: that unbelievers face eternal punishment in hell for personal sins they commit in this life.
 
-As we go over in the video, hell exists *not* to punish unbelievers for their sins---as if they could somehow pay for or atone for them---but only because of unbelief ("blasphemy against the Holy Spirit"). That hell is not punishment for sins but the consequence of unbelief---of wanting to spend eternity apart from God---is a rather fundamental point about the nature of hell, but is nonetheless widely misunderstood.
+As we go over in the video, hell exists *not* to punish unbelievers for their sins—as if they could somehow pay for or atone for them—but only because of unbelief ("blasphemy against the Holy Spirit"). That hell is not punishment for sins but the consequence of unbelief—of wanting to spend eternity apart from God—is a rather fundamental point about the nature of hell, but is nonetheless widely misunderstood.
 
-Jesus paid for *all* human sin upon the cross, and, moreover, imperfect human beings are not even worthy sacrifices. That is, we could not pay for our sin even if we wanted to; we are not qualified since we are tainted and marred by sin. Only Christ---the true, blameless Lamb of God---can take away the sins of the world with His blood, and He already did so upon the cross some 2,000 years ago.
+Jesus paid for *all* human sin upon the cross, and, moreover, imperfect human beings are not even worthy sacrifices. That is, we could not pay for our sin even if we wanted to; we are not qualified since we are tainted and marred by sin. Only Christ—the true, blameless Lamb of God—can take away the sins of the world with His blood, and He already did so upon the cross some 2,000 years ago.
 
 If God punished unbelievers for their sins in hell after Christ already took the judgement for said sins, the sins would be judged twice ("double jeopardy")---obviously incompatible with justice. Therefore, it is no exaggeration to say that falsely believing that human beings are punished for their sins in hell is no less than a rejection of the efficacy of Jesus' payment for all human sin upon the cross (or perhaps the Father's acceptance of Jesus' work). If you believe in unlimited atonement and so-called penal substitutionary atonement (both true things that are clearly taught in scripture), then the purpose (*telos*) of hell cannot be the punishment of human sins. It is simply theologically unworkable.
 
@@ -230,18 +238,18 @@ But that unbelievers accuse God of injustice is ironic:
 &emsp;Who has already saved them from their punishment,  
 &emsp;By taking it upon His own shoulders.
 
-When unbelievers say it is not just for them to face infinite, eternal punishment for finite sins, they miss the fact that God *already judged Jesus for all their sins upon the cross*, and that people in hell are not there to punish them for their sins, but because they chose unbelief and separation from God. God has, out of His unfathomable grace, spared them the true consequences of their sins---Jesus bore these consequences instead, even for the most vile and unrepentant of unbelievers. Nevertheless, He will let all those creatures who choose of their own will to live apart from Him have their wish. And an eternity apart from God---who is everything good---will be utterly miserable.
+When unbelievers say it is not just for them to face infinite, eternal punishment for finite sins, they miss the fact that God *already judged Jesus for all their sins upon the cross*, and that people in hell are not there to punish them for their sins, but because they chose unbelief and separation from God. God has, out of His unfathomable grace, spared them the true consequences of their sins—Jesus bore these consequences instead, even for the most vile and unrepentant of unbelievers. Nevertheless, He will let all those creatures who choose of their own will to live apart from Him have their wish. And an eternity apart from God—who is everything good—will be utterly miserable.
 
 The point is that hell is not miserable on account of punishment for sins committed, but miserable on account of separation from God.
 
 {{% sidenote %}}
 All of this should make it clear why the idea of "levels of hell" (cf. the ["Nine Circles of Hell"](https://en.wikipedia.org/wiki/Inferno_%28Dante%29#Nine_circles_of_Hell) in Dante's [*Inferno*](https://en.wikipedia.org/wiki/Inferno_%28Dante%29)) is so problematic theologically.
 
-Because all people in hell are there for the same reason (unbelief)---not to punish them for their personal sins---there can be no levels of hell.
+Because all people in hell are there for the same reason (unbelief)---not to punish them for their personal sins—there can be no levels of hell.
 
-That people find this unpalatable ("What do you mean Hitler will be no worse off in hell than my 'nice' unbelieving neighbor?!") does not make it any less true. As I have said before, the cross is truly scandalous grace---and what is even more scandalous is that God gives a real offer of salvation to every single human being who has ever lived... even those who---in our opinion---actually deserve a healthy dose of eternal suffering (e.g., those who rape and murder children). *That* is how far God has gone in offering a genuine choice to all mankind.
+That people find this unpalatable ("What do you mean Hitler will be no worse off in hell than my 'nice' unbelieving neighbor?!") does not make it any less true. As I have said before, the cross is truly scandalous grace—and what is even more scandalous is that God gives a real offer of salvation to every single human being who has ever lived... even those who—in our opinion—actually deserve a healthy dose of eternal suffering (e.g., those who rape and murder children). *That* is how far God has gone in offering a genuine choice to all mankind.
 
-For people who still balk at this teaching (viewing it as too lenient upon the truly evil), consider Paul. If God made Paul (who---prior to his conversion in Acts 9---was a fierce persecutor of the Early Church) the Apostle to the Gentiles, then when you find fault with God for showing grace to sinners who you think are too evil, are you saying God made a mistake with Paul?
+For people who still balk at this teaching (viewing it as too lenient upon the truly evil), consider Paul. If God made Paul (who—prior to his conversion in Acts 9---was a fierce persecutor of the Early Church) the Apostle to the Gentiles, then when you find fault with God for showing grace to sinners who you think are too evil, are you saying God made a mistake with Paul?
 {{% /sidenote %}}
 
 {{% /video-only %}}

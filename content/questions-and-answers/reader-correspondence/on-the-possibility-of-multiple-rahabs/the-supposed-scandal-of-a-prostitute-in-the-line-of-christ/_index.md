@@ -4,9 +4,9 @@ weight: 10
 layout: content-page
 ---
 
-{{< subjects >}}
+This lesson spends time focusing on a single thing: refuting the idea that it must be a different Rahab because there couldn't possibly be a prostitute in the line of Christ (\*gasp in horror\*). The problem with this is that there are plenty of people in the genealogy (including men) who were not universally praiseworthy in their choices (not that they were horrible or not believers or anything like that -- the point is that Rahab's prostitution is not the only thing nailed to the cross among those in the genealogy). Further, there is the matter of Matthew's purpose in including the women he did in the genealogy. This lesson argues that the other women in the lineage of Christ are all mentioned specifically to demonstrate God's great love and grace towards humanity, so it makes little sense for the Rahab mentioned here to be some random woman we know nothing else about rather than the reformed prostitute bearing that name. Far from making this unlikely, the context in Matthew practically demands such an identification.
 
-{{< /subjects >}}
+<!--more-->
 
 {{% section-navigation %}}
 
@@ -22,7 +22,11 @@ slides="https://www.steventammen.com/slides/"
 
 ## Summary {#summary}
 
+
+
 This lesson spends time focusing on a single thing: refuting the idea that it must be a different Rahab because there couldn't possibly be a prostitute in the line of Christ (\*gasp in horror\*). The problem with this is that there are plenty of people in the genealogy (including men) who were not universally praiseworthy in their choices (not that they were horrible or not believers or anything like that -- the point is that Rahab's prostitution is not the only thing nailed to the cross among those in the genealogy). Further, there is the matter of Matthew's purpose in including the women he did in the genealogy. This lesson argues that the other women in the lineage of Christ are all mentioned specifically to demonstrate God's great love and grace towards humanity, so it makes little sense for the Rahab mentioned here to be some random woman we know nothing else about rather than the reformed prostitute bearing that name. Far from making this unlikely, the context in Matthew practically demands such an identification.
+
+
 
 <!-- ## Timestamps {#timestamps} -->
 

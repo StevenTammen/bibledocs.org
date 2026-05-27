@@ -4,9 +4,9 @@ weight: 80
 layout: content-page
 ---
 
-{{< subjects >}}
+The impurity mentioned in Romans 1:24 is speaking of moral uncleanness—with overtones of lustful, profligate behavior. We *must* view sexual sin as unclean (in much the same we would soiled clothing), even if our culture disagrees.
 
-{{< /subjects >}}
+<!--more-->
 
 {{% section-navigation %}}
 
@@ -22,7 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-The impurity mentioned in Romans 1:24 is speaking of moral uncleanness---with overtones of lustful, profligate behavior. We *must* view sexual sin as unclean (in much the same we would soiled clothing), even if our culture disagrees.
+
+
+The impurity mentioned in Romans 1:24 is speaking of moral uncleanness—with overtones of lustful, profligate behavior. We *must* view sexual sin as unclean (in much the same we would soiled clothing), even if our culture disagrees.
+
+
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -42,7 +46,7 @@ That's a decidedly strong rendering. Many other versions translate this word sim
 
 The word here is *akatharsia* (Greek: [ἀκαθαρσία](https://www.blueletterbible.org/lexicon/g167/esv/mgnt/0-1/)). You might check the concordance on that page if you'd like to see other places in the Bible this exact Greek word is used, and what the context of those other usages is. 2 Corinthians 12:21, Galatians 5:19, Ephesians 4:19, Ephesians 5:3, and Colossians 3:5 are good cross-references usage-wise, for example.
 
-The word can mean uncleanness in a physical sense---like soiled clothing. But what is in view here (and in the passages just mentioned as cross-references) is the metaphorical meaning of uncleanness in a moral sense---particularly with connotations of lustful, profligate behavior.
+The word can mean uncleanness in a physical sense—like soiled clothing. But what is in view here (and in the passages just mentioned as cross-references) is the metaphorical meaning of uncleanness in a moral sense—particularly with connotations of lustful, profligate behavior.
 
 In the context of verse 24 in Romans 1, this word is being used in reference to sexual sin. There is no other way to responsibly interpret it in this passage.
 

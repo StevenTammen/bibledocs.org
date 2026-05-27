@@ -4,9 +4,9 @@ weight: 1
 layout: content-page
 ---
 
-{{< subjects >}}
+Genesis 1:1 (in the original Hebrew and Greek Septuagint both) and John 1:1 do not have direct articles, meaning the texts read "a beginning" not "the beginning." This supports the idea that the beginning referred to is the beginning of God's actions regarding the material universe, not the beginning of the material universe itself. Making this clear guarantees that people properly understand that God transcends space and time (things of His own creation), rather than Himself being somehow bound by the material universe.
 
-{{< /subjects >}}
+<!--more-->
 
 {{% section-navigation %}}
 
@@ -22,7 +22,11 @@ slides="https://www.steventammen.com/slides/"
 
 ## Summary {#summary}
 
+
+
 Genesis 1:1 (in the original Hebrew and Greek Septuagint both) and John 1:1 do not have direct articles, meaning the texts read "a beginning" not "the beginning." This supports the idea that the beginning referred to is the beginning of God's actions regarding the material universe, not the beginning of the material universe itself. Making this clear guarantees that people properly understand that God transcends space and time (things of His own creation), rather than Himself being somehow bound by the material universe.
+
+
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -90,7 +94,7 @@ We have בְּרֵאשִׁית not בָּרֵאשִׁית in Genesis 1:1. We hav
 
 {{% /nt %}}
 
-{{% ot t="septuagint" h="300px" p="Genesis 1:1" %}}
+{{% ot t="lxx" h="300px" p="Genesis 1:1" %}}
 
 {{% scripture-h p="Genesis 1:1 | Rahlf's LXX" %}}
 Ἐν ἀρχῇ ἐποίησεν ὁ θεὸς τὸν οὐρανὸν καὶ τὴν γῆν.

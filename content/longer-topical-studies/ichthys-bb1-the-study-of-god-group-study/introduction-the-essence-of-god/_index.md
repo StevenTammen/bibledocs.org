@@ -6,6 +6,10 @@ video: https://www.youtube.com/watch?v=otO3Nt6Xu9I
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
 ---
 
+In this lesson, we are going to be kicking off our new study of BB1: Theology on Ichthys by starting to discuss the Essence of God. We'll talk about how God is being (Exodus 3:14-15), as well as exactly what essence means as a concept.
+
+<!--more-->
+
 {{< subjects >}}
 <a href="/subject-index/#god-essence">God > Essence</a>
 {{< /subjects >}}
@@ -24,7 +28,11 @@ slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-
 
 ## Summary {#summary}
 
+
+
 In this lesson, we are going to be kicking off our new study of BB1: Theology on Ichthys by starting to discuss the Essence of God. We'll talk about how God is being (Exodus 3:14-15), as well as exactly what essence means as a concept.
+
+
 
 ## Timestamps {#timestamps}
 
@@ -58,7 +66,7 @@ The essence of something is what it really is. "Essence" and "being" are precise
 
 God tells us who He is in Exodus 3:14-15.
 
-If you've ever thought about the question "Well, if the universe exists because God made it, then why does God exist? Did something or someone likewise make God?" then the answer is no---God exists simply because God *is* being.
+If you've ever thought about the question "Well, if the universe exists because God made it, then why does God exist? Did something or someone likewise make God?" then the answer is no—God exists simply because God *is* being.
 
 Unbelievers scoff at that logic, but it is what the Bible says.
 

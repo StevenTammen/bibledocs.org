@@ -6,9 +6,9 @@ video: https://www.youtube.com/watch?v=uF-JEnTLNvk
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
 ---
 
-{{< subjects >}}
+Answering the question "what happens after a human being dies physically—where do they go, and what is their experience like?" is deceptively complex. Are we talking about a believer, or an unbeliever? Are we talking before Christ's ascension, or after Christ's ascension? Are we talking in the short term, or what the eternal state will be? We'll get into some of the specifics of all this in this lesson, with the ultimate goal of showing that people who are resuscitated do not ultimately end up in the final state any different than people who die once and stay dead. Both sorts of people (those who are resuscitated, those who are not) ultimately die once for all in the end, and in that unavoidable conclusion to every mortal's time upon this Earth, all humanity faces much the same afterlife. Those who are resuscitated back into their mortal bodies (in a demonstration of God's miraculous power over life and death) will face death again all the same, and end up in the same places as those who were not so raised. Only final *resurrection* (contrast *resuscitation*) will render us truly impervious to death's sting.
 
-{{< /subjects >}}
+<!--more-->
 
 {{% section-navigation %}}
 
@@ -24,7 +24,11 @@ slides="https://www.bibledocs.org/slides/questions-and-answers/reader-correspond
 
 ## Summary {#summary}
 
-Answering the question "what happens after a human being dies physically---where do they go, and what is their experience like?" is deceptively complex. Are we talking about a believer, or an unbeliever? Are we talking before Christ's ascension, or after Christ's ascension? Are we talking in the short term, or what the eternal state will be? We'll get into some of the specifics of all this in this lesson, with the ultimate goal of showing that people who are resuscitated do not ultimately end up in the final state any different than people who die once and stay dead. Both sorts of people (those who are resuscitated, those who are not) ultimately die once for all in the end, and in that unavoidable conclusion to every mortal's time upon this Earth, all humanity faces much the same afterlife. Those who are resuscitated back into their mortal bodies (in a demonstration of God's miraculous power over life and death) will face death again all the same, and end up in the same places as those who were not so raised. Only final *resurrection* (contrast *resuscitation*) will render us truly impervious to death's sting.
+
+
+Answering the question "what happens after a human being dies physically—where do they go, and what is their experience like?" is deceptively complex. Are we talking about a believer, or an unbeliever? Are we talking before Christ's ascension, or after Christ's ascension? Are we talking in the short term, or what the eternal state will be? We'll get into some of the specifics of all this in this lesson, with the ultimate goal of showing that people who are resuscitated do not ultimately end up in the final state any different than people who die once and stay dead. Both sorts of people (those who are resuscitated, those who are not) ultimately die once for all in the end, and in that unavoidable conclusion to every mortal's time upon this Earth, all humanity faces much the same afterlife. Those who are resuscitated back into their mortal bodies (in a demonstration of God's miraculous power over life and death) will face death again all the same, and end up in the same places as those who were not so raised. Only final *resurrection* (contrast *resuscitation*) will render us truly impervious to death's sting.
+
+
 
 ## Timestamps {#timestamps}
 
@@ -97,7 +101,7 @@ There are three "types of death" that human beings can experience:
 - Spiritual death (spiritual separation from God)
 - Eternal death (also called the "second death")---spending eternity in the Lake of Fire, eternally separated from God
 
-When Satan told Eve that she would "surely not die" in Genesis 3:4, he spoke a half-truth. While disobeying God did not cause immediate physical death for Adam and Eve, their actions caused immediate spiritual death (spiritual separation from God), and in fact would cause eventual physical death... even if not instantaneously. Further, if God had not provided a gracious means of escape for us in the blood of Jesus Christ (symbolized and foreshadowed by God's gifting of the animal skins in Genesis 3:21, which is often called the *protoevangelium*), all of us---Adam and Eve included---would necessarily face certain eternal death as well.
+When Satan told Eve that she would "surely not die" in Genesis 3:4, he spoke a half-truth. While disobeying God did not cause immediate physical death for Adam and Eve, their actions caused immediate spiritual death (spiritual separation from God), and in fact would cause eventual physical death... even if not instantaneously. Further, if God had not provided a gracious means of escape for us in the blood of Jesus Christ (symbolized and foreshadowed by God's gifting of the animal skins in Genesis 3:21, which is often called the *protoevangelium*), all of us—Adam and Eve included—would necessarily face certain eternal death as well.
 
 Our present topic is focused upon the first type of death: physical death.
 
@@ -220,7 +224,7 @@ That is the eternal state of believers and elect angels. By way of contrast, unb
 {{< /subjects >}}
 <!-- p="1 John 3:2; Corinthians 15:35-58" -->
 
-Unfortunately, a lot of "pop culture" representations of heaven involve pearly gates, clouds, floating gold streets, and what have you---things that make it seem somehow floaty and ephemeral rather than physical. This is not compatible with the Bible's descriptions of the afterlife.
+Unfortunately, a lot of "pop culture" representations of heaven involve pearly gates, clouds, floating gold streets, and what have you—things that make it seem somehow floaty and ephemeral rather than physical. This is not compatible with the Bible's descriptions of the afterlife.
 
 The Bible is clear that in final resurrection we will be "like" Christ (1 John 3:2, and cf. 1 Corinthians 15:35-58), and will dwell upon the remade Earth (now free from sin and death) rather than up in the clouds somewhere. We will have bodies that are incorruptible, "spiritual bodies" that will be ruled over by spiritual impulses rather than the sinful fleshly ones like we have at present. We can only grasp the barest outlines of exactly what this means, but the key point is that our spirits will still be housed in bodies, even if they are different than the ones we are now in.
 
@@ -237,7 +241,7 @@ So what about before the resurrection, we might ask? Did the people in Abraham's
 {{< /subjects >}}
 <!-- p="Luke 16:24; 1 Corinthians 15:44; 2 Corinthians 5:1-4; Revelation 6:11; Revelation 7:9" -->
 
-The answer to these questions is yes---people in the afterlife (even before the resurrection) have bodies too. Recall at the beginning of today's video how we talked about the composition of humans---how we are composed of body and spirit. How could humans exist as only spirit? It is simply not how God has made us, ontologically speaking.
+The answer to these questions is yes—people in the afterlife (even before the resurrection) have bodies too. Recall at the beginning of today's video how we talked about the composition of humans—how we are composed of body and spirit. How could humans exist as only spirit? It is simply not how God has made us, ontologically speaking.
 
 Clothing is a metaphor employed in the Bible for the concept of human spirits being joined with physical bodies (cf. 2 Corinthians 5:1-4; Revelation 6:11, 7:9). For a human to be, well, a human, a human spirit must be embodied and joined with some form of "vessel" = a physical body.
 
@@ -247,7 +251,7 @@ Scripture therefore indirectly teaches a concept that my mentor has termed "inte
 
 One of the reasons why this teaching is often missed or misunderstood is because of [a complex textual issue relating to 2 Corinthians 5:3](https://ichthys.com/mail-Resurrection-Body-Eternal-Future.htm#interim%20body%20taught%20in%202nd%20Corinthians%205:3). Textual criticism is the art and science of figuring out what the original text of the Bible said; since the Bible was copied and recopied many times over the decades and centuries, changes could creep in and corrupt the text. The exact specifics of this particular textual matter are a bit beyond what I want to get into here (although see the link if interested in the gory technical details), but suffice it to say that the proper way to translate 2 Corinthians 5:3 is actually along the lines of "when we are **un**-clothed (i.e., because we have died, and our spirits have left our physical bodies), we will not be found naked (i.e., God will clothe our spirits with some new body)" rather than "when we are clothed (i.e., joined with a body of some form), we will not be found naked (i.e., we will not end up being disembodied)". Note that the meaning is entirely flipped between those two options, and also note the nearly tautological sense of the second (incorrect) option.
 
-To put that into a bit plainer English: 2 Corinthians 5:3---when translated using the correct textual base---says that when we put off our present bodies when we die physically, we will not be found naked in the sense of being without a body for our human spirit. Ergo, interim bodies.
+To put that into a bit plainer English: 2 Corinthians 5:3---when translated using the correct textual base—says that when we put off our present bodies when we die physically, we will not be found naked in the sense of being without a body for our human spirit. Ergo, interim bodies.
 
 There is other evidence too:
 

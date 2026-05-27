@@ -2,6 +2,10 @@
 title: Community Overview
 ---
 
+TODO: Summary
+
+<!--more-->
+
 All the teaching materials on this site (text, video, and audio) are always available for your use, no matter where you may be in the world or what your schedule may be like. There is absolutely nothing wrong with never getting more involved than simply accessing the materials on this site as you see fit.
 
 For anyone who does want to get involved with a group of like-minded individuals also interested in these same things, however, this site does formally run a community of sorts. 
@@ -28,7 +32,7 @@ Two communities in fact. Let me explain:
 
 I run two Bible studies every week (see [Community Meetings](/community-meetings)), and the communities this site runs are basically centered around these meetings.
 
-The two Bible studies are the CrossTalk Bible Study (which is probably what most people are interested in), and the Ichthys Bible Study (which is a different meeting where followers of [Ichthys](https://ichthys.com/) and other ministries in its orbit---like my own ministry---can meet to discuss things adjacent to the teachings of Ichthys). Everyone is welcome at both meetings, but what we talk about in the Ichthys Bible Study meetings will tend to be a bit less generally applicable to most Christians, since it relates to a particular flavor of Christian theology. You might compare how Presbyterians and Baptists have plenty of common ground, but still have their own specific theological beliefs that are generally only of interest to people who follow their branch of theology. Same general idea here. This certainly doesn't mean that people who don't agree with all of what Ichthys teaches aren't welcome---far from it. If you are interested in attending two Bible studies a week, then even if you don't read or follow Ichthys, there is no reason you can't come to the Ichthys Bible Study meetings alongside the CrossTalk Bible Study meetings. The structure is generally similar across the two Bible studies, so if you want more of the same, doing that will make good sense for you.
+The two Bible studies are the CrossTalk Bible Study (which is probably what most people are interested in), and the Ichthys Bible Study (which is a different meeting where followers of [Ichthys](https://ichthys.com/) and other ministries in its orbit—like my own ministry—can meet to discuss things adjacent to the teachings of Ichthys). Everyone is welcome at both meetings, but what we talk about in the Ichthys Bible Study meetings will tend to be a bit less generally applicable to most Christians, since it relates to a particular flavor of Christian theology. You might compare how Presbyterians and Baptists have plenty of common ground, but still have their own specific theological beliefs that are generally only of interest to people who follow their branch of theology. Same general idea here. This certainly doesn't mean that people who don't agree with all of what Ichthys teaches aren't welcome—far from it. If you are interested in attending two Bible studies a week, then even if you don't read or follow Ichthys, there is no reason you can't come to the Ichthys Bible Study meetings alongside the CrossTalk Bible Study meetings. The structure is generally similar across the two Bible studies, so if you want more of the same, doing that will make good sense for you.
 
 ## Community interaction
 

@@ -1,6 +1,10 @@
-+++
-title = "Resource Index"
-+++
+---
+title: "Resource Index"
+---
+
+TODO: Summary
+
+<!--more-->
 
 ## The actual list of resources
 
