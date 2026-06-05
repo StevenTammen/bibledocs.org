@@ -192,7 +192,7 @@ The issue with this sort of argument is that you could well say that Isaiah 52:1
 
 {{< properties
 
-stags="Satan > Was and/or controlled the serpent of Genesis 3"
+stags="Satan > Was and/or controlled the serpent of Genesis 3 | Faith > Is trusting in God and His promises | Bible > Is God's message of truth to humanity"
 
 >}}
 
@@ -238,7 +238,7 @@ When used with a [definite article](https://www.hebrew4christians.com/Grammar/Un
 
 {{< properties
 
-stags="Satan > The enemy of believers | Central doctrines to the Christian faith > Satan attacks more fiercely | Progressive revelation | Satan > What he is not > A divine prosecutor | Satan > What he is not > A literary character"
+stags="Satan > Is the enemy of believers | Central doctrines to the Christian faith > Satan attacks more fiercely | Progressive revelation | Satan > What he is not > A divine prosecutor | Satan > What he is not > A literary character"
 
 ptags="Revelation 12:10"
 
@@ -428,7 +428,7 @@ III. Elect angels do not wish to oppose God or disprove God's words
 
 1. [ ] More often in the Old Testament than the New Testament
 1. [x] More often in the New Testament than the Old Testament
-1. [ ] Comparably in both Old and New Testaments 
+1. [ ] Comparably in both Old and New Testaments
 
 ## What does the "seed of the woman" refer to? {#satan-is-the-serpent-of-genesis-3-what-does-the-seed-of-the-woman-refer-to}
 
@@ -442,6 +442,11 @@ In Genesis 3:15.
 
 1. [x] True
 1. [ ] False
+
+## True or False: Prophetic typology and dual-application is not common in Old Testament prophecy. {#satan-is-the-serpent-of-genesis-3-true-or-false-prophetic-typology-and-dual-application-is-not-common-in-old-testament-prophecy}
+
+1. [ ] True 
+1. [x] False
 
 {{< /quizdown >}}
 

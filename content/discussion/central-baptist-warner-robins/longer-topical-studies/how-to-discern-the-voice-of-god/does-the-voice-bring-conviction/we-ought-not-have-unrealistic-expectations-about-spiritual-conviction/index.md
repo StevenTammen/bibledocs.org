@@ -104,7 +104,7 @@ Emphasizing this is important because the very worst thing we can do is make exc
 
 {{< properties
 
-stags="Limited human perspective > God always provides enough information for us to make correct decisions"
+stags="Limited human perspective > God always provides enough information for us to make correct decisions | Hypotheticals > God's guidance is sufficent, regardless of the situation"
 
 >}}
 
