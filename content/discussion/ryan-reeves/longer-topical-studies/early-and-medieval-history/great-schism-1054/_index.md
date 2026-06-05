@@ -96,9 +96,72 @@ The main answer is the [Schism of 1054](https://en.wikipedia.org/wiki/East%E2%80
 
 #### Follow-on topics {#follow-on-topics}
 
-##### Protestants are greatly outnumbered on the world stage. Non-denominational Evangelical Protestants even more so {#protestants-are-greatly-outnumbered-on-the-world-stage-non-denominational-evangelical-protestants-even-more-so}
+##### Have you ever considered how outnumbered Protestants are? And non-denominational evangelical Protestants even more so?
 
-##### What percentage of Christians belong to what church group varies strongly by geographic area {#what-percentage-of-christians-belong-to-what-church-group-varies-strongly-by-geographic-area}
+Do you find it surprising that on the world stage Protestants are so highly outnumbered by Catholic and Orthodox folks (at a ratio of roughly two to one)? More generally, have you ever considered how few people claiming Christ might believe even roughly similar things to you as an individual? For example, those similar to me in belief could probably be categorized as:
+
+- Protestant
+- Evangelical, with a strong focus on *sola scriptura*
+- Non-denominational
+- Those who *do* believe in these things:
+  - Inspiration and inerrancy
+  - Cessationism (i.e., the point of view that holds that signal and sign spiritual gifts are no longer given. Contrast Pentecostals/Charismatics)
+- But *not* in these things:
+  - Calvinism (e.g., limited atonement, perseverance of the saints, etc.)
+  - Preterism
+  - Pre-trib rapture
+  - The so-called "prosperity gospel"
+  - Etc.
+
+One might go on. Just how I have made a list of labels here to describe my own Christian beliefs, I think most people would probably be able to draft much the same within a few minutes of pondering the matter.
+
+<!-- --- -->
+
+The reason why we might find benefit in doing this is because it can help us figure out "where we fit" within the global demographics of Christians. This can be useful for a few reasons:
+
+- It can help us define what we believe partially by explaining what we *don't* believe, which is difficult to do if you do not know what else is out there.
+- It can introduce us to new beliefs to consider and weigh in our appreciation of the truth. Like we will talk about in a moment, it is statistically common for people to adopt the beliefs they grew up with, but clearly growing up believing something has little to do with its actual truth value. In this, I am not necessarily advocating for a mind so open that we never stake down a flag about what we believe and why. Rather, I am saying that as Christians, we should strive not to hold *unexamined* beliefs---that is, beliefs that we have not thoroughly considered and responsibly weighed against other possible interpretations within whatever area.
+  - If we take the time to understand the reasons why we believe what we do---and how our beliefs differ from other options out there---not only will we be much better able to discuss the truth with others, but we will also be able to have much greater personal confidence in our beliefs.
+- It can help us determine exactly what causes to stick up for in apologetics. Christians commonly get lumped all together by others, but in truth, we have no responsibility to defend the beliefs---or past/present actions---of Christian groups that may have drastically different theological views from us (particularly in how much weight they give to tradition and central church authority, rather than basing their faith off of the Bible *alone*). Only when we understand where we fit relative to other groups can we effectively sidestep straw men in apologetics endeavors---by explaining in detail how what we believe is really not the same as others in XYZ specific ways, we can make sure that the positions we set out to protect and uphold are accurately and precisely defined and delineated.
+
+<!-- --- -->
+
+I would argue that the more your individual beliefs place you "outside of" the statistical majority, the more important it is for you to understand your views inside and out (as well as how they relate to other people's positions), because you will relatively more often find yourself as the odd Christian out, needing to explain and defend that which you believe.
+
+<!-- --- -->
+
+##### According to the statistics, frequency of Christian belief is strongly associated with geographic area. This should lead us to thoroughly question and examine our own beliefs
+
+In the video, Dr. Reeves mentions that the Eastern Orthodox Church is the dominant form of Christianity in certain regions that have less prevalent ties with the Western world order, which means that despite its substantially smaller number of overall adherents relative to the Catholic Church (let's call it ~250 million people vs. ~1.5 billion people, or thereabouts), it still carries somewhat outsized relevancy in political and social spheres.
+
+Setting aside the interesting things that go along with such an observation from a sociological perspective, consider how all of this inherently means that in practice frequency of Christian belief seems to end up being highly dependent upon geographic area. In some of these regions under discussion, it is much closer to 100% of self-professed Christians that identify as Eastern Orthodox (rather than Catholic or Protestant). And the sort of independent evangelical Protestant Christianity that my beliefs would fall under is practically nonexistent in these places.
+
+The thing is, the observation holds in the Western world too. For example, Baptists are heavily concentrated in the American South, and some European countries ended up with their demographics leaning far more strongly Catholic due to how history played out (e.g., Poland and Ireland). So this is far from being a principle that applies only to the Eastern Orthodox specifically.
+
+<!-- --- -->
+
+So why bring all of this up? Quite simply, it is because the truth has *absolutely nothing to do with the environment in which you are raised*. Clearly, most people approach the matter as if the two things are linked; that is what the statistics tell us. But we *can* and *should* strive to personally decouple the things in our approach to our Christian faith, and only care about what the Bible says, and that alone.
+
+What I mean by that is what I mentioned before in discussion of the last follow-on topic: we should strive to never hold unexamined beliefs (i.e., things that we have not thoroughly tested against the Bible). Unexamined beliefs are suspect in and of themselves. In fact, we ought to *more rigorously* analyze beliefs that we inherit from our parents or culture (and so on) precisely *because* we are already very biased towards them. The human brain is a terrifyingly self-serving thing, and so we need to sandbag against our own cognitive bias by being proportionally stricter with positions that we are likely to already be biased towards for various reasons.
+
+And we *will* be inherently biased, make no mistake. Why?
+
+- If everyone in your family believes one thing and you take a different position, it stresses familial harmony. As humans, we are inherently predisposed to choose paths that are more likely to win approval and support from our families, rather than alienating them.
+- The same principle applies at the societal level. If everyone around you believes something, but you start pushing back against it, you will inherently bring down the hostility of all those around you---people don't like their beliefs and worldviews being challenged. You may face consequences at work, in friendships, in business, and everywhere else. As humans, we are inherently predisposed to choose paths that are more likely to win approval and support from our societies and cultures, rather than alienating them.
+
+All this makes us inherently resistant to rocking the boat and kicking the beehive. It is *much* easier to simply adapt our beliefs to those around us, and conform.
+
+<!-- --- -->
+
+Now, many people in Western democracies that enshrine freedom of religion try to make pretend that as a culture we've moved past such blatant tribalism when it comes to religion---that we can all come together even despite our different beliefs. The problem is that simply saying it does not make it so. What matters is not what nice-sounding ideals are espoused, but what the boots-on-the-ground situation actually is in reality. And the true facts of the situation are that just as throughout all history, most humans still try to enforce conformity of belief, and are utterly intolerant of questions and challenges to inherited dogma. This fact is true across all divisions of Christianity, including my own independent evangelical Protestantism. It is also true of Islam, of Hinduism, of Buddhism. It is even true of those professing Atheism and Agnosticism. In short, what we are discussing is is true of *humans in general*, no matter their group affiliation. And so *absolutely all of us*, down to a person, need to be concerned about this when it comes to analyzing what we believe, and why.
+
+I should be clear that the vast majority of what we are discussing is at a level less than conscious---both our own inherent biases, and the self-defense mechanisms employed by groups of humans to better enforce conformity in belief. That these things appear to be hardwired into human cognition (meaning you could effectively argue that they are "natural" and "to be expected") does not make them right or proper, but it does mean that we are *not* throwing stones of moral condemnation in most of this. After all, *we* suffer from individual cognitive bias just as much as those who grew up Muslim, for example. And *our* groups (like my own independent evangelical Protestantism) are unconsciously intolerant of dissent just as much as other groups. It not just a "them" thing, in other words, but an "all of us" thing.
+
+<!-- --- -->
+
+The point of all this is that we should hold the beliefs we grew up with---the views of our culture and social circles---at more than arms length, and test absolutely *all* of our inherited beliefs against the Bible, immediately throwing out anything that does not pass, no matter how much doing so alienates everyone else around us (cf. Matthew 10:34-36). We should strive to think upon the uncomfortable things gone over here, and treat ourselves and our religious groups as unavoidably biased, because truly we are and they are---no two ways about it. Only by staring this bias in the face (rather than trying to ignore it and pretend it does not exist) can we accept that we need to take active steps to sandbag against it to avoid falling prey to it.
+
+If you are ever tempted to doubt the validity of all this, remember that frequency of religious belief would not be so strongly associated with geographic area if there was nothing to what we are putting forward here. In fact, more than just the current asymmetric geographic distribution of Eastern Orthodox believers, we can also consider the massive divide between East and West that is the focus of this wider lesson about the Great Schism of 1054. All one needs to do is consider what we will be going over here with an open mind, and you will clearly see the biases of both sides, as well as the individuals belonging to them. And if *they* were not immune to such things (and in fact, very far from it), what makes us think *we* are?
 
 <!-- --- -->
 
@@ -106,7 +169,7 @@ The main answer is the [Schism of 1054](https://en.wikipedia.org/wiki/East%E2%80
 
 <!-- --- -->
 
-### The Schism of 1054 {#the-schism-of-1054}
+### The Great Schism of 1054 {#the-schism-of-1054}
 
 #### Video clip from Ryan Reeves {#video-clip-from-ryan-reeves}
 
@@ -139,6 +202,22 @@ End:
 
 #### Summary points {#summary-points}
 
+The terminology here can be a bit confusing. The Great Schism of 1054 was not the first time that there had in some senses been a schism between the East and West in the church. Moreover, it is not even the first one to be called a "great schism", nor was it the only church schism happening during the period of the Middle Ages. (In fact, it is much the opposite: the Middle Ages had relatively more of these sorts of conflicts than prior periods).
+
+For those encountering all this for the first time, the schisms may all sort of seem to run together. But usually when people talk about a "Great Schism" without a particular date referent, what they mean is this one in 1054, wherein the Catholic Church in the West was completely sundered from the  church in the East that would eventually come to be identified as the Orthodox Church.
+
+<!-- --- -->
+
+This schism is to be distinguished from papal schisms, which are a different thing entirely. Unfortunately, one of the papal schisms sometimes also gets called the "Great Schism", further adding to the confusion. Ideally historians would always call that one the "Great *Papal* Schism", but alas, such is not always the case.
+
+At any rate, what we have in view here in this lesson is the event in 1054 that led to the separation of the Catholic and Eastern churches.
+
+There are a number of reasons that can help explain why this schism ultimately occurred. We will be examining them according to three main categories:
+
+1. Authority-related reasons
+2. Theological reasons
+3. People in power reasons (i.e., things having to do specifically with the personalities in leadership positions at the time)
+
 <!-- --- -->
 
 #### Follow-on topics {#follow-on-topics}
@@ -149,7 +228,7 @@ End:
 
 <!-- --- -->
 
-### Political reasons for the schism {#political-reasons-for-the-schism}
+### Authority-related reasons for the schism {#political-reasons-for-the-schism}
 
 #### Video clip from Ryan Reeves {#video-clip-from-ryan-reeves}
 
@@ -181,6 +260,123 @@ End:
 <!-- --- -->
 
 #### Summary points {#summary-points}
+
+After Constantine united the East and the West under a Christian banner (whatever one thinks of his personal beliefs, it is clear that he did in fact fly a Christian banner), many in the Christian world saw themselves politically as a United Empire: one God, one faith, one emperor. That was the PR spin, at least.
+
+In this way, the so-called "Constantinian Revolution" paved the way for the ongoing Christianization of the Roman Empire, as well as the church seeing itself as one united entity. For example, those living in the Byzantine Empire would not have considered themselves to be anything other than Roman (at least not for the first several centuries after Constantine, if not even longer thereafter).
+
+<!-- --- -->
+
+There are a number of ways in which this manifested. Perhaps the most obvious way is the direct political power the East exercised over the West (at least on paper), which persisted essentially all the way up until the West started crowning their own Holy Roman Emperors.
+
+In simple terms, many (especially the people of the East), viewed the emperor in Constantinople as essentially being the emperor of the West too. And so just as it was standard practice for the Byzantine Emperor to sort of give his stamp of approval for whoever came to fill the church office of Patriarch of Constantinople (which was the primary seat of the Byzantine church) or any of the other main Patriarch or Bishop positions, in fact, the same general principle held even for the papacy = the Bishopric of Rome. So on paper, the Eastern Emperor was to sign off even on appointments of popes.
+
+Now, in the early days, this rarely caused significant issues, as it was just a rubber stamp most of the time. This is not to say it never caused problems, but for the most part, this was more of a ceremonial nod to imperial authority than anything else. What this means is that it wasn't like all the church officials would agree that this guy is to be new pope, only to have the appointment unilaterally shut down because the Eastern Emperor vetoed it.
+
+<!-- --- -->
+
+Now, over the course of the Early Middle Ages and on into the High Middle Ages, the papacy in particular started to show signs of not liking this business where they had to answer to the Eastern Emperor. All the way back in the 5th and 6th centuries, what we can see is the papacy beginning to try to assert its independence. At the start, this really did not create massive waves (in the sense of having constant tussles about who was to be in charge of the papacy, etc.). I mean, it did happen *some*, and it was an issue, but we are talking grumbling and pushback within the system, not a complete flipping of the game board (so to speak). At least not yet.
+
+An inflection point of sorts came about when [Pope Leo III](https://en.wikipedia.org/wiki/Pope_Leo_III) crowned [Charlemagne](https://en.wikipedia.org/wiki/Charlemagne) as "Emperor of the Romans" at St. Peter's Basilica in Rome on Christmas day in 800 A.D. (at least that is the date according to some historians). This move was clearly a power play of sorts: if the pope could coronate his own emperor over the Western half of what was formerly Constantine's world, then he no longer needed to suffer Eastern political oversight. Now, those in the East knew what was going on here, and (rightly) looked upon it with suspicion. No matter how pretty you might try to dress it up, this development in essence amounted to a fairly direct rejection of Eastern political authority.
+
+<!-- --- -->
+
+Over time, this sort of pattern (that is, the papacy wanting to have its own autonomous authority, and taking concrete steps to give itself the platform for such)---alongside other developments besides---led to a disentangling of East from West, a *de facto* decoupling, even if it was not yet fully *de jure*. 
+
+Obviously the ideal was unity, but lots of practical differences made complete unity much harder to realize than might seem initially apparent. Not only was there a language barrier (with the East primarily speaking Greek and the West primarily speaking Latin), but there were also cultural differences, as well as divergent communication norms and dissimilar expectations in the exercising of political authority.
+
+So no matter how much the Eastern Emperor might claim to be over all of Christendom, it was simply impossible for him to ever exert enough authority over the Western regions to really claim them as his own in a practical sense.
+
+<!-- --- -->
+
+All of this came to a head even more in 962 A.D. with the crowning of [Otto the Great](https://en.wikipedia.org/wiki/Otto_the_Great) as "Emperor of the Romans", echoing Charlemagne's title from his aforementioned crowning in 800 A.D. Otto's crowning as Holy Roman Emperor came a bit after Otto's victory in a famous battle called the [Battle of Lechfeld](https://en.wikipedia.org/wiki/Battle_of_Lechfeld), and his reign established what is known as the [Ottonian Dynasty](https://en.wikipedia.org/wiki/Ottonian_dynasty).
+
+When Otto was crowned Holy Roman Emperor, in some senses the title took on a new significance, a new depth of meaning in the West's self-identity as its own entity and own Christendom apart from the Eastern world. We must understand that the West did not have to face the same sort of what we might call "identity issues" as some places in the East did after the Arab conquest and expansion (in Palestine and North Africa, for example). Arguably, it is the relatively greater absence of this sort of worldview mixing that gave the West more freedom in staking down a *single* flag and saying "this is who we are."
+
+<!-- --- -->
+
+So at any rate, with the crowning of Otto and the establishment of the Ottonian dynasty, the West became further organized around its own power structures that were independent from the East. Otto's descendant [Henry II](https://en.wikipedia.org/wiki/Henry_II,_Holy_Roman_Emperor) (not to be confused with [Henry II of England](https://en.wikipedia.org/wiki/Henry_II_of_England), who was a English rather than German king) appointed [Pope Leo IX](https://en.wikipedia.org/wiki/Pope_Leo_IX) to the papacy. It is this man who was pope during the Great Schism. We'll talk more about him later.
+
+You can see in this that separation between church and state was rather nonexistent. Church authority and government authority may have been separate in theme or in terms of their areas of primary influence, but they were far from unrelated to one another. And so it was that the tension present between the government of the West and the government of the East (visible, for example, in the Holy Roman Empire seeking to act separately from the Emperor of the East) also came to permeate the ecclesiological dimension as well.
+
+<!-- --- -->
+
+One way in which tension built in this sphere was the increasingly divergent views on authority in the church. The West was more and more coming to emphasize the authority of the pope in particular, but in the East, there was no equivalent idea of having one person carry that much individual authority; that is, the Eastern church's model of government did not (and even to this day, does not) have a single person over the church as whole. Anyone who tells you that the Patriarch of Constantinople was (or is) such a person in the Eastern church is simply misunderstanding the power that office wields in their system of organization. Basically, the Eastern church believes that there are multiple principle patriarchs who rule in collaborative unity with one another, albeit with the patriarch in Constantinople having the highest relative level of authority (but *not* a different qualitative level of authority).
+
+Now, this argument about church authority in some senses goes all the way back to the early ecumenical church councils, which among other things, did discuss formal regional divisions in the church, and their relative ranks. That is, arguments about what degree of influence Constantinople (for example) should have relative to Rome actually date to many, many centuries before the Great Schism.
+
+<!-- --- -->
+
+{{% note %}}
+Dr. Reeves says that the main five divisions of the [Pentarchy](https://en.wikipedia.org/wiki/Pentarchy)---namely, Rome, Constantinople, Alexandria, Antioch, and Jerusalem---were decided in the [First Council of Constantinople](https://en.wikipedia.org/wiki/First_Council_of_Constantinople) in 381.
+
+What I've read has suggested that this is a bit of an oversimplification. The First Council of Constantinople formally recognized Constantinople as second in ecclesiastical rank after Rome (cf. canon 3 of the council, which read something like "The Bishop of Constantinople, shall have the prerogative of honor after the Bishop of Rome because Constantinople is 'New Rome'"). This means the patriarchal system at this time consisted primarily of Rome, Alexandria, and Antioch (which three were already established at Nicea in 325---cf. canon 6 of Nicea), plus the newly elevated Constantinople. That makes four separate patriarchates in total.
+
+It seems like the specific concept of the Pentarchy—with five separate patriarchates, rather than four—was developed only later in the 6th century by [Emperor Justinian I](https://en.wikipedia.org/wiki/Justinian_I), and if one wants to be *really* pedantic, this only got official ecclesiological recognition (if one can call it that, given that there was always disagreement about how exactly regional authority worked to begin with) in the [Quinisext Council](https://en.wikipedia.org/wiki/Quinisext_Council) in 692, where the five Patriarchates were ranked in order of preeminence as Rome > Constantinople > Alexandria > Antioch > Jerusalem.
+
+{{% /note %}}
+
+<!-- --- -->
+
+{{% note %}}
+
+In the video, Dr. Reeves says this:
+
+{{% quote src="https://www.youtube.com/watch?v=Q_s9Rcsg5UI" text="Ryan Reeves" %}}
+
+The papacy actually at this time resisted the idea that Constantinople would be made a *de facto* patriarch or *de facto* leading bishop that was seen to be at least coterminous if not equal with that of the papacy.
+
+{{% /quote %}}
+
+I think it is worth briefly examining what we know about Rome's resistance to the elevation of Constantinople, since it is really at the heart of the different views on church authority we are examining in this section.
+
+Let's start with what we know of Rome's reaction to canon 3 from the First Council of Constantinople in 381. It is important to note that the West was not really represented in the First Council of Constantinople, so you have to begin there. The entire council happened in the East, conducted by people in the East. There was evidently [a letter circulated in 382](https://www.newadvent.org/fathers/3809.htm) summarizing the council (although with canon 3 notably absent), and we know [Pope Damasus I](https://en.wikipedia.org/wiki/Pope_Damasus_I) of Rome was a recipient of this letter, because he was one of the people to whom the letter was explicitly addressed.
+
+<!-- --- -->
+
+We also know that there was synod called in Rome in 382. Regarding how Rome saw canon 3 of the First Council of Constantinople, there is no airtight smoking gun here since this synod did not release a direct letter of response to the First Council of Constantinople (including the contents of canon 3), but in my opinion, you can make a good case that this synod in Rome in 382 was called at least in part in reaction to it. Compare the following quote from Pierluigi De Lucia's [*The Petrine ministry at the time of the first four ecumenical councils: relations between the Bishop of Rome and the Eastern Bishops as revealed in the canons, process, and reception of the councils*](http://hdl.handle.net/2345/1852) pages 47-48:
+
+{{% quote src="http://hdl.handle.net/2345/1852" text="Pierluigi De Lucia" %}}
+
+[T]here is good reason to believe that the synod of Rome in 382 not only was aware of canon 3, but also responded to it. The reason is that many scholars judge it solidly probable that the first part of the “Decretum Gelasianum” is actually a document composed by the Roman synod of 382 as its response to canon 3 of Constantinople I.
+
+The following statements from the *Decretum Gelasianum* favor the hypothesis that it was composed as a response to canon 3 of Constantinople I:
+
+> The holy Roman church has been set before the rest by no conciliar decrees, but has obtained the primacy by the voice of our Lord and Savior in the Gospel: “Thou art Peter and upon this rock....”
+
+This is clearly the Roman response to what is implied by the phrase: “because it is the new Rome,” i.e. that just as Constantinople has its ecclesiastical status as a result of its being now the capital city of the Roman Empire, so the ecclesiastical status of old Rome is likewise to be attributed to its having been the original capital city of the Empire.
+
+<!-- --- -->
+
+> The first see of the apostle Peter is therefore the Roman church... But the second see was consecrated at Alexandria, in the name of blessed Peter, by his disciple Mark the evangelist... And the third see of the most blessed apostle Peter is Antioch, which is held in honor because he lived there...
+
+This is the Roman response to the claim that because it is the new Rome, that is, because of the civil status of Constantinople as the imperial city, the church of Constantinople ranks first among the churches of the East. Here, probably for the first time, a Petrine apostolic foundation is attributed not only to Rome, but to Alexandria and Antioch as well, and is given as the reason for the latter two having been recognized by canon 6 of Nicaea as the principal churches of the East. The unspoken point is that Constantinople has no apostolic foundation to justify its being the first church in the East.
+
+{{% /quote %}}
+
+<!-- --- -->
+
+Of course, Rome also had a very negative response to canon 28 from the [Council of Chalcedon](https://en.wikipedia.org/wiki/Council_of_Chalcedon) (451 A.D.), which read something like:
+
+> The bishop of New Rome (Constantinople) shall enjoy the same privileges as the bishop of Old Rome, on account of the removal of the Empire. For this reason the [metropolitans] of Pontus, of Asia, and of Thrace, as well as the Barbarian bishops shall be ordained by the bishop of Constantinople.
+
+We could get into additional primary sources in later centuries showing more of the same, but the main point is that many, many hundreds of years before the Great Schism, there were already marked differences in how the East and West approached church authority.
+
+{{% /note %}}
+
+<!-- --- -->
+
+From the Eastern perspective, the Bishop of Rome was part of their band of brothers; even if he acted as "first chair" (so to speak), he was still "just another patriarch" (in the same way there were also patriarchs for Constantinople, Alexandria, Antioch, etc.). But the West saw the pope as being fundamentally above the other patriarchs. Rather obviously, these two ways of looking at church authority are fundamentally incompatible with one another.
+
+It is really no exaggeration to say that this difference here is behind the majority of serious divisions between the church in the East and the church in the West throughout history. That is, the question of "Is the bishop of Rome more or less just another bishop, or does his word carry extra special authority?" is really the disagreement that underpins most others. Are the pope's words binding for the other patriarchs, or is he subject to the will of the others as a whole if they are unified against him?
+
+<!-- --- -->
+
+A number of other fights between East and West sometimes get floated as the cause of the Great Schism (or at least the beginning of the cause of the Great Schism). The problem with viewing these fights as primarily responsible for the Great Schism is often they happened centuries before the Great Schism, making their connection a bit less than direct, even if one is being charitable.
+
+But the question of how the Bishop of Rome relates to the Eastern Church (and vice versa) is just as present in the 11th century as in prior centuries, and in fact, one might argue that the disagreement has at this point been brought front and center more than ever before. And so this matter of the pope being unwilling to succumb or bow to the will or pressure from the patriarchs of the East is a much more obvious cause of the Great Schism than these other things.
+
+As we shall see, disagreements on the surface might have been about various theological points, but at the end of the day, what made them fundamentally irreconcilable tended to be this issue of East and West having very different views on church authority.
 
 <!-- --- -->
 
@@ -236,7 +432,7 @@ End:
 
 <!-- --- -->
 
-### Ego-based reasons for the schism {#ego-based-reasons-for-the-schism}
+### People in power reasons for the schism {#ego-based-reasons-for-the-schism}
 
 #### Video clip from Ryan Reeves {#video-clip-from-ryan-reeves}
 
