@@ -64,9 +64,9 @@ Then I read this study. This is one of the first things on Ichthys I read all th
 
 #### Plato's Allegory of the Cave {#introduction-to-sr4-satan-s-world-system-plato-s-allegory-of-the-cave}
 
-{{< properties >}}
+{{< properties
 stags="Truth > Plato's allegory of the cave"
-{{< /properties >}}
+>}}
 
 In his [Allegory of the Cave](https://en.wikipedia.org/wiki/Allegory_of_the_cave) (*Republic* 514a-520a), the Ancient Greek philosopher Plato speaks of an allegory for life: humans chained to face a wall where illusions of shadow play before their eyes. This is all they know, so they think it is how the world actually works.
 
@@ -781,9 +781,9 @@ This lesson we first go over why the title of the introduction to SR4 mentions S
 
 #### The Introduction's title: Satan's rebellion and fall {#like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devil-s-realm-the-introduction-s-title-satan-s-rebellion-and-fall}
 
-{{< properties >}}
+{{< properties
 Satan's rebellion > Is the backdrop of all creature history"
-{{< /properties >}}
+>}}
 
 The introduction section of our present study, though not dealing explicitly with the topic of Satan's rebellion and fall, nonetheless shares the title, as do several other introduction sections in the series.
 
@@ -805,9 +805,9 @@ We will periodically turn time and again to this wider context -- the echoes of 
 
 #### The actual introduction: Adam and Eve, and us {#like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devil-s-realm-the-actual-introduction-adam-and-eve-and-us}
 
-{{< properties >}}
+{{< properties
 stags="Adam and Eve"
-{{< /properties >}}
+>}}
 
 Well, we got all that from the title of the introductory section... but what of its content?
 
@@ -823,9 +823,9 @@ Dr. Luginbill opens up this present study (SR4 specifically) with some initial f
 
 ##### The contrast between pre-fall paradise and post-fall realities {#like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devil-s-realm-the-contrast-between-pre-fall-paradise-and-post-fall-realities}
 
-{{< properties >}}
+{{< properties
 stags="Fall > Effects on mankind"
-{{< /properties >}}
+>}}
 
 The world that Adam and Eve entered after their expulsion from the garden of Eden could not have been more different from the perfect environment they had so recently taken for granted.
 
@@ -842,9 +842,9 @@ And finally, in crowning futility, when they had lived out their now-finite year
 
 ##### God's promise of deliverance {#like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devil-s-realm-god-s-promise-of-deliverance}
 
-{{< properties >}}
+{{< properties
 stags="Protoevangelium"
-{{< /properties >}}
+>}}
 
 But God did not leave them orphans on the earth, completely bereft of all hope and of Himself.
 
@@ -1746,9 +1746,9 @@ TODO: Summary
 
 #### The fallen world {#purpose-in-this-dark-world-only-comes-by-faith-which-makes-us-outcasts-here-but-chosen-by-god-the-fallen-world}
 
-{{< properties >}}
+{{< properties
 stags="Eden > Contrasted with this present world"
-{{< /properties >}}
+>}}
 
 
 Though no doubt relieved that the Lord God had not visited upon them a swift and fiery judgment, Adam and Eve would have been anything but comforted by the harsh realities of the new world east of Eden into which they were forced following their eviction from the garden. This, assuredly, was no paradise.
@@ -1767,9 +1767,9 @@ Nonetheless, despite the fact that familiarity tends to inure one to hardships, 
 
 #### The darkness all around us in the world {#purpose-in-this-dark-world-only-comes-by-faith-which-makes-us-outcasts-here-but-chosen-by-god-the-darkness-all-around-us-in-the-world}
 
-{{< properties >}}
+{{< properties
 stags="World > Fallen state of"
-{{< /properties >}}
+>}}
 
 That Satan's world of deep unhappiness is essentially corrupt is a truism evident at life's every turn. Everything decays. Nothing good lasts. Sin and evil are ubiquitous.
 
@@ -1781,9 +1781,9 @@ On top of all this, not too far down the road in every individual life lies the 
 
 #### True meaning in this life only comes through faith {#purpose-in-this-dark-world-only-comes-by-faith-which-makes-us-outcasts-here-but-chosen-by-god-true-meaning-in-this-life-only-comes-through-faith}
 
-{{< properties >}}
+{{< properties
 stags="Meaning in life > Only comes through faith"
-{{< /properties >}}
+>}}
 
 Only by our faith can we live with purpose:
 
@@ -1799,9 +1799,9 @@ Until that time, we wait for something better as homeless wanderers in a world w
 
 #### Though strangers and outcasts in this world, our faith marks us out as God's chosen people {#purpose-in-this-dark-world-only-comes-by-faith-which-makes-us-outcasts-here-but-chosen-by-god-though-strangers-and-outcasts-in-this-world-our-faith-marks-us-out-as-god-s-chosen-people}
 
-{{< properties >}}
+{{< properties
 stags="In the world, but not of the world"
-{{< /properties >}}
+>}}
 
 But by our faith and the actions that faith produces, we show the world that we are not of it, do not love it, and acknowledge that we have no true part in it -- except for the God who is the focus and the object of our love all the days of our sojourning here in the devil's inhospitable desert (cf. 1 Chronicles 29:15; Psalm 23:1-6; 39:12; 63:1; 84:5-7; 119:19; Hebrews 11:37-38; 11:13-16; 13:13-14; 1 Peter 1:1; 2:11).
 

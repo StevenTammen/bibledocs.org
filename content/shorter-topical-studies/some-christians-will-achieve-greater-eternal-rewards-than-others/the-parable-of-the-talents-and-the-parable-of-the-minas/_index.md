@@ -91,9 +91,9 @@ The two parables are not exactly identical, but they do both teach this general 
 
 ### Tangential aside: On Bible versions that translate 'talent' with some actual dollar amount {#tangential-aside-on-bible-versions-that-translate-talent-with-some-actual-dollar-amount}
 
-{{< properties >}}
+{{< properties
 stags="Translation > Is always an imperfect process"
-{{< /properties >}}
+>}}
 
 The NIrV, a Bible version intentionally written at low level of writing (somewhere around where a third-grader can read) translates 'talent' as the actual dollar amount of $2,000.
 
@@ -162,9 +162,9 @@ The point of all this discussion is not necessarily to condemn translations that
 
 ### Interpreting the parable of the talents and the parable of the minas {#interpreting-the-parable-of-the-talents-and-the-parable-of-the-minas}
 
-{{< properties >}}
+{{< properties
 stags="Parables > Parable of the talents | Parables > Parable of the minas"
-{{< /properties >}}
+>}}
 
 While these two parables are not identical in all the particulars, they teach more or less the same thing. When interpreting a parable, an important first step is identifying exactly what things in the parable stand for/represent. With this in mind:
 

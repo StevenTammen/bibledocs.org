@@ -76,9 +76,9 @@ I'm going to go piece by piece. This got rather long, but hopefully it will hit 
 
 ##### First of all, the Lazarus of Luke 16 is not the same Lazarus as John 11 {#lazarus-and-jairus-daughter-are-they-sleeping-or-dead-first-of-all-the-lazarus-of-luke-16-is-not-the-same-lazarus-as-john-11}
 
-{{< properties >}}
+{{< properties
 stags="Interpretation > Challenges > Different people in the Bible can have the same name | Parables > How do you know if something is a parable or actually happened?"
-{{< /properties >}}
+>}}
 <!-- p="Luke 16:19-31" -->
 
 Let's start with one of the easier things to address. Just like today, in antiquity, plenty of people shared names. So it is that we have:
@@ -118,9 +118,9 @@ Jesus most certainly does not say that it is a parable, although that is His pra
 
 ##### Jesus' describing Lazarus as "sleeping" in John 11 {#lazarus-and-jairus-daughter-are-they-sleeping-or-dead-jesus-describing-lazarus-as-sleeping-in-john-11}
 
-{{< properties >}}
+{{< properties
 stags="Sleep > As a euphimism for death | Interpretation > Challenges > Different cultures use different idioms, metaphors, and so on | Interpretation > Sensitivity to the cultural context of the audience to whom the text was written | Euphimism > Use in scripture"
-{{< /properties >}}
+>}}
 <!-- p="John 11" -->
 
 It is very clear from John 11 that Lazarus was dead; unlike in the Matthew 9 passage (which we will get to in a moment), there can be no doubt whatsoever here on the part of anyone. For in John 11:17, we hear that Lazarus had already been entombed for four days before Jesus arrived in Bethany.
@@ -151,9 +151,9 @@ And when we do that, hopefully it becomes clear why Jesus' words here are no con
 
 ##### Jesus' describing Jairus' daughter as "sleeping" in Matthew 9 {#lazarus-and-jairus-daughter-are-they-sleeping-or-dead-jesus-describing-jairus-daughter-as-sleeping-in-matthew-9}
 
-{{< properties >}}
+{{< properties
 stags="Interpretation > Sensitivity to the cultural context of the audience to whom the text was written"
-{{< /properties >}}
+>}}
 <!-- p="Matthew 9:18-26" -->
 
 This passage appears across the Synoptic gospels: Matthew 9:18-26; Mark 5:21-43; Luke 8:40-56. It can often be helpful to read all the gospels in parallel to see how the same events are described by the different writers.
@@ -175,9 +175,9 @@ So this is the "setting of the scene" for this passage here in Matthew.
 
 ###### It is not a euphemism this time, but something completely different {#lazarus-and-jairus-daughter-are-they-sleeping-or-dead-it-is-not-a-euphemism-this-time-but-something-completely-different}
 
-{{< properties >}}
+{{< properties
 stags="Interpretation > NT Principles > "Jesus' time had not yet come" | Jesus > Intentionally avoided celebrity | Interpretation > Inferences have their place when they only go so far as the evidence allows"
-{{< /properties >}}
+>}}
 <!-- p="Mark 1:40-45; Matthew 9:30; Matthew 12:16; Luke 7:11-17; Exodus 1:15-22; Hebrews 11:31; James 2:25" -->
 
 It might be tempting to think Jesus was merely using sleep as a euphemism for death here too (just like in John 11), but there are some issues with taking that approach:
@@ -219,9 +219,9 @@ If you want to read additional support for the interpretation I put forth, you m
 
 ##### What of Hebrews 9:27? {#lazarus-and-jairus-daughter-are-they-sleeping-or-dead-what-of-hebrews-9-27}
 
-{{< properties >}}
+{{< properties
 stags="Interpretation > Apparent contradictions > Hebrews 9:27 says people can only die once, but resuscitated people die twice | Resuscitation > Is different from resurrection"
-{{< /properties >}}
+>}}
 <!-- p="Hebrews 9:27; Matthew 27:50-53; Revelation 11:3-10" -->
 
 If Hebrews 9:27 says that people die once, then what of Lazarus and Jairus' daughter? Aren't they dying twice?
@@ -871,9 +871,9 @@ Bob L.
 
 ## [Does Jesus' Use of the Sleeping Terminology Have Anything to Do with Resuscitation?](/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/does-jesus-use-of-the-sleeping-terminology-have-anything-to-do-with-resuscitation) {#does-jesus-use-of-the-sleeping-terminology-have-anything-to-do-with-resuscitation}
 
-{{< properties >}}
+{{< properties
 Sleep > As a euphemism for death > Does not necessarily point to eventual resuscitation"
-{{< /properties >}}
+>}}
 
 
 
@@ -948,9 +948,9 @@ We also ought to note that there are places where sleeping is mentioned alongsid
 
 #### More explanation about how sleeping and death are tightly linguistically coupled {#does-jesus-use-of-the-sleeping-terminology-have-anything-to-do-with-resuscitation-more-explanation-about-how-sleeping-and-death-are-tightly-linguistically-coupled}
 
-{{< properties >}}
+{{< properties
 stags="Interpretation > Semantic overloading - words with unique connotations stemming from multiple meanings"
-{{< /properties >}}
+>}}
 <!-- p="Jeremiah 51:39; Jeremiah 51:57; Job 14:12; Daniel 12:2" -->
 
 The verb for raising someone from death is the same as awakening/rousing someone from sleep in both Hebrew and Greek—see Hebrew's *qutz* ([קוּץ](https://www.blueletterbible.org/lexicon/h6974/esv/wlc/0-1/)) and Greek's *egeiro* ([ἐγείρω](https://www.blueletterbible.org/lexicon/g1453/esv/mgnt/0-1/)), and the relevant concordance entries for this type of usage (that is, when the verbs are being used of death not sleep).
@@ -1234,9 +1234,9 @@ How does the concept of resuscitation affect the afterlife? Like where did Lazar
 
 #### On the nature and composition of human beings {#how-does-the-concept-of-resuscitation-affect-the-afterlife-on-the-nature-and-composition-of-human-beings}
 
-{{< properties >}}
+{{< properties
 stags="Human beings > Are dichtomous, composed of flesh and spirit | Human beings > Are not trichotomous (we do not *have* souls, but *are* souls) | Soul > Is the combination of flesh and spirit"
-{{< /properties >}}
+>}}
 
 Human beings are "dichotomous"---composed of two distinct parts. Those two parts are the body, and the spirit. There is no "third thing" (what they call in Latin *tertium quid*), even though this point is widely misunderstood, such that people often think that the concept of "soul" is distinct from body and spirit.
 
@@ -1257,9 +1257,9 @@ At any rate, the point is that humans are made up of body and spirit (two things
 
 #### Types of death {#how-does-the-concept-of-resuscitation-affect-the-afterlife-types-of-death}
 
-{{< properties >}}
+{{< properties
 stags="Death > Types of"
-{{< /properties >}}
+>}}
 <!-- p="Genesis 3:4; Genesis 3:21" -->
 
 There are three "types of death" that human beings can experience:
@@ -1276,9 +1276,9 @@ Our present topic is focused upon the first type of death: physical death.
 
 #### Defining terms: physical death means someone's human spirit departs their physical body {#how-does-the-concept-of-resuscitation-affect-the-afterlife-defining-terms-physical-death-means-someone-s-human-spirit-departs-their-physical-body}
 
-{{< properties >}}
+{{< properties
 stags="Death > Physical death is when someone's human spirit departs their physical body | Interpretation > Semantic overloading - words with unique connotations stemming from multiple meanings"
-{{< /properties >}}
+>}}
 
 When someone dies physically, their human spirit leaves their physical body; they cease breathing. Wording things that way is in fact precisely the proper way to think about it since in both Hebrew (*ruach*, [רוּחַ](https://biblehub.com/hebrew/7307.htm)) and Greek (*pneuma*, [πνεῦμα](https://biblehub.com/greek/4151.htm)), the exact same word is used for both spirit and breath. That is to say, the human spirit is present when breath is present, and not when not.
 
@@ -1290,9 +1290,9 @@ Regardless, the key takeaway point is that physical death is the removal of some
 
 #### What happens after that? {#how-does-the-concept-of-resuscitation-affect-the-afterlife-what-happens-after-that}
 
-{{< properties >}}
+{{< properties
 stags="Death > What happens after physical death"
-{{< /properties >}}
+>}}
 
 Finally, after all that groundwork, we are ready to start addressing the main thrust of the question. Put simply, what happens after physical death, and are things any different in the case of a person who will be resuscitated?
 
@@ -1302,9 +1302,9 @@ Let's start with the "normal" case, and explain the general mechanics of things.
 
 ##### Before Christ's ascension vs. after Christ's ascension vs. in eternity proper {#how-does-the-concept-of-resuscitation-affect-the-afterlife-before-christ-s-ascension-vs-after-christ-s-ascension-vs-in-eternity-proper}
 
-{{< properties >}}
+{{< properties
 stags="Death > Locations of believers and unbelievers after physical death"
-{{< /properties >}}
+>}}
 
 Discussing what happens after physical death for humans is complicated by the fact that it has not been constant throughout human history, and where/how we will spend eternity with God in the New Heavens and New Earth is yet again different.
 
@@ -1314,9 +1314,9 @@ Since some of these topics are ultimately a bit tangential to the present matter
 
 ###### "Heavenly geography" {#how-does-the-concept-of-resuscitation-affect-the-afterlife-heavenly-geography}
 
-{{< properties >}}
+{{< properties
 stags="Heavenly geography"
-{{< /properties >}}
+>}}
 <!-- p="2 Peter 2:4; Jude 1:6" -->
 
 My mentor created a picture to describe what can be termed "heavenly geography":
@@ -1343,9 +1343,9 @@ I should note that in English, we tend to be a bit loose with how we use the wor
 
 ###### Before Christ's ascension {#how-does-the-concept-of-resuscitation-affect-the-afterlife-before-christ-s-ascension}
 
-{{< properties >}}
+{{< properties
 stags="Death > Locations of believers and unbelievers after physical death > Changed after Christ's ascension"
-{{< /properties >}}
+>}}
 <!-- p="Ephesians 4:7-10; Luke 16:19-31" -->
 
 Before the [events described in Ephesians 4:7-10](https://ichthys.com/4A-Christo.htm#3%29_The_Transfer_of_Believers_from_the_Subterranean_Paradise_to_the_Third_Heaven) (Christ's ascension), pre-cross believers went to Hades, into the part of it known as "Abraham's Bosom". This is where Lazarus and Abraham are in Luke 16:19-31. As we mentioned before, Hades contains multiple subdivisions, including Abraham's Bosom and another section (called "Torments") where unbelieving humans go after death. The two sections are separated by a great chasm, such that nobody can cross between the two sections. (This is what Luke 16:26 is getting at).
@@ -1356,9 +1356,9 @@ Abraham's Bosom, though separate from the presence of the Father, was not some n
 
 ###### After Christ's ascension {#how-does-the-concept-of-resuscitation-affect-the-afterlife-after-christ-s-ascension}
 
-{{< properties >}}
+{{< properties
 stags="Death > Locations of believers and unbelievers after physical death > Changed after Christ's ascension"
-{{< /properties >}}
+>}}
 <!-- p="Ephesians 4:7-10" -->
 
 After the [events described in Ephesians 4:7-10](https://ichthys.com/4A-Christo.htm#3%29_The_Transfer_of_Believers_from_the_Subterranean_Paradise_to_the_Third_Heaven) (Christ's ascension), all of those who were previously in Abraham's Bosom were led by Christ into the presence of the Father in the Third Heaven. This is the victory Christ won for us on the cross: the veil of separation between us and God was completely and utterly split. When the Father accepted Christ's payment for our sins, death was defeated, and God now sees believing humans only through the blood of Christ. Therefore, since then, when believers die, they join all of our previously-departed brothers and sisters in the Third Heaven, where our ancient forebears were led after Christ's ascension.
@@ -1369,9 +1369,9 @@ Unbelievers still go to Torments in Hades, however. That part has stayed consist
 
 ###### In eternity proper {#how-does-the-concept-of-resuscitation-affect-the-afterlife-in-eternity-proper}
 
-{{< properties >}}
+{{< properties
 stags="Death > Locations of believers and unbelievers after physical death > Are different in eternity"
-{{< /properties >}}
+>}}
 <!-- p="Psalm 102:26; Isaiah 13:13; Isaiah 34:4; Isaiah 51:6; Matthew 24:35; Revelation 6:14; Revelation 20:11" -->
 
 There is described in Revelation a period of 1,000 literal years known as the Millennium, wherein Christ will rule from Jerusalem in this present creation. It will be a time of overflowing peace and prosperity like no other time before.
@@ -1384,9 +1384,9 @@ That is the eternal state of believers and elect angels. By way of contrast, unb
 
 ##### Wait, is it just human spirits in these places? But what about resurrection bodies? {#how-does-the-concept-of-resuscitation-affect-the-afterlife-wait-is-it-just-human-spirits-in-these-places-but-what-about-resurrection-bodies}
 
-{{< properties >}}
+{{< properties
 stags="Heaven > Is upon the surface of the Earth in eternity, not up in the clouds | Resurrection > Bodies obtained after resurrection"
-{{< /properties >}}
+>}}
 <!-- p="1 John 3:2; Corinthians 15:35-58" -->
 
 Unfortunately, a lot of "pop culture" representations of heaven involve pearly gates, clouds, floating gold streets, and what have you—things that make it seem somehow floaty and ephemeral rather than physical. This is not compatible with the Bible's descriptions of the afterlife.
@@ -1399,9 +1399,9 @@ So what about before the resurrection, we might ask? Did the people in Abraham's
 
 ###### Interim bodies {#how-does-the-concept-of-resuscitation-affect-the-afterlife-interim-bodies}
 
-{{< properties >}}
+{{< properties
 stags="Interim bodies > Bodies obtained after physical death but before resurrection | Interpretation > Inferences have their place when they only go so far as the evidence allows | Textual criticism > Places where it matters > 1 Corinthians 5:3"
-{{< /properties >}}
+>}}
 <!-- p="Luke 16:24; 1 Corinthians 15:44; 2 Corinthians 5:1-4; Revelation 6:11; Revelation 7:9" -->
 
 The answer to these questions is yes—people in the afterlife (even before the resurrection) have bodies too. Recall at the beginning of today's video how we talked about the composition of humans—how we are composed of body and spirit. How could humans exist as only spirit? It is simply not how God has made us, ontologically speaking.
@@ -1434,9 +1434,9 @@ We have very little to go on when it comes to the constitution of the interim bo
 
 ##### So answering that question of "what happens after physical death, in the normal case?" {#how-does-the-concept-of-resuscitation-affect-the-afterlife-so-answering-that-question-of-what-happens-after-physical-death-in-the-normal-case}
 
-{{< properties >}}
+{{< properties
 stags="Death > What happens after physical death > Believers"
-{{< /properties >}}
+>}}
 
 Assuming we are talking about a believer:
 
@@ -1449,9 +1449,9 @@ And then after the resurrection, each person shall possess a resurrection body, 
 
 #### And what about for those who are resuscitated? {#how-does-the-concept-of-resuscitation-affect-the-afterlife-and-what-about-for-those-who-are-resuscitated}
 
-{{< properties >}}
+{{< properties
 stags="Death > What happens after physical death > For those who were resuscitated"
-{{< /properties >}}
+>}}
 
 Put simply, matters of the afterlife are no different when it comes to those people who are resuscitated, except they go backwards from the interim body state to the physical world in addition to the normal forward version of that passage, whereas others only ever make that transition in the forwards direction alone. Once they make the transition the second time (i.e., die for the second time after being resuscitated), it is as if there were nothing irregular about their afterlife experience at all.
 
@@ -2197,9 +2197,9 @@ So how does the concept of resuscitation affect the finality of death? It seems 
 
 #### Luke 16 - on the chasm of separation {#could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death-luke-16-on-the-chasm-of-separation}
 
-{{< properties >}}
+{{< properties
 stags="Heavenly geography > Subdivisions of Hades | Afterlife > Boundaries between the living and the dead as a literary theme"
-{{< /properties >}}
+>}}
 <!-- p="Luke 16:19-31; 1 Corinthians 15:16-19; Matthew 19:26" -->
 
 See our [previous video](TODO) for more on "heavenly geography", and the subdivisions of Hades.
@@ -2224,9 +2224,9 @@ That's not meant to be a rebuke or anything, by the way. We just need to be sure
 
 #### Hebrews 9:27 - Perhaps speaking in terms of "types of death" was a poor choice on my part {#could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death-hebrews-9-27-perhaps-speaking-in-terms-of-types-of-death-was-a-poor-choice-on-my-part}
 
-{{< properties >}}
+{{< properties
 stags="Death > Cannot be avoided by anyone"
-{{< /properties >}}
+>}}
 <!-- p="Hebrews 9:27; Luke 8:42" -->
 
 I'm afraid in the prior video [when I discussed Hebrews 9:27](), I was not as clear I should have been. I spoke in terms of of a type of death leading to resuscitation, and a type of death leading to resurrection/judgment. I argued that Hebrews 9:27 is referring to the second kind and not the first kind, and that while human beings cannot know the difference between the two states (that is, whether someone who has died will come back or not), God does, based upon his perfect foreknowledge and foreordination of everything.
@@ -2247,9 +2247,9 @@ This will be a bit detailed and technical, which is sort of why I hadn't done th
 
 ##### Hebrew 9:27's wider context {#could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death-hebrew-9-27-s-wider-context}
 
-{{< properties >}}
+{{< properties
 stags="Tabernacle > Contrast between earthly and heavenly | Blood > Use in ratification of covenants"
-{{< /properties >}}
+>}}
 <!-- p="Hebrews 9" -->
 
 Leaving aside a wider thematic analysis of the entire book of Hebrews (although see [here](https://ichthys.com/Hebrews-Home-Page.htm)), chapter 9 specifically of Hebrews can be broken down as follows:
@@ -2264,9 +2264,9 @@ Hebrews 9:25-28 makes it clear that unlike the prior ritual sacrifices that had 
 
 ##### The Greek adverb *hapax* {#could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death-the-greek-adverb-hapax}
 
-{{< properties >}}
+{{< properties
 stags="Interpretation > Context often directly limits how words can be translated"
-{{< /properties >}}
+>}}
 <!-- p="2 Corinthians 11:25; Jude 1:3" -->
 
 To better explain the "once" in Hebrews 9:27---part of the wider statement "people are destined to die once"---we will primarily be focusing in on the last few verses of the chapter (Hebrews 9:25-28), and even more specifically, the usage of the Greek adverb *hapax* ([ἅπαξ](https://www.blueletterbible.org/lexicon/g530/esv/mgnt/0-1/)), which is the Greek word that many versions translate as "once" here.
@@ -2306,9 +2306,9 @@ This means the *hapax* of Hebrews 9:27 is set directly parallel with the "once f
 
 ###### The importance of the "once for all" concept as it pertains to Christ's work completely forces our hand in translating Hebrews 9:26, 28 {#could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death-the-importance-of-the-once-for-all-concept-as-it-pertains-to-christ-s-work-completely-forces-our-hand-in-translating-hebrews-9-26-28}
 
-{{< properties >}}
+{{< properties
 stags="Interpretation > NT Principles > "Once for all""
-{{< /properties >}}
+>}}
 <!-- p="1 Peter 3:18; Romans 6:10; Hebrews 7:27; Hebrews 9:12; Hebrews 10:10" -->
 
 This latter part of Hebrews 9 is not the only place the finality and completeness of Christ's work is clearly emphasized in scripture. For example, see:
@@ -2334,9 +2334,9 @@ And if the *hapax* Hebrews 9:28 must be translated as "once for all", then so to
 
 ###### So Hebrews 9:27 does not contradict the idea of resuscitation, QED {#could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death-so-hebrews-9-27-does-not-contradict-the-idea-of-resuscitation-qed}
 
-{{< properties >}}
+{{< properties
 stags="Interpretation > Apparent contradictions > Hebrews 9:27 says people can only die once, but resuscitated people die twice"
-{{< /properties >}}
+>}}
 
 The reason why all this is important is as follows:
 

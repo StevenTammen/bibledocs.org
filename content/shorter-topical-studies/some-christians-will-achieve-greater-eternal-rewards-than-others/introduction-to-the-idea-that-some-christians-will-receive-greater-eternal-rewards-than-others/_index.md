@@ -8,9 +8,9 @@ Even though most people don't have issues decorating only certain particularly w
 
 <!--more-->
 
-{{< properties >}}
+{{< properties
 stags="Eternal rewards > Not all people will receive the same amount"
-{{< /properties >}}
+>}}
 
 {{% section-navigation %}}
 
@@ -50,9 +50,9 @@ Every day people give honor to distinguished service and scorn laziness. The ide
 
 ### However, when the rewards in question are eternal, people seem to be a bit more skittish {#however-when-the-rewards-in-question-are-eternal-people-seem-to-be-a-bit-more-skittish}
 
-{{< properties >}}
+{{< properties
 stags="Eternal rewards > People's hesitancy regarding"
-{{< /properties >}}
+>}}
 
 However, some people seem to have a problem when the rewards in question are not physical rewards in this temporary world of ours, but eternal spiritual rewards. There are several reasons why people might take issue:
 
@@ -66,9 +66,9 @@ Whatever the reasons, this idea of different levels of eternal reward for differ
 
 ### Some general passages dealing with differing levels of eternal reward {#some-general-passages-dealing-with-differing-levels-of-eternal-reward}
 
-{{< properties >}}
+{{< properties
 stags="Eternal rewards > Scripture about"
-{{< /properties >}}
+>}}
 
 Scripture is quite clear that upon Christ’s return, judgement will be rendered as to the works of men. For example:
 

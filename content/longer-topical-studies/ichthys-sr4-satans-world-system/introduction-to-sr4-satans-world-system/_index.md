@@ -59,9 +59,9 @@ Then I read this study. This is one of the first things on Ichthys I read all th
 
 ### Plato's Allegory of the Cave {#plato-s-allegory-of-the-cave}
 
-{{< properties >}}
+{{< properties
 stags="Truth > Plato's allegory of the cave"
-{{< /properties >}}
+>}}
 
 In his [Allegory of the Cave](https://en.wikipedia.org/wiki/Allegory_of_the_cave) (*Republic* 514a-520a), the Ancient Greek philosopher Plato speaks of an allegory for life: humans chained to face a wall where illusions of shadow play before their eyes. This is all they know, so they think it is how the world actually works.
 

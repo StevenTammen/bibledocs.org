@@ -40,9 +40,9 @@ This lesson spends time focusing on a single thing: refuting the idea that it mu
 
 ### There could never be a harlot in the line of Jesus Christ! How heretical! {#there-could-never-be-a-harlot-in-the-line-of-jesus-christ-how-heretical}
 
-{{< properties >}}
+{{< properties
 stags="Legalism > Counterexamples > A prostitute is in the line of Christ"
-{{< /properties >}}
+>}}
 
 [**Post hoc note**: if any wording here rubs you the wrong way, you can jump ahead a little bit to the standalone purple post hoc section, where I go through these women in the genealogy in more depth].
 
@@ -64,9 +64,9 @@ In fact, one might go so far as to say that the onus is on those who want to mak
 
 ### More on the women in the genealogy of Christ {#more-on-the-women-in-the-genealogy-of-christ}
 
-{{< properties >}}
+{{< properties
 stags="Genealogy of Christ > Women in the line of Christ"
-{{< /properties >}}
+>}}
 
 After hearing a sermon on these women in the genealogy of Christ that made me horribly nauseous on account of what amounted to women-bashing, I wish to spell out more specifics here to head off any misinterpretation of my words. (Which I now wish I had put somewhat differently; even though I never meant anything even close to women-bashing in what I wrote -- God forbid! -- I'm now more sensitive to the wording on this matter specifically, since it has become apparent to me that spelling it out is probably necessary to stop certain arrogant men from twisting things).
 
@@ -94,9 +94,9 @@ Sin is a human problem, not a woman problem. (Duh).
 
 ### But they were included in Matthew's genealogy specifically to showcase God's surpassing grace towards mankind {#but-they-were-included-in-matthew-s-genealogy-specifically-to-showcase-god-s-surpassing-grace-towards-mankind}
 
-{{< properties >}}
+{{< properties
 stags="Genealogy of Christ > Women in the line of Christ > Showcase God's surpassing grace"
-{{< /properties >}}
+>}}
 
 Even though the genealogies in Matthew 1 and Luke 3 trace bloodlines through the males, these women were included in Matthew's genealogy for a reason, and that is to showcase the surpassing grace of God. Other women could have been included -- the righteous wives of various men throughout the generations -- but that's not what God chose to emphasize. Instead, it is the women that would be the subject of gossip and slander -- the one who had twins by her older father-in-law, the one whose husband the king murdered to obtain, the one coming from a foreign land, the one who used to be a prostitute -- these are the women God saw fit to have Matthew mention.
 

@@ -49,9 +49,9 @@ In this lesson, we go over how the Trinity can be a tricky concept to understand
 
 ### Review {#review}
 
-{{< properties >}}
+{{< properties
 stags="Trinity > Definition"
-{{< /properties >}}
+>}}
 
 The definition of the Trinity which best does justice to the biblical statements on the subject is the one we have previously stated, namely, that *God is **one** in essence and **three** in person*. We get an even clearer picture of what the Bible has to say about the Trinity when we combine this traditional definition with the four corollaries we've just gone through:
 
@@ -64,9 +64,9 @@ The definition of the Trinity which best does justice to the biblical statements
 
 ### The Trinity can be hard to explain properly {#the-trinity-can-be-hard-to-explain-properly}
 
-{{< properties >}}
+{{< properties
 stags="Limited human perspective > Makes some teachings hard to understand"
-{{< /properties >}}
+>}}
 
 As can be seen from the numerous heresies (touched on some in our previous lessons) that have sprung up to challenge orthodox statements about the Trinity, the doctrine can be a difficult one to state in a proper, biblical way. This is especially true the further any definition of the Trinity moves away from actual statements contained in the Bible (which, as we have already stated, were felt to be sufficient by the Apostles and Apostolic Fathers).
 
@@ -76,9 +76,9 @@ It should be noted here that even the terms "essence" and "person" were felt by 
 
 ### So keeping the focus on the Bible is necessary {#so-keeping-the-focus-on-the-bible-is-necessary}
 
-{{< properties >}}
+{{< properties
 stags="Philosophy > Perils of getting off in the weeds | Central doctrines to the Christian faith > Satan attacks more fiercely"
-{{< /properties >}}
+>}}
 
 The lesson here is that rationalistic speculation—always dangerous when expounding the Bible—is even more to be avoided in the case of the Trinity, a doctrine that was only fully revealed with the arrival of the New Testament. What God *has* chosen to reveal about this doctrine, He has revealed carefully and gradually. We will cover the subject of the Trinity in the Old Testament more fully in future lessons, but it may be said here that a large part of the reason for this guarded revelation of the doctrine (beyond our human limitations in comprehending it) may be the all too obvious fact (see our prior discussions) that *wrong* ideas about the nature of the Trinity have historically posed such a dire threat to the entire basis of our Christian faith.
 
@@ -92,9 +92,9 @@ In His loving wisdom, God has told us what we most need to know without giving u
 
 #### Is Jesus "the Father's seed"? Is the Holy Spirit "the Father's spirit"? {#is-jesus-the-father-s-seed-is-the-holy-spirit-the-father-s-spirit}
 
-{{< properties >}}
+{{< properties
 stags="Incarnation > It is only Jesus' human nature that was created/begotten | Trinity > All members share the same essence"
-{{< /properties >}}
+>}}
 
 {{% video-only-note %}}
 

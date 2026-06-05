@@ -13,9 +13,9 @@ Respecting and obeying parents... every teenager's favorite practices! All human
 
 ## [Scripture Is Clear That We Are to Honor and Obey Our Parents](/questions-and-answers/self-generated/on-honoring-and-obeying-parents/scripture-is-clear-that-we-are-to-honor-and-obey-our-parents) {#scripture-is-clear-that-we-are-to-honor-and-obey-our-parents}
 
-{{< properties >}}
+{{< properties
 stags="Parents > Honoring | Parents > Obeying"
-{{< /properties >}}
+>}}
 
 
 
@@ -53,9 +53,9 @@ So, I know one of the ten commandments is to honor my parents, but they drive me
 
 #### Some direct quotes from scripture: honoring parents {#scripture-is-clear-that-we-are-to-honor-and-obey-our-parents-some-direct-quotes-from-scripture-honoring-parents}
 
-{{< properties >}}
+{{< properties
 stags="Parents > Honoring > Scripture about"
-{{< /properties >}}
+>}}
 
 {{% ot t="esv" h="800px" p="Exodus 20:12 | Proverbs 1:8-9 | Proverbs 20:20 | Proverbs 23:22 | Proverbs 30:17" %}}
 
@@ -149,9 +149,9 @@ If anyone calls down a curse on his father or mother, he will be put to death. H
 
 #### Some direct quotes from scripture: obeying parents {#scripture-is-clear-that-we-are-to-honor-and-obey-our-parents-some-direct-quotes-from-scripture-obeying-parents}
 
-{{< properties >}}
+{{< properties
 stags="Parents > Obeying > Scripture about"
-{{< /properties >}}
+>}}
 
 Clearly, then, these things are not to be trivialized or taken lightly. In fact, it is more than just some vague notion of honor or respect that we are called to give our parents -- we are called to obey them:
 
@@ -231,9 +231,9 @@ Incidentally, those verses about government obedience above also give rise to a 
 
 #### Abuse {#however-if-our-parents-are-out-of-line-there-are-exceptions-abuse}
 
-{{< properties >}}
+{{< properties
 stags="Child abuse | Abuse > Child abuse"
-{{< /properties >}}
+>}}
 
 Christians are called to provide for those in their house (1 Timothy 5:8). If parents are so deficient as to not only not adequately provide for their children, but instead become abusive towards them (whether physically, emotionally, etc.), the relationship has already been severed.
 
@@ -249,9 +249,9 @@ Some people are best loved from a distance. Perhaps even with a restraining orde
 
 ##### Spousal abuse and divorce {#however-if-our-parents-are-out-of-line-there-are-exceptions-spousal-abuse-and-divorce}
 
-{{< properties >}}
+{{< properties
 stags="Spousal abuse | Abuse > Spousal abuse | Divorce > Abuse exception"
-{{< /properties >}}
+>}}
 
 The above holds true not just for children, but also for women who are victims of spousal abuse. The Bible may not directly mention domestic abuse as valid grounds for divorce as it does infidelity -- compare Matthew 19:9 -- but if women are already allowed to sever contact with husbands not willing to honor the marriage bed, it is inconceivable that God's Will is that women suffer years of terrible abuse at the hands of men worse than unbelievers, as 1 Timothy 5:8 puts it.
 
@@ -281,9 +281,9 @@ Not everything is so cut-and-dry as this though. There certainly are parents out
 
 ##### Should we step in if people aren't parenting how we would? {#however-if-our-parents-are-out-of-line-there-are-exceptions-should-we-step-in-if-people-aren-t-parenting-how-we-would}
 
-{{< properties >}}
+{{< properties
 stags="Meddling > Is not proper for Christians | Busybody behavior > Is not proper for Christians | Minding your own business"
-{{< /properties >}}
+>}}
 
 As long as what we perceive does not seem to cross the lines of actual abuse (i.e., that which would be reportable to the authorities), then it is not really for us as third parties to try and step in and meddle -- it's none of our business (compare 1 Thessalonians 4:11-12, 2 Thessalonians 3:11-13, Romans 14:4).
 
@@ -350,9 +350,9 @@ In the first lesson, we argued that the Bible clearly teaches that we need to ho
 
 #### Back to the main thrust of the question {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white-back-to-the-main-thrust-of-the-question}
 
-{{< properties >}}
+{{< properties
 stags="Application > Gray areas"
-{{< /properties >}}
+>}}
 
 So what of situations when our parents aren't really being abusive *per se*, but are also being a bit unreasonable (at least as it seems to us)? For example, what if our parents think it is their right to determine our career path, marriage partner, and even what we spend our independently-earned money on?
 
@@ -366,9 +366,9 @@ Note, however, that scripture is strong enough in its exhortations to obey our p
 
 #### Cultural context is important {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white-cultural-context-is-important}
 
-{{< properties >}}
+{{< properties
 stags="Application > Culture can be important | Culture > May be relevant in application"
-{{< /properties >}}
+>}}
 
 There are collectivist cultures in the world wherein it is normal for the leader of a family/clan (typically an older man) to decide the affairs of everyone in the group (children being just part of the collective).
 
@@ -413,9 +413,9 @@ As a rule of thumb, if put on the scale, God's Will for us outweighs parental pr
 
 ##### Career {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white-career}
 
-{{< properties >}}
+{{< properties
 stags="Parents > Disagreement with > Career"
-{{< /properties >}}
+>}}
 
 Parents generally want their kids to live a better life -- becoming doctors, lawyers, accountants, engineers, and so forth rather than blue-collar day-laborers like themselves (e.g.). One less-meddlesome approach parents can take is to just highly encourage education and self-discipline and leave their kids to work out the specifics.
 
@@ -427,9 +427,9 @@ Well, what does God want you to do? If the answer is "history professor," then h
 
 ##### Choice of significant other {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white-choice-of-significant-other}
 
-{{< properties >}}
+{{< properties
 stags="Parents > Disagreement with > Significant other"
-{{< /properties >}}
+>}}
 
 As with career, parents generally want the best for their kids. The issues typically arise when your parents don't think someone you like is good for you.
 
@@ -453,9 +453,9 @@ Usually things won't be so clear-cut. The main idea is to take your parents' opi
 
 ##### Choice of friends {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white-choice-of-friends}
 
-{{< properties >}}
+{{< properties
 stags="Parents > Disagreement with > Friends"
-{{< /properties >}}
+>}}
 
 Since friendships are much less set-in-stone than marriages, the stakes here are lower; however, many of the same considerations apply. Parents are naturally going to want to steer their children away from negative influences.
 
@@ -469,9 +469,9 @@ As you might have been able to guess, there is a middle road to be walked here a
 
 ##### Spiritual approach {#but-what-about-matters-that-tend-toward-gray-more-than-black-or-white-spiritual-approach}
 
-{{< properties >}}
+{{< properties
 stags="Parents > Disagreement with > Spiritual approach"
-{{< /properties >}}
+>}}
 
 Aside from the avoiding negative influence bit, there is with friends also the potential area of parental disagreement regarding how much spiritual dedication is expected among those we associate with, and of exactly what sort (i.e., do friends have to belong to the specific religious group or subgroup as your parents to gain their approval?).
 

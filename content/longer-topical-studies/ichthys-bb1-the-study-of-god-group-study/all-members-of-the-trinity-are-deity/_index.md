@@ -10,9 +10,9 @@ In this lesson we kick off a series of discussions we will be having about what 
 
 <!--more-->
 
-{{< properties >}}
+{{< properties
 stags="Trinity > All members are deity"
-{{< /properties >}}
+>}}
 
 {{% section-navigation %}}
 
@@ -67,9 +67,9 @@ We can better understand what the Trinity is by first considering what it is *no
 
 ### Key point: God is *one* in essence, but that does *not* mean that only one person of the Trinity is deity {#key-point-god-is-one-in-essence-but-that-does-not-mean-that-only-one-person-of-the-trinity-is-deity}
 
-{{< properties >}}
+{{< properties
 stags="Trinity > What it is not > Only one member possessing divinity"
-{{< /properties >}}
+>}}
 
 God is *three* in person, and all three persons of the Trinity (the Father, the Son, and the Holy Spirit) are divine. Heresies of the past which have challenged the divinity of members of the Trinity include adoptionism (asserting that Christ is the Son of God only in the sense of adoption), the Ebionite heresy (teaching that Christ had only a human nature empowered by God's Spirit), and Unitarianism (which asserts the uni-personality of God, denying the deity of Christ and the Holy Spirit).
 
@@ -81,9 +81,9 @@ But the Bible teaches that all three members of the Trinity are deity. Compare: 
 
 #### What does it mean for God to be Spirit, if the Holy Spirit is just one member of the Trinity? {#what-does-it-mean-for-god-to-be-spirit-if-the-holy-spirit-is-just-one-member-of-the-trinity}
 
-{{< properties >}}
+{{< properties
 stags="God > Is Spirit, but in a way different from the spirits of humans and angels"
-{{< /properties >}}
+>}}
 
 {{% video-only-note %}}
 
@@ -91,9 +91,9 @@ stags="God > Is Spirit, but in a way different from the spirits of humans and an
 
 #### Why wasn't the Spirit sent to indwell believers before He actually was (i.e., only after Christ's ascension)? {#why-wasn-t-the-spirit-sent-to-indwell-believers-before-he-actually-was-i-e-only-after-christ-s-ascension}
 
-{{< properties >}}
+{{< properties
 stags="Holy Spirit > Has always been present upon the Earth | Holy Spirit > Indwelling ministry of | Spiritual gifts > Given after Christ's ascension"
-{{< /properties >}}
+>}}
 
 {{% video-only-note %}}
 
@@ -101,9 +101,9 @@ stags="Holy Spirit > Has always been present upon the Earth | Holy Spirit > Indw
 
 #### Revelation 1:4 - What is going on with the mention of seven Spirits? {#revelation-1-4-what-is-going-on-with-the-mention-of-seven-spirits}
 
-{{< properties >}}
+{{< properties
 stags="Interpretation > Symbolism > Numbers"
-{{< /properties >}}
+>}}
 <!-- p="Zechariah 3:9; Zechariah 4:2; Zechariah 4:10; Revelation 1:4; Revelation 3:1; Revelation 4:5; Revelation 5:6" -->
 
 {{% video-only-note %}}
@@ -130,9 +130,9 @@ Finally, and perhaps decisively, Revelation 3:1 states: "These are the words of 
 
 #### What exactly does being baptized into God (becoming united with Him, as part of the body of Christ) actually mean? {#what-exactly-does-being-baptized-into-god-becoming-united-with-him-as-part-of-the-body-of-christ-actually-mean}
 
-{{< properties >}}
+{{< properties
 stags="Baptism > Is not of water, but is fundamentally spiritual in nature | Baptism > We are baptized *into* the person of the Trinity, spiritually"
-{{< /properties >}}
+>}}
 <!-- p="Matthew 28:19" -->
 
 {{% video-only-note %}}
@@ -141,9 +141,9 @@ stags="Baptism > Is not of water, but is fundamentally spiritual in nature | Bap
 
 #### The Father is God {#the-father-is-god}
 
-{{< properties >}}
+{{< properties
 stags="Trinity > Divinity > Father"
-{{< /properties >}}
+>}}
 
 See: Matt.6:9; 1Cor.8:6; Eph.3:14-15.
 
@@ -156,9 +156,9 @@ See: Matt.6:9; 1Cor.8:6; Eph.3:14-15.
 {{% video-only %}}
 
 ##### A deeper dive into the interpretation of Ephesians 3:14-15 {#a-deeper-dive-into-the-interpretation-of-ephesians-3-14-15}
-{{< properties >}}
+{{< properties
 stags="Family of God > Derives its name from the Father | Interpretation > Context often directly limits how words can be translated"
-{{< /properties >}}
+>}}
 <!-- p="Ephesians 3:14-15" -->
 
 {{% video-only-note %}}
@@ -169,9 +169,9 @@ Interpreting Ephesians 3:15 correctly depends upon translating the phrase πᾶ�
 
 #### The Son is God {#the-son-is-god}
 
-{{< properties >}}
+{{< properties
 stags="Trinity > Divinity > Son"
-{{< /properties >}}
+>}}
 
 See: Jn.5:18; 10:30; 10:33; Rom.9:5; 1Cor.8:6; Col.2:9; Heb.1:3.
 
@@ -183,9 +183,9 @@ The Word existed in the beginning: the Word was both present with the [Father] G
 
 #### The Holy Spirit is God {#the-holy-spirit-is-god}
 
-{{< properties >}}
+{{< properties
 stags="Trinity > Divinity > Holy Spirit"
-{{< /properties >}}
+>}}
 
 See: Gen.1:2; Ps.139:7; Acts 5:3-4; 1Cor.12:11; and compare Heb.3:7-11 with Ps.95:7-11 where the LORD is speaking.
 

@@ -10,9 +10,9 @@ God has always been triune in nature; He did not somehow change to become three 
 
 <!--more-->
 
-{{< properties >}}
+{{< properties
 stags="Trinity > Roles"
-{{< /properties >}}
+>}}
 
 {{% section-navigation %}}
 
@@ -55,9 +55,9 @@ God has always been triune in nature; He did not somehow change to become three 
 
 ### Given the benefit of subsequent clarifying New Testament revelation, the Trinity is visible in the Old Testament {#given-the-benefit-of-subsequent-clarifying-new-testament-revelation-the-trinity-is-visible-in-the-old-testament}
 
-{{< properties >}}
+{{< properties
 stags="Trinity > Is clearly visible in Old Testament, when viewed in light of the New Testament | Progressive revelation"
-{{< /properties >}}
+>}}
 <!-- p="Genesis 1:26; Isaiah 6:3; Numbers 6:24-26; 2 Samuel 23:2-3; 1 Corinthians 10:4; Isaiah 48:15-17; Isaiah 63:9-10; Zechariah 2:7-13; Matthew 22:41-46" -->
 
 The Trinity is not only present in the verses of the Old Testament, but portrayed clearly enough to see (with the benefit of New Testament revelation).
@@ -71,9 +71,9 @@ In these cases and others, the clear intent is to reflect (if not to convey) the
 
 ### Matthew 22:41-46 {#matthew-22-41-46}
 
-{{< properties >}}
+{{< properties
 stags="Progressive revelation | Progressive revelation > There are still plenty of matters veiled from us | Old Testament Believers > Earnestly desired to have the knowledge we now have | Angels > Are interested in God's redemptive plan for humanity"
-{{< /properties >}}
+>}}
 <!-- p="Matthew 22:41-46; Matthew 13:17; Luke 10:24; John 8:56; 1 Peter 1:10-12; Romans 3:25; Psalm 110:1" -->
 
 {{% ichthys-translation p="Matthew 22:41-46" %}}
@@ -90,9 +90,9 @@ We are not to assume that David, when he penned this prophecy under divine inspi
 
 ### Prophetic foreshortening {#prophetic-foreshortening}
 
-{{< properties >}}
+{{< properties
 stags="Prophetic foreshortening | Interpretation > Principles > Prophetic foreshortening | Prophetic foreshortening > Examples > Trinity | Prophetic foreshortening > Examples > Coming of the Messiah"
-{{< /properties >}}
+>}}
 
 In the Old Testament, the three Persons stand in front of us like three mighty mountains, one after the other, all partially visible, but not readily distinguishable from each other. Only with the revelation provided by the incarnation of Jesus Christ and the New Testament do we see the Old Testament picture of the Trinity from a sidelong perspective, so that now the three mountains become visible in their own right when viewed from this new vantage point.
 
@@ -104,9 +104,9 @@ This illustration of the Trinity in the Old Testament is commonly called "prophe
 
 ### Why did God decide to veil the triune nature of His essence in Old Testament times? {#why-did-god-decide-to-veil-the-triune-nature-of-his-essence-in-old-testament-times}
 
-{{< properties >}}
+{{< properties
 stags="Hypotheticals > There is one perfect Plan of God that actually happens | Faith > Fully trusting God that what has happened is objectively best | Faith > Giving God the benefit of the doubt"
-{{< /properties >}}
+>}}
 <!-- p="Matthew 11:20-24" -->
 
 Exactly why did God decide to veil the triune nature of His essence in Old Testament times, choosing instead to only foreshadow it, in the manner discussed above?
@@ -119,9 +119,9 @@ In any case, the point is God has good reasons for His progressive revelation of
 
 #### Idolatry as an explanation for God's veiling of His nature {#idolatry-as-an-explanation-for-god-s-veiling-of-his-nature}
 
-{{< properties >}}
+{{< properties
 stags="Interpretation > Inferences have their place when they only go so far as the evidence allows | Idolatry > Of Israel | Israel > Theocracy > Idolatry had severe national consequences | Trinity > What it is not > A pantheon"
-{{< /properties >}}
+>}}
 <!-- p="Exodus 20:1-6; Numbers 25; John 10:30; 1 Corinthians 3:8" -->
 
 Idolatry, a major problem in ancient times and one of Israel's most serious stumbling blocks, is often adduced as the reason for this veiling in pre-Christian times of our present knowledge of the Trinity. Certainly it is true that the threat of idolatry to the faith and practice of Old Testament believers was a very real one. We need only to consider that the first two of the "ten commandments" deal with this subject (Ex.20:1-6), and that Balaam's counsel of idolatrous seduction was more destructive to Israel than any curse could ever have been (Num.25). The argument suggests that there was, therefore, a need to emphasize the *oneness* of God in the face of this very real polytheistic threat, thus obviating any possible twisting of a proper understanding of the Trinity. This explanation possesses much of value, but it does not entirely resolve the matter.
@@ -136,9 +136,9 @@ Pagan pantheons (not to mention pagan religions) are different from God and the 
 
 #### The person of Jesus Christ not yet come as an explanation for God's veiling of His nature {#the-person-of-jesus-christ-not-yet-come-as-an-explanation-for-god-s-veiling-of-his-nature}
 
-{{< properties >}}
+{{< properties
 stags="Interpretation > Inferences have their place when they only go so far as the evidence allows | Trinity > Cannot be fully understood by humanity without the witness of the First Advent of Christ"
-{{< /properties >}}
+>}}
 <!-- p="John 1:14; John 1:18; John 14:9; Hebrews 1:1-3; Matthew 27:51; 2 Corinthians 4:6; 2 Corinthians 3:14; John 7:39" -->
 
 The full answer lies in the person of Jesus Christ. Before the fact, before we see with our own eyes Christ come in the flesh, His humility, His suffering, His sacrifice for us, can we really appreciate in full the Trinity and what God has chosen to do for us in Christ's incarnation and death on the cross? Without the *accomplished reality* of the incarnation of Jesus, how could we ever but dimly conceive the glory of it? And without the accomplished fact of His incarnation, how could we possibly understand and appreciate the triune nature of God? For it is only through Christ – after He has come into the world in person – that we begin to see God with the clarity of vision it has now been given us to possess (Jn.1:18; 14:9).

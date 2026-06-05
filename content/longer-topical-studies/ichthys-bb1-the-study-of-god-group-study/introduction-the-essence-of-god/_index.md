@@ -10,9 +10,9 @@ In this lesson, we are going to be kicking off our new study of BB1: Theology on
 
 <!--more-->
 
-{{< properties >}}
+{{< properties
 stags="God > Essence"
-{{< /properties >}}
+>}}
 
 {{% section-navigation %}}
 
@@ -55,9 +55,9 @@ In this lesson, we are going to be kicking off our new study of BB1: Theology on
 
 ### The essence of God is being. He is the Great I AM {#the-essence-of-god-is-being-he-is-the-great-i-am}
 
-{{< properties >}}
+{{< properties
 stags="Tetragrammaton | God > Name of God | God > Externality to spacetime"
-{{< /properties >}}
+>}}
 <!-- p="Exodus 3:14-15" -->
 
 The essence of something is what it really is. "Essence" and "being" are precise synonyms.
@@ -72,9 +72,9 @@ Unbelievers scoff at that logic, but it is what the Bible says.
 
 ### The resplendence of God: light and glory {#the-resplendence-of-god-light-and-glory}
 
-{{< properties >}}
+{{< properties
 stags="God > Resplendence > Unapproachable light | God > Resplendence > Glory"
-{{< /properties >}}
+>}}
 
 Loosely speaking, light captures the sense that God is sublime and unapproachable (compare squinting at the sun, being blinded by it), while glory represents the side that shines forth visibly to mankind.
 
@@ -86,9 +86,9 @@ God's glory is most directly revealed to mankind through His Son, Jesus Christ. 
 
 #### Q: 1 Timothy 6:16 talks about God's unapproachable light. It also says God alone possess immortality. What does that latter statement mean? {#q-1-timothy-6-16-talks-about-god-s-unapproachable-light-it-also-says-god-alone-possess-immortality-what-does-that-latter-statement-mean}
 
-{{< properties >}}
+{{< properties
 stags="God > Immortality > Antithesis of death"
-{{< /properties >}}
+>}}
 <!-- p="1 Timothy 6:16" -->
 
 {{% video-only-note %}}
@@ -100,9 +100,9 @@ Is it that God *owns* immortality, but that he gives it to us creatures such tha
 
 #### Q: We say God dwells in this unapproachable light that no one has seen nor ever can see. What then of cases in scripture where people seem to have "seen God?" {#q-we-say-god-dwells-in-this-unapproachable-light-that-no-one-has-seen-nor-ever-can-see-what-then-of-cases-in-scripture-where-people-seem-to-have-seen-god}
 
-{{< properties >}}
+{{< properties
 stags="Theophany | Christophany | No man may see God and live"
-{{< /properties >}}
+>}}
 
 {{% video-only-note %}}
 
@@ -111,9 +111,9 @@ Did Moses not see this light upon Mount Sinai? What about the Apostles present o
 
 #### Comment: God's glory as it relates to "every knee will bow, and every tongue confess" {#comment-god-s-glory-as-it-relates-to-every-knee-will-bow-and-every-tongue-confess}
 
-{{< properties >}}
+{{< properties
 stags="God > Resplendence > Veiled to preserve human free will | Every knee will bow"
-{{< /properties >}}
+>}}
 
 {{% video-only-note %}}
 
@@ -125,9 +125,9 @@ Compare: "Every knee will bow, and every tongue will confess." That is not now, 
 
 ### Essence, nature, character... ??? {#essence-nature-character}
 
-{{< properties >}}
+{{< properties
 stags="Essence > Essential characteristics | Philosophy > Perils of getting off in the weeds"
-{{< /properties >}}
+>}}
 
 If you've ever been confused about what the difference between nature and essence is (and we may as well throw form and substance in the mix as well), you are in good company. Philosophers have been arguing about these things for a very long time (compare Plato, Aristotle, Aquinas, Kant, and others).
 

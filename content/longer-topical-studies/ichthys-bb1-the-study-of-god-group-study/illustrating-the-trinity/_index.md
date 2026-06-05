@@ -10,9 +10,9 @@ In this lesson we discuss illustrations that seek to help explain the Trinity. S
 
 <!--more-->
 
-{{< properties >}}
+{{< properties
 stags="Trinity > Illustrations"
-{{< /properties >}}
+>}}
 
 {{% section-navigation %}}
 
@@ -56,9 +56,9 @@ In this lesson we discuss illustrations that seek to help explain the Trinity. S
 
 ### Perils in attempting to use illustrations for the Trinity {#perils-in-attempting-to-use-illustrations-for-the-trinity}
 
-{{< properties >}}
+{{< properties
 stags="Trinity > Illustrations > Perils of"
-{{< /properties >}}
+>}}
 
 As we discussed in our last lesson, attempting to illustrate such a carefully protected doctrine as the Trinity has the potential of doing more harm than good. The fundamental problem with illustrations of the type we will consider in a moment is that they all necessarily contain potentially dangerous and untrue points of comparison, which, if too much stress be placed upon them, run the real risk of leading to heretical conclusions, a danger that far outweighs any good they may do in attempting to shed some light on the subject.
 
@@ -68,9 +68,9 @@ The number one objection to such illustrations is that God is divine, and since 
 
 ### An illustration from the early church: the Trinity "triangle" {#an-illustration-from-the-early-church-the-trinity-triangle}
 
-{{< properties >}}
+{{< properties
 stags="Trinity > Illustrations > Trinity triangle"
-{{< /properties >}}
+>}}
 
 This oldest of the Trinity illustrations is also in many ways the best, because the non-doctrinal point of comparison (i.e., the triangle) merely serves to organize visually the meaning imparted by the words: all three members of the Trinity are God ("*one in essence*"), yet they are distinct from each other ("*three in person*"):
 

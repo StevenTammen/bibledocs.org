@@ -55,9 +55,9 @@ This lesson we first go over why the title of the introduction to SR4 mentions S
 
 ### The Introduction's title: Satan's rebellion and fall {#the-introduction-s-title-satan-s-rebellion-and-fall}
 
-{{< properties >}}
+{{< properties
 Satan's rebellion > Is the backdrop of all creature history"
-{{< /properties >}}
+>}}
 
 The introduction section of our present study, though not dealing explicitly with the topic of Satan's rebellion and fall, nonetheless shares the title, as do several other introduction sections in the series.
 
@@ -79,9 +79,9 @@ We will periodically turn time and again to this wider context -- the echoes of 
 
 ### The actual introduction: Adam and Eve, and us {#the-actual-introduction-adam-and-eve-and-us}
 
-{{< properties >}}
+{{< properties
 stags="Adam and Eve"
-{{< /properties >}}
+>}}
 
 Well, we got all that from the title of the introductory section... but what of its content?
 
@@ -97,9 +97,9 @@ Dr. Luginbill opens up this present study (SR4 specifically) with some initial f
 
 #### The contrast between pre-fall paradise and post-fall realities {#the-contrast-between-pre-fall-paradise-and-post-fall-realities}
 
-{{< properties >}}
+{{< properties
 stags="Fall > Effects on mankind"
-{{< /properties >}}
+>}}
 
 The world that Adam and Eve entered after their expulsion from the garden of Eden could not have been more different from the perfect environment they had so recently taken for granted.
 
@@ -116,9 +116,9 @@ And finally, in crowning futility, when they had lived out their now-finite year
 
 #### God's promise of deliverance {#god-s-promise-of-deliverance}
 
-{{< properties >}}
+{{< properties
 stags="Protoevangelium"
-{{< /properties >}}
+>}}
 
 But God did not leave them orphans on the earth, completely bereft of all hope and of Himself.
 

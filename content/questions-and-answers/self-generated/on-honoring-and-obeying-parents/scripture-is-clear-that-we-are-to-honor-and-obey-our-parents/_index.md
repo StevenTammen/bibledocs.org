@@ -8,9 +8,9 @@ There are certain areas of application in the Christian walk that almost all peo
 
 <!--more-->
 
-{{< properties >}}
+{{< properties
 stags="Parents > Honoring | Parents > Obeying"
-{{< /properties >}}
+>}}
 
 {{% section-navigation %}}
 
@@ -48,9 +48,9 @@ So, I know one of the ten commandments is to honor my parents, but they drive me
 
 ### Some direct quotes from scripture: honoring parents {#some-direct-quotes-from-scripture-honoring-parents}
 
-{{< properties >}}
+{{< properties
 stags="Parents > Honoring > Scripture about"
-{{< /properties >}}
+>}}
 
 {{% ot t="esv" h="800px" p="Exodus 20:12 | Proverbs 1:8-9 | Proverbs 20:20 | Proverbs 23:22 | Proverbs 30:17" %}}
 
@@ -144,9 +144,9 @@ If anyone calls down a curse on his father or mother, he will be put to death. H
 
 ### Some direct quotes from scripture: obeying parents {#some-direct-quotes-from-scripture-obeying-parents}
 
-{{< properties >}}
+{{< properties
 stags="Parents > Obeying > Scripture about"
-{{< /properties >}}
+>}}
 
 Clearly, then, these things are not to be trivialized or taken lightly. In fact, it is more than just some vague notion of honor or respect that we are called to give our parents -- we are called to obey them:
 

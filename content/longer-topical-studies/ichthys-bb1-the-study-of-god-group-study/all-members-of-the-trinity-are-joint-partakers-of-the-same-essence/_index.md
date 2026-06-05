@@ -10,9 +10,9 @@ This lesson's main focus is examining the point that God is *three* in person, b
 
 <!--more-->
 
-{{< properties >}}
+{{< properties
 stags="Trinity > All members share the same essence"
-{{< /properties >}}
+>}}
 
 {{% section-navigation %}}
 
@@ -54,9 +54,9 @@ This lesson's main focus is examining the point that God is *three* in person, b
 
 ### Key point: God is *three* in person, but that does *not* mean that the Trinity is composed of three (or more) different "gods" {#key-point-god-is-three-in-person-but-that-does-not-mean-that-the-trinity-is-composed-of-three-or-more-different-gods}
 
-{{< properties >}}
+{{< properties
 stags="Trinity > What it is not > A pantheon"
-{{< /properties >}}
+>}}
 
 God is *one* in essence, and all three members of the Trinity (the Father and the Son and the Holy Spirit) are the sole, joint partakers of that same essence rather than three similar beings of similar essence. All so-called Christian sects which elevate saints and angels to the status of divinity essentially belong to this heretical category (after the manner of pagan pantheons, which also possess numerous "deities" of lesser and greater rank). But the Bible teaches that all three members of the Trinity alone share the same unique essence:
 
@@ -64,9 +64,9 @@ God is *one* in essence, and all three members of the Trinity (the Father and th
 
 #### The Father is revealed to be uniquely God {#the-father-is-revealed-to-be-uniquely-god}
 
-{{< properties >}}
+{{< properties
 stags="Trinity > Jointly partake in one single essence > Father"
-{{< /properties >}}
+>}}
 <!-- p="Deuteronomy 4:35" -->
 
 {{% scripture-h p="Deuteronomy 4:35" %}}
@@ -77,9 +77,9 @@ You were shown these things so as to know that the Lord, He is God, and there is
 
 #### The Son and the Father are revealed to be uniquely God {#the-son-and-the-father-are-revealed-to-be-uniquely-god}
 
-{{< properties >}}
+{{< properties
 stags="Trinity > Jointly partake in one single essence > Son"
-{{< /properties >}}
+>}}
 <!-- p="John 10:30; Colossians 2:9; Philippians 2:6" -->
 
 {{% scripture-h p="John 10:30" %}}
@@ -97,9 +97,9 @@ Some things I'll add here in addition to this one verse Dr. Luginbill quoted, to
 
 ##### Regarding the notion of us being "small G gods", what words are used for such in the Greek and Hebrew? {#regarding-the-notion-of-us-being-small-g-gods-what-words-are-used-for-such-in-the-greek-and-hebrew}
 
-{{< properties >}}
+{{< properties
 stags="Image of God > We are godlike in our free will/ability to choose"
-{{< /properties >}}
+>}}
 
 {{% video-only-note %}}
 
@@ -109,9 +109,9 @@ It is *elohim* in Hebrew (see [אֱלהִים](https://biblehub.com/hebrew/430.h
 
 #### The Holy Spirit and the Son and the Father are revealed to be uniquely God {#the-holy-spirit-and-the-son-and-the-father-are-revealed-to-be-uniquely-god}
 
-{{< properties >}}
+{{< properties
 stags="Trinity > Jointly partake in one single essence > Holy Spirit"
-{{< /properties >}}
+>}}
 <!-- p="John 14:16-17; 2 Peter 1:21; Acts 5:3-4; Matthew 28:19" -->
 
 {{% scripture-h p="John 14:16-17" %}}
