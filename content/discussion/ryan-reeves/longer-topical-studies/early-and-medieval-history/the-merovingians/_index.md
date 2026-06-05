@@ -3,6 +3,7 @@ date: 2026-04-18T19:00:00
 domain: —pb-d-ryan-reeves=l
 title: "The Merovingians (src: Ryan Reeves)"
 stags: 
+    - Merovingians 
 ptags: 
 
 weight: 100
@@ -11,7 +12,7 @@ category: CrossTalk Bible Study
 layout: single-page
 ---
 
-TODO: Summary
+In this lecture we will look at the Merovingian dynasty. With the fall of the Western half of the Roman Empire, the Middle Ages begin. Descending not from the Romans but from the Frankish tribes living just outside the Roman boundery, the Merovingian Empire plays a significant role in shaping the new medieval world of the West. Although a number of the Germanic tribes embraced the northward expansion of Arianism, the Merovingians come from a people who resisted this faith. Many of the Meriovingian ancestors were decidedly pagan, practicing polygamy and ritual worship to various gods, including some forms of ritual sacrifice. This changed when Clovis I, the founder of the Merivingian dynasty proper, converts to Catholicisim. This kicked off the Catholicization of the Franks and opened the door for interactions between the them and the Catholic church hierarchy. In this lesson we also discuss the topics of hagiaropahy, evangelism, and the Battle of Tours, as well as several key factors that led to the downfall of the Merovingian dynasty and gave way to another Frankish Empire: the Carolingians, who eventually came to be ruled by Charles "the great" or Charlemange. 
 
 <!--more-->
 
@@ -92,7 +93,7 @@ After the fall of the Western Roman empire, it is out of this common Germanic cu
 
 {{< properties
 
-stags=""
+stags="Evangelism > God's truth never changes, but approaches to evangelism must vary with different peoples"
 
 >}}
 
@@ -180,7 +181,7 @@ By embracing the Catholic (rather than Arian) form of Christianity, Clovis I kic
 
 {{< properties
 
-stags=""
+stags="Evangelism > Evangelists contend not only with paganism, but with more subtle perversions of the truth | Trinity > Heresies related to > Arianism"
 
 >}}
 
@@ -202,7 +203,7 @@ Also think about how this would affect what the pagans thought "Christianity" wa
 
 {{< properties
 
-stags=""
+stags="Hagiography | Hagiography > Mixes history with legend, making these texts inaccurate historical sources | Hagiography > Emphasizes successes, while rarely mentioning an individual's failures | Church history > Biography was an important literary genre in the Early Church"
 
 >}}
 
@@ -224,7 +225,7 @@ And this is precisely why you ought to always hold hagiographies at arms length 
 
 <!-- --- -->
 
-I should also note that in my opinion, the greatest part of the skepticism we ought to nurse for these texts is not even related to matters of historical fact---like whether or not Clotilde's conversion of Clovis I really proceeded in the epic fashion described by the hagiographies---but instead the miraculous events commonly reported in them.
+I should also note that in my opinion, the greatest part of the skepticism we ought to nurse for these texts is not even related to matters of historical fact---like whether or not Clotilde's conversion of Clovis I really proceeded in the epic fashion described by the hagiographies---but instead the miraculous events commonly reported in them. 
 
 Put bluntly, I very much doubt most of the miracles reported in hagiographies. God, of course, can act as He pleases; as the Creator and Master of all Material Creation, He is well within His rights to violate the natural laws He Himself made, as it suits His purposes. But just because God *could have* done something does not mean that He *did* in fact do something. When hagiographies report the things they do, they are essentially unverifiable third party reports. And we should treat them as such.
 
@@ -283,7 +284,7 @@ This is exactly what we see with Clovis I and his sons. Clovis I had four sons, 
 - [Theuderic I](https://en.wikipedia.org/wiki/Theuderic_I) (the eldest) inherited the area of Reims (pronounced in French like "ranss").
 - [Chlothar I](https://en.wikipedia.org/wiki/Chlothar_I) inherited the area of Soissons (pronounced in French like "swah-sohn").
 - [Childebert I](https://en.wikipedia.org/wiki/Childebert_I) inherited the area of Paris.
-- [Chlodomer](https://en.wikipedia.org/wiki/Chlodomer) inherited the area of Orléans (pronounced in French like "ohr-lay-on").
+- [Chlodomer](https://en.wikipedia.org/wiki/Chlodomer) inherited the area of Orléans (pronounced in French like "ohr-lay-on"). 
 
 <!-- --- -->
 
@@ -312,7 +313,7 @@ The point of all this is that this sort of political infighting (arising primari
 
 {{< properties
 
-stags=""
+stags="Believers > Should we be troubled by un-Christlike actions of people identifying as “Christian”?"
 
 >}}
 
@@ -330,7 +331,7 @@ We don't have to take a position on whether these people were saved or not; that
 
 {{< properties
 
-stags=""
+stags="Spiritual perspective > Eyes on the prize | Kingdom of God > Contrasted with the kingdoms of this world"
 
 >}}
 
@@ -416,7 +417,7 @@ The last Merovingian king, [Childeric III](https://en.wikipedia.org/wiki/Childer
 
 {{< properties
 
-stags=""
+stags="Politics > Getting caught up in politics hinders spiritual growth and productivity"
 
 ptags="1 Thessalonians 4:11; Ephesians 4:12-13"
 
@@ -551,7 +552,7 @@ In the next lecture, we are going to pick up and continue the story of the Frank
 
 {{< properties
 
-stags=""
+stags="Believers > Should desire the salvation and spiritual growth of all, regardless of race, religion, or culture | Battle of Tours > Has often been viewed in religious terms | Forgiveness > Should be had towards all | Muslims > Should not be viewed as irredeemable, but as our fellow men who are sinful and in need of Jesus"
 
 >}}
 
@@ -572,7 +573,7 @@ Incidentally, this pattern of hard-hearted refusal to want the spiritual best fo
 - People of different races
 - Etc.
 
-None of this is proper. Once we too had our hearts blinded by darkness; once we too were enmeshed in lies. But God reached out to us even in this state, *before* we had done anything deserving of grace and mercy. So we need to be willing to extend this same sort of hand to others, even if we have a hard time finding them worthy. Compare Matthew 18:21-35. We have been forgiven a great debt (an eternal weight of sin), so need to forgive the little debts others owe us = material wrongs against us here in this world. Including those perpetrated against us by Muslims.
+None of this is proper. Once we too had our hearts blinded by darkness; once we too were enmeshed in lies. But God reached out to us even in this state, *before* we had done anything deserving of grace and mercy. So we need to be willing to extend this same sort of hand to others, even if we have a hard time finding them worthy. Compare Matthew 18:21-35. We have been forgiven a great debt (an eternal weight of sin), so need to forgive the little debts others owe us = material wrongs against us here in this world. Including those perpetrated against us by Muslims. 
 
 In short, Muslims ought not be viewed merely as wicked enemies, but as our fellow men who are broken and sinful and in need of Jesus, just like us.
 
@@ -587,7 +588,163 @@ In short, Muslims ought not be viewed merely as wicked enemies, but as our fello
 
 {{< quizdown >}}
 
+# True or False: The Merovingian Frankish Empire was insignificant in shaping the medieval world of the West. {#true-or-false-the-merovingian-frankish-empire-was-insignificant-in-shaping-the-medieval-world-of-the-west}
 
+1. [ ] True
+1. [x] False
+
+# All of these statements are true except {#all-of-these-statements-are-true-except}
+
+1. [ ] The Merovingians come from the Germanic culture of Northern Europe. 
+1. [x] The Salian Franks almost universally adopted the Roman value system and way of life. 
+1. [ ] Frankish influence was not limited to French culture, but also shaped later Germanic culture, Dutch culture, and so on. 
+1. [ ] To the Romans, the many different groups living just north of the Roman boundary were all considered "barbarians", despite the differences among them. 
+
+# Which of these statements about evangelism are true? {#which-of-these-statements-about-evangelism-are-true}
+
+Check all that apply. 
+
+1. [ ] God's truth never changes, so evangelistic methods should not vary between cultures. 
+1. [x] The shared language and culture of the Romans made it possible for Christianity to spread throughout the Roman Empire. 
+1. [x] Evangelism to the Northern Frankish tribes had to be done differently than evanglism within the Roman Empire. 
+1. [ ] The Early Church sent missionaries only to the closest Frankish tribes.
+1. [x] Although we may not agree with all the theology or decisions made in the Early church, we should not minimize the evanglistic work
+done over the centuries. 
+
+# Which of these statements about the Merovingian kings are true? {#which-of-these-statements-about-the-merovingian-kings-are-true}
+
+1. [x] They have at times been known as "the long-haired kings. 
+1. [ ] They kept their hair long as a symbol of ritual purity, much like Sampson in the Bible. 
+1. [x] They believed their hair was the key to their strength and military might. 
+1. [ ] All of the above. 
+
+# True or False: The Arian bishop who had a hand in the creation of the Gothic alphabet and the translation of the Bible into Old Gothic {#true-or-false-the-arian-bishop-who-had-a-hand-in-the-creation-of-the-gothic-alphabet-and-the-translation-of-the-bible-into-old-gothic}
+was named Ufilas. 
+
+1. [x] True
+1. [ ] False 
+
+# Which of these statements about the ancestors of the Merovingian dynasty are true? {#which-of-these-statements-about-the-ancestors-of-the-merovingian-dynasty-are-true}
+
+1. [ ] They came from a people who had embraced the expansion of the Arian faith, as a number of Germanic tribes did in earlier centuries.  
+1. [x] They were polygamists. 
+1. [x] They were pagans who practiced ritualistic worship of various gods, including some forms of ritual sacrifice. 
+1. [ ] All of the above. 
+1. [ ] None of the above. 
+
+# True or False: Clovis I was the founding king of the Merovingian dynasty proper. {#true-or-false-clovis-i-was-the-founding-king-of-the-merovingian-dynasty-proper}
+
+1. [x] True
+1. [ ] False 
+
+# Whose conversion to Catholicism opened the door for the Catholicization of the Franks and their interactions with the hierarchy of the Catholic church? {#whose-conversion-to-catholicism-opened-the-door-for-the-catholicization-of-the-franks-and-their-interactions-with-the-hierarchy-of-the-catholic-church}
+
+1. [ ] Chlodomer
+1. [ ] Theuderic I
+1. [x] Clovis I
+1. [ ] Chlothar I
+1. [ ] Childebert I
+
+# True or False: Clotilde, the wife of Clovis I, was a Catholic and was eventually made a saint due to her pivotal role in the conversion of her husband (although he initially resisted her efforts). {#true-or-false-clotilde-the-wife-of-clovis-i-was-a-catholic-and-was-eventually-made-a-saint-due-to-her-pivotal-role-in-the-conversion-of-her-husband-although-he-initially-resisted-her-efforts}
+
+1. [x] True
+1. [ ] False
+
+# On what date was Clovis I said to have been baptized into the Catholic faith? {#on-what-date-was-clovis-i-said-to-have-been-baptized-into-the-catholic-faith}
+
+1. [ ] Christmas day, 489
+1. [ ] Christmas day, 491
+1. [x] Christmas day, 496
+
+# Which of these statements about hagiographies are true? {#which-of-these-statements-about-hagiographies-are-true}
+
+Check all the apply. 
+
+1. [ ] Hagiographies tend to highlight both the successes and the failures of the individual(s). 
+1. [ ] Hagiographies are accurate historical sources. 
+1. [x] Hagiographies freely mix history with legend.
+1. [x] Hagiographies are important texts for the Catholic and Eastern Orthodox churches. 
+1. [x] Hagiographies present historiographical difficulties if taken seriously, due to their issues of plausibility and accuracy.
+
+# Which of these factors were involved in the weakening of the Merovingian dynasty? {#which-of-these-factors-were-involved-in-the-weakening-of-the-merovingian-dynasty}
+
+Check all the apply.
+
+1. [x] The distribution of conquered land to the king's followers, leading to pressure for the Merovingian empire to continually expand.
+1. [x] The distribution of the king's inheritance equally among his sons, leading to fractured power and destructive succession disputes between brothers. 
+1. [x] The growing influence of a court role known as "the mayor of the palace", leading to a decrease of the king's power. 
+
+# Which of these statments about Brunhilda are true? {#which-of-these-statments-about-brunhilda-are-true}
+
+1. [x] She was the wife of Sigebert I.
+1. [x] She was a Visigothic princess. 
+1. [ ] She was formerly Catholic, but converted to Arianism upon marrying into Merovingian royalty. 
+1. [ ] She was known as a violent, vindictive woman her entire life. 
+1. [x] She was executed in her 70s. 
+
+# All of these statments are true except {#all-of-these-statments-are-true-except}
+
+1. [ ] Believers should focus on the Kingdom of God, rather than earthly kingdoms. 
+1. [ ] Believers should examine themselves to make sure they are walking the walk, not just talking the talk. 
+1. [x] When someone claims to be a Christian, it means their actions will be godly.
+1. [ ] The actions of people claiming Christ have no influence on what is true or what is not true. 
+
+# True or False: The earliest rulers of the Carolingian dynasty exercised power in the mayor of the palace role, rather than themselves officially holding the crown. {#true-or-false-the-earliest-rulers-of-the-carolingian-dynasty-exercised-power-in-the-mayor-of-the-palace-role-rather-than-themselves-officially-holding-the-crown}
+
+1. [x] True
+1. [ ] False
+
+# In 687, which ruler defeated the forces of Neustria and Burgundy in the Battle of Tertry? {#in-687-which-ruler-defeated-the-forces-of-neustria-and-burgundy-in-the-battle-of-tertry}
+
+1. [x] Pepin II
+1. [ ] Pepin the Short
+1. [ ] Charles Martel
+1. [ ] Charlemagne
+
+# Which of these statments about the last Merovingian king are true? {#which-of-these-statments-about-the-last-merovingian-king-are-true}
+
+1. [x] He was deposed in 751 by Pepin the Short. 
+1. [ ] Pope Zachary supported the king and did not wish to see him deposed. 
+1. [ ] His name was Childeric II. 
+1. [x] His long hair, a sign of Merovingian royalty, was cut and he was confined to a monastery. 
+
+# True or False: Warfare in the Middle Ages typically involved armies charging at each other on a flat plain. {#true-or-false-warfare-in-the-middle-ages-typically-involved-armies-charging-at-each-other-on-a-flat-plain}
+
+1. [ ] True
+1. [x] False
+
+# Which of these statements are true? {#which-of-these-statements-are-true}
+
+1. [x] Charles Martel funded his army at least in part by unilaterally seizing Church lands.
+1. [x] Charles Martel's grandson, also named Charles, recieved the epithet "the great" and came to be known as Charlemange. 
+1. [ ] The Carolingian Empire was formally established by Charles Martel.
+
+# True or False: The purpose of the Church is spiritual growth and production, not politics. {#true-or-false-the-purpose-of-the-church-is-spiritual-growth-and-production-not-politics}
+
+1. [x] True
+1. [ ] False
+
+# Which of these statements are false? {#which-of-these-statements-are-false}
+
+Check all the apply. 
+
+1. [ ] The Battle of Tours has often been viewed in overtly religious terms, with Christian Europe standing up to resist the spread of Islam. 
+1. [x] Muslims are fundamentally evil and irredeemable. 
+1. [x] Believers are responsible to enact vengeance on our enemies. 
+1. [ ] Believers should desire the spiritual good of all, regardless of race or religion. 
+1. [x] Christians should not defend themselves.  
+
+# True or False: Many Christians throughout large parts of the Middle Ages, and even up to the present, have shown a noticable lack of desiring the salvation of Muslims. {#true-or-false-many-christians-throughout-large-parts-of-the-middle-ages-and-even-up-to-the-present-have-shown-a-noticable-lack-of-desiring-the-salvation-of-muslims}
+
+1. [x] True
+1. [ ] False
+
+# True or False: As believers, we have been forgiven a great debt of sin, and so we need to forgive the small debts others owe us. {#true-or-false-as-believers-we-have-been-forgiven-a-great-debt-of-sin-and-so-we-need-to-forgive-the-small-debts-others-owe-us}
+
+Compare Matthew 18:21-35. 
+
+1. [x] True
+1. [ ] False
 
 {{< /quizdown >}}
 

@@ -310,7 +310,7 @@ Animals do not have free will = the image of God. Therefore they are not morally
 
 <!-- --- -->
 
-#### Should we judge animals as we do humans? {#should-we-judge-animals-as-we-do-humans}
+#### Q: Should we judge animals as we do humans? {#q-should-we-judge-animals-as-we-do-humans}
 
 {{< properties
 
@@ -322,7 +322,7 @@ Because animals do not have free will, we cannot judge them in the same way as w
 
 <!-- --- -->
 
-#### Because animals have spirits like us, is it wrong to cage them, kill them, eat them, etc.? {#because-animals-have-spirits-like-us-is-it-wrong-to-cage-them-kill-them-eat-them-etc}
+#### Q: Because animals have spirits like us, is it wrong to cage them, kill them, eat them, etc.? {#q-because-animals-have-spirits-like-us-is-it-wrong-to-cage-them-kill-them-eat-them-etc}
 
 {{< properties
 
@@ -352,7 +352,7 @@ That this makes some squeamish is neither here nor there. Many people have theol
 
 <!-- --- -->
 
-#### The Bible says Jesus will redeem creation. Would animals fall under that? Can a cow, for example, be "redeemed"? {#the-bible-says-jesus-will-redeem-creation-would-animals-fall-under-that-can-a-cow-for-example-be-redeemed}
+#### Q: The Bible says Jesus will redeem creation. Would animals fall under that? Can a cow, for example, be "redeemed"? {#q-the-bible-says-jesus-will-redeem-creation-would-animals-fall-under-that-can-a-cow-for-example-be-redeemed}
 
 {{< properties
 

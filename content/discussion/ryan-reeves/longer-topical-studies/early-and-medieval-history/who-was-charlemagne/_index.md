@@ -102,6 +102,12 @@ In examining Charlemagne, aside from discussing what his reign was like generall
 
 ##### The Catholic Church was not always a dominant force {#the-catholic-church-was-not-always-a-dominant-force}
 
+{{< properties
+
+stags=""
+
+>}}
+
 In the first few centuries of the Early Middle Ages, the Catholic Church did not have anywhere near the power we sometimes associate with it. Rather than being able to unilaterally topple kings or force policy, at this point in time, the organization we would term the Catholic Church was gasping for breath, nearly snuffed out by the Lombards.
 
 I think it is important to emphasize exactly how much the Catholic Church changed over time, according to political circumstances. No matter what one thinks of the institution from a religious perspective (i.e., whether or not it is the One True Church, and so on), it seems to be a pretty clear historical fact that the Catholic Church has been far from uniform in its approach to exercising political authority.
@@ -113,10 +119,6 @@ For example, nowadays the Vatican is not able to exert very much foreign policy 
 So it is interesting to consider what sort of explanations Catholic theologians might try to make in order to justify and explain the vast changes in how the Catholic Church expressed itself and exerted its influence across time and place and circumstance. As I see things, it is a problem they truly must grapple with.
 
 We Evangelical Protestants have no such concern (at least those of use who believe in a decentralized "each Church is directly accountable to God with no larger hierarchy" form of church polity), because under this model, churches have nothing to do with political power, but are solely focused upon teaching the Word of God.
-
-<!-- --- -->
-
-#### Further discussion {#further-discussion}
 
 <!-- --- -->
 
@@ -210,10 +212,6 @@ We do not want to find ourselves facing the words of Matthew 18:6. So we'd best 
 
 <!-- --- -->
 
-#### Further discussion {#further-discussion}
-
-<!-- --- -->
-
 ### The Carolingian Renaissance {#the-carolingian-renaissance}
 
 #### Video clip from Ryan Reeves {#video-clip-from-ryan-reeves}
@@ -303,6 +301,12 @@ But nonetheless, he was quite consistent in such funding, and this is what drive
 #### Follow-on topics {#follow-on-topics}
 
 ##### Paleography in the study of ancient texts {#paleography-in-the-study-of-ancient-texts}
+
+{{< properties
+
+stags=""
+
+>}}
 
 Paleography is important in studying ancient texts. By analyzing the writing style and handwritten script used, scholars can actually sometimes come to identify which period a text came from, which can help immensely in dating texts.
 
@@ -405,6 +409,12 @@ Other buildings at the Aachen palace complex also existed:
 
 ##### Sourcing ancient texts {#sourcing-ancient-texts}
 
+{{< properties
+
+stags=""
+
+>}}
+
 Have you ever considered where exactly scholars get ancient texts from? When you think about it, considering all the wars and violence that mar the pages of history, it is somewhat a miracle that we have as many texts preserved as we do.
 
 Most of us have probably heard of the famed library of Alexandria, and [its supposed burning](https://en.wikipedia.org/wiki/Library_of_Alexandria#Burning_by_Julius_Caesar) (which... may not have actually destroyed the whole library, according to some scholars). Regardless of the specifics, this is the sort of historical event that shows the utter fragility of textual transmission in antiquity.
@@ -416,10 +426,6 @@ We "know of" far more texts than we actually have copies of. What I mean by that
 Even so, some important texts come down to us only in handful of copies (cf. the so-called [Archimedes Palimpsest](https://en.wikipedia.org/wiki/Archimedes_Palimpsest)), and other works we would very much like to have are completely lost to us.
 
 Hopefully all of this can help explain why Dr. Reeves spent the time he did discussing the manuscript archives in the palace at Aachen that housed those 7,000 manuscripts. No matter what we may think of Charlemagne's court overall, these works of his *scriptorium* are things that we can certainly thank him for as historians.
-
-<!-- --- -->
-
-#### Further discussion {#further-discussion}
 
 <!-- --- -->
 
@@ -482,6 +488,12 @@ All of this is important because in it we see Charlemagne taking steps to develo
 #### Follow-on topics {#follow-on-topics}
 
 ##### Are developments in the Church visible more history or theology? {#are-developments-in-the-church-visible-more-history-or-theology}
+
+{{< properties
+
+stags=""
+
+>}}
 
 We have discussed before how something Catholic theologians must grapple with (in my opinion) is the fact that their ecclesiological structure greatly changed throughout history---for example, transforming from the fragmentation of the church councils predating Nicea to the centralized monolith of the Catholic Church of the late Middle Ages. We call both of these institutions by the same name, but truly, are they the same if their organization and operation are not very similar to each other?
 
@@ -563,6 +575,14 @@ The Germanic Holy Roman Empire managed to survive nearly a millennia (all the wa
 
 ##### Contrasting Christ's eternal kingship with that of normal human kings {#contrasting-christ-s-eternal-kingship-with-that-of-normal-human-kings}
 
+{{< properties
+
+stags=""
+
+ptags="Ecclesiastes 2:18-21"
+
+>}}
+
 By most measures, Charlemagne was an exceedingly important king in European history. Through his military expansion, administrative reforms, sponsoring of intellectuals, Church reforms, and so on, we can see the commanding influence he wielded, and how he unified an entire empire.
 
 Yet within two generations, everything he had built up was consumed by the flames of civil war as his grandsons fought with one another for control. We might compare Ecclesiastes 2:18-21:
@@ -577,11 +597,7 @@ Yet within two generations, everything he had built up was consumed by the flame
 
 Even the greatest of human rulers cannot safeguard their achievements. Their reigns are temporary, and when they die, all of their efforts may fall apart and wither away. And there is *absolutely nothing* they can do about it.
 
-By way of contrast, Christ's kingdom will be everlasting and eternal (cf. Isaiah 9:7; Daniel 7:14; Luke 1:33; 2 Peter 1:11; Revelation 11:15); nothing will be able to shake his kingdom (Hebrews 12:28). And thus it is that Jesus is King of Kings and Lord or Lords (Revelation 17:14; 19:16), not at all like lowercase kings and lords who are here today and gone tomorrow. Even powerful ones like Charlemagne.
-
-<!-- --- -->
-
-#### Further discussion {#further-discussion}
+By way of contrast, Christ's kingdom will be everlasting and eternal (cf. Isaiah 9:7; Daniel 7:14; Luke 1:33; 2 Peter 1:11; Revelation 11:15); nothing will be able to shake his kingdom (Hebrews 12:28). And thus it is that Jesus is King of Kings and Lord of Lords (Revelation 17:14; 19:16), not at all like lowercase kings and lords who are here today and gone tomorrow. Even powerful ones like Charlemagne.
 
 {{% /content %}}
 
