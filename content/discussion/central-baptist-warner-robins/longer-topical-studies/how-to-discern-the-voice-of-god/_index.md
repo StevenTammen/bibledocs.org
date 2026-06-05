@@ -224,7 +224,7 @@ The issue with this sort of argument is that you could well say that Isaiah 52:1
 
 {{< properties
 
-stags="Satan > Was and/or controlled the serpent of Genesis 3"
+stags="Satan > Was and/or controlled the serpent of Genesis 3 | Faith > Is trusting in God and His promises | Bible > Is God's message of truth to humanity"
 
 >}}
 
@@ -270,7 +270,7 @@ When used with a [definite article](https://www.hebrew4christians.com/Grammar/Un
 
 {{< properties
 
-stags="Satan > The enemy of believers | Central doctrines to the Christian faith > Satan attacks more fiercely | Progressive revelation | Satan > What he is not > A divine prosecutor | Satan > What he is not > A literary character"
+stags="Satan > Is the enemy of believers | Central doctrines to the Christian faith > Satan attacks more fiercely | Progressive revelation | Satan > What he is not > A divine prosecutor | Satan > What he is not > A literary character"
 
 ptags="Revelation 12:10"
 
@@ -460,7 +460,7 @@ III. Elect angels do not wish to oppose God or disprove God's words
 
 1. [ ] More often in the Old Testament than the New Testament
 1. [x] More often in the New Testament than the Old Testament
-1. [ ] Comparably in both Old and New Testaments 
+1. [ ] Comparably in both Old and New Testaments
 
 ### What does the "seed of the woman" refer to? {#satan-is-the-serpent-of-genesis-3-what-does-the-seed-of-the-woman-refer-to}
 
@@ -474,6 +474,11 @@ In Genesis 3:15.
 
 1. [x] True
 1. [ ] False
+
+### True or False: Prophetic typology and dual-application is not common in Old Testament prophecy. {#satan-is-the-serpent-of-genesis-3-true-or-false-prophetic-typology-and-dual-application-is-not-common-in-old-testament-prophecy}
+
+1. [ ] True 
+1. [x] False
 
 {{< /quizdown >}}
 
@@ -887,7 +892,7 @@ Emphasizing this is important because the very worst thing we can do is make exc
 
 {{< properties
 
-stags="Limited human perspective > God always provides enough information for us to make correct decisions"
+stags="Limited human perspective > God always provides enough information for us to make correct decisions | Hypotheticals > God's guidance is sufficent, regardless of the situation"
 
 >}}
 
@@ -1540,6 +1545,8 @@ Although there is much to say concerning these people specifically, on this page
 
 stags="Truth > Divides and convicts | Faith > Drawing inspiration from historical figures | Eternal rewards > Not all people will receive the same amount"
 
+ptags="Matthew 6:1"
+
 >}} 
 
 Some traditions tend to make a practice out of looking to other categories of people for inspiration too: so-called saints, famous martyrs, church fathers, the reformers, and so on.
@@ -1640,7 +1647,6 @@ stags="Faith > Drawing inspiration from zealous, red-hot believers"
 
 >}}
 
-
 We might also draw inspiration from people who are in our own generational cohort, or even people who are younger than us. If we look towards people's spiritual growth and zeal for God, then there will be times when we ought to marvel at all that someone has done given their relative youth, their relative economic or social disadvantage, or whatever else might tend to set certain expectations that these exceptional folks then shatter.
 
 Put simply, the hottest of the red-hot, no matter their age or relation to us, are always worth looking to for inspiration. It may be human nature to struggle to respect young people or poor people or people without lots of education (and so on), but we ought to fight against that, for if we do not, we will find ourselves incapable of drawing encouragement from God's masterful use of such people, and the example in faith that they set us, if their faith actually is something special.
@@ -1672,21 +1678,30 @@ Alongside the accounts of particularly faithful historical believers we have in 
 
 ### Which of these statements are true? {#drawing-inspiration-from-the-faith-of-others-which-of-these-statements-are-true}
 
-I. 
-II. 
-III. Comparing ourselves 
+I. Comparing ourselves to others is usually harmless. 
+II. Comparing ourselves to others is recommended in scripture. 
+III. Comparing ourselves to others tends to lead to legalism and self-righteousness. 
 
-1. [ ]
+1. [ ] I. and III. alone. 
+1. [ ] II. alone. 
+1. [x] III. alone. 
+1. [ ] I. and II. alone. 
+1. [ ] All of the above. 
+1. [ ] None of the above.
 
 ### Which of these statements about historical figures are true? {#drawing-inspiration-from-the-faith-of-others-which-of-these-statements-about-historical-figures-are-true}
 
-1. [ ] Third-party reports can be difficult to verify. 
-1. [ ] Popularity or fame does not necessarily mean they did or are doing God's Will. 
+Check all that apply.
+
+1. [x] Third-party reports can be difficult to verify. 
+1. [ ] The highest rewarded believers in eternity will likely be the ones who gained signifigant recognition here on earth. 
+1. [x] Popularity or fame does not necessarily mean they did or are doing God's Will. 
+1. [x] It is relatively safer to admire people whose spiritual maturity we can observe ourselves, rather than historical figures that don't show up in inspired scripture. 
 
 ### True or False: We should not look at other believers as an unattainable standard, but learn from them and reconize that we are all tools in God's hands. {#drawing-inspiration-from-the-faith-of-others-true-or-false-we-should-not-look-at-other-believers-as-an-unattainable-standard-but-learn-from-them-and-reconize-that-we-are-all-tools-in-god-s-hands}
 
-
-
+1. [x] True 
+1. [ ] False
 
 {{< /quizdown >}}
 

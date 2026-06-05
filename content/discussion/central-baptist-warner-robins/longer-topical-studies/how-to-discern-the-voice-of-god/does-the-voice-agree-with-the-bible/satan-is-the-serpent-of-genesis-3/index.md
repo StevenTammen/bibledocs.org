@@ -294,7 +294,7 @@ In Genesis 3:15.
 1. [x] True
 1. [ ] False
 
-# True or False: Prophetic typology and dual-application is not common in Old Testament prophecy. 
+# True or False: Prophetic typology and dual-application is not common in Old Testament prophecy. {#true-or-false-prophetic-typology-and-dual-application-is-not-common-in-old-testament-prophecy}
 
 1. [ ] True 
 1. [x] False

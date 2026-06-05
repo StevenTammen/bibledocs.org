@@ -588,19 +588,19 @@ In short, Muslims ought not be viewed merely as wicked enemies, but as our fello
 
 {{< quizdown >}}
 
-# True or False: The Merovingian Frankish Empire was insignificant in shaping the medieval world of the West. 
+# True or False: The Merovingian Frankish Empire was insignificant in shaping the medieval world of the West. {#true-or-false-the-merovingian-frankish-empire-was-insignificant-in-shaping-the-medieval-world-of-the-west}
 
 1. [ ] True
 1. [x] False
 
-# All of these statements are true except
+# All of these statements are true except {#all-of-these-statements-are-true-except}
 
 1. [ ] The Merovingians come from the Germanic culture of Northern Europe. 
 1. [x] The Salian Franks almost universally adopted the Roman value system and way of life. 
 1. [ ] Frankish influence was not limited to French culture, but also shaped later Germanic culture, Dutch culture, and so on. 
 1. [ ] To the Romans, the many different groups living just north of the Roman boundary were all considered "barbarians", despite the differences among them. 
 
-# Which of these statements about evangelism are true? 
+# Which of these statements about evangelism are true? {#which-of-these-statements-about-evangelism-are-true}
 
 Check all that apply. 
 
@@ -611,20 +611,20 @@ Check all that apply.
 1. [x] Although we may not agree with all the theology or decisions made in the Early church, we should not minimize the evanglistic work
 done over the centuries. 
 
-# Which of these statements about the Merovingian kings are true? 
+# Which of these statements about the Merovingian kings are true? {#which-of-these-statements-about-the-merovingian-kings-are-true}
 
 1. [x] They have at times been known as "the long-haired kings. 
 1. [ ] They kept their hair long as a symbol of ritual purity, much like Sampson in the Bible. 
 1. [x] They believed their hair was the key to their strength and military might. 
 1. [ ] All of the above. 
 
-# True or False: The Arian bishop who had a hand in the creation of the Gothic alphabet and the translation of the Bible into Old Gothic
+# True or False: The Arian bishop who had a hand in the creation of the Gothic alphabet and the translation of the Bible into Old Gothic {#true-or-false-the-arian-bishop-who-had-a-hand-in-the-creation-of-the-gothic-alphabet-and-the-translation-of-the-bible-into-old-gothic}
 was named Ufilas. 
 
 1. [x] True
 1. [ ] False 
 
-# Which of these statements about the ancestors of the Merovingian dynasty are true? 
+# Which of these statements about the ancestors of the Merovingian dynasty are true? {#which-of-these-statements-about-the-ancestors-of-the-merovingian-dynasty-are-true}
 
 1. [ ] They came from a people who had embraced the expansion of the Arian faith, as a number of Germanic tribes did in earlier centuries.  
 1. [x] They were polygamists. 
@@ -632,12 +632,12 @@ was named Ufilas.
 1. [ ] All of the above. 
 1. [ ] None of the above. 
 
-# True or False: Clovis I was the founding king of the Merovingian dynasty proper. 
+# True or False: Clovis I was the founding king of the Merovingian dynasty proper. {#true-or-false-clovis-i-was-the-founding-king-of-the-merovingian-dynasty-proper}
 
 1. [x] True
 1. [ ] False 
 
-# Whose conversion to Catholicism opened the door for the Catholicization of the Franks and their interactions with the hierarchy of the Catholic church? 
+# Whose conversion to Catholicism opened the door for the Catholicization of the Franks and their interactions with the hierarchy of the Catholic church? {#whose-conversion-to-catholicism-opened-the-door-for-the-catholicization-of-the-franks-and-their-interactions-with-the-hierarchy-of-the-catholic-church}
 
 1. [ ] Chlodomer
 1. [ ] Theuderic I
@@ -645,18 +645,18 @@ was named Ufilas.
 1. [ ] Chlothar I
 1. [ ] Childebert I
 
-# True or False: Clotilde, the wife of Clovis I, was a Catholic and was eventually made a saint due to her pivotal role in the conversion of her husband (although he initially resisted her efforts). 
+# True or False: Clotilde, the wife of Clovis I, was a Catholic and was eventually made a saint due to her pivotal role in the conversion of her husband (although he initially resisted her efforts). {#true-or-false-clotilde-the-wife-of-clovis-i-was-a-catholic-and-was-eventually-made-a-saint-due-to-her-pivotal-role-in-the-conversion-of-her-husband-although-he-initially-resisted-her-efforts}
 
 1. [x] True
 1. [ ] False
 
-# On what date was Clovis I said to have been baptized into the Catholic faith? 
+# On what date was Clovis I said to have been baptized into the Catholic faith? {#on-what-date-was-clovis-i-said-to-have-been-baptized-into-the-catholic-faith}
 
 1. [ ] Christmas day, 489
 1. [ ] Christmas day, 491
 1. [x] Christmas day, 496
 
-# Which of these statements about hagiographies are true? 
+# Which of these statements about hagiographies are true? {#which-of-these-statements-about-hagiographies-are-true}
 
 Check all the apply. 
 
@@ -666,7 +666,7 @@ Check all the apply.
 1. [x] Hagiographies are important texts for the Catholic and Eastern Orthodox churches. 
 1. [x] Hagiographies present historiographical difficulties if taken seriously, due to their issues of plausibility and accuracy.
 
-# Which of these factors were involved in the weakening of the Merovingian dynasty?
+# Which of these factors were involved in the weakening of the Merovingian dynasty? {#which-of-these-factors-were-involved-in-the-weakening-of-the-merovingian-dynasty}
 
 Check all the apply.
 
@@ -674,7 +674,7 @@ Check all the apply.
 1. [x] The distribution of the king's inheritance equally among his sons, leading to fractured power and destructive succession disputes between brothers. 
 1. [x] The growing influence of a court role known as "the mayor of the palace", leading to a decrease of the king's power. 
 
-# Which of these statments about Brunhilda are true? 
+# Which of these statments about Brunhilda are true? {#which-of-these-statments-about-brunhilda-are-true}
 
 1. [x] She was the wife of Sigebert I.
 1. [x] She was a Visigothic princess. 
@@ -682,49 +682,49 @@ Check all the apply.
 1. [ ] She was known as a violent, vindictive woman her entire life. 
 1. [x] She was executed in her 70s. 
 
-# All of these statments are true except
+# All of these statments are true except {#all-of-these-statments-are-true-except}
 
 1. [ ] Believers should focus on the Kingdom of God, rather than earthly kingdoms. 
 1. [ ] Believers should examine themselves to make sure they are walking the walk, not just talking the talk. 
 1. [x] When someone claims to be a Christian, it means their actions will be godly.
 1. [ ] The actions of people claiming Christ have no influence on what is true or what is not true. 
 
-# True or False: The earliest rulers of the Carolingian dynasty exercised power in the mayor of the palace role, rather than themselves officially holding the crown.
+# True or False: The earliest rulers of the Carolingian dynasty exercised power in the mayor of the palace role, rather than themselves officially holding the crown. {#true-or-false-the-earliest-rulers-of-the-carolingian-dynasty-exercised-power-in-the-mayor-of-the-palace-role-rather-than-themselves-officially-holding-the-crown}
 
 1. [x] True
 1. [ ] False
 
-# In 687, which ruler defeated the forces of Neustria and Burgundy in the Battle of Tertry? 
+# In 687, which ruler defeated the forces of Neustria and Burgundy in the Battle of Tertry? {#in-687-which-ruler-defeated-the-forces-of-neustria-and-burgundy-in-the-battle-of-tertry}
 
 1. [x] Pepin II
 1. [ ] Pepin the Short
 1. [ ] Charles Martel
 1. [ ] Charlemagne
 
-# Which of these statments about the last Merovingian king are true? 
+# Which of these statments about the last Merovingian king are true? {#which-of-these-statments-about-the-last-merovingian-king-are-true}
 
 1. [x] He was deposed in 751 by Pepin the Short. 
 1. [ ] Pope Zachary supported the king and did not wish to see him deposed. 
 1. [ ] His name was Childeric II. 
 1. [x] His long hair, a sign of Merovingian royalty, was cut and he was confined to a monastery. 
 
-# True or False: Warfare in the Middle Ages typically involved armies charging at each other on a flat plain. 
+# True or False: Warfare in the Middle Ages typically involved armies charging at each other on a flat plain. {#true-or-false-warfare-in-the-middle-ages-typically-involved-armies-charging-at-each-other-on-a-flat-plain}
 
 1. [ ] True
 1. [x] False
 
-# Which of these statements are true?
+# Which of these statements are true? {#which-of-these-statements-are-true}
 
 1. [x] Charles Martel funded his army at least in part by unilaterally seizing Church lands.
 1. [x] Charles Martel's grandson, also named Charles, recieved the epithet "the great" and came to be known as Charlemange. 
 1. [ ] The Carolingian Empire was formally established by Charles Martel.
 
-# True or False: The purpose of the Church is spiritual growth and production, not politics. 
+# True or False: The purpose of the Church is spiritual growth and production, not politics. {#true-or-false-the-purpose-of-the-church-is-spiritual-growth-and-production-not-politics}
 
 1. [x] True
 1. [ ] False
 
-# Which of these statements are false? 
+# Which of these statements are false? {#which-of-these-statements-are-false}
 
 Check all the apply. 
 
@@ -734,12 +734,12 @@ Check all the apply.
 1. [ ] Believers should desire the spiritual good of all, regardless of race or religion. 
 1. [x] Christians should not defend themselves.  
 
-# True or False: Many Christians throughout large parts of the Middle Ages, and even up to the present, have shown a noticable lack of desiring the salvation of Muslims. 
+# True or False: Many Christians throughout large parts of the Middle Ages, and even up to the present, have shown a noticable lack of desiring the salvation of Muslims. {#true-or-false-many-christians-throughout-large-parts-of-the-middle-ages-and-even-up-to-the-present-have-shown-a-noticable-lack-of-desiring-the-salvation-of-muslims}
 
 1. [x] True
 1. [ ] False
 
-# True or False: As believers, we have been forgiven a great debt of sin, and so we need to forgive the small debts others owe us. 
+# True or False: As believers, we have been forgiven a great debt of sin, and so we need to forgive the small debts others owe us. {#true-or-false-as-believers-we-have-been-forgiven-a-great-debt-of-sin-and-so-we-need-to-forgive-the-small-debts-others-owe-us}
 
 Compare Matthew 18:21-35. 
 
