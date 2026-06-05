@@ -782,7 +782,7 @@ This lesson we first go over why the title of the introduction to SR4 mentions S
 #### The Introduction's title: Satan's rebellion and fall {#like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devil-s-realm-the-introduction-s-title-satan-s-rebellion-and-fall}
 
 {{< properties
-Satan's rebellion > Is the backdrop of all creature history"
+stags="Satan's rebellion > Is the backdrop of all creature history"
 >}}
 
 The introduction section of our present study, though not dealing explicitly with the topic of Satan's rebellion and fall, nonetheless shares the title, as do several other introduction sections in the series.

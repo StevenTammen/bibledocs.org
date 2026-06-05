@@ -62,7 +62,7 @@ We will examine exactly what this statement means as we continue in our study, b
 ### Is the terminology itself important in considering the development of this doctrine? {#is-the-terminology-itself-important-in-considering-the-development-of-this-doctrine}
 
 {{< properties
-stags="Trinity > Scripture alone is sufficient for establishing the teaching | Trinity > The teaching existed before the word "Trinity" was used for it"
+stags="Trinity > Scripture alone is sufficient for establishing the teaching | Trinity > The teaching existed before the word “Trinity” was used for it"
 >}}
 <!-- p="Revelation 4:8" -->
 

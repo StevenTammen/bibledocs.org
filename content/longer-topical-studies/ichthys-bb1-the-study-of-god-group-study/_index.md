@@ -3978,7 +3978,7 @@ We will examine exactly what this statement means as we continue in our study, b
 #### Is the terminology itself important in considering the development of this doctrine? {#introduction-the-trinity-is-the-terminology-itself-important-in-considering-the-development-of-this-doctrine}
 
 {{< properties
-stags="Trinity > Scripture alone is sufficient for establishing the teaching | Trinity > The teaching existed before the word "Trinity" was used for it"
+stags="Trinity > Scripture alone is sufficient for establishing the teaching | Trinity > The teaching existed before the word “Trinity” was used for it"
 >}}
 <!-- p="Revelation 4:8" -->
 
@@ -13469,7 +13469,7 @@ It needs to be made clear right at the outset that by Christophany we are defini
 #### The invisibility of the Father {#appearances-of-christ-in-the-old-testament-introduction-the-invisibility-of-the-father}
 
 {{< properties
-stags="God > Resplendence > Unapproachable light | Trinity > Roles > Father | Interpretation > Principles > "No one has seen the Father""
+stags="God > Resplendence > Unapproachable light | Trinity > Roles > Father | Interpretation > Principles > “No one has seen the Father”"
 >}}
 <!-- p="Matthew 18:10; Matthew 6:6; Matthew 6:26; Revelation 21:1-3; Exodus 33:20; Isaiah 45:15; John 1:18; John 6:46; 1 Timothy 6:16; 1 John 4:12" -->
 

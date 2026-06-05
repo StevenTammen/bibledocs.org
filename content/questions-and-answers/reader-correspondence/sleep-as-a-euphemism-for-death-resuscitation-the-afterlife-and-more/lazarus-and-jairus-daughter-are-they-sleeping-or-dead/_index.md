@@ -173,7 +173,7 @@ So this is the "setting of the scene" for this passage here in Matthew.
 ##### It is not a euphemism this time, but something completely different {#it-is-not-a-euphemism-this-time-but-something-completely-different}
 
 {{< properties
-stags="Interpretation > NT Principles > "Jesus' time had not yet come" | Jesus > Intentionally avoided celebrity | Interpretation > Inferences have their place when they only go so far as the evidence allows"
+stags="Interpretation > NT Principles > “Jesus's time had not yet come” | Jesus > Intentionally avoided celebrity | Interpretation > Inferences have their place when they only go so far as the evidence allows"
 >}}
 <!-- p="Mark 1:40-45; Matthew 9:30; Matthew 12:16; Luke 7:11-17; Exodus 1:15-22; Hebrews 11:31; James 2:25" -->
 

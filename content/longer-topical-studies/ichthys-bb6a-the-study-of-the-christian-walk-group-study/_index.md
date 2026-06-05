@@ -54,7 +54,7 @@ This week we talked about how to recover after we have stumbled in sin -- the pr
 #### What to make of the fact that we all sin? {#confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall-what-to-make-of-the-fact-that-we-all-sin}
 
 {{< properties
-Sin > Universality"
+stags="Sin > Universality"
 >}}
 
 {{% ichthys-translation p="Hebrews 12:12-13" %}}
@@ -128,7 +128,7 @@ Such pointless exercises in self-flagellation are at the least border-line legal
 #### Reorient {#confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall-reorient}
 
 {{< properties
-Spiritual perspective > Eyes on the prize"
+stags="Spiritual perspective > Eyes on the prize"
 >}}
 
 Just as soon as we are back on our feet, we need to put ourselves mentally back into the race.
@@ -146,7 +146,7 @@ We need to remember to respond to the Spirit who is telling us this at all times
 #### Looking back is not productive for us as Christians {#confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall-looking-back-is-not-productive-for-us-as-christians}
 
 {{< properties
-Sin > We should not dwell on the past, but keep our eyes fixed forward"
+stags="Sin > We should not dwell on the past, but keep our eyes fixed forward"
 >}}
 
 It should also be noted that long post-mortems following spiritual defeats serve no useful purpose and can often cause us to set our gaze looking backwards instead of forwards as we ought to be doing.

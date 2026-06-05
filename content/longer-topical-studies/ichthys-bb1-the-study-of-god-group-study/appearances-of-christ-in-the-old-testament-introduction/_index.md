@@ -84,7 +84,7 @@ It needs to be made clear right at the outset that by Christophany we are defini
 ### The invisibility of the Father {#the-invisibility-of-the-father}
 
 {{< properties
-stags="God > Resplendence > Unapproachable light | Trinity > Roles > Father | Interpretation > Principles > "No one has seen the Father""
+stags="God > Resplendence > Unapproachable light | Trinity > Roles > Father | Interpretation > Principles > “No one has seen the Father”"
 >}}
 <!-- p="Matthew 18:10; Matthew 6:6; Matthew 6:26; Revelation 21:1-3; Exodus 33:20; Isaiah 45:15; John 1:18; John 6:46; 1 Timothy 6:16; 1 John 4:12" -->
 

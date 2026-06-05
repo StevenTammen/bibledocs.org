@@ -11,7 +11,7 @@ Does it mean anything that both Lazarus and Jairus' daughter came back to life a
 <!--more-->
 
 {{< properties
-Sleep > As a euphemism for death > Does not necessarily point to eventual resuscitation"
+stags="Sleep > As a euphemism for death > Does not necessarily point to eventual resuscitation"
 >}}
 
 {{% section-navigation %}}

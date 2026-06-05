@@ -171,7 +171,7 @@ This means the *hapax* of Hebrews 9:27 is set directly parallel with the "once f
 ##### The importance of the "once for all" concept as it pertains to Christ's work completely forces our hand in translating Hebrews 9:26, 28 {#the-importance-of-the-once-for-all-concept-as-it-pertains-to-christ-s-work-completely-forces-our-hand-in-translating-hebrews-9-26-28}
 
 {{< properties
-stags="Interpretation > NT Principles > "Once for all""
+stags="Interpretation > NT Principles > “Once for all”"
 >}}
 <!-- p="1 Peter 3:18; Romans 6:10; Hebrews 7:27; Hebrews 9:12; Hebrews 10:10" -->
 

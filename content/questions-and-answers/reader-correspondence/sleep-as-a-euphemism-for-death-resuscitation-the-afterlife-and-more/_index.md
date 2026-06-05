@@ -176,7 +176,7 @@ So this is the "setting of the scene" for this passage here in Matthew.
 ###### It is not a euphemism this time, but something completely different {#lazarus-and-jairus-daughter-are-they-sleeping-or-dead-it-is-not-a-euphemism-this-time-but-something-completely-different}
 
 {{< properties
-stags="Interpretation > NT Principles > "Jesus' time had not yet come" | Jesus > Intentionally avoided celebrity | Interpretation > Inferences have their place when they only go so far as the evidence allows"
+stags="Interpretation > NT Principles > “Jesus's time had not yet come” | Jesus > Intentionally avoided celebrity | Interpretation > Inferences have their place when they only go so far as the evidence allows"
 >}}
 <!-- p="Mark 1:40-45; Matthew 9:30; Matthew 12:16; Luke 7:11-17; Exodus 1:15-22; Hebrews 11:31; James 2:25" -->
 
@@ -872,7 +872,7 @@ Bob L.
 ## [Does Jesus' Use of the Sleeping Terminology Have Anything to Do with Resuscitation?](/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/does-jesus-use-of-the-sleeping-terminology-have-anything-to-do-with-resuscitation) {#does-jesus-use-of-the-sleeping-terminology-have-anything-to-do-with-resuscitation}
 
 {{< properties
-Sleep > As a euphemism for death > Does not necessarily point to eventual resuscitation"
+stags="Sleep > As a euphemism for death > Does not necessarily point to eventual resuscitation"
 >}}
 
 
@@ -2307,7 +2307,7 @@ This means the *hapax* of Hebrews 9:27 is set directly parallel with the "once f
 ###### The importance of the "once for all" concept as it pertains to Christ's work completely forces our hand in translating Hebrews 9:26, 28 {#could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death-the-importance-of-the-once-for-all-concept-as-it-pertains-to-christ-s-work-completely-forces-our-hand-in-translating-hebrews-9-26-28}
 
 {{< properties
-stags="Interpretation > NT Principles > "Once for all""
+stags="Interpretation > NT Principles > “Once for all”"
 >}}
 <!-- p="1 Peter 3:18; Romans 6:10; Hebrews 7:27; Hebrews 9:12; Hebrews 10:10" -->
 
