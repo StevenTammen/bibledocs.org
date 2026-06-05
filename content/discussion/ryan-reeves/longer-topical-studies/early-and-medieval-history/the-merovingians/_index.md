@@ -313,7 +313,7 @@ The point of all this is that this sort of political infighting (arising primari
 
 {{< properties
 
-stags="Believers > Should we be troubled by un-Christlike actions of people indentifying as "Christian"?"
+stags="Believers > Should we be troubled by un-Christlike actions of people identifying as “Christian”?"
 
 >}}
 
