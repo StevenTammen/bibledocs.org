@@ -44,9 +44,9 @@ Genesis 1:1 (in the original Hebrew and Greek Septuagint both) and John 1:1 do n
 
 #### The "beginning" mentioned in Genesis 1:1 (and also John 1:1) is indefinite not definite {#genesis-1-1-what-beginning-is-in-view-the-beginning-mentioned-in-genesis-1-1-and-also-john-1-1-is-indefinite-not-definite}
 
-{{< subjects >}}
-<a href="/subject-index/#definite-articles-importance-of">Definite articles > Importance of</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Definite articles > Importance of"
+{{< /properties >}}
 
 Genesis 1:1 is the first verse in the Bible. It mentions the word "beginning." The question is then, what beginning is in view? One possibility is that the beginning is referring to the beginning of God's actions regarding the material universe. Another possibility is that the beginning is referring to the beginning of the material universe itself.
 
@@ -120,11 +120,9 @@ When God commanded spacetime to come into existence from nothing, it did. God's 
 
 #### How did God exist before space and time? {#genesis-1-1-what-beginning-is-in-view-how-did-god-exist-before-space-and-time}
 
-{{< subjects >}}
-<a href="/subject-index/#god-externality-to-spacetime">God > Externality to spacetime</a>
-<a href="/subject-index/#god-name-of-god">God > Name of God</a>
-<a href="/subject-index/#tetragrammaton">Tetragrammaton</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="God > Externality to spacetime | God > Name of God | Tetragrammaton"
+{{< /properties >}}
 
 We human beings are very small and finite. Due to this limited perspective, we don't have much hope of truly understanding exactly what it means to be outside of space and time. This acknowledgement of our own limits is the first step to accepting the difficult idea of God existing outside of space and time.
 

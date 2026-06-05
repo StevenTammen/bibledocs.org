@@ -40,9 +40,9 @@ In the first lesson, we argued that the Bible clearly teaches that we need to ho
 
 ### Back to the main thrust of the question {#back-to-the-main-thrust-of-the-question}
 
-{{< subjects >}}
-<a href="/subject-index/#application-gray-areas">Application > Gray areas</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Application > Gray areas"
+{{< /properties >}}
 
 So what of situations when our parents aren't really being abusive *per se*, but are also being a bit unreasonable (at least as it seems to us)? For example, what if our parents think it is their right to determine our career path, marriage partner, and even what we spend our independently-earned money on?
 
@@ -56,10 +56,9 @@ Note, however, that scripture is strong enough in its exhortations to obey our p
 
 ### Cultural context is important {#cultural-context-is-important}
 
-{{< subjects >}}
-<a href="/subject-index/#application-culture-can-be-important">Application > Culture can be important</a>
-<a href="/subject-index/#culture-may-be-relevant-in-application">Culture > May be relevant in application</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Application > Culture can be important | Culture > May be relevant in application"
+{{< /properties >}}
 
 There are collectivist cultures in the world wherein it is normal for the leader of a family/clan (typically an older man) to decide the affairs of everyone in the group (children being just part of the collective).
 
@@ -104,9 +103,9 @@ As a rule of thumb, if put on the scale, God's Will for us outweighs parental pr
 
 #### Career {#career}
 
-{{< subjects >}}
-<a href="/subject-index/#parents-disagreement-with-career">Parents > Disagreement with > Career</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Parents > Disagreement with > Career"
+{{< /properties >}}
 
 Parents generally want their kids to live a better life -- becoming doctors, lawyers, accountants, engineers, and so forth rather than blue-collar day-laborers like themselves (e.g.). One less-meddlesome approach parents can take is to just highly encourage education and self-discipline and leave their kids to work out the specifics.
 
@@ -118,9 +117,9 @@ Well, what does God want you to do? If the answer is "history professor," then h
 
 #### Choice of significant other {#choice-of-significant-other}
 
-{{< subjects >}}
-<a href="/subject-index/#parents-disagreement-with-significant-other">Parents > Disagreement with > Significant other</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Parents > Disagreement with > Significant other"
+{{< /properties >}}
 
 As with career, parents generally want the best for their kids. The issues typically arise when your parents don't think someone you like is good for you.
 
@@ -144,9 +143,9 @@ Usually things won't be so clear-cut. The main idea is to take your parents' opi
 
 #### Choice of friends {#choice-of-friends}
 
-{{< subjects >}}
-<a href="/subject-index/#parents-disagreement-with-friends">Parents > Disagreement with > Friends</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Parents > Disagreement with > Friends"
+{{< /properties >}}
 
 Since friendships are much less set-in-stone than marriages, the stakes here are lower; however, many of the same considerations apply. Parents are naturally going to want to steer their children away from negative influences.
 
@@ -160,9 +159,9 @@ As you might have been able to guess, there is a middle road to be walked here a
 
 #### Spiritual approach {#spiritual-approach}
 
-{{< subjects >}}
-<a href="/subject-index/#parents-disagreement-with-spiritual-approach">Parents > Disagreement with > Spiritual approach</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Parents > Disagreement with > Spiritual approach"
+{{< /properties >}}
 
 Aside from the avoiding negative influence bit, there is with friends also the potential area of parental disagreement regarding how much spiritual dedication is expected among those we associate with, and of exactly what sort (i.e., do friends have to belong to the specific religious group or subgroup as your parents to gain their approval?).
 

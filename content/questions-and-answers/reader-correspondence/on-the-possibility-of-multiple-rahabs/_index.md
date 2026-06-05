@@ -13,9 +13,9 @@ Some people ask whether the prostitute Rahab who hid the Jewish spies is the Rah
 
 ## [Dealing With the Main Arguments Against a Single Rahab Interpretation](/questions-and-answers/reader-correspondence/on-the-possibility-of-multiple-rahabs/dealing-with-the-main-arguments-against-a-single-rahab-interpretation) {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation}
 
-{{< subjects >}}
-<a href="/subject-index/#rahab-the-prostitute">Rahab the prostitute</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Rahab the prostitute"
+{{< /properties >}}
 
 
 
@@ -58,9 +58,9 @@ I was talking to someone this week about Rahab, and there is a point of confusio
 
 #### An approach to answering this question: refuting an argument representative of the the opposing position point-by-point {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-an-approach-to-answering-this-question-refuting-an-argument-representative-of-the-the-opposing-position-point-by-point}
 
-{{< subjects >}}
-<a href="/subject-index/#apologetics-combatting-falsehood-by-refuting-a-representative-specific-argument">Apologetics > Combatting falsehood by refuting a representative specific argument</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Apologetics > Combatting falsehood by refuting a representative specific argument"
+{{< /properties >}}
 
 I did a bit more research and [this](http://www.outsidethecamp.org/rahab.htm) [**Post hoc note:** evidently this site no longer exists, so my comments are addressing points that are now impossible to read in context. This is unfortunate, but there's nothing that I can do about it] seems to be the prototypical opinion of those who would wish to have "another" Rahab.
 
@@ -245,9 +245,9 @@ This lesson spends time focusing on a single thing: refuting the idea that it mu
 
 #### There could never be a harlot in the line of Jesus Christ! How heretical! {#the-supposed-scandal-of-a-prostitute-in-the-line-of-christ-there-could-never-be-a-harlot-in-the-line-of-jesus-christ-how-heretical}
 
-{{< subjects >}}
-<a href="/subject-index/#legalism-counterexamples-a-prostitute-is-in-the-line-of-christ">Legalism > Counterexamples > A prostitute is in the line of Christ</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Legalism > Counterexamples > A prostitute is in the line of Christ"
+{{< /properties >}}
 
 [**Post hoc note**: if any wording here rubs you the wrong way, you can jump ahead a little bit to the standalone purple post hoc section, where I go through these women in the genealogy in more depth].
 
@@ -269,9 +269,9 @@ In fact, one might go so far as to say that the onus is on those who want to mak
 
 #### More on the women in the genealogy of Christ {#the-supposed-scandal-of-a-prostitute-in-the-line-of-christ-more-on-the-women-in-the-genealogy-of-christ}
 
-{{< subjects >}}
-<a href="/subject-index/#genealogy-of-christ-women-in-the-line-of-christ">Genealogy of Christ > Women in the line of Christ</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Genealogy of Christ > Women in the line of Christ"
+{{< /properties >}}
 
 After hearing a sermon on these women in the genealogy of Christ that made me horribly nauseous on account of what amounted to women-bashing, I wish to spell out more specifics here to head off any misinterpretation of my words. (Which I now wish I had put somewhat differently; even though I never meant anything even close to women-bashing in what I wrote -- God forbid! -- I'm now more sensitive to the wording on this matter specifically, since it has become apparent to me that spelling it out is probably necessary to stop certain arrogant men from twisting things).
 
@@ -299,9 +299,9 @@ Sin is a human problem, not a woman problem. (Duh).
 
 #### But they were included in Matthew's genealogy specifically to showcase God's surpassing grace towards mankind {#the-supposed-scandal-of-a-prostitute-in-the-line-of-christ-but-they-were-included-in-matthew-s-genealogy-specifically-to-showcase-god-s-surpassing-grace-towards-mankind}
 
-{{< subjects >}}
-<a href="/subject-index/#genealogy-of-christ-women-in-the-line-of-christ-showcase-god-s-surpassing-grace">Genealogy of Christ > Women in the line of Christ > Showcase God's surpassing grace</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Genealogy of Christ > Women in the line of Christ > Showcase God's surpassing grace"
+{{< /properties >}}
 
 Even though the genealogies in Matthew 1 and Luke 3 trace bloodlines through the males, these women were included in Matthew's genealogy for a reason, and that is to showcase the surpassing grace of God. Other women could have been included -- the righteous wives of various men throughout the generations -- but that's not what God chose to emphasize. Instead, it is the women that would be the subject of gossip and slander -- the one who had twins by her older father-in-law, the one whose husband the king murdered to obtain, the one coming from a foreign land, the one who used to be a prostitute -- these are the women God saw fit to have Matthew mention.
 
@@ -389,9 +389,9 @@ This lesson handles a couple other objections that some people raise in trying t
 
 #### "It's not the same Rahab because the chronology does not work" {#handling-several-other-matters-it-s-not-the-same-rahab-because-the-chronology-does-not-work}
 
-{{< subjects >}}
-<a href="/subject-index/#chronology-long-lifespans-do-not-necessarily-pose-problems">Chronology > Long lifespans do not necessarily pose problems</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Chronology > Long lifespans do not necessarily pose problems"
+{{< /properties >}}
 
 {{% quote src="http://www.outsidethecamp.org/rahab.htm" text="OutsideTheCamp.org" %}}
 "[L]et us assume for a moment that Salmon did marry Rahab the harlot within a year or so of the fall of Jericho, and that Boaz was born a year or so after that. If such were the case, then Boaz would have been about 115 years old when he married Ruth! On the other hand, if we assume that Rahab was about 30 years of age when Jericho fell, and that Salmon did not marry her till 30 years or more later, then not only would Rahab have been at least 60 years of age and no longer able to bear children, but Boaz, even if born 30 years after the fall of Jericho, would still have been 85 years of age when he married Ruth... Thus all the evidence confirms the fact that Salmon did not marry Rahab the Canaanite harlot."
@@ -411,9 +411,9 @@ Here is what a friend and mentor of mine has to say about the matter (please see
 
 #### "Neither Josephus nor Joshua mention a marriage between the prostitute Rahab and Salmon" {#handling-several-other-matters-neither-josephus-nor-joshua-mention-a-marriage-between-the-prostitute-rahab-and-salmon}
 
-{{< subjects >}}
-<a href="/subject-index/#josephus">Josephus</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Josephus"
+{{< /properties >}}
 
 {{% quote %}}
 Joshua 6:25 states that Rahab was given land in the midst of Israel in return for risking her own life by hiding the two spies that were sent to Jericho. Josephus in his "Antiquities of the Jews", Book 5 chapter 1, sections 2 and 7, records the same story but neither he nor Joshua make any reference to a marriage taking place between Rahab and Salmon. That deafening silence is itself the strongest proof that no such marriage did take place...
@@ -449,9 +449,9 @@ For Matthew 1:5, This seems to match the TR, and goes against my whole argument.
 
 #### Dr. Luginbill of Ichthys.com responding {#handling-several-other-matters-dr-luginbill-of-ichthys-com-responding}
 
-{{< subjects >}}
-<a href="/subject-index/#transliteration-of-names-places-etc-is-not-consistent-in-scripture">Transliteration of names, places, etc. > Is not consistent in scripture</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Transliteration of names, places, etc. > Is not consistent in scripture"
+{{< /properties >}}
 
 Hi Steven,
 

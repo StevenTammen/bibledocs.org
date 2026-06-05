@@ -48,10 +48,9 @@ Incidentally, those verses about government obedience above also give rise to a 
 
 ### Abuse {#abuse}
 
-{{< subjects >}}
-<a href="/subject-index/#child-abuse">Child abuse</a>
-<a href="/subject-index/#abuse-child-abuse">Abuse > Child abuse</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Child abuse | Abuse > Child abuse"
+{{< /properties >}}
 
 Christians are called to provide for those in their house (1 Timothy 5:8). If parents are so deficient as to not only not adequately provide for their children, but instead become abusive towards them (whether physically, emotionally, etc.), the relationship has already been severed.
 
@@ -67,11 +66,9 @@ Some people are best loved from a distance. Perhaps even with a restraining orde
 
 #### Spousal abuse and divorce {#spousal-abuse-and-divorce}
 
-{{< subjects >}}
-<a href="/subject-index/#spousal-abuse">Spousal abuse</a>
-<a href="/subject-index/#abuse-spousal-abuse">Abuse > Spousal abuse</a>
-<a href="/subject-index/#divorce-abuse-exception">Divorce > Abuse exception</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Spousal abuse | Abuse > Spousal abuse | Divorce > Abuse exception"
+{{< /properties >}}
 
 The above holds true not just for children, but also for women who are victims of spousal abuse. The Bible may not directly mention domestic abuse as valid grounds for divorce as it does infidelity -- compare Matthew 19:9 -- but if women are already allowed to sever contact with husbands not willing to honor the marriage bed, it is inconceivable that God's Will is that women suffer years of terrible abuse at the hands of men worse than unbelievers, as 1 Timothy 5:8 puts it.
 
@@ -101,11 +98,9 @@ Not everything is so cut-and-dry as this though. There certainly are parents out
 
 #### Should we step in if people aren't parenting how we would? {#should-we-step-in-if-people-aren-t-parenting-how-we-would}
 
-{{< subjects >}}
-<a href="/subject-index/#meddling-is-not-proper-for-christians">Meddling > Is not proper for Christians</a>
-<a href="/subject-index/#busybody-behavior-is-not-proper-for-christians">Busybody behavior > Is not proper for Christians</a>
-<a href="/subject-index/#minding-your-own-business">Minding your own business</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Meddling > Is not proper for Christians | Busybody behavior > Is not proper for Christians | Minding your own business"
+{{< /properties >}}
 
 As long as what we perceive does not seem to cross the lines of actual abuse (i.e., that which would be reportable to the authorities), then it is not really for us as third parties to try and step in and meddle -- it's none of our business (compare 1 Thessalonians 4:11-12, 2 Thessalonians 3:11-13, Romans 14:4).
 

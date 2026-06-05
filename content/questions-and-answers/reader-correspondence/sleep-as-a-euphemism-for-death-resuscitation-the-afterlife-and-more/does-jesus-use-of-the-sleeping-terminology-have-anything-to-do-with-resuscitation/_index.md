@@ -10,9 +10,9 @@ Does it mean anything that both Lazarus and Jairus' daughter came back to life a
 
 <!--more-->
 
-{{< subjects >}}
-<a href="/subject-index/#sleep-as-a-euphemism-for-death-does-not-necessarily-point-to-eventual-resuscitation">Sleep > As a euphemism for death > Does not necessarily point to eventual resuscitation</a>
-{{< /subjects >}}
+{{< properties >}}
+Sleep > As a euphemism for death > Does not necessarily point to eventual resuscitation"
+{{< /properties >}}
 
 {{% section-navigation %}}
 
@@ -87,9 +87,9 @@ We also ought to note that there are places where sleeping is mentioned alongsid
 
 ### More explanation about how sleeping and death are tightly linguistically coupled {#more-explanation-about-how-sleeping-and-death-are-tightly-linguistically-coupled}
 
-{{< subjects >}}
-<a href="/subject-index/#interpretation-semantic-overloading-words-with-unique-connotations-stemming-from-multiple-meanings">Interpretation > Semantic overloading - words with unique connotations stemming from multiple meanings</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Interpretation > Semantic overloading - words with unique connotations stemming from multiple meanings"
+{{< /properties >}}
 <!-- p="Jeremiah 51:39; Jeremiah 51:57; Job 14:12; Daniel 12:2" -->
 
 The verb for raising someone from death is the same as awakening/rousing someone from sleep in both Hebrew and Greek—see Hebrew's *qutz* ([קוּץ](https://www.blueletterbible.org/lexicon/h6974/esv/wlc/0-1/)) and Greek's *egeiro* ([ἐγείρω](https://www.blueletterbible.org/lexicon/g1453/esv/mgnt/0-1/)), and the relevant concordance entries for this type of usage (that is, when the verbs are being used of death not sleep).

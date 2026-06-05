@@ -73,10 +73,9 @@ I'm going to go piece by piece. This got rather long, but hopefully it will hit 
 
 #### First of all, the Lazarus of Luke 16 is not the same Lazarus as John 11 {#first-of-all-the-lazarus-of-luke-16-is-not-the-same-lazarus-as-john-11}
 
-{{< subjects >}}
-<a href="/subject-index/#interpretation-challenges-different-people-in-the-bible-can-have-the-same-name">Interpretation > Challenges > Different people in the Bible can have the same name</a>
-<a href="/subject-index/#parables-how-do-you-know-if-something-is-a-parable-or-actually-happened">Parables > How do you know if something is a parable or actually happened?</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Interpretation > Challenges > Different people in the Bible can have the same name | Parables > How do you know if something is a parable or actually happened?"
+{{< /properties >}}
 <!-- p="Luke 16:19-31" -->
 
 Let's start with one of the easier things to address. Just like today, in antiquity, plenty of people shared names. So it is that we have:
@@ -116,12 +115,9 @@ Jesus most certainly does not say that it is a parable, although that is His pra
 
 #### Jesus' describing Lazarus as "sleeping" in John 11 {#jesus-describing-lazarus-as-sleeping-in-john-11}
 
-{{< subjects >}}
-<a href="/subject-index/#sleep-as-a-euphimism-for-death">Sleep > As a euphimism for death</a>
-<a href="/subject-index/#interpretation-challenges-different-cultures-use-different-idioms-metaphors-and-so-on">Interpretation > Challenges > Different cultures use different idioms, metaphors, and so on</a>
-<a href="/subject-index/#interpretation-sensitivity-to-the-cultural-context-of-the-audience-to-whom-the-text-was-written">Interpretation > Sensitivity to the cultural context of the audience to whom the text was written</a>
-<a href="/subject-index/#euphimism-use-in-scripture">Euphimism > Use in scripture</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Sleep > As a euphimism for death | Interpretation > Challenges > Different cultures use different idioms, metaphors, and so on | Interpretation > Sensitivity to the cultural context of the audience to whom the text was written | Euphimism > Use in scripture"
+{{< /properties >}}
 <!-- p="John 11" -->
 
 It is very clear from John 11 that Lazarus was dead; unlike in the Matthew 9 passage (which we will get to in a moment), there can be no doubt whatsoever here on the part of anyone. For in John 11:17, we hear that Lazarus had already been entombed for four days before Jesus arrived in Bethany.
@@ -152,9 +148,9 @@ And when we do that, hopefully it becomes clear why Jesus' words here are no con
 
 #### Jesus' describing Jairus' daughter as "sleeping" in Matthew 9 {#jesus-describing-jairus-daughter-as-sleeping-in-matthew-9}
 
-{{< subjects >}}
-<a href="/subject-index/#interpretation-sensitivity-to-the-cultural-context-of-the-audience-to-whom-the-text-was-written">Interpretation > Sensitivity to the cultural context of the audience to whom the text was written</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Interpretation > Sensitivity to the cultural context of the audience to whom the text was written"
+{{< /properties >}}
 <!-- p="Matthew 9:18-26" -->
 
 This passage appears across the Synoptic gospels: Matthew 9:18-26; Mark 5:21-43; Luke 8:40-56. It can often be helpful to read all the gospels in parallel to see how the same events are described by the different writers.
@@ -176,11 +172,9 @@ So this is the "setting of the scene" for this passage here in Matthew.
 
 ##### It is not a euphemism this time, but something completely different {#it-is-not-a-euphemism-this-time-but-something-completely-different}
 
-{{< subjects >}}
-<a href="/subject-index/#interpretation-nt-principles-jesus-time-had-not-yet-come">Interpretation > NT Principles > "Jesus' time had not yet come"</a>
-<a href="/subject-index/#jesus-intentionally-avoided-celebrity">Jesus > Intentionally avoided celebrity</a>
-<a href="/subject-index/#interpretation-inferences-have-their-place-when-they-only-go-so-far-as-the-evidence-allows">Interpretation > Inferences have their place when they only go so far as the evidence allows</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Interpretation > NT Principles > "Jesus' time had not yet come" | Jesus > Intentionally avoided celebrity | Interpretation > Inferences have their place when they only go so far as the evidence allows"
+{{< /properties >}}
 <!-- p="Mark 1:40-45; Matthew 9:30; Matthew 12:16; Luke 7:11-17; Exodus 1:15-22; Hebrews 11:31; James 2:25" -->
 
 It might be tempting to think Jesus was merely using sleep as a euphemism for death here too (just like in John 11), but there are some issues with taking that approach:
@@ -222,10 +216,9 @@ If you want to read additional support for the interpretation I put forth, you m
 
 #### What of Hebrews 9:27? {#what-of-hebrews-9-27}
 
-{{< subjects >}}
-<a href="/subject-index/#interpretation-apparent-contradictions-hebrews-9-27-says-people-can-only-die-once-but-resuscitated-people-die-twice">Interpretation > Apparent contradictions > Hebrews 9:27 says people can only die once, but resuscitated people die twice</a>
-<a href="/subject-index/#resuscitation-is-different-from-resurrection">Resuscitation > Is different from resurrection</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Interpretation > Apparent contradictions > Hebrews 9:27 says people can only die once, but resuscitated people die twice | Resuscitation > Is different from resurrection"
+{{< /properties >}}
 <!-- p="Hebrews 9:27; Matthew 27:50-53; Revelation 11:3-10" -->
 
 If Hebrews 9:27 says that people die once, then what of Lazarus and Jairus' daughter? Aren't they dying twice?

@@ -48,11 +48,9 @@ From the very beginning, the scriptures spoke of a Messiah that would come to sa
 
 ### Introduction: the Old Testament's portrayal of the suffering of Christ {#introduction-the-old-testament-s-portrayal-of-the-suffering-of-christ}
 
-{{< subjects >}}
-<a href="/subject-index/#messiah-in-the-old-testament-is-spoken-of-extensively">Messiah > In the Old Testament > Is spoken of extensively</a>
-<a href="/subject-index/#messiah-in-the-old-testament-is-clearly-prophesied-to-suffer">Messiah > In the Old Testament > Is clearly prophesied to suffer</a>
-<a href="/subject-index/#jesus-as-the-messiah-has-been-spoken-of-since-the-beginning-of-creation">Jesus > As the Messiah, has been spoken of since the beginning of creation</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Messiah > In the Old Testament > Is spoken of extensively | Messiah > In the Old Testament > Is clearly prophesied to suffer | Jesus > As the Messiah, has been spoken of since the beginning of creation"
+{{< /properties >}}
 <!-- p="Luke 24:27; 1 Peter 1:10-12; Hebrews 11:26" -->
 
 Contrary to much conventional wisdom about the Old Testament, Jesus Christ and His sacrifice on our behalf is depicted everywhere in the Old Testament. Furthermore, we know from New Testament scripture that the necessity for the mission and suffering of the Messiah was understood clearly enough by Old Testament believers (as Christ explains on the road to Emmaus: Lk.24:27; see also 1Pet.1:10-12 and Heb.11:26).
@@ -63,11 +61,9 @@ In fact, there are in the Old Testament a large variety of "types" employed to p
 
 ### Blood sacrifice {#blood-sacrifice}
 
-{{< subjects >}}
-<a href="/subject-index/#blood-sacrifice-shows-the-horrific-severity-of-sin-and-glossing-over-it-cheapens-grace">Blood sacrifice > Shows the horrific severity of sin, and glossing over it cheapens grace</a>
-<a href="/subject-index/#blood-sacrifice-animal-sacrifice-points-straight-to-the-cross-of-christ">Blood sacrifice > Animal sacrifice points straight to the cross of Christ</a>
-<a href="/subject-index/#blood-sacrifice-when-understood-properly-holds-that-god-is-the-one-providing-the-sacrifice">Blood sacrifice > When understood properly, holds that God is the one providing the sacrifice</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Blood sacrifice > Shows the horrific severity of sin, and glossing over it cheapens grace | Blood sacrifice > Animal sacrifice points straight to the cross of Christ | Blood sacrifice > When understood properly, holds that God is the one providing the sacrifice"
+{{< /properties >}}
 <!-- p="Genesis 3:21; Genesis 4:4; Genesis 9:4; Hebrews 11:4; Hebrews 9:22ff." -->
 
 From the coats of skin that God provides for Adam and Eve to indicate that One will die in their place (Gen.3:21), to Abel's sacrifice, superior to Cain's because it depicts the Substitute's death (Gen.4:4), to the Noahic covenant demanding respect for blood that represents the death of Another in our place (Gen.9:4), to the whole elaborate series of sacrifices commanded by the Mosaic law, all of which portray redemption through Another's blood (cf. Heb.9:22ff.), God made extensive use of the "teaching aid" of blood sacrifice in order that it might be crystal clear to all Old Testament believers that forgiveness of their sins was no light matter: it was something that only God could do for them, and it involved a steep and bloody price that God would somehow have to pay Himself on behalf of those who trusted in Him.
@@ -76,10 +72,9 @@ From the coats of skin that God provides for Adam and Eve to indicate that One w
 
 ### Prophecy {#prophecy}
 
-{{< subjects >}}
-<a href="/subject-index/#prophecy-old-testament-prophecies-pointing-towards-christ">Prophecy > Old Testament > Prophecies pointing towards Christ</a>
-<a href="/subject-index/#prophecy-old-testament-not-just-the-person-of-the-messiah-that-is-prophesied-but-also-his-suffering">Prophecy > Old Testament > Not just the person of the Messiah that is prophesied, but also His suffering</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Prophecy > Old Testament > Prophecies pointing towards Christ | Prophecy > Old Testament > Not just the person of the Messiah that is prophesied, but also His suffering"
+{{< /properties >}}
 <!-- p="Genesis 3:15; Numbers 21:9; Psalm 22:1; Isaiah 53:3" -->
 
 The substitutionary suffering and death of Christ on our behalf is predicted and prophesied throughout the Old Testament, for example:

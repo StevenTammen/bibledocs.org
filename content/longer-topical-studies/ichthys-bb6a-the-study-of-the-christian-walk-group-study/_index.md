@@ -53,9 +53,9 @@ This week we talked about how to recover after we have stumbled in sin -- the pr
 
 #### What to make of the fact that we all sin? {#confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall-what-to-make-of-the-fact-that-we-all-sin}
 
-{{< subjects >}}
-<a href="/subject-index/#sin-universality">Sin > Universality</a>
-{{< /subjects >}}
+{{< properties >}}
+Sin > Universality"
+{{< /properties >}}
 
 {{% ichthys-translation p="Hebrews 12:12-13" %}}
 (12) Therefore (going back to the race analogy of v.1), pick up those hands hanging slack at your side, put some strength back into your weak knees, (13) and make straight tracks for your feet, so that, [even though you fell down,] what you sprained might not be twisted completely out of joint, but might instead work its way back to health.
@@ -89,9 +89,9 @@ To this most important of points, we add the following:
 
 #### Confess to the Lord {#confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall-confess-to-the-lord}
 
-{{< subjects >}}
-<a href="/subject-index/#confession">Confession</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Confession"
+{{< /properties >}}
 
 Whatever we may have thought, said or done, however many times we have thought it, or said it, or done it, however long and however far our stumble has been, we are promised absolutely absolute forgiveness upon confession along with restoration of fellowship with the Father and the Son whom we love more than life itself (Ps.32:5; 1Jn.1:9; cf. Ps.51:1-19).
 
@@ -101,9 +101,9 @@ We should make it a habit to confess immediately whenever we err. If we do make 
 
 #### Accept God's forgiveness {#confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall-accept-god-s-forgiveness}
 
-{{< subjects >}}
-<a href="/subject-index/#forgiveness-even-if-jesus-paid-it-all-it-can-be-hard-for-us-to-embrace-the-forgiveness-as-we-ought">Forgiveness > Even if Jesus paid it all, it can be hard for us to embrace the forgiveness as we ought</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Forgiveness > Even if Jesus paid it all, it can be hard for us to embrace the forgiveness as we ought"
+{{< /properties >}}
 
 When we do confess, we must accept that God's promise to forgive us is true and that we have indeed been forgiven. The discipline we have received may continue -- as when we forgive a penitent child without necessarily restoring his or her privileges immediately (in order to let the lesson sink in).
 
@@ -113,10 +113,9 @@ But we are within our rights -- and indeed it is really obligatory -- to accept 
 
 #### Avoid self-loathing {#confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall-avoid-self-loathing}
 
-{{< subjects >}}
-<a href="/subject-index/#penance-is-bad-theology">Penance > Is bad theology</a>
-<a href="/subject-index/#sin-god-already-disciplines-us-perfectly-so-we-ought-not-discipline-ourselves-more">Sin > God already disciplines us perfectly, so we ought not discipline ourselves more</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Penance > Is bad theology | Sin > God already disciplines us perfectly, so we ought not discipline ourselves more"
+{{< /properties >}}
 
 For whatever reason, many believers are harder on themselves than the Lord is. He does discipline us, but in a loving way -- as a father comports himself towards the son he loves (Heb.12:5-11).
 
@@ -128,9 +127,9 @@ Such pointless exercises in self-flagellation are at the least border-line legal
 
 #### Reorient {#confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall-reorient}
 
-{{< subjects >}}
-<a href="/subject-index/#spiritual-perspective-eyes-on-the-prize">Spiritual perspective > Eyes on the prize</a>
-{{< /subjects >}}
+{{< properties >}}
+Spiritual perspective > Eyes on the prize"
+{{< /properties >}}
 
 Just as soon as we are back on our feet, we need to put ourselves mentally back into the race.
 
@@ -146,9 +145,9 @@ We need to remember to respond to the Spirit who is telling us this at all times
 
 #### Looking back is not productive for us as Christians {#confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall-looking-back-is-not-productive-for-us-as-christians}
 
-{{< subjects >}}
-<a href="/subject-index/#sin-we-should-not-dwell-on-the-past-but-keep-our-eyes-fixed-forward">Sin > We should not dwell on the past, but keep our eyes fixed forward</a>
-{{< /subjects >}}
+{{< properties >}}
+Sin > We should not dwell on the past, but keep our eyes fixed forward"
+{{< /properties >}}
 
 It should also be noted that long post-mortems following spiritual defeats serve no useful purpose and can often cause us to set our gaze looking backwards instead of forwards as we ought to be doing.
 

@@ -42,9 +42,9 @@ TODO: Summary
 
 ### The fallen world {#the-fallen-world}
 
-{{< subjects >}}
-<a href="/subject-index/#eden-contrasted-with-this-present-world">Eden > Contrasted with this present world</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Eden > Contrasted with this present world"
+{{< /properties >}}
 
 
 Though no doubt relieved that the Lord God had not visited upon them a swift and fiery judgment, Adam and Eve would have been anything but comforted by the harsh realities of the new world east of Eden into which they were forced following their eviction from the garden. This, assuredly, was no paradise.
@@ -63,9 +63,9 @@ Nonetheless, despite the fact that familiarity tends to inure one to hardships, 
 
 ### The darkness all around us in the world {#the-darkness-all-around-us-in-the-world}
 
-{{< subjects >}}
-<a href="/subject-index/#world-fallen-state-of">World > Fallen state of</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="World > Fallen state of"
+{{< /properties >}}
 
 That Satan's world of deep unhappiness is essentially corrupt is a truism evident at life's every turn. Everything decays. Nothing good lasts. Sin and evil are ubiquitous.
 
@@ -77,9 +77,9 @@ On top of all this, not too far down the road in every individual life lies the 
 
 ### True meaning in this life only comes through faith {#true-meaning-in-this-life-only-comes-through-faith}
 
-{{< subjects >}}
-<a href="/subject-index/#meaning-in-life-only-comes-through-faith">Meaning in life > Only comes through faith</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Meaning in life > Only comes through faith"
+{{< /properties >}}
 
 Only by our faith can we live with purpose:
 
@@ -95,9 +95,9 @@ Until that time, we wait for something better as homeless wanderers in a world w
 
 ### Though strangers and outcasts in this world, our faith marks us out as God's chosen people {#though-strangers-and-outcasts-in-this-world-our-faith-marks-us-out-as-god-s-chosen-people}
 
-{{< subjects >}}
-<a href="/subject-index/#in-the-world-but-not-of-the-world">In the world, but not of the world</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="In the world, but not of the world"
+{{< /properties >}}
 
 But by our faith and the actions that faith produces, we show the world that we are not of it, do not love it, and acknowledge that we have no true part in it -- except for the God who is the focus and the object of our love all the days of our sojourning here in the devil's inhospitable desert (cf. 1 Chronicles 29:15; Psalm 23:1-6; 39:12; 63:1; 84:5-7; 119:19; Hebrews 11:37-38; 11:13-16; 13:13-14; 1 Peter 1:1; 2:11).
 

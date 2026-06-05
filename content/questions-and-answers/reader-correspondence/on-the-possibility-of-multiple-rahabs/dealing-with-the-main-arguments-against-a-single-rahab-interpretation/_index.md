@@ -8,9 +8,9 @@ A curious friend emailed me wondering about whether the Rahab mentioned in the g
 
 <!--more-->
 
-{{< subjects >}}
-<a href="/subject-index/#rahab-the-prostitute">Rahab the prostitute</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Rahab the prostitute"
+{{< /properties >}}
 
 {{% section-navigation %}}
 
@@ -53,9 +53,9 @@ I was talking to someone this week about Rahab, and there is a point of confusio
 
 ### An approach to answering this question: refuting an argument representative of the the opposing position point-by-point {#an-approach-to-answering-this-question-refuting-an-argument-representative-of-the-the-opposing-position-point-by-point}
 
-{{< subjects >}}
-<a href="/subject-index/#apologetics-combatting-falsehood-by-refuting-a-representative-specific-argument">Apologetics > Combatting falsehood by refuting a representative specific argument</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Apologetics > Combatting falsehood by refuting a representative specific argument"
+{{< /properties >}}
 
 I did a bit more research and [this](http://www.outsidethecamp.org/rahab.htm) [**Post hoc note:** evidently this site no longer exists, so my comments are addressing points that are now impossible to read in context. This is unfortunate, but there's nothing that I can do about it] seems to be the prototypical opinion of those who would wish to have "another" Rahab.
 

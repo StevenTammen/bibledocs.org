@@ -10,9 +10,9 @@ The Trinity Roles are clearly visible in many passages in the New Testament. Whi
 
 <!--more-->
 
-{{< subjects >}}
-<a href="/subject-index/#trinity-roles">Trinity > Roles</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Trinity > Roles"
+{{< /properties >}}
 
 {{% section-navigation %}}
 
@@ -57,10 +57,9 @@ The Trinity Roles are clearly visible in many passages in the New Testament. Whi
 
 ### Matthew 3:16-17 {#matthew-3-16-17}
 
-{{< subjects >}}
-<a href="/subject-index/#baptism-of-jesus">Baptism > Of Jesus</a>
-<a href="/subject-index/#kenosis-on-the-cross">Kenosis > On the cross</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Baptism > Of Jesus | Kenosis > On the cross"
+{{< /properties >}}
 <!-- p-"Matthew 3:16-17; Matthew 3:14; 1 Peter 3:18" -->
 
 {{% ichthys-translation p="Matthew 3:16-17" %}}
@@ -73,9 +72,9 @@ The baptism of Christ had a much different symbolism from any other baptism John
 
 ### John 14:16 {#john-14-16}
 
-{{< subjects >}}
-<a href="/subject-index/#holy-spirit-is-sent-by-the-father-on-the-request-of-the-son">Holy Spirit > Is sent by the Father on the request of the Son</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Holy Spirit > Is sent by the Father on the request of the Son"
+{{< /properties >}}
 <!-- p="John 14:16" -->
 
 {{% ichthys-translation p="John 14:16" %}}
@@ -88,9 +87,9 @@ This verse shows the Father in a position of *authority*, the Son *interceding* 
 
 ### 1 Corinthians 12:4-6 {#1-corinthians-12-4-6}
 
-{{< subjects >}}
-
-{{< /subjects >}}
+{{< properties >}}
+stags=""
+{{< /properties >}}
 <!-- p="1 Corinthians 12:4-6; 1 Corinthians 12:11" -->
 
 {{% ichthys-translation p="1st Corinthians 12:4-6" %}}
@@ -103,9 +102,9 @@ Here we see clearly the respective roles of the Trinity in supporting our Christ
 
 ### 2 Corinthians 13:14 {#2-corinthians-13-14}
 
-{{< subjects >}}
-
-{{< /subjects >}}
+{{< properties >}}
+stags=""
+{{< /properties >}}
 <!-- p="2 Corinthians 13:14; John 3:16" -->
 
 {{% ichthys-translation p="2 Corinthians 13:14" %}}
@@ -118,9 +117,9 @@ The Trinity is seen here from the standpoint of salvation, before, during and af
 
 ### Ephesians 3:14-17 {#ephesians-3-14-17}
 
-{{< subjects >}}
-
-{{< /subjects >}}
+{{< properties >}}
+stags=""
+{{< /properties >}}
 <!-- p="Ephesians 3:14-17" -->
 
 {{% ichthys-translation p="Ephesians 3:14-17" %}}
@@ -133,9 +132,9 @@ In this apostolic prayer of Paul, we see the Father as the *authority* to whom P
 
 ### Ephesians 4:4-6 {#ephesians-4-4-6}
 
-{{< subjects >}}
-
-{{< /subjects >}}
+{{< properties >}}
+stags=""
+{{< /properties >}}
 <!-- p="Ephesians 4:3; Ephesians 4:4-6; Hebrews 4:15-16; Jeremiah 1:4-6" -->
 
 {{% ichthys-translation p="Ephesians 4:4-6" %}}
@@ -148,9 +147,9 @@ In this precís of the "unity of the faith" (Eph.4:3), Paul reminds us of some o
 
 ### 1 Peter 1:1-2 {#1-peter-1-1-2}
 
-{{< subjects >}}
-
-{{< /subjects >}}
+{{< properties >}}
+stags=""
+{{< /properties >}}
 <!-- p="1 Peter 1:1-2" -->
 
 {{% ichthys-translation p="1 Peter 1:1-2" %}}
@@ -163,9 +162,9 @@ Peter tells us that we believers are elected to eternal life according to the Fa
 
 ### Revelation 1:4-6 {#revelation-1-4-6}
 
-{{< subjects >}}
-
-{{< /subjects >}}
+{{< properties >}}
+stags=""
+{{< /properties >}}
 <!-- p="Revelation 1:4-6; Revelation 5:6; Isaiah 11:2" -->
 
 {{% ichthys-translation p="Revelation 1:4-6" %}}

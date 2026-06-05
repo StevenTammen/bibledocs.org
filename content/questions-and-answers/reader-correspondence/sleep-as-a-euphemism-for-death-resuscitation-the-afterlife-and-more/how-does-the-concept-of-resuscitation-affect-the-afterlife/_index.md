@@ -65,11 +65,9 @@ How does the concept of resuscitation affect the afterlife? Like where did Lazar
 
 ### On the nature and composition of human beings {#on-the-nature-and-composition-of-human-beings}
 
-{{< subjects >}}
-<a href="/subject-index/#human-beings-are-dichtomous-composed-of-flesh-and-spirit">Human beings > Are dichtomous, composed of flesh and spirit</a>
-<a href="/subject-index/#human-beings-are-not-trichotomous-we-do-not-have-souls-but-are-souls">Human beings > Are not trichotomous (we do not *have* souls, but *are* souls)</a>
-<a href="/subject-index/#soul-is-the-combination-of-flesh-and-spirit">Soul > Is the combination of flesh and spirit</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Human beings > Are dichtomous, composed of flesh and spirit | Human beings > Are not trichotomous (we do not *have* souls, but *are* souls) | Soul > Is the combination of flesh and spirit"
+{{< /properties >}}
 
 Human beings are "dichotomous"---composed of two distinct parts. Those two parts are the body, and the spirit. There is no "third thing" (what they call in Latin *tertium quid*), even though this point is widely misunderstood, such that people often think that the concept of "soul" is distinct from body and spirit.
 
@@ -90,9 +88,9 @@ At any rate, the point is that humans are made up of body and spirit (two things
 
 ### Types of death {#types-of-death}
 
-{{< subjects >}}
-<a href="/subject-index/#death-types-of">Death > Types of</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Death > Types of"
+{{< /properties >}}
 <!-- p="Genesis 3:4; Genesis 3:21" -->
 
 There are three "types of death" that human beings can experience:
@@ -109,10 +107,9 @@ Our present topic is focused upon the first type of death: physical death.
 
 ### Defining terms: physical death means someone's human spirit departs their physical body {#defining-terms-physical-death-means-someone-s-human-spirit-departs-their-physical-body}
 
-{{< subjects >}}
-<a href="/subject-index/#death-physical-death-is-when-someone-s-human-spirit-departs-their-physical-body">Death > Physical death is when someone's human spirit departs their physical body</a>
-<a href="/subject-index/#interpretation-semantic-overloading-words-with-unique-connotations-stemming-from-multiple-meanings">Interpretation > Semantic overloading - words with unique connotations stemming from multiple meanings</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Death > Physical death is when someone's human spirit departs their physical body | Interpretation > Semantic overloading - words with unique connotations stemming from multiple meanings"
+{{< /properties >}}
 
 When someone dies physically, their human spirit leaves their physical body; they cease breathing. Wording things that way is in fact precisely the proper way to think about it since in both Hebrew (*ruach*, [רוּחַ](https://biblehub.com/hebrew/7307.htm)) and Greek (*pneuma*, [πνεῦμα](https://biblehub.com/greek/4151.htm)), the exact same word is used for both spirit and breath. That is to say, the human spirit is present when breath is present, and not when not.
 
@@ -124,9 +121,9 @@ Regardless, the key takeaway point is that physical death is the removal of some
 
 ### What happens after that? {#what-happens-after-that}
 
-{{< subjects >}}
-<a href="/subject-index/#death-what-happens-after-physical-death">Death > What happens after physical death</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Death > What happens after physical death"
+{{< /properties >}}
 
 Finally, after all that groundwork, we are ready to start addressing the main thrust of the question. Put simply, what happens after physical death, and are things any different in the case of a person who will be resuscitated?
 
@@ -136,9 +133,9 @@ Let's start with the "normal" case, and explain the general mechanics of things.
 
 #### Before Christ's ascension vs. after Christ's ascension vs. in eternity proper {#before-christ-s-ascension-vs-after-christ-s-ascension-vs-in-eternity-proper}
 
-{{< subjects >}}
-<a href="/subject-index/#death-locations-of-believers-and-unbelievers-after-physical-death">Death > Locations of believers and unbelievers after physical death</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Death > Locations of believers and unbelievers after physical death"
+{{< /properties >}}
 
 Discussing what happens after physical death for humans is complicated by the fact that it has not been constant throughout human history, and where/how we will spend eternity with God in the New Heavens and New Earth is yet again different.
 
@@ -148,9 +145,9 @@ Since some of these topics are ultimately a bit tangential to the present matter
 
 ##### "Heavenly geography" {#heavenly-geography}
 
-{{< subjects >}}
-<a href="/subject-index/#heavenly-geography">Heavenly geography</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Heavenly geography"
+{{< /properties >}}
 <!-- p="2 Peter 2:4; Jude 1:6" -->
 
 My mentor created a picture to describe what can be termed "heavenly geography":
@@ -177,9 +174,9 @@ I should note that in English, we tend to be a bit loose with how we use the wor
 
 ##### Before Christ's ascension {#before-christ-s-ascension}
 
-{{< subjects >}}
-<a href="/subject-index/#death-locations-of-believers-and-unbelievers-after-physical-death-changed-after-christ-s-ascension">Death > Locations of believers and unbelievers after physical death > Changed after Christ's ascension</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Death > Locations of believers and unbelievers after physical death > Changed after Christ's ascension"
+{{< /properties >}}
 <!-- p="Ephesians 4:7-10; Luke 16:19-31" -->
 
 Before the [events described in Ephesians 4:7-10](https://ichthys.com/4A-Christo.htm#3%29_The_Transfer_of_Believers_from_the_Subterranean_Paradise_to_the_Third_Heaven) (Christ's ascension), pre-cross believers went to Hades, into the part of it known as "Abraham's Bosom". This is where Lazarus and Abraham are in Luke 16:19-31. As we mentioned before, Hades contains multiple subdivisions, including Abraham's Bosom and another section (called "Torments") where unbelieving humans go after death. The two sections are separated by a great chasm, such that nobody can cross between the two sections. (This is what Luke 16:26 is getting at).
@@ -190,9 +187,9 @@ Abraham's Bosom, though separate from the presence of the Father, was not some n
 
 ##### After Christ's ascension {#after-christ-s-ascension}
 
-{{< subjects >}}
-<a href="/subject-index/#death-locations-of-believers-and-unbelievers-after-physical-death-changed-after-christ-s-ascension">Death > Locations of believers and unbelievers after physical death > Changed after Christ's ascension</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Death > Locations of believers and unbelievers after physical death > Changed after Christ's ascension"
+{{< /properties >}}
 <!-- p="Ephesians 4:7-10" -->
 
 After the [events described in Ephesians 4:7-10](https://ichthys.com/4A-Christo.htm#3%29_The_Transfer_of_Believers_from_the_Subterranean_Paradise_to_the_Third_Heaven) (Christ's ascension), all of those who were previously in Abraham's Bosom were led by Christ into the presence of the Father in the Third Heaven. This is the victory Christ won for us on the cross: the veil of separation between us and God was completely and utterly split. When the Father accepted Christ's payment for our sins, death was defeated, and God now sees believing humans only through the blood of Christ. Therefore, since then, when believers die, they join all of our previously-departed brothers and sisters in the Third Heaven, where our ancient forebears were led after Christ's ascension.
@@ -203,9 +200,9 @@ Unbelievers still go to Torments in Hades, however. That part has stayed consist
 
 ##### In eternity proper {#in-eternity-proper}
 
-{{< subjects >}}
-<a href="/subject-index/#death-locations-of-believers-and-unbelievers-after-physical-death-are-different-in-eternity">Death > Locations of believers and unbelievers after physical death > Are different in eternity</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Death > Locations of believers and unbelievers after physical death > Are different in eternity"
+{{< /properties >}}
 <!-- p="Psalm 102:26; Isaiah 13:13; Isaiah 34:4; Isaiah 51:6; Matthew 24:35; Revelation 6:14; Revelation 20:11" -->
 
 There is described in Revelation a period of 1,000 literal years known as the Millennium, wherein Christ will rule from Jerusalem in this present creation. It will be a time of overflowing peace and prosperity like no other time before.
@@ -218,10 +215,9 @@ That is the eternal state of believers and elect angels. By way of contrast, unb
 
 #### Wait, is it just human spirits in these places? But what about resurrection bodies? {#wait-is-it-just-human-spirits-in-these-places-but-what-about-resurrection-bodies}
 
-{{< subjects >}}
-<a href="/subject-index/#heaven-is-upon-the-surface-of-the-earth-in-eternity-not-up-in-the-clouds">Heaven > Is upon the surface of the Earth in eternity, not up in the clouds</a>
-<a href="/subject-index/#resurrection-bodies-obtained-after-resurrection">Resurrection > Bodies obtained after resurrection</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Heaven > Is upon the surface of the Earth in eternity, not up in the clouds | Resurrection > Bodies obtained after resurrection"
+{{< /properties >}}
 <!-- p="1 John 3:2; Corinthians 15:35-58" -->
 
 Unfortunately, a lot of "pop culture" representations of heaven involve pearly gates, clouds, floating gold streets, and what have you—things that make it seem somehow floaty and ephemeral rather than physical. This is not compatible with the Bible's descriptions of the afterlife.
@@ -234,11 +230,9 @@ So what about before the resurrection, we might ask? Did the people in Abraham's
 
 ##### Interim bodies {#interim-bodies}
 
-{{< subjects >}}
-<a href="/subject-index/#interim-bodies-bodies-obtained-after-physical-death-but-before-resurrection">Interim bodies > Bodies obtained after physical death but before resurrection</a>
-<a href="/subject-index/#interpretation-inferences-have-their-place-when-they-only-go-so-far-as-the-evidence-allows">Interpretation > Inferences have their place when they only go so far as the evidence allows</a>
-<a href="/subject-index/#textual-criticism-places-where-it-matters-1-corinthians-5-3">Textual criticism > Places where it matters > 1 Corinthians 5:3</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Interim bodies > Bodies obtained after physical death but before resurrection | Interpretation > Inferences have their place when they only go so far as the evidence allows | Textual criticism > Places where it matters > 1 Corinthians 5:3"
+{{< /properties >}}
 <!-- p="Luke 16:24; 1 Corinthians 15:44; 2 Corinthians 5:1-4; Revelation 6:11; Revelation 7:9" -->
 
 The answer to these questions is yes—people in the afterlife (even before the resurrection) have bodies too. Recall at the beginning of today's video how we talked about the composition of humans—how we are composed of body and spirit. How could humans exist as only spirit? It is simply not how God has made us, ontologically speaking.
@@ -271,9 +265,9 @@ We have very little to go on when it comes to the constitution of the interim bo
 
 #### So answering that question of "what happens after physical death, in the normal case?" {#so-answering-that-question-of-what-happens-after-physical-death-in-the-normal-case}
 
-{{< subjects >}}
-<a href="/subject-index/#death-what-happens-after-physical-death-believers">Death > What happens after physical death > Believers</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Death > What happens after physical death > Believers"
+{{< /properties >}}
 
 Assuming we are talking about a believer:
 
@@ -286,9 +280,9 @@ And then after the resurrection, each person shall possess a resurrection body, 
 
 ### And what about for those who are resuscitated? {#and-what-about-for-those-who-are-resuscitated}
 
-{{< subjects >}}
-<a href="/subject-index/#death-what-happens-after-physical-death-for-those-who-were-resuscitated">Death > What happens after physical death > For those who were resuscitated</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Death > What happens after physical death > For those who were resuscitated"
+{{< /properties >}}
 
 Put simply, matters of the afterlife are no different when it comes to those people who are resuscitated, except they go backwards from the interim body state to the physical world in addition to the normal forward version of that passage, whereas others only ever make that transition in the forwards direction alone. Once they make the transition the second time (i.e., die for the second time after being resuscitated), it is as if there were nothing irregular about their afterlife experience at all.
 

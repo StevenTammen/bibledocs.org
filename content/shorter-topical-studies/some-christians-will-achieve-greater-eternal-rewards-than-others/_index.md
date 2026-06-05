@@ -13,9 +13,9 @@ As Ephesians 2:8-9 tells us, salvation most assuredly does come by grace through
 
 ## [Introduction to the idea that some Christians will receive greater eternal rewards than others](/shorter-topical-studies/some-christians-will-achieve-greater-eternal-rewards-than-others/introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others) {#introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others}
 
-{{< subjects >}}
-<a href="/subject-index/#eternal-rewards-not-all-people-will-receive-the-same-amount">Eternal rewards > Not all people will receive the same amount</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Eternal rewards > Not all people will receive the same amount"
+{{< /properties >}}
 
 
 
@@ -55,9 +55,9 @@ Every day people give honor to distinguished service and scorn laziness. The ide
 
 #### However, when the rewards in question are eternal, people seem to be a bit more skittish {#introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others-however-when-the-rewards-in-question-are-eternal-people-seem-to-be-a-bit-more-skittish}
 
-{{< subjects >}}
-<a href="/subject-index/#eternal-rewards-people-s-hesitancy-regarding">Eternal rewards > People's hesitancy regarding</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Eternal rewards > People's hesitancy regarding"
+{{< /properties >}}
 
 However, some people seem to have a problem when the rewards in question are not physical rewards in this temporary world of ours, but eternal spiritual rewards. There are several reasons why people might take issue:
 
@@ -71,9 +71,9 @@ Whatever the reasons, this idea of different levels of eternal reward for differ
 
 #### Some general passages dealing with differing levels of eternal reward {#introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others-some-general-passages-dealing-with-differing-levels-of-eternal-reward}
 
-{{< subjects >}}
-<a href="/subject-index/#eternal-rewards-scripture-about">Eternal rewards > Scripture about</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Eternal rewards > Scripture about"
+{{< /properties >}}
 
 Scripture is quite clear that upon Christ’s return, judgement will be rendered as to the works of men. For example:
 
@@ -271,9 +271,9 @@ The two parables are not exactly identical, but they do both teach this general 
 
 #### Tangential aside: On Bible versions that translate 'talent' with some actual dollar amount {#the-parable-of-the-talents-and-the-parable-of-the-minas-tangential-aside-on-bible-versions-that-translate-talent-with-some-actual-dollar-amount}
 
-{{< subjects >}}
-<a href="/subject-index/#translation-is-always-an-imperfect-process">Translation > Is always an imperfect process</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Translation > Is always an imperfect process"
+{{< /properties >}}
 
 The NIrV, a Bible version intentionally written at low level of writing (somewhere around where a third-grader can read) translates 'talent' as the actual dollar amount of $2,000.
 
@@ -342,10 +342,9 @@ The point of all this discussion is not necessarily to condemn translations that
 
 #### Interpreting the parable of the talents and the parable of the minas {#the-parable-of-the-talents-and-the-parable-of-the-minas-interpreting-the-parable-of-the-talents-and-the-parable-of-the-minas}
 
-{{< subjects >}}
-<a href="/subject-index/#parables-parable-of-the-talents">Parables > Parable of the talents</a>
-<a href="/subject-index/#parables-parable-of-the-minas">Parables > Parable of the minas</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Parables > Parable of the talents | Parables > Parable of the minas"
+{{< /properties >}}
 
 While these two parables are not identical in all the particulars, they teach more or less the same thing. When interpreting a parable, an important first step is identifying exactly what things in the parable stand for/represent. With this in mind:
 

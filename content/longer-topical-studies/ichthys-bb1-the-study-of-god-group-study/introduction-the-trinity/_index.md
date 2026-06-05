@@ -10,9 +10,9 @@ In this lesson, we are going to be starting an examination of a new topic in our
 
 <!--more-->
 
-{{< subjects >}}
-<a href="/subject-index/#trinity-definition">Trinity > Definition</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Trinity > Definition"
+{{< /properties >}}
 
 {{% section-navigation %}}
 
@@ -61,10 +61,9 @@ We will examine exactly what this statement means as we continue in our study, b
 
 ### Is the terminology itself important in considering the development of this doctrine? {#is-the-terminology-itself-important-in-considering-the-development-of-this-doctrine}
 
-{{< subjects >}}
-<a href="/subject-index/#trinity-scripture-alone-is-sufficient-for-establishing-the-teaching">Trinity > Scripture alone is sufficient for establishing the teaching</a>
-<a href="/subject-index/#trinity-the-teaching-existed-before-the-word-trinity-was-used-for-it">Trinity > The teaching existed before the word "Trinity" was used for it</a>
-{{< /subjects >}}
+{{< properties >}}
+stags="Trinity > Scripture alone is sufficient for establishing the teaching | Trinity > The teaching existed before the word "Trinity" was used for it"
+{{< /properties >}}
 <!-- p="Revelation 4:8" -->
 
 In short, no. The Trinity has always been there in the Bible, for those willing to open their eyes and ears to the truth. How later people came to label the idea is in no way related to the fact that this concept has been there in scripture from day one.
