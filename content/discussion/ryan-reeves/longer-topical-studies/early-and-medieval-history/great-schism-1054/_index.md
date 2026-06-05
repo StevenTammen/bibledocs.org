@@ -96,7 +96,7 @@ The main answer is the [Schism of 1054](https://en.wikipedia.org/wiki/East%E2%80
 
 #### Follow-on topics {#follow-on-topics}
 
-##### Have you ever considered how outnumbered Protestants are? And non-denominational evangelical Protestants even more so?
+##### Have you ever considered how outnumbered Protestants are? And non-denominational evangelical Protestants even more so? {#have-you-ever-considered-how-outnumbered-protestants-are-and-non-denominational-evangelical-protestants-even-more-so}
 
 Do you find it surprising that on the world stage Protestants are so highly outnumbered by Catholic and Orthodox folks (at a ratio of roughly two to one)? More generally, have you ever considered how few people claiming Christ might believe even roughly similar things to you as an individual? For example, those similar to me in belief could probably be categorized as:
 
@@ -130,7 +130,7 @@ I would argue that the more your individual beliefs place you "outside of" the s
 
 <!-- --- -->
 
-##### According to the statistics, frequency of Christian belief is strongly associated with geographic area. This should lead us to thoroughly question and examine our own beliefs
+##### According to the statistics, frequency of Christian belief is strongly associated with geographic area. This should lead us to thoroughly question and examine our own beliefs {#according-to-the-statistics-frequency-of-christian-belief-is-strongly-associated-with-geographic-area-this-should-lead-us-to-thoroughly-question-and-examine-our-own-beliefs}
 
 In the video, Dr. Reeves mentions that the Eastern Orthodox Church is the dominant form of Christianity in certain regions that have less prevalent ties with the Western world order, which means that despite its substantially smaller number of overall adherents relative to the Catholic Church (let's call it ~250 million people vs. ~1.5 billion people, or thereabouts), it still carries somewhat outsized relevancy in political and social spheres.
 
@@ -169,7 +169,7 @@ If you are ever tempted to doubt the validity of all this, remember that frequen
 
 <!-- --- -->
 
-### The Great Schism of 1054 {#the-schism-of-1054}
+### The Great Schism of 1054 {#the-great-schism-of-1054}
 
 #### Video clip from Ryan Reeves {#video-clip-from-ryan-reeves}
 
@@ -228,7 +228,7 @@ There are a number of reasons that can help explain why this schism ultimately o
 
 <!-- --- -->
 
-### Authority-related reasons for the schism {#political-reasons-for-the-schism}
+### Authority-related reasons for the schism {#authority-related-reasons-for-the-schism}
 
 #### Video clip from Ryan Reeves {#video-clip-from-ryan-reeves}
 
@@ -432,7 +432,7 @@ End:
 
 <!-- --- -->
 
-### People in power reasons for the schism {#ego-based-reasons-for-the-schism}
+### People in power reasons for the schism {#people-in-power-reasons-for-the-schism}
 
 #### Video clip from Ryan Reeves {#video-clip-from-ryan-reeves}
 
