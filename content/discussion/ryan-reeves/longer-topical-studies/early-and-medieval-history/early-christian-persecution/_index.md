@@ -25,21 +25,21 @@ Believers in the early church faced persecution from the Romans. Based upon how 
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Believers in the early church faced persecution from the Romans. Based upon how some textbooks and such talk about things, you might think believers in the first couple centuries after Christ were very systematically persecuted, but this was actually not the case. Up until around 284 AD (around when the imperial power structure shifted from what historians call the "Principate" to the "Dominate"), Christians faced persecution that was largely sporadic and localized, rather than empire-wide. In this video, we talk about some examples of persecution of early believers (for example, under the Roman emperors Nero and Trajan), as well as going over the concept of source analysis and how we can even know some of these things to begin with.
 
-
+<!-- summary -->
 
 {{% content %}}
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Overview {#overview}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Foreword: How should we view accounts traditionally dated to be from the time period of the early church, associated with or written by so-called "church fathers"? {#foreword-how-should-we-view-accounts-traditionally-dated-to-be-from-the-time-period-of-the-early-church-associated-with-or-written-by-so-called-church-fathers}
 
@@ -52,23 +52,23 @@ Before we get too far in discussing accounts from the time period of the early c
 - Was Peter really martyred by being crucified upside-down, at his request? Tradition says so, but based on what?
 - Etc.
 
-<!-- --- -->
+<!-- slide-break -->
 
 As another example, consider the [letter of 1 Clement](https://www.gotquestions.org/1-and-2-Clement.html). Was it really written in 95 AD = very close to the penning of the New Testament? Was the one who wrote it the Clement mentioned in Philippians 4:3---making him an individual acquainted with one or more of the Apostles at a personal level? I would contend that it does not matter. The letter is not inspired, so we ought to care little about it compared to actual scripture. Some people get offended at this sort of blanket dismissal of supposedly historical people and events and so on, but we ought not flinch at prioritizing inspired scripture above all else. If we cannot prove from a textual perspective that the letters were even written by the church fathers they supposedly were, I hope the issues here are obvious.
 
 The only reason we don't apply this same sort of blatant skepticism to the Bible itself is because of the doctrine of inspiration. Put simply, serious scholars are generally incredibly skeptical of most historical sources as a matter of principle, so that ought to be one's "default position." The only reason the Bible gets a pass is because of our faith in its trustworthiness as a source of truth.
 
-<!-- --- -->
+<!-- slide-break -->
 
 As if all that weren't enough on its own, many of the church fathers had demonstrably bad theology in a number of areas (some more than others, of course), so even if they *did* write the letters they were traditionally said to have at the times they were traditionally said to have, we can't particularly trust the contents therein. Not like we can the New Testament itself. Some people make a fallacious [appeal to antiquity](https://en.wikipedia.org/wiki/Appeal_to_tradition) to assert that because these people actually lived closer to the time the Bible was written they must have had insights into interpretation that we modern people—separated by large gaps time and culture—necessarily lack. However, arguments both then and now *ought* to be only concerned with what the text of the Bible says and means, which is to say that the only thing that belongs in discussion of interpretation is hard objective evidence (for example, Greek word usage across the corpus of ancient Greek, grammatical analysis, etc.), not unquantifiable hand-wavy notions that "the church fathers spoke Greek better than us and lived closer to the time of Christ, therefore they are right, QED".
 
 We also have computers nowadays (that can help with statistical computations to assist lexical analysis, for example), and, via digitization efforts, also have access to many complete or near-complete ancient texts that early Christians lacked (which can be used to get a comparatively better sense of the semantic scope of certain Greek words, for example). Of course, not being native speakers of ancient Greek does have all sorts of disadvantages for us; that part is no exaggeration. But proper interpretation does not rest upon that alone.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 
 ### Introduction: Early Christian persecution {#introduction-early-christian-persecution}
@@ -99,7 +99,7 @@ End:
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points and follow-on topics {#summary-points-and-follow-on-topics}
 
@@ -115,11 +115,11 @@ Follow-on topics:
   - We ought not go about seeking to have people mistreat us, but the point is that if we are mistreated, there is opportunity in that to show the world the divine, unconditional form of love that God showed us by sending to Jesus to die for us while we were yet sinners (Romans 5:8).
 - People thinking Polycarp was an atheist because he did not believe in the pagan pantheon—interesting how culture makes a difference in one's views, isn't it?
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Popular misconceptions {#popular-misconceptions}
 
@@ -150,7 +150,7 @@ End:
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points and follow-on topics {#summary-points-and-follow-on-topics}
 
@@ -164,7 +164,7 @@ Summary points:
   - The Dominate - 284-476 AD
 - During the Dominate (but before Constantine), the emperors largely come from the Army, and the Army was a bastion of traditional paganism.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Follow-on topics:
 
@@ -173,11 +173,11 @@ Follow-on topics:
 - We might shrug and ask why any of this matter anyways, but I would argue that people really do go around making generalizations about "the history of Christian martyrdom" and such, while parroting things that simply false. If we are going to make theological points relating to the concept of martyrdom and its history in the Church already (which I would argue is a necessary conversation to have when discussing the end times persecution believers are prophesied to face during the events of the book of Revelation, for example), then we'd best get the facts right, Amen?
 - We'll talk more later today about some of the nitty-gritty mechanics in evaluating historical sources for claims.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Sources for persecution {#sources-for-persecution}
 
@@ -209,7 +209,7 @@ End:
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points and follow-on topics {#summary-points-and-follow-on-topics}
 
@@ -222,7 +222,7 @@ Summary points:
   - But he's the best we've got, unfortunately.
   - In general, historians seem to think he did a decent job trying to write down what happened as far as the sources he collected told him. But that makes him only as good as his sources.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Follow-on topics:
 
@@ -231,11 +231,11 @@ Follow-on topics:
   - I'm not saying we try to *ad hominem* attack all powerful people in the early centuries of the Church. I am just trying to say that we should not turn off our brains as scholars who ought to question everything when it comes to putatively Christian sources.
   - Even though we believe in the doctrine of inspiration, we don't even need to spare the Bible from this sort of rigorous analysis. If you take a look at the raw data, the Bible is by far the best preserved text in all of antiquity. So again, no need to fabricate or exaggerate anything.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Christianity and Judaism {#christianity-and-judaism}
 
@@ -266,7 +266,7 @@ End:
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points and follow-on topics {#summary-points-and-follow-on-topics}
 
@@ -280,13 +280,13 @@ Summary points:
   - By one count, up to 8-10% of the Roman population was Jewish by the time of the birth of Christ. That's a lot of people!
 - Many Jewish writers were incredibly intellectual
   - For example, Alexandria, where as much as a third of the city was Jewish, was where the Septuagint arose, and there was much study of the Old Testament scriptures undertaken there.
-  - Philo of Alexandria: c. 20 BC to 50 AD.<!-- --- -->
+  - Philo of Alexandria: c. 20 BC to 50 AD.<!-- slide-break -->
 - Rome has complicated relationship to Judaism. In some senses, the Romans respected Judaism's "oldness" (remember: Romans big on tradition), but they didn't "get" monotheism or the Jewish sacrificial system, and so on. So, the Romans consequently often struggled to properly relate to this segment of their population, and tended to end up enraging the Jews out of what essentially amounted to religious tone-deafness.
   - Jerusalem a good example of how things sometimes ended up bungled: Romans forcibly install the half-Jewish Herod the Great as a tyrant on the throne of Jerusalem.
   - The Romans often could not find a good balance between the them exerting control, and the Jews having some degree of autonomy. The Sanhedrin had real power in Jerusalem, but it was still ultimately governed by a proconsul from Rome (e.g., Pontius Pilate in the gospel accounts). The give-and-take did not always work well.
 - Biggest issue: Romans continually try to coerce the Jews to come around to their way of thinking. Like Antiochus IV centuries before, Roman leaders (both locally and at the wider level) try to force-convert the Jews.
   - For example, Caligula tried to install a statue of himself in the Holy of Holies... yeah.
-  - Later looting of the temple causes riots.<!-- --- -->
+  - Later looting of the temple causes riots.<!-- slide-break -->
 - The Jews responded to this sort of action with outright violence. In this period of time (and back to the time of the Maccabean revolt), there is nothing particularly pacifistic in how the Jews relate to external threats.
    - The Romans even respected them for this in some ways. Even though they mercilessly shut down the rebellions and publicly executed those deemed traitors, armed resistance to external authority is sort of how the Romans thought oppressed peoples "ought" to react.
 - But Christians... don't react that way.
@@ -294,7 +294,7 @@ Summary points:
   - The Romans thought the Christians were insane to be pacifists and not try to overthrow the yoke of Rome's oppression. They didn't understand this "not resisting" mentality.
 - The differences in how the groups are viewed by the Romans are not just theoretical. The Romans always tried to force the Jews to assimilate/become "syncretized"---to become more Roman, more pluralistic—but Christianity gets straight up outlawed and made illegal. That is not the same treatment as the Jews got from the Romans.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Follow-on topics:
 
@@ -303,11 +303,11 @@ Follow-on topics:
 - If you've never thought about it much before, here is a good place to consider how Christianity was born of Judaism, but is so fundamentally different from it that the Romans treated them drastically differently in practice, in what we might term a "legal" sense.
   - At the same time we should not underemphasize the importance of Christianity's Jewish roots, we need to not overemphasize the connection either. Anyone who has ever read the parts of the Sermon on the Mount dealing with Christ's masterful reframing of the Law (Matthew 5:17-48) should have an appreciation for how the teachings of Jesus Christ differ from the Jewish understandings that came before.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The first persecutions {#the-first-persecutions}
 
@@ -338,7 +338,7 @@ End:
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points and follow-on topics {#summary-points-and-follow-on-topics}
 
@@ -349,7 +349,7 @@ Summary points:
   - A bit too much of a coincidence for Suetonius to not be talking about Christians, don't you think?
 - Persecution intensified under the emperor Nero.
   - Secondary sources tell us that the Emperor Nero used Christians as a scapegoat for the Great Fire of Rome in 64 AD.
-  - Persecution was intense, but was short-lived, and localized (mostly in and around the city of Rome).<!-- --- -->
+  - Persecution was intense, but was short-lived, and localized (mostly in and around the city of Rome).<!-- slide-break -->
 - Persecution also happened under Trajan
   - Pliny the Younger (governor of Bithynia) writes a letter to Trajan asking how to handle Christians. Trajan replies that they should be treated like all other *superstitio* religions/cults through the Empire.
     - Don't seek them out, but if two or more people come in-person as witnesses, put them on trial, and set up a test to have them sacrifice to the gods. If they won't do the sacrifice, put them to death.
@@ -361,19 +361,19 @@ Summary points:
   - One might even say Roman governors almost didn't care about Christianity or Christians unless circumstances sort of forced them to care.
 - But following the Apostles, Christianity was nonetheless an officially illegal, persecuted religion, where not just a few lost their lives for following Jesus Christ.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Follow-on topics:
 
 - A gentle introduction into source analysis, through the lens of the so-called "Neronian Persecution" of Christians. Was it historical?
 - [Did Nero really presecute Christians? : r/AskHistorians](https://www.reddit.com/r/AskHistorians/comments/ivre6k/did_nero_really_presecute_christians/)
 - The passage in question reads as follows:
-  - "But all human efforts, all the lavish gifts of the emperor, and the propitiations of the gods, did not banish the sinister belief that the conflagration was the result of an order. Consequently, to get rid of the report, Nero fastened the guilt and inflicted the most exquisite tortures on a class hated for their abominations, called Christians by the populace. Christus, from whom the name had its origin, suffered the extreme penalty during the reign of Tiberius at the hands of one of our procurators, Pontius Pilatus, and a most mischievous superstition, thus checked for the moment, again broke out not only in Judæa, the first source of the evil, but even in Rome, where all things hideous and shameful from every part of the world find their centre and become popular. Accordingly, an arrest was first made of all who pleaded guilty; then, upon their information, an immense multitude was convicted, not so much of the crime of firing the city, as of hatred against mankind"<!-- --- -->
+  - "But all human efforts, all the lavish gifts of the emperor, and the propitiations of the gods, did not banish the sinister belief that the conflagration was the result of an order. Consequently, to get rid of the report, Nero fastened the guilt and inflicted the most exquisite tortures on a class hated for their abominations, called Christians by the populace. Christus, from whom the name had its origin, suffered the extreme penalty during the reign of Tiberius at the hands of one of our procurators, Pontius Pilatus, and a most mischievous superstition, thus checked for the moment, again broke out not only in Judæa, the first source of the evil, but even in Rome, where all things hideous and shameful from every part of the world find their centre and become popular. Accordingly, an arrest was first made of all who pleaded guilty; then, upon their information, an immense multitude was convicted, not so much of the crime of firing the city, as of hatred against mankind"<!-- slide-break -->
 - Speaking of "pop history" and Nero: the 1951 movie [*Quo Vadis*](https://en.wikipedia.org/wiki/Quo_Vadis_%281951_film%29) portrays Nero feeding Christians to lions in the Colosseum. Whatever one thinks of the claim that Nero blamed the Great Fire on Christians, the Colosseum bit hasn't a shred of textual evidence anywhere. This same film also has Nero playing the lyre while Rome burned, and we can't exactly guarantee the accuracy of that either, so there's plenty of unsubstantiated history to go around. (Although Tacitus mentioned this rumor too, to be fair. Some people think Tacitus just disliked Nero and wanted to throw shade, and what can the long-dead emperor do to him anyways? But Tacitus is actually far more civilized in his treatment of Nero than Suetonius is. For example: "[As to his ancestors], Nero perpetuated their separate vices, as if these were inborn and bequeathed to him, while failing to exhibit their virtues..." Real historical sources are often spicy in their name-calling 🌶️🌶️)
   - [Nero never fed Christians to the lions in the Colosseum | Culture | EL PAÍS English](https://english.elpais.com/culture/2022-10-10/the-truth-behind-nero-the-colosseum-the-christians-and-the-lions.html)
   - Compare also our conversation last week about the dangers of mixing art and theology. Mixing art and history usually has similarly poor success.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 

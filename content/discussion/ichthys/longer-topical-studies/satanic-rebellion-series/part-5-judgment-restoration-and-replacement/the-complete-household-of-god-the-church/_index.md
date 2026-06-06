@@ -29,20 +29,20 @@ Given Israel's uniqueness and God's prior focus on them, the calling out of the 
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 God's purpose for human history is the refilling of His family, the replacement of fallen angels one for one with believing human beings, until the body of Christ - the Church - is complete. From the Gentile fathers, to the faithful Jewish believers of Israel, to the wave of believers in the Church age, we are all part of Christ's body, His bride. Thus, the Church is composed not only of believers *since* the day of Pentecost, but of all believers *throughout* the first six millennial days (Millennial believers, the "friends of the bride", are Christ's "double portion" and not included in the numerical replacement of the devil and his demons). 
 
 The first four thousand years of human history (i.e., the Gentile and Jewish ages) passed with only a (relatively) few people saved. Since Satan knows that believing humanity will replace fallen angels to the exact number, and that God's plan for human history will follow the seven millennial day pattern, then prior to Pentecost he must have felt that God could not fulfill the necessary replacement number on time. 
 Given Israel's uniqueness and God's prior focus on them, the calling out of the Gentiles in large numbers after Christ's victory on the cross must have surprised Satan, despite it being foreshadowed by Old Testament prophecy. The Church - the universal assembly of believers throughout the ages - are the "elect", those chosen out of the devil's world because of and for ***the*** elect, ***the*** chosen One, Jesus Christ.
 
-
+<!-- summary -->
 
 {{% content %}}
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Audio clip from Ichthys {#audio-clip-from-ichthys}
 
@@ -55,15 +55,15 @@ srcend="01:01:11"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
 Given Israel's obvious uniqueness in the plan of God and her special relationship with Him (Deut.4:6-8; 4:34; 7:6; 1Ki.8:53; Zech.2:8), the calling out of the gentiles in such unprecedented numbers to be part of the family of God, though foreshadowed in prophecy (as documented above), came as quite a surprise – especially to the devil. We can assume that the seven thousand year outline of human history is well-known to him, as is the one for one replacement of him and his followers with believing humanity – a plan that should by rights be completed at the inception of the day of rest. Looking at his no doubt carefully tabulated scorecard before the day of Pentecost, it must have seemed impossible that the necessary replacement figure could possibly be met on schedule, given that in the two thirds of the available time already elapsed (i.e., the Gentile and Jewish ages), only a small fraction of the requisite number had believed and chosen for God. But just as the incarnation and sacrifice of our Lord Jesus Christ, God taking on true humanity and dying for Man, is God's great strategic surprise and victory of the ages, so the filling up of Christ's assembly of believers with a flood of gentiles during the last pair of millennial days is the great "mystery" that followed in the wake of the victorious cross. Just as the final pair of Genesis days sees the re-created earth filled in earnest with a plethora of inhabitants, so the final pair of historical millennial days fills up the family of God with believers, filling up the body of Christ, the bride of Christ, to its full and complete number – the fundamental purpose for the history of the world from the divine point of view.
 
-<!-- --- -->
+<!-- slide-break -->
 
-The word and the concept of the Church must be seen in these terms. For the Church, properly understood, is ultimately composed not just of those who have put their faith in Jesus Christ since the day of Pentecost, but of all believers throughout the first six millennial days (on the Millennium, see below). Stephen's mention of "the Church in the wilderness" (Acts 7:38 – NIV "assembly") is a clear indication that the universal assembly of believers antedates what is often thought of as "the Church". The English word "church" is derived from the Old English borrowing and transformation of the Greek adjective *kyriakon*, or, "belonging to the Lord", a clear attempt on the part of believers of an earlier time to distinguish between local assemblies of believers and *the* universal Church. In the Greek New Testament, the word translated "church" is an entirely different term: *ekklesia* (ἐκκλησία). Derived from the verb "to call" and the preposition "out of", this is the same word used for the assembly of enfranchised citizens in the classical Greek city-states. These notions of special selection and special privilege can also be seen in the adjectival form *eklektos*, cognate in form and meaning with the Latin word from which our English "elect" is derived. That the Church is thus properly the universal *assembly* of all who choose to faithfully follow Jesus Christ during the first six millennia of human history, a chosen few (by grace through faith, Eph.2:8-9), an elect group called by God out of the devil's world and into His own family, is a truth not only supported throughout the New Testament (cf. Matt.22:14; Rom.8:33; 1Cor.1:27; 1Thes.1:4; 1Pet.1:1; Rev.17:14), but consistent with the picture given by the Old Testament as well, where *ekklesia* is the standard translation for Israel's assembly (קהל), the *qahal*.<!-- --- --> Central to the idea of our "election" is the purpose for it. For we who are elect are so because of Him who is ***the*** elect, Jesus Christ, and it is for Him that we have been chosen out of the world, to share eternity together with ***the*** chosen One (compare Is.42:1 with 44:1; and cf. Lk.9:35; 23:35; 1Pet.2:4):
+The word and the concept of the Church must be seen in these terms. For the Church, properly understood, is ultimately composed not just of those who have put their faith in Jesus Christ since the day of Pentecost, but of all believers throughout the first six millennial days (on the Millennium, see below). Stephen's mention of "the Church in the wilderness" (Acts 7:38 – NIV "assembly") is a clear indication that the universal assembly of believers antedates what is often thought of as "the Church". The English word "church" is derived from the Old English borrowing and transformation of the Greek adjective *kyriakon*, or, "belonging to the Lord", a clear attempt on the part of believers of an earlier time to distinguish between local assemblies of believers and *the* universal Church. In the Greek New Testament, the word translated "church" is an entirely different term: *ekklesia* (ἐκκλησία). Derived from the verb "to call" and the preposition "out of", this is the same word used for the assembly of enfranchised citizens in the classical Greek city-states. These notions of special selection and special privilege can also be seen in the adjectival form *eklektos*, cognate in form and meaning with the Latin word from which our English "elect" is derived. That the Church is thus properly the universal *assembly* of all who choose to faithfully follow Jesus Christ during the first six millennia of human history, a chosen few (by grace through faith, Eph.2:8-9), an elect group called by God out of the devil's world and into His own family, is a truth not only supported throughout the New Testament (cf. Matt.22:14; Rom.8:33; 1Cor.1:27; 1Thes.1:4; 1Pet.1:1; Rev.17:14), but consistent with the picture given by the Old Testament as well, where *ekklesia* is the standard translation for Israel's assembly (קהל), the *qahal*.<!-- slide-break --> Central to the idea of our "election" is the purpose for it. For we who are elect are so because of Him who is ***the*** elect, Jesus Christ, and it is for Him that we have been chosen out of the world, to share eternity together with ***the*** chosen One (compare Is.42:1 with 44:1; and cf. Lk.9:35; 23:35; 1Pet.2:4):
 
 {{% ichthys-translation p="John 15:18-19" %}}
 
@@ -83,7 +83,7 @@ This, then, is the true meaning of the Church, the select assembly of Christ, fo
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Summary points {#summary-points}
 
@@ -97,7 +97,7 @@ But just as the incarnation and sacrifice of our Lord Jesus Christ—God taking 
 
 Just as the final pair of Genesis days sees the re-created earth filled in earnest with a plethora of inhabitants, so the final pair of historical millennial days fills up the family of God with believers, filling up the body of Christ, the bride of Christ, to its full and complete number – the fundamental purpose for the history of the world from the divine point of view.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The Church is composed of all pre-Millennium believers, not just post-Pentecost believers {#the-church-is-composed-of-all-pre-millennium-believers-not-just-post-pentecost-believers}
 
@@ -111,7 +111,7 @@ The word and the concept of the Church must be seen in these terms. For the Chur
 
 Stephen's mention of "the Church in the wilderness" (Acts 7:38 – NIV "assembly") is a clear indication that the universal assembly of believers antedates what is often thought of as "the Church".
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Greek and Hebrew vocabulary related to the word we translate as "Church" {#greek-and-hebrew-vocabulary-related-to-the-word-we-translate-as-church}
 
@@ -127,7 +127,7 @@ In the Greek New Testament, the word translated "church" is an entirely differen
 
 That the Church is thus properly the universal *assembly* of all who choose to faithfully follow Jesus Christ during the first six millennia of human history, a chosen few (by grace through faith, Eph.2:8-9), an elect group called by God out of the devil's world and into His own family, is a truth not only supported throughout the New Testament (cf. Matt.22:14; Rom.8:33; 1Cor.1:27; 1Thes.1:4; 1Pet.1:1; Rev.17:14), but consistent with the picture given by the Old Testament as well, where *ekklesia* is the standard translation for Israel's assembly (קהל), the *qahal*.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Our election is intrinsically tied to Christ {#our-election-is-intrinsically-tied-to-christ}
 
@@ -157,7 +157,7 @@ Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Ch
 
 This, then, is the true meaning of the Church, the select assembly of Christ, formed and chosen for Him from every age of human history to be His special unique possession.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Follow-on topics {#follow-on-topics}
 
@@ -175,7 +175,7 @@ The reason why this matters is that drawing a sharp line between believing Jews 
 
 It is characteristic of certain flavors of dispensationalism to try to fully separate Israel and the Church in their theology. Adherents say they reject "replacement theology", or the notion that the Church has somehow replaced Israel. From a certain way of looking at things, we reject that too. We are not saying the Church replaced Israel; we are saying that Israel has *always* been part of the Church (even from the very beginning), once one properly defines what exactly "the Church" is. In fact, we say the same thing about the believing Gentile Fathers too, going all the way back to Adam.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### All this makes perfect sense when we understand that the Church is going to be God's 1:1 replacement for the fallen angels {#all-this-makes-perfect-sense-when-we-understand-that-the-church-is-going-to-be-god-s-1-1-replacement-for-the-fallen-angels}
 
@@ -195,13 +195,13 @@ Millennial believers, "friends of the Bride", are not part of this numerical rep
 
 The same cannot be said for trying to separate believing Israel from the Church. 
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The Church with a capital C needs to be our focus. We ought not be cliquey {#the-church-with-a-capital-c-needs-to-be-our-focus-we-ought-not-be-cliquey}
 
 {{< properties
 
-stags="Church > Is not a human institution or physical building, but inclusion is based upon saving faith in Jesus Christ"
+stags="Church > Is not a human institution or physical building, but is based upon saving faith in Jesus Christ"
 
 >}}
 
@@ -211,7 +211,7 @@ Unfortunately, we English speakers use the same word for local assemblies of bel
 
 Biblically speaking, we are all One Body, not multiple bodies plural, so we ought to act like it. In this I do not mean we should be ecumenical in the sense some push for—sacrificing truth for unity in a misplaced attempt to follow this ideal. No, rather what I mean is that we should do away with the preoccupation many Christians have with physical buildings and all the trappings therein. A building is not an *ekklesia* in the Greek sense of the word; only a collection of people can be an *ekklesia*. And ultimately, only one Christian *ekklesia* should rate first place in our priorities: the Body of Christ, the Bride of Christ, composed of all believers past, present, and even future. Not just the specific group of nice people who meet in the building down the street from us.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### What about the Catholics and the Orthodox? {#what-about-the-catholics-and-the-orthodox}
 
@@ -227,7 +227,7 @@ That is, somehow, to them, the proposition "Jimmy believes in Jesus Christ" and 
 
 This is why their conception of the global Church is flawed. The Church of Jesus Christ has nothing to do with human institutions. It only has to do with saving faith in Jesus Christ.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Further discussion {#further-discussion}
 

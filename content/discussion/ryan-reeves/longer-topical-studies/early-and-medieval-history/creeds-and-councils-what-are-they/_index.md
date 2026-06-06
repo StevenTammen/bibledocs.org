@@ -25,17 +25,17 @@ TODO: Summary
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 TODO: Summary
 
-
+<!-- summary -->
 
 {{% content %}}
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Introduction: ecumenical church councils, and their politicization {#introduction-ecumenical-church-councils-and-their-politicization}
 
@@ -65,7 +65,7 @@ End:
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#summary-points}
 
@@ -81,7 +81,7 @@ One popular misunderstanding about councils: that they really only get going in 
 
 - Possible reasons for this: people only really consider councils after Constantine took the throne, and after the first large-scale Church-wide council(s).
 
-<!-- --- -->
+<!-- slide-break -->
 
 Nicea - 325 AD.
 
@@ -91,7 +91,7 @@ Nicea - 325 AD.
 
 The idea of political authority enforcing creedal statements may sometimes be termed the ["Constantinianization"](https://en.wikipedia.org/wiki/Constantinianism) of the Church.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#follow-on-topics}
 
@@ -101,19 +101,19 @@ And right from the outset, I have two big criticisms, pertaining to the organiza
 
 I should note that while both of these things coalesced more strongly at Nicea than had been the case previously (representing a paradigm shift of sorts), this does not necessarily mean that all the earlier councils were completely free from these sorts of issues.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Let's start with the idea of ecumenical councils, and the mindset behind them. I can see the draw of "settling" something by getting together a set of church leaders from all over, but the problem is that the sample size is necessarily biased towards those who have already chosen to align themselves with the existing centralized organizational structure. What about those who disagree with this sort of structure to begin with? They wouldn't even get an invite. So is the council truly representative of all theological positions? Or is it merely representative of the views of a particular form of church orthopraxy?
 
 Even if they could hypothetically gather together a more representative sample of ecclesiological views, there is still the matter that a group of human beings has no right to dictate what the Bible can and cannot mean. Essentially, so what if a committee votes on something and decides it is so? If their conclusion does not agree with the Bible, then that is merely institutionalizing a bad teaching. Yet very nearly the whole point of these "church-wide" (note the scare quotes) ecumenical councils was to vote on controversies within the church visible, to set bounds on doctrine that would be enforced by soft means (such as excommunication) and hard means (such as criminal penalties under Roman law). You can dress it up pretty all day long, but in the end, the ecumenical councils sought to coerce theology by force, using a blatant form of *argumentum ad populum*.
 
-<!-- --- -->
+<!-- slide-break -->
 
 I should be very clear that I even agree with the majority opinion of Nicea, for example. Of course Arianism is incorrect. But the Bible itself shows that rather simply; it is almost a certain fact that anyone with even an inkling of spiritual common sense would have rejected Arianism because the divinity of Christ is obvious from even a cursory reading of scripture. And it is for this reason that I tend to be a bit cynical about the true reasons for convening ecumenical councils. In what way? Well, did Arianism present a true threat to the Early Church Universal, or was the threat more to the centralization of power being pursued by the Early Church Visible, and to Constantine's ability to unify the empire under a single (rather than fractured) Christian banner?
 
 I just opined that the falsity of Arianism would be clear and obvious to true believers; they don't need a council to tell them it is wrong. What then was the council for? As I see it, it was largely for propaganda and political power. It is politically expedient to have a single set of teachings that can be used to standardize religious practice via force.
 
-<!-- --- -->
+<!-- slide-break -->
 
 In fact, you can see similar motives in play in other Church Councils (rather than this being particularly unique to Nicea). For example, consider the Conference of Carthage in 411:
 
@@ -125,17 +125,17 @@ On the heels of Alaric’s sacking of the city of Rome in 410 CE, Honorius, the 
 
 Paraphrase: Roman imperial authority had just been driven out of Rome by the Visigoths, and couldn't politically afford to have disunity, particularly in grain-producing North Africa. So Roman imperial authority approved the convening of a church council in order to stamp out theological disunity... for overtly political ends.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Am I being too unfair here, in terms of overly generalizing? Perhaps a bit. I'm sure some participating church parties earnestly believed that what they were doing was necessary and righteous. However, as I see things, at the same time that that might be true, it is nonetheless impossible to separate these councils from politics and propaganda, and that is much the problem.
 
 If politics and propaganda are *at all* involved in our theology, have we not already failed to keep the focus upon the Bible alone, as we ought?
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Pre-Nicea synods and councils {#pre-nicea-synods-and-councils}
 
@@ -166,7 +166,7 @@ End:
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#summary-points}
 
@@ -175,7 +175,7 @@ People in the Early Church had been meeting together in synodal/council form for
 - Depending at how you look at things, the Jerusalem council in Acts 15 could be categorized as a Church council, given that it shares certain features with the later manifestations of the concept. For example, it involved a proclamation coming out from the meeting, with the expectation that others would follow it.
   - But some do not think it is quite the same, because this one had Apostles sitting in on it, rather than only being composed of normal pastor-teachers. [Note that we will talk about this more in the follow-on topics section. Short version: Steven is very much in the camp that the Acts 15 council is different, for various reasons, and even if it wasn't, the hermeneutic we ought to adopt when interpreting the book of Acts (i.e., that it is mostly *descriptive*, not *prescriptive*) means that it wouldn't matter anyway].
 
-<!-- --- -->
+<!-- slide-break -->
 
 One can see from what historical accounts we have that there was an impulse in the Church from quite early on to decide crises/controversies/disputes through some form of meeting, rather than in isolation.
 
@@ -186,7 +186,7 @@ It bears repeating that these meetings were not undertaken lightly, in that they
 
 - For example, the first known post-Apostolic council occurs sometime in the mid-100s, with the primary outcome being the condemnation of the heresy of Montanism (which we discussed [last lesson]()). The council basically condemned the Montanists' idea's about splitting the Bible up by members of the Trinity, as well as the ecstatic utterances characteristic of the sect.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Understanding early councils requires some... interpretation, shall we say. For example, from our sources, we may:
 
@@ -197,11 +197,11 @@ Understanding early councils requires some... interpretation, shall we say. For 
 
 So properly understanding and placing these requires some skill and finesse as a historian, and sometimes we may also have to acknowledge that we simply can't know as much as we'd like.
 
-<!-- --- -->
+<!-- slide-break -->
 
 At any rate, the point is that these meetings did in fact happen in the Early Church whenever local or regional controversies erupted, long before Nicea in 325.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#follow-on-topics}
 
@@ -211,7 +211,7 @@ Firstly, this council was convened by capital-A Apostles, and not just one or tw
 
 Secondly, just because this is recorded as happening in the book of Acts does *not* necessarily mean that it was supposed to happen how did it, or even that it was supposed to happen at all. I'm not saying so much that this council definitely should not have happened or anything like that, but more the point is that the letter coming out of this historical event recorded in the book Acts is not quite the same as the inspiration underpinning the doctrinal epistles that compose much of the New Testament. For more on this subject of our interpretive approach to Acts, see [Ichthys's BB 6B: Ecclesiology, section I.B.5.c, "The Nature of the Book of Acts"](https://ichthys.com/6B-Ecclesio.htm#c._The_Nature_of_the_Book_of_Acts_).
 
-<!-- --- -->
+<!-- slide-break -->
 
 This particular council largely dealt with putting some guidelines on how Gentile believers ought to deal with the paganism around them. This is sort of easy to miss if you are not otherwise familiar with the procedures of Greek and Roman pagan rituals, which largely centered around animal sacrifices, and not uncommonly also included ritual prostitution. Thus it is that the command to abstain from sexual immorality in Acts 15:29 is actually specifically focused upon pagan ritual prostitution rather than general sexual immorality (although of course believers should abstain from *all* sexual immorality).
 
@@ -219,11 +219,11 @@ At any rate, the letter sent to the Gentile churches dealing with these sorts of
 
 So, even "worst case" (i.e., if this council should not have happened to begin with), it still would not have the same sort of politicization and power centralization issues that afflicted the ecumenical church councils from the fourth century onwards.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Other examples: The council regarding Quartodecimanism, and the synod at Elvira {#other-examples-the-council-regarding-quartodecimanism-and-the-synod-at-elvira}
 
@@ -255,7 +255,7 @@ End:
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#summary-points}
 
@@ -266,11 +266,11 @@ Another example: in c. 193 AD, a synod was held to discuss the issue of what is 
 - Another group thought that Easter ought to always be celebrated on the following Sunday—the "Lord's Day" (=the first day of the week).
 - In this particular council, the group arguing that Easter should be celebrated on the following Sunday prevailed.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Another example: the [Synod of Elvira](https://en.wikipedia.org/wiki/Synod_of_Elvira), c. early 300s, before Constantine fully came to power, occurring out in the border region of Hispania, or modern day Spain. It dealt with things like the discipline of bishops and pastors = how to properly deal with church leadership who was out of line.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#follow-on-topics}
 
@@ -278,7 +278,7 @@ The controversy surrounding Quartodecimanism is an excellent example of another 
 
 Yet not only was there a formal Church Council convened to "settle" this, but the sides in this debate were quite passionate about it too. It reminds me in the modern day of endless bickering about whether to have traditional hymns or a praise band for your church's music, all while failing to substantively teach the Bible, which is actually the thing that really matters in proper Christian assembly.
 
-<!-- --- -->
+<!-- slide-break -->
 
 The tendency to have bitter debates down to the last man about issues of no importance whatsoever while yet failing to properly emphasize the things that are truly important is quite characteristic of the Church Visible, both past and present.
 
@@ -286,11 +286,11 @@ As I see things, all the shade that got slung about in ancient Church Councils a
 
 And this is precisely why we ought to put our faith and trust in the Bible alone, rather than imperfect human beings and their councils and creeds.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 
 ### Identifying some common characteristics of Church Councils and Creeds {#identifying-some-common-characteristics-of-church-councils-and-creeds}
@@ -322,7 +322,7 @@ End:
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#summary-points}
 
@@ -330,21 +330,21 @@ In any case, through all these examples we can see some patterns emerge in churc
 
 - They occur as a response to crises.
   - This means they tend to have a narrow focus, which is reflected in the creeds that come out of them. For example, the Nicene Creed barely mentions the Holy Spirit, since the Arian controversy (which is largely what caused the gathering at Nicea) dealt primarily with the relationship between the Father and the Son. This doesn't mean the pastor-teachers involved in the Council of Nicea did not in fact care about the Holy Spirit, it is just that this particular council did not have much do with the Holy Spirit as a topic.
-  <!-- --- -->
+  <!-- slide-break -->
 - The focus is on defining biblical consensus.
   - Not creating things out of thin air, but clarifying and confirming pre-existing consensus about what the Bible means. If a crisis or controversy has damaged a pre-existing consensus, then the council is there to sort of patch it back up, rather than come up with something new, *per se*.
-  <!-- --- -->
+  <!-- slide-break -->
 - Creeds clarify or limit our language.
   - The intent is to narrow down terminology, to stake down a flag and say "this is our language; this is the language we are going to use". Think of it like putting bumpers up on a bowling lane, preventing the ball from going too far to one side or the other. Going to far in either direction leads to language that confuses, so councils sought to prevent that confusion.
   - Contrast the sorts of confessions that sometimes pop-up after the Reformation, that seek to be more exhaustive. This is almost the inverse of that (i.e., rather than defining what is believed, it is more defining what is not believed).
-  <!-- --- -->
+  <!-- slide-break -->
 
 As a final point, the church councils were messy... sometimes very much so.
 
 - But we should point out that this largely to be expected, given that these things are gatherings of human beings corrupted by sin, just like us.
 - At the same time, we shouldn't whitewash them more than is appropriate either. Clearly, not everything that happened probably *should* have happened.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#follow-on-topics}
 
@@ -354,7 +354,7 @@ But that is merely one rhetorical lens through which you might view these matter
 
 So basically, I think everything Dr. Reeves says here is perfectly accurate, it is just that I am going that extra step to say "And because of [specific details], this is exactly why we need to trust in the Bible alone rather than putting too much stock in these Church Fathers, Councils, and Creeds, QED."
 
-<!-- --- -->
+<!-- slide-break -->
 
 However, having the objective information laid out formally is a necessary pre-requisite to what I am adding on top. For example, in my follow-on discussion of how some of these things operated and how we ought to relate to them as *sola scriptura* Evangelicals, I am able to avoid mischaracterizing things (in the sense of arguing against only straw men) in my criticism, and instead keep my arguments centered around reality. This means, for example, that even though I have some serious concerns with how things tended to play out, I won't be arguing that:
 
@@ -365,11 +365,11 @@ However, having the objective information laid out formally is a necessary pre-r
 
 In this way, even if myself and others like me want to change up the tone in discussion to something more polemical/apologetics related, we are still doing so from a position of knowledge and rigor, rather than making uninformed criticisms not in line with the actual historical evidence that has come down to us from antiquity.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 
 {{% /content %}}

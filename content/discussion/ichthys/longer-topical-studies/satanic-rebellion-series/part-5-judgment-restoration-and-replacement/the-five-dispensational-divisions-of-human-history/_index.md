@@ -24,17 +24,17 @@ TODO: Summary
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 TODO: Summary
 
-
+<!-- summary -->
 
 {{% content %}}
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Introduction {#introduction}
 
@@ -49,17 +49,17 @@ srcend="01:01:26"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
 The word "dispensation" is at once a descriptive and unfortunate term for the five segments into which history is divided in respect to God's allocation of resources for pursuing a relationship with Him (i.e., salvation and spiritual growth). This is because while "dispensation" is a perfectly good English word that closely shadows the biblical vocabulary on the one hand (translating the Greek word *oikonomia*: οἰκονομία), on the other hand the connotations the word carries from Roman Catholic usage as well as from traditional, evangelical "Dispensationalism" can be misleading. The Greek word *oikonomia* may also be translated "economy" and "stewardship" (cf. Lk.16:2-4; 1Cor.9:17; Col.1:25; 1Tim.1:4), but these words too have taken on specialized meanings that obscure the real force of what biblical *oikonomia* really is. God's dispensations are periods of time distinguished by the different grace means He uses in each one to "dispense" the resources necessary for seeking Him to all those who desire to do so (Eph.3:2).
 
-<!-- --- -->
+<!-- slide-break -->
 
-It should go without saying that God has always made Himself available to those who want to know Him and who wish to have a relationship with Him – that is the whole point of our existence (Deut.4:29; Prov.8:17; Is.45:22; 55:6; Jer.29:13; Matt.7:7; Lk.11:9). The manner and the means whereby He accomplishes this, however, differ, corresponding to the dispensational division in question. To know God, one needs to have information about God; one needs truth, truth which must then be believed and put into practice. And while certain truths are obvious to all mankind (e.g., the existence of God, the basic distinction between right and wrong, etc.), more specific information about God, the salvation He has provided in Jesus Christ, and the knowledge essential to cultivating a relationship with Him are areas of truth that are not available to mankind independent of the grace means God has provided for their dissemination. While our omnipotent, omniscient God is certainly capable of giving any and every interested human being independent revelation of all His truth, He has for the most part in the course of human history chosen to work through various agents, stewards or "dispensers" who have been responsible for providing spiritual food to the family of God.<!-- --- --> Until the coming of the canon of scriptures, this was a direct process wherein the Word of God came exclusively to certain individuals of God's choosing called "prophets" (Hebrew: *nabi'* – נביא; Greek: *prophetes* – προφήτης) who were responsible for dispensing divine truth. During the formation of the canon (a period of some fifteen hundred years), prophecy and the written Word were dual means of dispensing truth. With the close of the canon and the passing of the apostolic generation, God's Word ***is the sole source*** of special revelation about Him, so that the dispensation of truth during the division known as the Church is correspondingly different from preceding dispensational divisions (the ministry and gifts of the Spirit being crucial at this present time). With the commencement of the end times and the millennial reign of Christ that follows, scripture will be complemented once again by extraordinary prophetic empowerment as the knowledge of God will come to fill the entire world (see below).
+It should go without saying that God has always made Himself available to those who want to know Him and who wish to have a relationship with Him – that is the whole point of our existence (Deut.4:29; Prov.8:17; Is.45:22; 55:6; Jer.29:13; Matt.7:7; Lk.11:9). The manner and the means whereby He accomplishes this, however, differ, corresponding to the dispensational division in question. To know God, one needs to have information about God; one needs truth, truth which must then be believed and put into practice. And while certain truths are obvious to all mankind (e.g., the existence of God, the basic distinction between right and wrong, etc.), more specific information about God, the salvation He has provided in Jesus Christ, and the knowledge essential to cultivating a relationship with Him are areas of truth that are not available to mankind independent of the grace means God has provided for their dissemination. While our omnipotent, omniscient God is certainly capable of giving any and every interested human being independent revelation of all His truth, He has for the most part in the course of human history chosen to work through various agents, stewards or "dispensers" who have been responsible for providing spiritual food to the family of God.<!-- slide-break --> Until the coming of the canon of scriptures, this was a direct process wherein the Word of God came exclusively to certain individuals of God's choosing called "prophets" (Hebrew: *nabi'* – נביא; Greek: *prophetes* – προφήτης) who were responsible for dispensing divine truth. During the formation of the canon (a period of some fifteen hundred years), prophecy and the written Word were dual means of dispensing truth. With the close of the canon and the passing of the apostolic generation, God's Word ***is the sole source*** of special revelation about Him, so that the dispensation of truth during the division known as the Church is correspondingly different from preceding dispensational divisions (the ministry and gifts of the Spirit being crucial at this present time). With the commencement of the end times and the millennial reign of Christ that follows, scripture will be complemented once again by extraordinary prophetic empowerment as the knowledge of God will come to fill the entire world (see below).
 
-<!-- --- -->
+<!-- slide-break -->
 
 The "dispensations" of God's gracious provision of truth about Himself (necessary for salvation and spiritual growth) are five in number. They are:
 
@@ -71,7 +71,7 @@ The "dispensations" of God's gracious provision of truth about Himself (necessar
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#summary-points}
 
@@ -81,7 +81,7 @@ The word "dispensation" is an accurate translation of the Greek word *oikonomia*
 
 While our omnipotent, omniscient God is certainly capable of giving any and every interested human being independent revelation of all His truth, He has for the most part in the course of human history chosen to work through various agents, stewards or "dispensers" who have been responsible for providing spiritual food to the family of God.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Here is a brief synopsis of various dispensers of truth, and their general periods of activity:
 
@@ -92,7 +92,7 @@ Here is a brief synopsis of various dispensers of truth, and their general perio
 
 As you can see, revelation comes through either prophets, or the written Word of God. Here in the Church age, Bible teachers do not receive direct revelation, but explain the Bible, which is itself the revelation.
 
-<!-- --- -->
+<!-- slide-break -->
 
 These dispensers of truth fall within five separate dispensational divisions (each of which we will go through in more depth):
 
@@ -102,7 +102,7 @@ These dispensers of truth fall within five separate dispensational divisions (ea
 - The Church: from Christ's first advent to His Second Advent.
 - The Millennium: from Christ's return to the end of history.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#follow-on-topics}
 
@@ -114,11 +114,11 @@ A key observation that we might draw is that God is always the provider of speci
 
 To be clear, He doesn't force it upon us (in that He gives us an opportunity to say no... and tragically, many do in fact say no), but the point is that we would not be able to find it without Him. This goes for all of humanity, down to last person. We have all been saved *by grace*. Because God not only paid for our sin with the precious blood of His Son, but then also gave us the knowledge needed to grasp hold of that payment through faith. 
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 
 ### The Gentile Patriarchy {#the-gentile-patriarchy}
@@ -134,7 +134,7 @@ srcend="01:02:15"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -142,7 +142,7 @@ a) <u>Gentile Patriarchy</u>: In keeping with the individual focus of the times 
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#summary-points}
 
@@ -150,7 +150,7 @@ In the Gentile Patriarchy, God worked primarily though individuals who were not 
 
 If you take a look at the verse references Dr. Luginbill gives for each of these men, you can see that while all their circumstances were different, they were all following the paths God had laid out for them, and served as witnesses of God's truth.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#follow-on-topics}
 
@@ -162,15 +162,15 @@ I think it is very helpful for us to associate these short labels with each disp
 |-----------------------------|----------------------------------------------------------------------------------|
 | Gentile Patriarchy          | Through individuals                                                              |
 
-<!-- --- -->
+<!-- slide-break -->
 
 When we consider in this first division how God directly spoke through individuals, I think these circumstances can clearly show that God's favor was not arbitrarily limited to one family or nation. Of course, as we talk about the Jewish Patriarchy and Mosaic Law, we will be arguing that God choosing to speak first through the bloodline of Abraham and then the people of Israel really wasn't arbitrarily limited either, properly understood. But it is nonetheless a bit clearer here, where there is no special focus = no specific focused "torch-bearer" (we might say).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 
 ### The Jewish Patriarchy {#the-jewish-patriarchy}
@@ -186,7 +186,7 @@ srcend="01:03:40"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -194,7 +194,7 @@ b) <u>Jewish Patriarchy</u>: In terms of the dispensing of divine truth, God's g
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#summary-points}
 
@@ -202,13 +202,13 @@ In the Jewish Patriarchy, God was still dispensing truth through individuals. Ho
 
 Unlike the completely unrelated individuals in the Gentile Patriarchy who received revelation, the men of the Jewish Patriarchy were linked to each other through blood.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#follow-on-topics}
 
 While we may not always think of Abraham, Isaac, Jacob, etc. as prophets *per se*, they really were, in that they received direct revelation from God (cf. the verses Dr. Luginbill mentions above). The same also holds for the individuals in the Gentile Patriarchy like Noah and Job. The title "prophet" does sort of take on a technical sense after the establishment of a specific "office" in the nation of Israel, but more generally, a prophet is someone who speaks forth under the inspiration of God (cf. the core meaning of the Greek word [προφήτης](https://biblehub.com/greek/4396.htm)). So truly, these men were all prophets in every sense that matters.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Now, when it comes to understanding why God chose to work out salvation through a specific family—and then nation, as we shall see—rather than leaving salvation more "dispersed" (so to speak), there is much we could say on the subject. But really, what most people are troubled by when they ask this sort of question is the "fairness" aspect of it. To put it simply, isn't it unfair for God to bless one family, and not others? And then bless one nation, but not others? How is that just?
 
@@ -216,7 +216,7 @@ Well, consider that God's blessing was not arbitrary even amongst the family of 
 
 Compare also Romans 9:6-9; Galatians 3:9; Galatians 3:29. "Children of Abraham" are those who inherit his faith.
 
-<!-- --- -->
+<!-- slide-break -->
 
 If we were to use a short label to identify the means through which God dispensed church in this division of history, we would say that God dispensed truth ***through a family: the bloodline of Abraham***.
 
@@ -225,13 +225,13 @@ If we were to use a short label to identify the means through which God dispense
 | Gentile Patriarchy          | Through individuals                                                              |
 | Jewish Patriarchy           | Through a family: the bloodline of Abraham |
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
 TODO: Deuteronomy quotations from what Odii brought up
 
-<!-- --- -->
+<!-- slide-break -->
 
 
 
@@ -249,7 +249,7 @@ srcend=""
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -257,7 +257,7 @@ c) <u>The Mosaic Law</u>: With the giving of the Mosaic Law, God's truth took wr
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#summary-points}
 
@@ -276,7 +276,7 @@ The entire national lifestyle dictated by the Law was itself designed to teach t
 - The system of festivals taught God's ultimate plan for the ages.
 - Etc.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#follow-on-topics}
 
@@ -286,7 +286,7 @@ With the Word of God written down, "getting the truth" was now at times a matter
 
 Additionally, there were now completely new roles relating to the truth: the priests and Levites. In previous dispensational divisions without any written text, prophets spoke for God, and there were no people tasked with interpreting and teaching their words (or the like). But now priests and Levites were tasked with interpreting and teaching the Word of God. Again, this didn't necessarily diminish the authority of the true prophets; it just means that they were no longer the only mechanism by which truth was distributed.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Now, under the dispensation of the Mosaic Law, much truth was left veiled, and only hinted at in symbolism and ritual. We should emphasize: the Mosaic Law does *not* contradict anything later revealed under the New Testament dispensation of grace in the Church Age. Things being left unclear in some areas (at least until further revelation) does *not* a contradiction make.
 
@@ -294,7 +294,7 @@ Fully articulating the purpose of the Law in the Plan of God is a bit out of sco
 
 This means that later New Testament revelation slots right into the framework of truth that has been there from the very beginning, hand-in-glove. So it is that God's so-called "progressive revelation" of truth throughout all the dispensational divisions of human history has not only always been free from contradiction, but it has also always been consistent and perfectly united in a way that nothing else can compare to. Through the lips and pens of prophets God gave humanity His message... His single, perfectly-complete, perfectly-consistent message. There is nothing else like it.
 
-<!-- --- -->
+<!-- slide-break -->
 
 | **Dispensational division** | **God's means of dispensing special revelation**                                 |
 |-----------------------------|----------------------------------------------------------------------------------|
@@ -302,11 +302,11 @@ This means that later New Testament revelation slots right into the framework of
 | Jewish Patriarchy           | Through a family: the bloodline of Abraham                                       |
 | The Mosaic Law              | Through a nation: the nation of Israel |
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 
 ### The Church {#the-church}
@@ -322,17 +322,17 @@ srcend="05:29"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
-d) <u>The Church</u>: The death, resurrection and ascension of Jesus Christ, followed by the advent of His Holy Spirit, brought about a revolution in the dispensation of God's grace means for learning about salvation and pursuing spiritual growth. With the explosion of grace to the gentiles and the formation of a world-wide family of God, a major change in the dispensation of truth was also required (cf. Heb.7:12). As a single family, united to Christ, the work of spiritual growth is very much now a group effort. The two key factors which allowed this transformation to take place are 1) the giving of the Holy Spirit; 2) the completion of the canon of scripture. Apart from the early days of the Church (and it would be well to remember that all the writers of scripture were either apostles who had seen Christ or were writing under their authority: cf. the discussion of prophecy above), the dispensation of knowledge for salvation and spiritual growth has rested almost exclusively on these twin pillars, whether directly or indirectly. For all believers have the gift of the Holy Spirit (Rom.8:9), and all truth necessary for salvation and spiritual growth is contained in and limited to the Bible (with the exception of "general revelation": e.g., recognizing God's existence from contemplating the magnificence of His creation). That is not to say, of course, that in our current dispensation it is "every man for himself", and that every believer is authorized and capable of "self-dispensing" the spiritual food necessary for growth. To the contrary, we the Church are the most interconnected group of believers in this respect that the world has yet seen. We are one body, and we function as parts of that body, each one of which is essential, each one of which has great need of all the others (1Cor.12:12-30). As those who have accepted Jesus Christ, we are all here with the same dual-objective: to grow spiritually and to help others do the same. The Holy Spirit bestows spiritual gifts upon all new believers (1Cor.12:4-11), so that through His empowerment of these gifts and His indwelling of every believer we of the Church age have greater opportunities than ever before both for personal spiritual advance and also for helping our fellow believers grow as well.<!-- --- --> As spiritual advance in the midst of Satan's world is no easy mandate, the mutual support of the body of Christ is essential for effective, collective growth. Furthermore, the dispensation of divine truth is no longer accomplished through prophecy (a gift that apparently ceased to function with the passing of the apostolic generation, once the canon of scripture was complete: 1Cor.13:8). Nor is it now a matter of close adherence to a very strict set of symbolic rituals (the Law having been abrogated by the reality of Christ's incarnation and work on the cross: Rom.6:14; 10:4; Col.2:17). We are now free to accept the responsibility of spiritual growth without the burden of following the Law in all its particulars, educational as they may be (Gal.5:1; 5:13; 1Pet.2:16). For everything we as Christians need to know about God and our role in His plan is now contained in one unique book, the Bible (2Tim.3:15-17). God used inspired men to write this Book of books (2Pet.1:20-22), and now uses prepared men with the requisite spiritual gifts to teach and so to "dispense" the truths it contains (1Cor.12:27-31; Eph.4:11-16; 1Thes.5:12-13; 1Tim.5:17):
+d) <u>The Church</u>: The death, resurrection and ascension of Jesus Christ, followed by the advent of His Holy Spirit, brought about a revolution in the dispensation of God's grace means for learning about salvation and pursuing spiritual growth. With the explosion of grace to the gentiles and the formation of a world-wide family of God, a major change in the dispensation of truth was also required (cf. Heb.7:12). As a single family, united to Christ, the work of spiritual growth is very much now a group effort. The two key factors which allowed this transformation to take place are 1) the giving of the Holy Spirit; 2) the completion of the canon of scripture. Apart from the early days of the Church (and it would be well to remember that all the writers of scripture were either apostles who had seen Christ or were writing under their authority: cf. the discussion of prophecy above), the dispensation of knowledge for salvation and spiritual growth has rested almost exclusively on these twin pillars, whether directly or indirectly. For all believers have the gift of the Holy Spirit (Rom.8:9), and all truth necessary for salvation and spiritual growth is contained in and limited to the Bible (with the exception of "general revelation": e.g., recognizing God's existence from contemplating the magnificence of His creation). That is not to say, of course, that in our current dispensation it is "every man for himself", and that every believer is authorized and capable of "self-dispensing" the spiritual food necessary for growth. To the contrary, we the Church are the most interconnected group of believers in this respect that the world has yet seen. We are one body, and we function as parts of that body, each one of which is essential, each one of which has great need of all the others (1Cor.12:12-30). As those who have accepted Jesus Christ, we are all here with the same dual-objective: to grow spiritually and to help others do the same. The Holy Spirit bestows spiritual gifts upon all new believers (1Cor.12:4-11), so that through His empowerment of these gifts and His indwelling of every believer we of the Church age have greater opportunities than ever before both for personal spiritual advance and also for helping our fellow believers grow as well.<!-- slide-break --> As spiritual advance in the midst of Satan's world is no easy mandate, the mutual support of the body of Christ is essential for effective, collective growth. Furthermore, the dispensation of divine truth is no longer accomplished through prophecy (a gift that apparently ceased to function with the passing of the apostolic generation, once the canon of scripture was complete: 1Cor.13:8). Nor is it now a matter of close adherence to a very strict set of symbolic rituals (the Law having been abrogated by the reality of Christ's incarnation and work on the cross: Rom.6:14; 10:4; Col.2:17). We are now free to accept the responsibility of spiritual growth without the burden of following the Law in all its particulars, educational as they may be (Gal.5:1; 5:13; 1Pet.2:16). For everything we as Christians need to know about God and our role in His plan is now contained in one unique book, the Bible (2Tim.3:15-17). God used inspired men to write this Book of books (2Pet.1:20-22), and now uses prepared men with the requisite spiritual gifts to teach and so to "dispense" the truths it contains (1Cor.12:27-31; Eph.4:11-16; 1Thes.5:12-13; 1Tim.5:17):
 
 {{% ichthys-translation p="Ephesians 1:8b-10" %}}
 . . . . . in all wisdom and understanding [God] has made known to us the mystery He has willed (according to His own benevolent purpose which He determined in [Christ]) for administering (lit., for the ***dispensing*** of) this [present] fulfillment of the epochs: namely the incorporation of all things in Christ, things in heaven, and things on earth –
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% ichthys-translation p="Ephesians 3:8-10" %}}
 This gracious favor has been given to me, the least of His holy ones: to give to the gentiles the good news of the indescribable wealth [that is in] Christ, and to enlighten everyone as to how [the truth] of this mystery (once hidden from the ages in God who created everything) is now ***being dispensed***, so that the enigmatically intricate wisdom of God might be made known to the rulers and authorities in the heavenly realms through the agency of the Church.
@@ -342,7 +342,7 @@ This gracious favor has been given to me, the least of His holy ones: to give to
 It is of this [Church] that I, [Paul], have become a minister according to God's mandate given to me for ***dispensing [the truth]*** to you, in order to bring completeness to God's plan (lit., "word", Gk. logos), that is, [to make known] the mystery hidden from ages and from generations [past], but now revealed to His holy ones (i.e., believers). To all such God desired to make known what wealth there is in this glorious mystery regarding the gentiles, for it is that Christ – your hope of glory – is in you.
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% ichthys-translation p="1st Timothy 1:4" %}}
 And command them not to pursue myths and endless genealogies, things which provoke controversies rather than the ***dispensing [of] the [truth]*** of God by faith.
@@ -350,7 +350,7 @@ And command them not to pursue myths and endless genealogies, things which provo
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#summary-points}
 
@@ -368,13 +368,13 @@ But this is not just something we do alone through the insight the Holy Spirit g
 
 Everything we as Christians need to know about God and our role in His plan is now contained in one unique book, the Bible. God used inspired men to write this Book of books, and now uses prepared men with the requisite spiritual gifts to teach and so to "dispense" the truths it contains. And these men, in turn, are supported by the gifts of all the other believers in the Church, who have also been empowered by Holy Spirit in various ways, such that the Church builds itself up in perfect truth and love.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#follow-on-topics}
 
 I think it easy for us to forget sometimes how big a deal the giving of the Holy Spirit was. Without the indwelling Holy Spirit, there would be no spiritual gifts. And without spiritual gifts, there would be no Church. More than any time previously in human history, individual believers now play a direct part in the truth's spread in this world. No longer are there prophets or priests or kings above us. Rather, all believers are now part of a holy priesthood (cf. 1 Peter 2:5)---living stones being built into a spiritual temple for God Himself. Each one of us now plays a direct role in the working out of God's plan in the world, and that means that more than ever before, God's dispensing of the truth is a collective, group effort—something that cannot succeed without each and every one of us properly exercising the gifts bestowed upon us by the Spirit. Only then can "we all reach unity in the faith and in the knowledge of the Son of God and become mature, attaining to the whole measure of the fullness of Christ" (Ephesians 4:13).
 
-<!-- --- -->
+<!-- slide-break -->
 
 | **Dispensational division** | **God's means of dispensing special revelation**                                 |
 |-----------------------------|----------------------------------------------------------------------------------|
@@ -383,11 +383,11 @@ I think it easy for us to forget sometimes how big a deal the giving of the Holy
 | The Mosaic Law              | Through a nation: the nation of Israel                                           |
 | The Church                  | Through the Church: people exercising their spiritual gifts from the Holy Spirit |
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The Millennium {#the-millennium}
 
@@ -402,7 +402,7 @@ srcend="07:20"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -416,13 +416,13 @@ e) <u>The Millennium</u>: With the return of Christ at the Second Advent, our Lo
 They shall not harm nor destroy on all My holy mountain, for the earth shall be filled with the knowledge of the Lord as the waters cover the sea.
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 However, despite this perfect environment, and despite unprecedented revelation abounding to all, truth which it will be impossible for mankind to ignore or be ignorant of, many will nevertheless resist the truth and choose to follow their sinful natures instead, even to the point of rebelling against the perfect King just as soon as the opportunity arises (when Satan is temporarily released: Rev.20:7-10).
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#summary-points}
 
@@ -430,7 +430,7 @@ After Christ's second coming, humanity will come to experience the personal and 
 
 However, despite this perfect environment, and despite unprecedented revelation abounding to all, truth which it will be impossible for mankind to ignore or be ignorant of, many will nevertheless resist the truth and choose to follow their sinful natures instead.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#follow-on-topics}
 
@@ -440,7 +440,7 @@ In short, with God Himself as our teacher-king, the dispensing of truth in the M
 
 This being the case, it is worth considering how the rebellion of humans who have experienced this blessed time of peace and truth demonstrates beyond a shadow of a doubt that no humans will ever find themselves in hell due a lack of knowledge. The truth will be so available under the perfect millennial rule of Christ that absolutely no human will have any excuse whatsoever, to a degree we cannot yet properly imagine or comprehend. Yet *even so*, some will still choose to rebel. If that does not show the hardheartedness of humanity, what does?
 
-<!-- --- -->
+<!-- slide-break -->
 
 | **Dispensational division** | **God's means of dispensing special revelation**                                 |
 |-----------------------------|----------------------------------------------------------------------------------|
@@ -450,7 +450,7 @@ This being the case, it is worth considering how the rebellion of humans who hav
 | The Church                  | Through the Church: people exercising their spiritual gifts from the Holy Spirit |
 | The Millennium              | Through the personal reign of the Messiah: Jesus himself ruling from Jerusalem   |
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 

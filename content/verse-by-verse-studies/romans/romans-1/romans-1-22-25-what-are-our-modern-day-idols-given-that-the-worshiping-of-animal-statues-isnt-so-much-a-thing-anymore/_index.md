@@ -22,11 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Idolatry is not just bowing to down to statues of wood and stone, but is any time we place something above God in our lives. Therefore, it is very much *not* "just a thing of the past" that only superstitious ancient peoples participated in (as opposed to us modern enlightened people—or so the thought goes). On the contrary, it is a very real problem in our day as well.
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -34,7 +34,7 @@ Idolatry is not just bowing to down to statues of wood and stone, but is any tim
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 People nowadays might scoff at the idea of bowing down and worshiping physical animal idols of wood and stone, but we would be quite foolish to think that idolatry isn't a problem in our time. If you wanted to be clever and make a play on words, you might point out as one example that animals still seem more important than God to some people (or more important than the human beings in God's Church, at any rate). I might even generally agree with the idea that puppies and kittens are generally friendlier and cuddlier and more likable than some or even many human beings, but we do not have a responsibility to work towards their salvation in the same way we are called to do for our fellow man.
 

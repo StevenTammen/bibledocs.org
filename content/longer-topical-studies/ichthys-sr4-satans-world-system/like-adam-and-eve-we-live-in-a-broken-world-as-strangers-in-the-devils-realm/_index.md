@@ -22,11 +22,11 @@ slides="https://bibledocs.org/slides/longer-topical-studies/ichthys-sr4-satans-w
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 This lesson we first go over why the title of the introduction to SR4 mentions Satan's rebellion and fall: because that sequence of events kicked off the battlefield upon which creature history plays out. Bearing in mind this wider spiritual conflict can help contextualize the present set of circumstances before us in this life. After going over these points, we talk about the content of the introduction to SR4, which discusses Adam and Eve: how their circumstances changed post-fall, how God promised in the prophecy of Genesis 3:15 and through the *protoevangelium* to reconcile humanity back to Himself, and how the wider circumstances of our lives today have not fundamentally changed from Adam's and Eve's outside the garden. Finally, we make a brief outline of the next set of topics we will be covering in future lessons, dealing with the wider idea of us as stranger's in the devil's realm, as sojourners in this fallen world under his control.
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 
@@ -51,13 +51,13 @@ This lesson we first go over why the title of the introduction to SR4 mentions S
 
 (Derived from https://ichthys.com/SR4(SWS).htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The Introduction's title: Satan's rebellion and fall {#the-introduction-s-title-satan-s-rebellion-and-fall}
 
-{{< subjects >}}
-<a href="/subject-index/#satan-s-rebellion-is-the-backdrop-of-all-creature-history">Satan's rebellion > Is the backdrop of all creature history</a>
-{{< /subjects >}}
+{{< properties
+stags="Satan's rebellion > Is the backdrop of all creature history"
+>}}
 
 The introduction section of our present study, though not dealing explicitly with the topic of Satan's rebellion and fall, nonetheless shares the title, as do several other introduction sections in the series.
 
@@ -65,7 +65,7 @@ This might seem a bit confusing inasmuch as the introduction here, as we shall s
 
 Properly speaking, it is the first segment of the study ([Part 1](https://ichthys.com/SR1copy.htm)) that deals with Satan's initial state and his fall. However, reality today -- and indeed, as [Part 3](https://ichthys.com/Fall-sr3.htm) discusses, the very purpose and creation of man -- is very much shaped by and affected by Satan's continuing rebellion against God. If our existence is a war on a battlefield, then creation turned into this battlefield when Satan arrogantly raised his hand against his Creator.
 
-<!-- --- -->
+<!-- slide-break -->
 
 It is for this reason that we should keep this wider context in our minds as we start easing into our study. We are starting *in medias res* in this study, and likewise we are born into this world in the middle of a grand spiritual narrative that greatly transcends our own individual lives.
 
@@ -75,13 +75,13 @@ That was the opening act of all creature history. Parts 1 through 3 of this stud
 
 We will periodically turn time and again to this wider context -- the echoes of Satan's initial rebellion and fall, the grand spiritual stage of existence -- as we proceed in our study, because keeping that big picture in mind is in fact one of the very best ways to see through the illusions before us in this world.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The actual introduction: Adam and Eve, and us {#the-actual-introduction-adam-and-eve-and-us}
 
-{{< subjects >}}
-<a href="/subject-index/#adam-and-eve">Adam and Eve</a>
-{{< /subjects >}}
+{{< properties
+stags="Adam and Eve"
+>}}
 
 Well, we got all that from the title of the introductory section... but what of its content?
 
@@ -93,13 +93,13 @@ Dr. Luginbill opens up this present study (SR4 specifically) with some initial f
    - The *protoevangelium*
 - Us now vs. them then
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The contrast between pre-fall paradise and post-fall realities {#the-contrast-between-pre-fall-paradise-and-post-fall-realities}
 
-{{< subjects >}}
-<a href="/subject-index/#fall-effects-on-mankind">Fall > Effects on mankind</a>
-{{< /subjects >}}
+{{< properties
+stags="Fall > Effects on mankind"
+>}}
 
 The world that Adam and Eve entered after their expulsion from the garden of Eden could not have been more different from the perfect environment they had so recently taken for granted.
 
@@ -112,13 +112,13 @@ The domestic tranquility that had reigned in Eden as a matter of course would no
 
 And finally, in crowning futility, when they had lived out their now-finite years, the ground would receive them back -- death would put an end to all they had worked and striven for in the sorrowful interim.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### God's promise of deliverance {#god-s-promise-of-deliverance}
 
-{{< subjects >}}
-<a href="/subject-index/#protoevangelium">Protoevangelium</a>
-{{< /subjects >}}
+{{< properties
+stags="Protoevangelium"
+>}}
 
 But God did not leave them orphans on the earth, completely bereft of all hope and of Himself.
 
@@ -130,7 +130,7 @@ Thus, before they even left the garden of Eden, God had given Adam and Eve a new
 
 It only remained for our first parents to accept our Lord's generous offer of boundless grace, trusting in Him for their deliverance from the inevitability of the grave, the unavoidable reality which had now become life's central issue.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Us now vs. them then {#us-now-vs-them-then}
 
@@ -140,13 +140,13 @@ The critical issue for every human being is identical now to what it was then: w
 
 Moreover, just as Adam and Eve were left in the world beyond the point of faith, so also we today are not immediately transferred to our heavenly home after salvation, but remain here in the world to prove our faith, to grow in it, and to help others do the same.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The segue {#the-segue}
 
 Thus, as followers of God and believers in Jesus Christ, we can be forgiven for feeling ill at ease in this present world where we scarcely even seem to belong, for it is not a place where the knowledge of God abounds and the will of God is always done. On the contrary, this perilous world through which we pass lies largely under the influence of the evil one (1 John 5:19, and cf. Ephesians 2:2, which we talked about last time).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### I. Strangers in the Devil's Realm {#i-strangers-in-the-devil-s-realm}
 
@@ -162,31 +162,31 @@ Here are the subsections we'll go over:
 4. The battlefield
 5. The enemy
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Sojourners in the devil's world {#sojourners-in-the-devil-s-world}
 
 Like our first parents Adam and Eve before us, we have been left in this strange and alien world where the blinding reality of God is largely obscured from view, revealed almost exclusively in His Word to those who seek Him out. Until that time, we wait for something better as homeless wanderers in a world which finds our perspective and our hope worthless, even foolish and idiotic.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The vanity of life {#the-vanity-of-life}
 
 In His judgment upon Adam and Eve, God laid down the fundamental calculus of human life outside of the garden: that we must earn our bread through sweat and toil throughout our short lives, and afterwards return to dust (Genesis 3:16-19), taking nothing with us as we pass into the grave.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The hostility of the world {#the-hostility-of-the-world}
 
 From the moment we turn away from the hollow manner of life handed down from generation to generation (1 Peter 1:18), and turn instead to the living God through faith in His Son Jesus Christ, we are reconciled to Him, and at the same time alienated from the world. There can be no middle ground. Either we are friends of God, or friends of the world (James 4:4).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The battlefield {#the-battlefield}
 
 There is another dimension to be considered beyond our alienation to the world, beyond its essential futility, and beyond the enmity between it and us: the world is also a battlefield where the struggle between Satan's present kingdom and the coming kingdom of heaven continues to be played out in deadly earnest (as has been the case since the devil's fall).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The enemy {#the-enemy}
 

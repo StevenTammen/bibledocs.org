@@ -1,17 +1,16 @@
 ---
 title: Scripture Is Clear That We Are to Honor and Obey Our Parents
 weight: 1
+stags:
+    - Parents > Honoring
+    - Parents > Obeying
+
 layout: content-page
 ---
 
 There are certain areas of application in the Christian walk that almost all people will likely find themselves pondering at some point in their lives, and one such area is making sense of the duty that we as Christians owe our parents, given that their ideas and our ideas will likely not always line up with 100% accuracy. Even though the indignant teenage rebel would probably like to hear otherwise, the Bible is actually clearer on this one than many other important matters of application: we are duty-bound to not only honor our parents, but also to obey them. This first lesson examines the scriptural support for these assertions -- sets out to show the high degree of regard we ought to have for our parents and their guidance. Future lessons will inject a bit more nuance into the relationship, making things less clear-cut than the blind obedience that might otherwise reign unopposed as the proper course of action.
 
 <!--more-->
-
-{{< subjects >}}
-<a href="/subject-index/#parents-honoring">Parents > Honoring</a>
-<a href="/subject-index/#parents-obeying">Parents > Obeying</a>
-{{< /subjects >}}
 
 {{% section-navigation %}}
 
@@ -27,11 +26,11 @@ slides="https://www.steventammen.com/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 There are certain areas of application in the Christian walk that almost all people will likely find themselves pondering at some point in their lives, and one such area is making sense of the duty that we as Christians owe our parents, given that their ideas and our ideas will likely not always line up with 100% accuracy. Even though the indignant teenage rebel would probably like to hear otherwise, the Bible is actually clearer on this one than many other important matters of application: we are duty-bound to not only honor our parents, but also to obey them. This first lesson examines the scriptural support for these assertions -- sets out to show the high degree of regard we ought to have for our parents and their guidance. Future lessons will inject a bit more nuance into the relationship, making things less clear-cut than the blind obedience that might otherwise reign unopposed as the proper course of action.
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -41,7 +40,7 @@ There are certain areas of application in the Christian walk that almost all peo
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Q: I don't agree with what my parents want for me. Do I need to do exactly what they say? {#q-i-don-t-agree-with-what-my-parents-want-for-me-do-i-need-to-do-exactly-what-they-say}
 
@@ -49,9 +48,9 @@ So, I know one of the ten commandments is to honor my parents, but they drive me
 
 ### Some direct quotes from scripture: honoring parents {#some-direct-quotes-from-scripture-honoring-parents}
 
-{{< subjects >}}
-<a href="/subject-index/#parents-honoring-scripture-about">Parents > Honoring > Scripture about</a>
-{{< /subjects >}}
+{{< properties
+stags="Parents > Honoring > Scripture about"
+>}}
 
 {{% ot t="esv" h="800px" p="Exodus 20:12 | Proverbs 1:8-9 | Proverbs 20:20 | Proverbs 23:22 | Proverbs 30:17" %}}
 
@@ -97,7 +96,7 @@ The eye that mocks a father, that scorns obedience to a mother, will be pecked o
 
 {{% /ot %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% nt t="esv" h="300px" p="Ephesians 6:1-3" %}}
 
@@ -111,13 +110,13 @@ The eye that mocks a father, that scorns obedience to a mother, will be pecked o
 
 {{% /nt %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 The Bible is very clear about the importance of giving our parents the respect they are due. It is never presented as "optional" or "just when we feel like it and it suits our purposes."
 
 Under the Law, arrogant disobedience of one's parents was grounds for execution (the people of Israel, as God's nation, were called out for exemplary conduct as bearers of an unattainably perfect standard).
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% ot t="esv" h="600px" p="Leviticus 20:9 | Deuteronomy 21:18-21" %}}
 
@@ -141,13 +140,13 @@ If anyone calls down a curse on his father or mother, he will be put to death. H
 
 {{% /ot %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Some direct quotes from scripture: obeying parents {#some-direct-quotes-from-scripture-obeying-parents}
 
-{{< subjects >}}
-<a href="/subject-index/#parents-obeying-scripture-about">Parents > Obeying > Scripture about</a>
-{{< /subjects >}}
+{{< properties
+stags="Parents > Obeying > Scripture about"
+>}}
 
 Clearly, then, these things are not to be trivialized or taken lightly. In fact, it is more than just some vague notion of honor or respect that we are called to give our parents -- we are called to obey them:
 

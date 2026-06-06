@@ -31,7 +31,7 @@ Maybe other people will find it interesting too. That is the hope.
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 This page goes over some basic meta information about this study on BibleDocs.
 
@@ -47,7 +47,7 @@ If I'm thinking about the materials anyway, jotting things down to do research l
 
 Maybe other people will find it interesting too. That is the hope.
 
-
+<!-- summary -->
 
 {{% discussion-pages %}}
 

@@ -49,13 +49,13 @@ This week we talked about how to recover after we have stumbled in sin -- the pr
 
 (Derived from https://ichthys.com/6A-Peripateo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### What to make of the fact that we all sin? {#confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall-what-to-make-of-the-fact-that-we-all-sin}
 
-{{< subjects >}}
-<a href="/subject-index/#sin-universality">Sin > Universality</a>
-{{< /subjects >}}
+{{< properties
+stags="Sin > Universality"
+>}}
 
 {{% ichthys-translation p="Hebrews 12:12-13" %}}
 (12) Therefore (going back to the race analogy of v.1), pick up those hands hanging slack at your side, put some strength back into your weak knees, (13) and make straight tracks for your feet, so that, [even though you fell down,] what you sprained might not be twisted completely out of joint, but might instead work its way back to health.
@@ -67,7 +67,7 @@ In spiritual terms, while we deeply desire to walk perfectly with our Lord at al
 
 The great believers of the Bible may have come close, but even they had feet of clay (and some of their more prominent lapses are recorded in scripture in part to assure us that this principle is true).
 
-<!-- --- -->
+<!-- slide-break -->
 
 The fact of imperfection must not, however, be allowed to become a justification or rationale for sloppiness in our spiritual walk.
 
@@ -75,9 +75,9 @@ Quite to the contrary, we ought to be humbled by the knowledge that "we all stum
 
 When we do fail, when we do sin, when we do fall into some bad pattern or fall out of our good pattern that has brought us to where we are in our spiritual advance, the advice given by Paul in the quote above should be embraced immediately and energetically: we need to get back up; we need to pull ourselves back together; and we need to get back into the race just as soon as is humanly possible.
 
-<!-- --- -->
+<!-- slide-break -->
 
-#### Wash don't wallow {#confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall-wash-don-t-wallow}
+#### Wash don't wallow {#confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall-wash-dont-wallow}
 
 Nothing is worse than allowing sin to beget sin and torpor to beget torpor until we find ourselves in some terrible funk of spiritual free fall where one mistake leads to another in a vicious circle of retrogression.
 
@@ -85,38 +85,37 @@ As the contemporary proverb goes, "when you find yourself in a hole, first -- st
 
 To this most important of points, we add the following:
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Confess to the Lord {#confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall-confess-to-the-lord}
 
-{{< subjects >}}
-<a href="/subject-index/#confession">Confession</a>
-{{< /subjects >}}
+{{< properties
+stags="Confession"
+>}}
 
 Whatever we may have thought, said or done, however many times we have thought it, or said it, or done it, however long and however far our stumble has been, we are promised absolutely absolute forgiveness upon confession along with restoration of fellowship with the Father and the Son whom we love more than life itself (Ps.32:5; 1Jn.1:9; cf. Ps.51:1-19).
 
 We should make it a habit to confess immediately whenever we err. If we do make this our practice, we will find that we are less likely to turn a small stumble into a precipitous fall.
 
-<!-- --- -->
+<!-- slide-break -->
 
-#### Accept God's forgiveness {#confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall-accept-god-s-forgiveness}
+#### Accept God's forgiveness {#confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall-accept-gods-forgiveness}
 
-{{< subjects >}}
-<a href="/subject-index/#forgiveness-even-if-jesus-paid-it-all-it-can-be-hard-for-us-to-embrace-the-forgiveness-as-we-ought">Forgiveness > Even if Jesus paid it all, it can be hard for us to embrace the forgiveness as we ought</a>
-{{< /subjects >}}
+{{< properties
+stags="Forgiveness > Even if Jesus paid it all, it can be hard for us to embrace the forgiveness as we ought"
+>}}
 
 When we do confess, we must accept that God's promise to forgive us is true and that we have indeed been forgiven. The discipline we have received may continue -- as when we forgive a penitent child without necessarily restoring his or her privileges immediately (in order to let the lesson sink in).
 
 But we are within our rights -- and indeed it is really obligatory -- to accept the glory and the warmth of our Lord's love and fellowship again, immediately after we turn back to Him and confess whatever we may have done that was offensive to Him (Lk.15:22-24).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Avoid self-loathing {#confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall-avoid-self-loathing}
 
-{{< subjects >}}
-<a href="/subject-index/#penance-is-bad-theology">Penance > Is bad theology</a>
-<a href="/subject-index/#sin-god-already-disciplines-us-perfectly-so-we-ought-not-discipline-ourselves-more">Sin > God already disciplines us perfectly, so we ought not discipline ourselves more</a>
-{{< /subjects >}}
+{{< properties
+stags="Penance > Is bad theology | Sin > God already disciplines us perfectly, so we ought not discipline ourselves more"
+>}}
 
 For whatever reason, many believers are harder on themselves than the Lord is. He does discipline us, but in a loving way -- as a father comports himself towards the son he loves (Heb.12:5-11).
 
@@ -124,13 +123,13 @@ We need to remember that discipline is His job, not ours. It is a subtle form of
 
 Such pointless exercises in self-flagellation are at the least border-line legalistic, gain no points with God, and only delay the believers return to the race and to the fight.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Reorient {#confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall-reorient}
 
-{{< subjects >}}
-<a href="/subject-index/#spiritual-perspective-eyes-on-the-prize">Spiritual perspective > Eyes on the prize</a>
-{{< /subjects >}}
+{{< properties
+stags="Spiritual perspective > Eyes on the prize"
+>}}
 
 Just as soon as we are back on our feet, we need to put ourselves mentally back into the race.
 
@@ -138,17 +137,17 @@ From a spiritual point of view, that means remembering that we are very dear to 
 
 We need to reorient to the truth of why we are here: to please Jesus Christ; and to what we are about and have purposed to do: to grow up to spiritual maturity and to keep growing, to progress in our walk with the Lord and to keep progressing, and to help our brothers and sisters in His Church do likewise through the ministrations we are given to provide in their behalf -- and to keep doing so might and main, all the way to the end.
 
-<!-- --- -->
+<!-- slide-break -->
 
 We need to remember to respond to the Spirit who is telling us this at all times as He reminds us that our Christian hope "does not disappoint" (Rom.5:5), because we know absolutely by faith that we are saved, that we have a perfect, eternal body in waiting for us, that we have a place in the New Jerusalem in the presence of the Lord we love forever, and that if we persevere in running this race we also have fantastic eternal rewards in store, the least of which is worth more than this entire, temporary world we now behold.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Looking back is not productive for us as Christians {#confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall-looking-back-is-not-productive-for-us-as-christians}
 
-{{< subjects >}}
-<a href="/subject-index/#sin-we-should-not-dwell-on-the-past-but-keep-our-eyes-fixed-forward">Sin > We should not dwell on the past, but keep our eyes fixed forward</a>
-{{< /subjects >}}
+{{< properties
+stags="Sin > We should not dwell on the past, but keep our eyes fixed forward"
+>}}
 
 It should also be noted that long post-mortems following spiritual defeats serve no useful purpose and can often cause us to set our gaze looking backwards instead of forwards as we ought to be doing.
 

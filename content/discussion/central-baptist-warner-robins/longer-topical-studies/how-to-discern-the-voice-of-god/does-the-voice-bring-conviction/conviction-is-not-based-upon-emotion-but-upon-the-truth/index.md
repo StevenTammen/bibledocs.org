@@ -30,7 +30,7 @@ Of course, many times, people believe things that are false due to a veritable "
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 In an earlier discussion page from this week, we examined the fact that it is [completely possible for human beings to deceive themselves and yet be completely unaware of such](/discussion/central-baptist-warner-robins/longer-topical-studies/how-to-discern-the-voice-of-god/does-the-voice-bring-conviction/on-the-human-capacity-for-self-deception). I did not particularly break out the root causes of self-deception there, but it turns out that there are a couple different umbrella categories.
 
@@ -40,13 +40,13 @@ On the other hand, others lie to themselves by making it all about how they feel
 
 Of course, many times, people believe things that are false due to a veritable "cocktail" of rationalizations and presuppositions and mental gymnastics. These things are not necessarily mutually exclusive with each other, in other words. Nonetheless, on this page, we are going to briefly examine just the relationship between emotion and conviction, and make a case that true conviction is based primarily upon the truth as contained in the Word of God, not emotion.
 
-
+<!-- summary -->
 
 {{% content %}}
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Why emotion alone is a faulty basis for establishing spiritual truth {#why-emotion-alone-is-a-faulty-basis-for-establishing-spiritual-truth}
 
@@ -64,7 +64,7 @@ To be clear, this does not mean that we need to be utterly against emotions as C
 
 The point is simply that our emotions ought not be in the driver's seat, but us. The truth is a thing independent from them. When our emotions line up with the truth, well and good. But if they do not, well, best go with the Bible, not our emotions.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Example: Facing down the wind and the waves {#example-facing-down-the-wind-and-the-waves}
 
@@ -82,7 +82,7 @@ My purpose in bringing up the example of Peter's reaction here is this: it is co
 
 This is why *following* our emotions (rather than *leading* them) is dangerous.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Example: Joy in suffering {#example-joy-in-suffering}
 
@@ -98,11 +98,11 @@ If you want a persuasive yet short argument against the idea of basing much of a
 
 The natural response we feel when finding ourselves in the middle of suffering is dismay, not joy. As we grow more mature, we definitely will get better at looking to the unseen spiritual dimension in order to bolster our attitude and square our shoulders like good Christian soldiers—in order to snap out of our emotion-induced pity party that much faster. The more we believe 2 Corinthians 4:17---*really* believe it—the less phased we will be by the temporary afflictions of the world. But we will still probably always have to wrestle our feelings in line at least some, to get back our peace and joy when things really get tough.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Emotional conviction vs. spiritual conviction {#emotional-conviction-vs-spiritual-conviction}
 
@@ -118,7 +118,7 @@ For us to become spiritually convicted about something, the Holy Spirit operates
 
 Hopefully all this makes it clear why emotions have no part in true spiritual conviction. Emotions are simply not involved on *either* side of the equation. This means that they are, more or less, a red herring when it comes to what we ought to think, say, and do. The truth is the truth; it doesn't care if we feel good about it, if we feel downright lousy about it, or if we are somewhere in between. We still have a duty to accept it and obey it, no matter how we might feel.
 
-<!-- --- -->
+<!-- slide-break -->
 
 By way of contrast, emotional conviction operates independently from the biblical truth stored up in our hearts, and independent from the Holy Spirit's prompting. Without God's Word and the indwelling Holy Spirit coming together to shine light on our path, why would we expect emotional conviction to be worth much of anything at all? Seems obvious, right?
 
@@ -126,7 +126,7 @@ Yet, even so, it is still difficult in the moment to keep this in mind, and keep
 
 So once again, growing spiritually (by consistently reading our Bibles and taking in Bible teaching from gifted and prepared teachers) is our answer, the answer as to how to deal with emotions in a godly way. You will seldom ever be wrong in guessing that spiritual growth is the ultimate answer to some problem we might face as Christians, and this case is no exception.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 

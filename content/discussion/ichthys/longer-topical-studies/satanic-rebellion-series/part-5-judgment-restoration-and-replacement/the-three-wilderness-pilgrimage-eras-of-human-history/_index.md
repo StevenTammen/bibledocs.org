@@ -24,17 +24,17 @@ TODO: Summary
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 TODO: Summary
 
-
+<!-- summary -->
 
 {{% content %}}
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Audio clip from Ichthys {#audio-clip-from-ichthys}
 
@@ -47,7 +47,7 @@ srcend="42:22"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -57,13 +57,13 @@ Since the expulsion of Adam and Eve from the garden of Eden, this world has larg
 Happy is everyone whose strength is in You. Their hearts are set on the highways [of pilgrimage to Zion]. As they pass through the [dry] valley of Bachah (i.e., the wilderness of life), they make it a place of springs. Even the early rains enwrap it with [their] blessings. They go from strength to strength, until they appear before God in Zion.
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% ichthys-translation p="Hebrews 11:13-16" %}}
 These all died [while still walking] in faith, though they had not received the [fulfillment of their] promises. But [while they lived] they did catch sight of [these promises] from a distance and salute them, [so to speak], thus making it plain [to all the world] that they were [in effect] strangers and sojourners on the earth. For people who express [their faith] in this way make it quite evident that they are eagerly in search of a homeland [other than the world they now pass through]. Indeed, if these [believers'] hearts had yearned for the [land] from which they had departed, they would have had [ample] opportunity to turn back. But they were zealous for a better place, a heavenly one. Therefore God is not ashamed to be called their God. He has, in fact, prepared a city for them.
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 There are three wilderness-pilgrimage eras in human history. They are defined by and take their names from the pilgrims who sojourn through them:
 
@@ -77,7 +77,7 @@ The second wilderness-pilgrimage era (Jewish) runs from the call of Abraham unti
 
 The third wilderness-pilgrimage era (Church) runs from the day of Pentecost until the onset of the Tribulation. Its pilgrim-believers are both Jews (the original branch) and gentiles (grafted into Israel) combined into the single body of Christ. In this era, there is a *corporate focus* to the pilgrimage (i.e., following God as intimate members of His family, the body of Christ which is the Church universal).
 
-<!-- --- -->
+<!-- slide-break -->
 
 Though they differ in many respects, all three eras have several important aspects in common. They are all . . .
 
@@ -91,7 +91,7 @@ These three wilderness eras demonstrate God's grace in providing for believers u
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Summary points {#summary-points}
 
@@ -99,7 +99,7 @@ This world, at present, is very much under the control of Satan, and we'd best n
 
 The city God has prepared for us already exists beyond the veil. God has already prepared rooms for us in His house. We just need to use eyes of faith to see these things, since they will not be right before us. Faith is essential for us to exercise as we sojourn through this present wilderness, in order to keep our spirits up, and our focus on the rewards that will make all of our present suffering worth it in the end.
 
-<!-- --- -->
+<!-- slide-break -->
 
 The three wilderness-pilgrimage eras of human history all have slightly different focuses:
 
@@ -107,13 +107,13 @@ The three wilderness-pilgrimage eras of human history all have slightly differen
 - In the second wilderness-pilgrimage era (the Jewish era)---which ran from the call of Abraham to the birth of Christ—there is a *national* focus to the pilgrimage.
 - In the third wilderness-pilgrimage era (the Church era)---which will run from the day of Pentecost until the onset of the Tribulation—there is a *corporate* focus to the pilgrimage.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Despite being somewhat different, all three wilderness-pilgrimage eras are part of this Earth's post-Eden state of corruption, without direct divine rule like will be present after the Second Advent in the Millennium. This means they all fall within the period of time that the world is under the control of Satan. Each period is also 2,000 years long.
 
 It is in the Millennium at Christ's return that the believers of all three eras come forth out of the wilderness and receive their rewards. Until that time, this world is a wilderness, like the desert of Sinai through which the children of Israel journeyed. But with hearts stayed upon the Lord, we pilgrims can experience the blessings of the water of life in the midst of this desolate wilderness (Ps.84:6b)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Follow-on topics {#follow-on-topics}
 
@@ -123,7 +123,7 @@ It is interesting to consider how humanity has essentially been exiles and sojou
 - Then he called an entire nation to be set apart and distinct. Under the Law, the nation of Israel was supposed to be sanctified unto the Lord—a light to the nations around them.
 - And now with the resurrection of Christ and coming of the Holy Spirit, God calls those in His Church to together be witnesses to the world as "elect exiles (1 Peter 1:1).
 
-<!-- --- -->
+<!-- slide-break -->
 
 It is of critical importance to not forget the fact that this world will stay an irredeemable wilderness until the return of Jesus Christ, when He will set the world to rights and rule with perfect truth and justice. Until then, it will stay enemy territory, never to be redeemed.
 
@@ -131,13 +131,13 @@ This is why past a certain point, trying to "fix" the world (through political m
 
 This is not a complicated point to understand, but it runs very counter to a good deal of mainstream Christianity thought, which has gotten mired in political goals rather than keeping the focus on spiritual growth as is proper. I'm not even talking about Dominion Theology/Christian Nationalism here and the really crazy "vote in the kingdom" type stuff. Even the garden variety "religious right" sort of political campaigning is in principle still problematic, even when it is not taken to the extremes. Largely because it is just a misallocation of our time and focus.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Another observation to make here is that no amount of sugar-coating will ever be able to get rid of the fact that what God calls us to more closely resembles a difficult journey through inhospitable wilderness than a stress-free leisurely stroll through fields of flowers (or what have). We *will* suffer on the road to Zion. People need to count the true cost (Luke 14:28-33).
 
 This is exactly why the so-called prosperity gospel is a load of rubbish.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Further discussion {#further-discussion}
 

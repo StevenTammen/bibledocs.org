@@ -22,11 +22,11 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/throug
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 This cycle I started producing new written content again. This time, one study was on the office of pastor-teacher and church polity, another was on the actions of Abraham, Sarah, and Hagar in Genesis 16, and the final one was on college decisions and career path.
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 
@@ -38,7 +38,7 @@ This cycle I started producing new written content again. This time, one study w
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Foreword {#foreword}
 
@@ -46,7 +46,7 @@ I probably won't bother with the webcam intro/outro anymore, and will be trying 
 
 As promised last cycle, I have now shifted into actually producing new written content, at least for a while here. This time I organized a few drafts from my backlog, and selected several that were closer to completion. Then I edited and polished them, got them organized in the content hierarchy properly, and here we are.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The new written content {#the-new-written-content}
 
@@ -54,7 +54,7 @@ As promised last cycle, I have now shifted into actually producing new written c
 - [On the actions of Abraham, Sarah, and Hagar in Genesis 16](https://www.bibledocs.org/questions-and-answers/self-generated/on-the-actions-of-abraham-sarah-and-hagar-in-genesis-16/)
 - [On college decisions and career path](https://www.bibledocs.org/questions-and-answers/self-generated/college-decisions-and-career/)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Upcoming work {#upcoming-work}
 

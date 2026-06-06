@@ -47,32 +47,32 @@ This video provides a summary of this ministry: who is behind it, what resources
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### About me and my path to ministry {#about-me-and-my-path-to-ministry}
 
 * [A brief overview of my background and ministry path](https://www.bibledocs.org/about-the-author/a-brief-overview-of-my-background-and-ministry-path/)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### This ministry targets text, audio, and video content all three {#this-ministry-targets-text-audio-and-video-content-all-three}
 
 * [Much content on this site supports all three communication mediums: text, video, and audio](https://www.bibledocs.org/about-the-site/content-organization/#much-content-on-this-site-supports-all-three-communication-mediums-text-video-and-audio)
 * [An example study content page](https://www.bibledocs.org/longer-topical-studies/ichthys-sr4-satans-world-system/like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devil-s-realm/)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The YouTube channel has many of the same useful content enhancements {#the-youtube-channel-has-many-of-the-same-useful-content-enhancements}
 
 * [BibleDocs - YouTube](https://www.youtube.com/channel/UCFk7khraAKf68DZ5GeYEFIw/featured)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Page types used in main content: list pages, aggregation pages, and content pages {#page-types-used-in-main-content-list-pages-aggregation-pages-and-content-pages}
 
 * [Page types](https://www.bibledocs.org/about-the-site/content-organization/#page-types)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Other notable content-related things {#other-notable-content-related-things}
 
@@ -81,13 +81,13 @@ This video provides a summary of this ministry: who is behind it, what resources
 * [Embedded Bible app windows](https://www.bibledocs.org/about-the-site/content-features/#embedded-bible-app-windows)
 * [Subject index](https://www.bibledocs.org/subject-index/)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The BibleDocs community: Forum, WhatsApp {#the-bibledocs-community-forum-whatsapp}
 
 * [Community overview](https://www.bibledocs.org/community-overview/)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Community meetings {#community-meetings}
 

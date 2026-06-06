@@ -24,11 +24,11 @@ slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 In this lesson, we primarily examine the concepts of Theophanies (appearances of God) and Christophanies (appearances of Jesus Christ), and argue that due to the Father's invisibility, inaccessibility, and dignity, it is the second person of Trinity (that is, a pre-incarnate Jesus Christ) that appears before mankind in the Old Testament, *not* the Father. This means that all Theophanies in the Old Testament are in fact Christophanies.
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 
@@ -47,13 +47,13 @@ In this lesson, we primarily examine the concepts of Theophanies (appearances of
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Overview {#overview}
 
-{{< subjects >}}
-<a href="/subject-index/#trinity-roles-the-son-has-always-been-the-visible-member-of-the-trinity">Trinity > Roles > The Son has always been the visible member of the Trinity</a>
-{{< /subjects >}}
+{{< properties
+stags="Trinity > Roles > The Son has always been the visible member of the Trinity"
+>}}
 <!-- p="John 10:30; John 8:28; John 14:24; John 8:26; John 8:28; John 12:50b" -->
 
 In terms of their presentation of the Trinity, the main difference between the Old and New Testaments is that in the New Testament, Christ is clearly visible and distinct from the Father, while in the Old Testament, the Father and Son are often difficult to distinguish. Despite the discussion immediately above, there is a common misconception – even in many Christian circles – that the fact that the exact details about Christ's incarnation were shielded in the Old Testament means that the *visible* person in the Old Testament is primarily God the Father.
@@ -66,30 +66,26 @@ Additionally, in the New Testament, when our Lord says "I and the Father are one
 So whatever I say is just what the Father has told me to say.
 {{% /scripture %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Definition of Theophany and Christophany {#definition-of-theophany-and-christophany}
 
-{{< subjects >}}
-<a href="/subject-index/#theophany">Theophany</a>
-<a href="/subject-index/#christophany">Christophany</a>
-<a href="/subject-index/#theophany-all-old-testament-theophanies-are-in-fact-christophanies">Theophany > All Old Testament Theophanies are in fact Christophanies</a>
-{{< /subjects >}}
+{{< properties
+stags="Theophany | Christophany | Theophany > All Old Testament Theophanies are in fact Christophanies"
+>}}
 <!-- p="Daniel 7:13-14" -->
 
 The words "Theophany" and "Christophany" mean, respectively, "an appearance of God" and "an appearance of Christ", the second part of each being derived from the Greek root *phan*, "appear" (from which we get the word "phenomenon"). In this section it will be argued that in biblical terms, at any rate, the only category of event we really need to be concerned with here is Christophany, for, in my view, all cases of Theophany in the Old Testament are really Christophanies.
 
 It needs to be made clear right at the outset that by Christophany we are definitely not referring to the literal, physical appearance of our Lord Jesus Christ in His true humanity – ever since His deity assumed true humanity at the incarnation, Christ has not again appeared in temporary, Christophanic form. The position that all Old Testament appearances of God are, in reality, appearances of Christ, also allows for the possibility of other sorts of manifestations of the Father other than an ostensibly corporeal appearance here on earth, such as a dream or vision (Daniel's vision of the "Ancient of Days" being the prime example: Dan.7:13-14).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The invisibility of the Father {#the-invisibility-of-the-father}
 
-{{< subjects >}}
-<a href="/subject-index/#god-resplendence-unapproachable-light">God > Resplendence > Unapproachable light</a>
-<a href="/subject-index/#trinity-roles-father">Trinity > Roles > Father</a>
-<a href="/subject-index/#interpretation-principles-no-one-has-seen-the-father">Interpretation > Principles > "No one has seen the Father"</a>
-{{< /subjects >}}
+{{< properties
+stags="God > Resplendence > Unapproachable light | Trinity > Roles > Father | Interpretation > Principles > “No one has seen the Father”"
+>}}
 <!-- p="Matthew 18:10; Matthew 6:6; Matthew 6:26; Revelation 21:1-3; Exodus 33:20; Isaiah 45:15; John 1:18; John 6:46; 1 Timothy 6:16; 1 John 4:12" -->
 
 Until we get to heaven, we will not see the Father. We know that the Father is not invisible to the angels, for they "constantly see the face of My Father in heaven" (Matt.18:10). But He is our *heavenly* Father (Matt.6:9, 26, et passim), and as long as the earthly conflict between His would-be usurper, Satan, and His designated regent, Christ, still rages, in heaven He remains for His majesty's sake, speaking and working His will through His Servant. Until the final and ultimate victory, and only after the complete purging of the universe will the Father come to the new earth to make His abode with us forever (Rev.21:1-3). Until that time, the Father, though acting and speaking through His representative, His Son Jesus Christ, remains invisible to human eye.
@@ -102,7 +98,7 @@ Until we get to heaven, we will not see the Father. We know that the Father is n
 Surely, You are a God who hides Himself. 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% ichthys-translation p="John 1:18" %}}
 No one has ever seen God. God the only Son – the One who has always been at the Father's side – He has made Him known. 
@@ -120,17 +116,13 @@ He [the Father] who alone possesses immortality, dwelling in ***unapproachable**
 No one has ever seen God.
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The inaccessibility of the Father apart from Christ {#the-inaccessibility-of-the-father-apart-from-christ}
 
-{{< subjects >}}
-<a href="/subject-index/#trinity-roles-father">Trinity > Roles > Father</a>
-<a href="/subject-index/#interpretation-principles-unapproachableness-of-the-father">Interpretation > Principles > Unapproachableness of the Father</a>
-<a href="/subject-index/#jesus-as-mediator-between-us-and-the-father">Jesus > As mediator between us and the Father</a>
-<a href="/subject-index/#blood-of-christ-how-it-changed-the-relationship-between-us-and-the-father">Blood of Christ > How it changed the relationship between us and the Father</a>
-<a href="/subject-index/#veil-in-temple-symbolic-of-separation-from-god-torn-in-two-after-the-cross">Veil in Temple > Symbolic of separation from God > Torn in two after the cross</a>
-{{< /subjects >}}
+{{< properties
+stags="Trinity > Roles > Father | Interpretation > Principles > Unapproachableness of the Father | Jesus > As mediator between us and the Father | Blood of Christ > How it changed the relationship between us and the Father | Veil in Temple > Symbolic of separation from God > Torn in two after the cross"
+>}}
 <!-- p="Matthew 6:9; Matthew 6:26; Deuteronomy 30:12-13; Romans 10:6; Revelation 4:2; Hebrews 4:16; Genesis 32:30; Isaiah 6:5; John 3:13; Romans 5:1-2a; Ephesians 2:18; Ephesians 3:12; Hebrews 4:16; 1 Peter 3:18; Luke 23:45; Hebrews 1:1-2; Ephesians 4:7-11" -->
 
 If mankind were able to see God the Father in all His glory without perishing in the process, it is at least safe to say that the issue of human free-will would be seriously compromised from that point forward. Confronted with the magnitude and majesty of God, not only would it be impossible to deny His existence, but it is also likely that even against their will most men would find themselves obliged to follow Him and His will out of sheer terror (rather than from a truly free choice). Along with the principle of preserving mankind's free-will, the issue of *access* to the Father also helps to explain why the Father remains unseen to us in this present life.
@@ -141,7 +133,7 @@ Although, as discussed earlier in this study, the Father is omnipresent in His c
 "Woe is me! I am done for! For I am a man of unclean lips and I live among a people of unclean lips. For my eyes have seen the King, the Lord of hosts."
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Though we cannot go to heaven to plead our case with the Father, Christ Jesus is the one who has come down from heaven on our account (Jn.3:13). Through faith in Him and His death for us, we now have ***access*** to the Father in His name. By His blood (that is, His death on the cross on our behalf), Christ has broken down the barrier of hostility between the Father and those who believe in His Son. Jesus Christ has made peace between us, and, as a result, we now have been granted entrance into the throne room of heaven and the presence of the Father. This means that on the basis of the acceptability of Christ's sacrifice and our acceptance of Him, our prayers and petitions are heard by the Father now, and we ourselves shall enter into the heavenly holy of holies in His good time:
 
@@ -153,7 +145,7 @@ So now that we have been justified by faith, let us take hold of the peace [we h
 For through Him [Jesus Christ] we both [Jews and gentiles] have ***access*** to the Father by one Spirit.
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% ichthys-translation p="Ephesians 3:12" %}}
 Being in Him [Jesus Christ] and having confidence through our faith in Him we possess this ***access*** [to the Father] and freedom to speak [to Him].
@@ -167,25 +159,22 @@ So let us ***approach*** with confident free speech to the throne of grace [of t
 For Christ died once for us on account of our sins, the righteous for the unrighteous, that He might ***bring*** us to God.
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 The fact that through faith in the Son we now have full ***access*** to the Father (sonship, fellowship, acceptance of prayer, and eternal life with Him), shows that before the Son came and died for us, such access was at least *limited*. The Father's splitting of the temple's veil at the conclusion of our Lord's sacrifice on our behalf is a dramatic indication that through His death the barrier that had previously separated us from the Father (that is, our sins) has now been removed (Lk.23:45). Now we have access to the Father in prayer, though we still cannot enter into His presence in heaven as long as we remain in these earthly bodies. Before the cross, the Father was even more inaccessible to sinful mankind. It would be surprising, therefore, if the instances of Theophany in the Old Testament are actual appearances of the Father. It is much more likely (based upon this principle of greater access *after* the cross, less beforehand) that just as the Father made Himself known through His Son in the New Testament (Heb.1:1-2), so also in the Old Testament His appearances were mediated by this same Son, that is to say, by Christophany.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The dignity of the Father {#the-dignity-of-the-father}
 
-{{< subjects >}}
-<a href="/subject-index/#trinity-roles-father">Trinity > Roles > Father</a>
-<a href="/subject-index/#jesus-has-been-delegated-authority-from-the-father">Jesus > Has been delegated authority from the father</a>
-<a href="/subject-index/#jesus-prince-regent-of-the-world-sent-with-the-father-s-authority">Jesus > Prince regent of the world, sent with the Father's authority</a>
-<a href="/subject-index/#satan-being-replaced-by-jesus-christ-a-human-being">Satan > Being replaced by Jesus Christ, a human being</a>
-{{< /subjects >}}
+{{< properties
+stags="Trinity > Roles > Father | Jesus > Has been delegated authority from the father | Jesus > Prince regent of the world, sent with the Father's authority | Satan > Being replaced by Jesus Christ, a human being"
+>}}
 <!-- p="Job 38:7; Isaiah 14:12-15; Ezekiel 28:12-19; Luke 10:18; John 12:31; John 16:11; 1 Corinthians 15:24-25; Colossians 2:15; Revelation 11:15; Revelation 22:16; Matthew 10:40; Matthew 21:37; Luke 9:48; Luke 10:16; John 12:44; John 13:20; Matthew 21:33-46; John 1:1-3; Deuteronomy 18:18; John 8:55; John 14:10; John 14:24; Hebrews 1:1; Isaiah 42:6; Jeremiah 31:31ff.; Malachi 3:1; Matthew 26:28; 1 Corinthians 11:25; Galatians 3:19-20; 1 Timothy 2:5; Romans 5:10-11; 2 Corinthians 5:18-21; Ephesians 2:14-16; Colossians 1:20-22; Hebrews 9:11-14; Hebrews 5:5-10; Acts 2:36; Psalm 110:1; Matthew 22:44; Psalm 45:6-7; Hebrews 1:8-9; Psalm 97:7b; Hebrews 1:6" -->
 
 The fact that the angelic rebellion led by Satan precedes the creation of man (Job 38:7; Is.14:12-15; Ezek.28:12-19) explains much about the Father's modus operandi of working through the One who will ultimately replace Satan as ruler of this world, His Son Jesus Christ (Lk.10:18; Jn.12:31; 16:11; 1Cor.15:24-25; Col.2:15; Rev.11:15). As the Trinity's figure of authority and majesty, the Father chooses a representative to wage the struggle against Satan, even He who by His sacrifice will redeem sinful mankind and replace our adversary, the Morning Star replacing Lucifer (compare Is.14:12 with Rev.22:16). So it should not be surprising that throughout the Old Testament too, the Son is the One representing the Father, speaking His words whenever He appears (in Christophany), for He is the anointed One, the Messiah, the One sent into the world by the Father (Matt.10:40; 21:37; Lk.9:48; 10:16; Jn.12:44; 13:20). This principle of the Son *representing* the Father as His agent in the plan of salvation can also be seen from Christ's...
 
-<!-- --- -->
+<!-- slide-break -->
 
 1) **Message**: Christ is the Word (Jn.1:1-3). This means that He is the embodiment of the message and truth of the Father, and speaks the Father's words truly and precisely at all times (Deut.18:18; Jn.8:55; 14:10&24). Christ is the Father's ultimate message (Heb.1:1), the messenger of the Father's new covenant in His blood (Is.42:6; Jer.31:31ff.; Mal.3:1; Matt.26:28; 1Cor.11:25).
 
@@ -201,16 +190,13 @@ c) the Son's primacy from creation to eternity (Ps.97:7b with Heb.1:6).
 
 All the above examples of Christ's role of *representing* the Father in God's plan of salvation support the position that all Old Testament Theophany is truly Christophany, the Son appearing, representing, and speaking for the Father before His incarnation.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The visibility, accessibility and humility of the Son {#the-visibility-accessibility-and-humility-of-the-son}
 
-{{< subjects >}}
-<a href="/subject-index/#trinity-roles-son">Trinity > Roles > Son</a>
-<a href="/subject-index/#jesus-is-visible-to-us-unlike-the-father">Jesus > Is visible to us, unlike the Father</a>
-<a href="/subject-index/#jesus-is-accessible-to-us-unlike-the-father">Jesus > Is accessible to us, unlike the Father</a>
-<a href="/subject-index/#jesus-has-adopted-a-role-of-humility-and-service-unlike-the-father-s-role-of-authority-and-majesty">Jesus > Has adopted a role of humility and service, unlike the Father's role of authority and majesty</a>
-{{< /subjects >}}
+{{< properties
+stags="Trinity > Roles > Son | Jesus > Is visible to us, unlike the Father | Jesus > Is accessible to us, unlike the Father | Jesus > Has adopted a role of humility and service, unlike the Father's role of authority and majesty"
+>}}
 <!-- p="John 14:9; John 14:6; Colossians 1:22; Philippians 2:5-11" -->
 
 While we cannot initially see the Father, we can see the Son and the Father through the Son (Jn.14:9). While we could not initially approach the Father, through the Son we have gained access to Him (Jn.14:6). And while our sinfulness kept us separated from the perfect holiness of the Father, the work of the Son has rendered us holy and has reconciled us to the Father (Col.1:22). As the visible, accessible member of the Trinity who was willing to humble Himself and associate with us to die for us (Phil.2:5-11), Christ has always been our point of contact with the Godhead, whether in Old Testament Christophany, or after His appearance in true humanity following His incarnation.

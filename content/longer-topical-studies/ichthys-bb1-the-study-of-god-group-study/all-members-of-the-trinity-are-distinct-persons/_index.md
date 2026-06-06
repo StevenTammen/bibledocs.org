@@ -1,6 +1,9 @@
 ---
 title: All Members of the Trinity Are Distinct Persons
 weight: 70
+stags:
+    - Trinity > All members are distinct from one another
+
 layout: content-page
 video: https://www.youtube.com/watch?v=eKpw0_W78Sc
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
@@ -9,10 +12,6 @@ playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcA
 This lesson's main focus is examining the point that God is *one* in essence, but that does *not* mean that the Trinity is only one person (merely displaying three modes or aspects of Himself).
 
 <!--more-->
-
-{{< subjects >}}
-<a href="/subject-index/#trinity-all-members-are-distinct-from-one-another">Trinity > All members are distinct from one another</a>
-{{< /subjects >}}
 
 {{% section-navigation %}}
 
@@ -28,11 +27,11 @@ slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 This lesson's main focus is examining the point that God is *one* in essence, but that does *not* mean that the Trinity is only one person (merely displaying three modes or aspects of Himself).
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 
@@ -49,38 +48,38 @@ This lesson's main focus is examining the point that God is *one* in essence, bu
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Key point: God is *one* in essence, but that does *not* mean that the Trinity is only one person (merely displaying three modes or aspects of Himself) {#key-point-god-is-one-in-essence-but-that-does-not-mean-that-the-trinity-is-only-one-person-merely-displaying-three-modes-or-aspects-of-himself}
 
-{{< subjects >}}
-<a href="/subject-index/#trinity-what-it-is-not-only-one-person-with-multiple-modes-or-aspects">Trinity > What it is not > Only one person with multiple modes or aspects</a>
-{{< /subjects >}}
+{{< properties
+stags="Trinity > What it is not > Only one person with multiple modes or aspects"
+>}}
 
 God is three in person, and all three members of the Trinity (the Father and the Son and the Holy Spirit) are distinct persons rather than manifestations of a single, multifaceted person.
 
 Heresies of the past which have challenged the distinct personalities of members of the Trinity include modalism (the idea that Christ and the Spirit are mere "modes" of the Father's personality), and docetism (the notion that Christ only seemed real and was in reality merely a phantom of sorts representing the Father's plan). But the Bible teaches that all three members of the Trinity are distinct persons.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The Father is a unique person in His own right (for He is distinct from the Son) {#the-father-is-a-unique-person-in-his-own-right-for-he-is-distinct-from-the-son}
 
-{{< subjects >}}
-<a href="/subject-index/#trinity-distinctness-father">Trinity > Distinctness > Father</a>
-{{< /subjects >}}
+{{< properties
+stags="Trinity > Distinctness > Father"
+>}}
 <!-- p="Daniel 7:13" -->
 
 {{% scripture-h p="Daniel 7:13" %}}
 I was looking during my vision of that night, and behold – with the clouds of heaven one like a Son of Man was coming up, and He approached the Ancient of Days [i.e, the Father] and they brought Him before Him.
 {{% /scripture-h %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The Son is a unique person in His own right (for He is distinct from the Father) {#the-son-is-a-unique-person-in-his-own-right-for-he-is-distinct-from-the-father}
 
-{{< subjects >}}
-<a href="/subject-index/#trinity-distinctness-son">Trinity > Distinctness > Son</a>
-{{< /subjects >}}
+{{< properties
+stags="Trinity > Distinctness > Son"
+>}}
 <!-- p="Hebrews 10:7" -->
 
 {{% scripture-h p="Hebrews 10:7" %}}
@@ -89,13 +88,13 @@ Behold, I have arrived – in the scroll of Your book it is written about Me –
 
 (See Psalm 40:7-8)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The Holy Spirit is a unique person in His own right (for He acts as a distinct person) {#the-holy-spirit-is-a-unique-person-in-his-own-right-for-he-acts-as-a-distinct-person}
 
-{{< subjects >}}
-<a href="/subject-index/#trinity-distinctness-holy-spirit">Trinity > Distinctness > Holy Spirit</a>
-{{< /subjects >}}
+{{< properties
+stags="Trinity > Distinctness > Holy Spirit"
+>}}
 <!-- p="Romans 8:26" -->
 
 {{% scripture-h p="Romans 8:26" %}}

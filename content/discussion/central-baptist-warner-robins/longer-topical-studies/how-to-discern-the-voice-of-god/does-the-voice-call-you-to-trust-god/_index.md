@@ -26,7 +26,7 @@ This week's lesson starts on page 79 of the workbook, and was what we went throu
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 We humans have an unfortunate tendency to only trust in that which we can see right before our eyes. Those are things that are safe, things without as much risk and uncertainty. Maybe trusting in these things seems wise; after all, as the saying goes, "a bird in the hand is worth two in the bush." But consider... these are also paths that don't require much faith. If we can do it all on our own, what need have we for God? On the other hand, sometimes taking the road that seems to have an infinite number of unknowns -- the road blocked by thorny hedges and landmines (as it were) -- is not exercising godly faith in choosing a path that requires us to lean on God, but is instead exercising foolishness in picking a path that is obviously the wrong one. Yet... knowing the one from the other requires spiritual growth. See a pattern in these lessons? Spiritual growth -- as accomplished by consistently reading our Bibles and listening to our Bible teachers -- is basically the answer to all problems, if we would just deign to do it as we ought.
 
@@ -36,7 +36,7 @@ So voices that don't demand faith of us probably aren't from God, because it is 
 
 This week's lesson starts on page 79 of the workbook, and was what we went through on 02/05/2023.
 
-
+<!-- summary -->
 
 {{% discussion-pages %}}
 
@@ -62,7 +62,7 @@ Hebrews 11 starts off with a definition of faith: "faith is the assurance of thi
 
 ### Content {#faith-is-not-irrational-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% technical-discussion %}}
 
@@ -86,7 +86,7 @@ ptags="Hebrews 11:1"
 
 This sentence is not that complex grammatically. The core sentence is "ἔστιν πίστις ὑπόστασις... [ἔστιν πίστις] ἔλεγχος". This is a normal "{subject} {linking verb} {complement}" construction, with the only twist being that there are two complements, but without a coordinating conjunction between them (that is, there is no καί between ὑπόστασις and ἔλεγχος). The subject and linking verb are thus implicitly understood to go with both complements: "faith is assurance... [faith is] conviction."
 
-<!-- --- -->
+<!-- slide-break -->
 
 [Ichthys' translation of this verse](https://ichthys.com/6A-Peripateo.htm#Hebrews%2011:1-2) -- "It is faith [in the Living and written Word], moreover, that substantiates what we hope for. [Faith] provides proof of things unseen" -- doesn't mirror the exact grammatical structure as much, using indirect statement in the first bit (i.e., "it is faith... that").
 
@@ -94,7 +94,7 @@ Arguably, Ichthys' translation that translates with verbal phrases (that is, "fa
 
 {{% /technical-discussion %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Analysis of Hebrews 11:1 {#faith-is-not-irrational-analysis-of-hebrews-11-1}
 
@@ -112,7 +112,7 @@ For us as Christians, our confidence in things that haven't happened yet comes f
 
 We *cannot* prove that prophecy will play out how God says it will with science, or verify the promises He makes us about eternity with science. We also *cannot* prove the existence of the spiritual realm with science, as it cannot be observed or measured like the material world.
 
-<!-- --- -->
+<!-- slide-break -->
 
 This is because science (at least the epistemologically-sound variety, rather than the wild scholarly speculation that is rampant within some fields like evolutionary biology and the branch of theoretical astrophysics concerned with the creation of the universe) by its very nature only deals with the material world that can be subject to observation and experimentation. Metaphysics is simply outside its purview, or at least it ought to be.
 
@@ -120,7 +120,7 @@ All of this is a natural conversation to have when talking about Hebrews 11:1, b
 
 Why is this important? Well, because it tells us that...
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Faith is necessary, not illogical {#faith-is-not-irrational-faith-is-necessary-not-illogical}
 
@@ -138,7 +138,7 @@ The fundamentals of Christianity largely center around who Jesus was (fully God 
 - What's more, how could any human actually "prove" that Jesus paid the price for all human sin upon the cross, facing the fiery judgement of God in our place? That's definitely what the Bible teaches, but how do you prove that with science? You just can't; the very idea is nonsensical. Because the judgement happened *spiritually* when Jesus was physically hanging upon the cross.
 - And finally, in the modern day, it is simply impossible for us to test or verify observationally whether Jesus was truly resurrected from the dead. We cannot have video evidence or what have you. It's just impossible.
 
-<!-- --- -->
+<!-- slide-break -->
 
 The points being brought up here are sorely lacking in many discussions about faith and science. Christians are made to feel like they are uneducated and ignorant for having faith, that faith is somehow illogical. But science can say exactly nothing about whether Jesus paid for human sin when upon the cross, for example. Literally the only way to take a position on that proposition is through faith. Even if you wanted to do things "the science way," it is simply not a possibility.
 
@@ -146,11 +146,11 @@ The thing is, God never demands that we believe things that contravene reason an
 
 Where I am going with all this is that we cannot even "prove" (in the scientific sense, according to observation of and experimentation with the material world) that Jesus was God and that He fully paid for human sin upon the cross and that he was subsequently resurrected from the dead -- the very most fundamental points of Christianity. If we have confidence in these things, that confidence comes 100% from faith and 0% from material evidence. It is thus no surprise that everything else in Christianity largely follows suit -- the "things hoped for" (such as future promises of our eternal home) and the "things not seen" (such as the spiritual battle being waged all around us) all rest upon faith. And the vast majority of them are scientifically untestable propositions.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Further discussion {#faith-is-not-irrational-further-discussion}
 
-<!-- --- --> 
+<!-- slide-break --> 
 
 #### Define "illogical" {#faith-is-not-irrational-define-illogical}
 
@@ -164,7 +164,7 @@ Certain materialists take the epistemological position that any claims that are 
 
 The subtle thing that happens in arguments is that people sneak in their presuppositions as fact. How can you scientifically prove that God *doesn't* exist? You can't, if God is spiritual rather than material, and we humans can only measure the material. In terms of formal logic, this is purely "the absence of evidence is not evidence of absence." In like manner, you also cannot scientifically prove that Goes *does* exist. Because again, God is spiritual rather than material, and we humans can only measure the material. We can infer his existence (cf. the so-called "God of the gaps" argument), but that is not scientific proof.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Atheists base all their reasoning on the proposition that God does not exist... despite us just saying it is impossible for them to prove such scientifically! They will readily point out that we do the same thing in presupposing that God does exist. And yeah, we do. But *we* acknowledge the presupposition and call it faith. *We* don't pretend our positions are scientifically provable, but instead readily acknowledge that they are not. The difference is that their position is not one whit more scientifically provable, yet they do not similarly acknowledge the fact that their belief that God does not exist actually has no scientific basis. Even though they won't admit it, theirs too is a faith-based position, a presupposition.
 
@@ -172,11 +172,11 @@ Let me put it this way: what is illogical is asserting that scientifically untes
 
 Christians do *not* do this because, while we view our belief as true and correct, we don't base our confidence in spiritual things on scientific premises, but instead freely acknowledge that our belief rests upon presuppositions that we hold by faith. That our faith picks up where science leaves off, rather than contradicting it.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Further discussion {#faith-is-not-irrational-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Final comments {#faith-is-not-irrational-final-comments}
 
@@ -184,7 +184,7 @@ Faith is not just a hunch or something. When we believe things the Bible speaks 
 
 Even if science can't prove God created the universe from nothing, well, science can't prove that God *didn't* create the universe from nothing either, can it? People can't run experiments with a controlled randomized trial that has a great enough sample size of universes to ascertain whether there is enough evidence to reject the null hypothesis (e.g.). At best, the astrophysicists can hypothesize based upon the limited evidence available to them. Sometimes their current hypothesis might actually contradict what the Bible says. Well, what of it? The thing about most of the things that trouble materialists (e.g., *ex nihilo* creation, the ark and worldwide flood in Genesis 6, the virgin birth, etc.) is that there is no way for them to formally disprove these things. *They weren't there*. And there are many possible explanations for how things could perhaps end up looking XYZ way to us in the future, yet somehow be misleading at the same time.
 
-<!-- --- -->
+<!-- slide-break -->
 
 The point of all this is that the skepticism of others regarding the Bible's claims needn't make us feel ashamed of our faith. For we don't believe what the Bible says because of empirical scientific evidence; that is going about faith all wrong. We believe it because the Bible says it. That's all there is to it.
 
@@ -262,7 +262,7 @@ Although there is much to say concerning these people specifically, on this page
 
 ### Content {#drawing-inspiration-from-the-faith-of-others-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% sidenote %}}
 
@@ -282,19 +282,19 @@ While we don't want to fall into legalism by banning something scripture does no
 
 This is why this page will mostly be discussing people whom we can have direct relationships with in our own lives, and therefore can have less doubt about. It's hard (perhaps functionally impossible) for someone to fake serious interest in the Bible and actual spiritual growth for a long period of time, and yet not mean it. People who are not genuinely interested will be driven away, because the truth gives no quarter, and it unfailingly divides and convicts (Hebrews 4:12). Any place where the truth is *actually* being taught in a substantive way (rather than just given lip service to, as is unfortunately common in many modern churches, which barely even teach anything at all, much less anything that could be said to be offensive to and truly demanding of their attendees... since that would drive away said attendees, and therefore money and prestige) -- such places actually teaching the truth in a substantive way will be extremely uncomfortable for anyone who doesn't sincerely want the truth.
 
-<!-- --- -->
+<!-- slide-break -->
 
 All that is a long way of saying that it is relatively safer for us to admire people whose spiritual maturity we can observe ourselves. We can do such with a good bit less wariness than that we probably ought to exercise in admiring the supposed spiritual maturity of historical believers whom others have put up on pedestals... even and perhaps especially if by "others" we mean "well, many Christians in our present lukewarm day." Even though it sounds really harsh, since in current times many Christians are not truly all that zealous about the hard work of spiritual growth and production (despite what they say with their lips; their lack of care towards the truth in how they organize their lives clearly and irrefutably puts the lie to their words), how likely is it that the people they think are excellent and praiseworthy are really the ones deserving of the most honor in God's eyes?
 
 See Matthew 19:30; Mark 10:31; Luke 13:30. In my estimation, the believers in eternity who will be most highly rewarded will *not* be the ones most people would guess, but the faithful few who work out God's Will tirelessly, seeking His glory rather than attention for themselves. Compare also Matthew 6:1-2. This idea of "being careful not to perform righteous acts before men to be seen by them" is precisely why you don't hear about them, and why they don't grace the pages of history books as much as the sort that lukewarm believers idolize. Because showing up on magazine covers or the historical equivalent—gaining recognition so that people know of you and say nice things about you—matters not one whit. Only doing the Will of God matters, doing the things He actually demands of us. And God's judgement on that Great Day of Days will make that incontrovertibly clear to all.
 
-<!-- --- -->
+<!-- slide-break -->
 
 I should close by stating that not all well-known believers of the past were necessarily trying to draw attention to themselves in a Pharisaical manner. Some people who seem great really were great, it is true. The point is that it is difficult to know for certain in a great many cases, and for that reason there are many people held up glowingly as examples that ought to instead be held at arms length more than is commonly the case. Our skepticism should only be stoked all the more by the fact that the truth is usually quite unpopular (since it demands so much from us), such that people whose teaching is beloved are commonly not teaching much truth, as a rule of thumb. And we ought not forget that.
 
 {{% /sidenote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The dangers in comparison; looking to others for inspiration is not really comparison {#drawing-inspiration-from-the-faith-of-others-the-dangers-in-comparison-looking-to-others-for-inspiration-is-not-really-comparison}
 
@@ -310,21 +310,21 @@ Nonetheless, it is oftentimes very tempting to compare ourselves to others. This
 
 This practice is dangerous for several reasons. First of all, our minds are entirely self-serving, and comparing ourselves to others tends to lead to legalism very quickly. It is easy to make the sins of others seem so much worse than one's own, to redraw the lines in a way that makes one seem relatively better and others relatively worse than what is accurate to reality.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Secondly, we humans are very poor at judging anything deeper than the surface level. The issue is, what God really cares about most of the time is the heart. It is true that the actions of spiritually mature people—their "spiritual fruit"---will shine forth their faith, but it ought to take only the tiniest bit of honest reflection to realize that it is simply impossible for human beings to really know the hearts of others in the way that would be necessary for us to make completely accurate assessments about "how well they are doing spiritually."
 
-<!-- --- -->
+<!-- slide-break -->
 
 Finally, comparing the skeletons in our closets tends to put the emphasis on the past, rather than focusing on the present. We can't change the past and we can't control the future, so the only day we should care about as Christians is the present. No matter if yesterday holds a long chain of spiritual victories or an unfortunate chain of spiritual defeats, either way, what we ought to be doing today *does not actually change one bit*. Think about that for a second. Our orders from our Commanding Officer will not wait on excuses of past failure. And if we let focus on the past get in the way, then we are failing as soldiers in the present!
 
-<!-- --- -->
+<!-- slide-break -->
 
 For all these reasons, and others besides, comparing ourselves to other Christians is not something that we ought to do as general practice. The natural question to ask then is if it is possible for us to look to the example of other Christians to find inspiration in our own walk without at the same time engaging in this sort of harmful comparison? While one might be able to make a longer argument, we shall here content ourselves with simply asserting that the two things are not identical—that is, that it is entirely possible for us to draw inspiration from our brothers and sisters in Christ without at the same time necessarily slipping into comparison of the problematic variety.
 
 Given that presupposition, well, who is it exactly we are looking to for spiritual inspiration? We can certainly look to those who came long before—like the folks mentioned in Hebrews 11---but we can also actually look to those around us in our own individual circumstances. We can marvel at the work God is doing through them, appreciate the glory their faith brings to God. We can try to make similar choices in our own lives to similarly reflect God's glory, try to also act in such a way that God is not ashamed to call us His people. And we can do all of this without slipping into comparison. It mostly just requires us to firmly keep in mind that we are all of us but tools in the hands of the Master Craftsman, and all glory thus belongs to Him, not ourselves.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Examples of Christians in our own lives who we might look to for inspiration {#drawing-inspiration-from-the-faith-of-others-examples-of-christians-in-our-own-lives-who-we-might-look-to-for-inspiration}
 
@@ -340,11 +340,11 @@ If we are going about the process of spiritual growth correctly, each of us shou
 
 Put simply, if we have done well in selecting our Bible teachers, they ought to be very natural people for us to be inspired by. Since trusting their character and spiritual knowledge is something that is all but mandatory anyway for us to be able to submit to them and trust what they say, then it ought to be no surprise that lay Christians commonly end up looking up to their Bible teachers. This is completely right and proper.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Further discussion {#drawing-inspiration-from-the-faith-of-others-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Older mentor figures {#drawing-inspiration-from-the-faith-of-others-older-mentor-figures}
 
@@ -360,11 +360,11 @@ While age is no guarantee of maturity, with greater age comes greater potential.
 
 The trick then is finding the older folks who have *actually* lived lives worthy of emulation, who have made good use of their lives by putting God first and growing spiritually. Not so you can put them up on a pedestal and treat them as some sort of unattainable ideal, but so that you can learn from them—so that the body of Christ might properly build itself up in love.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Further discussion {#drawing-inspiration-from-the-faith-of-others-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The high outliers {#drawing-inspiration-from-the-faith-of-others-the-high-outliers}
 
@@ -380,17 +380,17 @@ Put simply, the hottest of the red-hot, no matter their age or relation to us, a
 
 And that really is all there is to it. Once we recognize, as we ought, that faith is honestly the only thing of importance—and exactly how hard it is to hold tightly onto faith in this world of ours—then in fact it ought to be easy for us to be inspired, even awed, by all those who run an exceptional spiritual race, regardless of everything else about them (like their age or social status or level of education and so on). These other things *simply aren't relevant* when it comes to appreciating the witness of their commitment to the Lord.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Further discussion {#drawing-inspiration-from-the-faith-of-others-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Conclusions {#drawing-inspiration-from-the-faith-of-others-conclusions}
 
 Alongside the accounts of particularly faithful historical believers we have in scripture, like those mentioned in Hebrews 11, we can also look to Christians in our personal lives for inspiration. The example of these others can serve as a witness to us that the exercising of godly faith was not only something possible for believers of old, but is also something possible for us for us here in the present.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% /toggleable-content %}}
 
@@ -467,7 +467,7 @@ On this page, we will be examining the idea that our faith leads to certain outc
 
 ### Content {#what-we-believe-will-always-become-a-reality-if-and-only-if-we-target-our-faith-properly-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Not everything we ask for is a guarantee {#what-we-believe-will-always-become-a-reality-if-and-only-if-we-target-our-faith-properly-not-everything-we-ask-for-is-a-guarantee}
 
@@ -483,7 +483,7 @@ God will always do what is best for us spiritually (compare Romans 8:28-30), eve
 
 Where I'm going with this is not so much that we ought to pray that we might suffer or not pray that we might be delivered from it, but simply that we must make a point to not get angry at God if we pray to avoid suffering yet find ourselves being tested with it nonetheless. Because God knows so much better than we ever could what is truly best for us.
 
-<!-- --- -->
+<!-- slide-break -->
 
 What we are going to talk about now is basically when certain parties take the "whatever" of John 14:13, and start plugging in things that have no business being there. And then get mad at God because "we ought to have certain faith in God's promises, and God promised He would give us whatever we asked!"
 
@@ -491,7 +491,7 @@ Many people might here roll their eyes and remark that they would never engage i
 
 So, for example, we might become angry at God if a family member is sick and we pray for their healing but they die from their illness instead. Or perhaps we pray for continued employment to provide for our family in the midst of an economic recession, and yet we lose our jobs. We prayed these things in Jesus' name, did we not? So why did they not happen? Doesn't John 14:13 say that whatever we pray in the name of Jesus He will do for us? So what gives?
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The only things we can be certain of are God's promises as related in the Bible, not our own desires or even what others might call God's promises {#what-we-believe-will-always-become-a-reality-if-and-only-if-we-target-our-faith-properly-the-only-things-we-can-be-certain-of-are-god-s-promises-as-related-in-the-bible-not-our-own-desires-or-even-what-others-might-call-god-s-promises}
 
@@ -509,7 +509,7 @@ In broad strokes, God's promises are not individual things in our lives like spe
 
 Some of the hardest situations we may have to navigate in our lives are when we cannot see the reasons for something—like the death of a loved one, like war and disease and genocide. We might pray for specific outcomes relating to some of the horrors of the world, only to find ourselves still afflicted, not spared in the way we might wish.
 
-<!-- --- -->
+<!-- slide-break -->
 
 When we are tempted to bitterness in such times, it would do us well to remember that God does *not* in fact promise us blissful lives free from suffering and pain, even though some people falsely claim so. He promises us many things, but actually many of the things that people might think would be promises of God—things that they've heard others call promises of God, things that they *want* to be promises of God—many of these things are not in fact promises of the certain variety. And that can be a hard lesson for us.
 
@@ -575,7 +575,7 @@ People have an easy time understanding why Cain was punished after he murdered h
 
 ### Content {#why-was-abel-s-sacrifice-acceptable-even-praised-but-not-cain-s-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The passage in Genesis chapter 4 {#why-was-abel-s-sacrifice-acceptable-even-praised-but-not-cain-s-the-passage-in-genesis-chapter-4}
 
@@ -601,17 +601,17 @@ Abel took care of sheep. Cain worked the ground. **3** After some time, Cain gat
 
 {{% /ot %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Because we know that God is completely Just, we know that He cannot show favoritism simply because He likes offerings of livestock better than offerings of crops (cf. Deuteronomy 10:17; Job 34:19; Romans 2:11; Acts 10:34-35; etc.). Nor do I personally believe we have ground to stand on to say that this event had much of anything to do with raising livestock being inherently more godly than farming crops. On what basis? That's nonsense.
 
 The thing that makes the interpretation of this passage somewhat difficult is that the text itself does not explain much; it does not have a clear description of why God favored Abel's sacrifice but not Cain's, at least not directly.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Further discussion {#why-was-abel-s-sacrifice-acceptable-even-praised-but-not-cain-s-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### One possibility is that the only difference between the two was heart state {#why-was-abel-s-sacrifice-acceptable-even-praised-but-not-cain-s-one-possibility-is-that-the-only-difference-between-the-two-was-heart-state}
 
@@ -629,7 +629,7 @@ Do you think that God would be unjust in having a positive attitude towards the 
 
 Mapping this onto our passage, Abel would be like the first man, and Cain like the second.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The symbolism of blood sacrifice {#why-was-abel-s-sacrifice-acceptable-even-praised-but-not-cain-s-the-symbolism-of-blood-sacrifice}
 
@@ -647,13 +647,13 @@ However, I will make one additional point. From the Protoevangelium in Genesis 3
 
 [^1]: Figurative blood not literal blood is what is important salvifically: it was Christ taking the divine judgment for our sins upon His shoulders in our place that saves us, not His physical blood. See [here](https://ichthys.com/4A-Christo.htm#4._The_Blood_of_Christ:_) for more on this frequently used metaphor in scripture.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Hebrews 11:4 emphasizes Abel's faith. Quite simply, if the matter of sacrifices in Genesis 4 had just been something along the lines of "giving the first fruits of one's labor to the Lord," then there is little logical basis for why Abel's sacrifice would be marked out as a sign of special faith. It would be the right thing to do, sure, but would that alone make him "Hebrews-11-worthy" (so to speak), alongside the other heroes of the faith?
 
 Both the Genesis passage itself and reference to Abel's faith in Hebrews 11:4 make a great deal more sense if this sacrificing business was really all about acknowledging the fact that it is impossible for us to work our way into God's favor—if Abel's blood sacrifice here was acknowledgment on His part of God's Grace and Mercy. Abel was willing to submit himself to God, looking by faith towards God's eventual sacrifice for sin once for all, while Cain only focused on bragging to God about what he had done himself on his own effort.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Personally, this is how I take the passage in Genesis 4, although I do acknowledge it is somewhat of an inference. This is also the position that Ichthys takes:
 
@@ -661,7 +661,7 @@ Personally, this is how I take the passage in Genesis 4, although I do acknowled
 
 "Works" are things "we do for God". That whole mentality is sinful because God doesn't need anything from us (contrary to what pagan religion assumes: Acts 17:25). God doesn't need us – we need God. This principle is seen clearly in the example of Cain and Abel. Cain offered God some vegetables: "Look at what I did! And now I'm giving you some!" This whole attitude is abhorrent to the Lord because 1) He needs nothing from us so to assume He'll reward us for doing something He neither needs nor wants nor asked for is arrogant in the extreme; 2) To think that we can actually "reward God" so that He then "owes us something" (cf. Rom.4:4) is downright blasphemous; and 3) anything we could ever "do" in this life is only possible because God has given us the means to do it (cf. Deut.8:18; 1Chron.29:16).
 
-<!-- --- -->
+<!-- slide-break -->
 
 Faith, on the other hand, is the opposite of work. Faith is being willing to receive a gift. Faith is the completely non-meritorious function of our will. Faith is free-will exercised without effort or sweat. Faith is accepting God's authority, and, in the case of salvation, accepting God's free gift. The difference is profound. If we exert effort for salvation, we are earning it (if it could be earned, which it cannot); we deserve it – in that hypothetical, impossible case. But in fact there is nothing we could do in a thousand lifetimes if we devoted all of our waking efforts to the problem to remove the guilt of the smallest sin we have ever committed. Salvation cannot be earned. It cannot be worked for (efficaciously, at any rate). And trying to work for salvation is the most egregious insult to God the Father who judged all of our sins in His beloved Son so that we might not have to face such an impossible situation, and to God the Son who has born the guilt of all of our sins so that we might be saved in the only way it was possible to be saved: through non-meritorious faith, accepting Him as our Substitute. Abel understood and accepted what Cain would not have. His "offering" was a *symbolic representation* of what Christ would do – die for all sin to open the way for mankind's salvation. Abel's offering was not "work"; Abel's offering was "worship". When Christians "do" anything in a spiritual vein it is "good" because God has planned it and empowered it. Legitimate Christian "good works" follow salvation rather than preceding it and are done in the power of the Holy Spirit not in the power of the sinful flesh.
 
@@ -671,7 +671,7 @@ For it is by grace you have been saved, through faith—and this not from yourse
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Further discussion {#why-was-abel-s-sacrifice-acceptable-even-praised-but-not-cain-s-further-discussion}
 

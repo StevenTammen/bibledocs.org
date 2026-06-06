@@ -22,11 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 According to this passage (as well as others like Matthew 7:1-5; Luke 6:37-42), we are to avoid self-righteous hypocritical condemnation of others. However, this does not mean that we are not to evaluate the behavior of others against the standards of the Bible in an impartial fashion—in order to exercise proper spiritual discernment, like we are called to do as believers (cf. Matthew 10:16). In fact, failing to apply ourselves in such a fashion out of fear of offending others is shirking our duty as salt and light in the world. The truth is the truth, and we have nothing to be ashamed of in simply sticking with it, wherever it leads.
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -34,7 +34,7 @@ According to this passage (as well as others like Matthew 7:1-5; Luke 6:37-42), 
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The basic idea {#the-basic-idea}
 

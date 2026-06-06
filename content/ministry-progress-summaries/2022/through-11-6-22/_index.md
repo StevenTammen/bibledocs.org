@@ -22,11 +22,11 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/throug
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 This cycle I worked some on organizing content pages/videos and discussion pages/videos for the first three lessons in the SR4 series. I also spent some time doing more things to improve my workflow in various ways, all with that hope that these things will set me up for success in the long term.
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 
@@ -43,7 +43,7 @@ This cycle I worked some on organizing content pages/videos and discussion pages
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Optimize my desk/cubicle environment at work for getting ministry things done over my lunch hour {#optimize-my-desk-cubicle-environment-at-work-for-getting-ministry-things-done-over-my-lunch-hour}
 
@@ -54,14 +54,14 @@ This cycle I worked some on organizing content pages/videos and discussion pages
 - Worked over my full lunch break a couple days, and am happy with the improvements in productivity from all of this.
 - Soon, I will also start paying for an unlimited phone data plan so that I can have internet at work too (I am not allowed to connect my personal computer to the secure work network, which makes sense). This will further boost productivity, obviously, since not being able to do this (for fear of running out of the finite data on my current plan) has thus far prevented me from using my phone hotspot to have internet access when I work over lunch... which is a pretty serious disadvantage. I'll upgrade to unlimited data when I replace my ~5 year old phone in several week's time.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Set up audio normalization {#set-up-audio-normalization}
 
 - Set up and started using audio normalization to the EBU R128 standard. Ensures that all my videos will end up at the same final volume, basically.
 - I am doing this mostly to ensure that none of the videos are too quiet. Since YouTube won't ever "boost" the volume of the videos you upload, although it might automatically turn down the volume during its processing step if it perceives your videos are far too loud. Apparently.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Ordered additional things to hopefully help improve video recording quality even more moving forward {#ordered-additional-things-to-hopefully-help-improve-video-recording-quality-even-more-moving-forward}
 
@@ -70,7 +70,7 @@ This cycle I worked some on organizing content pages/videos and discussion pages
 - So I decided to buy a dedicated webcam to keep hooked up to my computer all the time. That way I won't have to deal with the hassle of setting something up every time I want to record (or at least every time I am switching from having the GoPro in "mobile mode"), and since webcams are kind of designed for inside light conditions and advertised as handling low-light well out-of-the-box due to fancy software correction or whatever, I'm hopeful the video quality will be a lot better.
 - I also got a teleprompter, which I can start using with transcripts I draft for content, a ring light to get better inside lighting when recording, and another piece of acrylic to use as the base for my standing assembly (I need a second level to put the teleprompter and webcam on (at eye level), as the lower level will have my keyboard and trackball)
 
-<!-- --- -->
+<!-- slide-break -->
 
 Here's the basic list of purchases:
 
@@ -83,14 +83,14 @@ I will report back once I have it all set up (right now I just have the webcam a
 
 You can judge the quality improvements for yourself, given that this video right now is being recorded with the new webcam and ring light. I think it looks a lot better, and am happy with the investments.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Made some progress organizing things for the first 3 lessons in the SR4 series {#made-some-progress-organizing-things-for-the-first-3-lessons-in-the-sr4-series}
 
 - My attention has been split a good bit this cycle (there was a termite inspection I had to set up and deal with, for example) so I have not made as much progress as I would have wanted, but I did subject-tag three discussion pages and a content page in the SR4 series -- finishing most of the legwork for organizing the first three lessons in the series.
 - Because I haven't completely finalized everything yet for these lessons, nothing has gone live on the site. (And so too with the documentation for discussion pages).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Upcoming work {#upcoming-work}
 

@@ -25,17 +25,17 @@ At the time the gospel spread throughout the Mediterranean in the first century 
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 At the time the gospel spread throughout the Mediterranean in the first century AD, it mostly traveled through parts of the world under Roman control. For this reason, it is beneficial to examine Roman society and culture to help us get a better understanding of this world of the Early Church. Roman society influenced both Jewish and Christian communities and religious expression, and while the New Testament may have ended up written in Greek not Latin, the influence of Roman society and culture can nonetheless be felt all throughout, once you know to look for it.
 
-
+<!-- summary -->
 
 {{% content %}}
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Video intro: the Roman world {#video-intro-the-roman-world}
 
@@ -66,7 +66,7 @@ End:
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points and follow-on topics {#summary-points-and-follow-on-topics}
 
@@ -81,25 +81,25 @@ Summary points:
 - And that brings us to the main point: what exactly *was* Ancient Rome?
   - What was it like? What was the Roman Empire? What did it mean to be Roman?
 
-<!-- --- -->
+<!-- slide-break -->
 
 Follow-on topics:
 
 - When we examine art, particularly that of a fundamentally religious nature, I am always a bit squeamish from a theological perspective. Art may be beautiful and well-done from a technical point of view, but what about the *theology*?! (When's the last time you heard that in an art history lecture: "Now sirs, you see our boy Michelangelo had some fundamental misapprehensions about the Creation of Adam...").
   - I'm only half kidding here.
   - For example, consider that in *The Creation of Adam*, Michelangelo has God pointing at Adam (as if that was what created him), but we have from scripture that God "breathed into" Adam (Genesis 2:7), and that is when Adam became alive. The "breath of life" (Hebrew: רוּחַ, *ruach*; Greek: πνεῦμα, *pneuma*) is an important theological concept, and its omission is in no way forgivable here. One might argue that it is difficult to depict artistically (unlike pointing), but that is exactly *why* these sorts of artistic representations are dangerous. What does "easy to represent artistically" have to do with "good Bible teaching"? The answer should be "nothing whatsoever". In practice, people seem a bit blind to the risks here.
-  - As another glaring example, consider that the movie [The Passion of the Christ](https://en.wikipedia.org/wiki/The_Passion_of_the_Christ) spends a great deal of its runtime attempting to demonstrate Jesus' brutal physical suffering during the Passion. However, it fails, in my opinion, to adequately point out that the physical suffering *is a metaphor* for the spiritual suffering of Christ for our sins, and that is what truly matters. Far be it from me to minimize the physical suffering Jesus experienced, but the point is that if you put the emphasis there (as opposed to the spiritual suffering for our sins), the theology is all wrong, when it comes to atonement theories and the like.<!-- --- -->
+  - As another glaring example, consider that the movie [The Passion of the Christ](https://en.wikipedia.org/wiki/The_Passion_of_the_Christ) spends a great deal of its runtime attempting to demonstrate Jesus' brutal physical suffering during the Passion. However, it fails, in my opinion, to adequately point out that the physical suffering *is a metaphor* for the spiritual suffering of Christ for our sins, and that is what truly matters. Far be it from me to minimize the physical suffering Jesus experienced, but the point is that if you put the emphasis there (as opposed to the spiritual suffering for our sins), the theology is all wrong, when it comes to atonement theories and the like.<!-- slide-break -->
 - Anyway, back on topic: what art may lack in theology, it certainly does not lack in utility to us as historians. Art is of enormous importance in helping us understand what people throughout history thought—what they valued or strove for, their ideals and goals, and how they saw themselves.
   - And few connections in art history are as strong as the borrowing the Italian Renaissance made of Ancient Roman culture.
   - (Sidenote: A few centuries later, the Fascists did the same thing under Mussolini, but that's a discussion for a different time...)
   - If there is one thing you should get from all this, it should be that the impact of Roman culture on Western Society should not be underestimated in the least. The importance for us as Christians is even more pronounced, since there is plenty in the Bible that requires an understanding of Roman culture to interpret properly.
 - If you are interested in these matters (i.e., the relationship between the ancient and not-so-ancient with respect to the history of Rome under the Roman Republic and eventually Empire, and then Renaissance and Fascist re-interpretations), the [notes I took from my study abroad trip to Rome in college](https://www.steventammen.com/blog/) are chock-full of this sort of thing, since our main lecturing professor was an art historian. It's fascinating stuff.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Rome and conquest {#rome-and-conquest}
 
@@ -131,7 +131,7 @@ End:
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points and follow-on topics {#summary-points-and-follow-on-topics}
 
@@ -147,18 +147,18 @@ Summary points:
   - But that only works close to the core. Out on the margins of the Empire, Rome always had to worry about uprisings.
 - Conquered Judea was out on the borders.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Follow-on topics:
 
 - Rome's fear of kings and uprisings on the borders is plenty present in scripture. Consider how the Pharisees and Sadducees attempted to tar and feather Jesus with the title of "King" to bring down Rome's wrath upon him. Does it now perhaps make more sense why that strategy was so immediately effective, and sort of tied Pilate's hands even though he knew Jesus was innocent?
   - If he had even the appearance of loss of control at the borders, his superiors would be merciless. This is how the Empire functioned.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The formation of the Empire {#the-formation-of-the-empire}
 
@@ -189,7 +189,7 @@ End:
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points and follow-on topics {#summary-points-and-follow-on-topics}
 
@@ -200,14 +200,14 @@ Summary points:
 - Republic:
   - No single ruler: no tyrants or dictators
   - Senate is the voice of the people.
-    - Dr. Reeves's video doesn't mention it (presumably due to space considerations), but there was also a complicated system of governance in the Republic consisting of both Consuls and Tribunes of Plebs. There were checks and balances.<!-- --- -->
+    - Dr. Reeves's video doesn't mention it (presumably due to space considerations), but there was also a complicated system of governance in the Republic consisting of both Consuls and Tribunes of Plebs. There were checks and balances.<!-- slide-break -->
 - All this changes with Julius Caesar
   - Very successful Roman general
   - Had rivals, eventually escalating into civil war
   - Caesar crosses the Rubicon (a taboo for generals with standing armies) into the heart of the Roman Peninsula, to come after a political opponent.
   - Eventually, he wins. Senate grants him title of *imperator*. At first, was a word for a victorious military commander more than an emperor proper. Caesar attempts to mask what he is doing, even though by all accounts, he as a single individual does holds the reins of power.
 - Caesar assassinated 15 March 44 BC - "The Ides of March".
-  - Caesar was popular. He was a dictator, but he had the will of the people.<!-- --- -->
+  - Caesar was popular. He was a dictator, but he had the will of the people.<!-- slide-break -->
 - Caesar's heir: Octavian. Only takes title "Augustus" (loosely meaning "Great One" or "The August Person") later. Only 18 when he is named heir.
 - He has complicated relationship to Mark Antony, who had sort of been Julius Caesar's right hand man.
 - In battle of Actium (31 BC), Octavian defeats Mark Antony in a great sea battle, and becomes the sole ruler of Rome.
@@ -215,7 +215,7 @@ Summary points:
   - Does not press authority like Caesar
   - The Principate (*princeps*): Octavian presents himself as "first among equals", which was more palatable to the egos of the Roman Senators.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Follow-on topics:
 
@@ -225,11 +225,11 @@ Follow-on topics:
   - Typology in biblical interpretation: some people/events/events/etc. prefigure or foreshadow other people/events/etc. and thereby "represent" them, even though they are not them. Very, very common in biblical prophecy, and is a fundamental bedrock of proper interpretation in theology.
 - Compare also the Greeks' distaste for kings, like we talked about last week. This is one place where the ideals of the Romans come to diverge from the Greeks.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The Roman golden age {#the-roman-golden-age}
 
@@ -260,7 +260,7 @@ End:
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points and follow-on topics {#summary-points-and-follow-on-topics}
 
@@ -272,7 +272,7 @@ Summary points:
   - Lack of clear succession
 - For systems of rule founded upon might and military success, there is always a threat of civil war, and the possibility for another powerful man to be like "well if he's Emperor and obtained that position through military victory, why can't I go and do likewise?"
 
-<!-- --- -->
+<!-- slide-break -->
 
 Follow-on topics:
 
@@ -281,11 +281,11 @@ Follow-on topics:
   - But is this really a line you want to be associated with? A proper understanding of scripture would suggest not!
   - Of course, Julius Caesar and Augustus are not so obviously problematic as Caligula and Nero, but you get the idea.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The Roman army (at a high level, at the time of the Empire) {#the-roman-army-at-a-high-level-at-the-time-of-the-empire}
 
@@ -316,7 +316,7 @@ End:
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points and follow-on topics {#summary-points-and-follow-on-topics}
 
@@ -334,7 +334,7 @@ Summary points:
 - Despite what you might think from the above, people generally *wanted* to be part of the Roman army.
   - Not only for glory, but was a path for non-citizens to gain Roman citizenship, if you got honorably discharged.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Follow-on topics:
 
@@ -343,11 +343,11 @@ Follow-on topics:
   - If you've ever wondered why Jesus expressed such amazement at this man's faith, it is because this statement is showing that the centurion properly recognizes that Jesus has the authority to, from a distance, command that his servant would be healed, and that it would happen. He recognizes Jesus's inherent right to command Creation.
 - Where would his understanding of authority come from? From the organization of the Roman army!
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Roman culture {#roman-culture}
 
@@ -377,7 +377,7 @@ End:
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points and follow-on topics {#summary-points-and-follow-on-topics}
 
@@ -391,7 +391,7 @@ Summary points:
   - Self-control: austere, not enslaved to their baser desires.
   - Virtuous: oaths, vows to be taken seriously. To do everything aboveboard, with honor.
     - Honesty
-  - Conservative: *mos maiorum* - "the custom of our ancestors". Living in accordance with inherited values was an important part of Romans' self-definition.<!-- --- -->
+  - Conservative: *mos maiorum* - "the custom of our ancestors". Living in accordance with inherited values was an important part of Romans' self-definition.<!-- slide-break -->
 - Augustine, *City of God*: points out that Romans very often failed to live up to these supposed values. Cf. the slave trade active during the time of the Empire.
   - By 50 BC, have what is estimated to be more than 6 million slaves. As much as 1/3 of the Roman populace is part of the slave establishment.
   - Roman desire for slave labor is part of what fueled their expansion. Conquered people become slaves.
@@ -403,7 +403,7 @@ Summary points:
   - Flat hierarchy, equality. (Well, until the power centralization of the Catholic Church...)
   - Virtue is not personal excellence on one's ow strength and power, but admitting one's insufficiency, and leaning on Christ.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Follow-on topics
 
@@ -412,7 +412,7 @@ Follow-on topics
   - Equality for women; no distinctions to divide us (like Roman citizenship!), but unity in Christ.
   - Not personal achievements that determine virtue, but trusting in God's strength through the redemptive power of the cross.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 

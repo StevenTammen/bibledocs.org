@@ -22,11 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 1 Thessalonians 4:13-18 speaks of the resurrection of the dead at the second coming of Christ, and also the "catching up" of those believers still alive at the time, which is commonly called "the rapture". All this happens when Christ returns right before Armageddon (as described in Revelation 19:11ff.), *not* before the Tribulation. Believing in the false doctrine of the pre-tribulation rapture inherently makes one spiritually complacent, so getting this right is important.
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -34,7 +34,7 @@ slides="https://bibledocs.org/slides/"
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### On the concept of "the rapture" {#on-the-concept-of-the-rapture}
 

@@ -22,11 +22,11 @@ slides="https://www.steventammen.com/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 In the first lesson, we argued that the Bible clearly teaches that we need to honor and obey our parents, and in the second lesson we said "well, but except when obviously not." Now we get to the much thornier and more complex case of when things don't so easily line up one way or the other. It is tempting to say you should always listen to your parents because scripture is pretty black-and-white on the matter... but because parents are only human too, such a rule devoid of all context and nuance would occasionally lead you astray. How? Well, what if your parents push you towards a career of high prestige while God is in fact calling you to a career of humble ministry? What if your parents want you to marry someone from a rich and powerful family, while you want to marry someone who is spiritually mature? What if you've found a close spiritual friend who is presently red-hot for Christ, but they have some rather-public skeletons hanging out in their closet, things that your parents object to in a legalistic fashion? What if your parents try to force their bad theology down your throat rather than supporting your true zeal for the Lord? All of these things may sound pretty easy to discern ("well, of course if your parents push you towards that you are justified in saying no!"), but that was intentionally to show how there are plenty more exceptions than might immediately meet the eye. And of course, in practice, things will usually tend to be much messier and murkier. Only by trusting God can we truly figure out when we need to obey and when we need to respectfully disagree. It's complicated.
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps}
  -->
@@ -36,13 +36,13 @@ In the first lesson, we argued that the Bible clearly teaches that we need to ho
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Back to the main thrust of the question {#back-to-the-main-thrust-of-the-question}
 
-{{< subjects >}}
-<a href="/subject-index/#application-gray-areas">Application > Gray areas</a>
-{{< /subjects >}}
+{{< properties
+stags="Application > Gray areas"
+>}}
 
 So what of situations when our parents aren't really being abusive *per se*, but are also being a bit unreasonable (at least as it seems to us)? For example, what if our parents think it is their right to determine our career path, marriage partner, and even what we spend our independently-earned money on?
 
@@ -50,16 +50,15 @@ In general, such matters fall between the explicit scriptural directives to obey
 
 Note, however, that scripture is strong enough in its exhortations to obey our parents that always obeying our parents should be our default mindset. There's no two ways about it.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% application %}}
 
 ### Cultural context is important {#cultural-context-is-important}
 
-{{< subjects >}}
-<a href="/subject-index/#application-culture-can-be-important">Application > Culture can be important</a>
-<a href="/subject-index/#culture-may-be-relevant-in-application">Culture > May be relevant in application</a>
-{{< /subjects >}}
+{{< properties
+stags="Application > Culture can be important | Culture > May be relevant in application"
+>}}
 
 There are collectivist cultures in the world wherein it is normal for the leader of a family/clan (typically an older man) to decide the affairs of everyone in the group (children being just part of the collective).
 
@@ -69,13 +68,13 @@ Now, I'm *not* saying that it is impossible that some of these situations are pr
 
 On the other hand, if, for example, my American parents suddenly decided that they ought to get to pick out who my wife will be without my say, this action, *here in America*, would be considered strange. As a matter of application, even if they positively commanded me to marry someone, it would not be at all unreasonable for me to question things rather than meekly submitting to such a directive.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### It is only our own personal circumstances that matter {#it-is-only-our-own-personal-circumstances-that-matter}
 
 To generalize this a bit further: the fact that you can think up hypothetical outrageous situations regarding unjust parents (or even actual ones halfway across the world) does not mean *you* have grounds for ignoring *your* parents.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Things are different if you are still living at home {#things-are-different-if-you-are-still-living-at-home}
 
@@ -85,7 +84,7 @@ Once you are your own person more, your parents have less justified say in what 
 
 We never outgrow the obligation to respect our parents and act deferentially towards them.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Our duty to God can help shed light on some of the possible areas of contention {#our-duty-to-god-can-help-shed-light-on-some-of-the-possible-areas-of-contention}
 
@@ -100,13 +99,13 @@ Sometimes we can gain insight into the proper path of action by considering the 
 
 As a rule of thumb, if put on the scale, God's Will for us outweighs parental preference every time. However, you actually have to have some conviction on what it is God wants for you for this to hold (and you can't just use it as a convenient excuse -- "God wants me party and live it up in college, so I don't have to listen to you and study!").
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Career {#career}
 
-{{< subjects >}}
-<a href="/subject-index/#parents-disagreement-with-career">Parents > Disagreement with > Career</a>
-{{< /subjects >}}
+{{< properties
+stags="Parents > Disagreement with > Career"
+>}}
 
 Parents generally want their kids to live a better life -- becoming doctors, lawyers, accountants, engineers, and so forth rather than blue-collar day-laborers like themselves (e.g.). One less-meddlesome approach parents can take is to just highly encourage education and self-discipline and leave their kids to work out the specifics.
 
@@ -114,13 +113,13 @@ Problems can arise when kids aren't interested in the things their parents think
 
 Well, what does God want you to do? If the answer is "history professor," then humbly and respectfully disagreeing with your parents' choice for you is not inappropriate. But if the answer is in fact "doctor," and you spit in your parents' faces despite their reasonable guidance, who do you think is going to be on the hook for that?
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Choice of significant other {#choice-of-significant-other}
 
-{{< subjects >}}
-<a href="/subject-index/#parents-disagreement-with-significant-other">Parents > Disagreement with > Significant other</a>
-{{< /subjects >}}
+{{< properties
+stags="Parents > Disagreement with > Significant other"
+>}}
 
 As with career, parents generally want the best for their kids. The issues typically arise when your parents don't think someone you like is good for you.
 
@@ -130,7 +129,7 @@ Marriage is an incredibly important decision for us as Christians, largely becau
 
 Since parents are, as a general rule, wiser and more experienced than their children, it usually behooves children to listen closely to their parents' observations on the character of others rather than blowing them off. They can help you avoid common traps that might ultimately lead to pain and heartbreak for you (such as Mr. Charming Swindler, Ms. Self-absorbed Beauty, and Mr. Bad Boy Leather Jacket -- as generalizations).
 
-<!-- --- -->
+<!-- slide-break -->
 
 On the other hand, due to the long-term consequences of marriage (as above), this is a decision for which you really do not want to completely outsource your free will.
 
@@ -140,13 +139,13 @@ If you, on the other hand, are prioritizing the spiritual maturity of your partn
 
 Usually things won't be so clear-cut. The main idea is to take your parents' opinions into consideration rather than treating them dismissively, while at the same time ensuring that doing such does not cause you to lose sight of God's guiding hand in this critical life decision.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Choice of friends {#choice-of-friends}
 
-{{< subjects >}}
-<a href="/subject-index/#parents-disagreement-with-friends">Parents > Disagreement with > Friends</a>
-{{< /subjects >}}
+{{< properties
+stags="Parents > Disagreement with > Friends"
+>}}
 
 Since friendships are much less set-in-stone than marriages, the stakes here are lower; however, many of the same considerations apply. Parents are naturally going to want to steer their children away from negative influences.
 
@@ -156,13 +155,13 @@ There is, however, the issue of legalism. If you take a look at Jesus' circle of
 
 As you might have been able to guess, there is a middle road to be walked here as well. If your parents forbid you from associating with someone who is not going to be dragging you down spiritually -- even if this person made poor choices in the past -- then should you listen to them? Well, what does God want you to do? Are you actually called to be a good influence in that person's life?
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Spiritual approach {#spiritual-approach}
 
-{{< subjects >}}
-<a href="/subject-index/#parents-disagreement-with-spiritual-approach">Parents > Disagreement with > Spiritual approach</a>
-{{< /subjects >}}
+{{< properties
+stags="Parents > Disagreement with > Spiritual approach"
+>}}
 
 Aside from the avoiding negative influence bit, there is with friends also the potential area of parental disagreement regarding how much spiritual dedication is expected among those we associate with, and of exactly what sort (i.e., do friends have to belong to the specific religious group or subgroup as your parents to gain their approval?).
 
@@ -170,7 +169,7 @@ This consideration is a subset of our spiritual approach in general. While many 
 
 This is most apparent when parents are unbelievers and a child is a believer, or parents are believers and a child professes unbelief. However, even in the case that all parties are (self-professed) Christians, tensions in this area can run just as high as they run in conflicts over career path, if not more so.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Any time there is a wide gap in beliefs -- Catholic vs. Mormon, traditional mainline Protestant vs. Charismatic, Mega Church vs. Independent Evangelical, anything vs. Cult -- there are bound to be times when parents push for a certain course of action that their child will oppose on spiritual grounds.
 
@@ -178,7 +177,7 @@ Conflicts in this regard really boil almost entirely down to the individuals in 
 
 I know of some people who have "been Christians" their whole lives with little to show for it, and others who already had a full evangelism ministry of their own just several years after being saved, dedicating almost all their time to the Lord. For this reason, there is little basis for giving parents' spiritual approaches higher weight simply on account of their age.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Recap and summary {#recap-and-summary}
 

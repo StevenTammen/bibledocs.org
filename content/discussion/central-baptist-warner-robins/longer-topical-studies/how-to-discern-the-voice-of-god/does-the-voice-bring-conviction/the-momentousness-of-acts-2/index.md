@@ -27,7 +27,7 @@ Hopefully all this (which our lesson in the Workbook covered -- more or less) is
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 This week, our Workbook examined the idea of conviction through the lens of Acts 2:32-41. This is the end of Peter's address to the crowd at Pentecost.
 
@@ -35,13 +35,13 @@ These verses present an example of how conviction works in practice. First, the 
 
 Hopefully all this (which our lesson in the Workbook covered -- more or less) is clear enough. But this page, instead of focusing upon these main points, will instead briefly examine a couple contextual points that may throw into relief the true importance of this day in Church history, and the poignance of thousands of Jews all at once becoming aware of their past blindness, and collectively being pierced to the heart. It's powerful stuff.
 
-
+<!-- summary -->
 
 {{% content %}}
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Acts 2 is really when the Church takes off numbers-wise. It represents a massive change in scale {#acts-2-is-really-when-the-church-takes-off-numbers-wise-it-represents-a-massive-change-in-scale}
 
@@ -56,13 +56,13 @@ Acts 1:15 states quite clearly that the number of believers at that time numbere
 
 So those who spoke in tongues in the first part of Acts 2 were the people making up this small group of initial believers, the very first people in the New Testament Church. It is somewhat startling when you consider how many people congregated around Jesus when He did miracles and taught the crowds. Thousands were touched by his ministry, yet just a few dozen are gathered soon after His resurrection and ascension. We do not know exactly how many of those Jesus had sent out before (e.g., Luke 10:1ff.) were part of this group, so it is possible there were more godly people who were not present in Jerusalem at this time, for whatever reason. One might also consider some of those from the Samaritan village who had believed (John 4:39-42), for example, among other individuals or groups mentioned throughout the gospels (like the centurions of Matthew 8:5-13 and Mark 15:37-39, who perhaps were not able to leave their posts to be together with the other believers). We needn't get overly fixated on the precise number; the point is that the overall number of people starts out startlingly small.
 
-<!-- --- -->
+<!-- slide-break -->
 
 This is an important point to make given that after Peter's Spirit-filled speech at Pentecost, Acts 2:41 says that "about three thousand" (ὡσεὶ τρισχίλιαι) were added to their number. *Three thousand*. Whether the multiplier was actually a full 30-fold, or was perhaps a bit less than that overall, the point is that the change here is drastic, and would lead to fundamental and sweeping changes in the structure and organization of the Church.
 
 We should thus bear in mind whenever we talk of the conversion of these folks at Pentecost exactly how massive a thing this day was. For while there were believers before Pentecost, Pentecost marks the coming of Holy Spirit and beginning the Church Age as a distinct phase of human history.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Many of these new converts were the very same people who may have clamored for Jesus' crucifixion {#many-of-these-new-converts-were-the-very-same-people-who-may-have-clamored-for-jesus-crucifixion}
 
@@ -82,7 +82,7 @@ In some ways, this collective realization on the part of the Jews prefigures the
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Of course, we Gentiles are now part of the Church as well. But in these cases -- both past and future -- there is something decidedly *right* about God's chosen people turning to Him *en masse*, a dramatic show of collective repentance. In much the same way as the prodigal son returning home, the things out of place will be set to rights. Israel, after millennia of hardness, will have finally come home, joining us at the feet of the Father. Then we shall all truly be one in Christ, forever. 
 
@@ -90,7 +90,7 @@ At any rate, the upshot for our passage here in Acts 2 is that this event hits h
 
 So, again, we need to view this account of mass conversion at Pentecost as something a great deal more important than a bunch of random people being converted. For it marks the repentance of many Jews, who would go on to become the backbone of the very early Church as it expanded outwards from Judea to encompass the Roman Mediterranean. Those who had set themselves against God's Son came to realize the truth, and decided to be born again, throwing themselves upon the Mercy of the very one they had betrayed. It ought to give us chills, even today.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 

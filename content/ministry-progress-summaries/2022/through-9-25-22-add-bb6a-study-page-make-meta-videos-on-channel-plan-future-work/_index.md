@@ -24,13 +24,13 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/throug
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Well, it's now been a full month since initial launch. I might wish I had gotten more done thus far, but slow and steady wins the race. I'm still sort of in the set up phase -- in more ways than one. This cycle, I did all the things for the first video of the focused BB6A playlist on the channel, so that I could set up the BB6A study page on the website. I also made 7 meta-related videos for the YouTube channel. 4 of those videos dealt with explaining playlist structure for existing conternt playlists, 2 were content introductions for both BB6A playlists (the more focused version, and the full version), and the last video was a new banner video for the channel that condensed all of the content from the initial intro video I had made... the one that ended up around ~45 minutes long. That was too long for the general banner video (in my opinion), hence the new shorter version too.
 
 The desktop computer I'd ordered also came this cycle, so I spent a good bit of time setting it up. This entire ministry progress summary was produced on the new computer. It is many times more powerful than the old tablet it is replacing.
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 
@@ -53,13 +53,13 @@ The desktop computer I'd ordered also came this cycle, so I spent a good bit of 
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Added transcripts {#added-transcripts}
 
 I added transcripts to the webpages for several of the recent videos I'd worked on organizing.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Considered upcoming future work, somewhat gloomily {#considered-upcoming-future-work-somewhat-gloomily}
 
@@ -69,7 +69,7 @@ I added transcripts to the webpages for several of the recent videos I'd worked 
   - Then there's a lot of set up I still need to do to be able to do all the video-related things I'd like to in the future. Using a teleprompter with full scripts for every video (made with voice recognition to make it sustainable time-wise), a whiteboard in the background (or drawing on-screen with my tablet?), etc.
 - I had a walk with my roommate to vent a bit, and also to talk through my plans and goals. I'm launched now, to be sure, but there's still so much to be done before I'll feel like I'm truly where I want to be, and that's a bit discouraging. Talking through it with someone who truly understands helps a lot.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### But then came up with a detailed plan of attack {#but-then-came-up-with-a-detailed-plan-of-attack}
 
@@ -83,7 +83,7 @@ Basically, I just don't want to let the perfect get in the way of the good, and 
 
 Now, as to the actual phases:
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Phase I: Polishing the basic content related to initial launch {#phase-i-polishing-the-basic-content-related-to-initial-launch}
 
@@ -98,7 +98,7 @@ The things that can be accomplished after Phase I is completed:
 
 I actually finished all the Phase I tasks this cycle. We'll go over them shortly.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Phase II: Supporting discussion pages/videos fully, organizing all the already-existing SR4 content {#phase-ii-supporting-discussion-pages-videos-fully-organizing-all-the-already-existing-sr4-content}
 
@@ -116,7 +116,7 @@ The things that can be accomplished after Phase II is completed:
 
 I'm really looking forward to having a social life again (I've been pretty head-down with nose-to-the-grindstone since I graduated from college several years ago -- in order to get the ministry website/YouTube channel launched), so I'd like to get through Phase II ASAP, so I can start getting involved once more in local church groups. I'm also looking forward to the opportunity to serve in these communities too, as I am able.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Phase III: Organizing all the already-existing BB6A content, setting up the fully-optimized video creation workflow, and catching up in other areas so that I can more fully focus on ministry without feeling like I'm behind elsewhere {#phase-iii-organizing-all-the-already-existing-bb6a-content-setting-up-the-fully-optimized-video-creation-workflow-and-catching-up-in-other-areas-so-that-i-can-more-fully-focus-on-ministry-without-feeling-like-i-m-behind-elsewhere}
 
@@ -132,13 +132,13 @@ The things that can be accomplished after Phase III is completed:
 
 Phase III is the last phase. After Phase III I'll be done with everything on my list, and making all new video content with the workflow I've thought out and wish to use in the long-term. Things will then mostly just be a matter of which content I make first.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Finished all the Phase I tasks this cycle {#finished-all-the-phase-i-tasks-this-cycle}
 
 Both main categories of tasks.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Did all the things for the first focused BB6A video, so that I could get the BB6A study page up and started on the website {#did-all-the-things-for-the-first-focused-bb6a-video-so-that-i-could-get-the-bb6a-study-page-up-and-started-on-the-website}
 
@@ -151,7 +151,7 @@ As part of Phase I. In getting this first focused BB6A video organized and forma
 - Pushed everything live on YouTube and on the site
 - Etc.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Created additional meta-related videos on the YouTube channel {#created-additional-meta-related-videos-on-the-youtube-channel}
 
@@ -171,7 +171,7 @@ After recording the 7 videos, I had to do all the post-processing on the videos,
 
 Because I was concatenating several different takes this time to be able to share identical content across the two videos in each of the structure intro video types (discussion vs. no discussion, full BB6A vs. focused BB6A), I bumped into issues I hadn't had before (dealing with variable vs. constant frame rate recordings not concatenating properly, and differing audio channels not concatenating properly). I'll spare you the boring details, but it took a lot of research to fix things, and I had to delete and then completely re-do some processing steps partway through. At least now I think I understand everything better, so hopefully things will only go smoother in the future.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Did some miscellaneous styling bug-fixes and improvements {#did-some-miscellaneous-styling-bug-fixes-and-improvements}
 
@@ -179,7 +179,7 @@ Because I was concatenating several different takes this time to be able to shar
 - Fixed CSS bug: Centered icons better (more towards middle of lines) in subject index link shortcode.
 - Fixed CSS bug: Resolved positioning issue with TOC container being offset somewhat from the top of the page.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Set up new computer (for the most part) {#set-up-new-computer-for-the-most-part}
 
@@ -187,7 +187,7 @@ Because I was concatenating several different takes this time to be able to shar
 - This is the first time I've set up a new computer in like 6 years or something.
 - It went relatively well, but there's just a lot to set up, is all. I still have a few more things to do, which will carry into the next work cycle. I'm hoping to start using the new computer (which is much faster and more powerful) for absolutely everything within the next few days. It should speed up the content generation process, as it has approximately 4x the CPU power and 8x the RAM of the computer it is replacing, with much faster generation 4 NVMe SSD read/write speeds too.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Upcoming work {#upcoming-work}
 

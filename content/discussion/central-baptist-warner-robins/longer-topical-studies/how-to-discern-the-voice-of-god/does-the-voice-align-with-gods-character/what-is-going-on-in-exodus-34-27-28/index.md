@@ -20,19 +20,19 @@ This page, instead of focusing on those words, focuses on the writing: the writi
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 In our passage this week, the Workbook focused on the character of God as described earlier in the chapter, Exodus 34:6-7.
 
 This page, instead of focusing on those words, focuses on the writing: the writing God commanded Moses to do in Exodus 34:27, and the writing of the Ten Commandments onto the stone tablets in Exodus 34:28. For various reasons, getting a proper understanding of exactly what was written and who wrote it is a bit less straightforward than one might expect.
 
-
+<!-- summary -->
 
 {{% content %}}
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% technical-discussion %}}
 

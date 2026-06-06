@@ -1,6 +1,9 @@
 ---
 title: Roles of the Trinity in the Plan of God
 weight: 120
+stags:
+    - Trinity > Roles
+
 layout: content-page
 video: https://www.youtube.com/watch?v=1Gla5UuJqt8
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
@@ -9,10 +12,6 @@ playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcA
 All three members of the Trinity are referred to by common names in both the Old and New Testaments: Elohim and YHVH (the so-called tetragrammaton) in the Hebrew Old testament, and Theos in the Greek New Testament. However, each member of the Trinity also has an individual name, based upon the role they play in God's overarching plan to redeem mankind: the Father, the Son, and the Holy Spirit. Aside from going over the shared names, this lesson also examines the origin, significance, and person of each of these individual names.
 
 <!--more-->
-
-{{< subjects >}}
-<a href="/subject-index/#trinity-roles">Trinity > Roles</a>
-{{< /subjects >}}
 
 {{% section-navigation %}}
 
@@ -28,11 +27,11 @@ slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 All three members of the Trinity are referred to by common names in both the Old and New Testaments: Elohim and YHVH (the so-called tetragrammaton) in the Hebrew Old testament, and Theos in the Greek New Testament. However, each member of the Trinity also has an individual name, based upon the role they play in God's overarching plan to redeem mankind: the Father, the Son, and the Holy Spirit. Aside from going over the shared names, this lesson also examines the origin, significance, and person of each of these individual names.
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 
@@ -54,18 +53,18 @@ All three members of the Trinity are referred to by common names in both the Old
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Roles of the Trinity in the Plan of God {#roles-of-the-trinity-in-the-plan-of-god}
 
-{{< subjects >}}
-<a href="/subject-index/#trinity-roles-contrasted-with-non-biblical-illustrations-for-trinity">Trinity > Roles > Contrasted with non-biblical illustrations for Trinity</a>
-{{< /subjects >}}
+{{< properties
+stags="Trinity > Roles > Contrasted with non-biblical illustrations for Trinity"
+>}}
 
 
 A more valuable approach than the use of non-biblical illustrations to understand the nature of the Trinity is the examination of the function of the Trinity as described in the Bible. The scriptures have much to say about how God works in human history, and, specific to our topic, what roles the individual members of the Trinity play in that work, otherwise known as the "plan of God".
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### General Introduction: The Roles of the Trinity Are a Biblical Way To Get Additional Perspective {#general-introduction-the-roles-of-the-trinity-are-a-biblical-way-to-get-additional-perspective}
 
@@ -73,69 +72,59 @@ God has not been operating in human history on an ad hoc or reactive basis, but 
 
 No potentially-misleading illustrations necessary
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The Names of the Trinity: Shared Names {#the-names-of-the-trinity-shared-names}
 
-{{< subjects >}}
-<a href="/subject-index/#trinity-shared-names-elohim">Trinity > Shared names > *Elohim*</a>
-<a href="/subject-index/#trinity-shared-names-yahweh">Trinity > Shared names > *Yahweh*</a>
-{{< /subjects >}}
+{{< properties
+stags="Trinity > Shared names > *Elohim* | Trinity > Shared names > *Yahweh*"
+>}}
 <!-- p="Zechariah 2:8-9; Hebrews 1:5-14" -->
 
 Much can be understood about the Trinity through a consideration of the names by which they are revealed. Collectively, the Trinity refer to themselves as God. In the Old Testament, the Hebrew word for God, *'Elohim* (translated in the New Testament by the common Greek word for God, *theos*), is technically a plural of a word originally meaning "mighty one"; collectively then, the Trinity share this appellation, pluralized to express additional majesty.
 
 Individually considered, however, members of the Trinity in the Old Testament are referred to most commonly by the Hebrew word *Yahweh* (translated in the New Testament by the common Greek word for Lord, *kyrios*), a word that, as we have seen, calls special attention to the Lord's timeless and dynamic being (see [section I, note 1](https://ichthys.com/1Theo.htm#N_1_)). These two names, God and Lord, emphasize respectively the unity of the Trinity in its three-fold persons (*'Elohim* is plural but refers to the Trinity collectively), and the joint divine-essence of all three individual members (*Yahweh* is singular but can be used to refer to any of the Trinity's members individually).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The Names of the Trinity: Individual Names {#the-names-of-the-trinity-individual-names}
 
-{{< subjects >}}
-<a href="/subject-index/#progressive-revelation">Progressive revelation</a>
-<a href="/subject-index/#trinity-roles-have-always-existed-in-creation">Trinity Roles > Have always existed in creation</a>
-<a href="/subject-index/#trinity-roles-have-not-always-been-clearly-differentiated-from-mankind-s-perspective">Trinity Roles > Have not always been clearly differentiated from mankind's perspective</a>
-{{< /subjects >}}
+{{< properties
+stags="Progressive revelation | Trinity Roles > Have always existed in creation | Trinity Roles > Have not always been clearly differentiated from mankind's perspective"
+>}}
 
 With the fuller revelation of the Trinity in the New Testament following the revelation and advent of Jesus Christ (see [Part II C. for the Trinity in the Old Testament](https://ichthys.com/1Theo.htm#C.%20The%20Trinity%20in%20the%20Old%20Testament)), the names Father, Son and Holy Spirit give us an even clearer understanding of the roles of the Trinity (and therefore of the Trinity itself).
 
 Cf. the general concept of so-called *progressive revelation*. This is an excellent example of the phenomenon.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The Father (the 1st Person of the Trinity) {#the-father-the-1st-person-of-the-trinity}
 
-{{< subjects >}}
-<a href="/subject-index/#trinity-roles-father">Trinity > Roles > Father</a>
-<a href="/subject-index/#fatherhood-of-god">Fatherhood of God</a>
-<a href="/subject-index/#typology-human-copies-the-divine-not-the-other-way-around">Typology > Human copies the divine, not the other way around</a>
-{{< /subjects >}}
+{{< properties
+stags="Trinity > Roles > Father | Fatherhood of God | Typology > Human copies the divine, not the other way around"
+>}}
 <!-- p="Deuteronomy 32:6; Exodus 4:22; Hebrews 12:5-11; Exodus 3:14-15; Isaiah 46:9-10" -->
 
 *Origin*: The term for and idea of the Fatherhood of God, a designation well known from the New Testament, is also found in the Old Testament from the Pentateuch onward. The word Father is first used for God in Deuteronomy 32:6: "Is He not your Father? The One who bought you? He is the One who made you and established you." Later in verse 18 of the same chapter, God is referred to as "the Rock who fathered you". The concept of the fatherhood of God can also be seen at Exodus 4:22, where Israel is referred to as God's "firstborn son".
 
-<!-- --- -->
+<!-- slide-break -->
 
 *Significance*: The use of the name "Father" is clearly intended to be taken as an analogy from human experience. Like the father who sired us, He is our creator. Like a father, He is our authority figure, our trainer, disciplinarian, and teacher (Heb.12:5-11). And, not to be underestimated, He is the One who cares for us and loves us deeply, who protects us, keeps us safe, and wants only what is truly best for us (regardless of what we see as best).
 
 Being human, our earthly fathers had strengths and weaknesses, and despite their best intentions had to act on the basis of imperfect information about what was best for us. But our heavenly Father represents the perfect ideal of fatherhood. He acts toward us always in perfect love, and all He does for us is without question for our ultimate good, for whether He disciplines us or blesses us, He does so in perfect knowledge of who we are, and of all that is in our hearts.
 
-<!-- --- -->
+<!-- slide-break -->
 
 *Person*: The Father is often referred to as the 1st person of the Trinity (i.e., the authoritative "I" person), because He speaks to us as "I", directly manifesting His ***authoritative*** will as our God, creator and ruler of the universe (e.g., Ex.3:14-15; Is.46:9-10).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The Son (the 2nd Person of the Trinity) {#the-son-the-2nd-person-of-the-trinity}
 
-{{< subjects >}}
-<a href="/subject-index/#trinity-roles-son">Trinity > Roles > Son</a>
-<a href="/subject-index/#sonship-of-christ">Sonship of Christ</a>
-<a href="/subject-index/#typology-human-copies-the-divine-not-the-other-way-around">Typology > Human copies the divine, not the other way around</a>
-<a href="/subject-index/#subordination-of-the-son-to-the-father-s-authoritative-will">Subordination of the Son to the Father's authoritative will</a>
-<a href="/subject-index/#redemption-only-possible-by-the-submission-of-the-son-to-the-father">Redemption > Only possible by the submission of the Son to the Father</a>
-<a href="/subject-index/#submission-dedicating-yourself-to-service-does-not-debase-you-but-elevates-you">Submission > Dedicating yourself to service does not debase you, but elevates you</a>
-{{< /subjects >}}
+{{< properties
+stags="Trinity > Roles > Son | Sonship of Christ | Typology > Human copies the divine, not the other way around | Subordination of the Son to the Father's authoritative will | Redemption > Only possible by the submission of the Son to the Father | Submission > Dedicating yourself to service does not debase you, but elevates you"
+>}}
 <!-- p="Job 38:7; Romans 8:14; Galatians 3:26; Galatians 4:5; John 1:12; 1 John 3:1-2; Luke 3:38; 1 Corinthians 15:45; Daniel 7:13-14; Isaiah 42:18ff; Isaiah 42:1; Isaiah 52:13-53:12; Hosea 11:1; Matthew 2:15; Psalm 2:7-12; Psalm 110:1; Matthew 21:33-40; John 15:14-15; John 14:6; Ephesians 2:18; Ephesians 3:12; Mark 10:35-45" -->
 
 *Origin*: Along with the holy angels (Job 38:7 [not NIV]), we believers are all "sons" of God (Rom.8:14; Gal.3:26; 4:5; cf. Jn.1:12; 1Jn.3:1-2). This widespread franchise of sonship is based upon the paternal position of the Father relative to all His obedient creatures, but there is only one "*the* Son of God (our Lord, Jesus Christ)".
@@ -147,46 +136,42 @@ Though Christ's incarnation was, in a veiled fashion, prophesied and foreshadowe
 - Israel is God's son -- Christ is *the* Son (Hos.11:1 fulfilled at Matt.2:15)
 - Finally, though Solomon was David's direct descendant, Christ is his ultimate descendant, the Messiah, *the* Son of David who is also the Son of God (Ps.2:7-12; 110:1).
 
-<!-- --- -->
+<!-- slide-break -->
 
 *Significance*: Building on the idea of fatherhood as discussed above, sonship denotes the idea of a special and unbreakable relationship with the Father, one of dutiful subordination to the Father's will, but also one of special privilege, inheritance and shared authority.
 
 A son (especially a king's son) is often more accessible than a father. The role of mediator between the king and His offending subjects can only be played by someone who is on a par with both the Father-king and creature-subjects: only a Son (incarnate) can be sent on such a mission of reconciliation (cf. Matt.21:33-40).
 
-<!-- --- -->
+<!-- slide-break -->
 
 *Person*: The Son is often referred to as the 2nd person (i.e., the accessible "you" person), because He is ***accessible*** to us, having appeared in the flesh to forge a relationship with us on the Father's behalf (e.g., Jn.15:14-15), and having gained access to the Father for us (Jn.14:6; Eph.2:18; 3:12).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The Holy Spirit (the 3rd Person of the Trinity) {#the-holy-spirit-the-3rd-person-of-the-trinity}
 
-{{< subjects >}}
-<a href="/subject-index/#trinity-roles-holy-spirit">Trinity > Roles > Holy Spirit</a>
-<a href="/subject-index/#holy-spirit-is-a-person-not-just-an-impersonal-force">Holy Spirit > Is a person, not just an impersonal force</a>
-<a href="/subject-index/#holy-spirit-quickens-our-understanding-at-the-individual-level">Holy Spirit > Quickens our understanding, at the individual level</a>
-<a href="/subject-index/#holy-spirit-restraint-of-evil-in-the-world">Holy Spirit > Restraint of evil in the world</a>
-{{< /subjects >}}
+{{< properties
+stags="Trinity > Roles > Holy Spirit | Holy Spirit > Is a person, not just an impersonal force | Holy Spirit > Quickens our understanding, at the individual level | Holy Spirit > Restraint of evil in the world"
+>}}
 <!-- p="Genesis 1:2; Revelation 22:17; John 3:8; Zechariah 4:6; 1 Corinthians 12:3; Genesis 6:3; 1 Corinthians 12:3; 2 Thessalonians 2:5-8; John 14:16-17; Galatians 5:22-26" -->
 
 *Origin*: From the first chapter of the Old Testament (Gen.1:2), to the closing chapter of the New Testament (Rev.22:17), the word "spirit" is used to refer to God the Holy Spirit. The Hebrew and Greek words for "spirit", *ruach* and *pneuma* respectively, have the core meaning of "wind" or "breeze", and, again, there are important points to be garnered from the name analogy.
 
-<!-- --- -->
+<!-- slide-break -->
 
 *Significance*: The wind is a potent, invisible force. Though we perceive it and experience its effects, we can neither see where it has come from or where it is going to (Jn.3:8). It can have everything from a gentle, warming influence to a powerful, chilling effect. "Wind" is thus an aptly descriptive analogy for the Holy Spirit's role in the plan of God: His invisible yet powerful support of good (Zech.4:6; 1Cor.12:3) and restraint of evil (Gen.6:3; 1Cor.12:3; 2Thes.2:5-8) in the furtherance of the plan of God must not be underestimated.
 
-<!-- --- -->
+<!-- slide-break -->
 
 *Person*: The Holy Spirit is often referred to as the 3rd person of the Trinity (i.e., the unseen "he" person), because unlike the Father, He does not speak directly to us, and unlike the Son, He has not been made manifest to us; instead, like the wind, He is ***unseen*** by us, but, like the wind, that does not mean that we do not experience His power in a very personal and dynamic way (Jn.14:16-17; Gal.5:22-26).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Note: Analogies Are Just Analogies, and Nothing More {#note-analogies-are-just-analogies-and-nothing-more}
 
-{{< subjects >}}
-<a href="/subject-index/#interpretation-not-pushing-analogies-too-far">Interpretation > Not pushing analogies too far</a>
-<a href="/subject-index/#holy-spirit-is-a-person-not-just-an-impersonal-force">Holy Spirit > Is a person, not just an impersonal force</a>
-{{< /subjects >}}
+{{< properties
+stags="Interpretation > Not pushing analogies too far | Holy Spirit > Is a person, not just an impersonal force"
+>}}
 <!-- p="John 3:5; John 14:16-17; John 14:26; John 15:26; John 16:8-15; Acts 5:3, Acts 5:9; Acts 13:2; Acts 16:6-10; Romans 8:26; 1 Corinthians 2:10; Revelation 2:7; John 14:16; John 16:7; Romans 8:4; Galatians 5:16; Galatians 5:18; John 16:7; 2 Corinthians 1:3-7; Luke 24:49; Romans 15:13" -->
 
 As should be clear from the discussion above, the names Father, Son, and Spirit are thus representative of the Trinity's individual roles in the plan of God for mankind, and have been given to help us understand the relationships and functions of the three divine personalities in that plan.

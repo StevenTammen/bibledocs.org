@@ -22,11 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 In Romans 1:18ff. and Psalm 19, the Bible teaches that all human beings are without excuse for not believing in and submitting to God, due to the created world pointing at every turn to Him. Such a concept in theology is typically called "natural revelation".
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -34,7 +34,7 @@ In Romans 1:18ff. and Psalm 19, the Bible teaches that all human beings are with
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Natural revelation holds that no mentally mature humans get a pass {#natural-revelation-holds-that-no-mentally-mature-humans-get-a-pass}
 

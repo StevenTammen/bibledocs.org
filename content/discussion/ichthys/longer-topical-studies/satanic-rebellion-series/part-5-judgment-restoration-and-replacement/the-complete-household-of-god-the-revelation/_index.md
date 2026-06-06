@@ -27,17 +27,17 @@ Christ's incarnation and sacrifice on behalf of His bride, the Church, along wit
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Christ's incarnation and sacrifice on behalf of His bride, the Church, along with the filling of God's family with a large influx of gentiles, is the mystery of God. This mystery was foreshadowed by the writers of the Old Testament, and has now been revealed in the Church age. Just as God physically filled the earth in re-creation days five and six, the Church age truly is the "fullness of times", for in millennial days five and six (the span of the Church age) God's family is being fulfilled. The gap in the family of God created by Satan's rebellion and his angels is now all but filled up, as the bride of Christ is on the verge of completion. Before the cross and the gospel being disseminated to the gentiles, this seemed impossible, but now the necessary conditions have been met (Christ's first advent and sacrifice for sin) and the unsearchable and perfect plan of God is on the point of being completely fulfilled. Here in the Church age, we see the mystery of Christ and His church, but we still anticipate the ultimate revelation of this mystery at the Second Advent, when Jesus Christ comes in glory, along with His bride. At that point we will experience what is still hidden from us, what we *shall* be forevermore, for when Christ appears, we shall be like Him.
 
-
+<!-- summary -->
 
 {{% content %}}
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Audio clip from Ichthys {#audio-clip-from-ichthys}
 
@@ -50,7 +50,7 @@ srcend="19:33"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -58,19 +58,19 @@ While we now know the mystery of Christ and of the Church, it has not been fully
 
 Thus God took Satan completely by surprise, and though He had given indications of future events, before the cross the great mystery was hidden – to His glory and the devil's discomfiture (cf. Prov.25:2; Matt.13:11; Mk.4:11; Lk.8:10). Christ, now human and divine, coming to earth to die for our sins *is* the mystery (Col.2:1-4; 1Tim.3:16), and the miraculous completion during this age of the Church, His body and His bride for whose sake He died, *is* the converse side of that mystery (Eph.1:23), for Christ and His Church are inseparable.
 
-<!-- --- -->
+<!-- slide-break -->
 
 As the antitype to the fifth and sixth Genesis days, the Church age reflects the refilling of the newly refurbished earth. For as the previous four Genesis days had made life habitable for the creatures placed upon it by God during the fifth and sixth day, culminating in the creation of human kind in Adam and Eve, so the Church age has seen the arrival of the bountiful crop sprung from the seed of faith planted in the Gentile age and sprouting in the Jewish age. 
 
 Noah alone (along with seven others) had kept this seed alive at the time of the great flood (1Pet.3:20), and the cadre of believers during the Jewish age constituted the growing remnant of that faith as the seed grew into a plant (Ps.80:8-16; Is.5:2; Jer.2:21; Ezek.17; Hos.10:1; cf. Jn.15:1). But during the Church age, as in the fifth and sixth Genesis days when the filling up of the world with creature life had occurred only after the favorable conditions created by the first four days – all the particulars necessary to physical life in the Genesis type – so in the antitype of human history the abundant "hundred fold" crop of salvation throughout the world which that plant is now producing, the filling up of the body of Christ, has been occurring only after the necessary conditions have been met (Lk.10:2): the advent and victory of Jesus Christ, *the* Seed of promise and *the* Branch of Israel.
 
-<!-- --- -->
+<!-- slide-break -->
 
 The Church age is truly the "fullness of times" for in it the Church is fulfilled (Eph.1:9-10). And just as the final pair of Genesis days culminates in the creation of the man and of the woman who fulfills him, so the final pair of historical days begins and ends with *the* Son of Man's two advents, and is taken up with the completion of the Bride for whom He died. The Church age is thus the mystery age, because it is in this age that the mystery of Christ and of His Church has been revealed and is being fulfilled.
 
 And now, at the end of these days, the unsearchable and perfect plan of God is on the point of being completely fulfilled, with the gap in the family of God created by the defection of the devil and his angels nearly filled up by Christ and His Church, a feat seemingly impossible before the cross and the resultant dissemination of the gospel to the gentiles, but at this late hour all but an accomplished fact, a mystery hidden and still hidden from all those whose eyes are blinded by the prince of this world, but an essential and blessed truth to all who have had the privilege of partaking of the riches of Jesus Christ:
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% ichthys-translation p="Colossians 1:25-27" %}}
 
@@ -80,7 +80,7 @@ It is of this [Church] that I, [Paul], have become a minister according to God's
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Summary points {#summary-points}
 
@@ -88,7 +88,7 @@ As we've been discussing, Christ, now human and divine, coming to earth to die f
 
 - While we now know of the mystery of Christ and the Church, it will not be fully revealed until the return of Jesus Christ. What we mean by that is that the full experiential unveiling the great mystery still lies in the future, awaiting the day when Christ shall be fully unveiled to the world at His return, and we, His bride, shall be unveiled with Him.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Recall the parallels between days five and six in the millennial days of human history, and days five and six in the Genesis days of recreation:
 
@@ -99,7 +99,7 @@ Recall the parallels between days five and six in the millennial days of human h
 | Culminates in the creation of the man and of the woman who fulfills him.                                                                          | Culminates in the revelation of Jesus Christ, and the the completion of the Bride for whom He died.                                                                                                                 |
 
 
-<!-- --- -->
+<!-- slide-break -->
 
 And now, at the end of these days, the unsearchable and perfect plan of God is on the point of being completely fulfilled: the gap in the family of God created by the defection of the devil and his angels is now nearly fully filled up by Christ and His Church.
 
@@ -107,7 +107,7 @@ And now, at the end of these days, the unsearchable and perfect plan of God is o
 - This is the "mystery" of the Church Age being revealed.
 - Praise God that in these matters, He has seen fit to reveal to us at least some small part of His glorious purposes!
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Follow-on topics {#follow-on-topics}
 
@@ -127,13 +127,13 @@ Some examples:
 
 This principle is also in effect when it comes to the mystery of Jesus and Church. Jesus already gave Himself up for the Church, and the Church has already been filled by millions of believers throughout the centuries. Yet the final manifestations of these things will not be realized until Jesus returns again in glory, at which point the Church as His Bride will be fully unveiled.
 
-<!-- --- -->
+<!-- slide-break -->
 
 This is something we should eagerly look forward to. As humans, we might anticipate the wedding celebrations of friends and family even here in this life. How much more so the wedding banquet between Jesus and the Church!
 
 Much of the challenge in the Christian life in fact is overcoming the "not yet" part of "already, but not yet", via faith. It is not easy to maintain the correct spiritual perspective when we are forced to wait. But this is exactly what God has us do, so that we might demonstrate to Him the true character of our faith.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The unity of Christ and the Church {#the-unity-of-christ-and-the-church}
 
@@ -151,7 +151,7 @@ First of all, this unity is actually what "becoming one flesh" in human marriage
 
 When Jesus took on a human nature, he bound Himself to humanity forevermore. That is something we can scarcely imagine. This is part of why the "marriage" between Jesus and the Church has such significance as a tie that binds Him to us.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Another consequence of us being joined to Christ is that there is no room for anything else to intrude in the relationship. Compare 1 Corinthians 6:15-17:
 
@@ -163,7 +163,7 @@ Another consequence of us being joined to Christ is that there is no room for an
 
 Christ is ours, and we are Christ's, spiritually united with Him through the power of the indwelling Holy Spirit. The intimacy of this union ought to be viewed in the same terms as a man and his wife becoming one flesh. Just as there is no room for anything to intrude in that physical case, so too here in this spiritual case.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Further discussion {#further-discussion}
 

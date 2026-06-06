@@ -40,7 +40,7 @@ We should take pains to not delude ourselves in such a way. If we wish to please
 
 ### Content {#1-thessalonians-4-1-2-how-to-live-in-order-to-please-god-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Loving God means actually obeying His commands {#1-thessalonians-4-1-2-how-to-live-in-order-to-please-god-loving-god-means-actually-obeying-his-commands}
 
@@ -150,7 +150,7 @@ slides="https://bibledocs.org/slides/"
 
 ### Content {#1-thessalonians-4-3-8-sexual-immorality-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### No matter what our culture says, sexual immorality ought to be avoided at all costs {#1-thessalonians-4-3-8-sexual-immorality-no-matter-what-our-culture-says-sexual-immorality-ought-to-be-avoided-at-all-costs}
 
@@ -222,7 +222,7 @@ Even if we already love our brothers and sisters in Christ, we can always do so 
 
 ### Content {#1-thessalonians-4-9-10-loving-the-brethren-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 In 1 Thessalonians 4:10, Paul encourages the Thessalonians to continue to love all of God's family throughout Macedonia more and more.
 
@@ -278,7 +278,7 @@ slides="https://bibledocs.org/slides/"
 
 ### Content {#1-thessalonians-4-11-12-minding-our-own-business-and-working-with-our-hands-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Minding our own business in general {#1-thessalonians-4-11-12-minding-our-own-business-and-working-with-our-hands-minding-our-own-business-in-general}
 
@@ -365,7 +365,7 @@ slides="https://bibledocs.org/slides/"
 
 ### Content {#1-thessalonians-4-13-18-the-resurrection-of-the-dead-and-the-rapture-at-the-second-coming-of-christ-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### On the concept of "the rapture" {#1-thessalonians-4-13-18-the-resurrection-of-the-dead-and-the-rapture-at-the-second-coming-of-christ-on-the-concept-of-the-rapture}
 

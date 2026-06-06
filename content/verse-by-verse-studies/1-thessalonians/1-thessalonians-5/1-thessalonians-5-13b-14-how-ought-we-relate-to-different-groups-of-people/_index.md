@@ -29,7 +29,7 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 1 Thessalonians 5:13b-14 conveys information about relationships—how we ought to relate to various groups of people. First of all, we are to live in peace with each other (verse 13b). But we are also to:
 
@@ -40,7 +40,7 @@ slides="https://bibledocs.org/slides/"
 
 This page goes into detail about these matters.
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -48,7 +48,7 @@ This page goes into detail about these matters.
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Introduction {#introduction}
 

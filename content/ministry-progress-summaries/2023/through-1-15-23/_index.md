@@ -22,11 +22,11 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2023/throug
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 This cycle was very research-heavy. I worked more on the studies I'm in the process of drafting, and in the process of researching a related topic, kicked off a massive forum discussion, and an email chain with my mentor. I also researched options for local fellowships, and narrowed down the options to several that look promising.
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 
@@ -40,7 +40,7 @@ This cycle was very research-heavy. I worked more on the studies I'm in the proc
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Worked more on in-progress studies {#worked-more-on-in-progress-studies}
 
@@ -48,7 +48,7 @@ The same ones mentioned last cycle, about how Christians ought to view judging, 
 
 I just don't want to release anything before I feel like things are ready. I've written more now, and split things into several parts, but still don't want to release the earlier parts until I'm sure I know the full order of the topics in the studies and won't change anything around any more.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Researched a couple topics and had long conversations about them {#researched-a-couple-topics-and-had-long-conversations-about-them}
 
@@ -56,7 +56,7 @@ This was probably the biggest time sink this cycle. We had a very active topic o
 
 I emailed my mentor about some of the things being discussed as well, and that email chain got up to ~13 responses long too.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Researched and decided where I want to start getting involved locally {#researched-and-decided-where-i-want-to-start-getting-involved-locally}
 
@@ -64,7 +64,7 @@ I made a spreadsheet of many local churches (tens of them), came up with some cr
 
 I'm hoping to start getting involved in the next week or two.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Upcoming work {#upcoming-work}
 

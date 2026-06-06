@@ -22,11 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Even if we already love our brothers and sisters in Christ, we can always do so more fully. We need to guard against thinking we've "made it" and have no more need for improvement in this area, just like all other areas besides. For the second we stop straining ever forward and put down our sword, at that moment our self-delusion will cripple our spiritual growth greatly. Because "the healthy" (in their own opinion) don't even think they need a doctor, they cannot ever get better (cf. Luke 5:31-32; Revelation 3:17).
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -34,7 +34,7 @@ Even if we already love our brothers and sisters in Christ, we can always do so 
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 In 1 Thessalonians 4:10, Paul encourages the Thessalonians to continue to love all of God's family throughout Macedonia more and more.
 

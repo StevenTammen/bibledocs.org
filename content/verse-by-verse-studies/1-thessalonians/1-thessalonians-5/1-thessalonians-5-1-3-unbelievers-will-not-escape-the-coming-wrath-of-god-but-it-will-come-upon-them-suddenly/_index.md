@@ -22,11 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 So sudden will be the coming of the Son of Man that it will catch those who do not see fit to watch for Him completely off guard. They will be utterly destroyed—they will not be able to resist, no one will help them, and they will not get up after being felled. Their doom has been foretold, and it will surely come to pass.
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -34,7 +34,7 @@ So sudden will be the coming of the Son of Man that it will catch those who do n
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 1 Thessalonians 5:1-3 is not the only place in scripture where we hear about the sudden destruction of those who refuse to follow God (and therefore the path of true righteousness). For example:
 
@@ -47,7 +47,7 @@ There are also other passages of formal prophecy (rather than just general princ
 - Isaiah 47
 - Lamentations 4
 
-<!-- --- -->
+<!-- slide-break -->
 
 Isaiah 47 deals with the destruction of so-called "Mystery Babylon", a powerful nation in Revelation drunk on its own prosperity. (Cf. also Revelation 17). It will be utterly destroyed in judgement, even though people will think it too big to fall.
 

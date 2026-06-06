@@ -22,11 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 The impurity mentioned in Romans 1:24 is speaking of moral uncleanness—with overtones of lustful, profligate behavior. We *must* view sexual sin as unclean (in much the same we would soiled clothing), even if our culture disagrees.
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -34,7 +34,7 @@ The impurity mentioned in Romans 1:24 is speaking of moral uncleanness—with ov
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 The New American Standard Bible (1995) translates Romans 1:24 as follows:
 

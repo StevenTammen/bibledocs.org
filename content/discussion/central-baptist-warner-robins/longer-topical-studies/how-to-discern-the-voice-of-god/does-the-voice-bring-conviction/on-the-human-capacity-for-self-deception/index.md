@@ -29,7 +29,7 @@ The operative point we will be examining on this page specifically is the idea t
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 In this week's lesson, we talked about how God's voice will convict us of the truth -- whether that means convicting us of sin, or giving us bold confidence to pursue a path of action that is necessary to pursue God's plans for us. Being able to act with the confidence of doing the right thing is a great blessing.
 
@@ -39,13 +39,13 @@ No, quite to the contrary. Godly conviction is less about emotion than it is abo
 
 The operative point we will be examining on this page specifically is the idea that we *must* be on guard to to ensure that we do not deceive ourselves and act contrary to the truth. By examining passages that outline the human capacity for self-deception, it should be clear to us that we must always be checking our confidence against the Word of God, and tossing it out as rubbish if we realize it does not line up. Otherwise our conviction -- strong as it may be -- will only be getting in the way of what it is God actually wants us to do -- what *He* would actually convict us of (rather than whatever we have convicted ourselves of), if we would but open our hearts and minds to His truth.
 
-
+<!-- summary -->
 
 {{% content %}}
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Example verses concerning the idea of human self-deception {#example-verses-concerning-the-idea-of-human-self-deception}
 
@@ -73,17 +73,17 @@ A human heart is more dishonest than anything else. It can’t be healed. Who ca
 
 {{% /ot %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 We have no basis for trusting our own hearts. We are indwelt by the sin nature, as all humans have been since Adam (excepting Christ; part of the reason why the virgin birth is important). We are, down to a person, biased by the flesh. If we were witnesses taking the stand, we have already been tampered with, already taken a bribe.
 
 Consequently, we ought not trust our own judgement any further than we can throw it. We ought to instead only trust the Word of God, which the Holy Spirit will use to convict our hearts of the truth, if we would but choose to listen to Him rather than charging ahead and dictating to God.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### General example verses about self-deception {#general-example-verses-about-self-deception}
 
@@ -125,11 +125,11 @@ If you think you are somebody when you are nobody, you are fooling yourselves.
 
 {{% /nt %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Self-deception can even apply to salvation {#self-deception-can-even-apply-to-salvation}
 
@@ -155,17 +155,17 @@ ptags="Matthew 7:21-23"
 
 Many people don't like talking about these verses. Uncomfortable subject, this. Who wants to think about the chilling fact that not all Israel is Israel (Romans 9:6-7)?
 
-<!-- --- -->
+<!-- slide-break -->
 
 Yet there are those who engage in something that they call Christianity that will nonetheless end up in the Lake of Fire forever, for the only thing that is important is believing in who Jesus was and what He did for us on the cross by taking the penalty for our sin upon His shoulders. God is Just -- He offers salvation to all, gives all an equal chance to respond to Him. Literally all we have to do is not say no! But He does not ever make exceptions or excuse unbelief. Not even for people who outwardly adopt the title of Christian and engage in things that society thinks are good, like giving money to the poor.
 
 How can people who spit in God's face by rejecting the Son He sacrificed on their behalf then turn around and consider themselves Christians and children of God -- even consider themselves and their group "better Christians" than other Christians (cf. cults)? That's human self-deception. That people can redefine salvation to be a set of legalistic works *and then actually believe it* ought to terrify us. Not because our own salvation is imperiled when we come to this realization (we are saved so long as we actually believe in Jesus Christ -- end of story), but because it ought to thus be obvious to us that humans can in fact lie to themselves to such a degree that they get something as important as salvation by grace through faith dead wrong, all while being completely blind to it. *They think they are right*, legitimately believe it. But they are not.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Self-deception runs on human arrogance {#self-deception-runs-on-human-arrogance}
 
@@ -191,11 +191,11 @@ You say, ‘I am rich; I have acquired wealth and do not need a thing.’ But yo
 
 Human arrogance is such that we all fail to recognize our own pitiful state; we all overestimate how much we have it together, and underestimate how much we need God. The Church of Laodicea in Revelation 3 typifies this pattern of blindness, but it applies in greater or lesser measure to all Christians. It is more than possible for people to think themselves upon the right path while in fact not even being close. The point is that we must never forget this truth, but must instead turn it upon ourselves reflexively to make sure that anything that we think and believe has the Word of God behind it, rather than human rationalization and self-deception.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The Bible would not have verses about examining and testing ourselves if it were not important {#the-bible-would-not-have-verses-about-examining-and-testing-ourselves-if-it-were-not-important}
 
@@ -237,7 +237,7 @@ Each of you should put your own actions to the test. Then you can take pride in 
 
 {{% /nt %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% ot t="esv" p="Lamentations 3:40" h="300px" %}}
 
@@ -253,13 +253,13 @@ Let’s take a good look at the way we’re living. Let’s return to the Lord.
 
 It makes no sense for the Bible to speak of us testing and examining ourselves unless it was possible for us to be deceiving ourselves.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Does this mean we ought to always be fearful of "not really believing?" No. If we believe, we believe, and that is that. We need to have confidence in that. If we want to actually believe something, we do. We can't mess it up like that; we *do* have free will.
 
 But nothing will protect us from believing the wrong things, or actual unbelief. That free will cuts both ways. This is why we must always test ourselves against the scriptures to make sure that we really are holding to God's truth, not some straw man version of it we have set up in our hearts. For, as we have just seen, it is more than possible for us humans to lie to ourselves so effectively that we completely blind ourselves to the truth, even though we claim we have it. Would that we would care enough to study the truth so that we might not be those people!
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 

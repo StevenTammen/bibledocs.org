@@ -1,16 +1,15 @@
 ---
 title: Dealing With the Main Arguments Against a Single Rahab Interpretation
 weight: 1
+stags:
+    - Rahab the prostitute
+
 layout: content-page
 ---
 
 A curious friend emailed me wondering about whether the Rahab mentioned in the genealogy of Christ is the same Rahab as the prostitute in Joshua 2. It's a good question, since scripture does contain a number of different individuals sharing identical names (e.g., people named Mary, people named John). In the first part of my response here, I mostly focused on finding a reasonably-representative position to argue against (to make sure I addressed contrary arguments that my friend might have come across), picking things apart point-by-point. At the end of it all, when the dust settles, most of the opposing argument seemed to hinge on the fact that when Rahab is mentioned in Hebrews 11 and James 2, her profession and actions of faith are mentioned explicitly, while that is not the case in Matthew's genealogy. The problem is that assuming that this is supposed to signify a different person to prove that this is in fact a different person is inherently circular. It would be kind of like saying there must be two Jesus's in the New Testament because His identity as the Son of God is only mentioned in some places (e.g., His baptism), but not all!
 
 <!--more-->
-
-{{< subjects >}}
-<a href="/subject-index/#rahab-the-prostitute">Rahab the prostitute</a>
-{{< /subjects >}}
 
 {{% section-navigation %}}
 
@@ -26,11 +25,11 @@ slides="https://www.steventammen.com/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 A curious friend emailed me wondering about whether the Rahab mentioned in the genealogy of Christ is the same Rahab as the prostitute in Joshua 2. It's a good question, since scripture does contain a number of different individuals sharing identical names (e.g., people named Mary, people named John). In the first part of my response here, I mostly focused on finding a reasonably-representative position to argue against (to make sure I addressed contrary arguments that my friend might have come across), picking things apart point-by-point. At the end of it all, when the dust settles, most of the opposing argument seemed to hinge on the fact that when Rahab is mentioned in Hebrews 11 and James 2, her profession and actions of faith are mentioned explicitly, while that is not the case in Matthew's genealogy. The problem is that assuming that this is supposed to signify a different person to prove that this is in fact a different person is inherently circular. It would be kind of like saying there must be two Jesus's in the New Testament because His identity as the Son of God is only mentioned in some places (e.g., His baptism), but not all!
 
-
+<!-- summary -->
 
 <!-- 
 ## Timestamps {#timestamps}
@@ -43,25 +42,25 @@ A curious friend emailed me wondering about whether the Rahab mentioned in the g
 
 (October 2015 -- before I had any Greek)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Q: How can we be sure the Rahab mentioned in Matthew in Jesus' genealogy is the same as the Rahab in Joshua? {#q-how-can-we-be-sure-the-rahab-mentioned-in-matthew-in-jesus-genealogy-is-the-same-as-the-rahab-in-joshua}
 
 I was talking to someone this week about Rahab, and there is a point of confusion I was wondering I could clear up with you. Apparently, the spelling of Rahab's name is different when she is mentioned in Matthew (Jesus's genealogy) than when her name is mentioned in Joshua. It is spelled the same everywhere else, but how can we be so sure it's the same Rahab? Or is everything I said wrong?
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### An approach to answering this question: refuting an argument representative of the the opposing position point-by-point {#an-approach-to-answering-this-question-refuting-an-argument-representative-of-the-the-opposing-position-point-by-point}
 
-{{< subjects >}}
-<a href="/subject-index/#apologetics-combatting-falsehood-by-refuting-a-representative-specific-argument">Apologetics > Combatting falsehood by refuting a representative specific argument</a>
-{{< /subjects >}}
+{{< properties
+stags="Apologetics > Combatting falsehood by refuting a representative specific argument"
+>}}
 
 I did a bit more research and [this](http://www.outsidethecamp.org/rahab.htm) [**Post hoc note:** evidently this site no longer exists, so my comments are addressing points that are now impossible to read in context. This is unfortunate, but there's nothing that I can do about it] seems to be the prototypical opinion of those who would wish to have "another" Rahab.
 
 Note that me refuting this argument does not necessarily refute the position *in toto*, but since I think this is a fair and representative sample of the position, I do not find it to be too much of a straw-man.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### In the Greek New Testament, 'Rahab' is transliterated in different ways in different places {#in-the-greek-new-testament-rahab-is-transliterated-in-different-ways-in-different-places}
 
@@ -71,7 +70,7 @@ What your friend was likely referring to was not the difference between the word
  
 The likely reason why your friend ran into it is that most English speakers use Strong's exhaustive concordance for so called "word study", which is based off of the KJV's Textus Receptus (TR), a critical edition of the GNT that draws primarily from late Byzantine texts. With the exception of a few people who try to defend the manuscript tradition of the TR, most scholars accept that the TR has some inferior readings from late textual witnesses, and my guess is that this is one of them.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The main argument being used as a representative sample of the opposing point of view {#the-main-argument-being-used-as-a-representative-sample-of-the-opposing-point-of-view}
 
@@ -94,7 +93,7 @@ On the other hand, in Matthew 1:5 Rachab the wife of Salmon is clearly distingui
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Assumptions are dangerous in interpretation {#assumptions-are-dangerous-in-interpretation}
 
@@ -106,7 +105,7 @@ Therefore more positive methods have been used in these passages to identify the
 
 This is an outright assumption. Unless the writer claims to know the mind of James and the writer of Hebrews (you can make a good case for Paul), there is absolutely no possible way he can make the argument that "this is what they really meant when they wrote this." He can certainly take this position (i.e., that they used these things to identify Rahab the harlot specifically), but it requires exegesis and evidence from context, neither of which was provided (and neither of which can be provided sufficiently to make this claim).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Commenting on the argument's reasons for 'Rahab the harlot' identifications {#commenting-on-the-argument-s-reasons-for-rahab-the-harlot-identifications}
 
@@ -124,7 +123,7 @@ Observation (a) in the first set is invalid because Matthew 1:5 also "states a n
 
 Observations (b) and (c) are valid points; when Rahab is mentioned in the "heroes of faith" section in Hebrews 11 and in the "faith that works" section of James 2, she is mentioned both times as being a prostitute, and also complimented both times for her faith and legitimate production (i.e., action) from that faith.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Commenting on the argument's reasons for 'Rahab the relative of Christ' identification {#commenting-on-the-argument-s-reasons-for-rahab-the-relative-of-christ-identification}
 
@@ -145,7 +144,7 @@ To put it in more logical terms: "the absence of proof (i.e., statements that id
 
 So once again, the claim that this Rahab is "clearly distinguished from ANY identification or association in any way with the harlot of Jericho" is an unproved assumption. Notice the wording of that quote: "clearly", "ANY", "in any way"; this is all rhetorical flourish. One's argument does not become valid by capitalizing words.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="http://www.outsidethecamp.org/rahab.htm" text="OutsideTheCamp.org" %}}
 
@@ -164,7 +163,7 @@ On the other hand, in Matthew 1:5 Rachab the wife of Salmon is clearly distingui
 
 As to (1), I touched on it in the introduction, but I'll go into more depth here since it really is the crux of the matter.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Different Greek spellings {#different-greek-spellings}
 
@@ -176,7 +175,7 @@ So this "problem" only exists if you believe the TR is the correct tradition, wh
 
 Now certainly, there are those who make that argument, but it must be backed up with evidence and textual analysis (sometimes called textual criticism). In short, without being fully convinced that the TR has the right reading here (in fact, I am almost certainly convinced that it is the edition that errs, as it does in other places), I would give this reason approximately zero weight when making a decision about the validity of the positions. [**Post hoc note:** Also, I honestly should have here been pointing out how silly it is to pin one's argument on this point anyway. [As discussed later on in this Q&A](/questions-and-answers/reader-correspondence/on-the-possibility-of-multiple-rahabs/handling-several-other-matters/#dr-luginbill-of-ichthys-com-responding), making great hay out of different writers transliterating from Hebrew into Greek differently is very much misguided, even if the texts really were to differ here].
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Conclusions regarding the main argument {#conclusions-regarding-the-main-argument}
 
@@ -184,7 +183,7 @@ So at this point, the only things out of (a), (b), (c), (1), (2), (3), and (4) t
 
 Thus, this particular argument falls flat, and we conclude that there was one and only one Rahab, that she became the wife of Salmon, and that she, though formerly a prostitute, was in the lineage of our dear Lord Jesus Christ, as made clear in Matthew 1:5.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Concluding thoughts {#concluding-thoughts}
 

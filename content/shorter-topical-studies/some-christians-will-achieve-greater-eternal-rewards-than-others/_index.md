@@ -13,10 +13,6 @@ As Ephesians 2:8-9 tells us, salvation most assuredly does come by grace through
 
 ## [Introduction to the idea that some Christians will receive greater eternal rewards than others](/shorter-topical-studies/some-christians-will-achieve-greater-eternal-rewards-than-others/introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others) {#introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others}
 
-{{< subjects >}}
-<a href="/subject-index/#eternal-rewards-not-all-people-will-receive-the-same-amount">Eternal rewards > Not all people will receive the same amount</a>
-{{< /subjects >}}
-
 
 
 <!-- ## Video {#video}
@@ -45,19 +41,19 @@ Even though most people don't have issues decorating only certain particularly w
 
 ### Content {#introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Merit-based rewards are not generally controversial {#introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others-merit-based-rewards-are-not-generally-controversial}
 
 Every day people give honor to distinguished service and scorn laziness. The idea of different levels of recognition and reward for different levels of service does not seem to be very controversial to most people.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### However, when the rewards in question are eternal, people seem to be a bit more skittish {#introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others-however-when-the-rewards-in-question-are-eternal-people-seem-to-be-a-bit-more-skittish}
 
-{{< subjects >}}
-<a href="/subject-index/#eternal-rewards-people-s-hesitancy-regarding">Eternal rewards > People's hesitancy regarding</a>
-{{< /subjects >}}
+{{< properties
+stags="Eternal rewards > People's hesitancy regarding"
+>}}
 
 However, some people seem to have a problem when the rewards in question are not physical rewards in this temporary world of ours, but eternal spiritual rewards. There are several reasons why people might take issue:
 
@@ -67,17 +63,17 @@ However, some people seem to have a problem when the rewards in question are not
 
 Whatever the reasons, this idea of different levels of eternal reward for different levels of merit-based service seems to be hard for many people to accept. The goal of this short study is to briefly put forward some of the scriptural evidence for the concept.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Some general passages dealing with differing levels of eternal reward {#introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others-some-general-passages-dealing-with-differing-levels-of-eternal-reward}
 
-{{< subjects >}}
-<a href="/subject-index/#eternal-rewards-scripture-about">Eternal rewards > Scripture about</a>
-{{< /subjects >}}
+{{< properties
+stags="Eternal rewards > Scripture about"
+>}}
 
 Scripture is quite clear that upon Christ’s return, judgement will be rendered as to the works of men. For example:
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% nt t="esv" h="600px" p="Matthew 16:27 | 2 Corinthians 5:10 | Revelation 22:12" %}}
 
@@ -107,11 +103,11 @@ We must all stand in front of Christ to be judged. Each one of us will be judged
 
 {{% /nt %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 All these passages speak of an evaluation of our works. It follows naturally that if some people have "better works" than others, then they will receive more reward. There is no other way to responsibly interpret these passages.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### More on the process of evaluation: 1 Corinthians 3:10-15 {#introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others-more-on-the-process-of-evaluation-1-corinthians-3-10-15}
 
@@ -131,7 +127,7 @@ Paul gives us some more detail on the process of evaluation in 1 Corinthians 3:
 
 {{% /nt %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 After the fires of judgement, only those things we built upon the sure foundation of Jesus Christ will remain. (This applies to words and thoughts as well as actions: compare Matthew 12:36–37).
 
@@ -139,7 +135,7 @@ This passage in 1 Corinthians 3 teaches that those who build with gold, silver, 
 
 The fire represents God evaluating the things we do in this life, and the things left behind lead to reward for us (see verse 14). For this reason, this passage clearly teaches that some people receive greater reward than others.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Eternal ranking is implicit in "Many of the first will be last, and the last first" {#introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others-eternal-ranking-is-implicit-in-many-of-the-first-will-be-last-and-the-last-first}
 
@@ -165,7 +161,7 @@ Finally, consider the passages that teach that many of the first will be last, a
 
 {{% /nt %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 These passages directly teach that there is ranking in heaven. If we were all the same in eternity, it would not be possible to have people who are first and last.
 
@@ -216,7 +212,7 @@ The parable of the talents and the parable of the minas both clearly teach that 
 
 ### Content {#the-parable-of-the-talents-and-the-parable-of-the-minas-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Introduction {#the-parable-of-the-talents-and-the-parable-of-the-minas-introduction}
 
@@ -224,7 +220,7 @@ These two parables clearly teach that the level of our reward in eternity is dep
 
 The two parables are not exactly identical, but they do both teach this general principle.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The parable of the talents {#the-parable-of-the-talents-and-the-parable-of-the-minas-the-parable-of-the-talents}
 
@@ -265,21 +261,21 @@ The two parables are not exactly identical, but they do both teach this general 
 
 {{% /nt %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% sidenote %}}
 
 #### Tangential aside: On Bible versions that translate 'talent' with some actual dollar amount {#the-parable-of-the-talents-and-the-parable-of-the-minas-tangential-aside-on-bible-versions-that-translate-talent-with-some-actual-dollar-amount}
 
-{{< subjects >}}
-<a href="/subject-index/#translation-is-always-an-imperfect-process">Translation > Is always an imperfect process</a>
-{{< /subjects >}}
+{{< properties
+stags="Translation > Is always an imperfect process"
+>}}
 
 The NIrV, a Bible version intentionally written at low level of writing (somewhere around where a third-grader can read) translates 'talent' as the actual dollar amount of $2,000.
 
 Here, this is done in an attempt to make the passage mean more for children who do not know what a talent is as an ancient unit of currency. It is actually not as simple as one might think to explain different currencies and measures in antiquity, especially to younger children. So choosing a dollar amount is not a translation choice completely without merit.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### But there are dangers {#the-parable-of-the-talents-and-the-parable-of-the-minas-but-there-are-dangers}
 
@@ -289,7 +285,7 @@ However, there are certainly dangers too. For example, figuring out exactly how 
 The metrology of the Near East during the Greek and Roman periods is still poorly understood. Coins bring additional evidence but complicate matters enormously because we do not have the evidence to control either the effect of prices or politics.
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Conclusions {#the-parable-of-the-talents-and-the-parable-of-the-minas-conclusions}
 
@@ -299,7 +295,7 @@ The point of all this discussion is not necessarily to condemn translations that
 
 {{% /sidenote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The parable of the minas {#the-parable-of-the-talents-and-the-parable-of-the-minas-the-parable-of-the-minas}
 
@@ -338,14 +334,13 @@ The point of all this discussion is not necessarily to condemn translations that
 
 {{% /nt %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Interpreting the parable of the talents and the parable of the minas {#the-parable-of-the-talents-and-the-parable-of-the-minas-interpreting-the-parable-of-the-talents-and-the-parable-of-the-minas}
 
-{{< subjects >}}
-<a href="/subject-index/#parables-parable-of-the-talents">Parables > Parable of the talents</a>
-<a href="/subject-index/#parables-parable-of-the-minas">Parables > Parable of the minas</a>
-{{< /subjects >}}
+{{< properties
+stags="Parables > Parable of the talents | Parables > Parable of the minas"
+>}}
 
 While these two parables are not identical in all the particulars, they teach more or less the same thing. When interpreting a parable, an important first step is identifying exactly what things in the parable stand for/represent. With this in mind:
 
@@ -355,7 +350,7 @@ While these two parables are not identical in all the particulars, they teach mo
 - In both these parables, the going away of the master represents Christ's ascension to be with the Father in heaven. We can no longer see Christ directly just like the servants in the passage cannot see their master, as he is far away. The return of the master represents the second advent of Christ (his *parousia*, Gk. [παρουσία](https://biblehub.com/greek/3952.htm)).
 - In both these parables, the rewards given to the servants after the master's return represent the rewards that will be bestowed upon believers after Christ's second advent in the judgement and reward of the Church.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Conclusion {#the-parable-of-the-talents-and-the-parable-of-the-minas-conclusion}
 
@@ -365,7 +360,7 @@ We should take care to not get arrogant and think to ourselves that we deserve s
 
 If (only by leaning on God's power, not ourselves) we accomplish that which he commanded us to do, rather than getting a swelled head and feeling that we are most special, we should instead humbly bow our heads and acknowledge that we have just done that which we ought as servants (Luke 17:10). What is praiseworthy in rendering to our Master that which is His right to demand? (And imperfectly at that, for no matter how hard we try, we are bound to present to him only the crudest works, like unskilled children proudly holding up rags while not even knowing that they ought to instead feel shame).
 
-<!-- --- -->
+<!-- slide-break -->
 
 In reward for the (proportionally) small matter of doubling ten minas, ours is a God who puts men in charge of ten cities. His grace is positively scandalous. Who are we to rule ten cities?
 

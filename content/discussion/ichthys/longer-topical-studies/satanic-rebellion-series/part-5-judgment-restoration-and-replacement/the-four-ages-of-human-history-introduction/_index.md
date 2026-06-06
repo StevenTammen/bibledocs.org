@@ -24,17 +24,17 @@ TODO: Summary
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 TODO: Summary
 
-
+<!-- summary -->
 
 {{% content %}}
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Audio clip from Ichthys {#audio-clip-from-ichthys}
 
@@ -47,7 +47,7 @@ srcend="45:31"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -60,7 +60,7 @@ These newly appointed cherubim, in addition to taking over the devil's former du
 - <u>Church Age</u>: Christ having been revealed in Person in the (virgin-born) flesh in humility as the suffering Servant.
 - <u>Millennial Age</u>: Christ having been revealed in Person in the (resurrected) flesh in glory as the King.
 
-<!-- --- -->
+<!-- slide-break -->
 
 As we saw in the first installment of this series, Satan, in his role as Lucifer (the Morning Star), was meant to be a unique reflection of the glory of God. In this role, he was the creature counterpart of the divine Angel of the Lord, the pre-incarnate Jesus Christ (see [Part 4, section III.3.b](https://ichthys.com/SR4(SWS).htm#Angel_of_the_Lord)). After the devil's rebellion occasioned the events we call human history, however, the appointment of a college of four cherubim was symbolically necessary. For Jesus Christ would personally supplant the devil in a transcendent way, so that the function of the cherubim from the standpoint of reflecting the divine glory would now be directed towards the victor of human history, our Savior. So it is that the four cherubs who attend God's throne represent four important aspects of Christ's unique Person and work. Moreover in doing so (a point which is apropos of our immediate topic), the symbolism which each of the four faces of the cherubim espouses corresponds to a primary aspect of Christ's person and work as it is revealed within each of the four ages of human history:
 
@@ -71,7 +71,7 @@ As we saw in the first installment of this series, Satan, in his role as Lucifer
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Summary points {#summary-points}
 
@@ -86,7 +86,7 @@ In this capacity, they represent the four major aspects of Christ's role as the 
 - <u>Church Age</u>: Christ having been revealed in Person in the (virgin-born) flesh in humility as the suffering Servant.
 - <u>Millennial Age</u>: Christ having been revealed in Person in the (resurrected) flesh in glory as the King.
 
-<!-- --- -->
+<!-- slide-break -->
 
 While the cherubim have replaced parts of Satan's initial role in creation, Jesus Christ as *the* Morning Star will be Satan's ultimate replacement, a resurrected human being taking over the position of pre-eminent creature (mirroring the divine Angel of the Lord as a reflection of God's glory).
 
@@ -97,7 +97,7 @@ In line with that underlying replacement, the function of the cherubim from the 
 - <u>Human-face</u>: (Church): Christ come in person in the flesh in humility as the Servant.
 - <u>Eagle-face</u>: (Millennium): Christ come in person in the flesh in glory as the King.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Follow-on topics {#follow-on-topics}
 
@@ -107,7 +107,7 @@ It also demonstrates the principle of "power corrupts". From any reasonable way 
 
 Understanding Satan's previous role also helps us better appreciate Christ's identity as *the* Morning Star. After His session in the court of the Father (so to speak), the God-Man Jesus Christ sits at the Father's right hand, and all judgement and authority has been given over to Him. As the perfect Son of Man, He reflects God's glory as the firstborn Prince of the Universe. 
 
-<!-- --- -->
+<!-- slide-break -->
 
 Last lesson we were focused on the different periods of sojourning through the wilderness of Satan's *kosmos* believers have faced throughout human history. Now we are examining human history through the lens of Christ's relationship to humanity as our Savior-King. The animal skins given to Adam and Eve immediately after the Fall (Genesis 3:21) already pointed to the promise of a Savior for humanity. Then more promises were given to the patriarchs, speaking of a Messiah for the bloodline of Abraham/Isaac/Jacob specifically. Then Jesus Christ came in the flesh to make good on God's covenant promises, like we discussed when we talked about the two phases of human history. And finally, Christ will return in glory with the crown and establish His perfect kingdom upon the Earth.
 
