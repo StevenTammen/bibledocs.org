@@ -194,7 +194,7 @@ srctitle="Early Church and Trinity: Father and Son"
 srcstart="537"
 srcend="974"
 
-stags="Trinity > All members share the same essence | Trinity > All members are distinct from one another | Church History > Councils and Creeds > Definitions of > Trinity" 
+stags="Trinity > All members share the same essence | Trinity > All members are distinct from one another | Church history > Councils and Creeds > Definitions of > Trinity" 
 
 >}}
 

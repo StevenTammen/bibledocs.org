@@ -51,7 +51,7 @@ srctitle="Arius and Nicea"
 srcstart="14"
 srcend="473"
 
-stags="Church history > Arius| Church History > Lucian of Antioch | Trinity > Heresies related to > Arianism"
+stags="Church history > Arius| Church history > Lucian of Antioch | Trinity > Heresies related to > Arianism"
 
 >}}
 

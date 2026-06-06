@@ -4047,7 +4047,7 @@ The same cannot be said for trying to separate believing Israel from the Church.
 
 {{< properties
 
-stags="Church > Is not a human institution or physical building, but inclusion is based upon saving faith in Jesus Christ"
+stags="Church > Is not a human institution or physical building, but is based upon saving faith in Jesus Christ"
 
 >}}
 
