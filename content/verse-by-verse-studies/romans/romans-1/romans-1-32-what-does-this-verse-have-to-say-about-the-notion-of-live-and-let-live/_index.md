@@ -22,11 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Romans 1:32 calls out the practice of "approving of" evil—different from "doing", to be sure, but still problematic. The thing is, making sure we do not approve of evil is a very different thing than constantly injecting ourselves into the business of others to shove the truth down their throats. "Not approving of evil" thus does not necessarily equate to "going around and telling people they are doing evil and will go to hell" (and so on), in other words. Sometimes, per Matthew 7:6 ("pearls before swine"), we instead need to bite our tongue, and make sure we are wise in terms of where we direct our words and efforts. For the time is short, and we truly don't have the resources to waste on people who won't listen to the truth in any capacity whatsoever. These people aren't somehow irredeemable/beyond salvation or somehow unworthy of the gospel message (perish the thought!)---the point is more just that the time may not yet be right for them, and if it is in fact not yet right for them, then we shouldn't push things at present. Being circumspect about when we speak up like this is being prudent and godly—rather than somehow improperly worshiping the notion of "live and let live", or "approving of evil".
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -34,7 +34,7 @@ Romans 1:32 calls out the practice of "approving of" evil—different from "doin
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 "Live and let live" is a popular sentiment in our modern culture. (At least among the younger generation—speaking from my time in college, the idea of "you do you" very much permeated the expected social fabric). Being frustrated by this over-emphasized tolerance, it might be tempting to interpret verse 32's condemnation of approving evil works as *carte blanch* for poking our nose into all manner of sinful conduct in the lives of others. After all, if one believes silence implicitly means approval, then we really would have no choice, right? But does silence really mean approval? And what exactly does "silence" (=not speaking up) mean anyway, in practice? How does it interact with the concept of "pearls before swine"?
 

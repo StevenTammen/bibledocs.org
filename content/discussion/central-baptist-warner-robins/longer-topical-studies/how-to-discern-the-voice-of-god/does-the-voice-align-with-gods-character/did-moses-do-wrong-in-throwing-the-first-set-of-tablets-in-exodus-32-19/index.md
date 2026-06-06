@@ -20,19 +20,19 @@ This page will examine whether this destruction of the first set of tablets refl
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 In the Exodus 34 passage that the Workbook drew from this week, Moses brings a second set of stone tablets to God to write the Ten Commandments upon again. The first set of tablets was broken by Moses in Exodus 32:19, when "his anger was kindled" after he came upon the Israelites dancing around and worshiping the golden calf.
 
 This page will examine whether this destruction of the first set of tablets reflects poorly upon Moses or not, insofar as it is actually something that we might be able to know.
 
-
+<!-- summary -->
 
 {{% content %}}
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### A simple formulation of the question {#a-simple-formulation-of-the-question}
 

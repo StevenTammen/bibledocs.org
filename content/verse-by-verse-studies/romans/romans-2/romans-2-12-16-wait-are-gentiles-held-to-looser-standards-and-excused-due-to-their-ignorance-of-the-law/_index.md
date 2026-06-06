@@ -24,13 +24,13 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Romans 2:12-16, far from saying that the Gentiles who die without ever having the words of the Law will somehow be excused on account of ignorance, is instead more making the point that even if people hear the words of the Law, they will not be saved merely on account of hearing it, but must actually obey it in the true sense. And so it is that Jews who trusted only in the Law for their salvation will find themselves condemned on Judgement Day just like those Gentiles who never even heard the Law to begin with—for no man can be justified by the works of the Law (Romans 3:20)---while Gentiles who ended up submitting to the Law in practice (by following their consciences), despite not having the blessing of its actual words, will at that time nonetheless be declared righteous.
 
 This is because there is no salvation to be had by Law-keeping; we cannot work our way into heaven. "Obeying the Law", then, is not mere physical observance of this rule or that regulation, but believing in the Law's true message: that we are hopeless sinners incapable of making it on our own, in great need of God's mercy to provide a substitute for us.
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -38,7 +38,7 @@ This is because there is no salvation to be had by Law-keeping; we cannot work o
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The general question {#the-general-question}
 

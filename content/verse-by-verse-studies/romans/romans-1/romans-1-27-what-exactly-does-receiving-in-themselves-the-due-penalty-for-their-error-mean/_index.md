@@ -22,11 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 The text in Romans 1:27 ("receiving in themselves the due penalty for their error") is sort of ambiguous as to what the error in view is, as well as what the penalty (or negative result/consequence) for said error is. As I see things, things make the most sense if you view this clause as being inclusive and broad in its application rather than exclusive and specific.
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -34,7 +34,7 @@ The text in Romans 1:27 ("receiving in themselves the due penalty for their erro
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The interpretive challenge: identifying the specific referents for the error and the penalty {#the-interpretive-challenge-identifying-the-specific-referents-for-the-error-and-the-penalty}
 

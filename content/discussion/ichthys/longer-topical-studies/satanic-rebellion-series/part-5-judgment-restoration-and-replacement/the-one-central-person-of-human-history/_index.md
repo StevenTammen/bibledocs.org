@@ -24,17 +24,17 @@ TODO: Summary
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 TODO: Summary
 
-
+<!-- summary -->
 
 {{% content %}}
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Audio clip from Ichthys {#audio-clip-from-ichthys}
 
@@ -47,7 +47,7 @@ srcend="17:49"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -57,7 +57,7 @@ srcend="17:49"
 
 Jesus Christ is the linchpin of human history. He is the mystery shrouded before the cross, revealed after the cross (Eph.1:9-10; 3:9-10; Col.1:26-27). He is *the* Son of God (undiminished, genuine deity: Matt.16:16; Jn.1:18), and *the* Son of Man (perfect, genuine humanity: Mk.8:31). He is uniquely Man and God, and so alone is qualified to sacrifice Himself to God on Man's behalf at the cross, the turning point of all human history. Like the highest mountain peak, or a giant vortex into which everything is eventually drawn, Jesus Christ, in the most complete sense of God's point of view, ***is*** history, because human history has no purpose without His saving work on the cross (which is the entire point of history).
 
-<!-- --- -->
+<!-- slide-break -->
 
 From the first, prehistoric Eden (see [Part 1 of this series](https://ichthys.com/SR1copy.htm)), to the garden of Eden, to the dark world in which we now find ourselves (wherein He is the only light: Jn.1:4-5; 1:9; 3:19; 8:12; 1Jn.2:8), to the coming Kingdom of God, Jesus Christ is and has always been the visible Person of God, the face of God (2Cor.4:6; Heb.1:3), and the ultimate issue for every human being who has ever lived. No one, therefore, can approach God the Father apart from embracing the Son and His saving work:
 
@@ -81,7 +81,7 @@ Everything in the heavens and on the earth was created by Him (Jesus Christ), th
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Discussion {#discussion}
 
@@ -96,7 +96,7 @@ Summary points:
   - Jesus is the only light in this dark world: Jn.1:4-5; 1:9; 3:19; 8:12; 1Jn.2:8
   - Jesus is and has always been the visible Person of God, the face of God (2Cor.4:6; Heb.1:3)
 
-<!-- --- -->
+<!-- slide-break -->
 
 Follow-on topics:
 

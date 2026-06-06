@@ -27,19 +27,19 @@ Millennial day three was the separation to God of a holy **people** (correspondi
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 As we have examined previously, each of the seven Genesis days of re-creation correspond to one millennial day of human history. In this lesson we are covering days three and four. While days one and two are paired in that they focus primarily on acts of separation, days three and four are paired in that they involve both separation ***and*** filling. In day three of re-creation, God separates dry ground from the water and He fills the earth with vegetation. In day four of re-creation, God fills the heavens with the sun, moon, and stars and separates the light from the darkness. 
 
 Millennial day three was the separation to God of a holy **people** (corresponding to the separation of dry land) and the first substantial filling of God's family through the seed of Abraham (corresponding to the creation of vegetation). Millennial day four was the separation of Israel, a holy **nation** (corresponding to the separation of light from darkness) to establish an environment to seek the truth, a nation which would provide a witness of God's truth to all other nations (corresponding to the filling of the heavens with the sun, moon, and stars). In this lesson we will also discuss the ten commandments and other aspects of God's separating and sanctifying for Himself a holy family. 
 
-
+<!-- summary -->
 
 {{% content %}}
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Audio clip from Ichthys {#audio-clip-from-ichthys}
 
@@ -52,28 +52,28 @@ srcend="37:19"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
 The second two Genesis days of re-creation are clearly paired in that they alone witness acts of both <u>separation</u> ***and*** <u>filling</u>: dry ground separated from water *and* the filling of the earth with vegetation (Day 3); the sun, moon and stars filling the heavens *and* separating the light from the darkness (Day 4). Note that separation precedes filling on day three, while filling precedes separation on day four, evidencing the progression (from separation to filling) that we are observing here. The second pair of days provides more essential groundwork for physical life through the provision of dry land and the specific division of time. This second pair of days *also* provides the first two installments of re-filling the empty world through the creation of vegetation and heavenly bodies. This physical provisioning on the one hand and filling up of the empty world on the other is respectively analogous to the further building up of essential spiritual groundwork on the one hand, and, on the other, to the enlistment of believers provided by the second two millennial days of the Jewish age.
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Day #3 – Jewish age millennium #1</u>: 
 Just as the separating of dry land on day three of re-creation was necessary for human life, so the separation to God of a holy ***people*** during the third millennial day was essential for establishing an environment in which truth and spiritual growth could flourish. And just as the creation of vegetation on that third Genesis day was the first installment in the re-filling of the empty world, so the calling out of the seed of Abraham provides the first substantial and contiguous echelon of believers in the process of replacing the devil and his followers with a people after God's own heart, with the faith of Abraham, the "father of many nations" providing the pattern of salvation for all who would later believe (Rom.4:17; Gal.3:7-9).
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Day #4 – Jewish age millennium #2</u>: 
 Just as the separation of light from darkness into distinct and regular phases on the fourth Genesis day was necessary to provide a regular flow and sequence for time (required by human life), so the separation to God of a holy ***nation*** during the fourth millennial day was essential for stabilizing the environment in which truth and spiritual growth could flourish and then be witnessed to the nations. And just as the heavens were filled with the celestial *lights* on the fourth Genesis day, so the establishment of Israel, a holy nation to be a *light* to all the nations, was an essential step in the expansion of the family of God (Is.42:6; 43:21; 49:6; Acts 13:47).
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Separation</u>: 
 The calling out by God of a specific family and its development into a unique, witnessing nation necessitated its separation, its sanctification from all that was profane in the pagan world in which it existed. The mark of God's promise to Abraham of a holy progeny, namely circumcision, served to distinguish Israel as unique in God's eyes, and was also, importantly, a symbolic testimony of belief in God and His promises (Rom.2:29). The Mosaic Law was also a means of separation, sanctification and demarcation, for it called on Israel to "be holy as I am holy" (Lev.11:44-45; 1Pet.1:16), and an essential underlying principle in all of its precepts was to separate the holy from the profane (Lev.10:10; 20:25-26). The Ten Commandments, the essence of the Law (cf. Deut.4:13), speak to this same basic idea of separating the people of God from anything evil, sanctifying our conduct in life's most important areas:
 
-<!-- --- -->
+<!-- slide-break -->
 
 Area #1: Holiness toward God (sanctifying and separating Him in what we think, do and say):
 
@@ -83,19 +83,19 @@ Area #1: Holiness toward God (sanctifying and separating Him in what we think, d
 
 3\. <u>No misuse of His name</u>: guarding the sanctity of how we *represent* Him in our *speech*.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Area #2: Holiness toward Life (sanctifying and separating ourselves from reliance on the world):
 
 4\. <u>Keep the Sabbath</u>: guarding the sanctity of the day of rest; trusting God, not ourselves, for provision in this life  (cf. Ezek.20:12; 20:20).  **n.b.**: this is the only commandment not repeated in the New Testament. As the book of Hebrews emphatically assures us, specific day observance has been replaced with the reality of continual rest in and reliance on God (in the same way that animal sacrifice has been replaced by the reality of Christ's sacrifice: Heb.4:1-11; cf. Rom.14:5-8; Col.2:16-17). Since the cross, we are to rest in God at all times, not just on one particular day.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Area #3: Holiness toward Authority (sanctifying and separating ourselves from rebellion against divinely constituted authority):
 
 5\. <u>Honoring Father and Mother</u>: guarding the sanctity of our behavior toward legitimate authority, all those who under the charge of God function as stewards in His place towards us (parents being the first and prime example).
 
-<!-- --- -->
+<!-- slide-break -->
 
 Area #4: Holiness toward Others (sanctifying and separating ourselves from infringement upon the right of others to use this life to seek God):
 
@@ -109,7 +109,7 @@ Area #4: Holiness toward Others (sanctifying and separating ourselves from infri
 
 10\. <u>No Covetousness</u>: guarding the sanctity of freedom of action in general from threats of evil action and intent which impede, hinder and prevent the search for God.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Finally, the firm establishment of the nation Israel with the ascension of David, a clear type of Jesus Christ (Ps.110), provided the dark world with a shining example of the righteousness and accompanying blessings from God upon a nation that followed Him and His perfect divine standards, standards (expressed in the Law, the Old Testament and the sanctified nation) which regulated an environment for seeking God and witnessing to Him in the midst of a dark world in a way analogous to the regulating function of the heavenly bodies that produce the sequence of light necessary for human existence (cf. Ex.19:5-6; Lev.20:26):
 
@@ -125,12 +125,12 @@ And He said, "It is too small a thing for you to be My servant, to establish the
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Filling</u>: 
 With God's promise of progeny to Abraham and the birth of Isaac, the process of expansion of the family of God began in earnest, and the line of faith from Adam to Seth, a linear witness with little numerical expansion in the world (as the small remaining remnant of Noah and his seven family members at the time of the flood demonstrates: 1Pet.3:20), now develops into a significant expansion in breadth as Israel the vine begins to flourish under the now more favorable circumstances and to spread out in the world in a manner analogous to the filling of the earth with vegetation on the third Genesis day (Ps.80:8-16; Is.5:1-2; Jer.2:21; Ezek.17; Hos.10:1; cf. Jn.15:1). The pledge of circumcision (the mark of a people apart) and the giving of the Law (the perfect separation of right and wrong) served as prime elements of this sanctification. The formation (from this expanded family) of a holy nation was also key to God's plan of replacement, for as He says to Moses on the occasion of the golden calf rebellion, "I will make you into a great nation" (Ex.32:10). The protection of Israel in Egypt while her numbers grew, her testing under a harsh Pharaoh, her training in the wilderness, and the divinely directed and aided expulsion of the Canaanite tribes were all part and parcel of God's expansion of His family out of one man's seed. With the coming of the nation of Israel, a definite state within definable geographic boundaries under the initial direction of David, a clear type of Christ, the process of filling and replacement continues for the fulfillment of God's promise to Abraham that his descendants would be more numerous than the stars of the heavens, analogous to the filling of the heavens on the fourth Genesis day (Gen.15:5; 22:17; 26:4; Deut.1:10; 1Chron.27:23; Neh.9:23; Heb.11:12; cf. Gen.37:9; Rev.12:1), and a harbinger of the replacement of the fallen angelic "stars" with believing "stars" who choose for God (compare Rev.12:4 with Rev.12:1; being Abraham's spiritual seed, we are all stars in God's firmament: Rom.4:16).
 
-<!-- --- -->
+<!-- slide-break -->
 
 As the second pair of Genesis days focused on the completion of an essential environment for physical life through the separation of dry ground from water and of light from the darkness (specifically, of concentrated, sequential light, not the general division of light from darkness accomplished on day one), so the second pair of millennial days (the Jewish age) finds God in His plan for human history sanctifying for Himself first a people, then a nation, to provide first an expanded family of God that would be holy and separate from the rest of the pagan world, then, as a nation, a safe haven for the worldwide testimony of God through the light of Israel.
 
@@ -138,7 +138,7 @@ And as the second pair of Genesis days focuses on the initial filling of the ear
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Summary points {#summary-points}
 
@@ -149,7 +149,7 @@ We will be arguing that there is progression involved in our seven days from sep
 
 Separation continues to represent God's provisioning of the essential spiritual groundwork (just as with days one and two), while filling represents God's adoption of believers into His eternal family, replacing Satan and the fallen angels.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Separation in day three:
 
@@ -163,7 +163,7 @@ Filling in day three:
 - Millennial day of human history: The calling out of the seed of Abraham.
   - Provides the first substantial and contiguous echelon of believers in the process of replacing the devil and his followers with a people after God's own heart, with the faith of Abraham, the "father of many nations" providing the pattern of salvation for all who would later believe (Rom.4:17; Gal.3:7-9).
 
-<!-- --- -->
+<!-- slide-break -->
 
 Separation in day four:
 
@@ -177,7 +177,7 @@ Filling in day four:
 - Millennial day of human history: The establishment of Israel, a holy nation.
   - Israel serving as a light to all the nations was an essential step in the expansion of the family of God (Is.42:6; 43:21; 49:6; Acts 13:47).
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Separation</u>:
 
@@ -188,7 +188,7 @@ The calling out by God of a specific family and its development into a unique, w
 
 The Ten Commandments, the essence of the Law (cf. Deut.4:13), speak to this same basic idea of separating the people of God from anything evil, sanctifying our conduct in life's most important areas:
 
-<!-- --- -->
+<!-- slide-break -->
 
 Area #1: Holiness toward God (sanctifying and separating Him in what we think, do and say):
 
@@ -198,19 +198,19 @@ Area #1: Holiness toward God (sanctifying and separating Him in what we think, d
 
 3\. <u>No misuse of His name</u>: guarding the sanctity of how we *represent* Him in our *speech*.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Area #2: Holiness toward Life (sanctifying and separating ourselves from reliance on the world):
 
 4\. <u>Keep the Sabbath</u>: guarding the sanctity of the day of rest; trusting God, not ourselves, for provision in this life  (cf. Ezek.20:12; 20:20).  **n.b.**: this is the only commandment not repeated in the New Testament. As the book of Hebrews emphatically assures us, specific day observance has been replaced with the reality of continual rest in and reliance on God (in the same way that animal sacrifice has been replaced by the reality of Christ's sacrifice: Heb.4:1-11; cf. Rom.14:5-8; Col.2:16-17). Since the cross, we are to rest in God at all times, not just on one particular day.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Area #3: Holiness toward Authority (sanctifying and separating ourselves from rebellion against divinely constituted authority):
 
 5\. <u>Honoring Father and Mother</u>: guarding the sanctity of our behavior toward legitimate authority, all those who under the charge of God function as stewards in His place towards us (parents being the first and prime example).
 
-<!-- --- -->
+<!-- slide-break -->
 
 Area #4: Holiness toward Others (sanctifying and separating ourselves from infringement upon the right of others to use this life to seek God):
 
@@ -224,13 +224,13 @@ Area #4: Holiness toward Others (sanctifying and separating ourselves from infri
 
 10\. <u>No Covetousness</u>: guarding the sanctity of freedom of action in general from threats of evil action and intent which impede, hinder and prevent the search for God.
 
-<!-- --- -->
+<!-- slide-break -->
 
 As to the expansion of this family/people to encompass a full nation, the firm establishment of the nation Israel with the ascension of David—a clear type of Jesus Christ (Ps.110)---provided the dark world with a shining example of the righteousness and accompanying blessings from God upon a nation that followed Him and His perfect divine standards
 
 - These divine standards (expressed in the Law, the Old Testament and the sanctified nation) regulated an environment for seeking God and witnessing to Him in the midst of a dark world in a way analogous to the regulating function of the heavenly bodies that produce the sequence of light necessary for human existence (cf. Ex.19:5-6; Lev.20:26).
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Filling</u>:
 
@@ -238,13 +238,13 @@ With God's promise of progeny to Abraham and the birth of Isaac, the process of 
 
 - The pledge of circumcision (the mark of a people apart) and the giving of the Law (the perfect separation of right and wrong) served as prime elements of this sanctification. 
 
-<!-- --- -->
+<!-- slide-break -->
 
 The formation (from this expanded family) of a holy nation was also key to God's plan of replacement, for as He says to Moses on the occasion of the golden calf rebellion, "I will make you into a great nation" (Ex.32:10). The protection of Israel in Egypt while her numbers grew, her testing under a harsh Pharaoh, her training in the wilderness, and the divinely directed and aided expulsion of the Canaanite tribes were all part and parcel of God's expansion of His family out of one man's seed.
 
 With the coming of the nation of Israel, a definite state within definable geographic boundaries under the initial direction of David, a clear type of Christ, the process of filling and replacement continues for the fulfillment of God's promise to Abraham that his descendants would be more numerous than the stars of the heavens, analogous to the filling of the heavens on the fourth Genesis day (Gen.15:5; 22:17; 26:4; Deut.1:10; 1Chron.27:23; Neh.9:23; Heb.11:12; cf. Gen.37:9; Rev.12:1), and a harbinger of the replacement of the fallen angelic "stars" with believing "stars" who choose for God (compare Rev.12:4 with Rev.12:1; being Abraham's spiritual seed, we are all stars in God's firmament: Rom.4:16)
 
-<!-- --- -->
+<!-- slide-break -->
 
 Summary - separation:
 
@@ -254,7 +254,7 @@ Summary - filling:
 
 - As the second pair of Genesis days focuses on the initial filling of the earth with vegetation and of the heavens with the sun, the moon and the stars, so the second pair of millennial days (the Jewish age) finds the first significant expansion of the family of God in human history (through Israel the vine, and the nation Israel, as numerous as the stars), and so, in terms of numbers, the beginning of the process of replacing those angelic creatures who have chosen to disassociate themselves from the family of God.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Follow-on topics {#follow-on-topics}
 
@@ -267,7 +267,7 @@ For days one and two, we spoke of how God's truth and freedom are foundational c
 
 In other words, to best enable human spiritual flourishing, it became necessary for God to set apart for Himself a sanctified people who would act as His light among other peoples. And then, in like manner, this people became a full nation, in order to act as God's light among other nations.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Consider how well the symbolism fits together in all this:
 
@@ -277,7 +277,7 @@ Consider how well the symbolism fits together in all this:
 
 There is a lot to unpack across the cases, but the point for us to consider is that it really does all fit together, even in the details.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Further discussion {#further-discussion}
 

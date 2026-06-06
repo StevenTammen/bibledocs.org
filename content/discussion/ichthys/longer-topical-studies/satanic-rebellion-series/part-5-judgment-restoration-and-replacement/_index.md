@@ -33,7 +33,7 @@ TODO: Summary
 
 ### Content {#introduction-sanctification-and-the-plan-of-god-src-ichthys-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Audio clip from Ichthys {#introduction-sanctification-and-the-plan-of-god-src-ichthys-audio-clip-from-ichthys}
 
@@ -46,23 +46,23 @@ srcend="04:10"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
-In our previous lesson, we discussed the devil's organization, tactical plans and procedures, and his integrated system for the enslavement of humanity. We now turn our attention to God's point of view and shall see how He has been in complete control of the process of human history all along. In this final installment of the present series, we shift our focus to a chronological and strategic overview of God's plan for humanity as it moves resolutely and inexorably forward toward history's final conclusion, decisively pushing aside in the process all satanic resistance, defeating the devil at every turn until he and all the evil he represents are finally eradicated from the universe. As is the case with so many aspects of divine truth, the process of judgment, restoration and replacement, a threefold set of actions that can stand as short-hand for the plan of God overall, are themselves divisible into three distinct parts. <!-- --- -->In this respect, they parallel the believer's sanctification (see [Peter #13](https://ichthys.com/Pet13.htm)), the process whereby an unsaved human being is restored to complete and eternal fellowship with God better than what was lost at the fall:
+In our previous lesson, we discussed the devil's organization, tactical plans and procedures, and his integrated system for the enslavement of humanity. We now turn our attention to God's point of view and shall see how He has been in complete control of the process of human history all along. In this final installment of the present series, we shift our focus to a chronological and strategic overview of God's plan for humanity as it moves resolutely and inexorably forward toward history's final conclusion, decisively pushing aside in the process all satanic resistance, defeating the devil at every turn until he and all the evil he represents are finally eradicated from the universe. As is the case with so many aspects of divine truth, the process of judgment, restoration and replacement, a threefold set of actions that can stand as short-hand for the plan of God overall, are themselves divisible into three distinct parts. <!-- slide-break -->In this respect, they parallel the believer's sanctification (see [Peter #13](https://ichthys.com/Pet13.htm)), the process whereby an unsaved human being is restored to complete and eternal fellowship with God better than what was lost at the fall:
 
 - <u>Initial sanctification</u>: in Christ, we enter into the family of God through faith in Jesus and are restored to fellowship (though the full reality of these blessings to come is yet future). Just as God restored light to the universe in Genesis 1:3, so new believers are transferred out of darkness into the light by believing in the true light of the world, Jesus Christ (Jn.8:12; Col.1:13; cf. Jn.1:5; 1:9), and so *positionally* become "light in the Lord" (Eph.5:8).
 - <u>Experiential or progressive sanctification</u>: by following Christ, we are transformed in this life through spiritual growth toward the goal of living like restored persons in spite of the sin within us and the evil in the world around us (demonstrating thereby the power of God to His glory). Just as God sustains light in the universe as a witness in this dark world (Ps.19:1-6; 74:16; 136:7-9; Is.40:26 Jer.31:35; Rom.1:20), so as believers we are charged to continue to reflect *experientially* His light as we make our way through life (2Cor.3:18; Eph.5:8).
 - <u>Ultimate sanctification</u>: with Christ, we are literally transformed through resurrection, bringing the process of restoration to completion (1Jn.3:2). Just as God will at the end of time replace the limited, restored light of the sun with the glory of the Son and of Himself (Rev.21:23), so we believers will *ultimately* shine forever like stars in the firmament in the Kingdom of God forever (Dan.12:3; 1Cor.15:41-43; cf. Rev.2:28).
 
-<!-- --- -->
+<!-- slide-break -->
 
 God's overall plan of universal history is constructed in parallel fashion to this individual plan of sanctification for believers. Phase one of judgment, restoration and replacement sets the stage for restoring God's harmonious universal order in a positional way in the person of Adam (though the actual realization of this is yet future). Phase two (otherwise known as human history) is bringing about an experiential restoration in the persons of believers of all eras, and will reach its culmination in the millennial rule of Jesus Christ (where grace, truth and goodness will rule in spite of the continued presence of sin). Phase three will see the destruction of the present material universe, the final execution of Satan and his followers, and their final replacement with perfected, resurrected human beings, along with other perfect (angelic) creatures living forever with the Father and the Son in a perfect world without spot or blemish.
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points and follow-on topics {#introduction-sanctification-and-the-plan-of-god-src-ichthys-summary-points-and-follow-on-topics}
 
@@ -71,13 +71,13 @@ Summary points:
 - This study: A "chronological and strategic overview of God's plan for humanity as it moves resolutely and inexorably forward toward history's final conclusion, decisively pushing aside in the process all satanic resistance, defeating the devil at every turn until he and all the evil he represents are finally eradicated from the universe."
 - Even us finite, limited human beings plan. So why wouldn't the Omniscient God of the universe have a plan? Except unlike our imperfect plans, God's Plan is completely perfect and all-encompassing. See [BB4B Soteriology, §Foreknowledge and the Divine Decrees](https://ichthys.com/4B-Soterio.htm#a.__Foreknowledge_and_the_Divine_Decrees_).
 - While we may never be able to plumb the depths of God's wisdom and understand all the details, there is value in us studying exactly how God's Plan works, to make sure we are marching in line with it, rather than trying to go against it.
-- This is true both of us personally, and also of the world in general. As believers, we need to make sure we are matching ourselves to God's purposes at both the microscopic and macroscopic scales.<!-- --- -->
+- This is true both of us personally, and also of the world in general. As believers, we need to make sure we are matching ourselves to God's purposes at both the microscopic and macroscopic scales.<!-- slide-break -->
 - While these two perspectives are indeed different, they also share things in common. In particular, God's redemptive actions for us as individuals closely mirror His redemptive actions for the world in general.
   - Just how we are positionally made clean when we believe, so too did God positionally start redeeming the universe that Satan's rebellion had polluted by creating mankind. This, in essence, started the countdown on the replacement of Satan and the fallen angels.
   - Just how we work towards holiness day by day as part of our experiential sanctification, so too is God working out an experiential restoration of this corrupted creation through the spread of His Truth in the world.
   - Just how we will be literally transformed by resurrection (receiving new bodies without sin or corruption), so too will God literally remake the heavens and earth anew, with all sin and unrighteousness eradicated and banished.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Follow-on topics:
 
@@ -122,7 +122,7 @@ TODO: Summary
 
 ### Content {#judgement-restoration-and-replacement-i-src-ichthys-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Audio clip from Ichthys {#judgement-restoration-and-replacement-i-src-ichthys-audio-clip-from-ichthys}
 
@@ -135,7 +135,7 @@ srcend="12:50"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -143,23 +143,23 @@ srcend="12:50"
 
 Untold eons before the dawn of human history, the devil conceived and led a rebellion against God (the subject of this series). With his thinking corrupted by his own arrogance, Satan brought himself and others to believe that God would be unable (by reason of His own character and perfection) to call the devil to account (see [Part 1 of this series](https://ichthys.com/SR1copy.htm)). This attempted coup d'état was, much to Satan and his supporters' surprise, met with an overwhelming initial judgment whereby the earth, the focus of the universe and center of Satan's rebellion, was destroyed, and the entire universe blacked-out (see [Part 2 of this series](https://ichthys.com/sr2-copy.htm)). The devil, along with the rest of angelic creation, was left to tremble in anticipation of what God would do next. Instead of an immediate and final termination of Satan and his followers, however, God did something that had to have come as a complete and utter surprise to all of His creatures: He re-created what had previously been destroyed.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### 2. Restoration I: of Earth {#judgement-restoration-and-replacement-i-src-ichthys-2-restoration-i-of-earth}
 
-The ways of God are truly unknowable, and marvelously so (Rom.11:33). In all His ways, He is a God "who hides Himself" (Is.45:15; cf. Deut.29:29; Prov.25:2), who acts not as the world would expect or assume, but according to His boundless and unsearchable wisdom (Job 5:9; 11:7; Ps.139:6; Eccl.8:17; Is.40:28; Matt.11:25; Eph.3:8). Whether in blessing or in judgment, God seems to make a point of doing things in a way that makes the ears of all who hear of it "tingle" (1Sam.3:11-14; 2Ki.21:12; Jer.19:3). Our God is a God not only of unexpected judgments, but of magnificent surprises and blessed mysteries, the chief of which is Jesus Christ who now resides in all who believe in Him (Col.1:27; see also Eph.3:4-6; Col.2:2-3). <!-- --- -->The restoration of the universe in six days was just such an unanticipated, blessed event. God did not ignore Satan's rebellion (as the devil and his followers had hoped), nor did He entirely annihilate His creation (as all angelic kind must have feared). Instead, as is His wont, He did something astoundingly different, something that had never been done before (cf. Is.43:19; Jer.31:22). He re-created heaven and earth, making them habitable again, bringing illumination back to the universe with that most significant command "let there be light" (see [Part 2 of this series](https://ichthys.com/sr2-copy.htm)). And, most astoundingly, He created a new type of creature, morally accountable as were the angels, but lower than they in terms of power and knowledge, a creature whose very purpose would be to demonstrate the character and glory of God while replacing those who had disparaged it (see [Part 3 of this series](https://ichthys.com/Fall-sr3.htm)).
+The ways of God are truly unknowable, and marvelously so (Rom.11:33). In all His ways, He is a God "who hides Himself" (Is.45:15; cf. Deut.29:29; Prov.25:2), who acts not as the world would expect or assume, but according to His boundless and unsearchable wisdom (Job 5:9; 11:7; Ps.139:6; Eccl.8:17; Is.40:28; Matt.11:25; Eph.3:8). Whether in blessing or in judgment, God seems to make a point of doing things in a way that makes the ears of all who hear of it "tingle" (1Sam.3:11-14; 2Ki.21:12; Jer.19:3). Our God is a God not only of unexpected judgments, but of magnificent surprises and blessed mysteries, the chief of which is Jesus Christ who now resides in all who believe in Him (Col.1:27; see also Eph.3:4-6; Col.2:2-3). <!-- slide-break -->The restoration of the universe in six days was just such an unanticipated, blessed event. God did not ignore Satan's rebellion (as the devil and his followers had hoped), nor did He entirely annihilate His creation (as all angelic kind must have feared). Instead, as is His wont, He did something astoundingly different, something that had never been done before (cf. Is.43:19; Jer.31:22). He re-created heaven and earth, making them habitable again, bringing illumination back to the universe with that most significant command "let there be light" (see [Part 2 of this series](https://ichthys.com/sr2-copy.htm)). And, most astoundingly, He created a new type of creature, morally accountable as were the angels, but lower than they in terms of power and knowledge, a creature whose very purpose would be to demonstrate the character and glory of God while replacing those who had disparaged it (see [Part 3 of this series](https://ichthys.com/Fall-sr3.htm)).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### 3. Replacement I: Adam and the Last Adam for Satan {#judgement-restoration-and-replacement-i-src-ichthys-3-replacement-i-adam-and-the-last-adam-for-satan}
 
-Because of their possession of a life-span and range of knowledge beyond human comprehension, the decision of each individual angel as to whether to side with Satan or with God in the rebellion at issue was, for all intents and purposes, an irrevocable one (see [Part 2 of this series](https://ichthys.com/sr2-copy.htm)). But God offered a last olive branch in the person of Adam (see [Part 3 of this series](https://ichthys.com/Fall-sr3.htm)). Coupled with the unmistakable threat of impending final judgment embodied in the destruction of earth and the universal black-out along with the promise of mercy inherent in the restoration of heaven and earth, the creation of Adam that followed was a clear signal to all who had opposed God that this was their final chance at repentance; for they could indeed be replaced after all. <!-- --- -->In fact, with the command to Adam and Eve to propagate and fill the earth, it would take no great effort on the part of the fallen angels to deduce that within a relatively short amount of time (especially by angelic standards) the full complement of their replacements would come to be present on the restored earth; and so their time for deliberation would soon expire. Instead of reconsidering, however, Satan wasted no time in launching an all out effort to thwart God's plan of replacement, concluding that if only he could corrupt mankind, no further threat from this quarter would need to be feared. In the end, however, his very success merely opened the door for the promise and eventual reality of the coming of the Last Adam (1Cor.15:45), whose sacrifice would restore to life all of Adam's progeny who would choose to believe in Him.
+Because of their possession of a life-span and range of knowledge beyond human comprehension, the decision of each individual angel as to whether to side with Satan or with God in the rebellion at issue was, for all intents and purposes, an irrevocable one (see [Part 2 of this series](https://ichthys.com/sr2-copy.htm)). But God offered a last olive branch in the person of Adam (see [Part 3 of this series](https://ichthys.com/Fall-sr3.htm)). Coupled with the unmistakable threat of impending final judgment embodied in the destruction of earth and the universal black-out along with the promise of mercy inherent in the restoration of heaven and earth, the creation of Adam that followed was a clear signal to all who had opposed God that this was their final chance at repentance; for they could indeed be replaced after all. <!-- slide-break -->In fact, with the command to Adam and Eve to propagate and fill the earth, it would take no great effort on the part of the fallen angels to deduce that within a relatively short amount of time (especially by angelic standards) the full complement of their replacements would come to be present on the restored earth; and so their time for deliberation would soon expire. Instead of reconsidering, however, Satan wasted no time in launching an all out effort to thwart God's plan of replacement, concluding that if only he could corrupt mankind, no further threat from this quarter would need to be feared. In the end, however, his very success merely opened the door for the promise and eventual reality of the coming of the Last Adam (1Cor.15:45), whose sacrifice would restore to life all of Adam's progeny who would choose to believe in Him.
 
-<!-- --- -->
+<!-- slide-break -->
 
-##### 4. Satan's Reaction: The temptation and fall of Adam and Eve {#judgement-restoration-and-replacement-i-src-ichthys-4-satan-s-reaction-the-temptation-and-fall-of-adam-and-eve}
+##### 4. Satan's Reaction: The temptation and fall of Adam and Eve {#judgement-restoration-and-replacement-i-src-ichthys-4-satans-reaction-the-temptation-and-fall-of-adam-and-eve}
 
-The devil's temptation of Eve (and the subsequent fall of Adam as a result [(see Part 3 of this series](https://ichthys.com/Fall-sr3.htm)), was a textbook display of Satan's use of deception and of the anatomy of his most potent weapon, the lie (see [Part 4 of this series](https://ichthys.com/SR4(SWS).htm)). By leading our first parents into sin, the devil assumed that their corruption (and the inevitable corruption of all of their offspring) meant that mankind would forever be useless as potential replacements for himself and his followers. But God, all along, had planned a way to restore His human *progeny* through the *promise* of His Son, Jesus Christ. At the judgment in Eden, Eve is told that her progeny (Jesus Christ, and, in Him, all those who will choose for God) will be opposed to the devil's seed (most prominently antichrist, but including all those who choose against God), and that her Seed (the Savior of the world), will crush his head (i.e., achieve the ultimate victory over Satan and his antichrist and all who follow them). This victory would not be without cost, as the prophecy of the crushed heel foretells, speaking as it does of the price He would pay by His death on the cross for all our sakes (also prefigured in the coats of skin in Genesis 3:21 and in ritual animal sacrifice in general). <!-- --- -->By returning to God, saved human kind would in this way regain more than had originally been lost. For through the promised resurrection to come, elect mankind will not only become superior to angelic kind in every way, but will come to possess eternal life which can never again be compromised or called into question. The greatest blessing to rise forth out of the curse of Genesis chapter three, however, is the promise and the (present) reality of Jesus Christ. For in the wake of the death sentence Man brought upon himself by his own sin, God brought eternal life out of death through the death of His Son. This sacrifice, the true cost of which we can only dimly comprehend this side of heaven, demonstrated beyond any possible question or doubt the love of God for His creatures, for He sacrificed what was dearest to Him for our sake, despite our sin against Him. <!-- --- -->Just as God would not abandon His angelic creation, but restored the universe (even going so far as to offer His fallen creatures a second chance through the creation of Adam), so in the person of Jesus Christ, so far from not giving up on us, God has actually wed Himself to His creation for the sake of mankind. For in the person of Christ, true humanity has been inseparably and irrevocably united with undiminished deity, so that there can be no further doubt about His commitment to all His creatures who have chosen for Him:
+The devil's temptation of Eve (and the subsequent fall of Adam as a result [(see Part 3 of this series](https://ichthys.com/Fall-sr3.htm)), was a textbook display of Satan's use of deception and of the anatomy of his most potent weapon, the lie (see [Part 4 of this series](https://ichthys.com/SR4(SWS).htm)). By leading our first parents into sin, the devil assumed that their corruption (and the inevitable corruption of all of their offspring) meant that mankind would forever be useless as potential replacements for himself and his followers. But God, all along, had planned a way to restore His human *progeny* through the *promise* of His Son, Jesus Christ. At the judgment in Eden, Eve is told that her progeny (Jesus Christ, and, in Him, all those who will choose for God) will be opposed to the devil's seed (most prominently antichrist, but including all those who choose against God), and that her Seed (the Savior of the world), will crush his head (i.e., achieve the ultimate victory over Satan and his antichrist and all who follow them). This victory would not be without cost, as the prophecy of the crushed heel foretells, speaking as it does of the price He would pay by His death on the cross for all our sakes (also prefigured in the coats of skin in Genesis 3:21 and in ritual animal sacrifice in general). <!-- slide-break -->By returning to God, saved human kind would in this way regain more than had originally been lost. For through the promised resurrection to come, elect mankind will not only become superior to angelic kind in every way, but will come to possess eternal life which can never again be compromised or called into question. The greatest blessing to rise forth out of the curse of Genesis chapter three, however, is the promise and the (present) reality of Jesus Christ. For in the wake of the death sentence Man brought upon himself by his own sin, God brought eternal life out of death through the death of His Son. This sacrifice, the true cost of which we can only dimly comprehend this side of heaven, demonstrated beyond any possible question or doubt the love of God for His creatures, for He sacrificed what was dearest to Him for our sake, despite our sin against Him. <!-- slide-break -->Just as God would not abandon His angelic creation, but restored the universe (even going so far as to offer His fallen creatures a second chance through the creation of Adam), so in the person of Jesus Christ, so far from not giving up on us, God has actually wed Himself to His creation for the sake of mankind. For in the person of Christ, true humanity has been inseparably and irrevocably united with undiminished deity, so that there can be no further doubt about His commitment to all His creatures who have chosen for Him:
 
 {{% ichthys-translation p="John 3:16" %}}
 
@@ -167,7 +167,7 @@ For God loved the world so much, that he gave His only beloved Son, in order tha
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Such is the blinding and ineffable glory of God. Instead of blistering judgment, in His matchless grace He offers mercy to all who will but receive it of Him in the person of Jesus Christ. Jesus Christ is thus the key to all human history, because in Him is the only solution to the sentence of death mankind has willfully placed over its own head, and because in Him deity and humanity have been joined forevermore, guaranteeing beyond all doubt the absolute solidity of the promise of eternal life through His name. For through Him we have become eternally united to Him forevermore:
 
@@ -182,7 +182,7 @@ Such is the blinding and ineffable glory of God. Instead of blistering judgment,
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points and follow-on topics {#judgement-restoration-and-replacement-i-src-ichthys-summary-points-and-follow-on-topics}
 
@@ -191,15 +191,15 @@ Summary points:
 - This section contains a good recap of previous parts of the [Satanic Rebellion series](https://ichthys.com/Satanic-Rebellion-Home-Page.htm)---from Satan's initial rebellion and fall ([part 1](https://ichthys.com/SR1copy.htm)), to God's judgement of the universe following such ([part 2](https://ichthys.com/sr2-copy.htm)), to God's unexpected re-creation and creation of mankind ([part 3](https://ichthys.com/Fall-sr3.htm)), to Satan's efforts to turn mankind away from God in an effort to somehow turn aside the judgement awaiting him ([part 4](https://ichthys.com/SR4(SWS).htm)). Now, we turn ourselves to examining God's endgame, and what His perfect plan has been all along.
 - At every turn, we can see Satan digging himself in, rather than reconsidering. It may seem like insanity to us (since God will clearly win in the end), yet what have we to say to the fact that our sin is no less a rebellion against our Omnipotent Creator?
 - As very finite humans, we cannot fully comprehend the intelligence and cunning that Satan and the fallen angels possess. They are completely out of our league; they are not beings that humanity has been given leave to mess with (compare Jude 1:8-10), as a general rule. Yet God is ever so much more than them. If Satan and the fallen angels possess a sort of super-intelligence that would send chills up our spine if we were to be given a true glimpse of it, God is a foreign being completely, whose wisdom and power are so vast that it completely defies measure or comprehension.
-  - And it is *this* God who is on our side. Satan's plans seem like child's play by comparison, even though to us they are already unfathomable.<!-- --- -->
+  - And it is *this* God who is on our side. Satan's plans seem like child's play by comparison, even though to us they are already unfathomable.<!-- slide-break -->
 - This gap in ability is why we see Satan's "clever" plans get thwarted at every turn, in completely unexpected ways. Perhaps he might complain about God "changing the rules of the game"---for example, prior to the creation of Adam, God had never created another creature with moral agency and free will, and the angels no doubt thought that they would always be the only ones. It was a variable that was probably not even on their radar. And then, just as soon as Satan smugly rubs his hands together after making these new creatures fall from grace and become corrupted by sin, instead of wiping out sinful man, God symbolically promises their redemption with the animal skins of the *protoevangelium*.
 - This pattern repeats throughout all of history. For example:
   - When the fallen angels try to pollute human bloodlines by procreating with human women, God floods the entire world. Satan: "how is that even legal?"
   - When Satan tried to unify mankind in evil (Nimrod and the Tower of Babel), God responds by completely scrambling human language. Satan: "but that's not fair either!"
-- Other examples aside, nothing represents this concept better than the cross of Jesus Christ. Not even in their wildest dreams would the fallen angels think that God Himself would take on the weakness of human flesh, live a life of suffering, and then face judgement for all the sin and wickedness of fallen humanity. Yet that is *exactly* what He did. And it has rendered death completely powerless over us.<!-- --- -->
+- Other examples aside, nothing represents this concept better than the cross of Jesus Christ. Not even in their wildest dreams would the fallen angels think that God Himself would take on the weakness of human flesh, live a life of suffering, and then face judgement for all the sin and wickedness of fallen humanity. Yet that is *exactly* what He did. And it has rendered death completely powerless over us.<!-- slide-break -->
 - This is the madness of raising your hand against the creator of the universe. Satan, after all, is a material being bound by material creation. Angels are far more powerful than us, but they've got nothing on God. And this is why it was sheer folly for the fallen angels to think that God would somehow be constrained in each and every one of these cases. In a certain manner of speaking, if Satan were to back God into a corner, God would just create a fourth dimension, then what corner? This is *God* we are talking about here, and we'd best not forget it.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Follow-on topics:
 
@@ -244,7 +244,7 @@ TODO: Summary
 
 ### Content {#the-plan-of-god-in-human-history-src-ichthys-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Audio clip from Ichthys {#the-plan-of-god-in-human-history-src-ichthys-audio-clip-from-ichthys}
 
@@ -257,7 +257,7 @@ srcend="15:05"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -270,7 +270,7 @@ The critical point in any given person's life arrives when he or she becomes awa
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points and follow-on topics {#the-plan-of-god-in-human-history-src-ichthys-summary-points-and-follow-on-topics}
 
@@ -283,38 +283,38 @@ Summary points:
   - So-called "Natural Revelation" (Rom.1:18-23; cf. Ps.19:1-6; Acts 17:26-27)
   - Jesus Christ is the *only* way to salvation. There is no other path. Compare John 14:6. We will talk about this more directly in the next lesson.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Follow-on topics:
 
-- I think it is briefly worth examining the concept of breaking down history into separate divisions just as a general concept. Here are the divisions that we will go through the next few lessons here in SR5 = the specific divisions that Ichthys defines for human history:<!-- --- -->
+- I think it is briefly worth examining the concept of breaking down history into separate divisions just as a general concept. Here are the divisions that we will go through the next few lessons here in SR5 = the specific divisions that Ichthys defines for human history:<!-- slide-break -->
 - 1) The One Central Person of Human History
-  - Jesus Christ<!-- --- -->
+  - Jesus Christ<!-- slide-break -->
 - 2) The Two Phases of Human History
   - Phase one: Shadow (anticipation of the Messiah and His sacrifice).
-  - Phase two: Reality (revelation of Jesus Christ and His sacrifice).<!-- --- -->
+  - Phase two: Reality (revelation of Jesus Christ and His sacrifice).<!-- slide-break -->
 - 3) The Three Wilderness-Pilgrimage Eras of Human History
   - Gentile era
   - Jewish era
-  - Church era<!-- --- -->
+  - Church era<!-- slide-break -->
 - 4) The Four Ages of Human History
   - Gentile Age: Christ promised to all humanity in general as Savior.
   - Jewish Age: Christ promised to Israel in particular as Messiah.
   - Church Age: Christ having been revealed in Person in the (virgin-born) flesh in humility as the suffering Servant.
-  - Millennial Age: Christ having been revealed in Person in the (resurrected) flesh in glory as the King.<!-- --- -->
+  - Millennial Age: Christ having been revealed in Person in the (resurrected) flesh in glory as the King.<!-- slide-break -->
 - 5) The Five Dispensational Divisions of Human History
   - Gentile Patriarchy: from Adam to Abraham.
   - Jewish Patriarchy: from Abraham to Moses.
   - The Mosaic Law: from Moses to Christ.
   - The Church: from Christ's first advent to His Second Advent.
-  - The Millennium: from Christ's return to the end of history.<!-- --- -->
+  - The Millennium: from Christ's return to the end of history.<!-- slide-break -->
 - 6) The Six Chronological Periods of Human History
   - The Antediluvian Period: From the fall to the flood. Primary satanic target: true humanity.
   - The Postdiluvian Gentile Period: From the flood to Abraham. Primary satanic target: freedom and law.
   - The Jewish Period: From Abraham to Christ. Primary satanic target: the people and the nation of Israel.
   - The Church Period: From Christ to the beginning of the Tribulation. Primary satanic target: the truth of the Word of God.
   - The Tribulational Period: The seven years preceding the return of Christ. Primary satanic target: all of the above (humanity, freedom and law, Israel, truth) along with a particular emphasis on eradicating believers from the earth, as the devil employs any and all means available to him in the short time he has remaining.
-  - The Millennial Period: The thousand years following the return of Christ. Primary satanic target: the rule of Christ (attacked after Satan is released at the end of the period).<!-- --- -->
+  - The Millennial Period: The thousand years following the return of Christ. Primary satanic target: the rule of Christ (attacked after Satan is released at the end of the period).<!-- slide-break -->
 - 7) The Seven Days of Human History
   - Days 1 and 2: The Gentiles: (ca. 4065-2065 B.C.)
      - Day 1: The Antediluvian Civilization
@@ -326,16 +326,16 @@ Follow-on topics:
      - Day 5: Centralized Christianity
      - Day 6: Decentralized Christianity
   - Day 7: The Kingdom of God (the Sabbath Day): (ca. 2033-3033 A.D.)
-     - Day 7: The Millennium<!-- --- -->
+     - Day 7: The Millennium<!-- slide-break -->
 - So what to make of all this? I think a perfectly fair initial question is "Well, does the Bible actually teach all of this directly? Are we supposed to see this set of divisions from one through seven in human history, and teach it as black and white objective fact?"
   - To answer that question, I would say, well The Bible doesn't *not* teach it. If you examine how Dr. Luginbill breaks things down here and try to follow the logic of the divisions, there is nothing particularly made-up, fanciful, or Procrustean in any of this (that is, there is not really anything which is particularly bent or twisted to "force" things to fit).
   - So I see nothing wrong with using this organizational framework to help us remember particular divisions in human history more mnemonically.
-  - However, it is sort of another thing altogether to say something like "God clearly intended us to make these exact identifications for the numbers one through seven, and if you don't directly teach this, you do wrong." Personally, I don't think it is impossible for the symbolism in human history to be intentionally neatly arranged in such a way by God (since God certainly does elsewhere use symbolism in representing chronological periods of history: for example, Nebuchadnezzar's dream, as interpreted by the prophet Daniel in Daniel 2:31-45), but I also don't see much in scripture that gives us leave to be terribly dogmatic about it. There is a sort of logic to human history being composed both of seven even divisions (i.e., the seven millennial days) and also divisible into seven separate patterns (i.e., the divisions of one through seven), given that seven symbolically represents completeness and perfection, and so the pattern definitely "fits" when viewed this way. Human history *will* be full and complete, after God's Perfect Plan finishes.<!-- --- -->
+  - However, it is sort of another thing altogether to say something like "God clearly intended us to make these exact identifications for the numbers one through seven, and if you don't directly teach this, you do wrong." Personally, I don't think it is impossible for the symbolism in human history to be intentionally neatly arranged in such a way by God (since God certainly does elsewhere use symbolism in representing chronological periods of history: for example, Nebuchadnezzar's dream, as interpreted by the prophet Daniel in Daniel 2:31-45), but I also don't see much in scripture that gives us leave to be terribly dogmatic about it. There is a sort of logic to human history being composed both of seven even divisions (i.e., the seven millennial days) and also divisible into seven separate patterns (i.e., the divisions of one through seven), given that seven symbolically represents completeness and perfection, and so the pattern definitely "fits" when viewed this way. Human history *will* be full and complete, after God's Perfect Plan finishes.<!-- slide-break -->
 - I should be clear that what I am speaking about here in all of this is primarily what to say to people who might be a bit skeptical of the idea of a sequence of divisions from one to seven, not the concept of the seven millennial days itself. The seven millennial days of human history are clearly and objectively taught in scripture, as far as I am concerned—they are plainly "there" in the Bible. Because, for example, the parallel between God's seventh day of rest after creation and the Millennium is so blindingly obvious and impossible to miss.
 - But the identification of patterns one through six is a bit less clearly obvious, as I see things. That does not necessarily mean that these are "not there" (or especially that we cannot make use of them as an expedient way to organize things mnemonically), but it does mean, in my thinking, that the point that we take a stand on most is the seven millennial days themselves, if people protest that all this seems too precise or contrived. If you are having problems understanding what sort of questions I think might arise from some parties, consider these cases:
   - If someone were to come up to me and argue that the Tower of Babel ought to be a dividing event in human history (perhaps explaining that it represents a dividing line between a one-world state/single language, and the creation of multiple nations/languages), well, I wouldn't exactly disagree with that, since it is true. But then does it become part of the six-way split here? The five-way split?
   - How about splitting the Great Tribulation from the Tribulation itself? You can certainly make a case that it is qualitatively different in some ways. So does it merit its own division? How do you decide that?
-  - Or what about the period of time between the creation of Adam and Eve and their fall (which Ichthys postulates to be 47 years, in its chronology)? Where exactly does this fit in the divisions?<!-- --- -->
+  - Or what about the period of time between the creation of Adam and Eve and their fall (which Ichthys postulates to be 47 years, in its chronology)? Where exactly does this fit in the divisions?<!-- slide-break -->
 - One might go on. The point in all this is not so much to challenge any of the identifications Ichthys has made here for divisions one through six (which I think are perfectly valid), but simply to point out that perhaps there are even more ways one might break things down, and that is perfectly alright. There is not a "wrong" way to explain God's Plan for human history, as long as we keep our teaching anchored in the text of the Bible. I hope that make sense.
 - So, the upshot of all of this, in my opinion, is that if the degree of "specificity" here seems "too high" to someone you explain these teachings to, you can tell them to just view divisions one through six as an organizational paradigm and roll with it, because these are certainly not *not* taught in scripture, so there is nothing wrong with organizing our thinking in this way... whether or not they buy that God intended for us to make these exact identifications.
 
@@ -376,7 +376,7 @@ TODO: Summary
 
 ### Content {#the-one-central-person-of-human-history-src-ichthys-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Audio clip from Ichthys {#the-one-central-person-of-human-history-src-ichthys-audio-clip-from-ichthys}
 
@@ -389,7 +389,7 @@ srcend="17:49"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -399,7 +399,7 @@ srcend="17:49"
 
 Jesus Christ is the linchpin of human history. He is the mystery shrouded before the cross, revealed after the cross (Eph.1:9-10; 3:9-10; Col.1:26-27). He is *the* Son of God (undiminished, genuine deity: Matt.16:16; Jn.1:18), and *the* Son of Man (perfect, genuine humanity: Mk.8:31). He is uniquely Man and God, and so alone is qualified to sacrifice Himself to God on Man's behalf at the cross, the turning point of all human history. Like the highest mountain peak, or a giant vortex into which everything is eventually drawn, Jesus Christ, in the most complete sense of God's point of view, ***is*** history, because human history has no purpose without His saving work on the cross (which is the entire point of history).
 
-<!-- --- -->
+<!-- slide-break -->
 
 From the first, prehistoric Eden (see [Part 1 of this series](https://ichthys.com/SR1copy.htm)), to the garden of Eden, to the dark world in which we now find ourselves (wherein He is the only light: Jn.1:4-5; 1:9; 3:19; 8:12; 1Jn.2:8), to the coming Kingdom of God, Jesus Christ is and has always been the visible Person of God, the face of God (2Cor.4:6; Heb.1:3), and the ultimate issue for every human being who has ever lived. No one, therefore, can approach God the Father apart from embracing the Son and His saving work:
 
@@ -423,7 +423,7 @@ Everything in the heavens and on the earth was created by Him (Jesus Christ), th
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Discussion {#the-one-central-person-of-human-history-src-ichthys-discussion}
 
@@ -438,7 +438,7 @@ Summary points:
   - Jesus is the only light in this dark world: Jn.1:4-5; 1:9; 3:19; 8:12; 1Jn.2:8
   - Jesus is and has always been the visible Person of God, the face of God (2Cor.4:6; Heb.1:3)
 
-<!-- --- -->
+<!-- slide-break -->
 
 Follow-on topics:
 
@@ -482,7 +482,7 @@ TODO: Summary
 
 ### Content {#the-two-phases-of-human-history-introduction-src-ichthys-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Audio clip from Ichthys {#the-two-phases-of-human-history-introduction-src-ichthys-audio-clip-from-ichthys}
 
@@ -495,7 +495,7 @@ srcend="22:14"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -504,7 +504,7 @@ As Christ is the central person of human history, so the death and subsequent re
 - Phase one: **Shadow** (anticipation of the Messiah and His sacrifice).
 - Phase two: **Reality** (revelation of Jesus Christ and His sacrifice).
 
-The cross (followed in short order by the resurrection) was obviously the focal point of our Savior's earthly life, and it is history's focal point as well (in tandem with the resurrection). All human history funnels down to this point, and expands forth from it. The shadows of the temple ritual and the Mosaic Law are fulfilled in Him and His work, and give way to the reality of Him, resurrected and exalted at the right hand of God. Just as each human life is divided into two distinct phases, the acceptance of Christ (or rejection of God) being the fundamental turning point, so God has ordered human history in such a way that the appearance of His beloved Son to effect salvation through His death on the cross forms "the conjunction of the ages" (Heb.9:26; cf. Mk.1:15; Rom.5:6; Gal.4:4; Eph.1:10; 1Tim.2:6).<!-- --- --> Throughout the Old Testament period, the promise of a coming Savior was clearly given by God, "at many times and in many ways" (Heb.1:1; cf. Gen.3:15; Deut.18:15; Ps.2; 110; Is.9:1-7; 11:1-5; 49:5-7; 52:13-53:12; Dan.7:13-14; Zech.13:1). Furthermore, the substitutionary sacrifice that He would perform on mankind's behalf was continually foreshadowed through animal sacrifice, even before the giving of the Mosaic Law (e.g., Gen.3:21; 4:4-5; 8:20-21). But the exact ***nature*** of the Messiah (i.e., that He would be human and divine), and the exact ***manner*** of His coming (i.e., that He would come twice, first as the Servant to expiate sin, second as the King to eradicate evil), were shrouded in mystery (cf. Eph.1:9-10; 3:9-11; Col.1:26-27). Scripture tells us that many Old Testament believers were eager to know what we now understand about the Messiah and His work (1Pet.1:10-12; cf. Lk.10:23-24). Nevertheless, when He finally did come to face the cross as God's humble Servant, He was rejected by His own, at least in part because He did not fulfill their kingly expectations of Him (Matt.21:9; 27:41-43; cf. Jn.6:15). They wanted the Crown, but stumbled over the Cross (Rom.9:32-33; 1Cor.1:23; cf. Lk.7:23). Even those He chose did not at the time fully understand what He had come to do (e.g., Mk.9:31-32; Lk.9:44-45 ).<!-- --- --> Only after His death and resurrection did the true reality of His saving work on the cross become fully perspicuous to them (cf. Jn.14:25-26). Jesus' sacrifice at Calvary's cross wrought salvation for all who had (or would) trust God for forgiveness of their sins. As a result, we now no longer look forward to the future fulfillment of a salvation whose time and manner we can but dimly comprehend, but, possessed of a much more complete understanding of who He is and what He did for us by the shedding of His own precious blood, we eagerly anticipate His return. With the coming of the Messiah in person, and His victory won at the cross an accomplished fact (Jn.16:33; Col.2:15; Rev.5:5), human history has now entered its second and final phase. No longer do we deal with shadows of what is to come (Col.2:16-17; Heb.8:5; 9:11-12; 9:23; 10:1), but we are instead direct recipients of God's amazing grace which has replaced the shadows of the Law through the reality of the God-Man Jesus Christ, based upon His sacrificial death and glorious resurrection (Rom.6:14). Today we enjoy the historical reality of the Cross even as we look forward to the future reality of the Crown, eagerly anticipating the return of our Lord and Master when He shall come in glory to take possession of His Kingdom (1Cor.1:7; 16:22; Phil.3:20; 2Thes.1:7; 2Pet.3:12).
+The cross (followed in short order by the resurrection) was obviously the focal point of our Savior's earthly life, and it is history's focal point as well (in tandem with the resurrection). All human history funnels down to this point, and expands forth from it. The shadows of the temple ritual and the Mosaic Law are fulfilled in Him and His work, and give way to the reality of Him, resurrected and exalted at the right hand of God. Just as each human life is divided into two distinct phases, the acceptance of Christ (or rejection of God) being the fundamental turning point, so God has ordered human history in such a way that the appearance of His beloved Son to effect salvation through His death on the cross forms "the conjunction of the ages" (Heb.9:26; cf. Mk.1:15; Rom.5:6; Gal.4:4; Eph.1:10; 1Tim.2:6).<!-- slide-break --> Throughout the Old Testament period, the promise of a coming Savior was clearly given by God, "at many times and in many ways" (Heb.1:1; cf. Gen.3:15; Deut.18:15; Ps.2; 110; Is.9:1-7; 11:1-5; 49:5-7; 52:13-53:12; Dan.7:13-14; Zech.13:1). Furthermore, the substitutionary sacrifice that He would perform on mankind's behalf was continually foreshadowed through animal sacrifice, even before the giving of the Mosaic Law (e.g., Gen.3:21; 4:4-5; 8:20-21). But the exact ***nature*** of the Messiah (i.e., that He would be human and divine), and the exact ***manner*** of His coming (i.e., that He would come twice, first as the Servant to expiate sin, second as the King to eradicate evil), were shrouded in mystery (cf. Eph.1:9-10; 3:9-11; Col.1:26-27). Scripture tells us that many Old Testament believers were eager to know what we now understand about the Messiah and His work (1Pet.1:10-12; cf. Lk.10:23-24). Nevertheless, when He finally did come to face the cross as God's humble Servant, He was rejected by His own, at least in part because He did not fulfill their kingly expectations of Him (Matt.21:9; 27:41-43; cf. Jn.6:15). They wanted the Crown, but stumbled over the Cross (Rom.9:32-33; 1Cor.1:23; cf. Lk.7:23). Even those He chose did not at the time fully understand what He had come to do (e.g., Mk.9:31-32; Lk.9:44-45 ).<!-- slide-break --> Only after His death and resurrection did the true reality of His saving work on the cross become fully perspicuous to them (cf. Jn.14:25-26). Jesus' sacrifice at Calvary's cross wrought salvation for all who had (or would) trust God for forgiveness of their sins. As a result, we now no longer look forward to the future fulfillment of a salvation whose time and manner we can but dimly comprehend, but, possessed of a much more complete understanding of who He is and what He did for us by the shedding of His own precious blood, we eagerly anticipate His return. With the coming of the Messiah in person, and His victory won at the cross an accomplished fact (Jn.16:33; Col.2:15; Rev.5:5), human history has now entered its second and final phase. No longer do we deal with shadows of what is to come (Col.2:16-17; Heb.8:5; 9:11-12; 9:23; 10:1), but we are instead direct recipients of God's amazing grace which has replaced the shadows of the Law through the reality of the God-Man Jesus Christ, based upon His sacrificial death and glorious resurrection (Rom.6:14). Today we enjoy the historical reality of the Cross even as we look forward to the future reality of the Crown, eagerly anticipating the return of our Lord and Master when He shall come in glory to take possession of His Kingdom (1Cor.1:7; 16:22; Phil.3:20; 2Thes.1:7; 2Pet.3:12).
 
 {{% ichthys-translation p="Titus 2:13" %}}
 . . . as we await our blessed hope, namely the glorious and majestic appearance of our God and savior, Jesus Christ.
@@ -512,7 +512,7 @@ The cross (followed in short order by the resurrection) was obviously the focal 
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points and follow-on topics {#the-two-phases-of-human-history-introduction-src-ichthys-summary-points-and-follow-on-topics}
 
@@ -522,14 +522,14 @@ Summary points:
 - The nature and manner of the Messiah's coming was a mystery to old testament believers. Both that Christ would come as the God-man (fully God, yet fully man), and that He would come twice: first as the suffering servant, and only then as the conquering king.
 - We no longer deal with shadows and symbols. Now that Christ has come, we can fully appreciate who He is and what He did for us by shedding His own precious blood. Today we enjoy the historical reality of the Cross even as we look forward to the future reality of the Crown.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Follow-on topics:
 
 - We've made the point before that God's perfect plan for history is incredible, and should blow our minds when we consider it. The cross is the centerpiece of this plan, and it is upon the cross that all of God's plan rests.
 - Living after the cross, we are blessed to clearly see God's plan, rather than only grasping at shadows. I think we often take for granted how comforting it is to know that God has positionally already won. There is no unknown to fear any longer—death has already been defeated. We need not wonder how God will reconcile our brokenness and sinfulness with His perfect justice, because we already know how He brought that about. This is something Old Testament believers did not have. So do we properly appreciate this?
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#the-two-phases-of-human-history-introduction-src-ichthys-further-discussion}
 
@@ -571,7 +571,7 @@ TODO: Summary
 
 ### Content {#the-two-phases-of-human-history-the-old-and-new-covenants-src-ichthys-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Audio clip from Ichthys {#the-two-phases-of-human-history-the-old-and-new-covenants-src-ichthys-audio-clip-from-ichthys}
 
@@ -584,15 +584,15 @@ srcend="32:17"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
 These two phases of human history correspond respectively to the two covenants, the Old Covenant (or testament) and the New Covenant (or testament). The Hebrew word for covenant/testament is *beriyth* (ברית), literally, a treaty, alliance or agreement. Since these "agreements" are not made by two equal parties, but are made by God at His own instigation on Man's behalf, translators have always felt the need to distinguish the Old and New "*beriyoth*" from person-to-person or state-to-state agreements. But one of the main points of the *beriyth* is indeed that God has chosen to bind Himself to fulfill all that He has promised -- for *our* benefit, not for His. That is to say, if God has said it once, it is true and it will stand, but for the sake of our encouragement and perseverance, He has undertaken to give us assurances above and beyond anything we could ever deserve or ask for by formally "ratifying" His Word (cf. Heb.6:16-20).
 
-<!-- --- -->
+<!-- slide-break -->
 
-A covenant/testament/*beriyth* is, therefore, first and foremost a ***promise*** from God, and it is for this reason that we find the word *beriyth* closely associated in the New Testament with the concept of "promise" (*epangelia*: ἐπαγγελία; cf. especially Eph.2:12: "the covenants of the promise"). Now the Greek word for covenant/testament is not *epangelia* but *diatheke*  (διαθήκη), and this is the word that literally translates the Hebrew *beriyth*. But as the usage of *diatheke* in the New Testament makes clear, a "covenant" is still essentially an agreement, that is, a solemn, formalized ***promise*** or collection of promises which God has obligated Himself to fulfill (cf. Lk.1:72; Acts 3:25; Rom.11:26-27; 2Cor.3:14; Gal.3:17; Eph.2:12; Heb.7:22). The best way to understand the idea of the covenant/testament/*beriyth*, therefore, is in terms of God's ultimate promise to mankind. For the Old Covenant (really a series of promises, to Adam and Eve, Noah, Abraham, etc.; cf. Acts 13:23; 13:32-33; 26:6; Rom.4:13; 9:4; Gal.3:16; 3:29; 4:28; Eph.3:6; 2Tim.1:1; Heb.4:1; 6:12; 9:15; 10:36; 11:38-39; 1Jn.2:25) was first and foremost the ***promise of salvation*** (and all that it would entail), while the New Covenant is essentially the ***fulfillment of that promise*** (through Christ's incarnation, sacrifice and resurrection).<!-- --- --> The Old Covenant is thus a looking forward through the shadows to the New Covenant, the reality of Christ and the fulfillment of all God's promises for salvation and eternal life through Him (1Cor.11:25; 2Cor.1:19-20; 3:6; Heb.9:15):
+A covenant/testament/*beriyth* is, therefore, first and foremost a ***promise*** from God, and it is for this reason that we find the word *beriyth* closely associated in the New Testament with the concept of "promise" (*epangelia*: ἐπαγγελία; cf. especially Eph.2:12: "the covenants of the promise"). Now the Greek word for covenant/testament is not *epangelia* but *diatheke*  (διαθήκη), and this is the word that literally translates the Hebrew *beriyth*. But as the usage of *diatheke* in the New Testament makes clear, a "covenant" is still essentially an agreement, that is, a solemn, formalized ***promise*** or collection of promises which God has obligated Himself to fulfill (cf. Lk.1:72; Acts 3:25; Rom.11:26-27; 2Cor.3:14; Gal.3:17; Eph.2:12; Heb.7:22). The best way to understand the idea of the covenant/testament/*beriyth*, therefore, is in terms of God's ultimate promise to mankind. For the Old Covenant (really a series of promises, to Adam and Eve, Noah, Abraham, etc.; cf. Acts 13:23; 13:32-33; 26:6; Rom.4:13; 9:4; Gal.3:16; 3:29; 4:28; Eph.3:6; 2Tim.1:1; Heb.4:1; 6:12; 9:15; 10:36; 11:38-39; 1Jn.2:25) was first and foremost the ***promise of salvation*** (and all that it would entail), while the New Covenant is essentially the ***fulfillment of that promise*** (through Christ's incarnation, sacrifice and resurrection).<!-- slide-break --> The Old Covenant is thus a looking forward through the shadows to the New Covenant, the reality of Christ and the fulfillment of all God's promises for salvation and eternal life through Him (1Cor.11:25; 2Cor.1:19-20; 3:6; Heb.9:15):
 
 {{% ichthys-translation p="Acts 13:32-33a" %}}
 And we are proclaiming this good news to you, the ***promise*** made to our fathers now become a reality. For this ***promise*** God has fulfilled for us, His children, by raising Jesus from the dead.
@@ -606,7 +606,7 @@ For I tell you that Christ became a servant to the circumcision for the sake of 
 This cup is the new covenant [ratified] by My blood which is shed on your behalf.
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 From mankind's point of view, hope is always the central idea behind the promises of God solemnized in covenant form. That God has promised, sworn, and obligated Himself to provide for our salvation (Old Covenant perspective), and that Christ has accomplished and fully ratified all the promises of the Old Testament through His blood (New Covenant perspective), is indescribably encouraging news, good news, that empowers and strengthens our hope that one day we shall indeed be with Him.
 
@@ -614,7 +614,7 @@ From mankind's point of view, hope is always the central idea behind the promise
 For men are accustomed to take oaths on the authority of something greater than they are, and there is absolutely no doubt about the fact that an oath is taken for the purpose of confirmation. Just so God, out of a desire to make it abundantly clear to us, the heirs of His ***promise*** [after the pattern of Abraham's faith], that His will in this matter [of salvation and its resultant blessings] is unchangeable, guaranteed it with an oath (Gen.22:16-17), so that through two unchangeable matters wherein it is impossible for God to prove false (i.e., His Word and His oath), we who have escaped [the wrath to come] and taken hold of this ***hope*** offered to us might have a strong basis for encouragement. And this ***hope*** [truly] is what "anchors" our lives, so to speak: it is certain; it is solid; it penetrates beyond the [heavenly] veil into the [holy of holies] where our vanguard, Jesus, has entered on our behalf, having become a high priest forever according to the order of Melchizedek.
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Hope then, in the biblical sense, is much different from the way the word is often used in contemporary English. Hope in the biblical sense is not an uncertainty for which we wish, but rather a certainty we cannot yet see. Secular Greek usage reflects this same idea, for the word *elpis* (ἐλπίς), refers to a likelihood about future events, a definite expectation, whether good or bad. In the New Testament, hope is always good, a confident anticipation about what is going to come, and, specifically, the sure and certain knowledge, belief and conviction of our salvation, resurrection, gathering together with Jesus Christ, and glorious eternity with Him. We do not see it yet, but we know for certain that through Christ's victory and our faith in Him it is only a matter of time before we actually experience the things we hope for:
 
@@ -626,15 +626,15 @@ For it is in this hope [of the resurrection of our bodies] that we have been sav
 It is faith, moreover, that substantiates what we hope for. [Faith] provides proof of things unseen.
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 The Old Covenant looked forward to the coming of the promised Messiah, to the redemption of all mankind through His work (Rom.11:27). With the advent of Jesus Christ and His work on the cross now an accomplished fact, the New Covenant that God has made with all mankind includes not only forgiveness, but innumerable blessings besides, prominent among which is the gift of the Holy Spirit (Jn.7:39; cf. Is.59:21). Now that Christ has been resurrected, ascended to heaven and sits at the Father's right hand, we who believe in Him have received the gift of the Holy Spirit and spiritual gifts as well, an unfulfilled promise from the Old Covenant perspective, but, like the coming of Christ in the flesh, a reality under the New Covenant (compare Is.44:3 and Joel 2:28 with Acts 2:14-21; Rom.12:5-8; 1Cor.12:1-11; Eph.4:7-13).
 
-<!-- --- -->
+<!-- slide-break -->
 
 Jesus Christ is thus the key to the two phases of history with their two concomitant covenants. He is the unique Prophet (Deut.18:17-19), the eternal Priest (Ps.110:4) and the promised King (Is.9:6-7). He is the fulfillment of all the Old Testament promises (Rom.15:8; cf. Acts 3:24-26), of the Old Covenant (2Cor.3:14; Heb.7:22), and of the Law (Rom.10:4; Heb.7:12). He is the One who has delivered us from the bondage of the Old Covenant and brought us into the freedom of the New Covenant (Gal.4:24f.). He it is who has mediated for us a better covenant than was in force before, a covenant built on better promises (Heb.8:6; 12:24; cf. Eph.2:12; Heb.9:15-16).
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% ichthys-translation p="Hebrews 8:6-13" %}}
 But the fact is that the ministry which [Jesus] has received is a more excellent one to the same degree that the [New] Covenant of which He is the mediator is better [than the Old]. For this [New Covenant] has been instituted on the basis of better promises. For if that first [covenant] had been perfect, an occasion for the second would not have been sought. Indeed, in finding fault with [those under the first covenant, God] says,
@@ -646,13 +646,13 @@ In mentioning a "New [Covenant]", He has rendered the Old one obsolete. And that
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Not that every promise from the Old Testament has already been fulfilled in every aspect and detail (Heb.11:39-40). Indeed, even now under the New Covenant we still await the return of our Lord and our gathering together with Him in resurrection. But all God's promises have in fact been completely fulfilled *in principle* through our Lord Jesus Christ's victory over sin at the cross, a victory that resulted in our redemption from sin and thus cleared the way for all the coming blessings of eternity. Therefore the actual fulfillment of all the promises to Israel and to us, our resurrection, eternal life, our reward and eternity with God in the new heavens and new earth are a reality by which we are separated only by a short span of time (and one for which we wait with eager anticipation: 2Pet.3:10-13).
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points and follow-on topics {#the-two-phases-of-human-history-the-old-and-new-covenants-src-ichthys-summary-points-and-follow-on-topics}
 
@@ -666,14 +666,14 @@ Summary points:
 - The New Covenant is essentially the **fulfillment of that promise** (through Christ's incarnation, sacrifice and resurrection).
 - The Old Covenant is thus a looking forward through the shadows to the New Covenant.
 
-<!-- --- -->
+<!-- slide-break -->
 
 - With the advent of Jesus Christ and His work on the cross now an accomplished fact, the New Covenant that God has made with all mankind includes not only forgiveness, but innumerable blessings besides, prominent among which is the indwelling of the Holy Spirit, and the spiritual gifts He gives us.
 - Jesus Christ is the One who has delivered us from the bondage of the Old Covenant and brought us into the freedom of the New Covenant. He it is who has mediated for us a better covenant than was in force before, a covenant built on better promises.
 - While some Old Testament promises await final completion, the cross completely fulfilled all of God's promises *in principle*.
 - Therefore the actual fulfillment of all the promises to Israel and to us—our resurrection, eternal life, and our reward and eternity with God in the new heavens and new earth—are already a certain reality.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Follow-on topics:
 
@@ -681,11 +681,11 @@ Follow-on topics:
 - Putting aside for a moment the gratitude we ought to feel for what God has done for us (and all other motivation along those lines—which we ought to have, to be clear, but bear with me for a moment), well strictly from a self-interested point of view, it should be clear that the trade we make here is *very much* worth it. All we have to do is follow Jesus Christ, and in return, God does everything else. He also paid the price Himself to ratify the contract, at a cost we cannot properly comprehend. Literally, all we have to do is not say no.
 - Us refusing to take part in this contract is thus just as insane as a businessman who turns down the contract of a lifetime with all gain and no loss. All the more so because while businessmen can get scammed or cheated, God cannot and will not renege on His promises, and because the gain we get from this contract is eternal, meaning the gain is essentially infinite. But even by examining this imperfect analogy, we should be able to understand how foolish it is to reject such clearly beneficial terms. Self-interest tells us we ought to take this deal without hesitation.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#the-two-phases-of-human-history-the-old-and-new-covenants-src-ichthys-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 
 {{% /toggleable-content %}}
@@ -725,7 +725,7 @@ TODO: Summary
 
 ### Content {#the-two-phases-of-human-history-synopsis-src-ichthys-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Audio clip from Ichthys {#the-two-phases-of-human-history-synopsis-src-ichthys-audio-clip-from-ichthys}
 
@@ -738,11 +738,11 @@ srcend="36:30"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
-Covenants in general in the ancient Middle East required two parties and a formal blood-sacrifice for ratification wherein both sides agree to abide by the terms specified. A biblical covenant is an agreement made by God on mankind's behalf, wherein God undertakes to bless all those who faithfully follow Him. God's part is two-fold: He supplies blessing (culminating in resurrection and eternal life), and He provides the blood-sacrifice (the gift of His Son, necessary to redeem us from sin so that we may be blessed). Our part is to keep faith with Him (i.e., accepting Christ and continuing to trust Him, believe Him, obey Him, follow Him: cf. Gen.15:6). God's covenants are formalized promises that provide those who have set their hearts on following Him with a strong basis for confident hope, because God has not only promised the eternal life and concomitant blessings we eagerly await, but has irrevocably bound Himself to fulfill them. Therefore although part of these covenants' fulfillment is yet future (requiring those who accept God's gracious offer of salvation which is at the heart of both covenants to trust Him while waiting patiently for fulfillment after the pattern of Abraham's faith and patience), fulfillment is absolutely certain for all who embrace the promises and persevere in faith.<!-- --- --> Both Old and New Covenants are ratified by blood: the Old through the shadow of animal blood, the New through the death of our Lord Jesus Christ on the cross (where the reality of His death on our behalf and in our place—and wherein He did ***not*** bleed to death: Jn.19:30-37---is ***symbolized*** by the phrase "the blood of Christ": Heb.9:16-22). God promises, formalizes the promises, and pays the most severe price to fulfill the covenants He has established – the price being the sacrifice of His only beloved Son. We benefit from His unconditional and glorious act of grace, if we but trust in Jesus and stay faithful to Him. Whether it be present day believers who partake of the communion which proclaims the completed reality of salvation through the blood of Christ (Matt.26:26-29), or believers of the past who partook of sacrificial meals "of covenant" that foreshadowed the future reality of salvation (Ex.12:1-12; cf. Gen.31:51-54), our participation "proclaims the death of Jesus until He comes" (1Cor.11:26) and so pledges our continuing faith and faithfulness.<!-- --- --> The old, shadow covenant(s) (cf. Ezek.16:60 "covenant of youth") and the memorial, "New" covenant (cf. Ezek.16:60 "everlasting covenant") thus both proclaim the salvation to which we are heirs and partakers by the work of God through our continuing faith in Jesus Christ:
+Covenants in general in the ancient Middle East required two parties and a formal blood-sacrifice for ratification wherein both sides agree to abide by the terms specified. A biblical covenant is an agreement made by God on mankind's behalf, wherein God undertakes to bless all those who faithfully follow Him. God's part is two-fold: He supplies blessing (culminating in resurrection and eternal life), and He provides the blood-sacrifice (the gift of His Son, necessary to redeem us from sin so that we may be blessed). Our part is to keep faith with Him (i.e., accepting Christ and continuing to trust Him, believe Him, obey Him, follow Him: cf. Gen.15:6). God's covenants are formalized promises that provide those who have set their hearts on following Him with a strong basis for confident hope, because God has not only promised the eternal life and concomitant blessings we eagerly await, but has irrevocably bound Himself to fulfill them. Therefore although part of these covenants' fulfillment is yet future (requiring those who accept God's gracious offer of salvation which is at the heart of both covenants to trust Him while waiting patiently for fulfillment after the pattern of Abraham's faith and patience), fulfillment is absolutely certain for all who embrace the promises and persevere in faith.<!-- slide-break --> Both Old and New Covenants are ratified by blood: the Old through the shadow of animal blood, the New through the death of our Lord Jesus Christ on the cross (where the reality of His death on our behalf and in our place—and wherein He did ***not*** bleed to death: Jn.19:30-37---is ***symbolized*** by the phrase "the blood of Christ": Heb.9:16-22). God promises, formalizes the promises, and pays the most severe price to fulfill the covenants He has established – the price being the sacrifice of His only beloved Son. We benefit from His unconditional and glorious act of grace, if we but trust in Jesus and stay faithful to Him. Whether it be present day believers who partake of the communion which proclaims the completed reality of salvation through the blood of Christ (Matt.26:26-29), or believers of the past who partook of sacrificial meals "of covenant" that foreshadowed the future reality of salvation (Ex.12:1-12; cf. Gen.31:51-54), our participation "proclaims the death of Jesus until He comes" (1Cor.11:26) and so pledges our continuing faith and faithfulness.<!-- slide-break --> The old, shadow covenant(s) (cf. Ezek.16:60 "covenant of youth") and the memorial, "New" covenant (cf. Ezek.16:60 "everlasting covenant") thus both proclaim the salvation to which we are heirs and partakers by the work of God through our continuing faith in Jesus Christ:
 
 {{% ichthys-translation p="Hebrews 9:11-15" %}}
 But Christ has already arrived [in heaven] as high priest of the good things to come, [having passed] through the greater and more perfect tabernacle, that is, the one which is not of this creation. Nor was it through the blood of goats and bullocks, but through His own blood (i.e., His death) that He entered once and for all into the holy of holies, having wrought eternal redemption. For if the blood of goats and bulls and the ashes of the heifer sprinkled upon the unclean render a person holy in respect to bodily cleansing, how much more will the blood of Christ, who offered Himself without defect to God through the eternal Spirit, cleanse our conscience from dead works so that we may serve the living God? And it is for this reason that He is the ***Mediator of a New Covenant***, so that those who have been called might receive their eternal inheritance on the basis of the death He suffered to redeem us from the transgressions [committed] under the first Covenant.
@@ -754,7 +754,7 @@ I, the Lord, have called You in righteousness, and shall take You by the hand, a
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#the-two-phases-of-human-history-synopsis-src-ichthys-summary-points}
 
@@ -766,14 +766,14 @@ A biblical covenant is an agreement made by God on mankind's behalf, wherein God
 
 If we fulfill our part of the covenant, God is "legally obligated" (we might say) to fulfill His part. This ought to be a great comfort to us, and in fact, it is *necessary* for us to keep this firmly in mind as we struggle to wait upon future complete deliverance.
 
-<!-- --- -->
+<!-- slide-break -->
 
 God promises, formalizes the promises, and pays the most severe price to fulfill the covenants He has established – the price being the sacrifice of His only beloved Son. All we have to do to benefit from His unconditional and glorious act of grace is trust in Jesus and stay faithful to Him.
 
 Whether it be present day believers who partake of the communion which proclaims the completed reality of salvation through the blood of Christ (Matt.26:26-29), or believers of the past who partook of sacrificial meals "of covenant" that foreshadowed the future reality of salvation (Ex.12:1-12; cf. Gen.31:51-54), our participation "proclaims the death of Jesus until He comes" (1Cor.11:26) and so pledges our continuing faith and faithfulness.
   - Communion is actually a formal reminder of the conditions of the covenant, and a physical means to demonstrate our commitment to our part in it.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#the-two-phases-of-human-history-synopsis-src-ichthys-follow-on-topics}
 
@@ -781,7 +781,7 @@ I think probably the biggest takeaway here in my eyes is that it is proper for u
 
 The hard part of all this is waiting. We know if we follow our side of the deal, God *will* come through on His part (not only because He promised to—which would be good enough all on its own given who God is—but because he has formally bound Himself to do so). But no part of this said that the deliverance will be immediate. Instead, we need to strive to cultivate the same faith Abraham had in His long years waiting for an heir, and and in the same way choose to wait confidently upon the Lord in our own circumstances.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#the-two-phases-of-human-history-synopsis-src-ichthys-further-discussion}
 
@@ -822,7 +822,7 @@ TODO: Summary
 
 ### Content {#the-three-wilderness-pilgrimage-eras-of-human-history-src-ichthys-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Audio clip from Ichthys {#the-three-wilderness-pilgrimage-eras-of-human-history-src-ichthys-audio-clip-from-ichthys}
 
@@ -835,7 +835,7 @@ srcend="42:22"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -845,13 +845,13 @@ Since the expulsion of Adam and Eve from the garden of Eden, this world has larg
 Happy is everyone whose strength is in You. Their hearts are set on the highways [of pilgrimage to Zion]. As they pass through the [dry] valley of Bachah (i.e., the wilderness of life), they make it a place of springs. Even the early rains enwrap it with [their] blessings. They go from strength to strength, until they appear before God in Zion.
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% ichthys-translation p="Hebrews 11:13-16" %}}
 These all died [while still walking] in faith, though they had not received the [fulfillment of their] promises. But [while they lived] they did catch sight of [these promises] from a distance and salute them, [so to speak], thus making it plain [to all the world] that they were [in effect] strangers and sojourners on the earth. For people who express [their faith] in this way make it quite evident that they are eagerly in search of a homeland [other than the world they now pass through]. Indeed, if these [believers'] hearts had yearned for the [land] from which they had departed, they would have had [ample] opportunity to turn back. But they were zealous for a better place, a heavenly one. Therefore God is not ashamed to be called their God. He has, in fact, prepared a city for them.
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 There are three wilderness-pilgrimage eras in human history. They are defined by and take their names from the pilgrims who sojourn through them:
 
@@ -865,7 +865,7 @@ The second wilderness-pilgrimage era (Jewish) runs from the call of Abraham unti
 
 The third wilderness-pilgrimage era (Church) runs from the day of Pentecost until the onset of the Tribulation. Its pilgrim-believers are both Jews (the original branch) and gentiles (grafted into Israel) combined into the single body of Christ. In this era, there is a *corporate focus* to the pilgrimage (i.e., following God as intimate members of His family, the body of Christ which is the Church universal).
 
-<!-- --- -->
+<!-- slide-break -->
 
 Though they differ in many respects, all three eras have several important aspects in common. They are all . . .
 
@@ -879,7 +879,7 @@ These three wilderness eras demonstrate God's grace in providing for believers u
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#the-three-wilderness-pilgrimage-eras-of-human-history-src-ichthys-summary-points}
 
@@ -887,7 +887,7 @@ This world, at present, is very much under the control of Satan, and we'd best n
 
 The city God has prepared for us already exists beyond the veil. God has already prepared rooms for us in His house. We just need to use eyes of faith to see these things, since they will not be right before us. Faith is essential for us to exercise as we sojourn through this present wilderness, in order to keep our spirits up, and our focus on the rewards that will make all of our present suffering worth it in the end.
 
-<!-- --- -->
+<!-- slide-break -->
 
 The three wilderness-pilgrimage eras of human history all have slightly different focuses:
 
@@ -895,13 +895,13 @@ The three wilderness-pilgrimage eras of human history all have slightly differen
 - In the second wilderness-pilgrimage era (the Jewish era)---which ran from the call of Abraham to the birth of Christ—there is a *national* focus to the pilgrimage.
 - In the third wilderness-pilgrimage era (the Church era)---which will run from the day of Pentecost until the onset of the Tribulation—there is a *corporate* focus to the pilgrimage.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Despite being somewhat different, all three wilderness-pilgrimage eras are part of this Earth's post-Eden state of corruption, without direct divine rule like will be present after the Second Advent in the Millennium. This means they all fall within the period of time that the world is under the control of Satan. Each period is also 2,000 years long.
 
 It is in the Millennium at Christ's return that the believers of all three eras come forth out of the wilderness and receive their rewards. Until that time, this world is a wilderness, like the desert of Sinai through which the children of Israel journeyed. But with hearts stayed upon the Lord, we pilgrims can experience the blessings of the water of life in the midst of this desolate wilderness (Ps.84:6b)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#the-three-wilderness-pilgrimage-eras-of-human-history-src-ichthys-follow-on-topics}
 
@@ -911,7 +911,7 @@ It is interesting to consider how humanity has essentially been exiles and sojou
 - Then he called an entire nation to be set apart and distinct. Under the Law, the nation of Israel was supposed to be sanctified unto the Lord—a light to the nations around them.
 - And now with the resurrection of Christ and coming of the Holy Spirit, God calls those in His Church to together be witnesses to the world as "elect exiles (1 Peter 1:1).
 
-<!-- --- -->
+<!-- slide-break -->
 
 It is of critical importance to not forget the fact that this world will stay an irredeemable wilderness until the return of Jesus Christ, when He will set the world to rights and rule with perfect truth and justice. Until then, it will stay enemy territory, never to be redeemed.
 
@@ -919,13 +919,13 @@ This is why past a certain point, trying to "fix" the world (through political m
 
 This is not a complicated point to understand, but it runs very counter to a good deal of mainstream Christianity thought, which has gotten mired in political goals rather than keeping the focus on spiritual growth as is proper. I'm not even talking about Dominion Theology/Christian Nationalism here and the really crazy "vote in the kingdom" type stuff. Even the garden variety "religious right" sort of political campaigning is in principle still problematic, even when it is not taken to the extremes. Largely because it is just a misallocation of our time and focus.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Another observation to make here is that no amount of sugar-coating will ever be able to get rid of the fact that what God calls us to more closely resembles a difficult journey through inhospitable wilderness than a stress-free leisurely stroll through fields of flowers (or what have). We *will* suffer on the road to Zion. People need to count the true cost (Luke 14:28-33).
 
 This is exactly why the so-called prosperity gospel is a load of rubbish.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#the-three-wilderness-pilgrimage-eras-of-human-history-src-ichthys-further-discussion}
 
@@ -967,7 +967,7 @@ TODO: Summary
 
 ### Content {#the-four-ages-of-human-history-introduction-src-ichthys-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Audio clip from Ichthys {#the-four-ages-of-human-history-introduction-src-ichthys-audio-clip-from-ichthys}
 
@@ -980,7 +980,7 @@ srcend="45:31"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -993,7 +993,7 @@ These newly appointed cherubim, in addition to taking over the devil's former du
 - <u>Church Age</u>: Christ having been revealed in Person in the (virgin-born) flesh in humility as the suffering Servant.
 - <u>Millennial Age</u>: Christ having been revealed in Person in the (resurrected) flesh in glory as the King.
 
-<!-- --- -->
+<!-- slide-break -->
 
 As we saw in the first installment of this series, Satan, in his role as Lucifer (the Morning Star), was meant to be a unique reflection of the glory of God. In this role, he was the creature counterpart of the divine Angel of the Lord, the pre-incarnate Jesus Christ (see [Part 4, section III.3.b](https://ichthys.com/SR4(SWS).htm#Angel_of_the_Lord)). After the devil's rebellion occasioned the events we call human history, however, the appointment of a college of four cherubim was symbolically necessary. For Jesus Christ would personally supplant the devil in a transcendent way, so that the function of the cherubim from the standpoint of reflecting the divine glory would now be directed towards the victor of human history, our Savior. So it is that the four cherubs who attend God's throne represent four important aspects of Christ's unique Person and work. Moreover in doing so (a point which is apropos of our immediate topic), the symbolism which each of the four faces of the cherubim espouses corresponds to a primary aspect of Christ's person and work as it is revealed within each of the four ages of human history:
 
@@ -1004,7 +1004,7 @@ As we saw in the first installment of this series, Satan, in his role as Lucifer
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#the-four-ages-of-human-history-introduction-src-ichthys-summary-points}
 
@@ -1019,7 +1019,7 @@ In this capacity, they represent the four major aspects of Christ's role as the 
 - <u>Church Age</u>: Christ having been revealed in Person in the (virgin-born) flesh in humility as the suffering Servant.
 - <u>Millennial Age</u>: Christ having been revealed in Person in the (resurrected) flesh in glory as the King.
 
-<!-- --- -->
+<!-- slide-break -->
 
 While the cherubim have replaced parts of Satan's initial role in creation, Jesus Christ as *the* Morning Star will be Satan's ultimate replacement, a resurrected human being taking over the position of pre-eminent creature (mirroring the divine Angel of the Lord as a reflection of God's glory).
 
@@ -1030,7 +1030,7 @@ In line with that underlying replacement, the function of the cherubim from the 
 - <u>Human-face</u>: (Church): Christ come in person in the flesh in humility as the Servant.
 - <u>Eagle-face</u>: (Millennium): Christ come in person in the flesh in glory as the King.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#the-four-ages-of-human-history-introduction-src-ichthys-follow-on-topics}
 
@@ -1040,7 +1040,7 @@ It also demonstrates the principle of "power corrupts". From any reasonable way 
 
 Understanding Satan's previous role also helps us better appreciate Christ's identity as *the* Morning Star. After His session in the court of the Father (so to speak), the God-Man Jesus Christ sits at the Father's right hand, and all judgement and authority has been given over to Him. As the perfect Son of Man, He reflects God's glory as the firstborn Prince of the Universe. 
 
-<!-- --- -->
+<!-- slide-break -->
 
 Last lesson we were focused on the different periods of sojourning through the wilderness of Satan's *kosmos* believers have faced throughout human history. Now we are examining human history through the lens of Christ's relationship to humanity as our Savior-King. The animal skins given to Adam and Eve immediately after the Fall (Genesis 3:21) already pointed to the promise of a Savior for humanity. Then more promises were given to the patriarchs, speaking of a Messiah for the bloodline of Abraham/Isaac/Jacob specifically. Then Jesus Christ came in the flesh to make good on God's covenant promises, like we discussed when we talked about the two phases of human history. And finally, Christ will return in glory with the crown and establish His perfect kingdom upon the Earth.
 
@@ -1085,7 +1085,7 @@ The cherubim (the fourfold angelic guardians of God's chariot-throne), have take
 
 ### Content {#the-four-ages-of-human-history-the-cherubim-src-ichthys-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Wider introduction {#the-four-ages-of-human-history-the-cherubim-src-ichthys-wider-introduction}
 
@@ -1102,7 +1102,7 @@ srcend="46:32"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -1112,7 +1112,7 @@ a) <u>Their Number</u>: The cherubs (also called seraphim in Isaiah chapter six)
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Summary points {#the-four-ages-of-human-history-the-cherubim-src-ichthys-summary-points}
 
@@ -1120,7 +1120,7 @@ Biblically speaking, the cherubim and seraphim are the same creatures.
 
 There are four cherubim, not two. The apparent contradiction in number in some passages can be explained by the idea of visual perspective: when viewed from the front of the Throne of God, only two of the Cherubim would really be visible. This doesn't mean that there are only two, but just that from that visual perspective only two are visible.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Follow-on topics {#the-four-ages-of-human-history-the-cherubim-src-ichthys-follow-on-topics}
 
@@ -1132,13 +1132,13 @@ Our job in this is to trust the Bible when we come across such things, even if w
 
 I know I mentioned it in a past CrossTalk Bible Study meeting, but we need to be willing to entertain questions like this, and actually "go there". If we do not, we risk giving the impression that inspiration and inerrancy are just a fake veneer or wishful thinking, rather than being objective reality like they actually are. And that does a good deal of damage to people's overall confidence in the Bible.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Further discussion {#the-four-ages-of-human-history-the-cherubim-src-ichthys-further-discussion}
 
 
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Cherubim - Their wings {#the-four-ages-of-human-history-the-cherubim-src-ichthys-cherubim-their-wings}
 
@@ -1153,7 +1153,7 @@ srcend="47:53"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -1161,7 +1161,7 @@ b) <u>Their Wings</u>: The wings of the cherubim are described as numbering six 
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Summary points {#the-four-ages-of-human-history-the-cherubim-src-ichthys-summary-points}
 
@@ -1171,7 +1171,7 @@ It is sort of difficult to for us to visualize what this looks like, but some of
 
 Understanding this also sheds light on how the wheels are said to "have eyes". We have no general indication that wheels mentioned here are in any way alive (unlike the angels), so how could they have eyes (which are possessed by living things)? Well, if the wings have eyes, and the wings compose part of the "wheels within wheels", then that is how. So technically speaking, it is not the wheels themselves with eyes, but the "wheel assemblies" (i.e., the wheels with the cherubim wings interlocked to power them) that have eyes... because the living angelic creatures partially compose these wheel assemblies. If you were to remove the angels, then there would be no eyes, is the point.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Follow-on topics {#the-four-ages-of-human-history-the-cherubim-src-ichthys-follow-on-topics}
 
@@ -1181,13 +1181,13 @@ When it comes to understanding and visualizing the cherubim and wing-powered whe
 
 We can only imagine how spectacular a sight this would be to behold. No doubt Ezekiel was left in awe by the sight... well this, and all the other heavenly things he saw. We can scarcely imagine the majesty that awaits us on the other side, but the prophets actually caught real glimpses of it through their visions.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#the-four-ages-of-human-history-the-cherubim-src-ichthys-further-discussion}
 
 
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Cherubim - Their symbolism {#the-four-ages-of-human-history-the-cherubim-src-ichthys-cherubim-their-symbolism}
 
@@ -1202,20 +1202,20 @@ srcend="50:37"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
 c) <u>Their Symbolism</u>: As described above, all four cherub-faces symbolize Jesus Christ, with each representing that aspect of His historical mission at the forefront during the age for which they stand.
 
-- <u>The bullock face</u> (Gentile age) is a picture of Christ the suffering Servant. The bullock not only bears burdens (as Christ bore our sins: cf. Is.53:4), but is also the most esteemed sacrificial animal, whose blood was shed under the Old Testament economy as a symbolic representation of Christ's promised work on our behalf (Lev.1:5ff.).<!-- --- -->
-- <u>The lion face</u> (Jewish age) is a picture of Christ as the promised Messiah. The lion is the symbol of the tribe of Judah (Rev.5:5; cf. Gen.49:9-12), and has a messianic connotation throughout the Old Testament (cf. Num.23:24; 24:9). The generation of Israel to whom He came was ready to embrace the lion (the Messiah as avenging warrior), but stumbled over the bullock (the Messiah as self-sacrificing servant).<!-- --- -->
-- <u>The human face</u> (Church age) is a picture of Christ as the incarnate, visible Savior of the world. He is ***the*** Son of Man (Matt.9:6), the archetypal human being who is truly human in every way apart from sin (Heb.2:14 with Heb.4:15), the last Adam (1Cor.15:45). The Church, composed of all believing Jews and gentiles, is His body here on earth, not yet glorified as indeed He was not glorified until after His work on the cross was completed (Jn.17:1-5).<!-- --- -->
+- <u>The bullock face</u> (Gentile age) is a picture of Christ the suffering Servant. The bullock not only bears burdens (as Christ bore our sins: cf. Is.53:4), but is also the most esteemed sacrificial animal, whose blood was shed under the Old Testament economy as a symbolic representation of Christ's promised work on our behalf (Lev.1:5ff.).<!-- slide-break -->
+- <u>The lion face</u> (Jewish age) is a picture of Christ as the promised Messiah. The lion is the symbol of the tribe of Judah (Rev.5:5; cf. Gen.49:9-12), and has a messianic connotation throughout the Old Testament (cf. Num.23:24; 24:9). The generation of Israel to whom He came was ready to embrace the lion (the Messiah as avenging warrior), but stumbled over the bullock (the Messiah as self-sacrificing servant).<!-- slide-break -->
+- <u>The human face</u> (Church age) is a picture of Christ as the incarnate, visible Savior of the world. He is ***the*** Son of Man (Matt.9:6), the archetypal human being who is truly human in every way apart from sin (Heb.2:14 with Heb.4:15), the last Adam (1Cor.15:45). The Church, composed of all believing Jews and gentiles, is His body here on earth, not yet glorified as indeed He was not glorified until after His work on the cross was completed (Jn.17:1-5).<!-- slide-break -->
 - <u>The eagle face</u> (Millennial age) is a picture of Christ exalted in resurrection and victorious in battle. Glorified by the Father for His victory at the cross ( Eph.1:19b-23), following His resurrection and ascension He is now seated at the right hand of God the Father until the day of His return (Ps.110). At that time (the Second Advent), He will fulfill all the messianic prophecies recorded in the scriptures (cf. Eph.3:10-12; Col.1:20), and will rule the world in glory for a thousand years. With its connotations of forbidding majesty and awe (Deut.28:49; Jer.48:40; 49:22; Ezek.17:3; 17:7; Dan.7:4; Hos.8:1; Hab.1:8; cf. Is.46:11), the eagle is an appropriate symbol for Christ's majestic and awe-inspiring double victory, first at the cross (with its accompanying resurrection, ascension and session at the Father's right hand), and ultimately at the Second Advent (Matt.24:28; Lk.17:37; compare the picture of the glorified Christ at Rev.1:12-16).
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Summary points {#the-four-ages-of-human-history-the-cherubim-src-ichthys-summary-points}
 
@@ -1228,7 +1228,7 @@ The faces possessed by the cherubim represent the respective aspects of Christ's
 
 So in each of these four divisions we have 1) a face, 2) an age the face corresponds to, and 3) a corresponding aspect of Christ's historical mission at the forefront during that age. 
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Follow-on topics {#the-four-ages-of-human-history-the-cherubim-src-ichthys-follow-on-topics}
 
@@ -1242,13 +1242,13 @@ Combining that perhaps less-ambiguous identification with the other faces is how
 
 So basically, none of this is particularly arbitrary. Is it "obvious"? I suppose that is somewhat in the eye of the beholder, but in my opinion, we needn't be particularly shy about teaching these identifications, because what else would the faces represent if not this?
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Further discussion {#the-four-ages-of-human-history-the-cherubim-src-ichthys-further-discussion}
 
 
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Cherubim - The number of their faces {#the-four-ages-of-human-history-the-cherubim-src-ichthys-cherubim-the-number-of-their-faces}
 
@@ -1263,19 +1263,19 @@ srcend="53:02"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
 d) <u>The Number of their Faces</u>: Of all human features, the face is at once one of the most memorable and expressive, making it a most effective means for the type of symbolic representation discussed above. Although their bodies are in human form (Ezek.1:5), the four faces of the cherubim are unique, and stand symbolically for the various aspects of our Lord's earthly ministry just described. In this way, the faces of the cherubim reflect the glory of the Son of God instead of their own glory, just as, ideally, the world should see the face of Christ in us, His servants, when we walk as He commanded us to do (2Cor.3:18; cf. Matt.16:24; Jn.13:15; 1Cor.11:1; 2Cor.2:15; Gal.4:19; Eph.5:1; 1Thes.1:6; 1Pet.2:21).
 
-<!-- --- -->
+<!-- slide-break -->
 
 All four faces of the cherubim are entirely obscured in Isaiah (Is.6:1-7), because as the cherubs hover over the throne of God, they cover their faces with one set of wings (so as not to look upon the glory of God). In Ezekiel (Ezek.1:4-26; 10:1-22; 41:18-20), the cherubs (along with their wing-wheels) are positioned under the chariot throne, so that no veiling of their faces is necessary. All four faces, as a result, were visible to Ezekiel. In Revelation (Rev.4:6-8), the cherubs encircle the throne and are part of it (i.e., in direct contact with it), but are not positioned so as to provide locomotion (i.e., they have rotated into a guardian position: see the diagram below). Here, they are roughly on the level of God's throne (i.e., not completely below it as in Ezekiel, nor hovering above it as in Isaiah). As a result, we may surmise that they are seen by John covering all but their outward looking face (so that he can describe them as if they had only one face). In actuality, therefore, each cherub in all three passages possesses all four faces: that of a man on the front, an eagle on the back, a lion on the right and a bullock on the left (as in Ezek.1:6-9). From the viewer's perspective, however, each cherub may seem to have only one face, since only one of the faces is generally visible at any given time (cf. Ezek.10:14, where it states literally in the Hebrew that "***the*** face of the first one was . . . [etc.]", although Ezekiel is previously quite clear about the fact each cherub has ***four*** faces: Ezek.1:6-9).
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Summary points {#the-four-ages-of-human-history-the-cherubim-src-ichthys-summary-points}
 
@@ -1283,7 +1283,7 @@ Of all human features, the face is at once one of the most memorable and express
 
 The cherubim cover their faces when their "line of sight" has them facing God, so as not to look upon the glory of the LORD. So when they were flying above the chariot-throne and could see God, they used a pair of wings to cover their sight (Isaiah 6:2). On the other hand, when they are in their "locomotion position", they are below the chariot-throne, and do not have any need to cover their faces, which is why Ezekiel could see all four faces in his description of them in Ezekiel 10 (cf. Ezekiel 10:14). But when in the "guardian position" (which we may infer has them more level with the chariot-throne, rather than completely below it), it is likely that they cover all but their "outward-directed" face, which explains why the Apostle John only describes them each with a single face in Revelation 4:6-8.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Follow-on topics {#the-four-ages-of-human-history-the-cherubim-src-ichthys-follow-on-topics}
 
@@ -1296,13 +1296,13 @@ Just as with the number of cherubim and the number of wings, this is yet another
 All this explains why Ezekiel says four faces each, but John only mentions one each. Just because John did not see the other (covered) faces does not mean that they were not in fact there.
 
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Further discussion {#the-four-ages-of-human-history-the-cherubim-src-ichthys-further-discussion}
 
 
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Cherubim - Their order {#the-four-ages-of-human-history-the-cherubim-src-ichthys-cherubim-their-order}
 
@@ -1317,7 +1317,7 @@ srcend="57:27"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -1329,15 +1329,15 @@ Each had four faces. The face of the first [side] was [that of a] cherub; the fa
 
 In this second description, Ezekiel's account thus moves around the chariot-throne in a clockwise fashion (left-front, front-right, right-rear, rear-left), mentioning the outward-looking face in each case. Ezekiel begins with the cherub stationed on the left-front corner of the chariot no doubt because this angel was closest to his view, for the chariot-throne is described at this point as standing south of the temple (Ezek.10:3), while Ezekiel himself was positioned near the temple's entrance (viz., to the north of the chariot-throne: Ezek.8:16). His description of this cherub, elsewhere with the bullock face, as having "the face of a cherub" may be explained by fact that in the Hebrew culture the *cherubh* (cherub: Hebrew  כרוב) must have generally been understood as having the appearance of a bullock, precisely the reason why Ezekiel made such a point of articulating that the genuine, heavenly cherubs had *four* faces, only one of which resembled a bullock.
 
-<!-- --- -->
+<!-- slide-break -->
 
 The order of the cherubim given in Revelation 4:7 of Lion, Bullock, Man, Eagle, is thus consistent with what is found elsewhere in scripture (i.e., Is.6:1-7; Ezek.1:4-26; 10:1-22; 41:18-20). In Ezekiel's description, the cherubs are actually in contact with the chariot-throne while flying, in Isaiah's description, the cherubs (called seraphs) are disengaged and flying, and in Revelation, the cherubs are in contact with the throne (though they have apparently shifted positions: see the diagram immediately below), and are not flying (i.e., they are "in the midst" of the throne; Greek: *en meso*: ἐν μέσῳ τοῦ θρόνου).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ![Cherubim Order](https://ichthys.com/images/cherub.gif)
 
-<!-- --- -->
+<!-- slide-break -->
 
 As to the order per se as given in Revelation 4:7, John lists the cherubim in the following manner right, left, front, rear. This is similar to what Ezekiel does when describing the four faces of the individual cherubim in the tenth verse of chapter one, but not identical. For while Ezekiel sandwiches the left and the right in between the front and the rear, John, on the other hand, shifts this order, giving the left and the right, followed by the front and the rear. This change of order (from the more natural order of Ezekiel) is due to the fact that, in the book of Revelation (the "unveiling of Jesus Christ", its literal title), it was appropriate for John under the guidance of the Holy Spirit to list the faces of the cherubim so as to reflect these symbolic representations of the person and work of our Savior in respect to their specific relationship to the overall Plan of God. Therefore the ranking in Revelation 4:7 (Lion-Bullock-Man-Eagle) has the following significance:
 
@@ -1352,7 +1352,7 @@ The symbolism thus rendered of Israel enclosing the gentiles and the gentiles fu
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Summary points {#the-four-ages-of-human-history-the-cherubim-src-ichthys-summary-points}
 
@@ -1362,7 +1362,7 @@ In Ezekiel 10:14, Ezekiel describes the faces of the cherubim (here arranged in 
 
 Since here the "cherub face" is aligned with bullock face (i.e., it has to be, by process of elimination), it must be that the Hebrew culture of the time implicitly understood this association of cherubim and bullocks. Although Ezekiel is nonetheless very clear each angel has *four* faces.
 
-<!-- --- -->
+<!-- slide-break -->
 
 The order of the cherubim in Revelation is yet again different. Part of this is that the angels here have shifted to their "guardian positions" so that now each side only has one face pointing outward. But instead of listing the faces in a clockwise direction (like one might if one were walking around the chariot-throne, as explained before in discussing Ezekiel 10:14), or in mirroring the order given for the faces of single cherub (as explained before in discussing Ezekiel 1:10), John gives us a third completely new order.
 
@@ -1375,7 +1375,7 @@ John's new order stands out all the more. Why start with a side? Why be differen
 
 If nothing in scripture is accidental, there must be a reason for this. The theory is that John lists the faces of the cherubim so as to reflect the symbolic representations of the person and work of our Savior in respect to their specific relationship to the overall Plan of God: Israel and Kingdom Israel enclose the gentiles and the mystery gentiles, just as they do in the plan of God.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Follow-on topics {#the-four-ages-of-human-history-the-cherubim-src-ichthys-follow-on-topics}
 
@@ -1383,12 +1383,12 @@ A picture really is worth a thousand words here. I'd be *very* lost without the 
 
 This whole discussion reminds me of the arrangement of the tribes of Israel in the camp and the stones on the breastplate, as [gone over in CT6](https://ichthys.com/Tribulation-Part6.htm#7._The_Foundations_and_Gates_of_the_Wall). What might at first glance seem completely arbitrary actually has some significance to it... even though it takes quite some effort to unpack it all and make sense of it.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Further discussion {#the-four-ages-of-human-history-the-cherubim-src-ichthys-further-discussion}
 
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Recap {#the-four-ages-of-human-history-the-cherubim-src-ichthys-recap}
 
@@ -1429,7 +1429,7 @@ TODO: Summary
 
 ### Content {#the-five-dispensational-divisions-of-human-history-src-ichthys-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Introduction {#the-five-dispensational-divisions-of-human-history-src-ichthys-introduction}
 
@@ -1444,17 +1444,17 @@ srcend="01:01:26"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
 The word "dispensation" is at once a descriptive and unfortunate term for the five segments into which history is divided in respect to God's allocation of resources for pursuing a relationship with Him (i.e., salvation and spiritual growth). This is because while "dispensation" is a perfectly good English word that closely shadows the biblical vocabulary on the one hand (translating the Greek word *oikonomia*: οἰκονομία), on the other hand the connotations the word carries from Roman Catholic usage as well as from traditional, evangelical "Dispensationalism" can be misleading. The Greek word *oikonomia* may also be translated "economy" and "stewardship" (cf. Lk.16:2-4; 1Cor.9:17; Col.1:25; 1Tim.1:4), but these words too have taken on specialized meanings that obscure the real force of what biblical *oikonomia* really is. God's dispensations are periods of time distinguished by the different grace means He uses in each one to "dispense" the resources necessary for seeking Him to all those who desire to do so (Eph.3:2).
 
-<!-- --- -->
+<!-- slide-break -->
 
-It should go without saying that God has always made Himself available to those who want to know Him and who wish to have a relationship with Him – that is the whole point of our existence (Deut.4:29; Prov.8:17; Is.45:22; 55:6; Jer.29:13; Matt.7:7; Lk.11:9). The manner and the means whereby He accomplishes this, however, differ, corresponding to the dispensational division in question. To know God, one needs to have information about God; one needs truth, truth which must then be believed and put into practice. And while certain truths are obvious to all mankind (e.g., the existence of God, the basic distinction between right and wrong, etc.), more specific information about God, the salvation He has provided in Jesus Christ, and the knowledge essential to cultivating a relationship with Him are areas of truth that are not available to mankind independent of the grace means God has provided for their dissemination. While our omnipotent, omniscient God is certainly capable of giving any and every interested human being independent revelation of all His truth, He has for the most part in the course of human history chosen to work through various agents, stewards or "dispensers" who have been responsible for providing spiritual food to the family of God.<!-- --- --> Until the coming of the canon of scriptures, this was a direct process wherein the Word of God came exclusively to certain individuals of God's choosing called "prophets" (Hebrew: *nabi'* – נביא; Greek: *prophetes* – προφήτης) who were responsible for dispensing divine truth. During the formation of the canon (a period of some fifteen hundred years), prophecy and the written Word were dual means of dispensing truth. With the close of the canon and the passing of the apostolic generation, God's Word ***is the sole source*** of special revelation about Him, so that the dispensation of truth during the division known as the Church is correspondingly different from preceding dispensational divisions (the ministry and gifts of the Spirit being crucial at this present time). With the commencement of the end times and the millennial reign of Christ that follows, scripture will be complemented once again by extraordinary prophetic empowerment as the knowledge of God will come to fill the entire world (see below).
+It should go without saying that God has always made Himself available to those who want to know Him and who wish to have a relationship with Him – that is the whole point of our existence (Deut.4:29; Prov.8:17; Is.45:22; 55:6; Jer.29:13; Matt.7:7; Lk.11:9). The manner and the means whereby He accomplishes this, however, differ, corresponding to the dispensational division in question. To know God, one needs to have information about God; one needs truth, truth which must then be believed and put into practice. And while certain truths are obvious to all mankind (e.g., the existence of God, the basic distinction between right and wrong, etc.), more specific information about God, the salvation He has provided in Jesus Christ, and the knowledge essential to cultivating a relationship with Him are areas of truth that are not available to mankind independent of the grace means God has provided for their dissemination. While our omnipotent, omniscient God is certainly capable of giving any and every interested human being independent revelation of all His truth, He has for the most part in the course of human history chosen to work through various agents, stewards or "dispensers" who have been responsible for providing spiritual food to the family of God.<!-- slide-break --> Until the coming of the canon of scriptures, this was a direct process wherein the Word of God came exclusively to certain individuals of God's choosing called "prophets" (Hebrew: *nabi'* – נביא; Greek: *prophetes* – προφήτης) who were responsible for dispensing divine truth. During the formation of the canon (a period of some fifteen hundred years), prophecy and the written Word were dual means of dispensing truth. With the close of the canon and the passing of the apostolic generation, God's Word ***is the sole source*** of special revelation about Him, so that the dispensation of truth during the division known as the Church is correspondingly different from preceding dispensational divisions (the ministry and gifts of the Spirit being crucial at this present time). With the commencement of the end times and the millennial reign of Christ that follows, scripture will be complemented once again by extraordinary prophetic empowerment as the knowledge of God will come to fill the entire world (see below).
 
-<!-- --- -->
+<!-- slide-break -->
 
 The "dispensations" of God's gracious provision of truth about Himself (necessary for salvation and spiritual growth) are five in number. They are:
 
@@ -1466,7 +1466,7 @@ The "dispensations" of God's gracious provision of truth about Himself (necessar
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Summary points {#the-five-dispensational-divisions-of-human-history-src-ichthys-summary-points}
 
@@ -1476,7 +1476,7 @@ The word "dispensation" is an accurate translation of the Greek word *oikonomia*
 
 While our omnipotent, omniscient God is certainly capable of giving any and every interested human being independent revelation of all His truth, He has for the most part in the course of human history chosen to work through various agents, stewards or "dispensers" who have been responsible for providing spiritual food to the family of God.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Here is a brief synopsis of various dispensers of truth, and their general periods of activity:
 
@@ -1487,7 +1487,7 @@ Here is a brief synopsis of various dispensers of truth, and their general perio
 
 As you can see, revelation comes through either prophets, or the written Word of God. Here in the Church age, Bible teachers do not receive direct revelation, but explain the Bible, which is itself the revelation.
 
-<!-- --- -->
+<!-- slide-break -->
 
 These dispensers of truth fall within five separate dispensational divisions (each of which we will go through in more depth):
 
@@ -1497,7 +1497,7 @@ These dispensers of truth fall within five separate dispensational divisions (ea
 - The Church: from Christ's first advent to His Second Advent.
 - The Millennium: from Christ's return to the end of history.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Follow-on topics {#the-five-dispensational-divisions-of-human-history-src-ichthys-follow-on-topics}
 
@@ -1509,11 +1509,11 @@ A key observation that we might draw is that God is always the provider of speci
 
 To be clear, He doesn't force it upon us (in that He gives us an opportunity to say no... and tragically, many do in fact say no), but the point is that we would not be able to find it without Him. This goes for all of humanity, down to last person. We have all been saved *by grace*. Because God not only paid for our sin with the precious blood of His Son, but then also gave us the knowledge needed to grasp hold of that payment through faith. 
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Further discussion {#the-five-dispensational-divisions-of-human-history-src-ichthys-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 
 #### The Gentile Patriarchy {#the-five-dispensational-divisions-of-human-history-src-ichthys-the-gentile-patriarchy}
@@ -1529,7 +1529,7 @@ srcend="01:02:15"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -1537,7 +1537,7 @@ a) <u>Gentile Patriarchy</u>: In keeping with the individual focus of the times 
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Summary points {#the-five-dispensational-divisions-of-human-history-src-ichthys-summary-points}
 
@@ -1545,7 +1545,7 @@ In the Gentile Patriarchy, God worked primarily though individuals who were not 
 
 If you take a look at the verse references Dr. Luginbill gives for each of these men, you can see that while all their circumstances were different, they were all following the paths God had laid out for them, and served as witnesses of God's truth.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Follow-on topics {#the-five-dispensational-divisions-of-human-history-src-ichthys-follow-on-topics}
 
@@ -1557,15 +1557,15 @@ I think it is very helpful for us to associate these short labels with each disp
 |-----------------------------|----------------------------------------------------------------------------------|
 | Gentile Patriarchy          | Through individuals                                                              |
 
-<!-- --- -->
+<!-- slide-break -->
 
 When we consider in this first division how God directly spoke through individuals, I think these circumstances can clearly show that God's favor was not arbitrarily limited to one family or nation. Of course, as we talk about the Jewish Patriarchy and Mosaic Law, we will be arguing that God choosing to speak first through the bloodline of Abraham and then the people of Israel really wasn't arbitrarily limited either, properly understood. But it is nonetheless a bit clearer here, where there is no special focus = no specific focused "torch-bearer" (we might say).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Further discussion {#the-five-dispensational-divisions-of-human-history-src-ichthys-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 
 #### The Jewish Patriarchy {#the-five-dispensational-divisions-of-human-history-src-ichthys-the-jewish-patriarchy}
@@ -1581,7 +1581,7 @@ srcend="01:03:40"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -1589,7 +1589,7 @@ b) <u>Jewish Patriarchy</u>: In terms of the dispensing of divine truth, God's g
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Summary points {#the-five-dispensational-divisions-of-human-history-src-ichthys-summary-points}
 
@@ -1597,13 +1597,13 @@ In the Jewish Patriarchy, God was still dispensing truth through individuals. Ho
 
 Unlike the completely unrelated individuals in the Gentile Patriarchy who received revelation, the men of the Jewish Patriarchy were linked to each other through blood.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Follow-on topics {#the-five-dispensational-divisions-of-human-history-src-ichthys-follow-on-topics}
 
 While we may not always think of Abraham, Isaac, Jacob, etc. as prophets *per se*, they really were, in that they received direct revelation from God (cf. the verses Dr. Luginbill mentions above). The same also holds for the individuals in the Gentile Patriarchy like Noah and Job. The title "prophet" does sort of take on a technical sense after the establishment of a specific "office" in the nation of Israel, but more generally, a prophet is someone who speaks forth under the inspiration of God (cf. the core meaning of the Greek word [προφήτης](https://biblehub.com/greek/4396.htm)). So truly, these men were all prophets in every sense that matters.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Now, when it comes to understanding why God chose to work out salvation through a specific family—and then nation, as we shall see—rather than leaving salvation more "dispersed" (so to speak), there is much we could say on the subject. But really, what most people are troubled by when they ask this sort of question is the "fairness" aspect of it. To put it simply, isn't it unfair for God to bless one family, and not others? And then bless one nation, but not others? How is that just?
 
@@ -1611,7 +1611,7 @@ Well, consider that God's blessing was not arbitrary even amongst the family of 
 
 Compare also Romans 9:6-9; Galatians 3:9; Galatians 3:29. "Children of Abraham" are those who inherit his faith.
 
-<!-- --- -->
+<!-- slide-break -->
 
 If we were to use a short label to identify the means through which God dispensed church in this division of history, we would say that God dispensed truth ***through a family: the bloodline of Abraham***.
 
@@ -1620,13 +1620,13 @@ If we were to use a short label to identify the means through which God dispense
 | Gentile Patriarchy          | Through individuals                                                              |
 | Jewish Patriarchy           | Through a family: the bloodline of Abraham |
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Further discussion {#the-five-dispensational-divisions-of-human-history-src-ichthys-further-discussion}
 
 TODO: Deuteronomy quotations from what Odii brought up
 
-<!-- --- -->
+<!-- slide-break -->
 
 
 
@@ -1644,7 +1644,7 @@ srcend=""
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -1652,7 +1652,7 @@ c) <u>The Mosaic Law</u>: With the giving of the Mosaic Law, God's truth took wr
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Summary points {#the-five-dispensational-divisions-of-human-history-src-ichthys-summary-points}
 
@@ -1671,7 +1671,7 @@ The entire national lifestyle dictated by the Law was itself designed to teach t
 - The system of festivals taught God's ultimate plan for the ages.
 - Etc.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Follow-on topics {#the-five-dispensational-divisions-of-human-history-src-ichthys-follow-on-topics}
 
@@ -1681,7 +1681,7 @@ With the Word of God written down, "getting the truth" was now at times a matter
 
 Additionally, there were now completely new roles relating to the truth: the priests and Levites. In previous dispensational divisions without any written text, prophets spoke for God, and there were no people tasked with interpreting and teaching their words (or the like). But now priests and Levites were tasked with interpreting and teaching the Word of God. Again, this didn't necessarily diminish the authority of the true prophets; it just means that they were no longer the only mechanism by which truth was distributed.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Now, under the dispensation of the Mosaic Law, much truth was left veiled, and only hinted at in symbolism and ritual. We should emphasize: the Mosaic Law does *not* contradict anything later revealed under the New Testament dispensation of grace in the Church Age. Things being left unclear in some areas (at least until further revelation) does *not* a contradiction make.
 
@@ -1689,7 +1689,7 @@ Fully articulating the purpose of the Law in the Plan of God is a bit out of sco
 
 This means that later New Testament revelation slots right into the framework of truth that has been there from the very beginning, hand-in-glove. So it is that God's so-called "progressive revelation" of truth throughout all the dispensational divisions of human history has not only always been free from contradiction, but it has also always been consistent and perfectly united in a way that nothing else can compare to. Through the lips and pens of prophets God gave humanity His message... His single, perfectly-complete, perfectly-consistent message. There is nothing else like it.
 
-<!-- --- -->
+<!-- slide-break -->
 
 | **Dispensational division** | **God's means of dispensing special revelation**                                 |
 |-----------------------------|----------------------------------------------------------------------------------|
@@ -1697,11 +1697,11 @@ This means that later New Testament revelation slots right into the framework of
 | Jewish Patriarchy           | Through a family: the bloodline of Abraham                                       |
 | The Mosaic Law              | Through a nation: the nation of Israel |
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Further discussion {#the-five-dispensational-divisions-of-human-history-src-ichthys-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 
 #### The Church {#the-five-dispensational-divisions-of-human-history-src-ichthys-the-church}
@@ -1717,17 +1717,17 @@ srcend="05:29"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
-d) <u>The Church</u>: The death, resurrection and ascension of Jesus Christ, followed by the advent of His Holy Spirit, brought about a revolution in the dispensation of God's grace means for learning about salvation and pursuing spiritual growth. With the explosion of grace to the gentiles and the formation of a world-wide family of God, a major change in the dispensation of truth was also required (cf. Heb.7:12). As a single family, united to Christ, the work of spiritual growth is very much now a group effort. The two key factors which allowed this transformation to take place are 1) the giving of the Holy Spirit; 2) the completion of the canon of scripture. Apart from the early days of the Church (and it would be well to remember that all the writers of scripture were either apostles who had seen Christ or were writing under their authority: cf. the discussion of prophecy above), the dispensation of knowledge for salvation and spiritual growth has rested almost exclusively on these twin pillars, whether directly or indirectly. For all believers have the gift of the Holy Spirit (Rom.8:9), and all truth necessary for salvation and spiritual growth is contained in and limited to the Bible (with the exception of "general revelation": e.g., recognizing God's existence from contemplating the magnificence of His creation). That is not to say, of course, that in our current dispensation it is "every man for himself", and that every believer is authorized and capable of "self-dispensing" the spiritual food necessary for growth. To the contrary, we the Church are the most interconnected group of believers in this respect that the world has yet seen. We are one body, and we function as parts of that body, each one of which is essential, each one of which has great need of all the others (1Cor.12:12-30). As those who have accepted Jesus Christ, we are all here with the same dual-objective: to grow spiritually and to help others do the same. The Holy Spirit bestows spiritual gifts upon all new believers (1Cor.12:4-11), so that through His empowerment of these gifts and His indwelling of every believer we of the Church age have greater opportunities than ever before both for personal spiritual advance and also for helping our fellow believers grow as well.<!-- --- --> As spiritual advance in the midst of Satan's world is no easy mandate, the mutual support of the body of Christ is essential for effective, collective growth. Furthermore, the dispensation of divine truth is no longer accomplished through prophecy (a gift that apparently ceased to function with the passing of the apostolic generation, once the canon of scripture was complete: 1Cor.13:8). Nor is it now a matter of close adherence to a very strict set of symbolic rituals (the Law having been abrogated by the reality of Christ's incarnation and work on the cross: Rom.6:14; 10:4; Col.2:17). We are now free to accept the responsibility of spiritual growth without the burden of following the Law in all its particulars, educational as they may be (Gal.5:1; 5:13; 1Pet.2:16). For everything we as Christians need to know about God and our role in His plan is now contained in one unique book, the Bible (2Tim.3:15-17). God used inspired men to write this Book of books (2Pet.1:20-22), and now uses prepared men with the requisite spiritual gifts to teach and so to "dispense" the truths it contains (1Cor.12:27-31; Eph.4:11-16; 1Thes.5:12-13; 1Tim.5:17):
+d) <u>The Church</u>: The death, resurrection and ascension of Jesus Christ, followed by the advent of His Holy Spirit, brought about a revolution in the dispensation of God's grace means for learning about salvation and pursuing spiritual growth. With the explosion of grace to the gentiles and the formation of a world-wide family of God, a major change in the dispensation of truth was also required (cf. Heb.7:12). As a single family, united to Christ, the work of spiritual growth is very much now a group effort. The two key factors which allowed this transformation to take place are 1) the giving of the Holy Spirit; 2) the completion of the canon of scripture. Apart from the early days of the Church (and it would be well to remember that all the writers of scripture were either apostles who had seen Christ or were writing under their authority: cf. the discussion of prophecy above), the dispensation of knowledge for salvation and spiritual growth has rested almost exclusively on these twin pillars, whether directly or indirectly. For all believers have the gift of the Holy Spirit (Rom.8:9), and all truth necessary for salvation and spiritual growth is contained in and limited to the Bible (with the exception of "general revelation": e.g., recognizing God's existence from contemplating the magnificence of His creation). That is not to say, of course, that in our current dispensation it is "every man for himself", and that every believer is authorized and capable of "self-dispensing" the spiritual food necessary for growth. To the contrary, we the Church are the most interconnected group of believers in this respect that the world has yet seen. We are one body, and we function as parts of that body, each one of which is essential, each one of which has great need of all the others (1Cor.12:12-30). As those who have accepted Jesus Christ, we are all here with the same dual-objective: to grow spiritually and to help others do the same. The Holy Spirit bestows spiritual gifts upon all new believers (1Cor.12:4-11), so that through His empowerment of these gifts and His indwelling of every believer we of the Church age have greater opportunities than ever before both for personal spiritual advance and also for helping our fellow believers grow as well.<!-- slide-break --> As spiritual advance in the midst of Satan's world is no easy mandate, the mutual support of the body of Christ is essential for effective, collective growth. Furthermore, the dispensation of divine truth is no longer accomplished through prophecy (a gift that apparently ceased to function with the passing of the apostolic generation, once the canon of scripture was complete: 1Cor.13:8). Nor is it now a matter of close adherence to a very strict set of symbolic rituals (the Law having been abrogated by the reality of Christ's incarnation and work on the cross: Rom.6:14; 10:4; Col.2:17). We are now free to accept the responsibility of spiritual growth without the burden of following the Law in all its particulars, educational as they may be (Gal.5:1; 5:13; 1Pet.2:16). For everything we as Christians need to know about God and our role in His plan is now contained in one unique book, the Bible (2Tim.3:15-17). God used inspired men to write this Book of books (2Pet.1:20-22), and now uses prepared men with the requisite spiritual gifts to teach and so to "dispense" the truths it contains (1Cor.12:27-31; Eph.4:11-16; 1Thes.5:12-13; 1Tim.5:17):
 
 {{% ichthys-translation p="Ephesians 1:8b-10" %}}
 . . . . . in all wisdom and understanding [God] has made known to us the mystery He has willed (according to His own benevolent purpose which He determined in [Christ]) for administering (lit., for the ***dispensing*** of) this [present] fulfillment of the epochs: namely the incorporation of all things in Christ, things in heaven, and things on earth –
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% ichthys-translation p="Ephesians 3:8-10" %}}
 This gracious favor has been given to me, the least of His holy ones: to give to the gentiles the good news of the indescribable wealth [that is in] Christ, and to enlighten everyone as to how [the truth] of this mystery (once hidden from the ages in God who created everything) is now ***being dispensed***, so that the enigmatically intricate wisdom of God might be made known to the rulers and authorities in the heavenly realms through the agency of the Church.
@@ -1737,7 +1737,7 @@ This gracious favor has been given to me, the least of His holy ones: to give to
 It is of this [Church] that I, [Paul], have become a minister according to God's mandate given to me for ***dispensing [the truth]*** to you, in order to bring completeness to God's plan (lit., "word", Gk. logos), that is, [to make known] the mystery hidden from ages and from generations [past], but now revealed to His holy ones (i.e., believers). To all such God desired to make known what wealth there is in this glorious mystery regarding the gentiles, for it is that Christ – your hope of glory – is in you.
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% ichthys-translation p="1st Timothy 1:4" %}}
 And command them not to pursue myths and endless genealogies, things which provoke controversies rather than the ***dispensing [of] the [truth]*** of God by faith.
@@ -1745,7 +1745,7 @@ And command them not to pursue myths and endless genealogies, things which provo
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Summary points {#the-five-dispensational-divisions-of-human-history-src-ichthys-summary-points}
 
@@ -1763,13 +1763,13 @@ But this is not just something we do alone through the insight the Holy Spirit g
 
 Everything we as Christians need to know about God and our role in His plan is now contained in one unique book, the Bible. God used inspired men to write this Book of books, and now uses prepared men with the requisite spiritual gifts to teach and so to "dispense" the truths it contains. And these men, in turn, are supported by the gifts of all the other believers in the Church, who have also been empowered by Holy Spirit in various ways, such that the Church builds itself up in perfect truth and love.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Follow-on topics {#the-five-dispensational-divisions-of-human-history-src-ichthys-follow-on-topics}
 
 I think it easy for us to forget sometimes how big a deal the giving of the Holy Spirit was. Without the indwelling Holy Spirit, there would be no spiritual gifts. And without spiritual gifts, there would be no Church. More than any time previously in human history, individual believers now play a direct part in the truth's spread in this world. No longer are there prophets or priests or kings above us. Rather, all believers are now part of a holy priesthood (cf. 1 Peter 2:5)---living stones being built into a spiritual temple for God Himself. Each one of us now plays a direct role in the working out of God's plan in the world, and that means that more than ever before, God's dispensing of the truth is a collective, group effort—something that cannot succeed without each and every one of us properly exercising the gifts bestowed upon us by the Spirit. Only then can "we all reach unity in the faith and in the knowledge of the Son of God and become mature, attaining to the whole measure of the fullness of Christ" (Ephesians 4:13).
 
-<!-- --- -->
+<!-- slide-break -->
 
 | **Dispensational division** | **God's means of dispensing special revelation**                                 |
 |-----------------------------|----------------------------------------------------------------------------------|
@@ -1778,11 +1778,11 @@ I think it easy for us to forget sometimes how big a deal the giving of the Holy
 | The Mosaic Law              | Through a nation: the nation of Israel                                           |
 | The Church                  | Through the Church: people exercising their spiritual gifts from the Holy Spirit |
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Further discussion {#the-five-dispensational-divisions-of-human-history-src-ichthys-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The Millennium {#the-five-dispensational-divisions-of-human-history-src-ichthys-the-millennium}
 
@@ -1797,7 +1797,7 @@ srcend="07:20"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -1811,13 +1811,13 @@ e) <u>The Millennium</u>: With the return of Christ at the Second Advent, our Lo
 They shall not harm nor destroy on all My holy mountain, for the earth shall be filled with the knowledge of the Lord as the waters cover the sea.
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 However, despite this perfect environment, and despite unprecedented revelation abounding to all, truth which it will be impossible for mankind to ignore or be ignorant of, many will nevertheless resist the truth and choose to follow their sinful natures instead, even to the point of rebelling against the perfect King just as soon as the opportunity arises (when Satan is temporarily released: Rev.20:7-10).
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Summary points {#the-five-dispensational-divisions-of-human-history-src-ichthys-summary-points}
 
@@ -1825,7 +1825,7 @@ After Christ's second coming, humanity will come to experience the personal and 
 
 However, despite this perfect environment, and despite unprecedented revelation abounding to all, truth which it will be impossible for mankind to ignore or be ignorant of, many will nevertheless resist the truth and choose to follow their sinful natures instead.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Follow-on topics {#the-five-dispensational-divisions-of-human-history-src-ichthys-follow-on-topics}
 
@@ -1835,7 +1835,7 @@ In short, with God Himself as our teacher-king, the dispensing of truth in the M
 
 This being the case, it is worth considering how the rebellion of humans who have experienced this blessed time of peace and truth demonstrates beyond a shadow of a doubt that no humans will ever find themselves in hell due a lack of knowledge. The truth will be so available under the perfect millennial rule of Christ that absolutely no human will have any excuse whatsoever, to a degree we cannot yet properly imagine or comprehend. Yet *even so*, some will still choose to rebel. If that does not show the hardheartedness of humanity, what does?
 
-<!-- --- -->
+<!-- slide-break -->
 
 | **Dispensational division** | **God's means of dispensing special revelation**                                 |
 |-----------------------------|----------------------------------------------------------------------------------|
@@ -1845,7 +1845,7 @@ This being the case, it is worth considering how the rebellion of humans who hav
 | The Church                  | Through the Church: people exercising their spiritual gifts from the Holy Spirit |
 | The Millennium              | Through the personal reign of the Messiah: Jesus himself ruling from Jerusalem   |
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Further discussion {#the-five-dispensational-divisions-of-human-history-src-ichthys-further-discussion}
 
@@ -1886,7 +1886,7 @@ Without considering the divine point of view, human history is characterized by 
 
 ### Content {#the-six-chronological-periods-of-human-history-src-ichthys-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Audio clip from Ichthys {#the-six-chronological-periods-of-human-history-src-ichthys-audio-clip-from-ichthys}
 
@@ -1899,13 +1899,13 @@ srcend="10:13"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
 These six periods divide history from a secular point of view, listing in order the significant divisions of human history chronologically rather than categorizing them on the basis of any spiritual significance (which is the basis for the five categorizations that precede and the one which follows). If, as many exegetes throughout the history of the Church have claimed, "six" is the number of Man, six periods of history from the human as opposed to the divine perspective are all the more understandable. For one thing, six periods are certainly one short of the one number which most clearly has symbolic significance in the Bible: i.e., "seven" (see II.7 immediately below). However that may be, for our purposes it is enough to note that history, divided into the six periods listed below, is significant not for any divine trend or characteristic, but for the different emphases of satanic attack manifest in each one. These six periods, therefore, present history largely from the devil's point of view. Specifically, they highlight the major objects of his attacks on mankind from the fall to the end of history:
 
-<!-- --- -->
+<!-- slide-break -->
 
 a) <u>The Antediluvian Period</u>: From the fall to the flood. Primary satanic target: true humanity.
 
@@ -1919,19 +1919,19 @@ e) <u>The Tribulational Period</u>: The seven years preceding the return of Chri
 
 f) <u>The Millennial Period</u>: The thousand years following the return of Christ. Primary satanic target: the rule of Christ (attacked after Satan is released at the end of the period).
 
-<!-- --- -->
+<!-- slide-break -->
 
 Satan's counter-strategy (against God's plan), therefore, forms the basis for the six periods listed above. This strategy (and its implementation within human history) is the subject of [section III](https://ichthys.com/Satans-Rebellion-Part5.htm#Counter-Strategy) below and will therefore be reserved for detailed discussion. It should be noted here, however, that from the human point of view, history is a dark, unpleasant progression, characterized only by the successive attacks of the devil upon all that is righteous and truly worthwhile. Only through God's divine control of history are we delivered from the adversary and blessed in this his evil world.
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#the-six-chronological-periods-of-human-history-src-ichthys-summary-points}
 
 Unlike the divisions of history we have previously examined (one through five) and the one that will follow (seven)---all of which divide history by various spiritually-significant criteria—the sixfold division of history we are putting forward here is actually mostly focused on looking at history absent the divine point of view. That is why the divisions outlined here are dealing with targets of Satan's attack on God's plan: since we are here looking at things *not* from God's point of view, it makes sense to examine that angle. (At least in part as a foil to God's purposes).
 
-<!-- --- -->
+<!-- slide-break -->
 
 In table form, the six chronological periods of human history:
 
@@ -1944,11 +1944,11 @@ In table form, the six chronological periods of human history:
 | The Tribulational Period | The seven years preceding the return of Christ    | All of the above (humanity, freedom and law, Israel, truth) along with a particular emphasis on eradicating believers from the earth |
 | The Millennial Period    | The thousand years following the return of Christ | The rule of Christ (attacked after Satan is released at the end of the period)                                                       |
 
-<!-- --- -->
+<!-- slide-break -->
 
 From the human point of view, history is a dark, unpleasant progression, characterized only by the successive attacks of the devil upon all that is righteous and truly worthwhile. Only through God's divine control of history are we delivered from the adversary and blessed in this his evil world.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#the-six-chronological-periods-of-human-history-src-ichthys-follow-on-topics}
 
@@ -1958,13 +1958,13 @@ On the surface, it can seem like God changed His mind as human history played ou
 
 Properly understood, it really isn't. God's entire plan was set in stone from the beginning; it was always intended to play out exactly how it did, down to the smallest detail. So God is not "reacting" in any actions He takes, in the sense that He changes His plans based on feedback from observing material creation. Instead, all of His plans were foreordained from eternity past.
 
-<!-- --- -->
+<!-- slide-break -->
 
 But as we will see, the same cannot be said for Satan's plans. How can we know this? Because the pattern of events we see recorded in history clearly shows Satan switching approaches over and over again as his plans repeatedly come to naught. For example, Satan first tries to pollute true humanity's bloodline through angelic interbreeding with human women, as discussed in Genesis 6. When God subsequently kills all the Nephilim while delivering Noah and His family from the flood (and imprisoned the angels responsible: cf. 2 Peter 2:4-10a; Jude 1:6), Satan's tactics change. In the post-flood world, he switches to trying to build a one world state to make top-down repression of human freedom possible. But then God foiled that too in the Tower of Babel. Rinse, repeat.
 
 In this, we can see that Satan is constrained by limitations not unlike our own: as a mere created creature, he cannot accurately predict the future, and can only change his plans based upon feedback he gets as events play out. He can only dance in the palm of God's hand, insofar as God allows Him to in order to test human hearts. The supposed "contest" between Good and Evil is in truth nothing of the sort; there is no contest, because Satan cannot compare to God in the least. 
 
-<!-- --- -->
+<!-- slide-break -->
 
 Another thing to discuss is how grim human history is if you take away the divine, spiritual dimension. In essence, if you remove the spiritual point of view, human history is nothing more than escalating Satanic attacks upon humanity.
 
@@ -1972,7 +1972,7 @@ Humanity as a species (if you want to think of us in this way) is facing a foe f
 
 You can imagine how frustrating this must be for Satan. At every turn he is blocked from doing what he truly wants, and every time he is actually allowed to do something, it inevitably only ever plays right into God's hands. This would be frustrating enough if it happened even once, but consider that this has happened over and over for thousands of years.
 
-<!-- --- -->
+<!-- slide-break -->
 
 And so it is that when Satan is cast out from heaven (as Revelation 12 describes), he will pour out his stored-up wrath upon the Earth. His rage will be terrible—like that of a cornered beast—not only because everything he has worked for from the beginning will have utterly failed, but also because he will know at this point that final judgment will soon come upon him, that the clock will be indefatigably ticking a countdown to his certain doom.
 
@@ -1980,7 +1980,7 @@ And the truly terrifying thing is that God will remove the largest part of His r
 
 Thus it is that Satan's attacks upon humanity during the Tribulation will put all of Satan's previous efforts completely in the shade, to a degree we can scarcely imagine. Understanding that, we'd better square our shoulders and throw ourselves into serious spiritual growth as much as possible... so that we will be able to face these things with faith and hope rather than utter despair. If we don't, we may well find ourselves crumbling under the pressure that will be more intense than in any other time in human history.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#the-six-chronological-periods-of-human-history-src-ichthys-further-discussion}
 
@@ -2156,7 +2156,7 @@ The seven days of re-creation start the process of God's judgment upon evil and 
 
 ### Content {#the-seven-days-of-human-history-src-ichthys-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Audio clip from Ichthys {#the-seven-days-of-human-history-src-ichthys-audio-clip-from-ichthys}
 
@@ -2169,17 +2169,17 @@ srcend="15:11"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
 When God restored the heavens and the earth to habitable form, He did so in six literal days, leaving the seventh as a day of rest to memorialize the principle of peace and rest available to all who trust in Him. These seven days of the earth's re-creation began the process of God's judgment upon evil, His restoration of the universe, and His replacement of Satan. As we saw in [section I](https://ichthys.com/Satans-Rebellion-Part5.htm#I.%20Judgment,%20Restoration%20and%20Replacement%20I:%20Positional%20Victory%20%28Progeny%20and%20Promise%29) above, following His divine *judgment* upon the heavens and the earth in response to Satan's rebellion, God *restored* the earth and set the stage for the *replacement* of Satan and his followers with Adam and his progeny. Though the devil thought to disrupt this prospect through his temptation of Adam and Eve, the fall of mankind merely set in motion the grand Plan of God for human history, a design which pivots around the incarnation and sacrifice of Jesus Christ, and which will culminate in the ultimate replacement of the devil and his followers at history's end.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Besides marking the first phase of judgment, restoration and replacement, these first seven literal days were also symbolic of the entire course of human history that was to come. For the seven days of re-creation correspond to the seven millennia of human history, a definite period of time ordained by God before the foundation of the world within which mankind would be saved by the gift of Christ and within which all things would be judged, restored and replaced. As we have seen above, different conditions prevail in different periods, both from the standpoint of God's provision of grace and from the point of view of Satan's method of attack. Just as the restoration of what was destroyed in heaven and on earth in the wake of God's original judgment upon the devil and his followers was replaced in phases during seven literal days, so throughout the course of the seven millennia of human history God is phasing in replacements for Satan and the fallen angels, demonstrating in the process His multifarious grace to believers regardless of the vastly different circumstances under which they are called out:
 
-<!-- --- -->
+<!-- slide-break -->
 
 **Days 1 and 2: The Gentiles:** (ca. 4065-2065 B.C.)
 
@@ -2195,7 +2195,7 @@ b. <u>The Division of the Nations</u>:
 
 *Challenge to believers*: To maintain and develop faith in God in the face of unprecedented satanic attacks (i.e., the genetic dilution of Genesis chapter six, and Satan's post-flood attempt to establish one-world government).
 
-<!-- --- -->
+<!-- slide-break -->
 
 **Days 3 and 4: Israel:** (ca. 2065-2 B.C.) [the 70 years of the Babylonian captivity excepted; the seven years of the Tribulation still future]
 
@@ -2211,7 +2211,7 @@ d. <u>The Kingdom of Israel</u>:
 
 *Challenge to believers*: To maintain and develop faith in God as members (or associates) of His unique nation Israel (the central point of satanic opposition) in the midst of a world of devil-worshipping nations.
 
-<!-- --- -->
+<!-- slide-break -->
 
 **Days 5 and 6: The Church:** (ca. 33-2033 A.D.)
 
@@ -2227,7 +2227,7 @@ f. <u>Decentralized Christianity</u>:
 
 *Challenge to believers*: To maintain and develop faith in God in the face of mounting attacks on the truth from all quarters (religious, social, economic and political), culminating in the most intense period of pressure and opposition in human history, the Tribulation.
 
-<!-- --- -->
+<!-- slide-break -->
 
 **Day 7: The Kingdom of God (the Sabbath Day):** (ca. 2033-3033 A.D.)
 
@@ -2239,7 +2239,7 @@ g. <u>The Millennium</u>:
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#the-seven-days-of-human-history-src-ichthys-summary-points}
 
@@ -2251,7 +2251,7 @@ As we covered previously in this study, the seven days of the earth's re-creatio
 
 Satan's attacks on God's plan (such as tempting Adam and Eve) cannot shake God's plan to replace Satan and his followers. The fall of mankind just set in motion God's Perfect Plan to redeem humanity through the incarnation and sacrifice of Jesus Christ.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Besides marking the first phase of judgment, restoration and replacement, these first seven literal days were also symbolic of the entire course of human history that was to come:
 
@@ -2262,7 +2262,7 @@ Besides marking the first phase of judgment, restoration and replacement, these 
 
 And so it is that the different days of re-creation map onto periods of human history:
 
-<!-- --- -->
+<!-- slide-break -->
 
 | **Wider division**                   | **Day** | **Description**               | **Time frame**                                                     | **Challenge to believers**                                                                                                                                                                                                                            |
 |--------------------------------------|---------|-------------------------------|--------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -2274,11 +2274,11 @@ And so it is that the different days of re-creation map onto periods of human hi
 | The Church                           | 6       | Decentralized Christianity    | From circa the schism of the Church to the Second Advent of Christ | To maintain and develop faith in God in the face of mounting attacks on the truth from all quarters (religious, social, economic and political), culminating in the most intense period of pressure and opposition in human history, the Tribulation. |
 | The Kingdom of God (the Sabbath Day) | 7       | The Millennium                | From the Second Advent of Christ to the Gog-Magog Rebellion        | To maintain and develop faith in God while transitioning from the devil's world to Christ's perfect rule over mankind (sinful human beings facing the ultimate prosperity test).                                                                      |
 
-<!-- --- -->
+<!-- slide-break -->
 
 Note that in the chronology, with respect to Israel, the 70 years of the Babylonian captivity are excepted in the year count, and the seven years of the Tribulation are still future in the year count.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#the-seven-days-of-human-history-src-ichthys-follow-on-topics}
 
@@ -2286,17 +2286,17 @@ I've mentioned before that as I see things, whatever you think of the first six 
 
 This poses no issue since this is the one division of the seven that is most obvious from scripture, as far as I see things. In fact, I would go so far as to say that if you don't teach some version of the seven millennial days, you are missing some clear hints in the Bible. We'll get into the specifics of the evidence more in the videos immediately following this one, but in my eyes, the one initial thing that always most clearly stands out is the Millennium (the last 1,000 years of human history) being parallel to God's seventh day of rest. If you can buy the clear correspondence there, then the rest of the days become not a matter of "if", but a matter of "how".
 
-<!-- --- -->
+<!-- slide-break -->
 
 Critics might label what I just termed "the rest" as nothing but confirmation bias = cherry-picking evidence to support a predetermined conclusion. As I see it though, it is a methodical process of taking into account the wealth of chronological information the Bible has, and showing how it precisely fits into the predicted structure.
 
 Don't get me wrong, there is still some faith involved here, and there always will be. But in my opinion, there are far, far too many coincidences for there not to be anything here. And so I would encourage anyone harboring skepticism to try to keep an open mind as we discuss the concept of the seven millennial days. As we shall see, the evidence is all there, if you are willing to look for it. But it doesn't work if you *assume* upfront that God having a definite chronological plan for human history is black and white impossible.
 
-<!-- --- -->
+<!-- slide-break -->
 
 For whatever reason, many people seem to have "issues" with that as a possible position. My best guess is because there have been many, many false teachers throughout history who have tied themselves to dates that ultimately proved to be false. And fair enough. But as we'll go over, no matter what you ultimately think of it, the teaching of the seven millennial days is definitely more biblical interpretation than fanciful conspiracy theory. Can biblical interpretations ultimately be wrong? Sure they can. But the point is that they are most certainly *not* in the same category as the "out there" teachings that people often think of when it comes to predictions about the end of the world.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#the-seven-days-of-human-history-src-ichthys-further-discussion}
 
@@ -2311,7 +2311,7 @@ For whatever reason, many people seem to have "issues" with that as a possible p
 1. [x] True
 1. [ ] False
 
-## True or False: The fall of Adam and Eve altered God's plan for human history {#the-seven-days-of-human-history-src-ichthys-true-or-false-the-fall-of-adam-and-eve-altered-god-s-plan-for-human-history}
+## True or False: The fall of Adam and Eve altered God's plan for human history {#the-seven-days-of-human-history-src-ichthys-true-or-false-the-fall-of-adam-and-eve-altered-gods-plan-for-human-history}
 
 1. [ ] True
 1. [x] False
@@ -2445,7 +2445,7 @@ God created time and exists outside of it, using it as a tool to accomplish His 
 
 ### Content {#evidence-for-the-seven-days-interpretation-direct-biblical-testimony-src-ichthys-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Audio clip from Ichthys {#evidence-for-the-seven-days-interpretation-direct-biblical-testimony-src-ichthys-audio-clip-from-ichthys}
 
@@ -2458,7 +2458,7 @@ srcend="22:16"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -2470,15 +2470,15 @@ By faith we understand that the ages have been constructed by the Word of God.
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 There are clear indications in scripture that God's specific plan of construction for that part of time we call human history is indeed a series of seven millennia.  For example, when scripture makes a deliberate point of telling us that Jesus took his inner group of disciples up to the Mount of Transfiguration “after six days” (Matt.17:1; Mk.9:2; cf. Ex.24:16-18), it is reasonable to suppose that this information has not been supplied to no particular purpose, yet nothing in the context of either Matthew or Mark explains why here almost uniquely in the gospels such specific chronological information should be given – unless it is precisely because of the fact that on ***the seventh day*** our Lord was “transfigured”, a preview of His return in glory at the second advent (as the appearance of the two heralds of that event, Moses and Elijah, makes clear).  And if the seventh day is thus symbolically linked here to the second advent (as it clearly is), we would be remiss not at least to consider the possibility that this otherwise inexplicable reference to the “six days” which precede this symbolic second advent and Millennium are meant to be understood in a similar way, namely as representing the six millennia of human history which precede the second advent and the Millennium.
 
-<!-- --- -->
+<!-- slide-break -->
 
 We may therefore start with this fact, namely that the Millennium, the final period of human history, the only period of human history specifically named and delineated in scripture, is most definitely described as a period of one thousand literal years (Rev.20:1-7). Elsewhere in scripture, the Millennium, the time of the reign of Christ commencing with His triumphant return and concomitant judgment upon His enemies, is called "the ***day*** of the Lord" (Is.2:11-21; 10:11-34; Joel 2:28-32; Am.5:18-20; Ob.1:15; Zeph.1:14; Zech.14:1-7; Mal.4:5; 1Thes.5:2-4; 2Thes.2:2; 2Pet.3:10; Rev.6:17; 16:14), and "the ***year*** of the Lord" (Is.61:2; 63:4; cf. Is.49:8; Lk.4:19; 2Cor.6:1-2). In the case of the Millennium, therefore, the Bible clearly calls a literal and specific period of 1000 years "a day". While from the human perspective the difference between a day and a millennium is massive, to God, the Creator and Master of time who exists outside of time and is in no way subject to it, these two finite chronological periods are much the same:
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% scripture p="Psalm 90:4 | NASB" %}}
 
@@ -2498,17 +2498,17 @@ Let not this one fact escape your attention then, beloved, namely that one day i
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 By using short periods (hours, days, weeks) to designate much longer chronological periods, scripture reflects God's complete sovereignty over time. This tendency of scripture to diminish the significance of a given period of time in proportion to the importance of time's Inventor and Master is common in the Bible and is often accomplished in this same way, namely through the use of relatively small units to refer to much longer chronological spans. For example, the "year of redemption" in Isaiah 63:4, and the "day of vengeance" in both Isaiah 34:8 and 63:4 refer to the thousand years of the Millennium, while the "day of salvation" in Isaiah 49:8 refers to the two thousand years of the Church in addition to the Millennium (cf. 2Cor.6:1-2). In the "seventy sevens" prophecy of Daniel chapter nine, each day of the "week" is a one year period (Dan.9:25-27). Similarly, at Revelation 12:14 the "time, times and half a time" refers to the three and one half years of the Great Tribulation (as in Dan.4:16 the seven "times" are seven years). The effect of all these passages is to make it clear to God's elect that even though time plays such a seemingly dominant role in our lives, it is nothing at all to God and presents not the slightest obstacle to the accomplishment of His will. It is merely a tool He has invented for the ordering of our lives wherein we may choose for Him (time is merely the stuff of choice: Eph.5:16; Col.4:5). Therefore seven thousand years, the sum total of human history, may seem a long span to us from our earthly perspective, but in terms of the eternity that God has constructed for us His faithful followers, it is an inexpressibly minute period of time.
 
-<!-- --- -->
+<!-- slide-break -->
 
 As we shall see below, the chronological records found in the Bible yield approximately 2000 years from Christ to Abraham and an additional 2000 years from Abraham to Adam. Given that the Gentile and Jewish ages both covered ca. 2000 years, and that the Millennium, the final "day" in God's plan for human history, will be 1000 years, it requires no great leap of exegetical skill to posit a comparable 2000 years for the Church age. In so doing, a total of 7000 years results wherein each millennium is reckoned as "a day" in God's system. The analogy to the seven day week, another divine invention (cf. Gen.1:3ff.), is also impossible to ignore, especially considering the very close analogy between the seventh day of rest, the Sabbath, and the seventh day of human history, the Millennium, with all its promised peace and abundance, which likewise comes as the final "day" of the seven (cf. Is.9:6-7; see [Part I of this series, section II.6.f.](https://ichthys.com/SR1copy.htm#f\)%20The%20Millennial%20Jerusalem)). Based on the analogy of the week, therefore, the Millennium of its own accord invites us to posit six prior thousand year "days". This evidence is all the stronger when we consider that the original period of time wherein God began the process of restoration and replacement known as human history was the original week of seven days, also ending in a day of rest (compare the "six days" mentioned prior to the transfiguration which prefigures the Second Advent in Matt.17:1 and the beginning of the "seventh day" or Millennium).
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#evidence-for-the-seven-days-interpretation-direct-biblical-testimony-src-ichthys-summary-points}
 
@@ -2521,7 +2521,7 @@ Jesus return at the second advent ushers in the Millennium (a literal 1,000 year
 
 - The text explicitly saying "after six days" (i.e., giving such specific chronological information) is a bit odd unless we are supposed to make something of it... like, maybe the preceding six days also each map onto a millennium, just like this seventh day?
 
-<!-- --- -->
+<!-- slide-break -->
 
 So we start with the unambiguous teachings concerning the Millennium, and build out the wider doctrine of the seven millennial days from there. That is the interpretive "order" to things.
 
@@ -2531,7 +2531,7 @@ So we start with the unambiguous teachings concerning the Millennium, and build 
 - In scripture, the Millennial reign of Christ (inclusive of His return, judgment of His enemies, and rule thereafter) is called "the ***day*** of the Lord" and "the ***year*** of the Lord".
 - So at least for the Millennium, we have direct textual evidence that a 1,000 year period is called a "day".
 
-<!-- --- -->
+<!-- slide-break -->
 
 Other examples of the Bible using relatively small units to refer to much longer chronological spans:
 
@@ -2542,7 +2542,7 @@ Other examples of the Bible using relatively small units to refer to much longer
 
 By using short periods (hours, days, weeks) to designate much longer chronological periods, scripture reflects God's complete sovereignty over time.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Taken together, all the evidence we've started with here leads us to ask a question: is it possible that human history is composed of seven 1,000 year "days", with the last day being the Millennial reign of Christ?
 
@@ -2552,7 +2552,7 @@ In fact, we need not stop there. Additional evidence also all likewise points us
 2. The analogy to the seven day week, (another divine invention) is also impossible to ignore, especially considering the very close analogy between the seventh day of rest, the Sabbath, and the seventh day of human history, the Millennium.
 3. This point is all the stronger when you consider that the first week is exactly where this structure came from: the initial seven-day week of re-creation (as recounted in Genesis 1) also ended in a seventh day of rest.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#evidence-for-the-seven-days-interpretation-direct-biblical-testimony-src-ichthys-follow-on-topics}
 
@@ -2562,7 +2562,7 @@ Does the Bible ever explicitly say "the Millennium is the seventh day in a week 
 
 - When Jesus said "before Abraham was, I AM" (John 8:58) He is clearly claiming to be God, but it is not stated in so many words. Instead you have to "read between the lines" a bit. This is Jesus equating Himself with the the tetragrammaton—the Holy name of God mentioned in Exodus 3:15. But the text doesn't actually say that directly. You just have to see that this is so.
 
-<!-- --- -->
+<!-- slide-break -->
 
 I think that because there has historically been so much false teaching about end times chronology, people are prone to throwing out the baby with the bathwater here. And this is why I think from an apologetics perspective, it makes sense to focus on the fact that we are talking about one and only one interpretive call here. There is not some complicated system of inferences and fanciful calculations to arrive at the general doctrine. Instead, it really is nothing more than "Wow, the Millennium sounds an awful lot like the seventh day of rest, so I wonder if that means that there are also six 1,000 year periods before it?" That's it.
 
@@ -2570,7 +2570,7 @@ Getting bogged down in the specifics that come after that (of which there are ma
 
 So if people balk at 2026 as a specific date (which relies on certain additional assumptions that come up as you drill into the details, such as whether or not the seven years of the Tribulation are shared between Israel and the Church), as I see things, we don't need to push on that. We can instead fall back on the very intuitive argument that we've gone over here, and leave things at "human history will be ballpark 7,000 years, with the last 1,000 being a period of rest, just like the seventh day of the week". This still communicates the fact that God has a definite timetable for human history, that human history is planned down to the finest details by God. It also encourages people to take things seriously in terms of urgency/imminency, because no matter what, the math says we are nowadays getting close to 6,000 years of human history.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#evidence-for-the-seven-days-interpretation-direct-biblical-testimony-src-ichthys-further-discussion}
 
@@ -2676,7 +2676,7 @@ The seven days of re-creation model God's plan for the seven millennial days of 
 
 ### Content {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-introduction-src-ichthys-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Audio clip from Ichthys {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-introduction-src-ichthys-audio-clip-from-ichthys}
 
@@ -2689,7 +2689,7 @@ srcend="22:52"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -2697,7 +2697,7 @@ That the seven day week is a reflection of God's overall design of human history
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-introduction-src-ichthys-follow-on-topics}
 
@@ -2707,13 +2707,13 @@ During those original seven days, God conducted a comprehensive refitting of the
 
 This fits into the cycles of Judgment, Restoration, and Replacement that we have been arguing describe God's overall plans for material creation.
 
-<!-- --- -->
+<!-- slide-break -->
 
 The following sections will be examining the specifics in the alignment between the seven Genesis days of re-creation compared to the seven millennial days of human history. In this, Dr. Luginbill posits some detailed parallels: not just which days align to what, but also how God's actions in re-creation (for example, in separating things or filling things) symbolically parallel trends within human history.
 
 Since I quite like how Dr. Luginbill put things in his conclusion section about the seven millennial days (which we will get to after we have gone through all the days), I've reproduced it below. We'll talk about this specific text again in a few lessons once we are on the other side of going through all the details, and hopefully at that point it will serve as as an effective review and refresher about the big picture. But for now, it will help outline exactly what this wider section of the study is discussing:
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -2721,7 +2721,7 @@ Whether taken in tandem or taken individually, both the first six Genesis days a
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-introduction-src-ichthys-further-discussion}
 
@@ -2779,7 +2779,7 @@ Millennial day one was the separation of truth from lies. Just as light is neces
 
 ### Content {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-1-and-2-src-ichthys-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Audio clip from Ichthys {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-1-and-2-src-ichthys-audio-clip-from-ichthys}
 
@@ -2792,18 +2792,18 @@ srcend="26:07"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
 The first two Genesis days of re-creation are clearly paired in that they alone focus upon acts of <u>separation</u> almost exclusively (the re-kindling of light which marks the beginning of the process over all being the significant exception): light separated from darkness (Day 1); the waters above separated from waters below by means of the firmament or sky (Day 2). This first pair of days provides essential groundwork for physical life through the provision of light and air. This physical provision is analogous to the essential spiritual groundwork provided by the first two millennial days of the Gentile age:
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Day #1 – Gentile age millennium #1</u>: 
 Just as light, the foremost necessity of physical life, first appears in the dark world on day one of re-creation, so God's truth, the foremost necessity of spiritual life, first appears in the devil's dark world during the first millennium of the Gentile age, beginning with the first promise of Christ (Gen.3:15). This legacy of truth is then perpetuated through the line of Adam and Seth down to Noah and his family.
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Day #2 – Gentile age millennium #2</u>: 
 Just as air, a necessity without which physical life cannot be maintained, is provided on day two of re-creation, so during the second millennium of the Gentile age God guaranteed the fresh air of ***freedom*** for mankind, an attribute as absolutely essential for spiritual life as air is for physical life, through:
@@ -2814,13 +2814,13 @@ Just as air, a necessity without which physical life cannot be maintained, is pr
 
 God's instrument of judgment whereby (1) the angelic outrages of Genesis six are brought to an end, (2) after which the rule of law is established, and (3) in consequence of which the nations are divided, is the great flood, the deluge that temporarily restored the earth to its pre-dry land condition (cf. 1Pet.3:18-22; 2Pet.3:5-6). Therefore it is exactly because of the deluge that the legacy of truth is protected, finding a more secure foothold in the environment of freedom (provided through limitations on further angelic interference, the establishment of law, and the development of nationalism).
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Separation</u>: As the first pair of Genesis days focuses on the formation of an essential environment for physical growth through the separation of light from darkness and the waters above from the waters below, so the first pair of millennial days (the age of the Gentiles) focuses on the formation of an essential foundation for spiritual growth through the provision of divine truth (separated and protected from the devil's lies) and human freedom of choice (separated and protected from the devil's best efforts to destroy free will through demonic interference, murder and intolerant internationalism).
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-1-and-2-src-ichthys-summary-points}
 
@@ -2836,13 +2836,13 @@ The parallelism with respect to the seven millennial days of human history is as
 1. Millennial day one was the separation of truth from lies. (Central metaphor: light = truth).
 2. Millennial day two was the separation of human freedom of choice from Satan's efforts to destroy free will. (Central metaphor: air = freedom).
 
-<!-- --- -->
+<!-- slide-break -->
 
 God's truth, the foremost necessity of spiritual life, first appears in the devil's dark world during the first millennium of the Gentile age, beginning with the first promise of Christ (Gen.3:15).
 
 This legacy of truth is then perpetuated through the line of Adam and Seth down to Noah and his family.
 
-<!-- --- -->
+<!-- slide-break -->
 
 During the second millennium of the Gentile age God guaranteed the fresh air of freedom for mankind—an attribute as absolutely essential for spiritual life as air is for physical life—through:
 
@@ -2856,13 +2856,13 @@ To protect human freedom, God utilized a means of judgment: the great flood. In 
 2. After which the rule of law is established, and
 3. From that comes the division of the nations
 
-<!-- --- -->
+<!-- slide-break -->
 
 How do the first pair of millennial days relate to the concept of separation?
 
 The first pair of millennial days (the age of the Gentiles) focuses on the formation of an essential foundation for spiritual growth through the provision of divine truth (separated and protected from the devil's lies) and human freedom of choice (separated and protected from the devil's best efforts to destroy free will through demonic interference, murder, and intolerant internationalism).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-1-and-2-src-ichthys-follow-on-topics}
 
@@ -2872,7 +2872,7 @@ Equating air and freedom is perhaps a bit less obvious a relationship, but it de
 
 But where the parallels really shine is in analyzing what things exactly provide the underlying foundation for *physical life* (Genesis re-creation) vs. *spiritual life* (seven millennial days). More than anything else, the availability of God's truth in the world (given to us in the form of natural revelation and special revelation) and the ability to freely choose to follow it or not are the cornerstones of all spiritual growth. Without the truth we obviously would not be able to grow. But without freedom of pursue said truth, we would also be equally hamstrung. And so it is that these are things are just as essential to the spiritual life as light and air are to the physical life.
 
-<!-- --- -->
+<!-- slide-break -->
 
 In this way, freedom as a concept is not just a vague democratic ideal that we might strive for in our construction of a productive civic society, but is actually also quite important for being productive spiritually. I would go so far as to say that one can actually measure the relative suitability a given nation as a place to grow spiritually largely as a function of the freedoms protected in that nation's legal code. (Or perhaps lack of such protections).
 
@@ -2886,7 +2886,7 @@ God handles the defense against angelic interference in human free will (as we c
 
 We should not be at all shy about gravitating towards the things that are actually the best environments to grow spiritually in. In fact, we should be rather zealous about insisting upon it at every turn, even to the point of offending others and seeming a bit "out there" to others. Because freedom is critically important for spiritual living, just as much as air is necessary for physical living.
 
-<!-- --- -->
+<!-- slide-break -->
 
 If all of this seems too abstract, consider these sorts of things:
 
@@ -2896,7 +2896,7 @@ If all of this seems too abstract, consider these sorts of things:
 
 So in fact, this matter is actually all around us in the world. We would be wise to consider the fact that God's strict superintendence of human freedom is direct evidence that He views this thing as being important for mankind. If He thinks it is important, then should not we also do the same? Why then do we let ourselves settle in any regard?
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-1-and-2-src-ichthys-further-discussion}
 
@@ -2955,7 +2955,7 @@ III. Human freedom of choice does not mean the freedom to harm others, rather th
 
 
 
-## True or False: God's strict superintendence of human freedom is direct evidence that He views it as important. {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-1-and-2-src-ichthys-true-or-false-god-s-strict-superintendence-of-human-freedom-is-direct-evidence-that-he-views-it-as-important}
+## True or False: God's strict superintendence of human freedom is direct evidence that He views it as important. {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-1-and-2-src-ichthys-true-or-false-gods-strict-superintendence-of-human-freedom-is-direct-evidence-that-he-views-it-as-important}
 
 1. [x] True
 1. [ ] False
@@ -2993,7 +2993,7 @@ Millennial day three was the separation to God of a holy **people** (correspondi
 
 ### Content {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-3-and-4-src-ichthys-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Audio clip from Ichthys {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-3-and-4-src-ichthys-audio-clip-from-ichthys}
 
@@ -3006,28 +3006,28 @@ srcend="37:19"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
 The second two Genesis days of re-creation are clearly paired in that they alone witness acts of both <u>separation</u> ***and*** <u>filling</u>: dry ground separated from water *and* the filling of the earth with vegetation (Day 3); the sun, moon and stars filling the heavens *and* separating the light from the darkness (Day 4). Note that separation precedes filling on day three, while filling precedes separation on day four, evidencing the progression (from separation to filling) that we are observing here. The second pair of days provides more essential groundwork for physical life through the provision of dry land and the specific division of time. This second pair of days *also* provides the first two installments of re-filling the empty world through the creation of vegetation and heavenly bodies. This physical provisioning on the one hand and filling up of the empty world on the other is respectively analogous to the further building up of essential spiritual groundwork on the one hand, and, on the other, to the enlistment of believers provided by the second two millennial days of the Jewish age.
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Day #3 – Jewish age millennium #1</u>: 
 Just as the separating of dry land on day three of re-creation was necessary for human life, so the separation to God of a holy ***people*** during the third millennial day was essential for establishing an environment in which truth and spiritual growth could flourish. And just as the creation of vegetation on that third Genesis day was the first installment in the re-filling of the empty world, so the calling out of the seed of Abraham provides the first substantial and contiguous echelon of believers in the process of replacing the devil and his followers with a people after God's own heart, with the faith of Abraham, the "father of many nations" providing the pattern of salvation for all who would later believe (Rom.4:17; Gal.3:7-9).
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Day #4 – Jewish age millennium #2</u>: 
 Just as the separation of light from darkness into distinct and regular phases on the fourth Genesis day was necessary to provide a regular flow and sequence for time (required by human life), so the separation to God of a holy ***nation*** during the fourth millennial day was essential for stabilizing the environment in which truth and spiritual growth could flourish and then be witnessed to the nations. And just as the heavens were filled with the celestial *lights* on the fourth Genesis day, so the establishment of Israel, a holy nation to be a *light* to all the nations, was an essential step in the expansion of the family of God (Is.42:6; 43:21; 49:6; Acts 13:47).
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Separation</u>: 
 The calling out by God of a specific family and its development into a unique, witnessing nation necessitated its separation, its sanctification from all that was profane in the pagan world in which it existed. The mark of God's promise to Abraham of a holy progeny, namely circumcision, served to distinguish Israel as unique in God's eyes, and was also, importantly, a symbolic testimony of belief in God and His promises (Rom.2:29). The Mosaic Law was also a means of separation, sanctification and demarcation, for it called on Israel to "be holy as I am holy" (Lev.11:44-45; 1Pet.1:16), and an essential underlying principle in all of its precepts was to separate the holy from the profane (Lev.10:10; 20:25-26). The Ten Commandments, the essence of the Law (cf. Deut.4:13), speak to this same basic idea of separating the people of God from anything evil, sanctifying our conduct in life's most important areas:
 
-<!-- --- -->
+<!-- slide-break -->
 
 Area #1: Holiness toward God (sanctifying and separating Him in what we think, do and say):
 
@@ -3037,19 +3037,19 @@ Area #1: Holiness toward God (sanctifying and separating Him in what we think, d
 
 3\. <u>No misuse of His name</u>: guarding the sanctity of how we *represent* Him in our *speech*.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Area #2: Holiness toward Life (sanctifying and separating ourselves from reliance on the world):
 
 4\. <u>Keep the Sabbath</u>: guarding the sanctity of the day of rest; trusting God, not ourselves, for provision in this life  (cf. Ezek.20:12; 20:20).  **n.b.**: this is the only commandment not repeated in the New Testament. As the book of Hebrews emphatically assures us, specific day observance has been replaced with the reality of continual rest in and reliance on God (in the same way that animal sacrifice has been replaced by the reality of Christ's sacrifice: Heb.4:1-11; cf. Rom.14:5-8; Col.2:16-17). Since the cross, we are to rest in God at all times, not just on one particular day.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Area #3: Holiness toward Authority (sanctifying and separating ourselves from rebellion against divinely constituted authority):
 
 5\. <u>Honoring Father and Mother</u>: guarding the sanctity of our behavior toward legitimate authority, all those who under the charge of God function as stewards in His place towards us (parents being the first and prime example).
 
-<!-- --- -->
+<!-- slide-break -->
 
 Area #4: Holiness toward Others (sanctifying and separating ourselves from infringement upon the right of others to use this life to seek God):
 
@@ -3063,7 +3063,7 @@ Area #4: Holiness toward Others (sanctifying and separating ourselves from infri
 
 10\. <u>No Covetousness</u>: guarding the sanctity of freedom of action in general from threats of evil action and intent which impede, hinder and prevent the search for God.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Finally, the firm establishment of the nation Israel with the ascension of David, a clear type of Jesus Christ (Ps.110), provided the dark world with a shining example of the righteousness and accompanying blessings from God upon a nation that followed Him and His perfect divine standards, standards (expressed in the Law, the Old Testament and the sanctified nation) which regulated an environment for seeking God and witnessing to Him in the midst of a dark world in a way analogous to the regulating function of the heavenly bodies that produce the sequence of light necessary for human existence (cf. Ex.19:5-6; Lev.20:26):
 
@@ -3079,12 +3079,12 @@ And He said, "It is too small a thing for you to be My servant, to establish the
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Filling</u>: 
 With God's promise of progeny to Abraham and the birth of Isaac, the process of expansion of the family of God began in earnest, and the line of faith from Adam to Seth, a linear witness with little numerical expansion in the world (as the small remaining remnant of Noah and his seven family members at the time of the flood demonstrates: 1Pet.3:20), now develops into a significant expansion in breadth as Israel the vine begins to flourish under the now more favorable circumstances and to spread out in the world in a manner analogous to the filling of the earth with vegetation on the third Genesis day (Ps.80:8-16; Is.5:1-2; Jer.2:21; Ezek.17; Hos.10:1; cf. Jn.15:1). The pledge of circumcision (the mark of a people apart) and the giving of the Law (the perfect separation of right and wrong) served as prime elements of this sanctification. The formation (from this expanded family) of a holy nation was also key to God's plan of replacement, for as He says to Moses on the occasion of the golden calf rebellion, "I will make you into a great nation" (Ex.32:10). The protection of Israel in Egypt while her numbers grew, her testing under a harsh Pharaoh, her training in the wilderness, and the divinely directed and aided expulsion of the Canaanite tribes were all part and parcel of God's expansion of His family out of one man's seed. With the coming of the nation of Israel, a definite state within definable geographic boundaries under the initial direction of David, a clear type of Christ, the process of filling and replacement continues for the fulfillment of God's promise to Abraham that his descendants would be more numerous than the stars of the heavens, analogous to the filling of the heavens on the fourth Genesis day (Gen.15:5; 22:17; 26:4; Deut.1:10; 1Chron.27:23; Neh.9:23; Heb.11:12; cf. Gen.37:9; Rev.12:1), and a harbinger of the replacement of the fallen angelic "stars" with believing "stars" who choose for God (compare Rev.12:4 with Rev.12:1; being Abraham's spiritual seed, we are all stars in God's firmament: Rom.4:16).
 
-<!-- --- -->
+<!-- slide-break -->
 
 As the second pair of Genesis days focused on the completion of an essential environment for physical life through the separation of dry ground from water and of light from the darkness (specifically, of concentrated, sequential light, not the general division of light from darkness accomplished on day one), so the second pair of millennial days (the Jewish age) finds God in His plan for human history sanctifying for Himself first a people, then a nation, to provide first an expanded family of God that would be holy and separate from the rest of the pagan world, then, as a nation, a safe haven for the worldwide testimony of God through the light of Israel.
 
@@ -3092,7 +3092,7 @@ And as the second pair of Genesis days focuses on the initial filling of the ear
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-3-and-4-src-ichthys-summary-points}
 
@@ -3103,7 +3103,7 @@ We will be arguing that there is progression involved in our seven days from sep
 
 Separation continues to represent God's provisioning of the essential spiritual groundwork (just as with days one and two), while filling represents God's adoption of believers into His eternal family, replacing Satan and the fallen angels.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Separation in day three:
 
@@ -3117,7 +3117,7 @@ Filling in day three:
 - Millennial day of human history: The calling out of the seed of Abraham.
   - Provides the first substantial and contiguous echelon of believers in the process of replacing the devil and his followers with a people after God's own heart, with the faith of Abraham, the "father of many nations" providing the pattern of salvation for all who would later believe (Rom.4:17; Gal.3:7-9).
 
-<!-- --- -->
+<!-- slide-break -->
 
 Separation in day four:
 
@@ -3131,7 +3131,7 @@ Filling in day four:
 - Millennial day of human history: The establishment of Israel, a holy nation.
   - Israel serving as a light to all the nations was an essential step in the expansion of the family of God (Is.42:6; 43:21; 49:6; Acts 13:47).
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Separation</u>:
 
@@ -3142,7 +3142,7 @@ The calling out by God of a specific family and its development into a unique, w
 
 The Ten Commandments, the essence of the Law (cf. Deut.4:13), speak to this same basic idea of separating the people of God from anything evil, sanctifying our conduct in life's most important areas:
 
-<!-- --- -->
+<!-- slide-break -->
 
 Area #1: Holiness toward God (sanctifying and separating Him in what we think, do and say):
 
@@ -3152,19 +3152,19 @@ Area #1: Holiness toward God (sanctifying and separating Him in what we think, d
 
 3\. <u>No misuse of His name</u>: guarding the sanctity of how we *represent* Him in our *speech*.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Area #2: Holiness toward Life (sanctifying and separating ourselves from reliance on the world):
 
 4\. <u>Keep the Sabbath</u>: guarding the sanctity of the day of rest; trusting God, not ourselves, for provision in this life  (cf. Ezek.20:12; 20:20).  **n.b.**: this is the only commandment not repeated in the New Testament. As the book of Hebrews emphatically assures us, specific day observance has been replaced with the reality of continual rest in and reliance on God (in the same way that animal sacrifice has been replaced by the reality of Christ's sacrifice: Heb.4:1-11; cf. Rom.14:5-8; Col.2:16-17). Since the cross, we are to rest in God at all times, not just on one particular day.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Area #3: Holiness toward Authority (sanctifying and separating ourselves from rebellion against divinely constituted authority):
 
 5\. <u>Honoring Father and Mother</u>: guarding the sanctity of our behavior toward legitimate authority, all those who under the charge of God function as stewards in His place towards us (parents being the first and prime example).
 
-<!-- --- -->
+<!-- slide-break -->
 
 Area #4: Holiness toward Others (sanctifying and separating ourselves from infringement upon the right of others to use this life to seek God):
 
@@ -3178,13 +3178,13 @@ Area #4: Holiness toward Others (sanctifying and separating ourselves from infri
 
 10\. <u>No Covetousness</u>: guarding the sanctity of freedom of action in general from threats of evil action and intent which impede, hinder and prevent the search for God.
 
-<!-- --- -->
+<!-- slide-break -->
 
 As to the expansion of this family/people to encompass a full nation, the firm establishment of the nation Israel with the ascension of David—a clear type of Jesus Christ (Ps.110)---provided the dark world with a shining example of the righteousness and accompanying blessings from God upon a nation that followed Him and His perfect divine standards
 
 - These divine standards (expressed in the Law, the Old Testament and the sanctified nation) regulated an environment for seeking God and witnessing to Him in the midst of a dark world in a way analogous to the regulating function of the heavenly bodies that produce the sequence of light necessary for human existence (cf. Ex.19:5-6; Lev.20:26).
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Filling</u>:
 
@@ -3192,13 +3192,13 @@ With God's promise of progeny to Abraham and the birth of Isaac, the process of 
 
 - The pledge of circumcision (the mark of a people apart) and the giving of the Law (the perfect separation of right and wrong) served as prime elements of this sanctification. 
 
-<!-- --- -->
+<!-- slide-break -->
 
 The formation (from this expanded family) of a holy nation was also key to God's plan of replacement, for as He says to Moses on the occasion of the golden calf rebellion, "I will make you into a great nation" (Ex.32:10). The protection of Israel in Egypt while her numbers grew, her testing under a harsh Pharaoh, her training in the wilderness, and the divinely directed and aided expulsion of the Canaanite tribes were all part and parcel of God's expansion of His family out of one man's seed.
 
 With the coming of the nation of Israel, a definite state within definable geographic boundaries under the initial direction of David, a clear type of Christ, the process of filling and replacement continues for the fulfillment of God's promise to Abraham that his descendants would be more numerous than the stars of the heavens, analogous to the filling of the heavens on the fourth Genesis day (Gen.15:5; 22:17; 26:4; Deut.1:10; 1Chron.27:23; Neh.9:23; Heb.11:12; cf. Gen.37:9; Rev.12:1), and a harbinger of the replacement of the fallen angelic "stars" with believing "stars" who choose for God (compare Rev.12:4 with Rev.12:1; being Abraham's spiritual seed, we are all stars in God's firmament: Rom.4:16)
 
-<!-- --- -->
+<!-- slide-break -->
 
 Summary - separation:
 
@@ -3208,7 +3208,7 @@ Summary - filling:
 
 - As the second pair of Genesis days focuses on the initial filling of the earth with vegetation and of the heavens with the sun, the moon and the stars, so the second pair of millennial days (the Jewish age) finds the first significant expansion of the family of God in human history (through Israel the vine, and the nation Israel, as numerous as the stars), and so, in terms of numbers, the beginning of the process of replacing those angelic creatures who have chosen to disassociate themselves from the family of God.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-3-and-4-src-ichthys-follow-on-topics}
 
@@ -3221,7 +3221,7 @@ For days one and two, we spoke of how God's truth and freedom are foundational c
 
 In other words, to best enable human spiritual flourishing, it became necessary for God to set apart for Himself a sanctified people who would act as His light among other peoples. And then, in like manner, this people became a full nation, in order to act as God's light among other nations.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Consider how well the symbolism fits together in all this:
 
@@ -3231,7 +3231,7 @@ Consider how well the symbolism fits together in all this:
 
 There is a lot to unpack across the cases, but the point for us to consider is that it really does all fit together, even in the details.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-3-and-4-src-ichthys-further-discussion}
 
@@ -3295,7 +3295,7 @@ In millennial day five, the gospel is taken to the Gentiles for the first time, 
 
 ### Content {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-5-and-6-src-ichthys-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Audio clip from Ichthys {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-5-and-6-src-ichthys-audio-clip-from-ichthys}
 
@@ -3308,25 +3308,25 @@ srcend="48:38"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
 The third pair of Genesis days of re-creation are clearly paired in that they alone witness acts of <u>filling</u> exclusively: the filling of the waters with aquatic life and the sky with birds (Day 5); the filling of the earth with terrestrial creatures (Day 6), culminating in the creation of Man (a type of Christ as rightful ruler of the earth, and here, symbolic of the completion of the replenishment of the family of God at the end of the sixth millennial day). The third pair of days completes the re-filling of the empty world through the creation of aquatic and terrestrial life. This completion of the process of re-filling the empty world is analogous to the completion of God's enlistment of believers during the fifth and sixth millennial days as replacements for the followers of Satan.
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Day #5 – Church age millennium #1</u>:
 
 Just as the creation of aquatic and bird life on that fifth Genesis day represented a quantum leap in the re-filling of the empty world, so the first Church age millennium witnessed a veritable explosion in the numbers of the family of God on earth as the gospel was taken in earnest to the gentiles for the first time. The fifth millennial day is characterized by the collection and distribution of the holy scriptures into one, complete Bible, and the emergence of an infra-structure necessary for studying and teaching it in its original languages: i.e., the creation of a Christian scholastic system, the development of the codex form (that is, the invention of the book, credited by many scholars to early Christians), the production of translations in many languages (resulting from the first two events), and the growth of literacy (making possible the reading of the Word of God by more than just the educated few). These events had the effect of actually expanding the evangelical explosion of faith begun by the apostles in the first generation of the Church, *in spite* of the fact that many of the Spirit's miraculous gifts did not continue beyond that inaugural era (e.g., apostleship, tongues, prophecy, healing). The Spirit's ministry continued, however, as it does today, and thus in the groundswell of faith that follows in both of the Church age's millennial days we have historical proof that the powerful combination of the Spirit of God (given on the day of Pentecost) and the Word of God (made available to teachers through the establishment of education and wide availability of the Hebrew and Greek originals, and generally available to all Christians through translations) is more dynamic and effective than the most impressive miracles and the most exotic spiritual gifts.
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Day #6 – Church age millennium #2</u>:
 
 Just as the creation of terrestrial life on that sixth Genesis day completed the re-filling of the empty world (culminating in the creation of Man), so the sixth millennial day has seen the creation of the worldwide Church of Jesus Christ. With the establishment of the means for teachers to study God's Word in the proper way (education in the original languages of scripture, training in theology, and in the historical and cultural background of the Bible), and with the growing availability of the Bible in an abundance of languages, the gospel message has penetrated to nearly every clime and place. This process will continue until with the universal availability of the gospel and the final enlistment of the last replacement members of the family of God the end will come with the return of Jesus Christ (Matt.24:14; Rev.10:1-7; 14:6-7).
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Filling</u>:
 
@@ -3346,7 +3346,7 @@ And Abraham shall certainly become a great and powerful nation, and all the nati
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% ichthys-translation p="Deuteronomy 32:43" %}}
 
@@ -3369,7 +3369,7 @@ All the nations (i.e., gentiles) which You have made will come before You and wi
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% ichthys-translation p="Psalm 117:1" %}}
 
@@ -3392,7 +3392,7 @@ Thus He shall sprinkle [with salvation] many gentile [nation]s. Kings will shut 
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% ichthys-translation p="Isaiah 56:7b" %}}
 
@@ -3415,7 +3415,7 @@ For My house shall be called a house of prayer for all the nations (i.e., gentil
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Therefore, however large the first major installment of Christ's bride (i.e., the believing Israelites from Abraham to Christ), in numerical terms it cannot compare to the massive wave of those saved that has followed in the wake of the advent and sacrifice of Him who won that salvation. And it is certainly appropriate, moreover, for the Savior of us all, the One for whom and through whom the world and human history exist, the One who is the key to and cornerstone of history and through whom we have been given the inestimable privilege of becoming sons of the Living God, to have the flood tide of those human beings who would be saved (in replacement of those fallen angels who would not) follow in the train of His life and death of sacrifice on our behalf, and in the train of the resurrection that assures our hope of eternal life (cf. Jn.1:16; Gal.4:4):
 
@@ -3425,7 +3425,7 @@ For it was fitting for [the Father] to make complete through sufferings Him on w
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Thus the Church age completes what the Jewish age began and what the Gentile age delineated in principle, namely, the systematic, one for one replacement of rebellious fallen angels with faithful human beings in union with the God-Man, Jesus Christ. This can also be seen from the scriptural analogy of the holy building, established on the essential Cornerstone, Jesus Christ (Is.28:16; Matt.16:18 [Christ, not Peter, is the Rock]; Rom.9:33; Eph.2:21; 1Pet.2:4-7):
 
@@ -3433,7 +3433,7 @@ Thus the Church age completes what the Jewish age began and what the Gentile age
 2. the Jewish age believers, the line of Christ and the authors of the Holy Scriptures, are the structure's foundation (Eph.2:20).
 3. the Church age believers, the great influx of the faithful, Jews and gentiles alike, are the "living stones" who comprise the edifice proper (1Cor.3:10-17; Eph.2:22; Heb.3:6; 1Pet.2:5).
 
-<!-- --- -->
+<!-- slide-break -->
 
 All are fully and equally members of Christ's body, Christ's assembly, and God's house (1Tim.3:15; Heb.3:6), and when the last trumpet blows and our Lord returns, the entire "structure" will be united in resurrection to join Him in His triumphal return (1Cor.15:50-54; 1Thes.4:13-17; 1Jn.3:2; Rev.19:14). It is wrong to think, therefore, that the early gentiles, the Jews, and the Church are somehow different in any important way. Together, we are all one body in Christ, for He has broken down the barrier that separated us:
 
@@ -3445,7 +3445,7 @@ So remember that you were once gentiles in the flesh, called "un-circumcised" by
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-5-and-6-src-ichthys-summary-points}
 
@@ -3453,7 +3453,7 @@ In the last lesson we discussed how the seven Genesis days of re-creation (align
 
 Recall that separation represents God's provisioning of the essential spiritual groundwork for human free-will-faith, while filling represents God's adoption of believers into His eternal family, replacing Satan and the fallen angels.
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Day #5 – Church age millennium #1</u>:
 
@@ -3464,7 +3464,7 @@ Filling in day five:
 
 The creation of aquatic and bird life on the fifth Genesis day of re-creation represented a quantum leap in the re-filling of the once empty world. In the same way, the explosion of believers that resulted from the gospel message spreading to the Gentiles represented a similar jump in scale with regards to the re-filling God's eternal family.
 
-<!-- --- -->
+<!-- slide-break -->
 
 The fifth millennial day of human history was also characterized by the collection and distribution of the holy scriptures into one, complete Bible, and the emergence of the infrastructure necessary for studying and teaching it in its original languages:
 
@@ -3477,7 +3477,7 @@ These things together made it possible for an evangelical explosion of faith to 
 
 In this we can see that together the combination of the indwelling Spirit of God (given on the day of Pentecost) and the Word of God (made available in many different forms, and explained by gifted Bible teachers) form a dynamic and effective framework for spiritual growth that came to eclipse even the most impressive miracles and the most exotic spiritual gifts.
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Day #6 – Church age millennium #2</u>:
 
@@ -3492,7 +3492,7 @@ If the fifth millennial day of human history had the initial development of a sy
 
 This process of the gospel's global worldwide spread will eventually reach its conclusion with the belief of the very last replacement members of the family of God, at which point Jesus Christ will return (Matt.24:14; Rev.10:1-7; 14:6-7).
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Filling</u>:
 
@@ -3512,7 +3512,7 @@ That the Gentiles would one day turn to the Lord in unprecedented number is a ma
 - Hosea 2:23b and Romans 9:25
 - Amos 9:11-12 and Acts 15:16-17
 
-<!-- --- -->
+<!-- slide-break -->
 
 However large the first major installment of Christ's bride (i.e., the believing Israelites from Abraham to Christ), in numerical terms it cannot compare to the massive wave of those saved that has followed in the wake of the advent and sacrifice of Him who won that salvation for us: our Lord and Savior Jesus Christ. It is in fact quite appropriate to have the flood-tide of those human beings who would be saved (in replacement of those fallen angels who would not) follow in the train of His life and death of sacrifice on our behalf.
 
@@ -3524,7 +3524,7 @@ That God intended the Church to stand on the framework of that which came before
 2. The Jewish age believers, the line of Christ and the authors of the Holy Scriptures, are the structure's foundation (Eph.2:20).
 3. The Church age believers, the great influx of the faithful, Jews and Gentiles alike, are the "living stones" who comprise the edifice proper (1Cor.3:10-17; Eph.2:22; Heb.3:6; 1Pet.2:5).
 
-<!-- --- -->
+<!-- slide-break -->
 
 All are fully and equally members of Christ's body, Christ's assembly, and God's house (1Tim.3:15; Heb.3:6), and when the last trumpet blows and our Lord returns, the entire "structure" will be united in resurrection to join Him in His triumphal return (1Cor.15:50-54; 1Thes.4:13-17; 1Jn.3:2; Rev.19:14). It is wrong to think, therefore, that the early Gentiles, the Jews, and the Church are somehow different in any important way. Together, we are all one body in Christ, for He has broken down the barrier that separated us:
 
@@ -3534,7 +3534,7 @@ So remember that you were once gentiles in the flesh, called "un-circumcised" by
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-5-and-6-src-ichthys-follow-on-topics}
 
@@ -3546,7 +3546,7 @@ It is sort of mentioned off-handedly here in this section of SR5, and as I see t
 
 <p><u>Man created to replace Satan and his angels</u>:</p>
 
-The creation of Man following the Genesis Gap judgment (see [Part 2](https://ichthys.com/sr2-copy.htm), our previous study) is a clear indication that the two events are intimately related. For God to create a new species of creature, possessing along with the angels both spirituality and free will, and then to deposit them on the very scene of Satan's rebellious activity was no subtle indication that at least one of God's purposes for mankind would be the replacement of the devil and his evil legions. This must have been abundantly and immediately clear to Satan. For here was a new moral creature who (left to his own devices) might just do what he and his would not: *obey God's will without rebelling against Him*. <!-- --- -->As soon as the requisite population was reached through procreation, Satan and company could be removed, wholeness and completeness having thus been restored. Judgment, after all, had already been pronounced (Job 4:18; Matt.25:41; Jn.16:11). What could remain except for a one-for-one replacement of fallen angels with human beings, once our numbers became sufficient?  With judgment set, execution of God's sentence against the devil would be inevitable if not immediate (cf. Rev.20:10):
+The creation of Man following the Genesis Gap judgment (see [Part 2](https://ichthys.com/sr2-copy.htm), our previous study) is a clear indication that the two events are intimately related. For God to create a new species of creature, possessing along with the angels both spirituality and free will, and then to deposit them on the very scene of Satan's rebellious activity was no subtle indication that at least one of God's purposes for mankind would be the replacement of the devil and his evil legions. This must have been abundantly and immediately clear to Satan. For here was a new moral creature who (left to his own devices) might just do what he and his would not: *obey God's will without rebelling against Him*. <!-- slide-break -->As soon as the requisite population was reached through procreation, Satan and company could be removed, wholeness and completeness having thus been restored. Judgment, after all, had already been pronounced (Job 4:18; Matt.25:41; Jn.16:11). What could remain except for a one-for-one replacement of fallen angels with human beings, once our numbers became sufficient?  With judgment set, execution of God's sentence against the devil would be inevitable if not immediate (cf. Rev.20:10):
 
 {{% ichthys-translation p="Isaiah 24:21-22" %}}
 
@@ -3556,7 +3556,7 @@ And it will come to pass on that day (i.e., the "day of the Lord"), that the Lor
 
 Therefore, with the creation of Man, a creature capable of procreation unlike the angels, the *de facto* removal of the only remaining, tangible barrier to Satan's execution was only a matter of time.
 
-<!-- --- -->
+<!-- slide-break -->
 
 The principle of God's desire to retrieve what is lost and replace what is missing is clearly seen in scripture in the parable of the lost sheep (Matt.18:12-14; Lk.15:4-10), the law of levirate marriage (Deut.25:5-6), and, of course, in His longing for all mankind to accept the gift of Jesus Christ and return to Him (cf. Ezek.18:23; Matt.18:14; Jn.12:47; 2Pet.3:9):
 
@@ -3570,7 +3570,7 @@ There is ample evidence to suggest that elect mankind is, in effect, replacing f
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 The largest part of this explanation is tied up in understanding God's purposes in the creation of mankind to begin with, which much of SR3 on Ichthys is dedicated to explaining. In truth, many theologians do not seem to really understand nor teach on the idea that humanity's creation is intrinsically linked with the rebellion of Satan and the fallen angels. I would argue that so long as you accept that premise, then the idea that humanity was created at least in part as a replacement for the fallen angels is an eminently natural inference to make.
 
@@ -3580,7 +3580,7 @@ As I see things, we are able to have a much richer appreciation for the reason f
 
 The point of all this isn't for us to get swelled heads thinking that we are going to end up greater than these powerful spiritual beings after the resurrection, as if we were somehow responsible for the blessings that God gives us on account of our own merits. No, rather, the point is for us to appreciate that our belief is connecting us with an eternal family that spans back before the creation of Adam and Eve—before humans even existed. Is that not amazing?
 
-<!-- --- -->
+<!-- slide-break -->
 
 Something else I want to briefly examine is exactly how much internal scriptural evidence we have that God *always* intended for Gentiles to be part of His family, from the very beginning. At times, people make God seem reactive or changeable. They might say that at one point in time, He just randomly decided that He would let Gentiles be saved too, not only Jews. Or—perhaps even more problematically—they might say that somehow the "loving God" of the New Testament (who embraces all sinners with open arms, including Gentiles) is somehow different from the "mean God" of the Old Testament, who ordered the Canaanites peoples exterminated, for example.
 
@@ -3588,13 +3588,13 @@ This is very much a misunderstanding. Aside from the fact that God does not chan
 
 It is kind of wild, if you think about it. All of this information was there in the Old Testament, and yet when the Church was first founded, the fact that salvation had come to the Gentiles also (and not just the Jews) came as a complete and total shock to early believers. Just look at Peter in Acts 10!
 
-<!-- --- -->
+<!-- slide-break -->
 
 This is not because these believers were spiritually weak or ignorant, but because God's inclusion of the Gentiles up until this point had been a mystery, in much the same way Christ's first advent as the Suffering Servant was a mystery. Not that these things could not be seen from prophecies, but that God saw fit to confound the "wise" by working things out in ways that completely surpass human expectation.
 
 We will examine the idea of the "mystery" here in more depth in a coming lesson soon enough. I just thought it was worth calling attention to the sheer volume of direct biblical evidence for the concept, as we examined above in the study.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-5-and-6-src-ichthys-further-discussion}
 
@@ -3639,7 +3639,7 @@ Israel has largely rejected their Messiah, tripping over the Cornerstone, Jesus 
 
 ### Content {#the-complete-household-of-god-the-uniqueness-of-israel-src-ichthys-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Audio clip from Ichthys {#the-complete-household-of-god-the-uniqueness-of-israel-src-ichthys-audio-clip-from-ichthys}
 
@@ -3652,29 +3652,29 @@ srcend="56:37"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
 It should not be overlooked that in the preceding passage, gentile believers of the present day are portrayed as having become *part* of the household of God along with Israel, rather than *replacing* Israel. This picture is consistent with every other passage in the New Testament where the issue is discussed. The gentiles are the wild olive branch that has been grafted into the natural olive tree Israel (Rom.11:13-24). The truth of the matter is that the Church is composed of Jews and gentiles, and that Jewish believers are the foundation for the holy building that God is erecting – not only in the Jewish age, but in the Church age as well:
 
-<!-- --- -->
+<!-- slide-break -->
 
 1) All of the apostles of Christ were Jewish. And although the New Testament is written almost exclusively in Greek, the dominant gentile language of the time, all of the writers of the Bible, New Testament as well as Old Testament, were Jewish (cf. Deut.4:6-8; Ps.147:19-20; Is.59:21; Rom.3:1-2).
 
-<!-- --- -->
+<!-- slide-break -->
 
 2) Though many first century Jews rejected the gospel in the same way that their Judean countrymen had rejected their own Messiah, even a cursory reading of Acts and the Epistles demonstrates clearly that Jewish believers were both the original foundation of the Church and continued to play a huge role after the influx of the gentiles had begun.
 
-<!-- --- -->
+<!-- slide-break -->
 
 3) Jewish believers not only exist but have played and continue to play a critical part in all generations of the Church (Rom.11:5). For the gospel is theirs by first priority, and ours (as gentiles) by the grace of God: "to the Jew first, and also to the Greek (i.e., gentile)" (Rom.1:16; cf. Matt.10:5; 15:26; Acts 13:46; Rom. 2:9-10).
 
-<!-- --- -->
+<!-- slide-break -->
 
 4) The hardness of the majority of the line of Israel during the Church age has been since Paul's day a heavy burden on the heart of their believing countrymen (Rom.9:3; 10:1). Jesus Himself mourned their lack of belief (Matt.23:37), and predicted these "times of the gentiles" which comprise the two millennial Church age days, when gentiles would flood into the Kingdom while Jewish belief would be reduced to a trickle (Lk.21:24; cf. the wedding banquet parable where those invited fail to come and others are brought in instead: Matt.22:1-14; Lk.14:15-24). In the case of the resistant majority, two issues always seem to lie at the core of this resistance which is in such stark contrast to the preeminence of Israel in matters of faith both in the past and in the prophesied future:
 
-<!-- --- -->
+<!-- slide-break -->
 
 a) refusal to accept a suffering Messiah (Matt.16:21-23; Jn.6:66; 1Cor.1:22-23; cf. the desire for displays of miraculous power instead of the cross: Matt.16:4; Mk.8:11-12; Lk.11:29), and consequently tripping over the Cornerstone, Jesus Christ, and the "offense" of His cross (Rom.9:32-33; 1Cor.1:22-23; Gal.5:11; Heb.11:26; 12:2; 13:13).
 
@@ -3682,29 +3682,29 @@ b) resentment over the inclusion of gentiles into the family of God, seed of Abr
 
 This "hardness in part" of Israel is destined to continue "until the fullness of the gentiles comes in . . ." (Rom.11:25), that is, until the calling out of the mass of gentile believers is complete, a process characterizing the Church age, and a process that will continue and be completed just prior to the 2nd Advent of Christ (cf. Rev.11:2; 12:17). At the moment of His return, everything will change for Israel, and the vision of Him returning in glory will bring about a profound and glorious change of heart (Zech.12:10-14; Rev.1:7; cf. Joel 2:30-32; Matt.24:30).
 
-<!-- --- -->
+<!-- slide-break -->
 
 5) Despite this general "hardness", during the last phase of the Church age, when the Jewish age overlaps with it for its final seven years known as the Tribulation, Israel will once more take the lead in spectacular fashion. Moses and Elijah, the two witnesses of Revelation chapter eleven, will be resuscitated for a warning ministry of the greatest significance.  These are the only two Jewish age believers of whom we know whose bodies were "taken" by God for precisely this purpose (Deut.34:6 compared with Jude 1:9; 2Ki.2:11-12). And the final world-wide witness of the Gospel (and God's warning of impending doom) will be carried to the four corners of the earth by 144,000 Jews (Rev.7:1-8; 14:1-5), thus partially fulfilling through Jewish hands the prophecy of universal evangelization (albeit as an indirect witness in the case of the gentiles: Matt.24:14; Mk.13:10 compared to Revelation 14:6-7, the ultimate fulfillment of the prophecy).
 
-<!-- --- -->
+<!-- slide-break -->
 
 6) The Millennial glories of Israel and her undisputed prominence when the Son of David returns to rule the earth as her King show clearly the pride of place that Abraham's seed enjoys in the plan and family of God (see [section IV.2](https://ichthys.com/Satans-Rebellion-Part5.htm#Millennium) below and also [Part 1 of this series for Millennial details](https://ichthys.com/SR1copy.htm#f%29%20The%20Millennial%20Jerusalem)).
 
-<!-- --- -->
+<!-- slide-break -->
 
 7) The preeminence of Israel can also be clearly seen from the description of the eternal state in Revelation chapters 21-22. The twelve gates of New Jerusalem (named for the historical *Jewish* capital: for more, see the link: [The New Jerusalem](https://ichthys.com/New_Jerusalem.htm)) are named for Israel's twelve tribes (21:12), and the twelve foundations of its wall are named for the twelve (Jewish) apostles (21:14).
 
-<!-- --- -->
+<!-- slide-break -->
 
 <img src="https://ichthys.com/NewJerusalem.gif" style="width: auto !important; height: auto !important; max-height: 400px !important;">
 
-<!-- --- -->
+<!-- slide-break -->
 
 8) And the Messiah comes from Israel (Jn.4:22; cf. Ps.2:8). We should never forget that Christ is Jewish, ***the*** seed of Abraham, the Vine of the vine of Israel (Ps.80:8-16; Jn.15:1ff), the Branch of David's line (Is.4:2; Jer.23:5; 33:15; Zech.3:8; 6:12), and, prophetically, ***the*** Light of Israel, the Light of the world (Is.42:6; 49:6-7; 55:3-5 compared with Jn.1:5; 3:19; 8:12; 9:5; 12:46).
 
 Therefore while it is true that gentiles are Jesus' "other sheep" (Jn.10:16; 11:52; cf. Zech.2:11), that they have been made one with Jews in Christ (Gal.3:28; cf. our "brotherhood" in Matt.23:8), that the barrier between the two groups has been broken down through His cross (Eph.2:11-21), and that there will be many from the east and the west who will recline together with the Lamb at His victory banquet (Is.25:6; Matt.8:11; cf. Zech.2:11), Christians of gentile stock need to understand that we are Israel's spiritual seed (Rev.12:17), and sons of Abraham by faith (Rom.4:11 & 16). For we are a wild olive branch, and it is the root of Israel which bears us, not the other way around:
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% ichthys-translation p="Romans 11:17-23a" %}}
 
@@ -3714,7 +3714,7 @@ So even if some of the branches have been broken off, and you, wild olive branch
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#the-complete-household-of-god-the-uniqueness-of-israel-src-ichthys-summary-points}
 
@@ -3731,7 +3731,7 @@ We also need to remember that we are nonetheless fundamentally *Israel's* spirit
 
 Jewish believers are the foundation for the holy building that God is erecting – not only in the Jewish age, but in the Church age as well. We can see this in eight clear ways:
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### 1) All of the apostles of Christ were Jewish {#the-complete-household-of-god-the-uniqueness-of-israel-src-ichthys-1-all-of-the-apostles-of-christ-were-jewish}
 
@@ -3739,13 +3739,13 @@ Although the New Testament is written almost exclusively in Greek, the dominant 
 
 The oracles of God were entrusted entirely to the Jews.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### 2) Jewish believers were the original foundation of the Church, and continued to play a huge role after the influx of the Gentiles had begun {#the-complete-household-of-god-the-uniqueness-of-israel-src-ichthys-2-jewish-believers-were-the-original-foundation-of-the-church-and-continued-to-play-a-huge-role-after-the-influx-of-the-gentiles-had-begun}
 
 Though many first century Jews rejected the gospel in the same way that their Judean countrymen had rejected their own Messiah, even a cursory reading of Acts and the Epistles demonstrates clearly that the Early Church was founded initially by the Jews, and spread primarily through the actions of Jewish evangelists (particularly in the earliest days).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### 3) Jewish believers not only exist, but have played and continue to play a critical part in all generations of the Church {#the-complete-household-of-god-the-uniqueness-of-israel-src-ichthys-3-jewish-believers-not-only-exist-but-have-played-and-continue-to-play-a-critical-part-in-all-generations-of-the-church}
 
@@ -3753,22 +3753,22 @@ Compare Romans 11:5---the concept of God's remnant most certainly can be applied
 
 The gospel is theirs by first priority, and ours (as Gentiles) by the grace of God: "to the Jew first, and also to the Greek (i.e., gentile)" (Rom.1:16; cf. Matt.10:5; 15:26; Acts 13:46; Rom. 2:9-10).
 
-<!-- --- -->
+<!-- slide-break -->
 
-##### 4) The hardness of the majority of the line of Israel during the Church age has, since Paul's day, been a heavy burden on the heart of their believing countrymen {#the-complete-household-of-god-the-uniqueness-of-israel-src-ichthys-4-the-hardness-of-the-majority-of-the-line-of-israel-during-the-church-age-has-since-paul-s-day-been-a-heavy-burden-on-the-heart-of-their-believing-countrymen}
+##### 4) The hardness of the majority of the line of Israel during the Church age has, since Paul's day, been a heavy burden on the heart of their believing countrymen {#the-complete-household-of-god-the-uniqueness-of-israel-src-ichthys-4-the-hardness-of-the-majority-of-the-line-of-israel-during-the-church-age-has-since-pauls-day-been-a-heavy-burden-on-the-heart-of-their-believing-countrymen}
 
 We see this clearly in the writings of Paul in Romans 9:3 and Romans 10:1, among other places. Jesus Himself also mourned the Jews's lack of belief (Matt.23:37).
 
 Despite mourning it, Jesus did predict this present hardness. We can see this in, for example, Luk 21:24, and the parable of the wedding banquet where those invited fail to come and others are brought in instead: Matt.22:1-14; Lk.14:15-24.
 
-<!-- --- -->
+<!-- slide-break -->
 
 So what causes this hardness of the majority? Two big things:
 
 1. Refusal to accept a suffering Messiah (Matt.16:21-23; Jn.6:66; 1Cor.1:22-23; cf. the desire for displays of miraculous power instead of the cross: Matt.16:4; Mk.8:11-12; Lk.11:29), and consequently tripping over the Cornerstone, Jesus Christ, and the "offense" of His cross (Rom.9:32-33; 1Cor.1:22-23; Gal.5:11; Heb.11:26; 12:2; 13:13).
 2. Resentment over the inclusion of gentiles into the family of God, seed of Abraham by faith alone (Matt.27:18; Acts 13:43-45; 17:5; 22:21-22; Rom.10:2; cf. Lk.15:25-32), and, corollary to this, trusting in their own righteousness from the Law instead of faith (Rom.9:30-32; 10:3-4). This second issue is very much a post-cross problem. Jesus' earthly ministry was focused entirely upon Israel, not the gentiles, so that our Lord's contemporaries never had this excuse. They rejected Him before believing gentiles became an issue (Matt.7:6; 10:15).
 
-<!-- --- -->
+<!-- slide-break -->
 
 When will the hardness of the majority end?
 
@@ -3776,7 +3776,7 @@ It is destined to continue "until the fullness of the gentiles comes in..." (Rom
 
 At the moment of His return, everything will change for Israel, and the vision of Him returning in glory will bring about a profound and glorious change of heart (Zech.12:10-14; Rev.1:7; cf. Joel 2:30-32; Matt.24:30).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### 5) Despite the present hardness, during the last phase of the Church age, Israel will once more take the lead in spectacular fashion {#the-complete-household-of-god-the-uniqueness-of-israel-src-ichthys-5-despite-the-present-hardness-during-the-last-phase-of-the-church-age-israel-will-once-more-take-the-lead-in-spectacular-fashion}
 
@@ -3785,15 +3785,15 @@ We see this in two large ways:
 1. Moses and Elijah, the two witnesses of Revelation chapter eleven, will be resuscitated for a warning ministry of the greatest significance. These men are two of the Jewish people's most important prophets.
 2. The final world-wide witness of the Gospel (and God's warning of impending doom) will be carried to the four corners of the earth by 144,000 Jews (Rev.7:1-8; 14:1-5), thus partially fulfilling through Jewish hands the prophecy of universal evangelization (albeit as an indirect witness in the case of the Gentiles: Matt.24:14; Mk.13:10 compared to Revelation 14:6-7, the ultimate fulfillment of the prophecy).
 
-<!-- --- -->
+<!-- slide-break -->
 
-##### 6) During the Millennium, Israel's pride of place in the family of God will be clearly apparent {#the-complete-household-of-god-the-uniqueness-of-israel-src-ichthys-6-during-the-millennium-israel-s-pride-of-place-in-the-family-of-god-will-be-clearly-apparent}
+##### 6) During the Millennium, Israel's pride of place in the family of God will be clearly apparent {#the-complete-household-of-god-the-uniqueness-of-israel-src-ichthys-6-during-the-millennium-israels-pride-of-place-in-the-family-of-god-will-be-clearly-apparent}
 
 The Son of David will return to rule the earth as her King... her *Jewish* King.
 
 This is to say, while Jesus will in fact rule the entire world, he will do so from Jerusalem, and will do so as the inheritor of the Davidic line of Jewish Kingship. From this, it will be obvious to all that Israel has special significance in God's family.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### 7) The New Jerusalem—the eternal city of God—through its very construction points towards the importance of Israel {#the-complete-household-of-god-the-uniqueness-of-israel-src-ichthys-7-the-new-jerusalem-the-eternal-city-of-god-through-its-very-construction-points-towards-the-importance-of-israel}
 
@@ -3801,11 +3801,11 @@ The twelve gates of New Jerusalem (named for the historical *Jewish* capital: fo
 
 The twelve foundations of the wall of the New Jerusalem are named for the twelve (Jewish) apostles (Revelation 21:14).
 
-<!-- --- -->
+<!-- slide-break -->
 
 <img src="https://ichthys.com/NewJerusalem.gif" style="width: auto !important; height: auto !important; max-height: 400px !important;">
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### 8) The Messiah comes from Israel {#the-complete-household-of-god-the-uniqueness-of-israel-src-ichthys-8-the-messiah-comes-from-israel}
 
@@ -3813,7 +3813,7 @@ Salvation comes from the Jews; the King of the Universe is Jewish! (See Jn.4:22,
 
 We should never forget that Christ is Jewish, ***the*** seed of Abraham, the Vine of the vine of Israel (Ps.80:8-16; Jn.15:1ff), the Branch of David's line (Is.4:2; Jer.23:5; 33:15; Zech.3:8; 6:12), and, prophetically, ***the*** Light of Israel, the Light of the world (Is.42:6; 49:6-7; 55:3-5 compared with Jn.1:5; 3:19; 8:12; 9:5; 12:46).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#the-complete-household-of-god-the-uniqueness-of-israel-src-ichthys-follow-on-topics}
 
@@ -3823,13 +3823,13 @@ Moreover, the notion that Christians are somehow separate from the Jews is compl
 
 Clearly, God does not view believing and unbelieving Israel in the same way. But that does not give us leave to abuse unbelieving Israel, for soon enough "their kind" will in fact turn to Christ, in a massive wave of belief that fulfills all sorts of Old Testament prophecy. In other words, the Jew mocked today will tomorrow be our brother or sister in the body of Christ. For a time they may have hardened their hearts towards God's truth, but God will regather them fully when the time comes, and woe to those who thought to persecute them when that time does come! They will find themselves treated in the same way as Antichrist, who the Bible says will likewise oppress God's chosen people. Look at his end, and you will know the end of those who persecute the Jews.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Jewish people are the people of prophecy and promise. Messing with them is messing with God. If nations are like children playing upon a playground, then picking on Israel is like shoving down the child who has a big brother who will completely end you; you won't just have a bad day, there will be nothing left of you. You can't handle this big brother. The Babylonians couldn't. The Assyrians couldn't. *Death* couldn't. What makes you think you can, hm?
 
 God is jealous and possessive (in every way that is positive) when it comes to His people. He doesn't tolerate other people getting in the way, or leading his sheep astray. Human shepherds may whack those who harm their sheep with a staff. That probably hurts. Now imagine what it means to have an Omnipotent being who has the power to "destroy both soul and body in hell" (Matthew 10:28) do the same.
 
-<!-- --- -->
+<!-- slide-break -->
 
 All of this is why antisemitism is a bad move. Even if someone did not have an ounce of human decency, if they were rational, they still wouldn't touch the Jews for these reasons we've been discussing. The consequences are so terrible that out of sheer self-interest, nobody in their right mind would provoke God in this way.
 
@@ -3837,13 +3837,13 @@ Yet the truly shocking thing is that so many people *do* in fact provoke God in 
 
 The reasons for this are complex and multifaceted, but no matter what, we have nothing to be resentful about in God's treatment of the Jews. We should not be like one child jealous of the attention their sibling receives from their Father. Why? Because God does not show favoritism (Romans 2:11). Like the passage from Romans 11 that we keep bringing up mentions, God did not spare the natural-born branches on the tree if they chose not to believe. The Jews were given much, and were shown God's favor. But they also carried a terrible responsibility in this, for to whom much is given, much is expected (Luke 12:48).
 
-<!-- --- -->
+<!-- slide-break -->
 
 And this is why we should only want the best for the Jews. They compete with us for nothing; God's love is not zero sum like that. Our Jewish brothers and sisters (those who believe) ought to be our very best friends in God's truth. They can *understand* God's mercy and deliverance; it is literally in their DNA. Centuries and millennia of heritage point them towards honoring a God who delivered their forefathers from Pharaoh by the might of His hand, towards a God who drove out powerful nations before them, and gave them an inheritance forever. Because of their background, God's promises to Abraham and the other Patriarchs are "family matters" to them. It makes it hit different for them, in a good way.
 
 Can you not see that all this makes our Jewish brethren the perfect people to run alongside as we worship our Savior, who delivered Jew and Gentile alike?
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#the-complete-household-of-god-the-uniqueness-of-israel-src-ichthys-further-discussion}
 
@@ -3888,7 +3888,7 @@ Given Israel's uniqueness and God's prior focus on them, the calling out of the 
 
 ### Content {#the-complete-household-of-god-the-church-src-ichthys-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Audio clip from Ichthys {#the-complete-household-of-god-the-church-src-ichthys-audio-clip-from-ichthys}
 
@@ -3901,15 +3901,15 @@ srcend="01:01:11"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
 Given Israel's obvious uniqueness in the plan of God and her special relationship with Him (Deut.4:6-8; 4:34; 7:6; 1Ki.8:53; Zech.2:8), the calling out of the gentiles in such unprecedented numbers to be part of the family of God, though foreshadowed in prophecy (as documented above), came as quite a surprise – especially to the devil. We can assume that the seven thousand year outline of human history is well-known to him, as is the one for one replacement of him and his followers with believing humanity – a plan that should by rights be completed at the inception of the day of rest. Looking at his no doubt carefully tabulated scorecard before the day of Pentecost, it must have seemed impossible that the necessary replacement figure could possibly be met on schedule, given that in the two thirds of the available time already elapsed (i.e., the Gentile and Jewish ages), only a small fraction of the requisite number had believed and chosen for God. But just as the incarnation and sacrifice of our Lord Jesus Christ, God taking on true humanity and dying for Man, is God's great strategic surprise and victory of the ages, so the filling up of Christ's assembly of believers with a flood of gentiles during the last pair of millennial days is the great "mystery" that followed in the wake of the victorious cross. Just as the final pair of Genesis days sees the re-created earth filled in earnest with a plethora of inhabitants, so the final pair of historical millennial days fills up the family of God with believers, filling up the body of Christ, the bride of Christ, to its full and complete number – the fundamental purpose for the history of the world from the divine point of view.
 
-<!-- --- -->
+<!-- slide-break -->
 
-The word and the concept of the Church must be seen in these terms. For the Church, properly understood, is ultimately composed not just of those who have put their faith in Jesus Christ since the day of Pentecost, but of all believers throughout the first six millennial days (on the Millennium, see below). Stephen's mention of "the Church in the wilderness" (Acts 7:38 – NIV "assembly") is a clear indication that the universal assembly of believers antedates what is often thought of as "the Church". The English word "church" is derived from the Old English borrowing and transformation of the Greek adjective *kyriakon*, or, "belonging to the Lord", a clear attempt on the part of believers of an earlier time to distinguish between local assemblies of believers and *the* universal Church. In the Greek New Testament, the word translated "church" is an entirely different term: *ekklesia* (ἐκκλησία). Derived from the verb "to call" and the preposition "out of", this is the same word used for the assembly of enfranchised citizens in the classical Greek city-states. These notions of special selection and special privilege can also be seen in the adjectival form *eklektos*, cognate in form and meaning with the Latin word from which our English "elect" is derived. That the Church is thus properly the universal *assembly* of all who choose to faithfully follow Jesus Christ during the first six millennia of human history, a chosen few (by grace through faith, Eph.2:8-9), an elect group called by God out of the devil's world and into His own family, is a truth not only supported throughout the New Testament (cf. Matt.22:14; Rom.8:33; 1Cor.1:27; 1Thes.1:4; 1Pet.1:1; Rev.17:14), but consistent with the picture given by the Old Testament as well, where *ekklesia* is the standard translation for Israel's assembly (קהל), the *qahal*.<!-- --- --> Central to the idea of our "election" is the purpose for it. For we who are elect are so because of Him who is ***the*** elect, Jesus Christ, and it is for Him that we have been chosen out of the world, to share eternity together with ***the*** chosen One (compare Is.42:1 with 44:1; and cf. Lk.9:35; 23:35; 1Pet.2:4):
+The word and the concept of the Church must be seen in these terms. For the Church, properly understood, is ultimately composed not just of those who have put their faith in Jesus Christ since the day of Pentecost, but of all believers throughout the first six millennial days (on the Millennium, see below). Stephen's mention of "the Church in the wilderness" (Acts 7:38 – NIV "assembly") is a clear indication that the universal assembly of believers antedates what is often thought of as "the Church". The English word "church" is derived from the Old English borrowing and transformation of the Greek adjective *kyriakon*, or, "belonging to the Lord", a clear attempt on the part of believers of an earlier time to distinguish between local assemblies of believers and *the* universal Church. In the Greek New Testament, the word translated "church" is an entirely different term: *ekklesia* (ἐκκλησία). Derived from the verb "to call" and the preposition "out of", this is the same word used for the assembly of enfranchised citizens in the classical Greek city-states. These notions of special selection and special privilege can also be seen in the adjectival form *eklektos*, cognate in form and meaning with the Latin word from which our English "elect" is derived. That the Church is thus properly the universal *assembly* of all who choose to faithfully follow Jesus Christ during the first six millennia of human history, a chosen few (by grace through faith, Eph.2:8-9), an elect group called by God out of the devil's world and into His own family, is a truth not only supported throughout the New Testament (cf. Matt.22:14; Rom.8:33; 1Cor.1:27; 1Thes.1:4; 1Pet.1:1; Rev.17:14), but consistent with the picture given by the Old Testament as well, where *ekklesia* is the standard translation for Israel's assembly (קהל), the *qahal*.<!-- slide-break --> Central to the idea of our "election" is the purpose for it. For we who are elect are so because of Him who is ***the*** elect, Jesus Christ, and it is for Him that we have been chosen out of the world, to share eternity together with ***the*** chosen One (compare Is.42:1 with 44:1; and cf. Lk.9:35; 23:35; 1Pet.2:4):
 
 {{% ichthys-translation p="John 15:18-19" %}}
 
@@ -3929,7 +3929,7 @@ This, then, is the true meaning of the Church, the select assembly of Christ, fo
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#the-complete-household-of-god-the-church-src-ichthys-summary-points}
 
@@ -3943,7 +3943,7 @@ But just as the incarnation and sacrifice of our Lord Jesus Christ—God taking 
 
 Just as the final pair of Genesis days sees the re-created earth filled in earnest with a plethora of inhabitants, so the final pair of historical millennial days fills up the family of God with believers, filling up the body of Christ, the bride of Christ, to its full and complete number – the fundamental purpose for the history of the world from the divine point of view.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The Church is composed of all pre-Millennium believers, not just post-Pentecost believers {#the-complete-household-of-god-the-church-src-ichthys-the-church-is-composed-of-all-pre-millennium-believers-not-just-post-pentecost-believers}
 
@@ -3957,7 +3957,7 @@ The word and the concept of the Church must be seen in these terms. For the Chur
 
 Stephen's mention of "the Church in the wilderness" (Acts 7:38 – NIV "assembly") is a clear indication that the universal assembly of believers antedates what is often thought of as "the Church".
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Greek and Hebrew vocabulary related to the word we translate as "Church" {#the-complete-household-of-god-the-church-src-ichthys-greek-and-hebrew-vocabulary-related-to-the-word-we-translate-as-church}
 
@@ -3973,7 +3973,7 @@ In the Greek New Testament, the word translated "church" is an entirely differen
 
 That the Church is thus properly the universal *assembly* of all who choose to faithfully follow Jesus Christ during the first six millennia of human history, a chosen few (by grace through faith, Eph.2:8-9), an elect group called by God out of the devil's world and into His own family, is a truth not only supported throughout the New Testament (cf. Matt.22:14; Rom.8:33; 1Cor.1:27; 1Thes.1:4; 1Pet.1:1; Rev.17:14), but consistent with the picture given by the Old Testament as well, where *ekklesia* is the standard translation for Israel's assembly (קהל), the *qahal*.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Our election is intrinsically tied to Christ {#the-complete-household-of-god-the-church-src-ichthys-our-election-is-intrinsically-tied-to-christ}
 
@@ -4003,7 +4003,7 @@ Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Ch
 
 This, then, is the true meaning of the Church, the select assembly of Christ, formed and chosen for Him from every age of human history to be His special unique possession.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#the-complete-household-of-god-the-church-src-ichthys-follow-on-topics}
 
@@ -4021,9 +4021,9 @@ The reason why this matters is that drawing a sharp line between believing Jews 
 
 It is characteristic of certain flavors of dispensationalism to try to fully separate Israel and the Church in their theology. Adherents say they reject "replacement theology", or the notion that the Church has somehow replaced Israel. From a certain way of looking at things, we reject that too. We are not saying the Church replaced Israel; we are saying that Israel has *always* been part of the Church (even from the very beginning), once one properly defines what exactly "the Church" is. In fact, we say the same thing about the believing Gentile Fathers too, going all the way back to Adam.
 
-<!-- --- -->
+<!-- slide-break -->
 
-##### All this makes perfect sense when we understand that the Church is going to be God's 1:1 replacement for the fallen angels {#the-complete-household-of-god-the-church-src-ichthys-all-this-makes-perfect-sense-when-we-understand-that-the-church-is-going-to-be-god-s-1-1-replacement-for-the-fallen-angels}
+##### All this makes perfect sense when we understand that the Church is going to be God's 1:1 replacement for the fallen angels {#the-complete-household-of-god-the-church-src-ichthys-all-this-makes-perfect-sense-when-we-understand-that-the-church-is-going-to-be-gods-1-1-replacement-for-the-fallen-angels}
 
 {{< properties
 
@@ -4041,13 +4041,13 @@ Millennial believers, "friends of the Bride", are not part of this numerical rep
 
 The same cannot be said for trying to separate believing Israel from the Church. 
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The Church with a capital C needs to be our focus. We ought not be cliquey {#the-complete-household-of-god-the-church-src-ichthys-the-church-with-a-capital-c-needs-to-be-our-focus-we-ought-not-be-cliquey}
 
 {{< properties
 
-stags="Church > Is not a human institution or physical building, but inclusion is based upon saving faith in Jesus Christ"
+stags="Church > Is not a human institution or physical building, but is based upon saving faith in Jesus Christ"
 
 >}}
 
@@ -4057,7 +4057,7 @@ Unfortunately, we English speakers use the same word for local assemblies of bel
 
 Biblically speaking, we are all One Body, not multiple bodies plural, so we ought to act like it. In this I do not mean we should be ecumenical in the sense some push for—sacrificing truth for unity in a misplaced attempt to follow this ideal. No, rather what I mean is that we should do away with the preoccupation many Christians have with physical buildings and all the trappings therein. A building is not an *ekklesia* in the Greek sense of the word; only a collection of people can be an *ekklesia*. And ultimately, only one Christian *ekklesia* should rate first place in our priorities: the Body of Christ, the Bride of Christ, composed of all believers past, present, and even future. Not just the specific group of nice people who meet in the building down the street from us.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### What about the Catholics and the Orthodox? {#the-complete-household-of-god-the-church-src-ichthys-what-about-the-catholics-and-the-orthodox}
 
@@ -4073,7 +4073,7 @@ That is, somehow, to them, the proposition "Jimmy believes in Jesus Christ" and 
 
 This is why their conception of the global Church is flawed. The Church of Jesus Christ has nothing to do with human institutions. It only has to do with saving faith in Jesus Christ.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#the-complete-household-of-god-the-church-src-ichthys-further-discussion}
 
@@ -4117,7 +4117,7 @@ In the Church age, God has chosen to send the Holy Spirit, and *everything* abou
 
 ### Content {#the-complete-household-of-god-the-mystery-of-christ-src-ichthys-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Audio clip from Ichthys {#the-complete-household-of-god-the-mystery-of-christ-src-ichthys-audio-clip-from-ichthys}
 
@@ -4130,7 +4130,7 @@ srcend="01:02:20"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Audio clip 2 {#the-complete-household-of-god-the-mystery-of-christ-src-ichthys-audio-clip-2}
 
@@ -4143,13 +4143,13 @@ srcend="09:04"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
-In the Greek, a "mystery" (μυστήριον) is most commonly a cryptic rite, a ritual or arcane piece of information that only the initiates of certain cults (the Eleusian mysteries, for example) were permitted to know, a secret, in other words, that was generally hidden from all but the select few. The designation "mystery" perfectly reflects the particulars of both the nature of the Messiah's first advent (His incarnation and victory on the cross) and the nature of the calling out of the complement of His Church that followed in its wake (the flooding of gentile believers into the assembly of God in completely unanticipated numbers). <!-- --- -->As we have seen above, both the suffering of the Messiah and the great influx of gentiles into the family of God were predicted in scripture, but the particulars of the second Person of the Trinity taking on human existence and dying for our sins, and the particulars of the unprecedented surge of believing gentiles into His Church would have surprised even the Old Testament prophets who alluded to them. It was, in short, "a mystery" that has only come fully to light since the cross:
+In the Greek, a "mystery" (μυστήριον) is most commonly a cryptic rite, a ritual or arcane piece of information that only the initiates of certain cults (the Eleusian mysteries, for example) were permitted to know, a secret, in other words, that was generally hidden from all but the select few. The designation "mystery" perfectly reflects the particulars of both the nature of the Messiah's first advent (His incarnation and victory on the cross) and the nature of the calling out of the complement of His Church that followed in its wake (the flooding of gentile believers into the assembly of God in completely unanticipated numbers). <!-- slide-break -->As we have seen above, both the suffering of the Messiah and the great influx of gentiles into the family of God were predicted in scripture, but the particulars of the second Person of the Trinity taking on human existence and dying for our sins, and the particulars of the unprecedented surge of believing gentiles into His Church would have surprised even the Old Testament prophets who alluded to them. It was, in short, "a mystery" that has only come fully to light since the cross:
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% ichthys-translation p="1st Peter 1:10-12" %}}
 
@@ -4157,11 +4157,11 @@ The prophets [of old] diligently investigated and inquired about this salvation 
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
-In this last verse we have the answer to a question so profound that the mystery of Christ and of the Church would remain effectively cloaked until His resurrection: If Israel, God's chosen people, the one people on the face of the earth after His own heart, did not accept Him en masse but only in part (cf. 1Ki.19:18; 1Cor.10:5; etc.), then how could it ever be that the gentiles, so much farther from God, would flood into His family in such unsurpassed volume? The answer, as verse twelve above makes clear, is the ministry of the Holy Spirit. <!-- --- -->The Spirit's ministry is a rich and detailed subject that will be given full treatment in [Part 5 of Bible Basics: Pneumatology](https://ichthys.com/5-Pneumato.htm). It must suffice to say here that the gift of the Holy Spirit, an event that could not take place before the victory and glorification of Christ (Jn.7:39; Phil.2:5-11; cf. Is.53:2; Jn.12:23; 13:31-32; 17:1-5), is one of the most momentous and significant features of the Church age. It is the ministry of the Spirit which was behind the expansion of evangelism from Pentecost forward (Acts 2:1-41; 5:12-14; 8:4-6; 8:29; 10:44-46), the broadening of evangelistic focus beyond the borders of Israel (Acts 13:2; 15:28; 16:6; 20:28), and the massive influx of gentile believers into the family of God, which trend continues to this very day (Jn.3:5-8; 15:26-27; 16:5-11; Rom.8:2; 8:26-27; 1Cor.2:4; Gal.3:2-3; 5:16ff.; 1Jn.5:6-7). <!-- --- -->The line of the Church (the early gentiles) and the foundation of the Church (historical Israel) antedated the coming of the Savior, but it was appropriate for the erection of the great edifice of the Church to wait upon His victory and glorification, and it is the Spirit's work to bring to completion "the joy" that Christ had set His heart upon (Heb.12:2), namely, to complete within the present two millennial days the bride that completes Him, the Church. In the meantime, the comparable surge of Jewish belief (though in every generation there is at least a remnant of believing Jews: Rom.11:5), likewise anticipated in scripture (cf. Jer.31:33-34), has not been abrogated, but is merely pending, waiting for the ministries of preparation predicted to come in the last days, and ready to burst into full flood at the 2nd Advent of the Messiah:
+In this last verse we have the answer to a question so profound that the mystery of Christ and of the Church would remain effectively cloaked until His resurrection: If Israel, God's chosen people, the one people on the face of the earth after His own heart, did not accept Him en masse but only in part (cf. 1Ki.19:18; 1Cor.10:5; etc.), then how could it ever be that the gentiles, so much farther from God, would flood into His family in such unsurpassed volume? The answer, as verse twelve above makes clear, is the ministry of the Holy Spirit. <!-- slide-break -->The Spirit's ministry is a rich and detailed subject that will be given full treatment in [Part 5 of Bible Basics: Pneumatology](https://ichthys.com/5-Pneumato.htm). It must suffice to say here that the gift of the Holy Spirit, an event that could not take place before the victory and glorification of Christ (Jn.7:39; Phil.2:5-11; cf. Is.53:2; Jn.12:23; 13:31-32; 17:1-5), is one of the most momentous and significant features of the Church age. It is the ministry of the Spirit which was behind the expansion of evangelism from Pentecost forward (Acts 2:1-41; 5:12-14; 8:4-6; 8:29; 10:44-46), the broadening of evangelistic focus beyond the borders of Israel (Acts 13:2; 15:28; 16:6; 20:28), and the massive influx of gentile believers into the family of God, which trend continues to this very day (Jn.3:5-8; 15:26-27; 16:5-11; Rom.8:2; 8:26-27; 1Cor.2:4; Gal.3:2-3; 5:16ff.; 1Jn.5:6-7). <!-- slide-break -->The line of the Church (the early gentiles) and the foundation of the Church (historical Israel) antedated the coming of the Savior, but it was appropriate for the erection of the great edifice of the Church to wait upon His victory and glorification, and it is the Spirit's work to bring to completion "the joy" that Christ had set His heart upon (Heb.12:2), namely, to complete within the present two millennial days the bride that completes Him, the Church. In the meantime, the comparable surge of Jewish belief (though in every generation there is at least a remnant of believing Jews: Rom.11:5), likewise anticipated in scripture (cf. Jer.31:33-34), has not been abrogated, but is merely pending, waiting for the ministries of preparation predicted to come in the last days, and ready to burst into full flood at the 2nd Advent of the Messiah:
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% ichthys-translation p="Romans 11:25-27" %}}
 
@@ -4169,11 +4169,11 @@ Brothers, I do not want you to be ignorant of ***this mystery*** (and so think m
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 So the change of heart that brings a flood of Jews to faith in Christ (comparable to the flood of gentiles that characterizes the Church age) will be the Messiah's actual return. When they look upon "Him they have pierced" (Zech.12:10-14; Rev.1:7; cf. Joel 2:30-32; Matt.24:30), Israel will turn to Him in numbers that will proportionally outstrip the greatest gains of the Church age, as God purges and restores His chosen people, fulfilling all the promises He has made (Is.65:8-10; Jer.31:31-34; Ezek.20:33-38; 37:11-14; Hos.1:10-11; Mal.4:5-6; Matt.23:39; Rom.11:26). The fact that this much anticipated spiritual (and geographical) restoration of Israel would not take place immediately after the Messiah's (first) appearance, but would wait upon the completion of His Church through the calling out of innumerable gentiles is the "mystery" we have been experiencing since His triumph on the cross (and as a direct result of that victory: cf. Lk.2:32; 10:17-20):
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% ichthys-translation p="Revelation 5:5" %}}
 
@@ -4187,19 +4187,19 @@ Then one of the elders said to me, "Don't cry. Behold, the Lion of the tribe of 
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% ichthys-translation p="Ephesians 3:1-11" %}}
 
-(1) For this reason (i.e., the building up of the Church into a holy temple: cf. 2:14-22), I, Paul, am Christ's prisoner on behalf of the gentiles. (2) And I assume that you have heard about this dispensation of God's grace given to me on your behalf (i.e., his mandate as an apostle to "carry Christ's name to the gentiles": Acts 9:15). (3) For it was through [God's] revelation that this ***mystery*** [of His calling out of the gentiles] was made known to me as I wrote you briefly before. (4) When you read these things you will be able to understand my spiritual insight into this ***mystery of Christ***, (5) which was not made known to mankind in previous generations as it has now been revealed to His holy apostles and prophets by the Spirit. (6) [And the ***mystery*** is this]: that the gentiles are [now] fellow heirs, members of the same body, and equal partakers of the promise [of salvation to Israel] in Christ Jesus through the gospel, [the proclamation of His victory]. <!-- --- -->(7) It is of this gospel that I have been made a minister by the gift of God's grace given to me through His dynamic power. (8) To me, the least of all His holy ones, this gracious charge has been entrusted: to proclaim to the gentiles the unfathomable wealth that is Christ, (9) and to shed light on this ***mystery***[, the calling out of the gentiles] which is now being brought to pass (lit., "the dispensation" of it), though it was once hidden from the ages in God who created everything. (10) God [did this] so that [His] enigmatically intricate wisdom might be made known to the rulers and authorities in the heavenly realms through the agency of the Church, (11) according to His plan for the ages (i.e., history) which He has implemented in [the person of] Christ Jesus our Lord.
+(1) For this reason (i.e., the building up of the Church into a holy temple: cf. 2:14-22), I, Paul, am Christ's prisoner on behalf of the gentiles. (2) And I assume that you have heard about this dispensation of God's grace given to me on your behalf (i.e., his mandate as an apostle to "carry Christ's name to the gentiles": Acts 9:15). (3) For it was through [God's] revelation that this ***mystery*** [of His calling out of the gentiles] was made known to me as I wrote you briefly before. (4) When you read these things you will be able to understand my spiritual insight into this ***mystery of Christ***, (5) which was not made known to mankind in previous generations as it has now been revealed to His holy apostles and prophets by the Spirit. (6) [And the ***mystery*** is this]: that the gentiles are [now] fellow heirs, members of the same body, and equal partakers of the promise [of salvation to Israel] in Christ Jesus through the gospel, [the proclamation of His victory]. <!-- slide-break -->(7) It is of this gospel that I have been made a minister by the gift of God's grace given to me through His dynamic power. (8) To me, the least of all His holy ones, this gracious charge has been entrusted: to proclaim to the gentiles the unfathomable wealth that is Christ, (9) and to shed light on this ***mystery***[, the calling out of the gentiles] which is now being brought to pass (lit., "the dispensation" of it), though it was once hidden from the ages in God who created everything. (10) God [did this] so that [His] enigmatically intricate wisdom might be made known to the rulers and authorities in the heavenly realms through the agency of the Church, (11) according to His plan for the ages (i.e., history) which He has implemented in [the person of] Christ Jesus our Lord.
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Fully digested, the passage above teaches virtually the entire content of what we have been discussing on the subject of the mystery of the fifth and sixth millennial days, that is, the calling out of the gentiles to fill up the body of Christ, a prophecy not fully understood until its implementation, and therefore a mystery, the mystery of the Church (when viewed from the standpoint of the bride, the Church) and at the same time the mystery of Christ (when viewed from the standpoint of the bridegroom, Jesus Christ): 
 
-<!-- --- -->
+<!-- slide-break -->
 
 - <u>verses 1-2</u>: the object of Paul's ministry is to implement or dispense the mystery of the calling out of the gentiles, made known to Him by Christ.
 - <u>verse 3</u>: the mystery, hidden in the past, was unveiled or revealed to him by divine agency (revelation is the counterpart of a mystery).
@@ -4212,11 +4212,11 @@ Fully digested, the passage above teaches virtually the entire content of what w
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#the-complete-household-of-god-the-mystery-of-christ-src-ichthys-summary-points}
 
-##### The twofold mystery of the nature of Christ's first advent, and gentile salvation {#the-complete-household-of-god-the-mystery-of-christ-src-ichthys-the-twofold-mystery-of-the-nature-of-christ-s-first-advent-and-gentile-salvation}
+##### The twofold mystery of the nature of Christ's first advent, and gentile salvation {#the-complete-household-of-god-the-mystery-of-christ-src-ichthys-the-twofold-mystery-of-the-nature-of-christs-first-advent-and-gentile-salvation}
 
 {{< properties
 
@@ -4231,7 +4231,7 @@ The designation "mystery" perfectly reflects the particulars of both:
 
 Both the suffering of the Messiah and the great influx of gentiles into the family of God were predicted in scripture, but the particulars of the second Person of the Trinity taking on human existence and dying for our sins, and the particulars of the unprecedented surge of believing gentiles into His Church would have surprised even the Old Testament prophets who alluded to them.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The unanticipated reality of the ministry of the Holy Spirit is what brought about the expansion of salvation to the gentiles {#the-complete-household-of-god-the-mystery-of-christ-src-ichthys-the-unanticipated-reality-of-the-ministry-of-the-holy-spirit-is-what-brought-about-the-expansion-of-salvation-to-the-gentiles}
 
@@ -4251,7 +4251,7 @@ The ministry of the Holy Spirit was behind:
 2. The broadening of evangelistic focus beyond the borders of Israel
 3. The massive influx of gentile believers into the family of God, which trend continues to this very day
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The "logic" of gentile salvation post-dating the cross {#the-complete-household-of-god-the-mystery-of-christ-src-ichthys-the-logic-of-gentile-salvation-post-dating-the-cross}
 
@@ -4265,7 +4265,7 @@ As we have discussed previously, the "full edifice" of the Church may have start
 
 However, it was appropriate for the erection of the great edifice of the Church to wait upon His victory and glorification, for only through the giving of the Spirit is this new building phase possible. Compare John 16:7-15.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The temporary hardness of Israel is another part of the mystery in the calling out of the gentiles {#the-complete-household-of-god-the-mystery-of-christ-src-ichthys-the-temporary-hardness-of-israel-is-another-part-of-the-mystery-in-the-calling-out-of-the-gentiles}
 
@@ -4287,7 +4287,7 @@ Brothers, I do not want you to be ignorant of ***this mystery*** (and so think m
 
 In many places, the Old Testament prophecies the regathering of Israel. The fact that this much anticipated spiritual (and geographical) restoration of Israel would not take place immediately after the Messiah's (first) appearance, but would wait upon the completion of His Church through the calling out of innumerable gentiles is the "mystery" we have been experiencing since His triumph on the cross.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### How Ephesians 3:1-11 teaches everything we are discussing here {#the-complete-household-of-god-the-mystery-of-christ-src-ichthys-how-ephesians-3-1-11-teaches-everything-we-are-discussing-here}
 
@@ -4301,7 +4301,7 @@ ptags="Ephesians 3:1-2; Ephesians 3:3; Ephesians 3:4; Ephesians 3:5; Ephesians 3
 
 Ephesians 3:1-11 teaches virtually the entire content of what we have been discussing on the subject of the mystery of the fifth and sixth millennial days, that is, the calling out of the gentiles to fill up the body of Christ, a prophecy not fully understood until its implementation, and therefore a mystery, the mystery of the Church (when viewed from the standpoint of the bride, the Church) and at the same time the mystery of Christ (when viewed from the standpoint of the bridegroom, Jesus Christ):
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Verses 1-2</u>:
 
@@ -4313,7 +4313,7 @@ The object of Paul's ministry is to implement or dispense the mystery of the cal
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Verse 3</u>:
 
@@ -4325,7 +4325,7 @@ The mystery, hidden in the past, was unveiled or revealed to him by divine agenc
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Verse 4</u>: 
 
@@ -4337,7 +4337,7 @@ Jesus Christ is the mystery (because the mystery, seen from Christ's point of vi
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Verse 5</u>: 
 
@@ -4349,7 +4349,7 @@ This mystery has now been fully revealed to the present day apostles and prophet
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Verse 6</u>: 
 
@@ -4361,7 +4361,7 @@ Paul explains the mystery specifically from the point of view of the bride of Ch
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Verse 7-9</u>: 
 
@@ -4373,7 +4373,7 @@ It is Paul's job to minister to this unforeseen expansion of the family of God t
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Verse 10</u>: 
 
@@ -4385,7 +4385,7 @@ God's wisdom in filling up the assembly (the Church of Christ) is thus made know
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Verse 11</u>: 
 
@@ -4397,11 +4397,11 @@ Such has been God's purpose for and plan of human history all along: the constru
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#the-complete-household-of-god-the-mystery-of-christ-src-ichthys-follow-on-topics}
 
-##### All these "mysteries" show that God's plans are always higher than ours {#the-complete-household-of-god-the-mystery-of-christ-src-ichthys-all-these-mysteries-show-that-god-s-plans-are-always-higher-than-ours}
+##### All these "mysteries" show that God's plans are always higher than ours {#the-complete-household-of-god-the-mystery-of-christ-src-ichthys-all-these-mysteries-show-that-gods-plans-are-always-higher-than-ours}
 
 {{< properties
 
@@ -4413,7 +4413,7 @@ When 1 Peter 1:12 says "even angels want to look into these things", we are to u
 
 Rather than getting bent out of shape about this, we'd best rejoice. Because our very salvation rests on God's completely unexpected mercy towards the gentiles! We can thank God that He doesn't always act as we expect, because we would have otherwise had no opportunity to put our faith in Jesus Christ as *our* savior (rather than Him just being the savior of the Jews).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The centrality of the Holy Spirit in gentile salvation {#the-complete-household-of-god-the-mystery-of-christ-src-ichthys-the-centrality-of-the-holy-spirit-in-gentile-salvation}
 
@@ -4427,7 +4427,7 @@ It bears repeating that *everything* about gentile salvation rests upon the mini
 
 In this way, I think we could also rightly consider the giving of the Holy Spirit to be a proper mystery as well. It is part and parcel of God's unanticipated plan to open up salvation to the gentiles—another thing veiled from earlier believers until it actually came about.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#the-complete-household-of-god-the-mystery-of-christ-src-ichthys-further-discussion}
 
@@ -4471,7 +4471,7 @@ Marriage symbolizes and reflects Christ's relationship with His Church. Jesus Ch
 
 ### Content {#the-complete-household-of-god-the-bride-src-ichthys-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Audio clip from Ichthys {#the-complete-household-of-god-the-bride-src-ichthys-audio-clip-from-ichthys}
 
@@ -4484,7 +4484,7 @@ srcend="15:09"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -4492,19 +4492,19 @@ The Church is Christ's "body, the fullness of Him who fills everything in every 
 
 Thus the intimate relationship between the Savior and His saved is so close, so intense, that in itself it comprises both sides of the mystery we have so far been discussing, namely, the incarnation and sacrifice of Jesus for His Church, and the filling up of that Church in such a marvelous and unanticipated way following His triumph. The analogy (between Christ and Church and man and wife) is, therefore, incredibly close, and can be seen from the very beginning of human history when God invented and sanctified the human institution of marriage.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Indeed, it is not too strong a statement to say by way of inference that the whole idea of marriage (something unique to human beings: cf. Lk.20:35-36) was designed by God for mankind in order to teach us about the fundamental and essential tenet of His plan for all of human history: the incarnation and sacrifice of His Son (the loving husband) for the salvation of His Church (the faithful wife). For it is certainly fitting for the most fundamental and original human institution (marriage, consecrated in Eden before the fall: Gen.2:18-24) to mirror and reflect His most fundamental and central purpose for human history as He constructed it (the saving work of Jesus Christ and the calling out of His Church).
 
 Just as God has constructed human existence and human nature so that man needs woman and woman needs man (Gen.2:18), so He has established the span of human history as the type to this antitype, with the coming of Jesus as a true man and the preparation and calling out of His bride the cardinal events of these first six millennial days. Thus the whole purpose and reason for history (salvation for the Church through the Person and work of Christ) is reflected in what is, apart from mortality, arguably the dominant human concern in this life, namely, the marriage relationship. And in every marriage relationship we learn something about the greatest of all mysteries, the great love of Jesus Christ and the faithfulness of His Church.
 
-<!-- --- -->
+<!-- slide-break -->
 
 This is true notwithstanding the weakness of our flesh and the resultant imperfect nature of human relationships here in the devil's world. Do men fall short of the perfect standard of Christ's love? Of necessity, they all do (only the degree is in question), but we can learn about the wondrous nature of Christ's perfect love by comparison to the imperfections of every husband we meet: every human lapse reminds us of our divine Husband's perfection. Do women fall short of the perfect obedience and faithfulness that the perfect love of Jesus Christ is due from His Church? Every such instance is a reminder of the perfect responsiveness due to our heavenly Husband. Even the Church itself, that is, the part which remains in these bodies and in this world, is far from perfect in these respects. But it should be noted with care that, in respect to Christ, we as the Church, women *and* men, find ourselves in the woman's role, and are called upon to manifest the same submissive obedience and faithfulness toward God demonstrated by Christ during His sojourn on the earth, humbling Himself even to the point of total humiliation and death on the cross (Phil.2:5-8).
 
 And so we can learn from observation of any wife something not only about the relationship of the Church to Christ in general, but also (and very importantly) about *our* individual relationships to Christ. Do we observe a wife who is extraordinary in her duties toward her husband? We examine our own performance toward the One who bought us with His blood and should be challenged to be found likewise in His eyes. Do we observe a wife who in our estimation falls far short of the biblical standard? We would do well to consider our own performance toward Christ and His forgiveness and faithfulness in the face of our rebellious behavior.
 
-<!-- --- -->
+<!-- slide-break -->
 
 In short, by applying the analogy of marriage, we learn about who Christ is and what He would have from us, and we learn about our true priorities and His estimation of our behavior. This is indeed a great mystery, revealed now to the Church through Jesus' chosen apostles, the close consideration of which can help us to know our Master better and bring us closer to Him by making us better servants for Him. Just as the first Adam was espoused to Eve by God, flesh of his flesh and bone of his bone, so the Church is the bride of the Last Adam, Jesus Christ (1Cor.15:45; cf. Rom.5:14), the perfect complement to Him, designed for Him, and destined to be one with Him forever (Matt.9:15; Matt.25:1ff.; Mk.2:19; Lk.5:34; Jn.3:29; 2Cor.11:2-3; Eph.1:22-23; 5:22-33; Rev.19:7-14; 21:2-4; 21:9ff.; 22:17; cf. Rom.7:1-6):
 
@@ -4516,7 +4516,7 @@ In short, by applying the analogy of marriage, we learn about who Christ is and 
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#the-complete-household-of-god-the-bride-src-ichthys-summary-points}
 
@@ -4529,7 +4529,7 @@ The intimate marriage relationship between Christ and the Church itself comprise
 
 In all of this we should note that God made human marriage to point to this relationship, not the other way around. In fact, we can go a step further and say that this is not some small, minor part of the reason why God created marriage for mankind, but is instead *the* primary reason for marriage to begin with. It is certainly fitting for the most fundamental and original human institution (marriage, consecrated in Eden even before the fall: Gen.2:18-24) to mirror and reflect His most fundamental and central purpose for human history as He constructed it (the saving work of Jesus Christ, and the calling out of His Church).
 
-<!-- --- -->
+<!-- slide-break -->
 
 In every marriage relationship we learn something about the greatest of all mysteries: the incarnation and sacrifice of His Son (the loving husband) for the salvation of His Church (the faithful wife). This is true notwithstanding the weakness of our flesh and the resultant imperfect nature of human relationships here in the devil's world:
 
@@ -4538,15 +4538,15 @@ In every marriage relationship we learn something about the greatest of all myst
 
 We should emphasize that *all* of us human beings (men and women alike) currently find ourselves in the woman's role, and are called upon to manifest the same submissive obedience and faithfulness toward God demonstrated by Christ during His sojourn on the earth, humbling Himself even to the point of total humiliation and death on the cross (Phil.2:5-8). And so we can learn from observation of any wife something not only about the relationship of the Church to Christ in general, but also (and very importantly) about *our* individual relationships to Christ.
 
-<!-- --- -->
+<!-- slide-break -->
 
 In short, by applying the analogy of marriage, we learn about who Christ is and what He would have from us, and we learn about our true priorities and His estimation of our behavior. This is indeed a great mystery, revealed now to the Church through Jesus' chosen apostles, the close consideration of which can help us to know our Master better and bring us closer to Him by making us better servants for Him. Just as the first Adam was espoused to Eve by God, flesh of his flesh and bone of his bone, so the Church is the bride of the Last Adam, Jesus Christ, the perfect complement to Him, designed for Him, and destined to be one with Him forever.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#the-complete-household-of-god-the-bride-src-ichthys-follow-on-topics}
 
-##### If human marriage symbolically represents the relationship between Christ and the Church, why won't it be a thing in eternity? {#the-complete-household-of-god-the-bride-src-ichthys-if-human-marriage-symbolically-represents-the-relationship-between-christ-and-the-church-why-won-t-it-be-a-thing-in-eternity}
+##### If human marriage symbolically represents the relationship between Christ and the Church, why won't it be a thing in eternity? {#the-complete-household-of-god-the-bride-src-ichthys-if-human-marriage-symbolically-represents-the-relationship-between-christ-and-the-church-why-wont-it-be-a-thing-in-eternity}
 
 {{< properties
 
@@ -4564,13 +4564,13 @@ Most anything we say here is mere speculation, because the Bible simply doesn't 
 
 One might examine the matter from a purely practical approach. Say a man married a woman, but then she died during childbirth (like has been very common throughout much of history). This then happened two more times. Which of three women would he be married to in eternity? This example alone should make it obvious that there is no particularly good way to map temporal human relationships onto eternal relationships. And this is not even mentioning all the messiness that divorce and remarriage necessarily introduces.
 
-<!-- --- -->
+<!-- slide-break -->
 
 The above aside, I think how we understand all this can perhaps be simpler than squinting at all that. The sort of unity we will have with one another in eternity will put even the very closest of temporal human relationships to shame. We will all have infinite time to grow close to every other believer that has ever lived, in perfect love. In a world without the constraints we now operate under---a world without any concept of opportunity cost---why limit ourselves in the relationships we have with others? We will have enough time, emotional bandwidth, etc. to have relationships with everyone. It's *eternity*. Expand your field of view a little!
 
 You might ask about sex then. Well, procreation will no longer be necessary in eternity, so that's one thing. In time, sex is clearly restricted to the bounds of marriage. So if there's no marriage in eternity, does that mean no sex?
 
-<!-- --- -->
+<!-- slide-break -->
 
 Something C.S. Lewis wrote on the matter:
 
@@ -4582,13 +4582,13 @@ Hence where fullness awaits us we anticipate fasting. In denying that sexual lif
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Unlike Lewis, I don't take a firm stand one way or the other regarding whether or not there will be any concept of sex in eternity (Lewis here actually stakes his flag down, answering the question in the negative). Humans were allowed to eat meat when they previously were not (cf. Genesis 9:2-4), so why not this too, once circumstances change (like they clearly will in eternity)? On what interpretative basis would we say it is completely impossible (as opposed to, say, seeming rather unlikely, given that there will not be marriage in eternity, and sex has up until now been only within marriage)? Again, we simply do not know about such things, because the Bible does not say.
 
 Nonetheless, Lewis's argument is the correct one to make if someone does come to us worried about some form of hypothetical deprivation in eternity: like the little boy who cannot understand why lovers care not about chocolates within the throes of passion, even if we were to lose what we now consider the highest form of pleasure, it will no doubt be because we are too busy doing something else so much better that it makes sex seem boring and plain by comparison. This renders the deprivation argument completely toothless in practice, if one even wants to bother addressing it one way or the other.
 
-<!-- --- -->
+<!-- slide-break -->
 
 So no matter what, we know we will not find ourselves missing marriage in eternity. In time, things like sex, companionship, and family come along with marriage. In eternity, no matter how exactly everything works, we can be sure that what comes to take the place of these godly things will only be better in every way.
 
@@ -4604,7 +4604,7 @@ For now we see only a reflection as in a mirror; then we shall see face to face.
 
 And this "no marriage in eternity" business is simply part of that wider principle.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Biblical submission is manly {#the-complete-household-of-god-the-bride-src-ichthys-biblical-submission-is-manly}
 
@@ -4622,7 +4622,7 @@ Men better get it through their heads that they are just like women in this rega
 
 Submission is therefore not a particularly gendered thing in general; only within the confines of human marriage is the submission of a wife to her husband a gendered thing. In all other areas, men and women are completely the same when it comes to submitting to authority.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The metaphor of marriage between Christ and the Church is important for fully understanding various things in the Bible {#the-complete-household-of-god-the-bride-src-ichthys-the-metaphor-of-marriage-between-christ-and-the-church-is-important-for-fully-understanding-various-things-in-the-bible}
 
@@ -4650,7 +4650,7 @@ And how about understanding Israel's spiritual unfaithfulness to the Lord as ful
 > But you have played the harlot with many lovers;  
 > Yet return to Me,” says the Lord.  
 
-<!-- --- -->
+<!-- slide-break -->
 
 > **2** “Lift up your eyes to the desolate heights and see:
 > Where have you not lain with men?  
@@ -4669,13 +4669,13 @@ And how about understanding Israel's spiritual unfaithfulness to the Lord as ful
 > Behold, you have spoken and done evil things,  
 > As you were able.”  
 
-<!-- --- -->
+<!-- slide-break -->
 
 **A Call to Repentance**
 
 **6** The Lord said also to me in the days of Josiah the king: “Have you seen what backsliding Israel has done? She has gone up on every high mountain and under every green tree, and there played the harlot. **7** And I said, after she had done all these things, ‘Return to Me.’ But she did not return. And her treacherous sister Judah saw it. **8** Then I saw that for all the causes for which backsliding Israel had committed adultery, I had put her away and given her a certificate of divorce; yet her treacherous sister Judah did not fear, but went and played the harlot also. **9** So it came to pass, through her casual harlotry, that she defiled the land and committed adultery with stones and trees. **10** And yet for all this her treacherous sister Judah has not turned to Me with her whole heart, but in pretense,” says the Lord.
 
-<!-- --- -->
+<!-- slide-break -->
 
 **11** Then the Lord said to me, “Backsliding Israel has shown herself more righteous than treacherous Judah. 12 Go and proclaim these words toward the north, and say:
 
@@ -4689,7 +4689,7 @@ And how about understanding Israel's spiritual unfaithfulness to the Lord as ful
 > To alien deities under every green tree,  
 > And you have not obeyed My voice,’ says the Lord.  
 
-<!-- --- -->
+<!-- slide-break -->
 
 **14** “Return, O backsliding children,” says the Lord; “for I am married to you. I will take you, one from a city and two from a family, and I will bring you to Zion. **15** And I will give you shepherds according to My heart, who will feed you with knowledge and understanding.
 
@@ -4699,7 +4699,7 @@ And how about understanding Israel's spiritual unfaithfulness to the Lord as ful
 
 **18** “In those days the house of Judah shall walk with the house of Israel, and they shall come together out of the land of the north to the land that I have given as an inheritance to your fathers.
 
-<!-- --- -->
+<!-- slide-break -->
 
 **19** “But I said:
 
@@ -4720,7 +4720,7 @@ And how about understanding Israel's spiritual unfaithfulness to the Lord as ful
 > For they have perverted their way;  
 > They have forgotten the Lord their God.  
 
-<!-- --- -->
+<!-- slide-break -->
 
 > **22** “Return, you backsliding children,  
 > And I will heal your backslidings.”  
@@ -4744,11 +4744,11 @@ And how about understanding Israel's spiritual unfaithfulness to the Lord as ful
 
 {{% /scripture %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 God speaks of giving unfaithful Israel a divorce due to adultery (verse 8). He says that He is married to Israel (verse 14). Verses 1 and 20 directly use terminology of husband and wife. All this tells us that the relationship we have spoken of in this lesson is far from an offhand comparison used in a single spot, but actually permeates all of scripture.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#the-complete-household-of-god-the-bride-src-ichthys-further-discussion}
 
@@ -4758,7 +4758,7 @@ God speaks of giving unfaithful Israel a divorce due to adultery (verse 8). He s
 
 {{< quizdown >}}
 
-## True or False: Human marriage is designed to teach us about God's fundamental tenet in human history: Christ's incarnation and sacrifice for the salvation of His Church. {#the-complete-household-of-god-the-bride-src-ichthys-true-or-false-human-marriage-is-designed-to-teach-us-about-god-s-fundamental-tenet-in-human-history-christ-s-incarnation-and-sacrifice-for-the-salvation-of-his-church}
+## True or False: Human marriage is designed to teach us about God's fundamental tenet in human history: Christ's incarnation and sacrifice for the salvation of His Church. {#the-complete-household-of-god-the-bride-src-ichthys-true-or-false-human-marriage-is-designed-to-teach-us-about-gods-fundamental-tenet-in-human-history-christs-incarnation-and-sacrifice-for-the-salvation-of-his-church}
 
 1. [x] True
 1. [ ] False
@@ -4781,7 +4781,7 @@ III. Marriage is the most fundamental and original human institution.
 1. [x] I. and III alone. 
 1. [ ] All of the above. 
 
-## True or False: Scripture sometimes calls Israel's spiritual unfaithfulness to the Lord adultry. {#the-complete-household-of-god-the-bride-src-ichthys-true-or-false-scripture-sometimes-calls-israel-s-spiritual-unfaithfulness-to-the-lord-adultry}
+## True or False: Scripture sometimes calls Israel's spiritual unfaithfulness to the Lord adultry. {#the-complete-household-of-god-the-bride-src-ichthys-true-or-false-scripture-sometimes-calls-israels-spiritual-unfaithfulness-to-the-lord-adultry}
 
 1. [x] True 
 1. [ ] False
@@ -4829,7 +4829,7 @@ Christ's incarnation and sacrifice on behalf of His bride, the Church, along wit
 
 ### Content {#the-complete-household-of-god-the-revelation-src-ichthys-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Audio clip from Ichthys {#the-complete-household-of-god-the-revelation-src-ichthys-audio-clip-from-ichthys}
 
@@ -4842,7 +4842,7 @@ srcend="19:33"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -4850,19 +4850,19 @@ While we now know the mystery of Christ and of the Church, it has not been fully
 
 Thus God took Satan completely by surprise, and though He had given indications of future events, before the cross the great mystery was hidden – to His glory and the devil's discomfiture (cf. Prov.25:2; Matt.13:11; Mk.4:11; Lk.8:10). Christ, now human and divine, coming to earth to die for our sins *is* the mystery (Col.2:1-4; 1Tim.3:16), and the miraculous completion during this age of the Church, His body and His bride for whose sake He died, *is* the converse side of that mystery (Eph.1:23), for Christ and His Church are inseparable.
 
-<!-- --- -->
+<!-- slide-break -->
 
 As the antitype to the fifth and sixth Genesis days, the Church age reflects the refilling of the newly refurbished earth. For as the previous four Genesis days had made life habitable for the creatures placed upon it by God during the fifth and sixth day, culminating in the creation of human kind in Adam and Eve, so the Church age has seen the arrival of the bountiful crop sprung from the seed of faith planted in the Gentile age and sprouting in the Jewish age. 
 
 Noah alone (along with seven others) had kept this seed alive at the time of the great flood (1Pet.3:20), and the cadre of believers during the Jewish age constituted the growing remnant of that faith as the seed grew into a plant (Ps.80:8-16; Is.5:2; Jer.2:21; Ezek.17; Hos.10:1; cf. Jn.15:1). But during the Church age, as in the fifth and sixth Genesis days when the filling up of the world with creature life had occurred only after the favorable conditions created by the first four days – all the particulars necessary to physical life in the Genesis type – so in the antitype of human history the abundant "hundred fold" crop of salvation throughout the world which that plant is now producing, the filling up of the body of Christ, has been occurring only after the necessary conditions have been met (Lk.10:2): the advent and victory of Jesus Christ, *the* Seed of promise and *the* Branch of Israel.
 
-<!-- --- -->
+<!-- slide-break -->
 
 The Church age is truly the "fullness of times" for in it the Church is fulfilled (Eph.1:9-10). And just as the final pair of Genesis days culminates in the creation of the man and of the woman who fulfills him, so the final pair of historical days begins and ends with *the* Son of Man's two advents, and is taken up with the completion of the Bride for whom He died. The Church age is thus the mystery age, because it is in this age that the mystery of Christ and of His Church has been revealed and is being fulfilled.
 
 And now, at the end of these days, the unsearchable and perfect plan of God is on the point of being completely fulfilled, with the gap in the family of God created by the defection of the devil and his angels nearly filled up by Christ and His Church, a feat seemingly impossible before the cross and the resultant dissemination of the gospel to the gentiles, but at this late hour all but an accomplished fact, a mystery hidden and still hidden from all those whose eyes are blinded by the prince of this world, but an essential and blessed truth to all who have had the privilege of partaking of the riches of Jesus Christ:
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% ichthys-translation p="Colossians 1:25-27" %}}
 
@@ -4872,7 +4872,7 @@ It is of this [Church] that I, [Paul], have become a minister according to God's
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#the-complete-household-of-god-the-revelation-src-ichthys-summary-points}
 
@@ -4880,7 +4880,7 @@ As we've been discussing, Christ, now human and divine, coming to earth to die f
 
 - While we now know of the mystery of Christ and the Church, it will not be fully revealed until the return of Jesus Christ. What we mean by that is that the full experiential unveiling the great mystery still lies in the future, awaiting the day when Christ shall be fully unveiled to the world at His return, and we, His bride, shall be unveiled with Him.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Recall the parallels between days five and six in the millennial days of human history, and days five and six in the Genesis days of recreation:
 
@@ -4891,7 +4891,7 @@ Recall the parallels between days five and six in the millennial days of human h
 | Culminates in the creation of the man and of the woman who fulfills him.                                                                          | Culminates in the revelation of Jesus Christ, and the the completion of the Bride for whom He died.                                                                                                                 |
 
 
-<!-- --- -->
+<!-- slide-break -->
 
 And now, at the end of these days, the unsearchable and perfect plan of God is on the point of being completely fulfilled: the gap in the family of God created by the defection of the devil and his angels is now nearly fully filled up by Christ and His Church.
 
@@ -4899,7 +4899,7 @@ And now, at the end of these days, the unsearchable and perfect plan of God is o
 - This is the "mystery" of the Church Age being revealed.
 - Praise God that in these matters, He has seen fit to reveal to us at least some small part of His glorious purposes!
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#the-complete-household-of-god-the-revelation-src-ichthys-follow-on-topics}
 
@@ -4919,13 +4919,13 @@ Some examples:
 
 This principle is also in effect when it comes to the mystery of Jesus and Church. Jesus already gave Himself up for the Church, and the Church has already been filled by millions of believers throughout the centuries. Yet the final manifestations of these things will not be realized until Jesus returns again in glory, at which point the Church as His Bride will be fully unveiled.
 
-<!-- --- -->
+<!-- slide-break -->
 
 This is something we should eagerly look forward to. As humans, we might anticipate the wedding celebrations of friends and family even here in this life. How much more so the wedding banquet between Jesus and the Church!
 
 Much of the challenge in the Christian life in fact is overcoming the "not yet" part of "already, but not yet", via faith. It is not easy to maintain the correct spiritual perspective when we are forced to wait. But this is exactly what God has us do, so that we might demonstrate to Him the true character of our faith.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The unity of Christ and the Church {#the-complete-household-of-god-the-revelation-src-ichthys-the-unity-of-christ-and-the-church}
 
@@ -4943,7 +4943,7 @@ First of all, this unity is actually what "becoming one flesh" in human marriage
 
 When Jesus took on a human nature, he bound Himself to humanity forevermore. That is something we can scarcely imagine. This is part of why the "marriage" between Jesus and the Church has such significance as a tie that binds Him to us.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Another consequence of us being joined to Christ is that there is no room for anything else to intrude in the relationship. Compare 1 Corinthians 6:15-17:
 
@@ -4955,7 +4955,7 @@ Another consequence of us being joined to Christ is that there is no room for an
 
 Christ is ours, and we are Christ's, spiritually united with Him through the power of the indwelling Holy Spirit. The intimacy of this union ought to be viewed in the same terms as a man and his wife becoming one flesh. Just as there is no room for anything to intrude in that physical case, so too here in this spiritual case.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#the-complete-household-of-god-the-revelation-src-ichthys-further-discussion}
 
@@ -5021,7 +5021,7 @@ God blessed the seventh day of the Genesis re-creation, setting it apart as holy
 
 ### Content {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-day-7-src-ichthys-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Audio clip from Ichthys {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-day-7-src-ichthys-audio-clip-from-ichthys}
 
@@ -5034,25 +5034,25 @@ srcend="29:30"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
 As discussed in the previous section, the seventh Genesis day of rest and the Millennium, a time of universal peace and rest under the perfect rule of Jesus Christ (Is.9:6-7), are not only mirror images of each other, but also occur in identical order in the sequence of seven: the ultimate position, connoting a crowning, final perfection, and demonstrating in each case that what God has wrought (in both re-creation and replacement) is absolutely perfect, with nothing further to be done. The important difference between the two is the same as we have observed all along, namely that in the case of the Genesis days, the type is the reconstruction and refilling of the earth, while the antitype in the case of the millennial days is the formation and completion of the Church (i.e., the reconstruction and refilling of the family of God, depleted by the Satanic rebellion). So while on the seventh Genesis day God ceased His work of re-creating the earth because it had been perfectly accomplished, in the analogous seventh millennial day, God will cease from His work in filling up the body of Christ's Church (because she will have been perfectly and completely filled up to the full replacement number, and resurrected to be with Christ forever). As in the beginning of human history in Eden, however, when the command "be fruitful and multiply" made clear that it was God's will for what He had made full to become even fuller (Gen.1:22; 1:28), so during the Millennium a new multitude of believers in addition to the Church will be called out to join the family of God, fulfilling once again the principle that where God is at work, loss (in this case that of the devil and his followers) is met not only by replacement, but by superabundance (Rom.5:20-21).
 
-<!-- --- -->
+<!-- slide-break -->
 
 Just as the seventh Genesis day was, therefore, a demonstration that everything God had done in re-creating the earth "was good" (Gen.1:31), so the Millennium will demonstrate that only a world ruled by God (through His anointed Son), can be made "good". The earth of Genesis chapter one is gradually reclaimed from a condition of darkness and devastation (following God's judgment upon Satan's revolt: see [Part 1 of the present study](https://ichthys.com/SR1copy.htm)) by systematically ridding it of all factors unfavorable to human life and habitation, both by separation from elements hostile to life, and by replacement and filling with the elements necessary for life (as we have discussed in detail above). In an analogous fashion, the millennial earth under the perfect rule of Jesus Christ will restore "goodness" to the world again, not only by removing from it the most pernicious source of evil (the devil and his angels and the world system of evil they promote: Rev.20:1-3), but also by the provision of all things necessary to bring about blessing and abundance under the perfect reign of Jesus Christ. Only when Satan and his followers have been removed from interference in human life, and only when the world finds itself under the direct reign of the Son of God (Ps.2; Rev.19:6) will the earth be "good" again, and it is important for believers to understand that without these two key factors of the devil's removal and Christ's return, no paradise on earth is possible. 
 
-<!-- --- -->
+<!-- slide-break -->
 
 In Genesis 2:1-2 we are told that when God had accomplished all He had set out to do in restoring the earth and replacing its creatures (following His prior judgment upon it), that He blessed the seventh day and "made it holy" (i.e., sanctified it). This special "setting apart" (the essential meaning of the Hebrew and Greek roots for holiness respectively: *qadash*, קדש; *hagiazo*, ἁγιάζω) of the seventh day serves to make it a special memorial to God's holiness, faithfulness, and goodness. In the face of the rebellion of so many of His angelic creatures, God did not compromise His holiness but acted in justice, ***judging*** the earth, and in so doing opened the door for His righteous mercy. In ***restoring*** light to the universe and habitability to the earth, God demonstrated His faithfulness in the face of creature unfaithfulness, bringing about the requisite conditions for life on earth again, thus restoring wholeness (biblical "peace"). In ***replacing*** earth's plant and animal life (and in creating the conditions for replacing what was missing in the family of God, either through the [potential] reconciliation of the fallen angels or their replacement with mankind), God rendered the pre-fall cosmos "good", thus demonstrating His great and unique love for His creation, and the boundless and incomprehensible nature of His grace.
 
-<!-- --- -->
+<!-- slide-break -->
 
 In a similar fashion, the Millennium will see, through the perfect rule of the Son of God, the reclaiming of God's direct control over the earth and Man's as well in the of person Jesus Christ, the Last Adam, reclaiming that which was lost by the first Adam. Though sin will not disappear until the present heavens and earth are destroyed by fire and replaced with the new heavens and earth (Is.65:17; 66:22; 2Pet.3:7; 3:10-13; Rev.21:1), the Millennium will be a period that begins and ends with winnowing and purification (Ezek.20:34-38; Zech.13:8-9; Matt.3:10-12; 25:31-46; Lk.3:9-17; 2Thes.1:7-8). Like the seventh Genesis day, it will be a time sanctified (i.e., made holy) by the Lord, indicating a world of true justice and righteousness enforced by the Son of God Himself (Ps.2; Rev.19:11; cf. 2Pet.3:13). According to Deuteronomy 5:15, a major purpose of the Sabbath day was for Israel to remember their deliverance from Egypt by God's mighty power. It was to be a day of rest so that even those without recourse, servants and animals, might have some repose (Deut.5:14). Just so, the Millennium is a time to remember God's deliverance of the world from the devil's grasp, so vividly and horribly experienced in the Great Tribulation which immediately precedes it (Rev.20:1-3), a time to enjoy the rest and blessing of the Christ's perfect rule, and to celebrate the great deliverance God has wrought from the worst period of human history:
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% ichthys-translation p="Isaiah 61:1-3a" %}}
 
@@ -5062,13 +5062,13 @@ The Spirit of the Lord God is upon Me [the Messiah], for the Lord has anointed M
 
 A major part of this Millennial restoration of "good" in an environment of superabundance is the fulfillment of all of God's promises to Abraham, Isaac, Jacob, David and the Jewish nation as a whole. The Millennium will see the complete fulfillment of all the Old Testament covenants, with Jews from everywhere on earth brought back to the land of Israel, established with her promised borders by the Son of David, our Lord Jesus Christ, who will preside over the entire world from His capital, Jerusalem (see [section IV.2](https://ichthys.com/Satans-Rebellion-Part5.htm#Millennium) below and [Part 1 of this series](https://ichthys.com/SR1copy.htm#f%29%20The%20Millennial%20Jerusalem) for references).
 
-<!-- --- -->
+<!-- slide-break -->
 
 The Church (believers from all three prior dual millennial day sets or ages) will return with Christ, being resurrected just prior to His 2nd Advent (1Cor.15:51-52; 1Thes.4:13-18). This is the "wedding of the Lamb" of Revelation 19:7. The Church is thus complete at the return of Christ, but there are many who will turn to Him after He returns with His bride. These are those "invited to the wedding *supper* of the Lamb" (Rev.19:9; i.e., those implied in 1Cor.15:24 vs. the Church of 1Cor.15:23). First and foremost, the new wave of Millennial believers will be Jews, who, when confronted with the reality of the returning Messiah, will turn to God (Jer.31:31-34; Joel 2:30-32; Zech.12:10; Rom.11:12; Rev.1:7). Throughout the course of the Millennium, however, many more will believe – gentiles as well as Jews – as the human race, lately decimated by the events of the Tribulation, expands geometrically in the paradise conditions of Christ's world-wide Kingdom (Is.9:6-7; 49:19-21; 54:1-3; Dan.2:35; Zech.2:4; 10:10; Matt.13:31-33; Mk.4:30-32; Lk.13:18-21). These Jews and gentiles who will turn to the Lord after His glorious return are a complement above and beyond the fullness which is the Church at Christ's return. That is, they are given to Christ over and above the number needed to replace the devil and his followers on a strictly one for one basis (for that is accomplished by the resurrection of the Church at the 2nd Advent). These post 2nd Advent believers, "invited to the wedding supper of the Lamb" (the uniting of Christ and His Church and its celebration throughout the memorial time of the Millennium: Rev.19:9), will share and enjoy the world-wide blessing and bounty of Christ's Millennial reign. Thus the believers of the Millennium constitute an *additional* blessing for Christ, a "double portion" blessing that is traditionally the right of the first born (Deut.21:15-17; cf. Gen.48:22; 1Sam.1:5; 2Ki.2:9; Job 42:10; Is.61:7; Zech.9:12; 1Tim.5:17), and so very appropriate for the "First Born of all creation" (Col.1:15; cf. Ps.89:27; Col.1:18; Heb.1:6), so that He might truly be "the First Born among many brethren" (Rom.8:29).
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-day-7-src-ichthys-summary-points}
 
@@ -5082,7 +5082,7 @@ The seventh Genesis day of rest and the Millennium---a time of universal peace a
 | God ceased His work of re-creating the earth because it had been perfectly accomplished | God will cease from His work in filling up the body of Christ's Church (because she will have been perfectly and completely filled up to the full replacement number, and resurrected to be with Christ forever) |
 | Was a demonstration that everything God had done in re-creating the earth "was good"    | Will demonstrate that only a world ruled by God (through His anointed Son), can be made "good"                                                                                                                   |
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Where God is at work, loss is met not only by replacement, but by superabundance {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-day-7-src-ichthys-where-god-is-at-work-loss-is-met-not-only-by-replacement-but-by-superabundance}
 
@@ -5103,7 +5103,7 @@ So it is that the process of God restoring the world under the personal rule of 
 
 Only when Satan and his followers have been removed from interference in human life, and only when the world finds itself under the direct reign of the Son of God (Ps.2; Rev.19:6) will the earth be "good" again, and it is important for believers to understand that without these two key factors of the devil's removal and Christ's return, no paradise on earth is possible.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The holiness of the seventh day {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-day-7-src-ichthys-the-holiness-of-the-seventh-day}
 
@@ -5121,7 +5121,7 @@ In the seven Genesis days of re-creation, God blessed the seventh day and "made 
 
 Like the seventh Genesis day of re-creation, the Millennium will be a time sanctified (i.e., made holy) by the Lord, indicating a world of true justice and righteousness enforced by the Son of God Himself (Ps.2; Rev.19:11; cf. 2Pet.3:13). Through the perfect rule of the Son of God, God will reclaim direct control over the earth. In fact, man too will reclaim their rightful control over the earth (which had been lost in the fall); Jesus Christ, the Last Adam, will reclaim that which was lost by the first Adam.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The comfort and rest of the Millennium, and how this fulfills prophecy {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-day-7-src-ichthys-the-comfort-and-rest-of-the-millennium-and-how-this-fulfills-prophecy}
 
@@ -5143,7 +5143,7 @@ The Spirit of the Lord God is upon Me [the Messiah], for the Lord has anointed M
 
 A major part of this Millennial restoration of "good" in an environment of superabundance is the fulfillment of all of God's promises to Abraham, Isaac, Jacob, David and the Jewish nation as a whole. The Millennium will see the complete fulfillment of all the Old Testament covenants, with Jews from everywhere on earth brought back to the land of Israel, established with her promised borders by the Son of David, our Lord Jesus Christ, who will preside over the entire world from His capital, Jerusalem (see [section IV.2](https://ichthys.com/Satans-Rebellion-Part5.htm#Millennium) below and [Part 1 of this series](https://ichthys.com/SR1copy.htm#f%29%20The%20Millennial%20Jerusalem) for references).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The wedding supper of the Lamb {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-day-7-src-ichthys-the-wedding-supper-of-the-lamb}
 
@@ -5161,7 +5161,7 @@ First and foremost, the new wave of Millennial believers will be Jews, who, when
 
 These Jews and gentiles who will turn to the Lord after His glorious return are a complement above and beyond the fullness which is the Church at Christ's return. That is, they are given to Christ over and above the number needed to replace the devil and his followers on a strictly one for one basis (for that is accomplished by the resurrection of the Church at the 2nd Advent). Thus the believers of the Millennium constitute an *additional* blessing for Christ, a "double portion" blessing that is traditionally the right of the first born, and so very appropriate for the "First Born of all creation", so that He might truly be "the First Born among many brethren".
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-day-7-src-ichthys-follow-on-topics}
 
@@ -5191,7 +5191,7 @@ This doesn't mean that we should somehow give up and view everything as hopeless
 
 How can these things not have meaning?
 
-<!-- --- -->
+<!-- slide-break -->
 
 But even all combined, these things will never transform the basic nature of the world from darkness to light. In fact, much the point is that we are left down here after belief *in order to* shine our light into the darkness.
 
@@ -5201,7 +5201,7 @@ People caught up in such things become spiritually unproductive because they thr
 
 So we must speak out against all this, because many people really do think Christians have a duty and responsibility to somehow implement change top-down through politics rather than bottom-up by winning hearts and minds for Christ (through the Word of God). This form of thinking is scary because it makes people feel good about "doing something" while actually leading them away from what God truly wants of them.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### More marriage symbolism: wedding banquets, friends of the bride {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-day-7-src-ichthys-more-marriage-symbolism-wedding-banquets-friends-of-the-bride}
 
@@ -5219,7 +5219,7 @@ Also consider those who attend wedding celebrations. Traditionally, human weddin
 
 All of this should excite us. If we can get a taste of the Great Celebration in human weddings, how much better will it be when it is the real deal?
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-day-7-src-ichthys-further-discussion}
 
@@ -5264,7 +5264,7 @@ Throughout the Bible we see beautifully constructed patterns, woven across the f
 
 ### Content {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-summary-src-ichthys-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Audio clip from Ichthys {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-summary-src-ichthys-audio-clip-from-ichthys}
 
@@ -5277,19 +5277,19 @@ srcend="34:10"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
 Both sets of days are subdivided into three discrete pairs: 1-2; 3-4; 5-6 (with the exception in each instance of the seventh day). Whether taken in tandem or taken individually, both the first six Genesis days and the first six millennial days demonstrate an essential progression of separation (the good from the bad, physically and spiritually respectively) and of filling (to replenish the material world and the family of God respectively) leading toward an ultimate goal: the habitability of the earth for mankind in the case of the Genesis days, and the filling up of the full number of family of God for the Son of Man at His return in the case of the millennial days. The seventh day in each case is a crowning glory, a memorial time of rest and blessing with paradise conditions under the rule of the First Adam and the Last Adam respectively. Thus the seven re-creative days of Genesis serve as a model for God's plan for human history, wherein the people of God are progressively separated from the devil's world and enter God's lists in progressively mounting numbers through faith in the Son of God, Jesus Christ as replacements for Satan and his followers (Ex.32:32-33; Ps.69:28; Dan.12:1; Phil.4:3; Rev.3:5; 13:8; 17:8; 20:12-15; 21:27).
 
-<!-- --- -->
+<!-- slide-break -->
 
 God had originally created the entire universe in the blink of an eye (Gen.1:1; see [Part 2 of the current series](https://ichthys.com/sr2-copy.htm)). Therefore His utilization of six literal days merely to restore the earth to habitability (with a seventh memorial day of rest to follow), was certainly not the result of any need on His part for what in comparative terms was a much longer period of time (He is omnipotent, after all, and not subject to space and time). We must conclude then that God's re-creation of earth over seven days was neither accidental nor without significance. In fact, as we have just sought to demonstrate above, the seven Genesis days have great symbolic significance, for they provide a blueprint of God's plan for human history in the planting (Gentile age), growing (Jewish age) and harvesting (Church age) of the Church for Jesus Christ (with a second, memorial bumper crop to follow in the Millennium). Just as was the case in His provision of marriage (with that institution providing mankind with a constant synchronic analogy for the overarching purpose of history: the marriage of Christ and the Church), so through His re-creation of the earth in seven days and the resultant weekly seven day pattern governing our lives God has given us a continual diachronic memorial for remembering and considering His essential objective for human history: the calling out of the Church for Christ. Every day and every week – the essential units of time by which we organize our lives – offers us a reminder of God's plan for the ages, perfect and inevitable. For every day and every week serve as divinely constructed analogies to God's design of human history in the progressive and systematic formation of the Church, centered and focused upon the Person and the work of Jesus Christ.
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-summary-src-ichthys-summary-points}
 
@@ -5310,7 +5310,7 @@ Both the seven Genesis days of re-creation and the seven millennial days of huma
 
 Thus the seven re-creative days of Genesis serve as a model for God's plan for human history, wherein the people of God are progressively separated from the devil's world and enter God's lists in progressively mounting numbers through faith in the Son of God, Jesus Christ as replacements for Satan and his followers.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The significance of God creating over a period of time when He did not need to {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-summary-src-ichthys-the-significance-of-god-creating-over-a-period-of-time-when-he-did-not-need-to}
 
@@ -5328,7 +5328,7 @@ Just as was the case in His provision of marriage (with that institution providi
 
 Every day and every week – the essential units of time by which we organize our lives – offers us a reminder of God's plan for the ages, perfect and inevitable. For every day and every week serve as divinely constructed analogies to God's design of human history in the progressive and systematic formation of the Church, centered and focused upon the Person and the work of Jesus Christ.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-summary-src-ichthys-follow-on-topics}
 
@@ -5346,13 +5346,13 @@ But in fact, we believe in a God who foreordained everything that would happen i
 
 As I see things, God's symbolism is the Platonic ideal of symbolism (so to speak). You may have rolled your eyes in literature class when forced to analyze how an author might have used color or shape or whatever else to convey veiled meaning, but God as an Author is completely unlike puny human authors whose creativity is nothing when compared to the creative majesty of the One who made the entire Universe out of nothing, in all its resplendent glory. What may seemed forced from them is in fact natural to God, who is full control of everything.
 
-<!-- --- -->
+<!-- slide-break -->
 
 And so it is that we can see symbol and metaphor dance across the pages of scripture, simile and typology, prophecy and personification. The sheer scale and complexity of the Bible's symbolism is like no other book in creation. No matter how deep you go, there is always a level deeper---not things we make up arbitrarily, but patterns that are truly there, repeating across the fabric of creation.
 
 If we can see beauty in a composer masterfully weaving a theme throughout her grand symphony or a writer deftly placing a recurring motif throughout his literary epic, how much more so with God's version of these things? In my opinion, coming to recognize and appreciate the breathtaking majesty and symmetry and *rightness* of God's patterns is one of the very best parts of spiritual growth, and there is nothing else quite like it.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-summary-src-ichthys-further-discussion}
 

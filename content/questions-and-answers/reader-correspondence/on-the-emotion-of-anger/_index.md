@@ -11,17 +11,17 @@ Some folks struggle with anger management more than others, although perhaps sai
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Some folks struggle with anger management more than others, although perhaps said others have different areas of weakness (like lust or pride, for example). If you are someone who struggles with your temper, what do you need to know about the emotion of anger from a biblical perspective? This page goes over this some.
 
-
+<!-- summary -->
 
 {{% content %}}
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Q: How to deal with anger management issues? {#q-how-to-deal-with-anger-management-issues}
 

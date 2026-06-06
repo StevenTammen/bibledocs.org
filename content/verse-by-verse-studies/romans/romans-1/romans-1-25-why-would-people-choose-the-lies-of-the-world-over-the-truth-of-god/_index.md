@@ -22,11 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 It can be tempting to choose the lies of the world over the truth of God because choosing the truth of God makes the world hate us. If we do not look with eyes of faith, it can be easy to only see what we imagine we are losing, without keeping our eyes fixed on the eternal things we are gaining. For the former is right before our eyes, while the latter is veiled from our sight.
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -34,7 +34,7 @@ It can be tempting to choose the lies of the world over the truth of God because
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Do you wish to be popular? To be accepted? To not face ridicule and scorn?
 

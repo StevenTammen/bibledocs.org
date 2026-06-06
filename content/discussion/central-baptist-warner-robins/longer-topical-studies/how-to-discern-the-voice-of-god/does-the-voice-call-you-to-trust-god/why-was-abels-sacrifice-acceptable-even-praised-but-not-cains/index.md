@@ -26,19 +26,19 @@ People have an easy time understanding why Cain was punished after he murdered h
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Hebrews 11:4 says that by faith Abel was approved as a righteous man on account of the sacrifice that he gave to God, and that his sacrifice was better than Cain's.
 
 People have an easy time understanding why Cain was punished after he murdered his brother. But why was Abel's sacrifice pleasing to God to begin with, but not Cain's? That is the question that this page will set out to answer.
 
-
+<!-- summary -->
 
 {{% content %}}
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The passage in Genesis chapter 4 {#the-passage-in-genesis-chapter-4}
 
@@ -64,17 +64,17 @@ Abel took care of sheep. Cain worked the ground. **3** After some time, Cain gat
 
 {{% /ot %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Because we know that God is completely Just, we know that He cannot show favoritism simply because He likes offerings of livestock better than offerings of crops (cf. Deuteronomy 10:17; Job 34:19; Romans 2:11; Acts 10:34-35; etc.). Nor do I personally believe we have ground to stand on to say that this event had much of anything to do with raising livestock being inherently more godly than farming crops. On what basis? That's nonsense.
 
 The thing that makes the interpretation of this passage somewhat difficult is that the text itself does not explain much; it does not have a clear description of why God favored Abel's sacrifice but not Cain's, at least not directly.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### One possibility is that the only difference between the two was heart state {#one-possibility-is-that-the-only-difference-between-the-two-was-heart-state}
 
@@ -92,7 +92,7 @@ Do you think that God would be unjust in having a positive attitude towards the 
 
 Mapping this onto our passage, Abel would be like the first man, and Cain like the second.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The symbolism of blood sacrifice {#the-symbolism-of-blood-sacrifice}
 
@@ -110,13 +110,13 @@ However, I will make one additional point. From the Protoevangelium in Genesis 3
 
 [^1]: Figurative blood not literal blood is what is important salvifically: it was Christ taking the divine judgment for our sins upon His shoulders in our place that saves us, not His physical blood. See [here](https://ichthys.com/4A-Christo.htm#4._The_Blood_of_Christ:_) for more on this frequently used metaphor in scripture.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Hebrews 11:4 emphasizes Abel's faith. Quite simply, if the matter of sacrifices in Genesis 4 had just been something along the lines of "giving the first fruits of one's labor to the Lord," then there is little logical basis for why Abel's sacrifice would be marked out as a sign of special faith. It would be the right thing to do, sure, but would that alone make him "Hebrews-11-worthy" (so to speak), alongside the other heroes of the faith?
 
 Both the Genesis passage itself and reference to Abel's faith in Hebrews 11:4 make a great deal more sense if this sacrificing business was really all about acknowledging the fact that it is impossible for us to work our way into God's favor—if Abel's blood sacrifice here was acknowledgment on His part of God's Grace and Mercy. Abel was willing to submit himself to God, looking by faith towards God's eventual sacrifice for sin once for all, while Cain only focused on bragging to God about what he had done himself on his own effort.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Personally, this is how I take the passage in Genesis 4, although I do acknowledge it is somewhat of an inference. This is also the position that Ichthys takes:
 
@@ -124,7 +124,7 @@ Personally, this is how I take the passage in Genesis 4, although I do acknowled
 
 "Works" are things "we do for God". That whole mentality is sinful because God doesn't need anything from us (contrary to what pagan religion assumes: Acts 17:25). God doesn't need us – we need God. This principle is seen clearly in the example of Cain and Abel. Cain offered God some vegetables: "Look at what I did! And now I'm giving you some!" This whole attitude is abhorrent to the Lord because 1) He needs nothing from us so to assume He'll reward us for doing something He neither needs nor wants nor asked for is arrogant in the extreme; 2) To think that we can actually "reward God" so that He then "owes us something" (cf. Rom.4:4) is downright blasphemous; and 3) anything we could ever "do" in this life is only possible because God has given us the means to do it (cf. Deut.8:18; 1Chron.29:16).
 
-<!-- --- -->
+<!-- slide-break -->
 
 Faith, on the other hand, is the opposite of work. Faith is being willing to receive a gift. Faith is the completely non-meritorious function of our will. Faith is free-will exercised without effort or sweat. Faith is accepting God's authority, and, in the case of salvation, accepting God's free gift. The difference is profound. If we exert effort for salvation, we are earning it (if it could be earned, which it cannot); we deserve it – in that hypothetical, impossible case. But in fact there is nothing we could do in a thousand lifetimes if we devoted all of our waking efforts to the problem to remove the guilt of the smallest sin we have ever committed. Salvation cannot be earned. It cannot be worked for (efficaciously, at any rate). And trying to work for salvation is the most egregious insult to God the Father who judged all of our sins in His beloved Son so that we might not have to face such an impossible situation, and to God the Son who has born the guilt of all of our sins so that we might be saved in the only way it was possible to be saved: through non-meritorious faith, accepting Him as our Substitute. Abel understood and accepted what Cain would not have. His "offering" was a *symbolic representation* of what Christ would do – die for all sin to open the way for mankind's salvation. Abel's offering was not "work"; Abel's offering was "worship". When Christians "do" anything in a spiritual vein it is "good" because God has planned it and empowered it. Legitimate Christian "good works" follow salvation rather than preceding it and are done in the power of the Holy Spirit not in the power of the sinful flesh.
 
@@ -134,7 +134,7 @@ For it is by grace you have been saved, through faith—and this not from yourse
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 

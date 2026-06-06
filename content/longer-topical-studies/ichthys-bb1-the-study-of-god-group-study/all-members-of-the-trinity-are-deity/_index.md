@@ -1,6 +1,9 @@
 ---
 title: All Members of the Trinity Are Deity
 weight: 60
+stags:
+    - Trinity > All members are deity
+
 layout: content-page
 video: https://www.youtube.com/watch?v=4l_OzkCbJxg
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
@@ -9,10 +12,6 @@ playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcA
 In this lesson we kick off a series of discussions we will be having about what the Trinity is *not*, to help throw into starker relief what it actually is. This lesson's main focus is examining the point that God is *one* in essence, but that does *not* mean that only one person of the Trinity is deity.
 
 <!--more-->
-
-{{< subjects >}}
-<a href="/subject-index/#trinity-all-members-are-deity">Trinity > All members are deity</a>
-{{< /subjects >}}
 
 {{% section-navigation %}}
 
@@ -28,11 +27,11 @@ slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 In this lesson we kick off a series of discussions we will be having about what the Trinity is *not*, to help throw into starker relief what it actually is. This lesson's main focus is examining the point that God is *one* in essence, but that does *not* mean that only one person of the Trinity is deity.
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 
@@ -55,7 +54,7 @@ In this lesson we kick off a series of discussions we will be having about what 
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Our next several discussions: understanding the Trinity in terms of what it is *not* {#our-next-several-discussions-understanding-the-trinity-in-terms-of-what-it-is-not}
 
@@ -63,27 +62,27 @@ Last lesson we gave the basic definition of the Trinity: "three in person / one 
 
 We can better understand what the Trinity is by first considering what it is *not* in terms of the definition given above, so that will be our focus for the next several discussions.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Key point: God is *one* in essence, but that does *not* mean that only one person of the Trinity is deity {#key-point-god-is-one-in-essence-but-that-does-not-mean-that-only-one-person-of-the-trinity-is-deity}
 
-{{< subjects >}}
-<a href="/subject-index/#trinity-what-it-is-not-only-one-member-possessing-divinity">Trinity > What it is not > Only one member possessing divinity</a>
-{{< /subjects >}}
+{{< properties
+stags="Trinity > What it is not > Only one member possessing divinity"
+>}}
 
 God is *three* in person, and all three persons of the Trinity (the Father, the Son, and the Holy Spirit) are divine. Heresies of the past which have challenged the divinity of members of the Trinity include adoptionism (asserting that Christ is the Son of God only in the sense of adoption), the Ebionite heresy (teaching that Christ had only a human nature empowered by God's Spirit), and Unitarianism (which asserts the uni-personality of God, denying the deity of Christ and the Holy Spirit).
 
 But the Bible teaches that all three members of the Trinity are deity. Compare: Is.63:9-14; Matt. 3:16-17; 28:19; Jn.14:16-17; 1Cor.12:4-6; 2Cor.13:14; Eph.4:4-6; 1Pet.1:1-2; Rev.1:4-6.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% video-only %}}
 
 #### What does it mean for God to be Spirit, if the Holy Spirit is just one member of the Trinity? {#what-does-it-mean-for-god-to-be-spirit-if-the-holy-spirit-is-just-one-member-of-the-trinity}
 
-{{< subjects >}}
-<a href="/subject-index/#god-is-spirit-but-in-a-way-different-from-the-spirits-of-humans-and-angels">God > Is Spirit, but in a way different from the spirits of humans and angels</a>
-{{< /subjects >}}
+{{< properties
+stags="God > Is Spirit, but in a way different from the spirits of humans and angels"
+>}}
 
 {{% video-only-note %}}
 
@@ -91,11 +90,9 @@ But the Bible teaches that all three members of the Trinity are deity. Compare: 
 
 #### Why wasn't the Spirit sent to indwell believers before He actually was (i.e., only after Christ's ascension)? {#why-wasn-t-the-spirit-sent-to-indwell-believers-before-he-actually-was-i-e-only-after-christ-s-ascension}
 
-{{< subjects >}}
-<a href="/subject-index/#holy-spirit-has-always-been-present-upon-the-earth">Holy Spirit > Has always been present upon the Earth</a>
-<a href="/subject-index/#holy-spirit-indwelling-ministry-of">Holy Spirit > Indwelling ministry of</a>
-<a href="/subject-index/#spiritual-gifts-given-after-christ-s-ascension">Spiritual gifts > Given after Christ's ascension</a>
-{{< /subjects >}}
+{{< properties
+stags="Holy Spirit > Has always been present upon the Earth | Holy Spirit > Indwelling ministry of | Spiritual gifts > Given after Christ's ascension"
+>}}
 
 {{% video-only-note %}}
 
@@ -103,9 +100,9 @@ But the Bible teaches that all three members of the Trinity are deity. Compare: 
 
 #### Revelation 1:4 - What is going on with the mention of seven Spirits? {#revelation-1-4-what-is-going-on-with-the-mention-of-seven-spirits}
 
-{{< subjects >}}
-<a href="/subject-index/#interpretation-symbolism-numbers">Interpretation > Symbolism > Numbers</a>
-{{< /subjects >}}
+{{< properties
+stags="Interpretation > Symbolism > Numbers"
+>}}
 <!-- p="Zechariah 3:9; Zechariah 4:2; Zechariah 4:10; Revelation 1:4; Revelation 3:1; Revelation 4:5; Revelation 5:6" -->
 
 {{% video-only-note %}}
@@ -132,10 +129,9 @@ Finally, and perhaps decisively, Revelation 3:1 states: "These are the words of 
 
 #### What exactly does being baptized into God (becoming united with Him, as part of the body of Christ) actually mean? {#what-exactly-does-being-baptized-into-god-becoming-united-with-him-as-part-of-the-body-of-christ-actually-mean}
 
-{{< subjects >}}
-<a href="/subject-index/#baptism-is-not-of-water-but-is-fundamentally-spiritual-in-nature">Baptism > Is not of water, but is fundamentally spiritual in nature</a>
-<a href="/subject-index/#baptism-we-are-baptized-into-the-person-of-the-trinity-spiritually">Baptism > We are baptized *into* the person of the Trinity, spiritually</a>
-{{< /subjects >}}
+{{< properties
+stags="Baptism > Is not of water, but is fundamentally spiritual in nature | Baptism > We are baptized *into* the person of the Trinity, spiritually"
+>}}
 <!-- p="Matthew 28:19" -->
 
 {{% video-only-note %}}
@@ -144,9 +140,9 @@ Finally, and perhaps decisively, Revelation 3:1 states: "These are the words of 
 
 #### The Father is God {#the-father-is-god}
 
-{{< subjects >}}
-<a href="/subject-index/#trinity-divinity-father">Trinity > Divinity > Father</a>
-{{< /subjects >}}
+{{< properties
+stags="Trinity > Divinity > Father"
+>}}
 
 See: Matt.6:9; 1Cor.8:6; Eph.3:14-15.
 
@@ -154,15 +150,14 @@ See: Matt.6:9; 1Cor.8:6; Eph.3:14-15.
 "I am the Alpha and the Omega," says the Lord who is God, "He who is and was and is coming, the Almighty."   
 {{% /scripture-h %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% video-only %}}
 
 ##### A deeper dive into the interpretation of Ephesians 3:14-15 {#a-deeper-dive-into-the-interpretation-of-ephesians-3-14-15}
-{{< subjects >}}
-<a href="/subject-index/#family-of-god-derives-its-name-from-the-father">Family of God > Derives its name from the Father</a>
-<a href="/subject-index/#interpretation-context-often-directly-limits-how-words-can-be-translated">Interpretation > Context often directly limits how words can be translated</a>
-{{< /subjects >}}
+{{< properties
+stags="Family of God > Derives its name from the Father | Interpretation > Context often directly limits how words can be translated"
+>}}
 <!-- p="Ephesians 3:14-15" -->
 
 {{% video-only-note %}}
@@ -173,9 +168,9 @@ Interpreting Ephesians 3:15 correctly depends upon translating the phrase πᾶ�
 
 #### The Son is God {#the-son-is-god}
 
-{{< subjects >}}
-<a href="/subject-index/#trinity-divinity-son">Trinity > Divinity > Son</a>
-{{< /subjects >}}
+{{< properties
+stags="Trinity > Divinity > Son"
+>}}
 
 See: Jn.5:18; 10:30; 10:33; Rom.9:5; 1Cor.8:6; Col.2:9; Heb.1:3.
 
@@ -183,13 +178,13 @@ See: Jn.5:18; 10:30; 10:33; Rom.9:5; 1Cor.8:6; Col.2:9; Heb.1:3.
 The Word existed in the beginning: the Word was both present with the [Father] God [before creation] and the Word was God [in His own right]. This same One was present with the [Father] God in the beginning.
 {{% /scripture-h %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The Holy Spirit is God {#the-holy-spirit-is-god}
 
-{{< subjects >}}
-<a href="/subject-index/#trinity-divinity-holy-spirit">Trinity > Divinity > Holy Spirit</a>
-{{< /subjects >}}
+{{< properties
+stags="Trinity > Divinity > Holy Spirit"
+>}}
 
 See: Gen.1:2; Ps.139:7; Acts 5:3-4; 1Cor.12:11; and compare Heb.3:7-11 with Ps.95:7-11 where the LORD is speaking.
 

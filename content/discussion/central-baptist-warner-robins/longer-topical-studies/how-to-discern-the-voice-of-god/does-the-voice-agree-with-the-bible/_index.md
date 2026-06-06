@@ -22,13 +22,13 @@ This week's lesson starts on page 63 of the workbook, and was what we went throu
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 In our examination of how to discern the voice of God, the natural and most important place to start is with the question of whether or not the voice agrees with the Word of God. Put simply, God will never lead us into anything that runs counter to His Word; any voice that does is not His. The Bible is perfect... although we need to be careful, because even though that is true, our understanding of it may not be! It takes spiritual growth to be able to know what it is the Bible actually says, so that we may use it as the measuring stick by which we evaluate all things.
 
 This week's lesson starts on page 63 of the workbook, and was what we went through on 01/22/2023.
 
-
+<!-- summary -->
 
 {{% discussion-pages %}}
 
@@ -54,7 +54,7 @@ This is because for us to properly use the Bible as our measuring stick for ever
 
 ### Content {#the-bible-is-how-we-know-what-is-from-god-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### How do you recognize God's voice, as opposed to the voice of Satan and/or others under Satan's sway? Through the Word of God {#the-bible-is-how-we-know-what-is-from-god-how-do-you-recognize-god-s-voice-as-opposed-to-the-voice-of-satan-and-or-others-under-satan-s-sway-through-the-word-of-god}
 
@@ -72,11 +72,11 @@ It is no surprise that the written Word of God is all about Jesus Christ, the li
 
 Bringing us back to the point at hand, it is only through the Word of God that we will be able to properly "discern the Spirits" (1 John 4:1-3), and so correctly make out the voice of God from among the veritable chorus of false voices.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Further discussion {#the-bible-is-how-we-know-what-is-from-god-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### We must both submit to Bible teachers and personally read the Bible to grow in such a way that we develop the discernment God wants us to develop {#the-bible-is-how-we-know-what-is-from-god-we-must-both-submit-to-bible-teachers-and-personally-read-the-bible-to-grow-in-such-a-way-that-we-develop-the-discernment-god-wants-us-to-develop}
 
@@ -90,33 +90,33 @@ False things can sometimes be rather obvious (so, for example, the Bible does mo
 
 Part of this is because Satan's lies often have at least a grain of truth in them. When Satan speaks to Eve in Genesis 3, he is not wrong that God forbade Adam and Eve from eating... but he does purposely misrepresent God's words. It is actually not all that subtle here (God forbade eating the fruit from a single tree, not all the trees), but how about in Matthew 4:1-11 during the temptation of Christ? Satan quotes scripture at Jesus. How can scripture be wrong? But Jesus quotes scripture right back at Him, showing that Satan's interpretation of what that scripture meant was faulty. Satan had twisted things, even though all he did was quote the Bible!
 
-<!-- --- -->
+<!-- slide-break -->
 
 This introduces a major wrinkle: using the Bible as our measuring stick only works when we know what the *correct* interpretation of the Bible is. How then do we get this correct interpretation of the Bible? The basic answer to that question is that we must grow spiritually. And how do we grow spiritually? By listening to Bible teachers, and by reading the Bible ourselves.
 
 The Bible says that God has put some in the body of Christ as pastor-teachers, and these men are specially empowered by the Holy Spirit to learn and then explain the Bible, "in order to equip his people for works of service, so that the body of Christ may be built up" (see Ephesians 4:11-13). This means we can come to know what the Bible actually teaches by listening to these gifted and prepared individuals God has placed in the body of Christ to explain the Bible to us. Teaching the Bible is their primary job, so we ought to take full advantage of their gifts, for that is how things are supposed to work in the system God has designed: the Church, the united body of Christ here in the world, composed of various parts each fulfilling their respective role (see 1 Corinthians 12). In fact, to grow to spiritual maturity, we *must* submit ourselves to these Bible teachers; that is what the Ephesians quote from above demands, albeit indirectly.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Secondly, we all need to build up our own personal knowledge of the Bible by reading it consistently. For one thing, the matter of choosing which Bible teachers to listen to is impossible to do properly without us verifying that the words coming out of their mouths line up with the Bible (compare Acts 17:11). Even though this is the case, we are *not* authorized to think we can go it alone, and forgo the step of submitting to teachers. Instead, we *do* need to submit to teachers... but only the ones whose words we can verify with the Bible. To do this, we certainly need to be conversant with what the Bible says!
 
 It's not just about getting us past that first hurdle of figuring out which Bible teachers to listen to, though. Let me try to use an analogy: let's say that the truth contained in the Bible is like a puzzle -- individual verses and passages are like puzzle pieces. The end goal is for each of us to have collected pieces of the puzzle (pieces of scripture), and have them "properly assembled" in our hearts, fitting together piece-by-piece to form a solid edifice of truth. If that is the goal, then what is the most effective way for this goal to be achieved? Is it to put the sole responsibility for our growth in the hands of our teachers? Do we think that will maximize our spiritual growth?
 
-<!-- --- -->
+<!-- slide-break -->
 
 Is it not instead the case that we should do absolutely as much as we can on our own to make the process more effective? If we read our Bibles every day, we will be accumulating in our hearts more and more puzzle pieces, so to speak. Some of them we can probably fit together all on our own, but others we probably won't be able to (those are the ones we need Bible teachers for). Us taking the initiative to consistently read our Bibles greatly enhances the process, because then teachers don't always have to be re-explaining "what the Bible says" alongside "what the Bible means," but can instead mostly just focus on explaining how some of the trickier pieces fit together. It should be very obvious that the more familiarity people have with the Bible -- even if they are fuzzy on some things -- the more effectively they can understand Bible teaching, as a general rule. So, for example, if a teacher is teaching about the theological concept of Justification, he might work on explaining how James' description of faith being proved genuine by the fruit it bears in people's lives (compare James 2) does not at all contradict Paul's teaching that we are justified by faith, not by works (compare the end of Romans 3, particularly verse 28). This particular teaching will be more easily understandable and more useful for those who are already familiar with what these passages talk about, how they are situated in their respective narratives, and so on.
 
-<!-- --- -->
+<!-- slide-break -->
 
 In short, reading our Bibles is our "homework" as Christians, so that when we show up to "lecture," we will be able to better follow the words of our teachers. If we neglect our homework, we will not learn nearly as well from our teachers, and if we do not learn nearly as well from our teachers, our understanding of what the Bible really means will be limited, and if our understanding of what the Bible really means will be limited, then we will be unable to effectively use the Bible as a measuring stick for everything (like how we are supposed to). Our discernment will be crippled, and we will not be nearly as successful in picking out the voice of God, instead being more likely to follow other voices we ought not. 
 
 To wrap up this section, trying to learn from homework alone is no good -- if we are wrong, who will correct us? Who will answer our questions if we get stuck? That's why we need Bible teachers. But the point we have just been making is that trying to learn from lecture alone is no good either, because Bible teaching won't make much sense to us unless we are already familiar with the Bible -- the thing that all good Bible teaching should be singularly focused upon -- and no one but us can make us familiar with the Bible (through a personal choice on our part to read it consistently). So it is that we must *both* submit to Bible teachers and personally read the Bible for the process to work as God intends -- for us to grow spiritually, and therefore know the correct interpretation of the Bible, that we might be able to accurately discern the voice of God.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Further discussion {#the-bible-is-how-we-know-what-is-from-god-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Conclusion and recap {#the-bible-is-how-we-know-what-is-from-god-conclusion-and-recap}
 
@@ -186,7 +186,7 @@ The issue with this sort of argument is that you could well say that Isaiah 52:1
 
 ### Content {#satan-is-the-serpent-of-genesis-3-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Introduction: Is the serpent of Genesis 3 Satan? {#satan-is-the-serpent-of-genesis-3-introduction-is-the-serpent-of-genesis-3-satan}
 
@@ -202,11 +202,11 @@ This is an excellent example of the Word's central importance in our discernment
 
 This is in fact the correct interpretation (that is, that the serpent in Genesis 3 was Satan and/or was controlled by Satan), but exactly how can we go about establishing the evidence for this identification? Revelation 20:2 alone is a good starting place, but as we shall see, there is certainly more to be said, and this "more" is what we shall now explore.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Further discussion {#satan-is-the-serpent-of-genesis-3-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Who is Satan, according to the Old Testament? {#satan-is-the-serpent-of-genesis-3-who-is-satan-according-to-the-old-testament}
 
@@ -226,13 +226,13 @@ The *Nun* in שָׂטָן is here word-final, and therefore in the [sofit form](
 
 {{% /technical-discussion %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 The Hebrew noun can be used without a definite article. So, for example, The Angel of the Lord (a Christophany = pre-incarnate appearance of Christ; *The* Angel of the Lord) opposes Balaam as "an adversary" [in Numbers 22:22](https://biblehub.com/interlinear/numbers/22-22.htm).
 
 When used with a [definite article](https://www.hebrew4christians.com/Grammar/Unit_Four/The_Definite_Article/the_definite_article.html) (הַ), however, the being in view (= הַשָׂטָן now that we have added the article, transliterated *ha-satan*) refers to the supernatural adversary of God.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Satan as a... divine prosecutor? The scriptural witness of Job and Zechariah {#satan-is-the-serpent-of-genesis-3-satan-as-a-divine-prosecutor-the-scriptural-witness-of-job-and-zechariah}
 
@@ -246,11 +246,11 @@ ptags="Revelation 12:10"
 
 This specific being is, somewhat surprisingly, not actually mentioned particularly frequently in the Old Testament. The *ha-satan* form is used in Job 1:6-9, 1:12, 2:1-4, 2:6-7 to refer to an angelic being in the court of God who accuses Job before God. It is also used in Zechariah 3:1-2 in a very similar manner -- a supernatural being leveling accusations. Some exegetes have argued for seeing these instances as an elect angel serving in a "divine prosecutor" sort of role, but the problem with that idea is the being's apparent antagonism towards both God and (for example) Job—why would an elect angel be interested in trying to get a human whom God took pride in to stumble, in a seeming bid to prove God's words false? Moreover, Revelation 12:10 says that Satan is "the accuser of our brothers and sisters, who accuses them before our God day and night."
 
-<!-- --- -->
+<!-- slide-break -->
 
 It is therefore theologically irresponsible, in my opinion, to even entertain the possibility that the accuser mentioned in the Job and Zechariah passages is anyone other than Satan. There is no "literary development of the Satan character", no "Jewish legal conception of *ha-satan* improperly retconned by later Christians to be supernatural evil", no "borrowed characterization based upon literary parallels in other Near-East cosmologies." Regardless of what false things others might say (as additional examples, you might also see [here](https://www.biola.edu/blogs/good-book-blog/2021/why-michael-heiser-is-probably-wrong-about-satan-in-the-book-of-job) or [here](https://academic.oup.com/book/38719/chapter-abstract/336896773?redirectedFrom=fulltext)), the accuser mentioned in the Old Testament has always been the devil—a very real, very powerful spiritual force for evil, not some legal bureaucrat angel just doing his job... even if people of the past may not have been as aware of him as we are today, now that we have received the New Testament. The greater nuance over time in our understanding of Satan's true nature is just so-called "progressive revelation" at work. (More on that in a moment).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Satan and 1 Chronicles 21:1 {#satan-is-the-serpent-of-genesis-3-satan-and-1-chronicles-21-1}
 
@@ -268,7 +268,7 @@ The interpretation of this passage (1 Chronicles 21:1-6ff.) is rather vexing for
 
 It really isn't. For example, God states explicitly that He used Assyria to punish wayward Israel (Isaiah 10:5-7), and this Isaiah passage makes it crystal clear that God is using Assyria *despite* what Assyria (personified, or "The Assyrian" if you prefer) intends—compare "this is not what he has in mind", verse 7. God is simply so smart (in fact, Omniscient) and so powerful (in fact, Omnipotent) that he can use evil people in His Perfect Plan, *and there's nothing they can do about it, no matter what evil they intend*. Like *ha-satan* in Job 1 and Job 2, evildoers can never do a single thing except that which God explicitly allows. They are dancing completely in the palm of His hand, to borrow a metaphor.
 
-<!-- --- -->
+<!-- slide-break -->
 
 So, to reconcile 1 Chronicles 21:1 and 2 Samuel 24:1 only requires that you take the interpretive leap that God allowed Satan to incite David to take the census, that God *used* Satan. Satan was the agent; God was the architect. We might assume that Satan knew that taking the census would be a sin against God (for reasons we shan't get into here—this is "the other reason" why the interpretation of this passage is vexing), and thought that getting David—a "man after God's own heart" (Acts 13:22)---to stumble would somehow damage God's plans (compare Satan's desire to trip up Job in Job chapters 1 and 2). This thought was, of course, utter madness... as sin always is. Satan, a mere creature, thought he could somehow successfully raise his hand against his Maker? What a joke. We may laugh at his foolishness, yet who are we to talk? We all sin (Romans 3:23, James 3:2), and our sin is just as insane for this very same reason.
 
@@ -280,11 +280,11 @@ If you'd like to read a second analysis of Satan in the Old Testament, you might
 
 {{% /technical-discussion %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Further discussion {#satan-is-the-serpent-of-genesis-3-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### On progressive revelation, and the scriptural evidence for drawing the equivalency between Satan and the serpent of Genesis 3 {#satan-is-the-serpent-of-genesis-3-on-progressive-revelation-and-the-scriptural-evidence-for-drawing-the-equivalency-between-satan-and-the-serpent-of-genesis-3}
 
@@ -302,7 +302,7 @@ To elaborate a bit more on why we can be so dismissive: there is a concept in th
 
 But after Jesus was crucified, died, and was resurrected (thereby positionally defeating death and overcoming the grave), what had previously been a mystery was now revealed to mankind. Our salvation was won on the cross, redeeming sinful humanity to a perfect God once for all. That this was what God had meant all along only became clear *later*, not when the prophecies were initially written. Hence "progressive revelation".
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Did angels communicate with Adam and Eve, perhaps while possessing the bodies of animals? {#satan-is-the-serpent-of-genesis-3-did-angels-communicate-with-adam-and-eve-perhaps-while-possessing-the-bodies-of-animals}
 
@@ -318,17 +318,17 @@ To sidetrack for just a moment, the fact that we are dealing with what appears t
 
 You might take the position that God "allowed Eve to speak snake" (or animal languages generally). We have literally nothing to go on in terms of scriptural evidence one way or the other, so why not? Such a view does have the advantage that it would explain why Eve wasn't surprised when an animal spoke to her. On the other hand, you then have to deal with the fact that this ability certainly didn't persist. So was it revoked after the fall? Did it die out after Adam and Eve, even if they retained it for their entire lives?
 
-<!-- --- -->
+<!-- slide-break -->
 
 While the above sounds like it would be an interesting premise for a work of fiction (and actually, cf. [Dr. Dolittle](https://en.wikipedia.org/wiki/Doctor_Dolittle)---that's already a thing), the more realistic explanation, to my mind, is that Eve wasn't weirded out by the random communication à la snake because Adam and Eve probably spoke directly to not only God (that much we have directly from the text in Genesis), but also angels (that's more of an inference). After all, why not? We humans will certainly speak to angels when we share eternity together with them in the final paradise (the New Heavens and New Earth and New Jerusalem)---so why couldn't Adam and Eve likewise have spoken to them in the initial paradise (Eden), as in the setting of this passage? If we assume that this communication with angels was actually something that happened, it follows that while Eve may have been puzzled as to why an angel had possessed the body of an animal (or maybe that part was normal enough too—who knows?), the *really* strange bit about the snake speaking would be no major matter. That is to say, if Adam and Eve were already used to communicating with angels, then that clears up the interpretive question mark of the talking snake quite neatly.
 
 More importantly, it supports a reading of the text that holds that the snake was possessed by an angel, not acting of its own accord as an animal. There are people who make this argument---"Since the Genesis text only says *nachash*, it must really have only been a snake, nothing more and nothing less." I can't exactly disprove this directly—as what I just went through is essentially just speculation on my part—but the passage does make perfectly good sense if you hold that the snake was being possessed by a fallen angel (that is, Satan).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Further discussion {#satan-is-the-serpent-of-genesis-3-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Pulling things together: direct scriptural evidence for making the identification {#satan-is-the-serpent-of-genesis-3-pulling-things-together-direct-scriptural-evidence-for-making-the-identification}
 
@@ -344,7 +344,7 @@ At any rate, back to progressive revelation and Genesis 3:15. Upon an initial re
 
 Perhaps. That's what the doubters say. But what is actually the case is that the "seed of the woman" mentioned in Genesis 3:15 is Jesus Christ, making Genesis 3:15 a prophecy. Jesus crushed Satan's head with his victory on the cross—Satan has already lost! In terms of correct prophetic interpretation, Satan is thus the serpent whose head is crushed.
 
-<!-- --- -->
+<!-- slide-break -->
 
 We can keep going, too. Genesis 3:14 speaks of the serpent being driven down to the earth. That sounds an awful lot like Revelation 12:9.
 
@@ -356,7 +356,7 @@ In the Greek in Revelation 12:9, we have "ὁ δράκων ὁ μέγας ὁ 
 καὶ ἐβλήθη ὁ δράκων ὁ μέγας, ὁ ὄφις ὁ ἀρχαῖος, ὁ καλούμενος διάβολος καὶ ὁ σατανᾶς ὁ πλανῶν τὴν οἰκουμένην ὅλην, ἐβλήθη εἰς τὴν γῆν, καὶ οἱ ἄγγελοι αὐτοῦ μετ᾽ αὐτοῦ ἐβλήθησαν.
 {{% /scripture-h %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 The adjectives μέγας (great/large) and ἀρχαῖος (ancient) go with δράκων (dragon) and ὄφις (serpent), respectively. The particular construct being used here follows the format "article > noun > article > adjective", putting the adjective in [the attributive position](https://books.openbookpublishers.com/10.11647/obp.0264/ch16.xhtml#:~:text=Attributive%20position%20tells%20us%20that%20a%20noun%20is,road%20into%20attributive%20position%20with%20the%20noun%20woman.).
 
@@ -368,7 +368,7 @@ Putting it all together, we then get "the great dragon, the ancient serpent, the
 
 {{% /technical-discussion %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 It might be a bit of a jump to identify the serpent of Genesis 3 with Satan just on account of "ancient serpent" being equated with "Satan" in Revelation 12:9 (cf. also Revelation 20:2), although that's strong enough all on its own. What really seals it is the typological parallel of being driven down to the earth that directly mirrors the curse God places upon the serpent Genesis 3:14: to be cast to the ground, and eat dust.
 
@@ -376,7 +376,7 @@ Some people still somehow explain all this away... but, well, they explain away 
 
 I should note that prophetic typology and dual-application is *super* common in Old Testament prophecy. For example, another dual-application passage typologically related to Satan is Ezekiel 28:1-19 (note especially verses 11 through 19). These words (at least many of them) applied to the literal King of Tyre (i.e., a historical human being), but the passage also very clearly shifts into talking about Satan, and what brought about his fall. We might also here note that once again Satan is said to be "thrown to the earth" (verse 17), fitting right in with Genesis 3:14 and Revelation 12:9 mentioning the serpent being cast to the ground.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Properly seeing the connection between Satan and the prophecy of Genesis 3:15 is actually important for interpretation {#satan-is-the-serpent-of-genesis-3-properly-seeing-the-connection-between-satan-and-the-prophecy-of-genesis-3-15-is-actually-important-for-interpretation}
 

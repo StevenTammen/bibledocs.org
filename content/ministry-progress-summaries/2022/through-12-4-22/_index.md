@@ -22,11 +22,11 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/throug
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Like in past cycles, there's a fair bit of setup stuff still going on. However, I did successfully write a bash script to automate video processing, and I've now also decided to formally put some of the video organization stuff I'm having a hard time motivating myself to do on the backburner, and instead turn to drafting some new written ministry content, at least for a time. So stay tuned for that!
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 
@@ -42,7 +42,7 @@ Like in past cycles, there's a fair bit of setup stuff still going on. However, 
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Some miscellaneous practical matters {#some-miscellaneous-practical-matters}
 
@@ -50,7 +50,7 @@ Like in past cycles, there's a fair bit of setup stuff still going on. However, 
 - I ordered some additional practical items to continue chipping away at my final plan for the house. I got a second low-input lag projector to use a computer monitor when walking on the treadmill (for when I am working on the computer), a 125" screen for it, a second standing desk with caster wheels to stick two 24" monitors on when I am speaking/presenting out in the living room (acting, in essence, like a speaking podium), and then two 24" monitors to actually go on this portable speaking podium when I am presenting.
 - Once these items arrived, I moved the treadmill assembly from the master bedroom to the office, and assembled and then set up the new projector/screen that came. In doing these things, I had to rearrange most of the furniture in the master and the office (including my main large bookshelf = I had to take all the books off and redistribute things), so this process took quite a while, and in fact I'm still not completely setting everything back to rights.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Some thinking and decisions {#some-thinking-and-decisions}
 
@@ -58,7 +58,7 @@ Like in past cycles, there's a fair bit of setup stuff still going on. However, 
 - More importantly, I've decided to start posting some new written content since I've been procrastinating so hard on finishing all the video stuff. It has bee a massive struggle to motivate myself to knock out all the busywork, and I just think I need to get on with things.
   - I'm not abandoning all my plans with the video content, but will just try to space things out a bit more so I don't burnout so hard on the boring stuff. Hopefully this means that by the time of the next ministry progress summary, there will actually be new ministry content!
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Some conversations {#some-conversations}
 
@@ -66,7 +66,7 @@ Like in past cycles, there's a fair bit of setup stuff still going on. However, 
 - I chimed in on a WhatsApp conversation about the parable of the talents and the parable of the minas, and applications relating to the themes contained in these parables.
 - Another good friend and I had several long back-and-forths about the interpretation of Matthew 4:1-4 (Satan tempting Jesus to turn stones into bread), and what His restraint here (operating under kenosis) tells us about restraint in our own lives. (It turned into some other things too, but that was the initial and central topic).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Video processing shell script {#video-processing-shell-script}
 
@@ -83,7 +83,7 @@ When I was working on this, I set up a bunch of useful Bash aliases too (been me
 
 Together these things reduce some of the time opportunity cost that goes into making videos and wrangling them on the command line, which should help a lot in in terms of long-term throughput sustainability.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Upcoming work {#upcoming-work}
 

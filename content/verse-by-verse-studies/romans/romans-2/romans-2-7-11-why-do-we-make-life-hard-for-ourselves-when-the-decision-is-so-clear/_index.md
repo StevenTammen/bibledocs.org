@@ -22,11 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 If we are honest with ourselves, the paths before us are actually rather clear: on the one side, blessing and eternal life; on the other, cursing and wrath. Given this, we should just stop choosing the bad! God really does give us free will, which means we really do have the ability to choose between these two paths. So rather than deluding ourselves with a pile of excuses, we should buckle down and start doing what God wants us to do—not on our own strength (for there is no success in that approach), but instead by admitting that we cannot do it on our own, and leaning into God for help.
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -34,7 +34,7 @@ If we are honest with ourselves, the paths before us are actually rather clear: 
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Verses 7-10 follow an ABBA structure in terms of topic. Verse 7 starts by describing the positive outcome (eternal life) for those who by perseverance in doing good seek glory and honor and immortality. Then verse 8 states that wrath and indignation will be the lot of those who are selfishly ambitious and obey unrighteousness rather than the truth. Verse 9 is talking about the same group of people as verse 8, emphasizing that the consequences apply both to Jew and Greek alike, and then Verse 10 is talking about the same people as verse 7, back to the positive as a foil.
 

@@ -22,11 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 If we are ever tempted to question if our faith really matters or changes anything in this dark world of ours, we ought to remember that the witness of our faith *is* always shining, whether we see its full effects or not.
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -34,7 +34,7 @@ If we are ever tempted to question if our faith really matters or changes anythi
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 In Romans 1:8, Paul's statement directly implies that the faith of the Roman church had spread all the way across the Mediterranean. Consider for a moment that Paul had not yet personally met these people (compare verses 10-13) at the time when he was penning this letter; he likely didn't have personal relationships with people in Rome that would give him an insider's view into the faith of the church there. *Yet he was aware of their faith even so*.
 

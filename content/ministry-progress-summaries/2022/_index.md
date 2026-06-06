@@ -44,7 +44,7 @@ In this video, I go over exactly what these ministry progress summary videos are
 
 ### Content {#introduction-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### About these ministry progress summaries {#introduction-about-these-ministry-progress-summaries}
 
@@ -54,7 +54,7 @@ Most of of the ministry highlights from the given time-window are hit, and then 
 
 I try to keep everything nice and short, so that people don't have to spend very long to learn about what's going on.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### These are different than the daily progress summary videos on the other YouTube channel {#introduction-these-are-different-than-the-daily-progress-summary-videos-on-the-other-youtube-channel}
 
@@ -62,7 +62,7 @@ I run [a separate YouTube channel](https://www.youtube.com/channel/UCyhLltbXz6ox
 
 These are honestly as much for me as for anyone else, so that I can find things over time if I ever need to reference something I've done or thought on, and so that I can keep myself very organized day-by-day, trying to keep in mind all the spiritual pressure that should drive me. Many people probably won't be interested in these, which is completely logical.
 
-<!-- --- -->
+<!-- slide-break -->
 
 It's honestly kind of shocking how much work goes into (has gone into) everything, so if you're ever curious in peering behind the curtain a bit, this would be where you might glimpse some of the thought and effort that has to happen (has happened) to make it all go round.
 
@@ -312,7 +312,7 @@ This first summary video here, I go over all of the things that happened in the 
 
 ### Content {#through-9-11-22-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Emailing back people who responded to ministry launch email {#through-9-11-22-emailing-back-people-who-responded-to-ministry-launch-email}
 
@@ -324,13 +324,13 @@ For anyone curious, from around ~75 people BCC'd on initial launch (many folks I
 
 But hey, starting small is no big deal. I'm not doing it for fame or money, after all.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### A debate on the forum about matters concerning submitting to government authority, and what exactly that means {#through-9-11-22-a-debate-on-the-forum-about-matters-concerning-submitting-to-government-authority-and-what-exactly-that-means}
 
 The timing wasn't the best considering I'd just launched, but a good friend and I had an extremely active debate going on on the forum for the span of a few days in this cycle. I spent a lot of my time outside of my 9-5 job there, including most of the three day weekend over labor day.
 
-<!-- --- -->
+<!-- slide-break -->
 
 A brief outline:
 
@@ -345,7 +345,7 @@ At the end of it all, we had on the order of 70 responses across both threads, a
 
 But it was good. A worthy use of time. (Although of course we've learned some things from the experience, and hope to communicate better in the future. At least I sure do).
 
-<!-- --- -->
+<!-- slide-break -->
 
 Just another plug for anyone interested to sign up for the community (forum and WhatsApp group). The registration form is [here](https://www.bibledocs.org/community-overview/#the-form-itself) on the site.
 
@@ -353,7 +353,7 @@ If the scope of that conversation I just went over sounds super-intimidating, do
 
 Most of the forum isn't that over-the-top! I promise.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Discussion about forum structure moving forward {#through-9-11-22-discussion-about-forum-structure-moving-forward}
 
@@ -365,7 +365,7 @@ Specifically, we will all teach as we feel led by the Lord, and it is right and 
 
 As I say, practical admin stuff.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Helping my good friend start setting up a ministry website of his own {#through-9-11-22-helping-my-good-friend-start-setting-up-a-ministry-website-of-his-own}
 
@@ -373,7 +373,7 @@ He'd already converted all of his content into markdown, but we spent a couple h
 
 I had to rework some of the templating for him since he is laying his content out differently from me. Before we do things for real (actually deploy his site), I'll need to make my theme up on GitHub much more extensible (refactor to use SCSS variables for colors, for example), but that will come in time. Right now this was sort of the quick-and-dirty first pass, to get things scaffolded out for him in the meantime, so he can test everything.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Researching/buying technology of various forms, things that will help future content {#through-9-11-22-researching-buying-technology-of-various-forms-things-that-will-help-future-content}
 
@@ -381,7 +381,7 @@ First of all, I ordered a new desktop computer to help smooth everything out in 
 
 I'd already been meaning to get a more powerful desktop computer to help with the video processing, but the straw that broke the camel's back here was realizing I'd need more computational power to optimally make use of voice recognition software in drafting video scripts, which is something I'll get to in a sec.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Now, aside from juicing up my processing power in preparation for really ramping up the video production, I also spent a lot of time thinking about how to best create the video content itself.
 
@@ -393,7 +393,7 @@ Specifically, I decided:
 2. Being unable to directly read scripts when making videos will inherently lead to lower quality than being able to directly (naturally) read them with a teleprompter. It's a bigger deal than I'd realized.
 3. Scripts for videos of any length are an awful lot longer than you might think -- thousands of words. If I wish to improve the video quality with formal scripts, I'm going to need to step up my game in the text-input department, a lot. Otherwise it simply takes way too long to write full scripts.
 
-<!-- --- -->
+<!-- slide-break -->
 
 So, in preparation to tackle these three areas, I did a bunch of research and settled on:
 
@@ -403,7 +403,7 @@ So, in preparation to tackle these three areas, I did a bunch of research and se
 
 I haven't purchased these things yet, but probably will soon, after the new computer comes and I get it it set up. We are probably still a few weeks out from scaled-up video production, but I am building out the framework right now to be able to have a high throughput in the long-term. At least that is my hope.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Doing everything to be able to resume the SR4 video series, when the time is right {#through-9-11-22-doing-everything-to-be-able-to-resume-the-sr4-video-series-when-the-time-is-right}
 
@@ -411,7 +411,7 @@ I had a document mapping out all the remaining content in the section from the s
 
 So I spent a looong time looking for it, and finally found it. Then I verified it was in the right state (the last things I'd removed from it were the slides for the last presentation video I did). So I can now resume that series again right from where I left off, whenever I decide I am ready to pick back up in video production.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Planning out BB6A content grouping {#through-9-11-22-planning-out-bb6a-content-grouping}
 
@@ -421,7 +421,7 @@ I also skimmed through the rest of the videos in the series. I decided that I wo
 
 All of these will be split out into a separate playlist from the earlier videos in our BB6A playlist, as these are much more organized and focused, and will probably be much more useful to people overall.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Organizing the YouTube channel better {#through-9-11-22-organizing-the-youtube-channel-better}
 
@@ -440,13 +440,13 @@ Both
 - Created custom thumbnails for each series, and added them to all the videos (around 115 videos total, at this point)
 - Removed numbers from all the more-focused videos, to leave just video subjects in the titles, which is more natural.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Asking a nearby school about parking policy and grounds use after-hours {#through-9-11-22-asking-a-nearby-school-about-parking-policy-and-grounds-use-after-hours}
 
 Just as it sounds. Will be relevant for potentially improving the parking situation for the in-person side of Bible studies, eventually. Still no response, unfortunately.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Upcoming work {#through-9-11-22-upcoming-work}
 
@@ -455,7 +455,7 @@ One immediate focus will be finishing off the initial organization of already-ex
 - Introduction videos for all the playlists
 - A second channel intro video that is much, much shorter, with timestamped links to the full treatment. Since 45 minutes for an intro video is much longer than I'd initially wanted.
 
-<!-- --- -->
+<!-- slide-break -->
 
 I will also start filling in all of the things for the existing content (timestamps, summaries, the content on the study webpages on the website itself), as I still have a lot of catching up to do.
 
@@ -1362,13 +1362,13 @@ The desktop computer I'd ordered also came this cycle, so I spent a good bit of 
 
 ### Content {#through-9-25-22-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Added transcripts {#through-9-25-22-added-transcripts}
 
 I added transcripts to the webpages for several of the recent videos I'd worked on organizing.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Considered upcoming future work, somewhat gloomily {#through-9-25-22-considered-upcoming-future-work-somewhat-gloomily}
 
@@ -1378,7 +1378,7 @@ I added transcripts to the webpages for several of the recent videos I'd worked 
   - Then there's a lot of set up I still need to do to be able to do all the video-related things I'd like to in the future. Using a teleprompter with full scripts for every video (made with voice recognition to make it sustainable time-wise), a whiteboard in the background (or drawing on-screen with my tablet?), etc.
 - I had a walk with my roommate to vent a bit, and also to talk through my plans and goals. I'm launched now, to be sure, but there's still so much to be done before I'll feel like I'm truly where I want to be, and that's a bit discouraging. Talking through it with someone who truly understands helps a lot.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### But then came up with a detailed plan of attack {#through-9-25-22-but-then-came-up-with-a-detailed-plan-of-attack}
 
@@ -1392,7 +1392,7 @@ Basically, I just don't want to let the perfect get in the way of the good, and 
 
 Now, as to the actual phases:
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Phase I: Polishing the basic content related to initial launch {#through-9-25-22-phase-i-polishing-the-basic-content-related-to-initial-launch}
 
@@ -1407,7 +1407,7 @@ The things that can be accomplished after Phase I is completed:
 
 I actually finished all the Phase I tasks this cycle. We'll go over them shortly.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Phase II: Supporting discussion pages/videos fully, organizing all the already-existing SR4 content {#through-9-25-22-phase-ii-supporting-discussion-pages-videos-fully-organizing-all-the-already-existing-sr4-content}
 
@@ -1425,9 +1425,9 @@ The things that can be accomplished after Phase II is completed:
 
 I'm really looking forward to having a social life again (I've been pretty head-down with nose-to-the-grindstone since I graduated from college several years ago -- in order to get the ministry website/YouTube channel launched), so I'd like to get through Phase II ASAP, so I can start getting involved once more in local church groups. I'm also looking forward to the opportunity to serve in these communities too, as I am able.
 
-<!-- --- -->
+<!-- slide-break -->
 
-##### Phase III: Organizing all the already-existing BB6A content, setting up the fully-optimized video creation workflow, and catching up in other areas so that I can more fully focus on ministry without feeling like I'm behind elsewhere {#through-9-25-22-phase-iii-organizing-all-the-already-existing-bb6a-content-setting-up-the-fully-optimized-video-creation-workflow-and-catching-up-in-other-areas-so-that-i-can-more-fully-focus-on-ministry-without-feeling-like-i-m-behind-elsewhere}
+##### Phase III: Organizing all the already-existing BB6A content, setting up the fully-optimized video creation workflow, and catching up in other areas so that I can more fully focus on ministry without feeling like I'm behind elsewhere {#through-9-25-22-phase-iii-organizing-all-the-already-existing-bb6a-content-setting-up-the-fully-optimized-video-creation-workflow-and-catching-up-in-other-areas-so-that-i-can-more-fully-focus-on-ministry-without-feeling-like-im-behind-elsewhere}
 
 The Phase III tasks are as follows:
 
@@ -1441,13 +1441,13 @@ The things that can be accomplished after Phase III is completed:
 
 Phase III is the last phase. After Phase III I'll be done with everything on my list, and making all new video content with the workflow I've thought out and wish to use in the long-term. Things will then mostly just be a matter of which content I make first.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Finished all the Phase I tasks this cycle {#through-9-25-22-finished-all-the-phase-i-tasks-this-cycle}
 
 Both main categories of tasks.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Did all the things for the first focused BB6A video, so that I could get the BB6A study page up and started on the website {#through-9-25-22-did-all-the-things-for-the-first-focused-bb6a-video-so-that-i-could-get-the-bb6a-study-page-up-and-started-on-the-website}
 
@@ -1460,7 +1460,7 @@ As part of Phase I. In getting this first focused BB6A video organized and forma
 - Pushed everything live on YouTube and on the site
 - Etc.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Created additional meta-related videos on the YouTube channel {#through-9-25-22-created-additional-meta-related-videos-on-the-youtube-channel}
 
@@ -1480,7 +1480,7 @@ After recording the 7 videos, I had to do all the post-processing on the videos,
 
 Because I was concatenating several different takes this time to be able to share identical content across the two videos in each of the structure intro video types (discussion vs. no discussion, full BB6A vs. focused BB6A), I bumped into issues I hadn't had before (dealing with variable vs. constant frame rate recordings not concatenating properly, and differing audio channels not concatenating properly). I'll spare you the boring details, but it took a lot of research to fix things, and I had to delete and then completely re-do some processing steps partway through. At least now I think I understand everything better, so hopefully things will only go smoother in the future.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Did some miscellaneous styling bug-fixes and improvements {#through-9-25-22-did-some-miscellaneous-styling-bug-fixes-and-improvements}
 
@@ -1488,7 +1488,7 @@ Because I was concatenating several different takes this time to be able to shar
 - Fixed CSS bug: Centered icons better (more towards middle of lines) in subject index link shortcode.
 - Fixed CSS bug: Resolved positioning issue with TOC container being offset somewhat from the top of the page.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Set up new computer (for the most part) {#through-9-25-22-set-up-new-computer-for-the-most-part}
 
@@ -1496,7 +1496,7 @@ Because I was concatenating several different takes this time to be able to shar
 - This is the first time I've set up a new computer in like 6 years or something.
 - It went relatively well, but there's just a lot to set up, is all. I still have a few more things to do, which will carry into the next work cycle. I'm hoping to start using the new computer (which is much faster and more powerful) for absolutely everything within the next few days. It should speed up the content generation process, as it has approximately 4x the CPU power and 8x the RAM of the computer it is replacing, with much faster generation 4 NVMe SSD read/write speeds too.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Upcoming work {#through-9-25-22-upcoming-work}
 
@@ -1929,7 +1929,7 @@ Aside from all that, the biggest task knocked out this cycle was coding support 
 
 ### Content {#through-10-9-22-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Did lots, lots more computer setup stuff, including things related to the video recording workflow {#through-10-9-22-did-lots-lots-more-computer-setup-stuff-including-things-related-to-the-video-recording-workflow}
 
@@ -1945,7 +1945,7 @@ Aside from all that, the biggest task knocked out this cycle was coding support 
 - Set up Cold Turkey on the new computer, and adjusted automated lockout times across both the new computer and the old computer.
 - Imported phrase express phrase list to match the old computer's list. Computer access restrictions are now set up completely. Helps me better stay on-task and better maintain a consistent sleep schedule.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Researched, ordered, and started to set up things related to voice recognition {#through-10-9-22-researched-ordered-and-started-to-set-up-things-related-to-voice-recognition}
 
@@ -1958,7 +1958,7 @@ Aside from all that, the biggest task knocked out this cycle was coding support 
 - After getting the hang of adding vocabulary entries to Dragon, added some initial entries for making things bold, making things italic, making things both bold and italic, and then some core punctuation (period, comma, question mark, exclamation mark). I'll be adding more custom stuff over time, to increase the speed at which I can dictate by eliminating ambiguity for the recognition engine.
 - I still have plenty more punctuation and stuff to figure out, but this was a good start.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Researched and ordered a better mic setup for making content videos {#through-10-9-22-researched-and-ordered-a-better-mic-setup-for-making-content-videos}
 
@@ -1973,7 +1973,7 @@ After some research, I also bought a different mic system, both for when I'm rec
 
 I've been busy so I haven't set up and tested these things yet, but I will soon.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Researched, ordered, and planned out a portable computer setup to work at a local public library on weekends {#through-10-9-22-researched-ordered-and-planned-out-a-portable-computer-setup-to-work-at-a-local-public-library-on-weekends}
 
@@ -1991,7 +1991,7 @@ The setup I decided on (to be used in addition to, at the time being, my tablet,
 
 All this was pretty expensive when taken together, but I have high hopes for this setup. I think it is rather clever, and ought to work very well.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Pondered the multi-website future that is coming {#through-10-9-22-pondered-the-multi-website-future-that-is-coming}
 
@@ -1999,7 +1999,7 @@ I helped my roommate come up with ideas for his ministry website's domain name. 
 
 This got me thinking a bit about the next steps I will need to take to get my website theme in the state it needs to be in to be shared across multiple websites. Both this one I'm helping my roommate set up, and my own other planned websites (personal, and business-focused). I probably ought to make this theme organization stuff happen sooner rather than later. Some of the things I was thinking about here were related to combining all of the CSS into one file, and then making it SCSS to be able to use variables for accent colors and so on.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Misc. discussions from the ministry community {#through-10-9-22-misc-discussions-from-the-ministry-community}
 
@@ -2009,7 +2009,7 @@ One of the Bible studies on Saturday afternoons turned into a discussion of apol
 
 After much discussion on the call, I scrounged up a bunch of links for this friend who is involved with this other guy. I went with links regarding the mind body problem, critiques of logical positivism and prevailing oversimplistic views regarding philosophy of science (at least from a strict materialist perspective), and so on. I did a lot of research myself since I found the topics and arguments here interesting.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Modified the preprocessor Python application to support discussion pages {#through-10-9-22-modified-the-preprocessor-python-application-to-support-discussion-pages}
 
@@ -2024,7 +2024,7 @@ Just to get a sense of the scale here, [this](https://github.com/StevenTammen/bi
 
 I've been lazy and haven't been committing as consistently in the preprocessor repo (among other reasons, just because I know it's not really ready for public use anyway, so it doesn't matter too much at the moment), so I can't presently show the changes there in the same way. But it was a really big changeset spanning across many files.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Upcoming work {#through-10-9-22-upcoming-work}
 
@@ -2464,7 +2464,7 @@ Unfortunately, I didn't get through quite as much I had hoped this cycle, in ter
 
 ### Content {#through-10-23-22-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### This video is coming kinda late... {#through-10-23-22-this-video-is-coming-kinda-late}
 
@@ -2473,7 +2473,7 @@ Unfortunately, I didn't get through quite as much I had hoped this cycle, in ter
 - I'm going to formally declare here that I'm going to try and not let this happen again. I don't want it to become a pattern, and it has become apparent to me that I need to set that expectation out for myself, otherwise there will always be something else in the way that comes up (things have a funny habit of turning out that way). I'd like to have very good consistency, so that's what I'm going to try to hold myself to.
 - So it may not be every other Sunday exactly (the boundaries that control which things I talk about) -- it may stretch to the Monday some or even most weeks -- but that will be the schedule. No later than Monday.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Did various things to experiment with improving video quality {#through-10-23-22-did-various-things-to-experiment-with-improving-video-quality}
 
@@ -2483,7 +2483,7 @@ Unfortunately, I didn't get through quite as much I had hoped this cycle, in ter
 - At some point, I may get a smaller (narrower) standing desk with wheels to use as my recording platform (and put my portable monitor setup on it to be able to see notes and stuff when I am recording), but today I'm just using my tablet alone, resting on a somewhat zip-ties-and-duct-tape platform assembly I cobbled together, fulfilling the same basic purpose as that standing desk with wheels would eventually, should I actually go through with that in the future.
 - Recording in the master bedroom like this just means I need to record the videos during the day when I can get the good lighting from opening the curtains.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Set up additional things with voice recognition {#through-10-23-22-set-up-additional-things-with-voice-recognition}
 
@@ -2496,7 +2496,7 @@ Unfortunately, I didn't get through quite as much I had hoped this cycle, in ter
   - How all of these things can only happen in very specific applications where Dragon can fully track cursor position. Like Microsoft Word, for example. The supported application list is pretty small, and, notably, does not include the programming text editors that I've lived in the last few years (like VSCode and IntelliJ).
 - After subscribing to Microsoft Office 365 Personal to get Microsoft Word (and subsequently enabling the Dragon add-in therein), experimented with all these navigation/selection/correction commands in a detailed fashion. I am quite happy with how the voice commands work, and the eventual speed it should enable, once I practice more.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Figured out how to be able to use Microsoft Word as my primary content editor while at the same time working with Markdown files {#through-10-23-22-figured-out-how-to-be-able-to-use-microsoft-word-as-my-primary-content-editor-while-at-the-same-time-working-with-markdown-files}
 
@@ -2506,12 +2506,12 @@ Unfortunately, I didn't get through quite as much I had hoped this cycle, in ter
 - This Word plugin mostly "just works"... except its parser/auto-converter automatically strips HTML (... but why?), auto-backslash-escapes #'s and <'s and >'s and so on, and does a couple other silly things besides. Because it is completely non-configurable (boo, hiss), I will have to write some additional Python code in my pre-processor app to clean up the messes this plugin makes in my Markdown files every time I save after editing something. After saving a file, it breaks things to the point where I can't even see the in-progress work on the local Hugo webserver without it erroring out.
 - This isn't a showstopper since after I set it up once and get it working it should be more or less automated forevermore in the future, but I didn't get to writing the Python code to enable that this cycle. After determining it will be possible to get all this ironed out in the future, that was where I stopped this time. I'm not particularly looking forward to it, but if it will be necessary for me to properly mix Dragon voice writing and voice commands with Markdown (which it appears it will be), then it's just another thing I'll have to grit my teeth and code support for. Eventually at least. Progress always has a price.
 
-<!-- --- -->
+<!-- slide-break -->
 
 - This cycle, I also worked a lot on setting up custom Word styles (for headers and such), hotkeys for navigating the menus and file outline in Word, voice commands for changing between header formatting (like h3, h4, h5, etc.) and normal text styling, and so on.
 - Specific workflow details, basically. I'll leave it at just that so that I don't bore everyone with the techno-babble, but it was a lot.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Got the wireless Rode Go II mic system set up, for recording content videos {#through-10-23-22-got-the-wireless-rode-go-ii-mic-system-set-up-for-recording-content-videos}
 
@@ -2520,7 +2520,7 @@ Unfortunately, I didn't get through quite as much I had hoped this cycle, in ter
 - It did take me a good while to figure out how to set everything up and get it all working together nicely.
 - I also did a good bit of research regarding setting microphone gain properly: the balance between increasing gain to get strong input signal levels without at the same time leaving yourself too little headroom such that things clip if you ever exceed the 0 dB ceiling. Took me a while to wrap my head around things.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Also got the portable dual 24" monitor arrangement set up properly, and tested it {#through-10-23-22-also-got-the-portable-dual-24-monitor-arrangement-set-up-properly-and-tested-it}
 
@@ -2528,7 +2528,7 @@ Unfortunately, I didn't get through quite as much I had hoped this cycle, in ter
 - I set up and tore down the dual 24" monitor arrangement a couple times while timing myself to get a sense for the time it takes. It's between 4 and 5 minutes to get it set up or taken down, looks like. Not too bad, considering the amount of functionality it offers.
 - I used it in the public library on one of the Saturdays in this cycle. I was pretty happy with how I was able to work in the public environment with little reduced work efficiency given the dual 24" monitors. So it looks like my purchases will fulfill their purpose.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Got all the documentation for discussion pages written up {#through-10-23-22-got-all-the-documentation-for-discussion-pages-written-up}
 
@@ -2536,7 +2536,7 @@ Unfortunately, I didn't get through quite as much I had hoped this cycle, in ter
 - This first pass in drafting things, I left TODOs for all the screenshots I plan to have, because I was planning to process several more lessons so that I could get through the third lesson in the SR4 series that has two discussion pages. That way I'd be able to have a screenshot with more than one discussion page visible, to show that there can in fact be more than one, with the order of them properly respected according to page weight.
 - But I ran into some hiccups in getting these additional discussion pages processed and got blocked for a while, which I'll talk about in a second.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Struggling through issues with path length limitations on Microsoft Windows {#through-10-23-22-struggling-through-issues-with-path-length-limitations-on-microsoft-windows}
 
@@ -2545,20 +2545,20 @@ Unfortunately, I didn't get through quite as much I had hoped this cycle, in ter
 - But then one of the next discussion pages I was trying to set up I wanted at the path of `C:/Users/steve/Dropbox/projects/bibledocs.org/content/longer-topical-studies/ichthys-sr4-satans-world-system/purpose-in-this-dark-world-only-comes-by-faith-which-makes-us-outcasts-here-but-chosen-by-god/against-monasticism-and-the-idea-of-complete-separation-from-the-world` (273 characters, which exceeds 260). So I couldn't name it what I wanted. File Explorer just wouldn't let me.
 - There were no helpful error messages, it just silently wouldn't work, which was frustrating. Fortunately, I have pretty good debugging instincts given that I am a software engineer by profession (= I constantly have to debug stuff in the course of my job), so quickly figured out that I was getting blocked by path length limitations.
 
-<!-- --- -->
+<!-- slide-break -->
 
 - Actually resolving this problem once I'd identified it was another matter altogether. It took *hours*, and many of them at that. There was no simple system setting to toggle on support for longer paths, as the path length limit is heavily integrated into operating system things itself. Not so much for new things, but for backwards compatibility purposes, I would guess. I suppose supporting longer paths natively hasn't been a priority because many normal people don't bump into this issue.
 - I think part of the reason it took me so long here was that I was incredulous that it was as hard as it was to do this thing, this thing that it seems to me ought to be easily possible here in 2022. We aren't in the dark ages of computers anymore, after all. I kept feeling like I was just searching with the wrong terms or something and missing the real "correct solution". So I spent more time searching for that "correct solution" (that it turns out doesn't exist) rather than just immediately going with the things that seemed more hack-ish the second I came across them.
 - The thing that did eventually work was manually adjusting a registry value to toggle on long path support. Then I was able to `cd` into directories and rename folders and files on the PowerShell command line, even if the new full paths after renaming would exceed 260 characters (even by a lot).
 
-<!-- --- -->
+<!-- slide-break -->
 
 - But I still couldn't rename stuff in File Explorer (rather than on the command line). I got sucked into another research black hole trying to figure this one out too, wasting time in much the same way as I just described above (that is, thinking there must actually be a proper way to do it, if only I could find it). Like c'mon, if the operating system itself supports longer paths if you set the registry value, why in the world would the operating system's *own* file manager not properly support it? Who would design things that way?
 - Microsoft, apparently. Here we are in 2022, and it is still officially impossible to deal with long paths in Windows natively. File Explorer (Windows' built-in file manager), even if you set the registry value appropriately to support long paths at the OS level, just straight up doesn't support it. And apparently there are no plans to make it work in the future either.
 - So after being defeated there too, I then had to turn myself to the task of finding a replacement Windows file manager that *does* support longer paths. And of course I didn't want to be excessively hasty in choosing a new piece of software I'll be using a lot, so I felt compelled to do research on different file manager options, weighing pros and cons, and making sure whatever I picked supported all the things I needed it too (such as properly integrating with Dropbox's Smart Sync functionality, for example).
 - Long story short, I settled on a free one called [FreeCommander](https://community.chocolatey.org/packages/freecommander-xe.install), and now I can properly name my folders for the discussion pages. Only took like 3 days of research and debugging...
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Upcoming work {#through-10-23-22-upcoming-work}
 
@@ -2964,7 +2964,7 @@ This cycle I worked some on organizing content pages/videos and discussion pages
 
 ### Content {#through-11-6-22-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Optimize my desk/cubicle environment at work for getting ministry things done over my lunch hour {#through-11-6-22-optimize-my-desk-cubicle-environment-at-work-for-getting-ministry-things-done-over-my-lunch-hour}
 
@@ -2975,14 +2975,14 @@ This cycle I worked some on organizing content pages/videos and discussion pages
 - Worked over my full lunch break a couple days, and am happy with the improvements in productivity from all of this.
 - Soon, I will also start paying for an unlimited phone data plan so that I can have internet at work too (I am not allowed to connect my personal computer to the secure work network, which makes sense). This will further boost productivity, obviously, since not being able to do this (for fear of running out of the finite data on my current plan) has thus far prevented me from using my phone hotspot to have internet access when I work over lunch... which is a pretty serious disadvantage. I'll upgrade to unlimited data when I replace my ~5 year old phone in several week's time.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Set up audio normalization {#through-11-6-22-set-up-audio-normalization}
 
 - Set up and started using audio normalization to the EBU R128 standard. Ensures that all my videos will end up at the same final volume, basically.
 - I am doing this mostly to ensure that none of the videos are too quiet. Since YouTube won't ever "boost" the volume of the videos you upload, although it might automatically turn down the volume during its processing step if it perceives your videos are far too loud. Apparently.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Ordered additional things to hopefully help improve video recording quality even more moving forward {#through-11-6-22-ordered-additional-things-to-hopefully-help-improve-video-recording-quality-even-more-moving-forward}
 
@@ -2991,7 +2991,7 @@ This cycle I worked some on organizing content pages/videos and discussion pages
 - So I decided to buy a dedicated webcam to keep hooked up to my computer all the time. That way I won't have to deal with the hassle of setting something up every time I want to record (or at least every time I am switching from having the GoPro in "mobile mode"), and since webcams are kind of designed for inside light conditions and advertised as handling low-light well out-of-the-box due to fancy software correction or whatever, I'm hopeful the video quality will be a lot better.
 - I also got a teleprompter, which I can start using with transcripts I draft for content, a ring light to get better inside lighting when recording, and another piece of acrylic to use as the base for my standing assembly (I need a second level to put the teleprompter and webcam on (at eye level), as the lower level will have my keyboard and trackball)
 
-<!-- --- -->
+<!-- slide-break -->
 
 Here's the basic list of purchases:
 
@@ -3004,14 +3004,14 @@ I will report back once I have it all set up (right now I just have the webcam a
 
 You can judge the quality improvements for yourself, given that this video right now is being recorded with the new webcam and ring light. I think it looks a lot better, and am happy with the investments.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Made some progress organizing things for the first 3 lessons in the SR4 series {#through-11-6-22-made-some-progress-organizing-things-for-the-first-3-lessons-in-the-sr4-series}
 
 - My attention has been split a good bit this cycle (there was a termite inspection I had to set up and deal with, for example) so I have not made as much progress as I would have wanted, but I did subject-tag three discussion pages and a content page in the SR4 series -- finishing most of the legwork for organizing the first three lessons in the series.
 - Because I haven't completely finalized everything yet for these lessons, nothing has gone live on the site. (And so too with the documentation for discussion pages).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Upcoming work {#through-11-6-22-upcoming-work}
 
@@ -3073,7 +3073,7 @@ This cycle I was mostly stuck working on personal matters that needed to get don
 
 ### Content {#through-11-20-22-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Set up new phone {#through-11-20-22-set-up-new-phone}
 
@@ -3081,14 +3081,14 @@ This cycle I was mostly stuck working on personal matters that needed to get don
 * In addition to getting all my apps and data transferred over, I also went into my carrier to get them to swap the SIM, and upgraded my phone plan while I was at it, to be able to use my hotspot over my lunch break at work, as previously discussed. Hopefully I can now get more ministry stuff done during that time slot in my day.
 * Doing all this, or more precisely, planning and figuring out how to do all of this seamlessly, took a while.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Set up full teleprompter assembly, including software for reversing the computer display that is reflected {#through-11-20-22-set-up-full-teleprompter-assembly-including-software-for-reversing-the-computer-display-that-is-reflected}
 
 * The teleprompter, webcam, ring lights, and so on all came, and I spent a good amount of time getting everything set up physically. I am recording through the teleprompter right now (the webcam sits behind it), even though I'm not using it in this video, since this isn't the type of video where I am planning to use full scripts.
 * To get the teleprompter to work properly, my tablet's image needs to be reversed in software, so that when the beam-splitter glass mirror reflects it, the reflected display is shown in the correct orientation. I was rather horrified at the lack of good software options (at least on Windows) to do this for the screen as a whole. Long story short, I finally found one that works (called [UltraMon](https://www.realtimesoft.com/ultramon/)), but it only works if you hook up at least one additional monitor, which kind of stinks, and it's not free either. But I did get it working properly, so that is at least something.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Created a spreadsheet to automate the creation of update messages for these ministry progress summaries {#through-11-20-22-created-a-spreadsheet-to-automate-the-creation-of-update-messages-for-these-ministry-progress-summaries}
 
@@ -3096,13 +3096,13 @@ This cycle I was mostly stuck working on personal matters that needed to get don
 * The spreadsheet I built will hopefully reduce the amount of time it takes for me to post these ministry progress summaries to all the relevant channels: the TinyLetter mailing list, Facebook, Twitter, the forum, and so on.
 * In essence, the spreadsheet lets me paste in the links to the webpage and video form of one of these ministry progress summaries and enter the summarized version of the ministry update, and then it builds everything else automatically. Hurray, less busywork.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Set up a new framework for daily progress summaries moving forward {#through-11-20-22-set-up-a-new-framework-for-daily-progress-summaries-moving-forward}
 
 * I won't spend much time on this in this ministry update since it is not particularly ministry related in a direct sense, but I set up a more systematic framework for making the progress summaries I do daily. Hopefully the time I invested here in this cycle will help me keep up with these daily videos better, so that they no longer end up as a bottleneck, as they have from time to time thus far.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Upcoming work {#through-11-20-22-upcoming-work}
 
@@ -3161,7 +3161,7 @@ Like in past cycles, there's a fair bit of setup stuff still going on. However, 
 
 ### Content {#through-12-4-22-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Some miscellaneous practical matters {#through-12-4-22-some-miscellaneous-practical-matters}
 
@@ -3169,7 +3169,7 @@ Like in past cycles, there's a fair bit of setup stuff still going on. However, 
 - I ordered some additional practical items to continue chipping away at my final plan for the house. I got a second low-input lag projector to use a computer monitor when walking on the treadmill (for when I am working on the computer), a 125" screen for it, a second standing desk with caster wheels to stick two 24" monitors on when I am speaking/presenting out in the living room (acting, in essence, like a speaking podium), and then two 24" monitors to actually go on this portable speaking podium when I am presenting.
 - Once these items arrived, I moved the treadmill assembly from the master bedroom to the office, and assembled and then set up the new projector/screen that came. In doing these things, I had to rearrange most of the furniture in the master and the office (including my main large bookshelf = I had to take all the books off and redistribute things), so this process took quite a while, and in fact I'm still not completely setting everything back to rights.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Some thinking and decisions {#through-12-4-22-some-thinking-and-decisions}
 
@@ -3177,7 +3177,7 @@ Like in past cycles, there's a fair bit of setup stuff still going on. However, 
 - More importantly, I've decided to start posting some new written content since I've been procrastinating so hard on finishing all the video stuff. It has bee a massive struggle to motivate myself to knock out all the busywork, and I just think I need to get on with things.
   - I'm not abandoning all my plans with the video content, but will just try to space things out a bit more so I don't burnout so hard on the boring stuff. Hopefully this means that by the time of the next ministry progress summary, there will actually be new ministry content!
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Some conversations {#through-12-4-22-some-conversations}
 
@@ -3185,7 +3185,7 @@ Like in past cycles, there's a fair bit of setup stuff still going on. However, 
 - I chimed in on a WhatsApp conversation about the parable of the talents and the parable of the minas, and applications relating to the themes contained in these parables.
 - Another good friend and I had several long back-and-forths about the interpretation of Matthew 4:1-4 (Satan tempting Jesus to turn stones into bread), and what His restraint here (operating under kenosis) tells us about restraint in our own lives. (It turned into some other things too, but that was the initial and central topic).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Video processing shell script {#through-12-4-22-video-processing-shell-script}
 
@@ -3202,7 +3202,7 @@ When I was working on this, I set up a bunch of useful Bash aliases too (been me
 
 Together these things reduce some of the time opportunity cost that goes into making videos and wrangling them on the command line, which should help a lot in in terms of long-term throughput sustainability.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Upcoming work {#through-12-4-22-upcoming-work}
 
@@ -3258,7 +3258,7 @@ This cycle I started producing new written content again. This time, one study w
 
 ### Content {#through-12-18-22-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Foreword {#through-12-18-22-foreword}
 
@@ -3266,7 +3266,7 @@ I probably won't bother with the webcam intro/outro anymore, and will be trying 
 
 As promised last cycle, I have now shifted into actually producing new written content, at least for a while here. This time I organized a few drafts from my backlog, and selected several that were closer to completion. Then I edited and polished them, got them organized in the content hierarchy properly, and here we are.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The new written content {#through-12-18-22-the-new-written-content}
 
@@ -3274,7 +3274,7 @@ As promised last cycle, I have now shifted into actually producing new written c
 - [On the actions of Abraham, Sarah, and Hagar in Genesis 16](https://www.bibledocs.org/questions-and-answers/self-generated/on-the-actions-of-abraham-sarah-and-hagar-in-genesis-16/)
 - [On college decisions and career path](https://www.bibledocs.org/questions-and-answers/self-generated/college-decisions-and-career/)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Upcoming work {#through-12-18-22-upcoming-work}
 

@@ -22,11 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 1 Thessalonians 4:3-8 is one of passages of scripture that most clearly condemns sexual immorality. (1 Corinthians 6:12-20 is another). Sexual sin is no small matter in the eyes of God, and we must take pains to remember that, given our culture's ever-laxer attitude towards it.
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -34,7 +34,7 @@ slides="https://bibledocs.org/slides/"
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### No matter what our culture says, sexual immorality ought to be avoided at all costs {#no-matter-what-our-culture-says-sexual-immorality-ought-to-be-avoided-at-all-costs}
 

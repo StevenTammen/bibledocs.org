@@ -26,17 +26,17 @@ God created time and exists outside of it, using it as a tool to accomplish His 
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 God created time and exists outside of it, using it as a tool to accomplish His will in creature history. The Bible commonly uses short time spans to refer to longer chronological times (showing us God's sovereign control over all of history). The Millennium is described in scripture as a period of one thousand literal years, and is directly called a "day", commencing at the second advent of Christ. The Transfiguration, a preview of Christ's glory at His return, happens on the seventh day (after six prior days). God also completes His re-creation of earth in a seven day week, resting on the final day (compare the day of rest to the Transfiguration and the Millennium). This chronological information contained in the Bible indicates that God has a definite timetable for human history, the seven millennial days of human history planned down to the finest details by God.
 
-
+<!-- summary -->
 
 {{% content %}}
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Audio clip from Ichthys {#audio-clip-from-ichthys}
 
@@ -49,7 +49,7 @@ srcend="22:16"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -61,15 +61,15 @@ By faith we understand that the ages have been constructed by the Word of God.
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 There are clear indications in scripture that God's specific plan of construction for that part of time we call human history is indeed a series of seven millennia.  For example, when scripture makes a deliberate point of telling us that Jesus took his inner group of disciples up to the Mount of Transfiguration “after six days” (Matt.17:1; Mk.9:2; cf. Ex.24:16-18), it is reasonable to suppose that this information has not been supplied to no particular purpose, yet nothing in the context of either Matthew or Mark explains why here almost uniquely in the gospels such specific chronological information should be given – unless it is precisely because of the fact that on ***the seventh day*** our Lord was “transfigured”, a preview of His return in glory at the second advent (as the appearance of the two heralds of that event, Moses and Elijah, makes clear).  And if the seventh day is thus symbolically linked here to the second advent (as it clearly is), we would be remiss not at least to consider the possibility that this otherwise inexplicable reference to the “six days” which precede this symbolic second advent and Millennium are meant to be understood in a similar way, namely as representing the six millennia of human history which precede the second advent and the Millennium.
 
-<!-- --- -->
+<!-- slide-break -->
 
 We may therefore start with this fact, namely that the Millennium, the final period of human history, the only period of human history specifically named and delineated in scripture, is most definitely described as a period of one thousand literal years (Rev.20:1-7). Elsewhere in scripture, the Millennium, the time of the reign of Christ commencing with His triumphant return and concomitant judgment upon His enemies, is called "the ***day*** of the Lord" (Is.2:11-21; 10:11-34; Joel 2:28-32; Am.5:18-20; Ob.1:15; Zeph.1:14; Zech.14:1-7; Mal.4:5; 1Thes.5:2-4; 2Thes.2:2; 2Pet.3:10; Rev.6:17; 16:14), and "the ***year*** of the Lord" (Is.61:2; 63:4; cf. Is.49:8; Lk.4:19; 2Cor.6:1-2). In the case of the Millennium, therefore, the Bible clearly calls a literal and specific period of 1000 years "a day". While from the human perspective the difference between a day and a millennium is massive, to God, the Creator and Master of time who exists outside of time and is in no way subject to it, these two finite chronological periods are much the same:
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% scripture p="Psalm 90:4 | NASB" %}}
 
@@ -89,17 +89,17 @@ Let not this one fact escape your attention then, beloved, namely that one day i
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 By using short periods (hours, days, weeks) to designate much longer chronological periods, scripture reflects God's complete sovereignty over time. This tendency of scripture to diminish the significance of a given period of time in proportion to the importance of time's Inventor and Master is common in the Bible and is often accomplished in this same way, namely through the use of relatively small units to refer to much longer chronological spans. For example, the "year of redemption" in Isaiah 63:4, and the "day of vengeance" in both Isaiah 34:8 and 63:4 refer to the thousand years of the Millennium, while the "day of salvation" in Isaiah 49:8 refers to the two thousand years of the Church in addition to the Millennium (cf. 2Cor.6:1-2). In the "seventy sevens" prophecy of Daniel chapter nine, each day of the "week" is a one year period (Dan.9:25-27). Similarly, at Revelation 12:14 the "time, times and half a time" refers to the three and one half years of the Great Tribulation (as in Dan.4:16 the seven "times" are seven years). The effect of all these passages is to make it clear to God's elect that even though time plays such a seemingly dominant role in our lives, it is nothing at all to God and presents not the slightest obstacle to the accomplishment of His will. It is merely a tool He has invented for the ordering of our lives wherein we may choose for Him (time is merely the stuff of choice: Eph.5:16; Col.4:5). Therefore seven thousand years, the sum total of human history, may seem a long span to us from our earthly perspective, but in terms of the eternity that God has constructed for us His faithful followers, it is an inexpressibly minute period of time.
 
-<!-- --- -->
+<!-- slide-break -->
 
 As we shall see below, the chronological records found in the Bible yield approximately 2000 years from Christ to Abraham and an additional 2000 years from Abraham to Adam. Given that the Gentile and Jewish ages both covered ca. 2000 years, and that the Millennium, the final "day" in God's plan for human history, will be 1000 years, it requires no great leap of exegetical skill to posit a comparable 2000 years for the Church age. In so doing, a total of 7000 years results wherein each millennium is reckoned as "a day" in God's system. The analogy to the seven day week, another divine invention (cf. Gen.1:3ff.), is also impossible to ignore, especially considering the very close analogy between the seventh day of rest, the Sabbath, and the seventh day of human history, the Millennium, with all its promised peace and abundance, which likewise comes as the final "day" of the seven (cf. Is.9:6-7; see [Part I of this series, section II.6.f.](https://ichthys.com/SR1copy.htm#f\)%20The%20Millennial%20Jerusalem)). Based on the analogy of the week, therefore, the Millennium of its own accord invites us to posit six prior thousand year "days". This evidence is all the stronger when we consider that the original period of time wherein God began the process of restoration and replacement known as human history was the original week of seven days, also ending in a day of rest (compare the "six days" mentioned prior to the transfiguration which prefigures the Second Advent in Matt.17:1 and the beginning of the "seventh day" or Millennium).
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Summary points {#summary-points}
 
@@ -112,7 +112,7 @@ Jesus return at the second advent ushers in the Millennium (a literal 1,000 year
 
 - The text explicitly saying "after six days" (i.e., giving such specific chronological information) is a bit odd unless we are supposed to make something of it... like, maybe the preceding six days also each map onto a millennium, just like this seventh day?
 
-<!-- --- -->
+<!-- slide-break -->
 
 So we start with the unambiguous teachings concerning the Millennium, and build out the wider doctrine of the seven millennial days from there. That is the interpretive "order" to things.
 
@@ -122,7 +122,7 @@ So we start with the unambiguous teachings concerning the Millennium, and build 
 - In scripture, the Millennial reign of Christ (inclusive of His return, judgment of His enemies, and rule thereafter) is called "the ***day*** of the Lord" and "the ***year*** of the Lord".
 - So at least for the Millennium, we have direct textual evidence that a 1,000 year period is called a "day".
 
-<!-- --- -->
+<!-- slide-break -->
 
 Other examples of the Bible using relatively small units to refer to much longer chronological spans:
 
@@ -133,7 +133,7 @@ Other examples of the Bible using relatively small units to refer to much longer
 
 By using short periods (hours, days, weeks) to designate much longer chronological periods, scripture reflects God's complete sovereignty over time.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Taken together, all the evidence we've started with here leads us to ask a question: is it possible that human history is composed of seven 1,000 year "days", with the last day being the Millennial reign of Christ?
 
@@ -143,7 +143,7 @@ In fact, we need not stop there. Additional evidence also all likewise points us
 2. The analogy to the seven day week, (another divine invention) is also impossible to ignore, especially considering the very close analogy between the seventh day of rest, the Sabbath, and the seventh day of human history, the Millennium.
 3. This point is all the stronger when you consider that the first week is exactly where this structure came from: the initial seven-day week of re-creation (as recounted in Genesis 1) also ended in a seventh day of rest.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Follow-on topics {#follow-on-topics}
 
@@ -153,7 +153,7 @@ Does the Bible ever explicitly say "the Millennium is the seventh day in a week 
 
 - When Jesus said "before Abraham was, I AM" (John 8:58) He is clearly claiming to be God, but it is not stated in so many words. Instead you have to "read between the lines" a bit. This is Jesus equating Himself with the the tetragrammaton—the Holy name of God mentioned in Exodus 3:15. But the text doesn't actually say that directly. You just have to see that this is so.
 
-<!-- --- -->
+<!-- slide-break -->
 
 I think that because there has historically been so much false teaching about end times chronology, people are prone to throwing out the baby with the bathwater here. And this is why I think from an apologetics perspective, it makes sense to focus on the fact that we are talking about one and only one interpretive call here. There is not some complicated system of inferences and fanciful calculations to arrive at the general doctrine. Instead, it really is nothing more than "Wow, the Millennium sounds an awful lot like the seventh day of rest, so I wonder if that means that there are also six 1,000 year periods before it?" That's it.
 
@@ -161,7 +161,7 @@ Getting bogged down in the specifics that come after that (of which there are ma
 
 So if people balk at 2026 as a specific date (which relies on certain additional assumptions that come up as you drill into the details, such as whether or not the seven years of the Tribulation are shared between Israel and the Church), as I see things, we don't need to push on that. We can instead fall back on the very intuitive argument that we've gone over here, and leave things at "human history will be ballpark 7,000 years, with the last 1,000 being a period of rest, just like the seventh day of the week". This still communicates the fact that God has a definite timetable for human history, that human history is planned down to the finest details by God. It also encourages people to take things seriously in terms of urgency/imminency, because no matter what, the math says we are nowadays getting close to 6,000 years of human history.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Further discussion {#further-discussion}
 

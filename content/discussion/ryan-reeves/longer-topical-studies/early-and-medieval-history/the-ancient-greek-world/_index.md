@@ -25,11 +25,11 @@ TODO: Summary
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 TODO: Summary
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 
@@ -37,7 +37,7 @@ TODO: Summary
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Introduction: the Greek world {#introduction-the-greek-world}
 
@@ -67,7 +67,7 @@ End:
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points and follow-on topics {#summary-points-and-follow-on-topics}
 
@@ -80,11 +80,11 @@ Follow-on topics:
 
 - Cultures do not exist in a vacuum. This is an important fact when it comes to us properly understanding and interpreting the Bible, which was written in the context of several ancient cultures. Studying these ancient cultures can help us better understand the Bible.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### History of Macedonian expansion, Alexander the Great, and Alexander's conquests {#history-of-macedonian-expansion-alexander-the-great-and-alexander-s-conquests}
 
@@ -117,7 +117,7 @@ End:
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points and follow-on topics {#summary-points-and-follow-on-topics}
 
@@ -134,11 +134,11 @@ Follow-on topics:
 
 - Greek culture spread all over the eastern Mediterranean as a result of the military conquests of Alexander, and the emphasis the Greeks placed upon exporting their culture. Greek become the so-called *lingua-franca* of the entire Eastern Mediterranean, meaning it was the primary language of trade and cross-cultural communication.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The biblical world and Greek expansion {#the-biblical-world-and-greek-expansion}
 
@@ -172,7 +172,7 @@ End:
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points and follow-on topics {#summary-points-and-follow-on-topics}
 
@@ -188,11 +188,11 @@ Follow-on topics:
 - God's superintendence of the spread of the gospel by arranging history such that it could spread throughout the massive number of Greek-speaking people in the Mediterranean.
   - The NT being written in Greek allowed for this harnessing of the results of Hellenization. In this we can see God's Omniscience and perfect organization of history.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Jewish resistance to Hellenization {#jewish-resistance-to-hellenization}
 
@@ -224,7 +224,7 @@ End:
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points and follow-on topics {#summary-points-and-follow-on-topics}
 
@@ -241,11 +241,11 @@ Follow-on topics:
 
 - Ancient societies (including the Greeks and Romans) often saw religion as a means of enforcing societal cohesion—as a means of establishing a shared social fabric. Those who did not fall into line and conform faced severe consequences. Thinking along these lines, consider how Christianity's rapid spread throughout the Greco-Roman world demonstrates God's hand in history. Rather than getting stamped out by those trying to enforce conformity to Pagan religion, Christianity instead flourished despite such pressures.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Conclusions {#conclusions}
 
@@ -276,7 +276,7 @@ End:
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points and follow-on topics {#summary-points-and-follow-on-topics}
 
@@ -291,7 +291,7 @@ Follow-on topics:
 - Had you ever considered how the tension between Jews in Judea and those in Asia Minor and other Greek-speaking parts of the Mediterranean shaped the early Church? Now that you've heard of it, if you look for it, you will actually see this in the background in multiple places in the NT. This is an excellent example of how studying things like the topics of this video can help us deepen our understanding of the Bible.
 - There was, of course, also tension between Greek Gentiles and Jews. One might compare Acts 15.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 

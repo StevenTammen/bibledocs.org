@@ -22,11 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 When Jesus was declared son of God through the resurrection, it showed that He is more than just a descendant of David in a physical sense—He is God as well. So Jesus is fully God yet also fully man.
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -34,7 +34,7 @@ When Jesus was declared son of God through the resurrection, it showed that He i
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 What does it mean for Jesus to be "declared Son of God"? Basically, it means that Jesus was and is fully God, with the resurrection serving as proof positive.
 

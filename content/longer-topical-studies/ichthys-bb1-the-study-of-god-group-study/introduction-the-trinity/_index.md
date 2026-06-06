@@ -1,6 +1,9 @@
 ---
 title: Introduction - The Trinity
 weight: 50
+stags:
+    - Trinity > Definition
+
 layout: content-page
 video: https://www.youtube.com/watch?v=8GMxPLPmj90
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
@@ -9,10 +12,6 @@ playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcA
 In this lesson, we are going to be starting an examination of a new topic in our study of God: the Trinity. God existing in three persons yet with one shared essence is about as core a concept as any we have in Christianity, which is one of the reasons that heresies related to the Trinity have been among the most existential of all threats to truth in the Church. This being the case, it is very important for us to understand the ins and outs of this keystone doctrine, so that we may stand firm in the truth of the Bible and its teaching.
 
 <!--more-->
-
-{{< subjects >}}
-<a href="/subject-index/#trinity-definition">Trinity > Definition</a>
-{{< /subjects >}}
 
 {{% section-navigation %}}
 
@@ -28,11 +27,11 @@ slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 In this lesson, we are going to be starting an examination of a new topic in our study of God: the Trinity. God existing in three persons yet with one shared essence is about as core a concept as any we have in Christianity, which is one of the reasons that heresies related to the Trinity have been among the most existential of all threats to truth in the Church. This being the case, it is very important for us to understand the ins and outs of this keystone doctrine, so that we may stand firm in the truth of the Bible and its teaching.
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 
@@ -51,20 +50,19 @@ In this lesson, we are going to be starting an examination of a new topic in our
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The core definition of the Trinity: God is One in Essence, Three in Person {#the-core-definition-of-the-trinity-god-is-one-in-essence-three-in-person}
 
 We will examine exactly what this statement means as we continue in our study, but suffice it to say that this idea of "one essence / three persons" (or "three persons / one essence" if you prefer that order to the phrasing instead) is the central point, and what you should always keep in mind when thinking about the Trinity. These two statements together sum up all that is important about the triune nature of God.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Is the terminology itself important in considering the development of this doctrine? {#is-the-terminology-itself-important-in-considering-the-development-of-this-doctrine}
 
-{{< subjects >}}
-<a href="/subject-index/#trinity-scripture-alone-is-sufficient-for-establishing-the-teaching">Trinity > Scripture alone is sufficient for establishing the teaching</a>
-<a href="/subject-index/#trinity-the-teaching-existed-before-the-word-trinity-was-used-for-it">Trinity > The teaching existed before the word "Trinity" was used for it</a>
-{{< /subjects >}}
+{{< properties
+stags="Trinity > Scripture alone is sufficient for establishing the teaching | Trinity > The teaching existed before the word “Trinity” was used for it"
+>}}
 <!-- p="Revelation 4:8" -->
 
 In short, no. The Trinity has always been there in the Bible, for those willing to open their eyes and ears to the truth. How later people came to label the idea is in no way related to the fact that this concept has been there in scripture from day one.
@@ -77,7 +75,7 @@ and He who is coming.
 
 No specific term for the triune nature of God occurs in the Bible. The inspired writers of the New Testament clearly felt that the existence of one God in three distinct persons, the doctrine which we now call "the Trinity", was a relatively straight-forward concept and accessible enough (even with a cursory reading of the scripture) from passages such as the one quoted above.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% technical-discussion %}}
 To flesh out a bit more why we might make the claim that Revelation 4:8 supports the doctrine of the Trinity, consider:
@@ -94,7 +92,7 @@ Perhaps someone might say that it is not impossible or even particularly uncommo
 The explanation that makes the most sense is simply that John, inspired by the Holy Spirit, put things this way intentionally. And therefore it ought not be ignored. QED.
 {{% /technical-discussion %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 The Apostolic Fathers, the generation that followed the men who actually penned the New Testament, also felt that merely quoting scriptures was an entirely adequate way of discussing the relationship between Father, Son, and Holy Spirit.
 
@@ -102,7 +100,7 @@ Not until the late second and early third centuries did the term "Trinity" itsel
 
 God is one. God is also three. And there is no contradiction between these statements.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% video-only %}}
 

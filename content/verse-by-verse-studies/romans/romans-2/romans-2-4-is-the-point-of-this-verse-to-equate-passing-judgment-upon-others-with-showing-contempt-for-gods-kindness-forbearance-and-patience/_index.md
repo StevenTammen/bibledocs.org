@@ -22,11 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 In essence, Romans 2:4 introduces another "possible explanation" for how the people in view here can be so insane as to to ignore natural revelation and natural behavior—in the manner Paul talks about in Romans 1:18ff. In verse 3, Paul asks if maybe it is because they somehow think they won't face the judgement. But in verse 4, he uses a connecting conjunction ("or") to introduce another possibility: perhaps these people persist in this folly not for the former reason, but instead because they show contempt for God's kindness (that he demonstrates in delaying judgement). The sense is that were they to not make light of God's kindness and patience, then they would not act in such a depraved way.
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -34,7 +34,7 @@ In essence, Romans 2:4 introduces another "possible explanation" for how the peo
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Is the point of Romans 2:4 to equate passing judgment upon others with showing contempt for God's kindness, forbearance, and patience? In a word, no. Verse 4 is set more opposite the "do you think you will escape judgment?" part of verse 3, rather than the "when you pass judgement yet do the same things" part.
 

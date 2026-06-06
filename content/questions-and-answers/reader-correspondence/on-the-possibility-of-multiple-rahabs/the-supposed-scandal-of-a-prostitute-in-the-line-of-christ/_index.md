@@ -22,11 +22,11 @@ slides="https://www.steventammen.com/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 This lesson spends time focusing on a single thing: refuting the idea that it must be a different Rahab because there couldn't possibly be a prostitute in the line of Christ (\*gasp in horror\*). The problem with this is that there are plenty of people in the genealogy (including men) who were not universally praiseworthy in their choices (not that they were horrible or not believers or anything like that -- the point is that Rahab's prostitution is not the only thing nailed to the cross among those in the genealogy). Further, there is the matter of Matthew's purpose in including the women he did in the genealogy. This lesson argues that the other women in the lineage of Christ are all mentioned specifically to demonstrate God's great love and grace towards humanity, so it makes little sense for the Rahab mentioned here to be some random woman we know nothing else about rather than the reformed prostitute bearing that name. Far from making this unlikely, the context in Matthew practically demands such an identification.
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -36,13 +36,13 @@ This lesson spends time focusing on a single thing: refuting the idea that it mu
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### There could never be a harlot in the line of Jesus Christ! How heretical! {#there-could-never-be-a-harlot-in-the-line-of-jesus-christ-how-heretical}
 
-{{< subjects >}}
-<a href="/subject-index/#legalism-counterexamples-a-prostitute-is-in-the-line-of-christ">Legalism > Counterexamples > A prostitute is in the line of Christ</a>
-{{< /subjects >}}
+{{< properties
+stags="Legalism > Counterexamples > A prostitute is in the line of Christ"
+>}}
 
 [**Post hoc note**: if any wording here rubs you the wrong way, you can jump ahead a little bit to the standalone purple post hoc section, where I go through these women in the genealogy in more depth].
 
@@ -52,27 +52,27 @@ Bathsheba is in the lineage of Christ, and she committed adultery with King Davi
 
 Ruth is in the lineage of Christ, and she was a Moabitess.
 
-<!-- --- -->
+<!-- slide-break -->
 
 So the fact that Rahab, a prostitute who likely converted to Judaism after her inheritance in Canaan with the Israelites (cf. Joshua 6:25), is in the lineage of Christ does not surprise me at all, nor it should it surprise anyone.
 
 In fact, one might go so far as to say that the onus is on those who want to make Rahab the wife of Salmon out to be some sort of unrealistic virginal figure to give examples of women listed in the line of Christ that didn't receive grace in bounds. Actually, in Matthew 1, the only other women explicitly mentioned are the three above, so to claim that Rahab "has to be" someone other than a prostitute is to create a glaring double standard.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% post-hoc-note %}}
 
 ### More on the women in the genealogy of Christ {#more-on-the-women-in-the-genealogy-of-christ}
 
-{{< subjects >}}
-<a href="/subject-index/#genealogy-of-christ-women-in-the-line-of-christ">Genealogy of Christ > Women in the line of Christ</a>
-{{< /subjects >}}
+{{< properties
+stags="Genealogy of Christ > Women in the line of Christ"
+>}}
 
 After hearing a sermon on these women in the genealogy of Christ that made me horribly nauseous on account of what amounted to women-bashing, I wish to spell out more specifics here to head off any misinterpretation of my words. (Which I now wish I had put somewhat differently; even though I never meant anything even close to women-bashing in what I wrote -- God forbid! -- I'm now more sensitive to the wording on this matter specifically, since it has become apparent to me that spelling it out is probably necessary to stop certain arrogant men from twisting things).
 
 Let me be clear: women are *not* uniformly spiritually bankrupt, temptresses leading men away from truth, the sex lacking moral backbone. That some people actually believe this is terrifying. Men and women are co-heirs in the inheritance of Christ, and share in the image of God, per Genesis 1:27. Men and women have quite different roles and duties in this life, to be sure, but women are in no way spiritually inferior.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The women are not the only people in the genealogy in need of grace {#the-women-are-not-the-only-people-in-the-genealogy-in-need-of-grace}
 
@@ -82,7 +82,7 @@ By way of contrast, Rahab shows up in Hebrews 11 and James 2 as an example of fa
 
 So tell me, how is it that people cast stones at Rahab -- who scripture itself praises glowingly -- while somehow ignoring the stain of sin that corrupts *all* humans in the genealogy, including the men? Hypocrisy and legalism. That's how.
 
-<!-- --- -->
+<!-- slide-break -->
 
 To use another example, where's the outrage over a well-known persecutor of early Christians becoming an Apostle? Ever heard of Paul? Getting early believers imprisoned or worse, approving -- or at least not challenging -- their executions (compare Acts 7:58), kind of makes prostitution look mild, right? But it must be OK -- he was a man. (/s)
 
@@ -90,13 +90,13 @@ From Adam onward (inclusive), some men have tried to blame it all on the women, 
 
 Sin is a human problem, not a woman problem. (Duh).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### But they were included in Matthew's genealogy specifically to showcase God's surpassing grace towards mankind {#but-they-were-included-in-matthew-s-genealogy-specifically-to-showcase-god-s-surpassing-grace-towards-mankind}
 
-{{< subjects >}}
-<a href="/subject-index/#genealogy-of-christ-women-in-the-line-of-christ-showcase-god-s-surpassing-grace">Genealogy of Christ > Women in the line of Christ > Showcase God's surpassing grace</a>
-{{< /subjects >}}
+{{< properties
+stags="Genealogy of Christ > Women in the line of Christ > Showcase God's surpassing grace"
+>}}
 
 Even though the genealogies in Matthew 1 and Luke 3 trace bloodlines through the males, these women were included in Matthew's genealogy for a reason, and that is to showcase the surpassing grace of God. Other women could have been included -- the righteous wives of various men throughout the generations -- but that's not what God chose to emphasize. Instead, it is the women that would be the subject of gossip and slander -- the one who had twins by her older father-in-law, the one whose husband the king murdered to obtain, the one coming from a foreign land, the one who used to be a prostitute -- these are the women God saw fit to have Matthew mention.
 
@@ -104,7 +104,7 @@ Not because women are bad or immoral or always in need of redemption away from t
 
 *That* is the message these women's inclusion in the genealogy sends -- and it is a beautiful reminder for us of God's benevolence towards all humanity, man and woman alike. So for goodness' sake, please stop corrupting it into a condemnation of women!
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### I like wording things in terms of grace more than moral redemption {#i-like-wording-things-in-terms-of-grace-more-than-moral-redemption}
 
@@ -112,7 +112,7 @@ Just like everyone else, the ladies too needed grace.
 
 The language of moral redemption is often used of these women that show up in the genealogy. This is perhaps appropriate to some degree (particularly for Rahab), but I think it is much better to phrase things positively in terms of God's grace, for that is consistent across all four women, and also consistent with Matthew's main purpose for including them in the genealogy, as above.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Even though Bathsheba's marriage with the King of Israel came about under the most unfortunate of circumstances, God still appears to have blessed her marriage and son (Solomon) even so. God's grace is evident in blessing a marriage based on the foundation of adultery, counter to expectations.
 
@@ -122,7 +122,7 @@ Since the bloodline of the Savior came through Tamar's son Perez, one of the twi
 
 Finally, God delivered the spies of Israel by a prostitute rather than a noble woman of virtue. Of all the people in the land, only a prostitute feared the Lord and acted to save her family -- literally only her. Perhaps most shocking of all our women, Rahab represents the grace of God in full effect. This is not the outward plastering over of dirtiness within -- lipstick on a pig -- but a complete rebirth from the inside out, a woman turning from death to life. God's grace is more than evident in these events -- it practically screams from every word. Even though such shatters expectations.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Conclusions {#conclusions}
 

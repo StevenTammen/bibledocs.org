@@ -24,11 +24,11 @@ slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 In this lesson, we are going to be summarizing what we've done in the last several lessons, sort of pulling it all together. This will then conclude our discussion of the Essence of God: both His infinite nature, and His perfect character.
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 
@@ -43,7 +43,7 @@ In this lesson, we are going to be summarizing what we've done in the last sever
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### A reminder of what we've been going over {#a-reminder-of-what-we-ve-been-going-over}
 
@@ -53,13 +53,13 @@ We have been talking about the essence of God: His infinite nature and His perfe
 * [God's infinite nature](https://www.bibledocs.org/longer-topical-studies/ichthys-bb1-the-study-of-god/gods-infinite-nature/)
 * [God's perfect character](https://www.bibledocs.org/longer-topical-studies/ichthys-bb1-the-study-of-god/gods-perfect-character/)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### An overview in words {#an-overview-in-words}
 
-{{< subjects >}}
-<a href="/subject-index/#blood-of-christ-satisfies-both-god-s-love-and-god-s-justice">Blood of Christ > Satisfies both God's love and God's justice</a>
-{{< /subjects >}}
+{{< properties
+stags="Blood of Christ > Satisfies both God's love and God's justice"
+>}}
 
 God's goodness overflows with love, providing grace for sinful Man:  
 &emsp;though evil says a loving God can't condemn,  
@@ -76,13 +76,13 @@ God's faithfulness and truth overflow in life, producing peace with God for sinf
 &emsp;He did make peace between us through His Son,  
 &emsp;reconciling us to Himself and granting us eternal life on the basis of the blood of Christ.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### An overview in picture form {#an-overview-in-picture-form}
 
-{{< subjects >}}
-<a href="/subject-index/#god-essence">God > Essence</a>
-{{< /subjects >}}
+{{< properties
+stags="God > Essence"
+>}}
 
 ![Overall Summary of the Essence of God](https://ichthys.com/1Theo-summary.gif)
 

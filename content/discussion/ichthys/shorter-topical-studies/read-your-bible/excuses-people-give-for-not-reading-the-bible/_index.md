@@ -24,17 +24,17 @@ TODO: Summary
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 TODO: Summary
 
-
+<!-- summary -->
 
 {{% content %}}
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Audio clip from Ichthys {#audio-clip-from-ichthys}
 
@@ -47,7 +47,7 @@ srcend="19:08"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/readbible.htm" text="Ichthys" %}}
 
@@ -71,38 +71,38 @@ You probably take a newspaper. You probably read it most days.
 
 We live in a world filled with modern conveniences such as the ones mentioned above. It is perhaps ironic that they make such heavy demands on our time and attention at the same time that they grant us opportunities unavailable to former ages. Yet despite the disadvantages of the modern world and the demonstrably negative side of technology, it is beyond argument that we have at least one important advantage that believers in the first century lacked: the general availability of the Bible.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Maybe in the ancient world they had an excuse or two:
 
 - *Cost:* A complete copy of the scriptures was well beyond the ability of the average person to afford in a lifetime. This was partially because of the extreme cost of materials (especially in the case of vellum; believers occasionally scribbled favorite verses on potsherds as a way to have some small portion of scripture for themselves).
 - *Time:* The printing press is a comparatively modern invention, and in the days following the ministries of the apostles, any new copy of the Bible (or portion thereof) would have to be painstakingly produced by hand, one letter at a time. Moreover, with the ancient pen and ink, copying by hand was far more difficult than it would be today, and took much longer, requiring, for all intents and purposes, a professional.
 - *Canon:* The entire canon of the New Testament scriptures took some time to be collected in its entirety, and so all the books of the Bible were not immediately available, even to the rare individual with extensive resources.
-- *Literacy: *Even if one had access to a copy of the Bible, literacy was not universal and could certainly not be taken for granted (especially among slaves and freedmen who formed a large segment of the early believers). Even for those who did have some education in Greek, reading was more laborious than today. Script was less legible and scrolls were cumbersome, making reading more of a chore (the codex or book form being invented only later).<!-- --- -->
+- *Literacy: *Even if one had access to a copy of the Bible, literacy was not universal and could certainly not be taken for granted (especially among slaves and freedmen who formed a large segment of the early believers). Even for those who did have some education in Greek, reading was more laborious than today. Script was less legible and scrolls were cumbersome, making reading more of a chore (the codex or book form being invented only later).<!-- slide-break -->
 - *Translation:* What if your language was not Greek? It took time for the Bible to be disseminated and translated into contemporary languages (like Latin, Syriac and Armenian). And we know from the remains of the ancient versions that the accuracy of the exemplar (copy text) and of the translations themselves was no small issue. Even if your native language was Greek, you still had to make use of a translation of the Old Testament (known as the Septuagint), a Greek version of the Hebrew and Aramaic original that often diverges radically from its archetype.
 - *Accuracy:* Today, when we read from one of the standard versions of the Bible, we can check the introduction and see that with few exceptions the translation has been made by a large group of highly qualified individuals, working from textual exemplars that exhibit a very high degree of accuracy. In the ancient world, you would have to take what you could get (and some manuscripts, as well as versions, had serious problems).
 
 But despite facing obstacles and disadvantages we seldom consider, these early Christians were extremely thirsty for the scriptures. Such was their desire for the Word that in spite of Rome's organized persecution and destruction of copies of the Bible, a wealth of manuscripts, papyri and other witnesses to the text of the Bible have survived from antiquity. In fact, the Bible is by far the best preserved and most substantially witnessed and documented text to have come down to us from the ancient world. What are our excuses in the face of such an example? 
 
-<!-- --- -->
+<!-- slide-break -->
 
 - *But I get that at church.*
 
 One of the ways the early Christians compensated for their lack of personal copies of the scriptures was to read extensively from the Bible as part of the church service. "Devote yourself to reading", Paul tells his young protege Timothy (1Tim.4:13), and it was not uncommon for early congregations to hear the ***entire Bible*** read through in the course of each year. *This is not the normal practice today precisely because we have our own copies of the scriptures.*
 
-<!-- --- -->
+<!-- slide-break -->
 
 - *But I've already read it.*
 
 There are those around world who are too poor to own a copy of the Bible. If you didn't have it on your shelf, my guess is that you'd soon discover just how precious the Word of God is to you. You would then give much indeed to be able to read it again, and again. 
 
-<!-- --- -->
+<!-- slide-break -->
 
 - *I find it hard to understand sometimes.*
 
 There are those around the world still today who are illiterate and unable to read the Bible for themselves at all. There are others whose political circumstances make it difficult to have access to teaching and other resources that might help to explain the scriptures (believers in China, for example). We who have access to myriad opportunities for Bible teaching and unlimited access to books about the Bible should recognize our blessings on this score, trusting God and praying to Him to lead us into understanding (and the legitimate activities that bring it). 
 
-<!-- --- -->
+<!-- slide-break -->
 
 - *I'm just too busy to read it.*
 
@@ -110,7 +110,7 @@ There are those around the world who are being persecuted for their Christian fa
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Summary points {#summary-points}
 
@@ -119,7 +119,7 @@ Nowadays, we have an endless list of things to distract us. You can tell the ori
 - But do we read our Bibles consistently?
 - Technology brings not only the opportunity to study the Bible more deeply and efficiently than ever before, but also the opportunity to distract ourselves more effectively and completely than ever before. So which will we choose?
 
-<!-- --- -->
+<!-- slide-break -->
 
 Unlike nowadays, throughout most of history, the common man did not have easy access to the Bible:
 
@@ -132,7 +132,7 @@ Unlike nowadays, throughout most of history, the common man did not have easy ac
 
 But despite all these very-real disadvantages, people in the early church prioritized the Bible so much that it became the best preserved text document of all history, even in the face of early Roman persecution of Christianity and book-burning relating to such. I should further note that no other historical document even comes close; this is not a minor lead we are talking about here, but several complete orders of magnitude.
 
-<!-- --- -->
+<!-- slide-break -->
 
 So that was them. Despite serious disadvantages, they prized the Bible in keeping with its central importance. What about us? Oftentimes, we make excuses:
 
@@ -143,7 +143,7 @@ So that was them. Despite serious disadvantages, they prized the Bible in keepin
 
 The sad truth is that we oftentimes take the Bible for granted. We do not appreciate that we have been given a blessed opportunity to freely study God's Word, in a way that some people even in our modern world are not able to (for example, due to illiteracy, political persecution, or other things like these). Do we even realize our great privilege in this?
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Follow-on topics {#follow-on-topics}
 
@@ -153,7 +153,7 @@ There are many things to talk about relating to all this. The elephant in the ro
 
 Evangelicals are the most Bible-focused division of mainstream Christianity by a wide margin, which means that if even among this group we are barely over a third, what about everyone else?
 
-<!-- --- -->
+<!-- slide-break -->
 
 What's more, the methodologies of studies like this one very seldom analyze how much is read each time the Bible is opened (for example, a single verse vs. a chapter or more). If what we are interested in tracking is Bible reading involving larger chunks of scripture (such that one might actually read through the whole Bible in a time-frame faster than a decade, say), I'd guess that sort of paradigm only composes a small fraction of the overall "Bible reading" reported by survey participants.
 
@@ -161,7 +161,7 @@ Then there is the fact that the numbers are probably already skewed high relativ
 
 These two observations (i.e., the fact these studies aren't controlling for the length of what is being read, and the tendency for self-reporting in studies like these to have substantial measurement error in regards to behaviors that are perceived to be "prosocial" to the group being measured—like Bible reading for Evangelicals) have nothing to do with pessimism, but are plain statistical fact.
 
-<!-- --- -->
+<!-- slide-break -->
 
 If we do introduce some pessimism in this discussion though, the situation is even more grim. What I mean is that not everybody that reads even a full chapter of the Bible (so a longer chunk than just a couple verses) is really engaging in any sort of thorough, in-depth study—which is the only sort that will yield more than a passing acquaintance with scripture in the long-term.
 
@@ -169,7 +169,7 @@ I am not trying to discourage people from reading the Bible because they are "do
 
 As an example, I find that I cannot typically read much more than a couple verses before bumping into a question or something to look up, no matter how many times I have read some part of the Bible. If you feel like you have no questions or avenues to dig deeper in the text... are you really taking the care to read closely?
 
-<!-- --- -->
+<!-- slide-break -->
 
 "But Steven", you might say, "If I actually do things this way, I'll quickly accumulate pages upon pages of questions. Who do I ask then?"
 
@@ -177,7 +177,7 @@ This is what pastor-teachers are for in the body of Christ, and older Christian 
 
 Only by putting in the time to "dig" will we make deep progress in the truth. God makes us work for it, and that is very intentional on His part (cf. Matthew 13:10-17). So are we willing to put in the work?
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### "But I'm too busy" {#but-i-m-too-busy}
 
@@ -196,7 +196,7 @@ But for most of us, our supposed busyness is basically entirely self-inflicted. 
 
 What does that number come out to be? If you've never tried to measure this, I'd encourage you to give it a try, being brutally honest. You might be shocked by the true numbers.
 
-<!-- --- -->
+<!-- slide-break -->
 
 I bet most people spend tens of hours on the above every week, but maybe only a couple hours on the Bible every week, if that.
 
@@ -206,7 +206,7 @@ We need to stop deluding ourselves, and take ownership of our spiritual growth..
 
 Don't get me wrong, I am not saying Christians are to have no time for rest and relaxation. But clearly we need to put our money where our mouth is. It's a matter of proper priorities, and not being terribly hypocritical in our witness as believers. If we say we believe the Bible is the center of all we do as Christians, well then do we spend our time like we actually believe that?
 
-<!-- --- -->
+<!-- slide-break -->
 
 I should note that the actual "ask" in the Christian life is even bigger than just this; reading the Bible is in fact only the beginning, the very first baby step. To make serious progress in spiritual growth, you are also going to need to be praying consistently, and also taking in good, solid Bible teaching that is deeper than surface-level. (The in-depth bit is important to emphasize, and is where many modern churches fundamentally fail, in that there is more pop-psychology, anecdotes, etc. in their so-called Bible teaching than actual scripture).
 
@@ -214,13 +214,13 @@ It takes all three things together done consistently to make substantial progres
 
 Rather than feeling depressed at how far short we may fall at the moment, I think it is best to find comfort in the fact that we will always have room to grow in this, and will never "max out" our potential to receive ever greater eternal rewards for following God more and more zealously.
 
-<!-- --- -->
+<!-- slide-break -->
 
 In short, God will help us walk in the paths He has laid out for us in all this (i.e., His power, not ours), but we *do* have to use our free will to hand over the reins of our lives to Him, and prove it in how we choose to spend our time in this world.
 
 None of us is even close to perfect in how we allocate our time and focus, myself certainly included. But my own inadequacy and hypocrisy do not mean that reality is any different than what we have just covered. We *all* need to hear this inconvenient truth, and strive to keep it firmly fixed in our conscious awareness rather than letting our self-serving minds bury that which points to us not being nearly so serious as Christians as our lips say we are. Only by refusing to stick our heads in the sand and go back to being distracted, pleasure-addled automatons (convinced somehow that we can actually be "good Christians" without ever doing any of the hard work involved in such) will we be able to see the pressing need for us to focus upon God's truth over the weeds of the world.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Further discussion {#further-discussion}
 

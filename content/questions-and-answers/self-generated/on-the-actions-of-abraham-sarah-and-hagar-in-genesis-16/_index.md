@@ -21,11 +21,11 @@ slides="https://www.bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Is it proper to say that the morality of actions depends upon cultural context? That aside, was Hagar a young girl taken advantage of and pressured into Abraham's bed against her will, or was she a willing adult participant who came to arrogantly disrespect the legitimate authority of her mistress? We will be addressing these matters in our discussion here.
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -35,7 +35,7 @@ Is it proper to say that the morality of actions depends upon cultural context? 
 
 (Before reading this discussion, I recommend reading through Genesis chapter 16 several times)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Q: God's judgment doesn't let people off-the-hook just due to cultural background, right? {#q-god-s-judgment-doesn-t-let-people-off-the-hook-just-due-to-cultural-background-right}
 

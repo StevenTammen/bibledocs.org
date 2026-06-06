@@ -22,11 +22,11 @@ slides="https://www.steventammen.com/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Oftentimes people want a binary answer -- want someone else to give them permission to do whatever it is that they've already decided in their mind. If you are in any position of authority or regularly find people coming to you for advice, you should not indulge people in this. At worst, if it all blows up in their face, they'll use you as a scapegoat and blame you. But even at best, giving too much specific advice will tend to cripple the spiritual discernment that people ought to be honing by praying through things themselves. And if all this weren't motivation enough to steer clear of actually answering such questions, there is also the (not so) small problem that as a third-party outsider, you have absolutely no way of knowing many of the facts that would be relevant in obtaining a full view of the situation. All this to say, since only the people in question have any chance of getting things right, you should probably stay irritatingly evasive if pressed on specifics... even if this leaves people a bit unsatisfied with your answers. Sometimes the only way to spur new growth is to gently push people into making their own important decisions.
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -36,13 +36,13 @@ Oftentimes people want a binary answer -- want someone else to give them permiss
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Q: But must I specifically obey my parents in matter X? {#q-but-must-i-specifically-obey-my-parents-in-matter-x}
 
 You didn't really answer my question. Do I have to obey my parents' wishes for me or not? Yes or No?
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Third parties should not weigh in on specifics {#third-parties-should-not-weigh-in-on-specifics}
 

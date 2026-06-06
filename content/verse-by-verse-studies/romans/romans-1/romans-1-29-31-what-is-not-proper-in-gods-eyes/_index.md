@@ -22,11 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Romans 1:29-31 contains quite a list of things that we ought to avoid—things that characterize those who "do not think it worthwhile to retain the knowledge of God" (Romans 1:28). Because appearances can be deceiving in this world, we ought not blindly trust people and institutions that others hold up as "good"---even if seemingly everyone else agrees—but instead compare them against these standards here, to see for ourselves whether or not they truly are. Because all too often, evil masquerades as good, and many people are deceived completely by the lies. Let us not be among them!
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 
@@ -34,7 +34,7 @@ Romans 1:29-31 contains quite a list of things that we ought to avoid—things t
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 What is not proper in God's eyes?
 

@@ -30,7 +30,7 @@ God makes this proclamation right on the heels of the Israelite's sin regarding 
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 {{% nt t="esv" p="Exodus 34:6-7" h="400px" %}}
 
@@ -46,13 +46,13 @@ God makes this proclamation right on the heels of the Israelite's sin regarding 
 
 God makes this proclamation right on the heels of the Israelite's sin regarding the golden calf. On this page, we will be examining what it means that God says such things even in this context, and what we might take away from such.
 
-
+<!-- summary -->
 
 {{% content %}}
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Recall, some of the great things God had shown to this generation {#recall-some-of-the-great-things-god-had-shown-to-this-generation}
 

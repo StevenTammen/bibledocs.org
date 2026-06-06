@@ -1,6 +1,9 @@
 ---
 title: Illustrating the Trinity
 weight: 110
+stags:
+    - Trinity > Illustrations
+
 layout: content-page
 video: https://www.youtube.com/watch?v=sPdsq-NwiDw
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
@@ -9,10 +12,6 @@ playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcA
 In this lesson we discuss illustrations that seek to help explain the Trinity. Since nothing in this created universe is truly like God, all of these illustrations are necessarily lacking in one way or another, and it is for this reason that we need to be quite wary of reading too much into them. If they help us better wrap our minds around the core teaching of the Trinity (namely, that God exists in three persons sharing one essence), then all to the good. However, we ought not ever build doctrine on top of things that are merely analogies, and analogies that are not even in scripture at that.
 
 <!--more-->
-
-{{< subjects >}}
-<a href="/subject-index/#trinity-illustrations">Trinity > Illustrations</a>
-{{< /subjects >}}
 
 {{% section-navigation %}}
 
@@ -28,11 +27,11 @@ slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 In this lesson we discuss illustrations that seek to help explain the Trinity. Since nothing in this created universe is truly like God, all of these illustrations are necessarily lacking in one way or another, and it is for this reason that we need to be quite wary of reading too much into them. If they help us better wrap our minds around the core teaching of the Trinity (namely, that God exists in three persons sharing one essence), then all to the good. However, we ought not ever build doctrine on top of things that are merely analogies, and analogies that are not even in scripture at that.
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 
@@ -52,50 +51,50 @@ In this lesson we discuss illustrations that seek to help explain the Trinity. S
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Perils in attempting to use illustrations for the Trinity {#perils-in-attempting-to-use-illustrations-for-the-trinity}
 
-{{< subjects >}}
-<a href="/subject-index/#trinity-illustrations-perils-of">Trinity > Illustrations > Perils of</a>
-{{< /subjects >}}
+{{< properties
+stags="Trinity > Illustrations > Perils of"
+>}}
 
 As we discussed in our last lesson, attempting to illustrate such a carefully protected doctrine as the Trinity has the potential of doing more harm than good. The fundamental problem with illustrations of the type we will consider in a moment is that they all necessarily contain potentially dangerous and untrue points of comparison, which, if too much stress be placed upon them, run the real risk of leading to heretical conclusions, a danger that far outweighs any good they may do in attempting to shed some light on the subject.
 
 The number one objection to such illustrations is that God is divine, and since nothing and no one else is, *any* illustration will needs be imperfect and inaccurate (a fact which may well explain why no such illustrations occur in the Bible: Is.40:18). And there is more. Historically, Satan's attacks on the doctrine of the Trinity – a teaching crucial to the integrity of our Christian faith – have focused on the three-fold sovereign *personality* of God and/or His *deity* in three persons. But this reality of divine, triune personality is precisely the point that all illustrations of the Trinity miss (of necessity, since there is nothing "like" the Trinity).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### An illustration from the early church: the Trinity "triangle" {#an-illustration-from-the-early-church-the-trinity-triangle}
 
-{{< subjects >}}
-<a href="/subject-index/#trinity-illustrations-trinity-triangle">Trinity > Illustrations > Trinity triangle</a>
-{{< /subjects >}}
+{{< properties
+stags="Trinity > Illustrations > Trinity triangle"
+>}}
 
 This oldest of the Trinity illustrations is also in many ways the best, because the non-doctrinal point of comparison (i.e., the triangle) merely serves to organize visually the meaning imparted by the words: all three members of the Trinity are God ("*one in essence*"), yet they are distinct from each other ("*three in person*"):
 
 <!-- TODO -->
 ![The Trinity Triangle](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/illustrating-the-trinity/trinity-triangle.gif)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The illustration of the family of Man {#the-illustration-of-the-family-of-man}
 
 Like the Trinity, mankind has multiple members, all possessed of similar, spiritual essences. But the Trinity *share* a unique, divine essence, and their triune unanimity of purpose is unlike anything in the realm of humanity.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The illustration of the human mind {#the-illustration-of-the-human-mind}
 
 Like the Trinity, the mind can be said to be at once one thing, yet at the same time several things (intellect, emotion, conscience, etc.) and can dialogue with itself, and even be at cross-purposes with itself. But the Trinity is composed of distinct, divine personalities to which the inner-workings of our psyches make a poor comparison.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Illustrations from the world of nature {#illustrations-from-the-world-of-nature}
 
 There are many things in the natural world that consist of distinct, multiple parts that at the same time constitute one complete whole. For example, distinguishable branches, roots and trunk are all part of one and the same tree, and eggs have three distinct parts (yolk, white and shell) without any of which three you would no longer have an egg. None of the illustrations of this sort really help to explain the unique personalities of the Trinity or their shared divine essence.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Illustrations from the physical realm {#illustrations-from-the-physical-realm}
 
@@ -107,7 +106,7 @@ This category of illustration contains some of the more interesting examples tha
 - Space is one yet distinct: length, breadth, and height
 - Matter is one yet distinct: energy, matter, phenomnea
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Conclusions: these illustrations are only the loosest of analogies at best {#conclusions-these-illustrations-are-only-the-loosest-of-analogies-at-best}
 

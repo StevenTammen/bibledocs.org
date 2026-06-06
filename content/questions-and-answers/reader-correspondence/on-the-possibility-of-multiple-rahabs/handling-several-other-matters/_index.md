@@ -22,11 +22,11 @@ slides="https://www.steventammen.com/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 This lesson handles a couple other objections that some people raise in trying to argue that the Rahab in Matthew's genealogy is not the prostitute of Joshua 2. The chronology to make this identification work does demand some long lifespans, but that is far from unprecedented in this exact period (compare Caleb still being strong and vigorous at the tender young age of...  eighty-five -- see Joshua 14:10-11). There is also the matter that neither Joshua nor other sources (like Josephus, for example, who repeats the story of the spies) states directly that Rahab the prostitute married Salmon. But the absence of evidence is not the evidence of absence (that's a classical logical fallacy). This lesson also ends with an attached exchange I had with my mentor about the transliteration of Rahab's name in one of the earliest full NT manuscripts we have (Sinaiticus). The upshot: transliteration is so inconsistent it is best to not ever make great hay of it, here included.
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps}
  -->
@@ -36,13 +36,13 @@ This lesson handles a couple other objections that some people raise in trying t
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### "It's not the same Rahab because the chronology does not work" {#it-s-not-the-same-rahab-because-the-chronology-does-not-work}
 
-{{< subjects >}}
-<a href="/subject-index/#chronology-long-lifespans-do-not-necessarily-pose-problems">Chronology > Long lifespans do not necessarily pose problems</a>
-{{< /subjects >}}
+{{< properties
+stags="Chronology > Long lifespans do not necessarily pose problems"
+>}}
 
 {{% quote src="http://www.outsidethecamp.org/rahab.htm" text="OutsideTheCamp.org" %}}
 "[L]et us assume for a moment that Salmon did marry Rahab the harlot within a year or so of the fall of Jericho, and that Boaz was born a year or so after that. If such were the case, then Boaz would have been about 115 years old when he married Ruth! On the other hand, if we assume that Rahab was about 30 years of age when Jericho fell, and that Salmon did not marry her till 30 years or more later, then not only would Rahab have been at least 60 years of age and no longer able to bear children, but Boaz, even if born 30 years after the fall of Jericho, would still have been 85 years of age when he married Ruth... Thus all the evidence confirms the fact that Salmon did not marry Rahab the Canaanite harlot."
@@ -50,7 +50,7 @@ This lesson handles a couple other objections that some people raise in trying t
 
 This is an argument that deals with the chronology of Israel before the Davidic Kingdom. While scholars still debate some, the time spans are greater than normal life spans by our standards, but of course that means very little. 
 
-<!-- --- -->
+<!-- slide-break -->
 
 Here is what a friend and mentor of mine has to say about the matter (please see [here](https://ichthys.com/mail-Bible-InterpretationV.htm#:~:text=Bob%20L.-,question%20%238), question/response 8):
 
@@ -58,13 +58,13 @@ Here is what a friend and mentor of mine has to say about the matter (please see
 "The chronology here has bothered some in the past, and some have tried to solve the "problem" of too much time between Salmon and David by suggesting that some names have been left out of the list and only the famous included. That, I think, is a questionable approach. Extremely long life-spans among Old Testament believers are certainly not unprecedented, even after the flood. Jacob lived to be over 130 years old (Gen.47:9), and given that Benjamin still seems to be a fairly young lad during the episode of Joseph's time in Egypt, it seems that he must have been at least a hundred when Benjamin was born. We should therefore understand that the generation which entered into the land of promise and those immediately thereafter must likewise have been blessed with exceptional length of days and continued fecundity into old age (at least among the godly believers) which would be remarkable by today's standards. After all, even before he entered into the land, Caleb could say in truth "So here I am today, eighty-five years old! I am still as strong today as the day Moses sent me out; I'm just as vigorous to go out to battle now as I was then" (Josh.14:10-11 NIV). And Caleb was still active in the period of conquering the land for many years to come thereafter (cf. Judg.1:12-15). So the fact that between Salmon (who I would argue must have been one of the two spies whom Rahab protected) to Solomon's reign we have well over four hundred years but only four additional males in the line (i.e., Boaz, Obed, Jesse, David) only seems problematic for those who wish to overlook these other biblical facts. David, for example, was the youngest of eight brothers (1Sam.16:10), so we are safe to conclude that Jesse sired him in his old age. And of course Boaz was also an older man when he married Ruth (cf. Ruth 2:1; 3:10). As I say, while this sequence would be remarkable in our day and age, it would have been much less so at the time -- and what genealogy, after all, is more remarkable in every way than that of our Lord?"
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### "Neither Josephus nor Joshua mention a marriage between the prostitute Rahab and Salmon" {#neither-josephus-nor-joshua-mention-a-marriage-between-the-prostitute-rahab-and-salmon}
 
-{{< subjects >}}
-<a href="/subject-index/#josephus">Josephus</a>
-{{< /subjects >}}
+{{< properties
+stags="Josephus"
+>}}
 
 {{% quote %}}
 Joshua 6:25 states that Rahab was given land in the midst of Israel in return for risking her own life by hiding the two spies that were sent to Jericho. Josephus in his "Antiquities of the Jews", Book 5 chapter 1, sections 2 and 7, records the same story but neither he nor Joshua make any reference to a marriage taking place between Rahab and Salmon. That deafening silence is itself the strongest proof that no such marriage did take place...
@@ -76,7 +76,7 @@ Disregarding the above, this is another classic example of the statement "the ab
 
 Hopefully all this has answered your question. Do feel free to email back if you have more questions!
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Steven asking Dr. Luginbill of Ichthys.com for clarification on the text of Sinaiticus {#steven-asking-dr-luginbill-of-ichthys-com-for-clarification-on-the-text-of-sinaiticus}
 
@@ -96,13 +96,13 @@ With respect to the actual email, I guess there actually is one thing I want to 
 
 For Matthew 1:5, This seems to match the TR, and goes against my whole argument. (I checked and it's Ῥαάβ at the the other two occurrences in Sinaiticus). Is this right or wrong? How should I explain the occurrence of the χ in Rahab's name to my friend if it is actually the correct reading?
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Dr. Luginbill of Ichthys.com responding {#dr-luginbill-of-ichthys-com-responding}
 
-{{< subjects >}}
-<a href="/subject-index/#transliteration-of-names-places-etc-is-not-consistent-in-scripture">Transliteration of names, places, etc. > Is not consistent in scripture</a>
-{{< /subjects >}}
+{{< properties
+stags="Transliteration of names, places, etc. > Is not consistent in scripture"
+>}}
 
 Hi Steven,
 

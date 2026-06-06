@@ -32,7 +32,7 @@ On this page, we will be examining the idea that our faith leads to certain outc
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 This week, our Workbook made several points:
 
@@ -44,13 +44,13 @@ In the Bible, faith is always God-centered. The writer of Hebrews does not encou
 
 On this page, we will be examining the idea that our faith leads to certain outcomes if and only if said outcomes are in the Will of God. In other words, we do not get to twist God's promises into whatever we might want them to be.
 
-
+<!-- summary -->
 
 {{% content %}}
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Not everything we ask for is a guarantee {#not-everything-we-ask-for-is-a-guarantee}
 
@@ -66,7 +66,7 @@ God will always do what is best for us spiritually (compare Romans 8:28-30), eve
 
 Where I'm going with this is not so much that we ought to pray that we might suffer or not pray that we might be delivered from it, but simply that we must make a point to not get angry at God if we pray to avoid suffering yet find ourselves being tested with it nonetheless. Because God knows so much better than we ever could what is truly best for us.
 
-<!-- --- -->
+<!-- slide-break -->
 
 What we are going to talk about now is basically when certain parties take the "whatever" of John 14:13, and start plugging in things that have no business being there. And then get mad at God because "we ought to have certain faith in God's promises, and God promised He would give us whatever we asked!"
 
@@ -74,7 +74,7 @@ Many people might here roll their eyes and remark that they would never engage i
 
 So, for example, we might become angry at God if a family member is sick and we pray for their healing but they die from their illness instead. Or perhaps we pray for continued employment to provide for our family in the midst of an economic recession, and yet we lose our jobs. We prayed these things in Jesus' name, did we not? So why did they not happen? Doesn't John 14:13 say that whatever we pray in the name of Jesus He will do for us? So what gives?
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The only things we can be certain of are God's promises as related in the Bible, not our own desires or even what others might call God's promises {#the-only-things-we-can-be-certain-of-are-god-s-promises-as-related-in-the-bible-not-our-own-desires-or-even-what-others-might-call-god-s-promises}
 
@@ -92,7 +92,7 @@ In broad strokes, God's promises are not individual things in our lives like spe
 
 Some of the hardest situations we may have to navigate in our lives are when we cannot see the reasons for something—like the death of a loved one, like war and disease and genocide. We might pray for specific outcomes relating to some of the horrors of the world, only to find ourselves still afflicted, not spared in the way we might wish.
 
-<!-- --- -->
+<!-- slide-break -->
 
 When we are tempted to bitterness in such times, it would do us well to remember that God does *not* in fact promise us blissful lives free from suffering and pain, even though some people falsely claim so. He promises us many things, but actually many of the things that people might think would be promises of God—things that they've heard others call promises of God, things that they *want* to be promises of God—many of these things are not in fact promises of the certain variety. And that can be a hard lesson for us.
 

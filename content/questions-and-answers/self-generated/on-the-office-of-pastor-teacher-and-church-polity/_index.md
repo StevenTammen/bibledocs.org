@@ -37,7 +37,7 @@ This lesson goes over the responsibilities pastor-teachers have in the Church --
 
 ### Content {#overview-of-the-office-of-pastor-teacher-in-the-church-and-how-church-polity-needs-to-be-flexible-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Q: What exactly is the role of an "elder" or "pastor" in the Church? {#overview-of-the-office-of-pastor-teacher-in-the-church-and-how-church-polity-needs-to-be-flexible-q-what-exactly-is-the-role-of-an-elder-or-pastor-in-the-church}
 
@@ -174,7 +174,7 @@ In this lesson we examine in more detail a couple of the requirements for elders
 
 ### Content {#do-elders-need-to-be-physically-old-do-they-need-to-be-married-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Q: Do elders need to be, well, elderly? Do they need to be married? {#do-elders-need-to-be-physically-old-do-they-need-to-be-married-q-do-elders-need-to-be-well-elderly-do-they-need-to-be-married}
 
@@ -291,7 +291,7 @@ In this lesson we go over some specifics in a bit more detail, and also briefly 
 
 ### Content {#additional-clarification-and-other-offices-in-the-church-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Q: Am I understanding everything correctly? What about other offices in the Church? {#additional-clarification-and-other-offices-in-the-church-q-am-i-understanding-everything-correctly-what-about-other-offices-in-the-church}
 
@@ -303,7 +303,7 @@ It's spiritual age rather than chronological age that is really important, altho
 
 Is this correct?
 
-##### Q2. On Timothy's age {#additional-clarification-and-other-offices-in-the-church-q2-on-timothy-s-age}
+##### Q2. On Timothy's age {#additional-clarification-and-other-offices-in-the-church-q2-on-timothys-age}
 
 Paul's statements about Timothy's youth would thus be targeted at getting old people to listen to a full-grown man (albeit a rather young one) rather than a child, right?
 
@@ -337,7 +337,7 @@ This is essentially correct (although see the discussion on culture and adulthoo
 
 Do also note that it is probably right and good for some young people -- those beginning to manifest leadership and teaching gifts -- to step up and help lead their peers within their own age group. This is different from these people completely taking on the Church office of pastor-teacher, but it is nonetheless worth mentioning.
 
-##### A2. On Timothy's age {#additional-clarification-and-other-offices-in-the-church-a2-on-timothy-s-age}
+##### A2. On Timothy's age {#additional-clarification-and-other-offices-in-the-church-a2-on-timothys-age}
 
 Yes, you have it right here -- Paul's comments in 1 Timothy 4:12 are aimed at getting people to listen to a full-grown man (even if a young one), not a child. Paul picked up Timothy on his second missionary journey (see Acts 16:1ff). Regardless of Timothy's exact age at this point, he traveled with Paul and Paul's other companions for some time. (This large dose of serious life-experience no doubt helped Timothy grow up quickly if he wasn't already mature before joining Paul's party). Without getting into the nitty-gritty details of dating Paul's writings, Paul wrote 1 Timothy a good number of years after first picking up Timothy. Common sense tells us that Timothy must have been at least a somewhat older teenager before joining Paul (since travel in antiquity was so harsh and inhospitable, he would have been an immense burden in the traveling otherwise), so he's likely in his 20s or 30s when Paul is writing 1 Timothy 4:12. (And of course Paul had handed him the reigns of leadership in Ephesus some time before this -- compare 1 Timothy 1:3).
 
