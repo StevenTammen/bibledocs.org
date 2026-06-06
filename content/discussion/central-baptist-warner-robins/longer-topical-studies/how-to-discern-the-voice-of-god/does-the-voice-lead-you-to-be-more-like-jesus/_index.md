@@ -28,7 +28,7 @@ This week's lesson starts on page 103 of the workbook, and was what we went thro
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 This week, our Workbook used passages from Colossians 3 to discuss the transformation that God works within us as Christians. Over time—if you do as you ought in learning, believing, and applying God's Truth, as contained in the Bible—you will "put off the old self with its practices" (Colossians 3:9) and "put on the new self... being renewed in knowledge according to the image of your Creator" (Colossians 3:10).
 
@@ -40,7 +40,7 @@ The point of all this is that scripture is full of this talk of us being ever mo
 
 This week's lesson starts on page 103 of the workbook, and was what we went through on 02/26/2023.
 
-
+<!-- summary -->
 
 {{% discussion-pages %}}
 

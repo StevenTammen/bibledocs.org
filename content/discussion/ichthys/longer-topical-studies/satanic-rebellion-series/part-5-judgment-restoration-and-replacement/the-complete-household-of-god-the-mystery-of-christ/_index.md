@@ -28,13 +28,13 @@ In the Church age, God has chosen to send the Holy Spirit, and *everything* abou
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Certain Old Testament believers prophesied about the sufferings of the Messiah, but many of the details surrounding the incarnation and sacrifice of Jesus Christ were not revealed until the first advent. Likewise, the widespread expansion of God's family to include the gentiles was predicted in scripture, but not well understood until the event took place. The great "mystery of God" (a mystery that even angels longed to understand), is thus the coming of the Savior in true humanity and His sacrifice for the sins of the world, and the great influx of believing gentiles into God's family.
 
 In the Church age, God has chosen to send the Holy Spirit, and *everything* about gentile salvation rests upon the ministry of the Spirit, for if Israel largely rejected her Messiah, how could the gentiles - so much farther from God - be reconciled to Him? The present hardness of Israel will persist until all the gentiles destined for salvation have come into God's family. However, throughout the generations there has always been a remnant of believing Jews, and this present hardness of Israel will soon reverse and salvation among the Jews will rise in the last days, culminating in a glorious multitude of believing Jews at the second advent of the Messiah. The restoration of Israel did not occur immediately after the Messiah's first advent, but will occur after the completion of the calling of the gentiles, and this is the "mystery" we have been experiencing since the victory of the cross. 
 
-
+<!-- summary -->
 
 {{% content %}}
 

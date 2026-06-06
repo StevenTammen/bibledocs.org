@@ -24,11 +24,11 @@ slides="https://www.bibledocs.org/slides/questions-and-answers/reader-correspond
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Answering the question "what happens after a human being dies physically—where do they go, and what is their experience like?" is deceptively complex. Are we talking about a believer, or an unbeliever? Are we talking before Christ's ascension, or after Christ's ascension? Are we talking in the short term, or what the eternal state will be? We'll get into some of the specifics of all this in this lesson, with the ultimate goal of showing that people who are resuscitated do not ultimately end up in the final state any different than people who die once and stay dead. Both sorts of people (those who are resuscitated, those who are not) ultimately die once for all in the end, and in that unavoidable conclusion to every mortal's time upon this Earth, all humanity faces much the same afterlife. Those who are resuscitated back into their mortal bodies (in a demonstration of God's miraculous power over life and death) will face death again all the same, and end up in the same places as those who were not so raised. Only final *resurrection* (contrast *resuscitation*) will render us truly impervious to death's sting.
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 

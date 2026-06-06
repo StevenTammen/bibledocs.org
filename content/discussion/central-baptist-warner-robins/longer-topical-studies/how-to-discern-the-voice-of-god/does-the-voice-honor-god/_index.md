@@ -72,7 +72,7 @@ This week's lesson starts on page 95 of the workbook, and was what we went throu
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 This week, our Workbook took us through part of John 17, Jesus' prayer towards the end of the upper room discourse (which had begun in John 13).
 
@@ -128,7 +128,7 @@ Jesus gave up everything for the glory of the Father. Are we willing to do the s
 
 This week's lesson starts on page 95 of the workbook, and was what we went through on 02/19/2023.
 
-
+<!-- summary -->
 
 {{% discussion-pages %}}
 

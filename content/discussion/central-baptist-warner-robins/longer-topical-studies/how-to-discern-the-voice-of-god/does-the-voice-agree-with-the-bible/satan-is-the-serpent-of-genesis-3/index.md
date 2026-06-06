@@ -25,13 +25,13 @@ The issue with this sort of argument is that you could well say that Isaiah 52:1
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 When discussing the serpent of Genesis 3, it is natural to ask if this is Satan we are talking about here. There has been a certain amount of scholarship of late that has scoffed at Christians "reading the devil back into the Old Testament" (as they would phrase it)---arguing that the specific being discussed in the Old Testament did not at time of writing have overtones of supernatural evil, and that it is only possible to view things that way by back-reading the New Testament. (This, they say, means that the Old Testament does not itself "support" viewing Satan as a supernatural adversary of God).
 
 The issue with this sort of argument is that you could well say that Isaiah 52:13ff. (the prophecy concerning the suffering servant), the virgin birth (Isaiah 7:14), and Psalm 22 (a Messianic Psalm) are in similar fashion "reading Jesus back into the Old Testament." Is that an appropriate attitude to take towards God's truth? Honestly, past a certain point, it is not worth our time debating with people who think it is unreasonable to interpret the Old Testament in light of the New Testament, since both are the Word of God. But in this discussion, we will nonetheless examine the personage of Satan in the Old Testament, and how we can identify the serpent of Genesis 3 with him. Even if it means we quote from the New Testament.
 
-
+<!-- summary -->
 
 {{% content %}}
 

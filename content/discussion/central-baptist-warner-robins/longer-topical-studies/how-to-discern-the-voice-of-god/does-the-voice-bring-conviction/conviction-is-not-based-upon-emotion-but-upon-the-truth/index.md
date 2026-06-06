@@ -30,7 +30,7 @@ Of course, many times, people believe things that are false due to a veritable "
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 In an earlier discussion page from this week, we examined the fact that it is [completely possible for human beings to deceive themselves and yet be completely unaware of such](/discussion/central-baptist-warner-robins/longer-topical-studies/how-to-discern-the-voice-of-god/does-the-voice-bring-conviction/on-the-human-capacity-for-self-deception). I did not particularly break out the root causes of self-deception there, but it turns out that there are a couple different umbrella categories.
 
@@ -40,7 +40,7 @@ On the other hand, others lie to themselves by making it all about how they feel
 
 Of course, many times, people believe things that are false due to a veritable "cocktail" of rationalizations and presuppositions and mental gymnastics. These things are not necessarily mutually exclusive with each other, in other words. Nonetheless, on this page, we are going to briefly examine just the relationship between emotion and conviction, and make a case that true conviction is based primarily upon the truth as contained in the Word of God, not emotion.
 
-
+<!-- summary -->
 
 {{% content %}}
 

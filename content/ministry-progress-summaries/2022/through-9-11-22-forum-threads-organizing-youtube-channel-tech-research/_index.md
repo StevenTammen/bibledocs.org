@@ -22,11 +22,11 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/throug
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 This first summary video here, I go over all of the things that happened in the first couple weeks since ministry launch. Even though we had a three-day weekend in here, I got really caught up in a forum conversation, and didn't perhaps make as much forward progress as I had initially thought I might. I also spent a lot of time researching various things relating to technology to hopefully make future video content better for this ministry. But, nonetheless, I did get a number of things done, especially in terms of organizing the YouTube channel more. 
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 

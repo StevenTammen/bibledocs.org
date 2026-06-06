@@ -26,11 +26,11 @@ In this lecture we will look at the Merovingian dynasty. With the fall of the We
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 TODO: Summary
 
-
+<!-- summary -->
 
 
 {{% content %}}

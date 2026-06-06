@@ -27,11 +27,11 @@ slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 In this lesson, we are going to be starting an examination of a new topic in our study of God: the Trinity. God existing in three persons yet with one shared essence is about as core a concept as any we have in Christianity, which is one of the reasons that heresies related to the Trinity have been among the most existential of all threats to truth in the Church. This being the case, it is very important for us to understand the ins and outs of this keystone doctrine, so that we may stand firm in the truth of the Bible and its teaching.
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 

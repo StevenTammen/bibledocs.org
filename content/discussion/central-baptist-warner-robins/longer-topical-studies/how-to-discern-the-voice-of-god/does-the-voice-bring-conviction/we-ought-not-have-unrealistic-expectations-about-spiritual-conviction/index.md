@@ -25,13 +25,13 @@ It is a good question, for if we spend lots of time with an ear to the ground, l
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 One of the most natural questions to ask when the topic of spiritual conviction comes up, in my opinion, is the question of exactly what matters it typically applies in, and how far it goes. Are we given a wealth of detailed guidance, or only the barest hint of an outline as how we ought to order our behavior? Which extreme is the reality of the situation actually closer to?
 
 It is a good question, for if we spend lots of time with an ear to the ground, listening for answers about things that God will in no way give us specific guidance on, at best we waste our time, and at worst we will come to listen to some voice that is *not* from God. So it does make sense to discuss the topic of exactly what conviction means for us as Christians, and whether we should regularly expect it in our lives. This page will set out to discuss such things.
 
-
+<!-- summary -->
 
 {{% content %}}
 

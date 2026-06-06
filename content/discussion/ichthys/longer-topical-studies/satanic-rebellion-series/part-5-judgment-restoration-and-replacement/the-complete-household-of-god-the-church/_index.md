@@ -29,14 +29,14 @@ Given Israel's uniqueness and God's prior focus on them, the calling out of the 
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 God's purpose for human history is the refilling of His family, the replacement of fallen angels one for one with believing human beings, until the body of Christ - the Church - is complete. From the Gentile fathers, to the faithful Jewish believers of Israel, to the wave of believers in the Church age, we are all part of Christ's body, His bride. Thus, the Church is composed not only of believers *since* the day of Pentecost, but of all believers *throughout* the first six millennial days (Millennial believers, the "friends of the bride", are Christ's "double portion" and not included in the numerical replacement of the devil and his demons). 
 
 The first four thousand years of human history (i.e., the Gentile and Jewish ages) passed with only a (relatively) few people saved. Since Satan knows that believing humanity will replace fallen angels to the exact number, and that God's plan for human history will follow the seven millennial day pattern, then prior to Pentecost he must have felt that God could not fulfill the necessary replacement number on time. 
 Given Israel's uniqueness and God's prior focus on them, the calling out of the Gentiles in large numbers after Christ's victory on the cross must have surprised Satan, despite it being foreshadowed by Old Testament prophecy. The Church - the universal assembly of believers throughout the ages - are the "elect", those chosen out of the devil's world because of and for ***the*** elect, ***the*** chosen One, Jesus Christ.
 
-
+<!-- summary -->
 
 {{% content %}}
 

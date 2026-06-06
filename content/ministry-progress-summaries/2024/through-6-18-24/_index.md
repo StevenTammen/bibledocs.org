@@ -24,11 +24,11 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2024/throug
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 This cycle I mostly spent time finishing remaining tasks in my command line application to automate video processing. Many of these things have been long-term goals of mine for a long time now, so it is nice to see everything finally come together.
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 

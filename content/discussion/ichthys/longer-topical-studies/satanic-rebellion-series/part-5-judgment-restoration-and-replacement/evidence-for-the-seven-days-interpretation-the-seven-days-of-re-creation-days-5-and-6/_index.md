@@ -27,13 +27,13 @@ In millennial day five, the gospel is taken to the Gentiles for the first time, 
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 In this lesson we will continue our study on how each of the Genesis days of re-creation correspond to one millennial day of human history. Here we are covering days five and six, which deal exclusively with filling. In day five of re-creation, God creates aquatic life and bird life, filling the waters and the sky. In day six of re-creation, God creates land animals, and finally, He creates Man (a type of Christ as rightful ruler of the earth). The creation of man at the end of the sixth day is also symbolic of the completion of God's family which will occur at the end of the sixth millennial day, as willing human beings replace fallen angels. 
 
 In millennial day five, the gospel is taken to the Gentiles for the first time, leading to an explosion in numbers of the family of God on Earth (corresponding to God's creation of aquatic and bird life, a quantum leap in the re-filling of the once empty world). The fifth millennial day is also characterized by the collection and distribution of the holy scriptures into one, complete Bible, and the emergence of the infrastructure necessary for studying and teaching it in its original languages. In millennial day six, the spread of the gospel across the globe has led to the re-filling of God's family with people from nearly every nation and tongue, creating the worldwide Church of Jesus Christ which extends to even the ends of the earth (corresponding to God's creation of terrestrial life, which finally spread creature life to every part of the world, whether the sea, sky, and land). The gospel's global worldwide spread will eventually reach its conclusion at the end of millennial day six, with the belief of the very last replacement members of the family of God, at which point Jesus Christ will return.
 
-
+<!-- summary -->
 
 {{% content %}}
 

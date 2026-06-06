@@ -22,11 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Genesis 2:23-24 and Matthew 19:4-6 make it clear what God holds to be natural in human sexuality: that sexual relations are to be limited to a man and a woman who are married to each other. From the outset, this inherently rules out all other "possibilities".
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 

@@ -22,11 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Since all of us struggle with different areas of sin, it does not seem to me to pose any theological problems to hypothesize that it is possible that temptation in the matter of homosexuality is ultimately something outside the control of human free will. However, that does not excuse giving into the temptation in the least—any more than it is ever OK to give into sexual temptations of the heterosexual variety. Moreover, due to our culture's and media's idolization of sexual deviance, it seems quite likely to me that the supposed numbers here are artificially inflated via so-called "copycat effects".
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 

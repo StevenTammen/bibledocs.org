@@ -25,13 +25,13 @@ Although there is much to say concerning these people specifically, on this page
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 The passage that our workbook quoted from this week, Hebrews 11, describes some of the "heroes of the faith"---believers of the past who are specially commended for their actions of faith.
 
 Although there is much to say concerning these people specifically, on this page we will be examining the general concept of drawing inspiration from the faith of others, and how we might do that in our personal lives, alongside drawing inspiration from exemplary believers mentioned in scripture.
 
-
+<!-- summary -->
 
 {{% content %}}
 

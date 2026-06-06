@@ -22,13 +22,13 @@ This week's lesson starts on page 63 of the workbook, and was what we went throu
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 In our examination of how to discern the voice of God, the natural and most important place to start is with the question of whether or not the voice agrees with the Word of God. Put simply, God will never lead us into anything that runs counter to His Word; any voice that does is not His. The Bible is perfect... although we need to be careful, because even though that is true, our understanding of it may not be! It takes spiritual growth to be able to know what it is the Bible actually says, so that we may use it as the measuring stick by which we evaluate all things.
 
 This week's lesson starts on page 63 of the workbook, and was what we went through on 01/22/2023.
 
-
+<!-- summary -->
 
 {{% discussion-pages %}}
 

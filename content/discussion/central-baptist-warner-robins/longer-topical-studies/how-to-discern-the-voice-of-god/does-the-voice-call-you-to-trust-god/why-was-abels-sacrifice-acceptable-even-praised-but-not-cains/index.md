@@ -26,13 +26,13 @@ People have an easy time understanding why Cain was punished after he murdered h
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Hebrews 11:4 says that by faith Abel was approved as a righteous man on account of the sacrifice that he gave to God, and that his sacrifice was better than Cain's.
 
 People have an easy time understanding why Cain was punished after he murdered his brother. But why was Abel's sacrifice pleasing to God to begin with, but not Cain's? That is the question that this page will set out to answer.
 
-
+<!-- summary -->
 
 {{% content %}}
 

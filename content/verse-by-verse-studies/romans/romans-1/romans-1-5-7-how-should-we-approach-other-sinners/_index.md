@@ -22,11 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 God's banquet table has plenty of seats waiting to be filled. It is our duty to invite people to join us at the banquet—not that we can force them to come, but we do still need to give them the invitation. All are invited to the feast, even sinners. Although since few choose to respond, few are chosen (cf. Matthew 22:14).
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 

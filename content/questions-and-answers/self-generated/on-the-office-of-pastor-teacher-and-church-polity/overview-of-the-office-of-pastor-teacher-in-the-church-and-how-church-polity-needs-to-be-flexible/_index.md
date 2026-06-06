@@ -20,11 +20,11 @@ slides="https://www.bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 This lesson goes over the responsibilities pastor-teachers have in the Church -- all of which revolve entirely around the Word of God. Different teachers can exercise this same gifting in different ways, all while individually following the paths God has laid out before them. For this reason, flexibility in church polity (that is, local church organization and governance) is very much a feature not a bug, despite what groups that emphasize ritual might say to the contrary.
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 

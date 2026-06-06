@@ -24,11 +24,11 @@ slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 All appearances of the The (definite article) Angel of the Lord in the Old Testament were appearances of a pre-incarnate Jesus Christ, the second member of the Trinity. The Angel of the Lord appeared many times during the Exodus of God's people from Egypt (and their subsequent journey into the promised land), and also appeared in various other places in the Old Testament as well, before such people as Abraham, Joshua, Gideon, and so on.
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 

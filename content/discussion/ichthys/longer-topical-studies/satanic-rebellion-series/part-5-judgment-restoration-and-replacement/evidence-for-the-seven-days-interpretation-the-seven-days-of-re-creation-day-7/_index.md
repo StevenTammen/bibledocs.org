@@ -27,13 +27,13 @@ God blessed the seventh day of the Genesis re-creation, setting it apart as holy
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 The seventh day is the final one in God's plan for human history. As we have seen previously, each Genesis day of re-creation corresponds to one millennial day of human history. The seventh Genesis day of rest and the Millennium are mirror images of one another and their order corresponds in the sequence of seven: a crowning end to God's perfect, completed work. In the Genesis re-creation, the seventh day of rest followed the reconstruction and refilling of the physical world. The millennium (the final one thousand years in God's plan for human history) will follow God's completion of the Church, the reconstruction and refilling of His family (which was depleted by the rebellion of Satan and his fallen angels). 
 
 God blessed the seventh day of the Genesis re-creation, setting it apart as holy, a special memorial to God's holiness, faithfulness, and goodness. The millennium is likewise a time sanctificed by the Lord, when creation will be redeemed and humanity will flourish under the perfect rule of Jesus Christ. God will reclaim direct control over the earth, and man too will reclaim their rightful control over the earth (which had been lost in the fall); Jesus Christ, the Last Adam, will reclaim that which was lost by the first Adam. The wedding of the Lamb is the resurrection of all believers just prior to the commencement of the millennium, when Christ is united to His Church forevermore. The millennial believers are the "friends of the bride" who are invited to the wedding *supper* of the Lamb, Christ's double portion given to Him throughout that time of rejoicing and celebration that lasts the full one thousand years. So it is that the process of God restoring the world under the personal rule of Christ will not just undo the damage of the fall, but will actually lead to an abundance greater even than initial paradise. 
 
-
+<!-- summary -->
 
 {{% content %}}
 

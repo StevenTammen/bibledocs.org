@@ -24,11 +24,11 @@ The cherubim (the fourfold angelic guardians of God's chariot-throne), have take
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 The cherubim (the fourfold angelic guardians of God's chariot-throne), have taken over some of the responsibilities Satan used to have in his duties before his rebellion, but more importantly, also serve to point to Satan's true replacement: Jesus Christ, the God-Man. Each of the four faces that these angels possess represents a "mission" that Jesus has undertaken/will undertake as humanity's liberator and champion.
 
-
+<!-- summary -->
 
 {{% content %}}
 

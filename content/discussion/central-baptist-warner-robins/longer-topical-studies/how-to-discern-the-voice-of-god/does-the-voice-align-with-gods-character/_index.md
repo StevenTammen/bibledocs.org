@@ -32,7 +32,7 @@ This week's lesson starts on page 87 of the workbook, and was what we went throu
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Our Workbook uses Exodus 34 (particularly Exodus 34:6-7) to help illustrate the character of God. The voice of God will always align with His character.
 
@@ -48,7 +48,7 @@ If we take the time to come to know God, to understand His character through the
 
 This week's lesson starts on page 87 of the workbook, and was what we went through on 02/12/2023.
 
-
+<!-- summary -->
 
 {{% discussion-pages %}}
 

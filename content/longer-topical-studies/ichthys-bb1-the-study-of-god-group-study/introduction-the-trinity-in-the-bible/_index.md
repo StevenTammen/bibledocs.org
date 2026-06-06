@@ -24,11 +24,11 @@ slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 In this lesson, we go over how the Trinity can be a tricky concept to understand and explain, which makes it very important to keep our focus on the Bible when discussing it. Otherwise, we might otherwise end up off in the weeds, which is certainly not where we want to be in our understanding of this core doctrine of Christianity.
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 

@@ -22,11 +22,11 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/throug
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Unfortunately, I didn't get through quite as much I had hoped this cycle, in terms of forward progress I think most people will actually care about. I did write up a draft for documentation on discussion pages, but wasn't able to completely finish since I was waiting to take screenshots until I had a couple more discussion pages fleshed out, but then was blocked from actually doing that (temporarily) for various reasons. I got even more stuff done on the "workflow" side of things -- continuing to set up voice recognition, handling Markdown in Microsoft Word, mics and monitors, etc. -- still maintaining the hope that eventually all this upfront work will be worth it, and I can kick production into full gear.
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 

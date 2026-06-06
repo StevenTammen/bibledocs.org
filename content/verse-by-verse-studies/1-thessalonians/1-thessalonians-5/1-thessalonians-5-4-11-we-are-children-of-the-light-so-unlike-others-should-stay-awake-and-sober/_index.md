@@ -22,11 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 In 1 Thessalonians 5:4-11, Paul exhorts us to be awake and sober, for we are not children of darkness, but children of the light. Despite modern Christianity's distaste for and avoidance of eschatology, we need to do our homework here and be watchful, so that we will be ready for our Master's return. Our waiting should be marked by faith, hope, and love, because “God did not appoint us to suffer wrath but to receive salvation through our Lord Jesus Christ. He died for us so that, whether we are awake or asleep, we may live together with Him” (1 Thessalonians 5:9-10, NIV11).
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 

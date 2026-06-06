@@ -24,11 +24,11 @@ slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 In this lesson, we primarily examine the concepts of Theophanies (appearances of God) and Christophanies (appearances of Jesus Christ), and argue that due to the Father's invisibility, inaccessibility, and dignity, it is the second person of Trinity (that is, a pre-incarnate Jesus Christ) that appears before mankind in the Old Testament, *not* the Father. This means that all Theophanies in the Old Testament are in fact Christophanies.
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 

@@ -22,11 +22,11 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/throug
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 This cycle I worked some on organizing content pages/videos and discussion pages/videos for the first three lessons in the SR4 series. I also spent some time doing more things to improve my workflow in various ways, all with that hope that these things will set me up for success in the long term.
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 

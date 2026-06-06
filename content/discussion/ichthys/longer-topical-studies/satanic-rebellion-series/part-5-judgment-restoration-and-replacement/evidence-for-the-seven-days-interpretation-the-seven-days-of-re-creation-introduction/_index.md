@@ -25,11 +25,11 @@ The seven days of re-creation model God's plan for the seven millennial days of 
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 The seven days of re-creation model God's plan for the seven millennial days of human history. While the first six Genesis days are concerned with separating good from bad and light from dark physically, this foreshadows God's ultimate plan of the spiritual separation playing out in the first six millennial days, the separation of those who refuse to follow God from those who choose to love Him. Just as God physically filled the earth with good things in the days of re-creation (making it suitable for human life), He is now filling up His family with believing humans over the course of the seven millennial days. Just as the first Adam ruled the paradise of Eden in the seventh day of re-creation, so also the Last Adam, our Lord Jesus Christ, will rule the earth in paradise conditions during the seventh millennial day. 
 
-
+<!-- summary -->
 
 {{% content %}}
 

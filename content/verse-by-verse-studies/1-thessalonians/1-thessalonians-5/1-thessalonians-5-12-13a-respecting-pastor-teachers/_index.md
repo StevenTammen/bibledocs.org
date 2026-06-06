@@ -22,11 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Just like we are called to respect our parents and respect government authority, so too are we called to respect pastor-teachers—those who have spiritual authority over us. We ought to respect them on the basis of them carrying out their duty to teach the Word of God; we ought to respect those who teach the Word of God more and better to a higher degree than those who talk a good talk but don't truly walk the walk. This respect and deference we owe those who actually labor in the truth on our behalf is not optional, but required.
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 

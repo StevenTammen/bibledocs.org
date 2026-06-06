@@ -28,13 +28,13 @@ Marriage symbolizes and reflects Christ's relationship with His Church. Jesus Ch
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 God invented and sanctified the human institution of marriage from the beginning of human history. Marriage, the closest of all human relationships, was designed to teach mankind about God's central purpose for human history: the incarnation and sacrifice of Jesus Christ (the loving husband) for the salvation of His Church (the faithful wife). 
 
 Marriage symbolizes and reflects Christ's relationship with His Church. Jesus Christ loves His Church with a perfect, sacrifical love and this is the standard to which husbands are called to love their wives. When human husbands fall short of this, it reminds us of our divine Husband's perfection. The Church owes Christ submissive obedience and faithfulness, and this is the standard to which wives are called to respond to their husbands. When human wives fall short of this, it reminds us of our own duty to respond to Christ. Just as Eve was created for and given in marriage to Adam, the Church is the bride of the Last Adam, Jesus Christ, designed for Him and destined to be one with Him forever. 
 
-
+<!-- summary -->
 
 {{% content %}}
 

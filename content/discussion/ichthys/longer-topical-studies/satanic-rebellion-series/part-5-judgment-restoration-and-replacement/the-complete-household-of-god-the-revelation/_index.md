@@ -27,11 +27,11 @@ Christ's incarnation and sacrifice on behalf of His bride, the Church, along wit
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Christ's incarnation and sacrifice on behalf of His bride, the Church, along with the filling of God's family with a large influx of gentiles, is the mystery of God. This mystery was foreshadowed by the writers of the Old Testament, and has now been revealed in the Church age. Just as God physically filled the earth in re-creation days five and six, the Church age truly is the "fullness of times", for in millennial days five and six (the span of the Church age) God's family is being fulfilled. The gap in the family of God created by Satan's rebellion and his angels is now all but filled up, as the bride of Christ is on the verge of completion. Before the cross and the gospel being disseminated to the gentiles, this seemed impossible, but now the necessary conditions have been met (Christ's first advent and sacrifice for sin) and the unsearchable and perfect plan of God is on the point of being completely fulfilled. Here in the Church age, we see the mystery of Christ and His church, but we still anticipate the ultimate revelation of this mystery at the Second Advent, when Jesus Christ comes in glory, along with His bride. At that point we will experience what is still hidden from us, what we *shall* be forevermore, for when Christ appears, we shall be like Him.
 
-
+<!-- summary -->
 
 {{% content %}}
 

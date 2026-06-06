@@ -26,13 +26,13 @@ This page will examine exactly what that means, in the context of Calvinism, pre
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 In John 17:2, 6 Jesus mentions those "whom the Father gave Him."
 
 This page will examine exactly what that means, in the context of Calvinism, predestination, and free will.
 
-
+<!-- summary -->
 
 {{% content %}}
 

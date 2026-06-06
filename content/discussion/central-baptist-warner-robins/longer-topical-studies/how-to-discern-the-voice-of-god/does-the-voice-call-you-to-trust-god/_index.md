@@ -26,7 +26,7 @@ This week's lesson starts on page 79 of the workbook, and was what we went throu
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 We humans have an unfortunate tendency to only trust in that which we can see right before our eyes. Those are things that are safe, things without as much risk and uncertainty. Maybe trusting in these things seems wise; after all, as the saying goes, "a bird in the hand is worth two in the bush." But consider... these are also paths that don't require much faith. If we can do it all on our own, what need have we for God? On the other hand, sometimes taking the road that seems to have an infinite number of unknowns -- the road blocked by thorny hedges and landmines (as it were) -- is not exercising godly faith in choosing a path that requires us to lean on God, but is instead exercising foolishness in picking a path that is obviously the wrong one. Yet... knowing the one from the other requires spiritual growth. See a pattern in these lessons? Spiritual growth -- as accomplished by consistently reading our Bibles and listening to our Bible teachers -- is basically the answer to all problems, if we would just deign to do it as we ought.
 
@@ -36,7 +36,7 @@ So voices that don't demand faith of us probably aren't from God, because it is 
 
 This week's lesson starts on page 79 of the workbook, and was what we went through on 02/05/2023.
 
-
+<!-- summary -->
 
 {{% discussion-pages %}}
 

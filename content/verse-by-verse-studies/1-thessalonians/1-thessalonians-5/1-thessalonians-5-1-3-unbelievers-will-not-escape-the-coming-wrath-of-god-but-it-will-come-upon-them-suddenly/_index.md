@@ -22,11 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 So sudden will be the coming of the Son of Man that it will catch those who do not see fit to watch for Him completely off guard. They will be utterly destroyed—they will not be able to resist, no one will help them, and they will not get up after being felled. Their doom has been foretold, and it will surely come to pass.
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 

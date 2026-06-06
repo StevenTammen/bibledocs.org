@@ -27,13 +27,13 @@ Millennial day three was the separation to God of a holy **people** (correspondi
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 As we have examined previously, each of the seven Genesis days of re-creation correspond to one millennial day of human history. In this lesson we are covering days three and four. While days one and two are paired in that they focus primarily on acts of separation, days three and four are paired in that they involve both separation ***and*** filling. In day three of re-creation, God separates dry ground from the water and He fills the earth with vegetation. In day four of re-creation, God fills the heavens with the sun, moon, and stars and separates the light from the darkness. 
 
 Millennial day three was the separation to God of a holy **people** (corresponding to the separation of dry land) and the first substantial filling of God's family through the seed of Abraham (corresponding to the creation of vegetation). Millennial day four was the separation of Israel, a holy **nation** (corresponding to the separation of light from darkness) to establish an environment to seek the truth, a nation which would provide a witness of God's truth to all other nations (corresponding to the filling of the heavens with the sun, moon, and stars). In this lesson we will also discuss the ten commandments and other aspects of God's separating and sanctifying for Himself a holy family. 
 
-
+<!-- summary -->
 
 {{% content %}}
 

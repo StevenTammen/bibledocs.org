@@ -27,11 +27,11 @@ slides="https://www.bibledocs.org/slides/questions-and-answers/reader-correspond
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Does it mean anything that both Lazarus and Jairus' daughter came back to life after Jesus said they were "sleeping?" Does "sleeping" necessarily predict eventual resuscitation? The answer to this question is no. Sleep as a metaphor/euphemism is more linked with death than resuscitation, and other evidence from the Bible helps us show that the normal way to take things is actually that those who are "sleeping" are dead. That these two specific individuals happened to be resuscitated does not change the fact that the metaphorical/euphemistic usage of sleep is linked to death, not resuscitation.
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 

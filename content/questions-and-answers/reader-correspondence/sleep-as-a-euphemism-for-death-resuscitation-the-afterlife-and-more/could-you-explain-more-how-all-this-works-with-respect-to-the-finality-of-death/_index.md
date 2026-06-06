@@ -24,11 +24,11 @@ slides="https://www.bibledocs.org/slides/questions-and-answers/reader-correspond
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 The word that some English versions translate as "once" in Hebrews 9:27 is the Greek adjective *hapax*. This lesson argues that the best way (and in fact only correct way) to take the sense of this verse is that "it is appointed for people to die once for all" rather than "it is appointed for people to die one time (as opposed to two times, three times, etc.)." If the correct interpretation of this verse really is the "once for all" sense of things, then there is no contradiction in resuscitated people facing physical death more than once, since even those people who are brought back to life for a time will still face eventual permanent physical death. 
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 

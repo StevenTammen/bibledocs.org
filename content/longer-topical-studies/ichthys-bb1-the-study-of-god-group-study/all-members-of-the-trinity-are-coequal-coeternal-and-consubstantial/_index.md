@@ -27,11 +27,11 @@ slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 This lesson's main focus is examining the point that God is *three* in person, but that does *not* mean that there is any inferiority or disparity of status, activity, or substance between the members of the Trinity.
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 

@@ -25,11 +25,11 @@ The seven days of re-creation start the process of God's judgment upon evil and 
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 The seven days of re-creation start the process of God's judgment upon evil and His restoration of the earth as a suitable habitation for mankind, the replacements for Satan and the fallen angels. Additionally, each day of re-creation corresponds to one millennia of human history. While Satan intended the fall of Adam and Eve to disrupt God's plan, it only served to set it in motion, leading to the person and work of Jesus Christ who will judge, restore and replace all things according to God's divine plan at the end of the seven millennia of human history.
 
-
+<!-- summary -->
 
 {{% content %}}
 

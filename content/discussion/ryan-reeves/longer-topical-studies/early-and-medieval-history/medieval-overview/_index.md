@@ -28,13 +28,13 @@ To help conceptualize the overall sweep of the times, the Middle Ages are typica
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Contrary to prevailing misconceptions, the Middle Ages did not merely consist of people laboring through their miserable lives only to die an early death. Although this time period had certain customs and beliefs that we in the 21st century might find odd, the world during this time was not completely lacking in hygiene, money, art, or medicine. Many interesting artistic, theological and literary developments occurred during the Middle Ages. 
 
 To help conceptualize the overall sweep of the times, the Middle Ages are typically broken down into three separate periods: The Early Middle Ages, The High Middle Ages, and the Later Middle Ages. The developments and events that took place across this span of time (c. 500 A.D. to c. 1500 A.D.) are important to understanding and explaining how Western Civilization came to be; you cannot skip straight from Greece and Rome to the Renaissance. To properly understand what led to the Reformation, we must study the Middle Ages. History is more than a jumble of names, dates and places. Events happen within specific circumstances, and studying the background context will help us trace the lines of cause and effect throughout history. So *this* is why we study the Middle Ages before turning our attention to the Reformation.
 
-
+<!-- summary -->
 
 {{% content %}}
 

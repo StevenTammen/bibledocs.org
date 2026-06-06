@@ -27,11 +27,11 @@ slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 This lesson's main focus is examining the point that God is *three* in person, but that does *not* mean that the Trinity is composed of three (or more) different "gods".
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 

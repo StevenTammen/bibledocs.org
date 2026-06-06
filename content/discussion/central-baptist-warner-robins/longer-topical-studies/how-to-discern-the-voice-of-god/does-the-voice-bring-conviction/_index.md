@@ -26,7 +26,7 @@ This week's lesson starts on page 71 of the workbook, and was what we went throu
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 In our examination of how to discern the voice of God, we started by discussing how God will only ever lead us on paths that agree with the Bible. Now we are turning to another point: the idea of conviction. Spiritual truth is spiritually known; the Holy Spirit convicts us of it in our hearts. But the Holy Spirit will not do the same for things that are false. So it is that if a voice is from God, we ought to be able to firmly commit ourselves to listening to that voice, without double-mindedness or cognitive dissonance. God calls us to peace, and while following Him will be far from easy, deep down in our hearts, we ought to be able to tell that we are doing the right thing when we pick up our cross and follow after Jesus.
 
@@ -36,7 +36,7 @@ The trick is being able to have that easy confidence *when actually doing everyt
 
 This week's lesson starts on page 71 of the workbook, and was what we went through on 01/29/2023.
 
-
+<!-- summary -->
 
 {{% discussion-pages %}}
 

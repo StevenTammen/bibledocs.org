@@ -29,7 +29,7 @@ The operative point we will be examining on this page specifically is the idea t
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 In this week's lesson, we talked about how God's voice will convict us of the truth -- whether that means convicting us of sin, or giving us bold confidence to pursue a path of action that is necessary to pursue God's plans for us. Being able to act with the confidence of doing the right thing is a great blessing.
 
@@ -39,7 +39,7 @@ No, quite to the contrary. Godly conviction is less about emotion than it is abo
 
 The operative point we will be examining on this page specifically is the idea that we *must* be on guard to to ensure that we do not deceive ourselves and act contrary to the truth. By examining passages that outline the human capacity for self-deception, it should be clear to us that we must always be checking our confidence against the Word of God, and tossing it out as rubbish if we realize it does not line up. Otherwise our conviction -- strong as it may be -- will only be getting in the way of what it is God actually wants us to do -- what *He* would actually convict us of (rather than whatever we have convicted ourselves of), if we would but open our hearts and minds to His truth.
 
-
+<!-- summary -->
 
 {{% content %}}
 

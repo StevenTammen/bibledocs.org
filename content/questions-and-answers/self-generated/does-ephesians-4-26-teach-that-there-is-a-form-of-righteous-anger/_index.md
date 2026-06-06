@@ -11,11 +11,11 @@ Using Ephesians 4:26 as a proof-text (alongside, for example, Jesus' cleansings 
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Using Ephesians 4:26 as a proof-text (alongside, for example, Jesus' cleansings of the temple, and God's eradication of most of mankind in the flood), some people try to argue that there is a "righteous" form of anger. This page sets out to demonstrate how this idea is false, and what our attitude towards our emotions (including anger) actually should be.
 
-
+<!-- summary -->
 
 {{% content %}}
 

@@ -22,11 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 God's kindness leads to repentance in the sense that He spares sinners from His judgement for some long time, to give them space for repentance. If He always rendered immediate judgement upon sinners, then absolutely none of us would have a chance at being saved. But instead, God is incredibly patient with humanity—even those deeply ensnared by evil. Because He spares people in such a way, some *do* come to repentance, like the people of Ninevah in the Old Testament book of Jonah. And this is not something we should be bitter about ("God, why were those sinners given such chances for repentance when XYZ good person died young?"), but instead celebrate joyfully, as people who were once dead have now found life (cf. Luke 15:24).
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 

@@ -20,11 +20,11 @@ slides="https://www.bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 In this lesson we go over some specifics in a bit more detail, and also briefly go over the other offices in the Church mentioned in Ephesians 4:11, including Apostle, prophet, and evangelist. While there are no more Apostles or prophets nowadays, evangelists are another still-active office in the Church.
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 

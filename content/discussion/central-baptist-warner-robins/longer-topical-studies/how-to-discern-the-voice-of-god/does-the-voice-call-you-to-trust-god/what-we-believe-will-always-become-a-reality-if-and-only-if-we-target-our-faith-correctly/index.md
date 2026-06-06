@@ -32,7 +32,7 @@ On this page, we will be examining the idea that our faith leads to certain outc
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 This week, our Workbook made several points:
 
@@ -44,7 +44,7 @@ In the Bible, faith is always God-centered. The writer of Hebrews does not encou
 
 On this page, we will be examining the idea that our faith leads to certain outcomes if and only if said outcomes are in the Will of God. In other words, we do not get to twist God's promises into whatever we might want them to be.
 
-
+<!-- summary -->
 
 {{% content %}}
 

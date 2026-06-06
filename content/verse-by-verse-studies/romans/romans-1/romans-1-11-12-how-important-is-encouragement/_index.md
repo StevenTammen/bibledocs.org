@@ -22,11 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Encouragement was Paul's primary reason for wishing to visit Rome, it seems, and is also the primary reason given for Christian assembly in Hebrews 10:24-25. But what we mean by "encouragement" is very much centered around the truth of the Word of God, rather than some of the other things people sometimes improperly elevate to primary importance.
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 

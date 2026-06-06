@@ -27,13 +27,13 @@ This is because for us to properly use the Bible as our measuring stick for ever
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Only through the Word of God can we properly identify God's voice -- only by submitting to Bible teachers and personally reading the Bible can we grow in such a way that we develop the discernment God wants us to develop, the discernment that will allow us to identify His guidance.
 
 This is because for us to properly use the Bible as our measuring stick for everything, we have to know it inside and out -- to know its correct interpretation, not just its words. And how you get that is by reading it consistently and learning from a gifted and prepared Bible teacher who can explain it in a systematic and detailed way. Doing these things will help us grow spiritually, until eventually we will find that discerning God's voice becomes ever easier, because our minds have been transformed by His truth (compare Romans 12:2).
 
-
+<!-- summary -->
 
 {{% content %}}
 

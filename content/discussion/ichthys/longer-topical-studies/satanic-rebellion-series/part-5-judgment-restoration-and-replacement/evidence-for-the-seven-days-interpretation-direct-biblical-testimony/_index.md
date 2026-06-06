@@ -26,11 +26,11 @@ God created time and exists outside of it, using it as a tool to accomplish His 
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 God created time and exists outside of it, using it as a tool to accomplish His will in creature history. The Bible commonly uses short time spans to refer to longer chronological times (showing us God's sovereign control over all of history). The Millennium is described in scripture as a period of one thousand literal years, and is directly called a "day", commencing at the second advent of Christ. The Transfiguration, a preview of Christ's glory at His return, happens on the seventh day (after six prior days). God also completes His re-creation of earth in a seven day week, resting on the final day (compare the day of rest to the Transfiguration and the Millennium). This chronological information contained in the Bible indicates that God has a definite timetable for human history, the seven millennial days of human history planned down to the finest details by God.
 
-
+<!-- summary -->
 
 {{% content %}}
 

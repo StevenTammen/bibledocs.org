@@ -27,7 +27,7 @@ Hopefully all this (which our lesson in the Workbook covered -- more or less) is
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 This week, our Workbook examined the idea of conviction through the lens of Acts 2:32-41. This is the end of Peter's address to the crowd at Pentecost.
 
@@ -35,7 +35,7 @@ These verses present an example of how conviction works in practice. First, the 
 
 Hopefully all this (which our lesson in the Workbook covered -- more or less) is clear enough. But this page, instead of focusing upon these main points, will instead briefly examine a couple contextual points that may throw into relief the true importance of this day in Church history, and the poignance of thousands of Jews all at once becoming aware of their past blindness, and collectively being pierced to the heart. It's powerful stuff.
 
-
+<!-- summary -->
 
 {{% content %}}
 

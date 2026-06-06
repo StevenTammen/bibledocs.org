@@ -27,13 +27,13 @@ Millennial day one was the separation of truth from lies. Just as light is neces
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Each of the seven Genesis days of re-creation correspond to one millennial day of human history. In this lesson we are covering days one and two. In day one of re-creation, God separated the light from the darkness. In day two of re-creation, God separated the waters above from the waters below by means of the sky. These physical acts of separation correlate to the spiritual framework of the first pair of millennial days (days one and two). 
 
 Millennial day one was the separation of truth from lies. Just as light is necessary for physical life, the spiritual light of God's truth is necessary to sustain our spiritual life. God's promise of the coming Messiah (who is the Light of the world) first appears in millennial day one (in Genesis 3:15). Millennial day two was the separation of human freedom of choice from Satan's efforts to destroy free will. Just as air is necessary for physical life, human freedom to pursue God's truth is essential to our spiritual growth. 
 
-
+<!-- summary -->
 
 {{% content %}}
 

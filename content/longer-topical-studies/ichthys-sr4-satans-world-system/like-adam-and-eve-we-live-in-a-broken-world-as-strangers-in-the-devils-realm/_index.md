@@ -22,11 +22,11 @@ slides="https://bibledocs.org/slides/longer-topical-studies/ichthys-sr4-satans-w
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 This lesson we first go over why the title of the introduction to SR4 mentions Satan's rebellion and fall: because that sequence of events kicked off the battlefield upon which creature history plays out. Bearing in mind this wider spiritual conflict can help contextualize the present set of circumstances before us in this life. After going over these points, we talk about the content of the introduction to SR4, which discusses Adam and Eve: how their circumstances changed post-fall, how God promised in the prophecy of Genesis 3:15 and through the *protoevangelium* to reconcile humanity back to Himself, and how the wider circumstances of our lives today have not fundamentally changed from Adam's and Eve's outside the garden. Finally, we make a brief outline of the next set of topics we will be covering in future lessons, dealing with the wider idea of us as stranger's in the devil's realm, as sojourners in this fallen world under his control.
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 

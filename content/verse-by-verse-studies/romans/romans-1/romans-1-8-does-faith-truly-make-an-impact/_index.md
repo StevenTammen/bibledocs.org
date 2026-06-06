@@ -22,11 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 If we are ever tempted to question if our faith really matters or changes anything in this dark world of ours, we ought to remember that the witness of our faith *is* always shining, whether we see its full effects or not.
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 

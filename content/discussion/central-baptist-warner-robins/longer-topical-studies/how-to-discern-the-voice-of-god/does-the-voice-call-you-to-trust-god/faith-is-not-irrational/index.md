@@ -26,13 +26,13 @@ Hebrews 11 starts off with a definition of faith: "faith is the assurance of thi
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 In this week of our study, the Workbook used Hebrews 11:1-6 and Hebrews 11:13-16 in its discussion of how another variable in determining if a voice is of God is if it calls us to trust God, to exercise faith.
 
 Hebrews 11 starts off with a definition of faith: "faith is the assurance of things hoped for, the conviction of things not seen." This page will examine this statement, especially as it relates to the idea that having faith is not somehow illogical, despite not having "proof" in the sense that science-focused skeptics want.
 
-
+<!-- summary -->
 
 {{% content %}}
 

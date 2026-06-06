@@ -24,13 +24,13 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Living in order to please God involves obeying God's commands—all of them, not just the easy or not-burdensome ones. It is depressing that many deny this fact (not with their lips, but in how they actually live), practicing Christianity only as "Sunday morning Christians", rather than offering up their entire lives as living sacrifices, in the manner Romans 12:1-3 tells us to do. For all the worship songs they may sing and shallow emotional highs they may experience (fancying this "worship"), God will *not* praise such people on Judgement Day. Because instead of subordinating everything in their lives to the truth of the Word of God so that their minds might be transformed—which is true worship, as scripture plainly states—they convinced themselves that somehow they "love God"... despite not really obeying His commands to any great extent.
 
 We should take pains to not delude ourselves in such a way. If we wish to please God, there is no way to do so except by doing everything in our power to learn His commands, and then actually obey them in complete and total submission to His Will—essentially meaning we need to 1) learn the Word of God, 2) actually believe it, 3) apply it to our lives by passing the tests and trials put before us, and then 4) help others do likewise. There is no substitute for this hard work of spiritual growth—none whatsoever.
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 

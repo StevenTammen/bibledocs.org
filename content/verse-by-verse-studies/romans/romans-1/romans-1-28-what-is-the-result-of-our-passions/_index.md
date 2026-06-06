@@ -22,11 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Romans 1:28 says that the result of straying from God's truth is God giving us over to a depraved mind, so that we do that which ought not to be done. It should rightly frighten us that God will give us over to a depraved mind if we turn away from Him, but we do not need to fear what horrible actions we might engage in upon such a path of straying if we choose instead to never stray—walking in the Spirit by always keeping our eyes firmly fixed upon Jesus Christ and the righteousness we have through Him. Then our minds will be renewed by the truth (cf. Romans 12:1-3), rather than becoming filled with depraved desires.
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 

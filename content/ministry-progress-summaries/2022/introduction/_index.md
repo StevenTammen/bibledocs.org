@@ -22,11 +22,11 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/introd
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 In this video, I go over exactly what these ministry progress summary videos are, and also how they are different from the daily progress summary videos that I upload on a separate YouTube channel.
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 

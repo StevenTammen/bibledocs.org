@@ -22,11 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Rather than personally seeking vengeance upon those who wrong us, we are to pay back good for evil, and trust that God's Justice *will* always catch up with those in need of consequences. Praying for the salvation and ultimate good of our enemies may be terribly difficult, but it is what the Bible calls us to. This doesn't mean we are not allowed defend ourselves or stand up for justice though (physically, in court, or otherwise)---the idea is more that we aren't to act maliciously towards others (wishing for their personal harm), even if they have in fact objectively wronged us in the past.
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 

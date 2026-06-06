@@ -22,11 +22,11 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/throug
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Like in past cycles, there's a fair bit of setup stuff still going on. However, I did successfully write a bash script to automate video processing, and I've now also decided to formally put some of the video organization stuff I'm having a hard time motivating myself to do on the backburner, and instead turn to drafting some new written ministry content, at least for a time. So stay tuned for that!
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 

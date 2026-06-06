@@ -20,11 +20,11 @@ slides="https://www.bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 In this lesson we examine in more detail a couple of the requirements for elders mentioned in the books of 1 Timothy and Titus. Specifically, we examine whether pastors/elders need to be physically old or not to be qualified for the office (they do not *have* to be -- for example, see Timothy -- but it is not uncommon for this to be the case), and also whether or not they need to be married to be qualified for the office (they do not -- they just can't have more than one wife if they are married).
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 

@@ -27,11 +27,11 @@ slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 All three members of the Trinity are referred to by common names in both the Old and New Testaments: Elohim and YHVH (the so-called tetragrammaton) in the Hebrew Old testament, and Theos in the Greek New Testament. However, each member of the Trinity also has an individual name, based upon the role they play in God's overarching plan to redeem mankind: the Father, the Son, and the Holy Spirit. Aside from going over the shared names, this lesson also examines the origin, significance, and person of each of these individual names.
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 

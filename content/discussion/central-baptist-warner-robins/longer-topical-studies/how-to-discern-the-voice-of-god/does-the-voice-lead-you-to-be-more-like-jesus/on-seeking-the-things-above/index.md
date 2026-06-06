@@ -30,7 +30,7 @@ Instead, we ought to aspire to have the peace and confidence that comes from int
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 This week's lesson discussed Colossians 3, including Colossians 3:1-2, verses that talk about setting our minds on things above, rather than on earthly things.
 
@@ -40,7 +40,7 @@ When things get really hard and everything goes sideways, it can be difficult to
 
 Instead, we ought to aspire to have the peace and confidence that comes from intentionally holding onto the proper spiritual perspective, even as the world falls to pieces around us (compare Psalm 46:2-3), leaving God to sort out our provision. This page is going to examine this concept.
 
-
+<!-- summary -->
 
 {{% content %}}
 

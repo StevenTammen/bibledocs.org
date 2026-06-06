@@ -31,13 +31,13 @@ Israel has largely rejected their Messiah, tripping over the Cornerstone, Jesus 
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Israel holds a special place in God's plan. Jewish believers are the foundation for the holy building that God is erecting - not only in the Jewish age, but also in the Church age. Jewish believers have played and continue to play a critical part in all generations of the Church. Salvation belongs to the Jews as first priority, coming to the Gentiles by the grace of God. Rather than *replacing* Israel, gentile believers have become *part* of God's household along with Israel. Gentile believers are the wild olive branch that has been grafted into the natural olive tree Israel.
 
 Israel has largely rejected their Messiah, tripping over the Cornerstone, Jesus Christ, and the "offense" of His cross. Jesus Himself mourned the hardness of the Jews. While many first century Jews rejected the gospel just as their Judean countrymen had rejected their own Messiah, Jewish believers were both the original foundation of the Church and continued to play a huge role after the influx of the gentiles had begun. Despite this general "hardness" towards Christ that currently dominates the Jewish people, Israel will once more take the lead in spectaular fashion when the Jewish age overlaps with the Church age for its final seven years, known as the Tribulation. This leading role is seen in two major ways: the ministries of Moses and Elijah, and also of the 144,000 witnesses. At Christ's Second Advent, the hardness will end as the vision of Him returning in glory will bring about a profound and glorious change of heart of Israel and many Jewish people will turn to Christ for salvation. In the millennium, Jesus will rule from Jerusalem, as the inheritor of the Davidic line of Jewish Kingship. All this makes our Jewish brethren the perfect people to run alongside as we worship our Savior, who delivered Jew and Gentile alike. 
 
-
+<!-- summary -->
 
 {{% content %}}
 

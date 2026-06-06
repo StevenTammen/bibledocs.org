@@ -22,11 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 As human beings, we have no righteousness of our own. God only sees us as righteous if we have faith, because then He sees us covered in the blood of Christ. That is, only by faith does Christ's righteousness becomes our own—and there is no other way for humans to be justified before God. So we are only saved by faith alone in Christ alone.
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 

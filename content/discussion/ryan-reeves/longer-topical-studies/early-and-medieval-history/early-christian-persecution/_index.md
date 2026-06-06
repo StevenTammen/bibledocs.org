@@ -25,11 +25,11 @@ Believers in the early church faced persecution from the Romans. Based upon how 
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Believers in the early church faced persecution from the Romans. Based upon how some textbooks and such talk about things, you might think believers in the first couple centuries after Christ were very systematically persecuted, but this was actually not the case. Up until around 284 AD (around when the imperial power structure shifted from what historians call the "Principate" to the "Dominate"), Christians faced persecution that was largely sporadic and localized, rather than empire-wide. In this video, we talk about some examples of persecution of early believers (for example, under the Roman emperors Nero and Trajan), as well as going over the concept of source analysis and how we can even know some of these things to begin with.
 
-
+<!-- summary -->
 
 {{% content %}}
 

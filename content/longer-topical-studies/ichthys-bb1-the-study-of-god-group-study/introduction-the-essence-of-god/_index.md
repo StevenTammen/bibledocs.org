@@ -27,11 +27,11 @@ slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 In this lesson, we are going to be kicking off our new study of BB1: Theology on Ichthys by starting to discuss the Essence of God. We'll talk about how God is being (Exodus 3:14-15), as well as exactly what essence means as a concept.
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 

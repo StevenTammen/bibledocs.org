@@ -27,13 +27,13 @@ Throughout the Bible we see beautifully constructed patterns, woven across the f
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 God created the original universe in the blink of an eye. After the rebellion of Satan and his demons, God chose to re-create the earth over a period of six literal days, with the seventh day following as a day of rest. This is neither insignificant nor accidental, for these seven re-creative days of Genesis serve as a model for God's plan for human history. In both the Genesis days of re-creation and the millennial days of human history, there are subdivisions into three discrete pairs: 1-2, (separation only); 3-4 (separation and filling); 5-6 (filling only). Re-creation was a physical separation of the good from the bad and a filling of the earth to make it habitable for human life, mirroring God's work throughout the six millennial days wherein believers are separated from the devil's world in mounting numbers, spilling over in abundance after the sacrifice and resurrection of God's Son. Both the seventh Genesis day of rest and the millennium serve as a time of memorial rest and blessing to signify God's completed work (of re-creation and the completion of His family, respectively).
 
 Throughout the Bible we see beautifully constructed patterns, woven across the fabric of Scripture by the powerful hand of God, meant to point us towards spiritual truths. In the provision of marriage, we see the intimacy of Christ's relationship with His bride, the Church. Through the provision of days and weeks, we are reminded of God's plan for the ages, His separation of a holy people and a filling up of His eternal family to the glory of His Son, Jesus Christ. 
 
-
+<!-- summary -->
 
 {{% content %}}
 

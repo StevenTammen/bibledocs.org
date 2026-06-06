@@ -26,7 +26,7 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2022/throug
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 This cycle was dominated by two primary areas: tech research and setup, and coding support for discussion pages.
 
@@ -34,7 +34,7 @@ On the tech side of things, I did research, bought, and started setting up sever
 
 Aside from all that, the biggest task knocked out this cycle was coding support for discussion pages in the Python preprocessor application for static sites that I've been developing over the last few months. This was a large coding effort, taking me many days. But I'm very glad to have it behind me now, so that it will no longer be hanging over my head.
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 

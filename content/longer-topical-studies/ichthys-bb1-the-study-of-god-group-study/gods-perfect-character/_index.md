@@ -28,11 +28,11 @@ slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 This lesson, we are going to be talking about God's perfect character, and what that means in terms of His motives.
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 

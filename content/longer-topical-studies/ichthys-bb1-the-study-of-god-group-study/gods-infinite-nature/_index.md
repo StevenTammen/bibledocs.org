@@ -28,11 +28,11 @@ slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 This lesson, we are going to be talking about God's infinite nature, and what that means in terms of His abilities.
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 

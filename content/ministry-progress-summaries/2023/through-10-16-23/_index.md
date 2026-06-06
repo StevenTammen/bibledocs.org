@@ -24,13 +24,13 @@ slides="https://www.bibledocs.org/slides/ministry-progress-summaries/2023/throug
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 In this release, we've got the first 9 lessons in a new study of BB1: Theology off Ichthys (the section of Ichthys' systematic theology that goes over theology proper)---well, the written parts, at any rate. The videos will hopefully go up soon, once I've processed and polished them a bit more.
 
 There are also *lots* of new pages in new verse-by-verse studies of Romans and 1 Thessalonians: Romans 1, Romans 2, 1 Thessalonians 4, and 1 Thessalonians 5. I've also got a bunch more discussion-based pages scaffolded out for Romans 1 through Romans 10 in a separate study of Romans. These pages are more like lists of discussion questions with my rough notes accompanying them. At least, that will be the idea, once I get around to actually filling in my notes.
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 

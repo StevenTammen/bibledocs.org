@@ -24,11 +24,11 @@ slides="https://www.bibledocs.org/slides/questions-and-answers/reader-correspond
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 When Jesus says that Jairus' daughter is "sleeping", and says that Lazarus (the brother of Mary and Martha) is "sleeping", well, why? Were they sleeping, or were they dead? Why would Jesus put things like this?
 
-
+<!-- summary -->
 
 ## Timestamps {#timestamps}
 

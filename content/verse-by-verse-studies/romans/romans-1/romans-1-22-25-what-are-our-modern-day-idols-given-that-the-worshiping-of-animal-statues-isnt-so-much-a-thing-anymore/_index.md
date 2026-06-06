@@ -22,11 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Idolatry is not just bowing to down to statues of wood and stone, but is any time we place something above God in our lives. Therefore, it is very much *not* "just a thing of the past" that only superstitious ancient peoples participated in (as opposed to us modern enlightened people—or so the thought goes). On the contrary, it is a very real problem in our day as well.
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 

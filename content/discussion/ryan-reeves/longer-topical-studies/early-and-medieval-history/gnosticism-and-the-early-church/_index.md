@@ -25,11 +25,11 @@ One of the heresies the Early Church faced came from the gnostics, a group peopl
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 One of the heresies the Early Church faced came from the gnostics, a group people whose belief system emphasized truth beyond this world (to be attained through mystical experiences), hatred of the material world, and elitist or secret knowledge. The gnostics tended towards a strong form of self-denial and asceticism, and their total shunning of the material world led them to radically different interpretations in some areas, relative to Christianity proper. They were not much concerned with faithfulness to the scriptures, but freely borrowed from other philosophies and religions of their time, and wrote their own sacred texts external to the Bible. Since parts of the Bible clearly contradict their teachings just at first glance, it is no surprise that this group threw it out and went their own way. The gnostics did not pretend to be Christian, but set themselves above and against Christianity. Even today, certain patterns of thought can mirror the problematic beliefs of this long-ago group, so it can be useful to examine the issues with gnostic teachings and how they came about, in order to better understand them and protect against them.
 
-
+<!-- summary -->
 
 {{% content %}}
 

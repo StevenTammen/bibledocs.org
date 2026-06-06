@@ -24,11 +24,11 @@ In this lesson, we examine many practical matters related to Bible reading, such
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 In this lesson, we examine many practical matters related to Bible reading, such as discussing the utility in re-reading parts of the Bible we have already read, whether we can trust the accuracy of the English Bible translations available to us, how Bible teachers and the Holy Spirit interact with and enhance our Bible reading, the pros and cons of various English versions (like the KJV, NASB, NIV84, etc.), and various other miscellaneous tips and suggestions.
 
-
+<!-- summary -->
 
 {{% content %}}
 

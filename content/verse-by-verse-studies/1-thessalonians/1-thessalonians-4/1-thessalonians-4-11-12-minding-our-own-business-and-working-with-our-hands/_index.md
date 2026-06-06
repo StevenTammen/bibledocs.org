@@ -22,11 +22,11 @@ slides="https://bibledocs.org/slides/"
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 1 Thessalonians 4:11-12 make it clear that we need to mind our own business and work with our hands. Put simply, we need to be pleased keep our heads down as we shoulder the responsibilities God has seen fit to give to us personally. This way we will win the respect of outsiders, and not be dependent on anybody.
 
-
+<!-- summary -->
 
 <!-- ## Timestamps {#timestamps} -->
 

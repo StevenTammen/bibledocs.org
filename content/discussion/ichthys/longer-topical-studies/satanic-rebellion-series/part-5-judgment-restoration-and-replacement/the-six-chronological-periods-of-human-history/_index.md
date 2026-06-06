@@ -25,11 +25,11 @@ Without considering the divine point of view, human history is characterized by 
 
 ## Summary {#summary}
 
-
+<!-- summary -->
 
 Without considering the divine point of view, human history is characterized by dark, satanic attack. The six chronological divisions of human history in this lesson highlight the different approaches Satan takes as he opposes God. As a mere creature, Satan's actions are only reactions to God's perfect divine plan. Despite Satan's attempts to foil God's plan, he cannot win against his Creator (even when Satan deploys his most furious efforts during the Tribulation). Our highest priority should be serious spiritual growth so that we can withstand that imminent time, for the Tribulation will be the most intense time of satanic activity in all of human history.
 
-
+<!-- summary -->
 
 {{% content %}}
 
