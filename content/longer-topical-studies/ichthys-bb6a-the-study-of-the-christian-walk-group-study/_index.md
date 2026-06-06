@@ -77,7 +77,7 @@ When we do fail, when we do sin, when we do fall into some bad pattern or fall o
 
 <!-- --- -->
 
-#### Wash don't wallow {#confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall-wash-don-t-wallow}
+#### Wash don't wallow {#confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall-wash-dont-wallow}
 
 Nothing is worse than allowing sin to beget sin and torpor to beget torpor until we find ourselves in some terrible funk of spiritual free fall where one mistake leads to another in a vicious circle of retrogression.
 
@@ -99,7 +99,7 @@ We should make it a habit to confess immediately whenever we err. If we do make 
 
 <!-- --- -->
 
-#### Accept God's forgiveness {#confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall-accept-god-s-forgiveness}
+#### Accept God's forgiveness {#confession-forgiveness-avoiding-self-loathing-and-reorienting-towards-god-after-we-fall-accept-gods-forgiveness}
 
 {{< properties
 stags="Forgiveness > Even if Jesus paid it all, it can be hard for us to embrace the forgiveness as we ought"

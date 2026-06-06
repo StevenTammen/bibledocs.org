@@ -13,10 +13,6 @@ This video series is a discussion-based group Bible study going through Bible Ba
 
 ## [Introduction - The Essence of God](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-essence-of-god) {#introduction-the-essence-of-god}
 
-{{< properties
-stags="God > Essence"
->}}
-
 
 
 ### Video {#introduction-the-essence-of-god-video}
@@ -87,7 +83,7 @@ God's glory is most directly revealed to mankind through His Son, Jesus Christ. 
 
 {{% video-only %}}
 
-##### Q: 1 Timothy 6:16 talks about God's unapproachable light. It also says God alone possess immortality. What does that latter statement mean? {#introduction-the-essence-of-god-q-1-timothy-6-16-talks-about-god-s-unapproachable-light-it-also-says-god-alone-possess-immortality-what-does-that-latter-statement-mean}
+##### Q: 1 Timothy 6:16 talks about God's unapproachable light. It also says God alone possess immortality. What does that latter statement mean? {#introduction-the-essence-of-god-q-1-timothy-6-16-talks-about-gods-unapproachable-light-it-also-says-god-alone-possess-immortality-what-does-that-latter-statement-mean}
 
 {{< properties
 stags="God > Immortality > Antithesis of death"
@@ -112,7 +108,7 @@ stags="Theophany | Christophany | No man may see God and live"
 Did Moses not see this light upon Mount Sinai? What about the Apostles present on the mount of transfiguration? What about Paul on the road to Damascus? What about John in His visions of God, recorded in Revelation?
 
 
-##### Comment: God's glory as it relates to "every knee will bow, and every tongue confess" {#introduction-the-essence-of-god-comment-god-s-glory-as-it-relates-to-every-knee-will-bow-and-every-tongue-confess}
+##### Comment: God's glory as it relates to "every knee will bow, and every tongue confess" {#introduction-the-essence-of-god-comment-gods-glory-as-it-relates-to-every-knee-will-bow-and-every-tongue-confess}
 
 {{< properties
 stags="God > Resplendence > Veiled to preserve human free will | Every knee will bow"
@@ -730,15 +726,11 @@ If someone were to whine that I am question-dodging and not defining terms, I wo
 
 
 
-## [God's Infinite Nature](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature) {#god-s-infinite-nature}
-
-{{< properties
-stags="Infinity | God > Is infinite in nature"
->}}
+## [God's Infinite Nature](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature) {#gods-infinite-nature}
 
 
 
-### Video {#god-s-infinite-nature-video}
+### Video {#gods-infinite-nature-video}
 
 {{% video
 videoId="2EMBqNotHqs"
@@ -748,7 +740,7 @@ videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV
 slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature"
 %}}
 
-### Summary {#god-s-infinite-nature-summary}
+### Summary {#gods-infinite-nature-summary}
 
 
 
@@ -756,7 +748,7 @@ This lesson, we are going to be talking about God's infinite nature, and what th
 
 
 
-### Timestamps {#god-s-infinite-nature-timestamps}
+### Timestamps {#gods-infinite-nature-timestamps}
 
 {{% timestamp videoId="2EMBqNotHqs" time="0" display="0:00" %}} - Intro and outline  
 {{% timestamp videoId="2EMBqNotHqs" time="121" display="02:01" %}} - Introduction: God's infinite nature  
@@ -776,13 +768,13 @@ This lesson, we are going to be talking about God's infinite nature, and what th
 
 {{% toggleable-content %}}
 
-### Content {#god-s-infinite-nature-content}
+### Content {#gods-infinite-nature-content}
 
 (Derived from https://ichthys.com/1Theo.htm)
 
 <!-- --- -->
 
-#### Introduction: God's infinite nature {#god-s-infinite-nature-introduction-god-s-infinite-nature}
+#### Introduction: God's infinite nature {#gods-infinite-nature-introduction-gods-infinite-nature}
 
 Key point: God's nature is infinite. *Infinite*.
 
@@ -790,7 +782,7 @@ God's infinity – infinity in every way and according to any conceivable true s
 
 <!-- --- -->
 
-#### God is Spiritual {#god-s-infinite-nature-god-is-spiritual}
+#### God is Spiritual {#gods-infinite-nature-god-is-spiritual}
 
 {{< properties
 stags="God > Is spiritual | Angels > Are subject to matter"
@@ -802,7 +794,7 @@ God's being transcends the physical universe. He is not limited or bounded by ma
 
 {{% video-only %}}
 
-##### If mankind is at present "a little lower than the angels", why do angels desire physical bodies like ours? {#god-s-infinite-nature-if-mankind-is-at-present-a-little-lower-than-the-angels-why-do-angels-desire-physical-bodies-like-ours}
+##### If mankind is at present "a little lower than the angels", why do angels desire physical bodies like ours? {#gods-infinite-nature-if-mankind-is-at-present-a-little-lower-than-the-angels-why-do-angels-desire-physical-bodies-like-ours}
 
 {{< properties
 stags="Fallen angels > Desire for physical bodies"
@@ -814,7 +806,7 @@ Compare Hebrews 2:6-8.
 
 {{% /video-only %}}
 
-#### God is Eternal {#god-s-infinite-nature-god-is-eternal}
+#### God is Eternal {#gods-infinite-nature-god-is-eternal}
 
 {{< properties
 stags="God > Is eternal"
@@ -826,7 +818,7 @@ God's being transcends time. He is not limited or bounded by temporal issues or 
 
 {{% video-only %}}
 
-##### Angels are subject to time {#god-s-infinite-nature-angels-are-subject-to-time}
+##### Angels are subject to time {#gods-infinite-nature-angels-are-subject-to-time}
 
 {{< properties
 stags="Angels > Are subject to time"
@@ -834,7 +826,7 @@ stags="Angels > Are subject to time"
 
 {{% video-only-note %}}
 
-##### The relationship between future prophecy and the time continuum {#god-s-infinite-nature-the-relationship-between-future-prophecy-and-the-time-continuum}
+##### The relationship between future prophecy and the time continuum {#gods-infinite-nature-the-relationship-between-future-prophecy-and-the-time-continuum}
 
 {{< properties
 stags="Prophecy > mechanics of"
@@ -846,7 +838,7 @@ Were prophets actually transported into the future (i.e., plucked from one point
 
 {{% /video-only %}}
 
-#### God is Immeasurable (in a spatial sense) {#god-s-infinite-nature-god-is-immeasurable-in-a-spatial-sense}
+#### God is Immeasurable (in a spatial sense) {#gods-infinite-nature-god-is-immeasurable-in-a-spatial-sense}
 
 {{< properties
 stags="God > Is immeasurable"
@@ -856,7 +848,7 @@ God's being transcends space. He is not limited or bounded by spatial issues or 
 
 <!-- --- -->
 
-#### God is Unique {#god-s-infinite-nature-god-is-unique}
+#### God is Unique {#gods-infinite-nature-god-is-unique}
 
 {{< properties
 stags="God > Is unique | God > Is *de facto* ruler of the universe"
@@ -878,7 +870,7 @@ While we may not be properly able to fully grasp God's true nature since we are 
 
 <!-- --- -->
 
-#### God is Omnipotent {#god-s-infinite-nature-god-is-omnipotent}
+#### God is Omnipotent {#gods-infinite-nature-god-is-omnipotent}
 
 {{< properties
 stags="God > Is omnipotent"
@@ -890,7 +882,7 @@ God is all-powerful, irrespective of matter. He can effect anything He desires i
 
 {{% sidenote %}}
 
-##### "Could God create a rock so big even He couldn't lift it?" {#god-s-infinite-nature-could-god-create-a-rock-so-big-even-he-couldn-t-lift-it}
+##### "Could God create a rock so big even He couldn't lift it?" {#gods-infinite-nature-could-god-create-a-rock-so-big-even-he-couldnt-lift-it}
 
 {{< properties
 stags="Apologetics"
@@ -910,7 +902,7 @@ My counsel would be to avoid all such nonsense. God can do "it", whatever "it" m
 
 <!-- --- -->
 
-#### God is Omniscient {#god-s-infinite-nature-god-is-omniscient}
+#### God is Omniscient {#gods-infinite-nature-god-is-omniscient}
 
 {{< properties
 stags="God > Is omniscient"
@@ -920,7 +912,7 @@ God is all-knowing, irrespective of time. He can effect anything He desires in t
 
 <!-- --- -->
 
-##### God's knowledge of hypotheticals {#god-s-infinite-nature-god-s-knowledge-of-hypotheticals}
+##### God's knowledge of hypotheticals {#gods-infinite-nature-gods-knowledge-of-hypotheticals}
 
 {{< properties
 stags="Omniscience > includes knowledge of hypotheticals | Molinism | Middle knowledge"
@@ -938,7 +930,7 @@ For now, you should mostly ignore the fact that some people have again put God i
 
 <!-- --- -->
 
-#### God is Omnipresent {#god-s-infinite-nature-god-is-omnipresent}
+#### God is Omnipresent {#gods-infinite-nature-god-is-omnipresent}
 
 {{< properties
 stags="God > Is omnipresent"
@@ -952,7 +944,7 @@ Of particular note is that this means God sees all. Nobody can sneak anything pa
 
 {{% toggleable-transcript %}}
 
-### Video/audio transcript {#god-s-infinite-nature-video-audio-transcript}
+### Video/audio transcript {#gods-infinite-nature-video-audio-transcript}
 
 {{% timestamp videoId="2EMBqNotHqs" time="0" display="0:00" %}} - all right guys so this week we are picking up and we are going to be talking about God's infinite nature so  
 {{% timestamp videoId="2EMBqNotHqs" time="6" display="0:06" %}} - last time we met we were talking about the essence of God in general uh so I don't have the slides up but we did talk  
@@ -1800,15 +1792,11 @@ Of particular note is that this means God sees all. Nobody can sneak anything pa
 
 
 
-## [God's Perfect Character](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character) {#god-s-perfect-character}
-
-{{< properties
-stags="Perfection | God > Is perfect in character"
->}}
+## [God's Perfect Character](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character) {#gods-perfect-character}
 
 
 
-### Video {#god-s-perfect-character-video}
+### Video {#gods-perfect-character-video}
 
 {{% video
 videoId="4okunpItA7w"
@@ -1818,7 +1806,7 @@ videoPlaylist="https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV
 slides="https://www.bibledocs.org/slides/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-perfect-character"
 %}}
 
-### Summary {#god-s-perfect-character-summary}
+### Summary {#gods-perfect-character-summary}
 
 
 
@@ -1826,7 +1814,7 @@ This lesson, we are going to be talking about God's perfect character, and what 
 
 
 
-### Timestamps {#god-s-perfect-character-timestamps}
+### Timestamps {#gods-perfect-character-timestamps}
 
 {{% timestamp videoId="4okunpItA7w" time="0" display="0:00" %}} - Intro and outline  
 {{% timestamp videoId="4okunpItA7w" time="100" display="01:40" %}} - Introduction: God's perfect character  
@@ -1845,13 +1833,13 @@ This lesson, we are going to be talking about God's perfect character, and what 
 
 {{% toggleable-content %}}
 
-### Content {#god-s-perfect-character-content}
+### Content {#gods-perfect-character-content}
 
 (Derived from https://ichthys.com/1Theo.htm)
 
 <!-- --- -->
 
-#### Introduction: God's perfect character {#god-s-perfect-character-introduction-god-s-perfect-character}
+#### Introduction: God's perfect character {#gods-perfect-character-introduction-gods-perfect-character}
 
 {{< properties
 stags=""
@@ -1878,7 +1866,7 @@ When firmly grasped, God's perfection—perfection in every way and according to
 
 {{% video-only %}}
 
-##### Why are we told to be perfect like God in Matthew 5:48 if we can never live up to that standard? {#god-s-perfect-character-why-are-we-told-to-be-perfect-like-god-in-matthew-5-48-if-we-can-never-live-up-to-that-standard}
+##### Why are we told to be perfect like God in Matthew 5:48 if we can never live up to that standard? {#gods-perfect-character-why-are-we-told-to-be-perfect-like-god-in-matthew-5-48-if-we-can-never-live-up-to-that-standard}
 
 {{< properties
 stags="Perfection > Is impossible for fallen mankind"
@@ -1886,7 +1874,7 @@ stags="Perfection > Is impossible for fallen mankind"
 
 {{% video-only-note %}}
 
-##### What does it mean for Noah to be called "perfect in his generations"? {#god-s-perfect-character-what-does-it-mean-for-noah-to-be-called-perfect-in-his-generations}
+##### What does it mean for Noah to be called "perfect in his generations"? {#gods-perfect-character-what-does-it-mean-for-noah-to-be-called-perfect-in-his-generations}
 
 {{< properties
 stags="Nephilim > Satan's attack on the human bloodline"
@@ -1899,7 +1887,7 @@ As in Genesis 6:9---if you'd like, here's an [interlinear](https://www.bluelette
 
 {{% /video-only %}}
 
-#### God is Good {#god-s-perfect-character-god-is-good}
+#### God is Good {#gods-perfect-character-god-is-good}
 
 {{< properties
 stags="God > Is good"
@@ -1909,7 +1897,7 @@ God's character is good (Hebrew *tov*: טוב); it is the antithesis of evil. So
 
 <!-- --- -->
 
-#### God is Holy {#god-s-perfect-character-god-is-holy}
+#### God is Holy {#gods-perfect-character-god-is-holy}
 
 {{< properties
 stags="God > Is holy"
@@ -1919,7 +1907,7 @@ God's character is holy (Hebrew *qadosh*: קדוש); it is completely separate f
 
 <!-- --- -->
 
-#### God is Faithful and True {#god-s-perfect-character-god-is-faithful-and-true}
+#### God is Faithful and True {#gods-perfect-character-god-is-faithful-and-true}
 
 {{< properties
 stags="God > Is faithful and true"
@@ -1929,7 +1917,7 @@ God's character is faithful and true (Hebrew: *omen*, *emeth*: אמת ,אמון)
 
 <!-- --- -->
 
-#### God is Sovereign {#god-s-perfect-character-god-is-sovereign}
+#### God is Sovereign {#gods-perfect-character-god-is-sovereign}
 
 {{< properties
 stags="God > Is sovereign | God > Is *de jure* ruler of the universe"
@@ -1943,25 +1931,25 @@ Only God is qualified to be the ultimate judge of the morally accountable creatu
 
 <!-- --- -->
 
-##### God possesses the sovereign authority to demonstrate *love* to His sinful creatures out of His own *goodness* {#god-s-perfect-character-god-possesses-the-sovereign-authority-to-demonstrate-love-to-his-sinful-creatures-out-of-his-own-goodness}
+##### God possesses the sovereign authority to demonstrate *love* to His sinful creatures out of His own *goodness* {#gods-perfect-character-god-possesses-the-sovereign-authority-to-demonstrate-love-to-his-sinful-creatures-out-of-his-own-goodness}
 
 Not ignoring their sins, as evil suggests He should, but *paying* for them Himself by the death on the cross of His Son, Jesus Christ, in their place (redemption). We call the result of this act of His sovereignty **grace** (Hebrew *chen*: חן; Greek *charis*: χάρις).
 
 <!-- --- -->
 
-##### God possesses the sovereign authority to administer *justice* to His sinful creatures out of His *holiness* {#god-s-perfect-character-god-possesses-the-sovereign-authority-to-administer-justice-to-his-sinful-creatures-out-of-his-holiness}
+##### God possesses the sovereign authority to administer *justice* to His sinful creatures out of His *holiness* {#gods-perfect-character-god-possesses-the-sovereign-authority-to-administer-justice-to-his-sinful-creatures-out-of-his-holiness}
 
 Not abandoning them to their sins, as evil suggests He must, but *forgiving* them Himself on the basis of the death on the cross of His Son, Jesus Christ, in their place (justification). We call the result of this act of His sovereignty **mercy** (Hebrew *chesed*: חסד; Greek *eleos*: ἔλεος).
 
 <!-- --- -->
 
-##### God possesses the sovereign authority to give *life* to His sinful creatures out of His *truth* and *faithfulness* {#god-s-perfect-character-god-possesses-the-sovereign-authority-to-give-life-to-his-sinful-creatures-out-of-his-truth-and-faithfulness}
+##### God possesses the sovereign authority to give *life* to His sinful creatures out of His *truth* and *faithfulness* {#gods-perfect-character-god-possesses-the-sovereign-authority-to-give-life-to-his-sinful-creatures-out-of-his-truth-and-faithfulness}
 
 Not allowing them to die in their sins, as evil suggests He will, but *reconciling* them to Himself through the death on the cross of His Son, Jesus Christ, in their place (reconciliation). We call the result of this act of His sovereignty **peace** (Hebrew *shalom*: שלום; Greek *eirene*: εἰρήνη).
 
 <!-- --- -->
 
-##### Summary: God's sovereignty in action {#god-s-perfect-character-summary-god-s-sovereignty-in-action}
+##### Summary: God's sovereignty in action {#gods-perfect-character-summary-gods-sovereignty-in-action}
 
 | Essential Quality | Manifesting in creation as | Action God takes                  | God's sovereign attitude towards us | Result         |
 |-------------------|----------------------------|-----------------------------------|-------------------------------------|----------------|
@@ -1973,7 +1961,7 @@ In this—God's full plan for saving sinful man—absolutely everything relies u
 
 <!-- --- -->
 
-#### God is Love {#god-s-perfect-character-god-is-love}
+#### God is Love {#gods-perfect-character-god-is-love}
 
 {{< properties
 stags="God > Is love"
@@ -1983,7 +1971,7 @@ Having love for His creatures, is a natural consequence of God's goodness. Out o
 
 <!-- --- -->
 
-#### God is Just {#god-s-perfect-character-god-is-just}
+#### God is Just {#gods-perfect-character-god-is-just}
 
 {{< properties
 stags="God > Is just"
@@ -1995,7 +1983,7 @@ Demanding justice for His creatures is a natural consequence of God's holiness. 
 
 {{% video-only %}}
 
-##### "How is it just for unbelievers to face infinite, eternal punishment for finite sins?" {#god-s-perfect-character-how-is-it-just-for-unbelievers-to-face-infinite-eternal-punishment-for-finite-sins}
+##### "How is it just for unbelievers to face infinite, eternal punishment for finite sins?" {#gods-perfect-character-how-is-it-just-for-unbelievers-to-face-infinite-eternal-punishment-for-finite-sins}
 
 {{< properties
 stags="Unlimited atonement > Double jeopardy | Hell > People are sent only because of unbelief | Hell > There are no levels in hell"
@@ -2042,7 +2030,7 @@ For people who still balk at this teaching (viewing it as too lenient upon the t
 
 {{% /video-only %}}
 
-#### God is Life {#god-s-perfect-character-god-is-life}
+#### God is Life {#gods-perfect-character-god-is-life}
 
 {{< properties
 stags="God > Is life"
@@ -2052,7 +2040,7 @@ Saving the lives of His creatures is a natural consequence of God's truth and fa
 
 {{% video-only %}}
 
-##### Contrasting eternal life and eternal death {#god-s-perfect-character-contrasting-eternal-life-and-eternal-death}
+##### Contrasting eternal life and eternal death {#gods-perfect-character-contrasting-eternal-life-and-eternal-death}
 
 {{< properties
 stags="Believers > Live lives of eternal, spiritual purpose | Unbelievers > Are already positionally dead"
@@ -2066,7 +2054,7 @@ stags="Believers > Live lives of eternal, spiritual purpose | Unbelievers > Are 
 
 {{% toggleable-transcript %}}
 
-### Video/audio transcript {#god-s-perfect-character-video-audio-transcript}
+### Video/audio transcript {#gods-perfect-character-video-audio-transcript}
 
 {{% timestamp videoId="4okunpItA7w" time="0" display="0:00" %}} - all right so right now we are going to be picking up with the next lesson in our series here on Bible basics part one  
 {{% timestamp videoId="4okunpItA7w" time="7" display="0:07" %}} - theology proper talking about God's perfect character so in the last lesson  
@@ -3583,7 +3571,7 @@ In this lesson, we are going to be summarizing what we've done in the last sever
 
 <!-- --- -->
 
-#### A reminder of what we've been going over {#conclusions-the-essence-of-god-a-reminder-of-what-we-ve-been-going-over}
+#### A reminder of what we've been going over {#conclusions-the-essence-of-god-a-reminder-of-what-weve-been-going-over}
 
 We have been talking about the essence of God: His infinite nature and His perfect character.
 
@@ -3925,10 +3913,6 @@ stags="God > Essence"
 
 
 ## [Introduction - The Trinity](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity) {#introduction-the-trinity}
-
-{{< properties
-stags="Trinity > Definition"
->}}
 
 
 
@@ -4507,10 +4491,6 @@ To put the doctrine in complete terms, the Father is God, the Son is God, and th
 
 ## [All Members of the Trinity Are Deity](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-deity) {#all-members-of-the-trinity-are-deity}
 
-{{< properties
-stags="Trinity > All members are deity"
->}}
-
 
 
 ### Video {#all-members-of-the-trinity-are-deity-video}
@@ -4586,7 +4566,7 @@ stags="God > Is Spirit, but in a way different from the spirits of humans and an
 
 
 
-##### Why wasn't the Spirit sent to indwell believers before He actually was (i.e., only after Christ's ascension)? {#all-members-of-the-trinity-are-deity-why-wasn-t-the-spirit-sent-to-indwell-believers-before-he-actually-was-i-e-only-after-christ-s-ascension}
+##### Why wasn't the Spirit sent to indwell believers before He actually was (i.e., only after Christ's ascension)? {#all-members-of-the-trinity-are-deity-why-wasnt-the-spirit-sent-to-indwell-believers-before-he-actually-was-i-e-only-after-christs-ascension}
 
 {{< properties
 stags="Holy Spirit > Has always been present upon the Earth | Holy Spirit > Indwelling ministry of | Spiritual gifts > Given after Christ's ascension"
@@ -6059,10 +6039,6 @@ Now the Lord is the Spirit, and where the Lord's Spirit is, there is freedom.
 
 ## [All Members of the Trinity Are Distinct Persons](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-distinct-persons) {#all-members-of-the-trinity-are-distinct-persons}
 
-{{< properties
-stags="Trinity > All members are distinct from one another"
->}}
-
 
 
 ### Video {#all-members-of-the-trinity-are-distinct-persons-video}
@@ -6421,10 +6397,6 @@ And the Spirit helps us in our weakness in a similar way. For we do not know wha
 
 
 ## [All Members of the Trinity Are Coequal, Coeternal, and Consubstantial](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-coequal-coeternal-and-consubstantial) {#all-members-of-the-trinity-are-coequal-coeternal-and-consubstantial}
-
-{{< properties
-stags="Trinity > All members fully and equally share status, activity, and substance"
->}}
 
 
 
@@ -6993,10 +6965,6 @@ May the grace of the Lord Jesus Christ, and the love of God [the Father], and th
 
 ## [All Members of the Trinity Are Joint Partakers of the Same Essence](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-joint-partakers-of-the-same-essence) {#all-members-of-the-trinity-are-joint-partakers-of-the-same-essence}
 
-{{< properties
-stags="Trinity > All members share the same essence"
->}}
-
 
 
 ### Video {#all-members-of-the-trinity-are-joint-partakers-of-the-same-essence-video}
@@ -7559,7 +7527,7 @@ In His loving wisdom, God has told us what we most need to know without giving u
 
 {{% video-only %}}
 
-##### Is Jesus "the Father's seed"? Is the Holy Spirit "the Father's spirit"? {#introduction-the-trinity-in-the-bible-is-jesus-the-father-s-seed-is-the-holy-spirit-the-father-s-spirit}
+##### Is Jesus "the Father's seed"? Is the Holy Spirit "the Father's spirit"? {#introduction-the-trinity-in-the-bible-is-jesus-the-fathers-seed-is-the-holy-spirit-the-fathers-spirit}
 
 {{< properties
 stags="Incarnation > It is only Jesus' human nature that was created/begotten | Trinity > All members share the same essence"
@@ -7898,10 +7866,6 @@ The Spirit is sent by the Father and the Son rather than somehow ontologically o
 
 
 ## [Illustrating the Trinity](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/illustrating-the-trinity) {#illustrating-the-trinity}
-
-{{< properties
-stags="Trinity > Illustrations"
->}}
 
 
 
@@ -8563,10 +8527,6 @@ As we have said, however, care must be taken to see that none of these illustrat
 
 
 ## [Roles of the Trinity in the Plan of God](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/roles-of-the-trinity-in-the-plan-of-god) {#roles-of-the-trinity-in-the-plan-of-god}
-
-{{< properties
-stags="Trinity > Roles"
->}}
 
 
 
@@ -9734,10 +9694,6 @@ The case of the Spirit also shows how wrong-headed such analyses based solely on
 
 ## [Trinity Roles as Seen from Specific New Testament Scriptures](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-roles-as-seen-from-specific-new-testament-scriptures) {#trinity-roles-as-seen-from-specific-new-testament-scriptures}
 
-{{< properties
-stags="Trinity > Roles"
->}}
-
 
 
 ### Video {#trinity-roles-as-seen-from-specific-new-testament-scriptures-video}
@@ -10480,10 +10436,6 @@ In John's salutation from the Trinity, the Father's eternity and imminent taking
 
 ## [Trinity Roles as Demonstrated in Gods Plan for Human History](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-roles-as-demonstrated-in-gods-plan-for-human-history) {#trinity-roles-as-demonstrated-in-gods-plan-for-human-history}
 
-{{< properties
-stags="Trinity > Roles"
->}}
-
 
 
 ### Video {#trinity-roles-as-demonstrated-in-gods-plan-for-human-history-video}
@@ -10581,7 +10533,7 @@ The Father *expresses* the Word (Is.55:11; also Is.40:8; 45:23), Christ *is* the
 
 <!-- --- -->
 
-##### Christ's 1st Advent {#trinity-roles-as-demonstrated-in-gods-plan-for-human-history-christ-s-1st-advent}
+##### Christ's 1st Advent {#trinity-roles-as-demonstrated-in-gods-plan-for-human-history-christs-1st-advent}
 
 {{< properties
 stags="Jesus > First advent"
@@ -11898,10 +11850,6 @@ To take the last case, for example, prayer in scripture is almost always address
 
 ## [Introduction - The Trinity in the Old Testament](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/introduction-the-trinity-in-the-old-testament) {#introduction-the-trinity-in-the-old-testament}
 
-{{< properties
-stags="Trinity > Roles"
->}}
-
 
 
 ### Video {#introduction-the-trinity-in-the-old-testament-video}
@@ -12005,7 +11953,7 @@ In any case, the point is God has good reasons for His progressive revelation of
 
 <!-- --- -->
 
-##### Idolatry as an explanation for God's veiling of His nature {#introduction-the-trinity-in-the-old-testament-idolatry-as-an-explanation-for-god-s-veiling-of-his-nature}
+##### Idolatry as an explanation for God's veiling of His nature {#introduction-the-trinity-in-the-old-testament-idolatry-as-an-explanation-for-gods-veiling-of-his-nature}
 
 {{< properties
 stags="Interpretation > Inferences have their place when they only go so far as the evidence allows | Idolatry > Of Israel | Israel > Theocracy > Idolatry had severe national consequences | Trinity > What it is not > A pantheon"
@@ -12022,7 +11970,7 @@ Pagan pantheons (not to mention pagan religions) are different from God and the 
 
 <!-- --- -->
 
-##### The person of Jesus Christ not yet come as an explanation for God's veiling of His nature {#introduction-the-trinity-in-the-old-testament-the-person-of-jesus-christ-not-yet-come-as-an-explanation-for-god-s-veiling-of-his-nature}
+##### The person of Jesus Christ not yet come as an explanation for God's veiling of His nature {#introduction-the-trinity-in-the-old-testament-the-person-of-jesus-christ-not-yet-come-as-an-explanation-for-gods-veiling-of-his-nature}
 
 {{< properties
 stags="Interpretation > Inferences have their place when they only go so far as the evidence allows | Trinity > Cannot be fully understood by humanity without the witness of the First Advent of Christ"
@@ -12912,7 +12860,7 @@ From the very beginning, the scriptures spoke of a Messiah that would come to sa
 
 <!-- --- -->
 
-#### Introduction: the Old Testament's portrayal of the suffering of Christ {#the-messiah-pre-figured-in-the-old-testament-introduction-the-old-testament-s-portrayal-of-the-suffering-of-christ}
+#### Introduction: the Old Testament's portrayal of the suffering of Christ {#the-messiah-pre-figured-in-the-old-testament-introduction-the-old-testaments-portrayal-of-the-suffering-of-christ}
 
 {{< properties
 stags="Messiah > In the Old Testament > Is spoken of extensively | Messiah > In the Old Testament > Is clearly prophesied to suffer | Jesus > As the Messiah, has been spoken of since the beginning of creation"

@@ -13,10 +13,6 @@ As Ephesians 2:8-9 tells us, salvation most assuredly does come by grace through
 
 ## [Introduction to the idea that some Christians will receive greater eternal rewards than others](/shorter-topical-studies/some-christians-will-achieve-greater-eternal-rewards-than-others/introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others) {#introduction-to-the-idea-that-some-christians-will-receive-greater-eternal-rewards-than-others}
 
-{{< properties
-stags="Eternal rewards > Not all people will receive the same amount"
->}}
-
 
 
 <!-- ## Video {#video}

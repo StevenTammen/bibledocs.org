@@ -157,7 +157,7 @@ Because of their possession of a life-span and range of knowledge beyond human c
 
 <!-- --- -->
 
-##### 4. Satan's Reaction: The temptation and fall of Adam and Eve {#judgement-restoration-and-replacement-i-src-ichthys-4-satan-s-reaction-the-temptation-and-fall-of-adam-and-eve}
+##### 4. Satan's Reaction: The temptation and fall of Adam and Eve {#judgement-restoration-and-replacement-i-src-ichthys-4-satans-reaction-the-temptation-and-fall-of-adam-and-eve}
 
 The devil's temptation of Eve (and the subsequent fall of Adam as a result [(see Part 3 of this series](https://ichthys.com/Fall-sr3.htm)), was a textbook display of Satan's use of deception and of the anatomy of his most potent weapon, the lie (see [Part 4 of this series](https://ichthys.com/SR4(SWS).htm)). By leading our first parents into sin, the devil assumed that their corruption (and the inevitable corruption of all of their offspring) meant that mankind would forever be useless as potential replacements for himself and his followers. But God, all along, had planned a way to restore His human *progeny* through the *promise* of His Son, Jesus Christ. At the judgment in Eden, Eve is told that her progeny (Jesus Christ, and, in Him, all those who will choose for God) will be opposed to the devil's seed (most prominently antichrist, but including all those who choose against God), and that her Seed (the Savior of the world), will crush his head (i.e., achieve the ultimate victory over Satan and his antichrist and all who follow them). This victory would not be without cost, as the prophecy of the crushed heel foretells, speaking as it does of the price He would pay by His death on the cross for all our sakes (also prefigured in the coats of skin in Genesis 3:21 and in ritual animal sacrifice in general). <!-- --- -->By returning to God, saved human kind would in this way regain more than had originally been lost. For through the promised resurrection to come, elect mankind will not only become superior to angelic kind in every way, but will come to possess eternal life which can never again be compromised or called into question. The greatest blessing to rise forth out of the curse of Genesis chapter three, however, is the promise and the (present) reality of Jesus Christ. For in the wake of the death sentence Man brought upon himself by his own sin, God brought eternal life out of death through the death of His Son. This sacrifice, the true cost of which we can only dimly comprehend this side of heaven, demonstrated beyond any possible question or doubt the love of God for His creatures, for He sacrificed what was dearest to Him for our sake, despite our sin against Him. <!-- --- -->Just as God would not abandon His angelic creation, but restored the universe (even going so far as to offer His fallen creatures a second chance through the creation of Adam), so in the person of Jesus Christ, so far from not giving up on us, God has actually wed Himself to His creation for the sake of mankind. For in the person of Christ, true humanity has been inseparably and irrevocably united with undiminished deity, so that there can be no further doubt about His commitment to all His creatures who have chosen for Him:
 
@@ -2311,7 +2311,7 @@ For whatever reason, many people seem to have "issues" with that as a possible p
 1. [x] True
 1. [ ] False
 
-## True or False: The fall of Adam and Eve altered God's plan for human history {#the-seven-days-of-human-history-src-ichthys-true-or-false-the-fall-of-adam-and-eve-altered-god-s-plan-for-human-history}
+## True or False: The fall of Adam and Eve altered God's plan for human history {#the-seven-days-of-human-history-src-ichthys-true-or-false-the-fall-of-adam-and-eve-altered-gods-plan-for-human-history}
 
 1. [ ] True
 1. [x] False
@@ -2955,7 +2955,7 @@ III. Human freedom of choice does not mean the freedom to harm others, rather th
 
 
 
-## True or False: God's strict superintendence of human freedom is direct evidence that He views it as important. {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-1-and-2-src-ichthys-true-or-false-god-s-strict-superintendence-of-human-freedom-is-direct-evidence-that-he-views-it-as-important}
+## True or False: God's strict superintendence of human freedom is direct evidence that He views it as important. {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-1-and-2-src-ichthys-true-or-false-gods-strict-superintendence-of-human-freedom-is-direct-evidence-that-he-views-it-as-important}
 
 1. [x] True
 1. [ ] False
@@ -3755,7 +3755,7 @@ The gospel is theirs by first priority, and ours (as Gentiles) by the grace of G
 
 <!-- --- -->
 
-##### 4) The hardness of the majority of the line of Israel during the Church age has, since Paul's day, been a heavy burden on the heart of their believing countrymen {#the-complete-household-of-god-the-uniqueness-of-israel-src-ichthys-4-the-hardness-of-the-majority-of-the-line-of-israel-during-the-church-age-has-since-paul-s-day-been-a-heavy-burden-on-the-heart-of-their-believing-countrymen}
+##### 4) The hardness of the majority of the line of Israel during the Church age has, since Paul's day, been a heavy burden on the heart of their believing countrymen {#the-complete-household-of-god-the-uniqueness-of-israel-src-ichthys-4-the-hardness-of-the-majority-of-the-line-of-israel-during-the-church-age-has-since-pauls-day-been-a-heavy-burden-on-the-heart-of-their-believing-countrymen}
 
 We see this clearly in the writings of Paul in Romans 9:3 and Romans 10:1, among other places. Jesus Himself also mourned the Jews's lack of belief (Matt.23:37).
 
@@ -3787,7 +3787,7 @@ We see this in two large ways:
 
 <!-- --- -->
 
-##### 6) During the Millennium, Israel's pride of place in the family of God will be clearly apparent {#the-complete-household-of-god-the-uniqueness-of-israel-src-ichthys-6-during-the-millennium-israel-s-pride-of-place-in-the-family-of-god-will-be-clearly-apparent}
+##### 6) During the Millennium, Israel's pride of place in the family of God will be clearly apparent {#the-complete-household-of-god-the-uniqueness-of-israel-src-ichthys-6-during-the-millennium-israels-pride-of-place-in-the-family-of-god-will-be-clearly-apparent}
 
 The Son of David will return to rule the earth as her King... her *Jewish* King.
 
@@ -4023,7 +4023,7 @@ It is characteristic of certain flavors of dispensationalism to try to fully sep
 
 <!-- --- -->
 
-##### All this makes perfect sense when we understand that the Church is going to be God's 1:1 replacement for the fallen angels {#the-complete-household-of-god-the-church-src-ichthys-all-this-makes-perfect-sense-when-we-understand-that-the-church-is-going-to-be-god-s-1-1-replacement-for-the-fallen-angels}
+##### All this makes perfect sense when we understand that the Church is going to be God's 1:1 replacement for the fallen angels {#the-complete-household-of-god-the-church-src-ichthys-all-this-makes-perfect-sense-when-we-understand-that-the-church-is-going-to-be-gods-1-1-replacement-for-the-fallen-angels}
 
 {{< properties
 
@@ -4216,7 +4216,7 @@ Fully digested, the passage above teaches virtually the entire content of what w
 
 #### Summary points {#the-complete-household-of-god-the-mystery-of-christ-src-ichthys-summary-points}
 
-##### The twofold mystery of the nature of Christ's first advent, and gentile salvation {#the-complete-household-of-god-the-mystery-of-christ-src-ichthys-the-twofold-mystery-of-the-nature-of-christ-s-first-advent-and-gentile-salvation}
+##### The twofold mystery of the nature of Christ's first advent, and gentile salvation {#the-complete-household-of-god-the-mystery-of-christ-src-ichthys-the-twofold-mystery-of-the-nature-of-christs-first-advent-and-gentile-salvation}
 
 {{< properties
 
@@ -4401,7 +4401,7 @@ Such has been God's purpose for and plan of human history all along: the constru
 
 #### Follow-on topics {#the-complete-household-of-god-the-mystery-of-christ-src-ichthys-follow-on-topics}
 
-##### All these "mysteries" show that God's plans are always higher than ours {#the-complete-household-of-god-the-mystery-of-christ-src-ichthys-all-these-mysteries-show-that-god-s-plans-are-always-higher-than-ours}
+##### All these "mysteries" show that God's plans are always higher than ours {#the-complete-household-of-god-the-mystery-of-christ-src-ichthys-all-these-mysteries-show-that-gods-plans-are-always-higher-than-ours}
 
 {{< properties
 
@@ -4546,7 +4546,7 @@ In short, by applying the analogy of marriage, we learn about who Christ is and 
 
 #### Follow-on topics {#the-complete-household-of-god-the-bride-src-ichthys-follow-on-topics}
 
-##### If human marriage symbolically represents the relationship between Christ and the Church, why won't it be a thing in eternity? {#the-complete-household-of-god-the-bride-src-ichthys-if-human-marriage-symbolically-represents-the-relationship-between-christ-and-the-church-why-won-t-it-be-a-thing-in-eternity}
+##### If human marriage symbolically represents the relationship between Christ and the Church, why won't it be a thing in eternity? {#the-complete-household-of-god-the-bride-src-ichthys-if-human-marriage-symbolically-represents-the-relationship-between-christ-and-the-church-why-wont-it-be-a-thing-in-eternity}
 
 {{< properties
 
@@ -4758,7 +4758,7 @@ God speaks of giving unfaithful Israel a divorce due to adultery (verse 8). He s
 
 {{< quizdown >}}
 
-## True or False: Human marriage is designed to teach us about God's fundamental tenet in human history: Christ's incarnation and sacrifice for the salvation of His Church. {#the-complete-household-of-god-the-bride-src-ichthys-true-or-false-human-marriage-is-designed-to-teach-us-about-god-s-fundamental-tenet-in-human-history-christ-s-incarnation-and-sacrifice-for-the-salvation-of-his-church}
+## True or False: Human marriage is designed to teach us about God's fundamental tenet in human history: Christ's incarnation and sacrifice for the salvation of His Church. {#the-complete-household-of-god-the-bride-src-ichthys-true-or-false-human-marriage-is-designed-to-teach-us-about-gods-fundamental-tenet-in-human-history-christs-incarnation-and-sacrifice-for-the-salvation-of-his-church}
 
 1. [x] True
 1. [ ] False
@@ -4781,7 +4781,7 @@ III. Marriage is the most fundamental and original human institution.
 1. [x] I. and III alone. 
 1. [ ] All of the above. 
 
-## True or False: Scripture sometimes calls Israel's spiritual unfaithfulness to the Lord adultry. {#the-complete-household-of-god-the-bride-src-ichthys-true-or-false-scripture-sometimes-calls-israel-s-spiritual-unfaithfulness-to-the-lord-adultry}
+## True or False: Scripture sometimes calls Israel's spiritual unfaithfulness to the Lord adultry. {#the-complete-household-of-god-the-bride-src-ichthys-true-or-false-scripture-sometimes-calls-israels-spiritual-unfaithfulness-to-the-lord-adultry}
 
 1. [x] True 
 1. [ ] False

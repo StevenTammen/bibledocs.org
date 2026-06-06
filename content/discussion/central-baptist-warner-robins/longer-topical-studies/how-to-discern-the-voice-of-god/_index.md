@@ -88,7 +88,7 @@ This is because for us to properly use the Bible as our measuring stick for ever
 
 <!-- --- -->
 
-##### How do you recognize God's voice, as opposed to the voice of Satan and/or others under Satan's sway? Through the Word of God {#the-bible-is-how-we-know-what-is-from-god-how-do-you-recognize-god-s-voice-as-opposed-to-the-voice-of-satan-and-or-others-under-satan-s-sway-through-the-word-of-god}
+##### How do you recognize God's voice, as opposed to the voice of Satan and/or others under Satan's sway? Through the Word of God {#the-bible-is-how-we-know-what-is-from-god-how-do-you-recognize-gods-voice-as-opposed-to-the-voice-of-satan-and-or-others-under-satans-sway-through-the-word-of-god}
 
 {{< properties
 
@@ -430,7 +430,7 @@ So no, to reiterate again, God was not at all surprised by the fall. When God cr
 
 {{< quizdown >}}
 
-### True or False: Genesis doesn't directly identify the serpent as being (inhabited by) Satan. {#satan-is-the-serpent-of-genesis-3-true-or-false-genesis-doesn-t-directly-identify-the-serpent-as-being-inhabited-by-satan}
+### True or False: Genesis doesn't directly identify the serpent as being (inhabited by) Satan. {#satan-is-the-serpent-of-genesis-3-true-or-false-genesis-doesnt-directly-identify-the-serpent-as-being-inhabited-by-satan}
 
 1. [x] True
 1. [ ] False
@@ -440,7 +440,7 @@ So no, to reiterate again, God was not at all surprised by the fall. When God cr
 1. [ ] True
 1. [x] False
 
-### Why doesn't an elect angel fulfilling a role of "divine prosecutor" (as in Job or Zechariah) make sense? {#satan-is-the-serpent-of-genesis-3-why-doesn-t-an-elect-angel-fulfilling-a-role-of-divine-prosecutor-as-in-job-or-zechariah-make-sense}
+### Why doesn't an elect angel fulfilling a role of "divine prosecutor" (as in Job or Zechariah) make sense? {#satan-is-the-serpent-of-genesis-3-why-doesnt-an-elect-angel-fulfilling-a-role-of-divine-prosecutor-as-in-job-or-zechariah-make-sense}
 
 I. Elect angels help believers, not accuse them
 II. Satan is described as "the accuser of our brothers and sisters" in Revelation 12:10
@@ -470,7 +470,7 @@ In Genesis 3:15.
 1. [ ] Eve's children
 1. [x] Jesus Christ
 
-### True or False: The prophecy in Genesis 3:15 is a powerful promise of Satan's defeat. {#satan-is-the-serpent-of-genesis-3-true-or-false-the-prophecy-in-genesis-3-15-is-a-powerful-promise-of-satan-s-defeat}
+### True or False: The prophecy in Genesis 3:15 is a powerful promise of Satan's defeat. {#satan-is-the-serpent-of-genesis-3-true-or-false-the-prophecy-in-genesis-3-15-is-a-powerful-promise-of-satans-defeat}
 
 1. [x] True
 1. [ ] False
@@ -827,7 +827,7 @@ It is a good question, for if we spend lots of time with an ear to the ground, l
 
 <!-- --- -->
 
-##### Our perspective is necessarily limited, and this is by God's intentional design {#we-ought-not-have-unrealistic-expectations-about-spiritual-conviction-our-perspective-is-necessarily-limited-and-this-is-by-god-s-intentional-design}
+##### Our perspective is necessarily limited, and this is by God's intentional design {#we-ought-not-have-unrealistic-expectations-about-spiritual-conviction-our-perspective-is-necessarily-limited-and-this-is-by-gods-intentional-design}
 
 {{< properties
 
@@ -902,7 +902,7 @@ But if we pray earnestly, no matter how bad our intel, we can still always do wh
 
 <!-- --- -->
 
-##### But, again, having all we need to follow God's Will is different from it always being clear and dead obvious {#we-ought-not-have-unrealistic-expectations-about-spiritual-conviction-but-again-having-all-we-need-to-follow-god-s-will-is-different-from-it-always-being-clear-and-dead-obvious}
+##### But, again, having all we need to follow God's Will is different from it always being clear and dead obvious {#we-ought-not-have-unrealistic-expectations-about-spiritual-conviction-but-again-having-all-we-need-to-follow-gods-will-is-different-from-it-always-being-clear-and-dead-obvious}
 
 {{< properties
 
@@ -1101,7 +1101,7 @@ So, again, we need to view this account of mass conversion at Pentecost as somet
 1. [ ] 200
 1. [ ] 220 
 
-### Approximately how many people became believers after Peter's speech? {#the-momentousness-of-acts-2-approximately-how-many-people-became-believers-after-peter-s-speech}
+### Approximately how many people became believers after Peter's speech? {#the-momentousness-of-acts-2-approximately-how-many-people-became-believers-after-peters-speech}
 
 1. [ ] 300 
 1. [ ] 1000
@@ -1109,12 +1109,12 @@ So, again, we need to view this account of mass conversion at Pentecost as somet
 1. [x] 3,000
 1. [ ] 5,000
 
-### Who were those converted after Peter's speech? {#the-momentousness-of-acts-2-who-were-those-converted-after-peter-s-speech}
+### Who were those converted after Peter's speech? {#the-momentousness-of-acts-2-who-were-those-converted-after-peters-speech}
 
 1. [ ] Primarily Gentiles
 1. [x] Jews who realized they had crucified their long-awaited Messiah 
 
-### True or False: The mass conversion of the Jews at Pentecost in some ways prefigures the mass conversion of the Jews at Christ's Second Advent. {#the-momentousness-of-acts-2-true-or-false-the-mass-conversion-of-the-jews-at-pentecost-in-some-ways-prefigures-the-mass-conversion-of-the-jews-at-christ-s-second-advent}
+### True or False: The mass conversion of the Jews at Pentecost in some ways prefigures the mass conversion of the Jews at Christ's Second Advent. {#the-momentousness-of-acts-2-true-or-false-the-mass-conversion-of-the-jews-at-pentecost-in-some-ways-prefigures-the-mass-conversion-of-the-jews-at-christs-second-advent}
 
 1. [x] True
 1. [ ] False
@@ -1258,7 +1258,7 @@ Check all that apply.
 1. [ ] Emotions are inherently evil 
 1. [x] Emotions should be led, not followed
 
-### True or False: Emotional conviction operates on the biblical truth stored in our hearts and the Holy Spirit's prompting. {#conviction-is-not-based-upon-emotion-but-upon-the-truth-true-or-false-emotional-conviction-operates-on-the-biblical-truth-stored-in-our-hearts-and-the-holy-spirit-s-prompting}
+### True or False: Emotional conviction operates on the biblical truth stored in our hearts and the Holy Spirit's prompting. {#conviction-is-not-based-upon-emotion-but-upon-the-truth-true-or-false-emotional-conviction-operates-on-the-biblical-truth-stored-in-our-hearts-and-the-holy-spirits-prompting}
 
 1. [ ] True
 1. [x] False
@@ -1698,7 +1698,7 @@ Check all that apply.
 1. [x] Popularity or fame does not necessarily mean they did or are doing God's Will. 
 1. [x] It is relatively safer to admire people whose spiritual maturity we can observe ourselves, rather than historical figures that don't show up in inspired scripture. 
 
-### True or False: We should not look at other believers as an unattainable standard, but learn from them and reconize that we are all tools in God's hands. {#drawing-inspiration-from-the-faith-of-others-true-or-false-we-should-not-look-at-other-believers-as-an-unattainable-standard-but-learn-from-them-and-reconize-that-we-are-all-tools-in-god-s-hands}
+### True or False: We should not look at other believers as an unattainable standard, but learn from them and reconize that we are all tools in God's hands. {#drawing-inspiration-from-the-faith-of-others-true-or-false-we-should-not-look-at-other-believers-as-an-unattainable-standard-but-learn-from-them-and-reconize-that-we-are-all-tools-in-gods-hands}
 
 1. [x] True 
 1. [ ] False
@@ -1766,7 +1766,7 @@ So, for example, we might become angry at God if a family member is sick and we 
 
 <!-- --- -->
 
-##### The only things we can be certain of are God's promises as related in the Bible, not our own desires or even what others might call God's promises {#what-we-believe-will-always-become-a-reality-if-and-only-if-we-target-our-faith-properly-the-only-things-we-can-be-certain-of-are-god-s-promises-as-related-in-the-bible-not-our-own-desires-or-even-what-others-might-call-god-s-promises}
+##### The only things we can be certain of are God's promises as related in the Bible, not our own desires or even what others might call God's promises {#what-we-believe-will-always-become-a-reality-if-and-only-if-we-target-our-faith-properly-the-only-things-we-can-be-certain-of-are-gods-promises-as-related-in-the-bible-not-our-own-desires-or-even-what-others-might-call-gods-promises}
 
 {{< properties
 
@@ -1801,7 +1801,7 @@ It is far better for us to err very much on the side of giving God the benefit o
 1. [ ] True
 1. [x] False
 
-### True or False: We should rely on God's promises in the Bible, not try to twist them into whatever we might want them to be. {#what-we-believe-will-always-become-a-reality-if-and-only-if-we-target-our-faith-properly-true-or-false-we-should-rely-on-god-s-promises-in-the-bible-not-try-to-twist-them-into-whatever-we-might-want-them-to-be}
+### True or False: We should rely on God's promises in the Bible, not try to twist them into whatever we might want them to be. {#what-we-believe-will-always-become-a-reality-if-and-only-if-we-target-our-faith-properly-true-or-false-we-should-rely-on-gods-promises-in-the-bible-not-try-to-twist-them-into-whatever-we-might-want-them-to-be}
 
 1. [x] True
 1. [ ] False
@@ -1826,15 +1826,15 @@ III. God's promises are not individual events in our lives, but broader promises
 
 
 
-### [Why was Abel's sacrifice acceptable—even praised—but not Cain's?](/discussion/central-baptist-warner-robins/longer-topical-studies/how-to-discern-the-voice-of-god/does-the-voice-call-you-to-trust-god/why-was-abels-sacrifice-acceptable-even-praised-but-not-cains) {#why-was-abel-s-sacrifice-acceptable-even-praised-but-not-cain-s}
+### [Why was Abel's sacrifice acceptable—even praised—but not Cain's?](/discussion/central-baptist-warner-robins/longer-topical-studies/how-to-discern-the-voice-of-god/does-the-voice-call-you-to-trust-god/why-was-abels-sacrifice-acceptable-even-praised-but-not-cains) {#why-was-abels-sacrifice-acceptable-even-praised-but-not-cains}
 
 
 
-#### Video {#why-was-abel-s-sacrifice-acceptable-even-praised-but-not-cain-s-video}
+#### Video {#why-was-abels-sacrifice-acceptable-even-praised-but-not-cains-video}
 
 - [Link to recording segments on Dropbox](https://www.dropbox.com/scl/fo/op1ysd31b2ltjjlk3f0nz/AEUlN5VrJTp5rASnaFHY7g8?rlkey=q7bl450u56d2t35nndmpj49o1&st=vpgz30m3&dl=0)
 
-#### Summary {#why-was-abel-s-sacrifice-acceptable-even-praised-but-not-cain-s-summary}
+#### Summary {#why-was-abels-sacrifice-acceptable-even-praised-but-not-cains-summary}
 
 
 
@@ -1846,11 +1846,11 @@ People have an easy time understanding why Cain was punished after he murdered h
 
 {{% toggleable-content %}}
 
-#### Content {#why-was-abel-s-sacrifice-acceptable-even-praised-but-not-cain-s-content}
+#### Content {#why-was-abels-sacrifice-acceptable-even-praised-but-not-cains-content}
 
 <!-- --- -->
 
-##### The passage in Genesis chapter 4 {#why-was-abel-s-sacrifice-acceptable-even-praised-but-not-cain-s-the-passage-in-genesis-chapter-4}
+##### The passage in Genesis chapter 4 {#why-was-abels-sacrifice-acceptable-even-praised-but-not-cains-the-passage-in-genesis-chapter-4}
 
 {{< properties
 
@@ -1882,11 +1882,11 @@ The thing that makes the interpretation of this passage somewhat difficult is th
 
 <!-- --- -->
 
-###### Further discussion {#why-was-abel-s-sacrifice-acceptable-even-praised-but-not-cain-s-further-discussion}
+###### Further discussion {#why-was-abels-sacrifice-acceptable-even-praised-but-not-cains-further-discussion}
 
 <!-- --- -->
 
-##### One possibility is that the only difference between the two was heart state {#why-was-abel-s-sacrifice-acceptable-even-praised-but-not-cain-s-one-possibility-is-that-the-only-difference-between-the-two-was-heart-state}
+##### One possibility is that the only difference between the two was heart state {#why-was-abels-sacrifice-acceptable-even-praised-but-not-cains-one-possibility-is-that-the-only-difference-between-the-two-was-heart-state}
 
 {{< properties
 
@@ -1904,7 +1904,7 @@ Mapping this onto our passage, Abel would be like the first man, and Cain like t
 
 <!-- --- -->
 
-##### The symbolism of blood sacrifice {#why-was-abel-s-sacrifice-acceptable-even-praised-but-not-cain-s-the-symbolism-of-blood-sacrifice}
+##### The symbolism of blood sacrifice {#why-was-abels-sacrifice-acceptable-even-praised-but-not-cains-the-symbolism-of-blood-sacrifice}
 
 {{< properties
 
@@ -1946,22 +1946,22 @@ For it is by grace you have been saved, through faith—and this not from yourse
 
 <!-- --- -->
 
-###### Further discussion {#why-was-abel-s-sacrifice-acceptable-even-praised-but-not-cain-s-further-discussion}
+###### Further discussion {#why-was-abels-sacrifice-acceptable-even-praised-but-not-cains-further-discussion}
 
 {{% /toggleable-content %}}
 
-#### Review Questions {#why-was-abel-s-sacrifice-acceptable-even-praised-but-not-cain-s-review-questions}
+#### Review Questions {#why-was-abels-sacrifice-acceptable-even-praised-but-not-cains-review-questions}
 
 {{< quizdown >}}
 
-### True or False: The Bible does not directly state why God favored Abel's sacrifice, and not Cain's. {#why-was-abel-s-sacrifice-acceptable-even-praised-but-not-cain-s-true-or-false-the-bible-does-not-directly-state-why-god-favored-abel-s-sacrifice-and-not-cain-s}
+### True or False: The Bible does not directly state why God favored Abel's sacrifice, and not Cain's. {#why-was-abels-sacrifice-acceptable-even-praised-but-not-cains-true-or-false-the-bible-does-not-directly-state-why-god-favored-abels-sacrifice-and-not-cains}
 
 In Genesis 4. 
 
 1. [x] True
 1. [ ] False
 
-### Which of the following statements are true? {#why-was-abel-s-sacrifice-acceptable-even-praised-but-not-cain-s-which-of-the-following-statements-are-true}
+### Which of the following statements are true? {#why-was-abels-sacrifice-acceptable-even-praised-but-not-cains-which-of-the-following-statements-are-true}
 
 Check all that apply.
 
@@ -1970,18 +1970,18 @@ Check all that apply.
 1. [x] Trying to work for salvation is an insult to God the Father, who judged all of our sins in His beloved Son
 1. [x] Cain was bragging to God about what he had done through his own effort
 
-### True or False: Different heart attitudes are a reasonable explanation for why God might treat Abel and Cain differently. {#why-was-abel-s-sacrifice-acceptable-even-praised-but-not-cain-s-true-or-false-different-heart-attitudes-are-a-reasonable-explanation-for-why-god-might-treat-abel-and-cain-differently}
+### True or False: Different heart attitudes are a reasonable explanation for why God might treat Abel and Cain differently. {#why-was-abels-sacrifice-acceptable-even-praised-but-not-cains-true-or-false-different-heart-attitudes-are-a-reasonable-explanation-for-why-god-might-treat-abel-and-cain-differently}
 
 1. [x] True
 1. [ ] False
 
 
-### True or False: Legitimate Christian "good works" are done in the power of the Holy Spirit, not in the power of the sinful flesh. {#why-was-abel-s-sacrifice-acceptable-even-praised-but-not-cain-s-true-or-false-legitimate-christian-good-works-are-done-in-the-power-of-the-holy-spirit-not-in-the-power-of-the-sinful-flesh}
+### True or False: Legitimate Christian "good works" are done in the power of the Holy Spirit, not in the power of the sinful flesh. {#why-was-abels-sacrifice-acceptable-even-praised-but-not-cains-true-or-false-legitimate-christian-good-works-are-done-in-the-power-of-the-holy-spirit-not-in-the-power-of-the-sinful-flesh}
 
 1. [x] True
 1. [ ] False
 
-### True or False: Abel's sacrifice symbolizes Christ's sacrifice on the cross. {#why-was-abel-s-sacrifice-acceptable-even-praised-but-not-cain-s-true-or-false-abel-s-sacrifice-symbolizes-christ-s-sacrifice-on-the-cross}
+### True or False: Abel's sacrifice symbolizes Christ's sacrifice on the cross. {#why-was-abels-sacrifice-acceptable-even-praised-but-not-cains-true-or-false-abels-sacrifice-symbolizes-christs-sacrifice-on-the-cross}
 
 1. [x] True
 1. [ ] False
@@ -1998,13 +1998,13 @@ Check all that apply.
 
 
 
-## [Does the voice align with God's character?](/discussion/central-baptist-warner-robins/longer-topical-studies/how-to-discern-the-voice-of-god/does-the-voice-align-with-gods-character) {#does-the-voice-align-with-god-s-character}
+## [Does the voice align with God's character?](/discussion/central-baptist-warner-robins/longer-topical-studies/how-to-discern-the-voice-of-god/does-the-voice-align-with-gods-character) {#does-the-voice-align-with-gods-character}
 
 
 
 {{< discussion-note src="Central Baptist - Warner Robins">}}
 
-### Summary {#does-the-voice-align-with-god-s-character-summary}
+### Summary {#does-the-voice-align-with-gods-character-summary}
 
 
 
@@ -2202,7 +2202,7 @@ Per our above discussion, the question is whether the anger kindling within Mose
 
 Ultimately, we really can't tell from the text itself. Since it is so difficult for humans to experience intense negative emotional stimuli with perfect application, it is perhaps reasonable to assume that maybe Moses let all this get to him a bit more than he should of. But that is still a far cry from taking the position that he completely lost his cool and threw a hissy fit, contrary to propriety. Could you take the passage that way? Maybe. But you could just as well *not* take it that way. Either seems to me to be possibly textually.
 
-##### So if we can't make out details about his anger from the text itself, what else can we use to determine whether or not the throwing of the tablets was problematic? {#did-moses-do-wrong-in-throwing-the-first-set-of-tablets-in-exodus-32-19-so-if-we-can-t-make-out-details-about-his-anger-from-the-text-itself-what-else-can-we-use-to-determine-whether-or-not-the-throwing-of-the-tablets-was-problematic}
+##### So if we can't make out details about his anger from the text itself, what else can we use to determine whether or not the throwing of the tablets was problematic? {#did-moses-do-wrong-in-throwing-the-first-set-of-tablets-in-exodus-32-19-so-if-we-cant-make-out-details-about-his-anger-from-the-text-itself-what-else-can-we-use-to-determine-whether-or-not-the-throwing-of-the-tablets-was-problematic}
 
 Most of the rest of our discussion here will be a bit indirect, and decidedly less than dogmatic.
 
@@ -2467,11 +2467,11 @@ This logically necessitates that Paul wrote a shopping list that contains "apple
 
 
 
-### [Reflections upon God’s love as expressed in Exodus 34:6–7a, in the context of the Exodus Generation](/discussion/central-baptist-warner-robins/longer-topical-studies/how-to-discern-the-voice-of-god/does-the-voice-align-with-gods-character/reflections-upon-gods-love-as-expressed-in-exodus-34-6-7a-in-the-context-of-the-exodus-generation) {#reflections-upon-gods-love-as-expressed-in-exodus-34-6-7a-in-the-context-of-the-exodus-generation}
+### [Reflections upon God’s love as expressed in Exodus 34:6–7a, in the context of the Exodus Generation](/discussion/central-baptist-warner-robins/longer-topical-studies/how-to-discern-the-voice-of-god/does-the-voice-align-with-gods-character/reflections-upon-gods-love-as-expressed-in-exodus-34-6-7a-in-the-context-of-the-exodus-generation) {#reflections-upon-god-s-love-as-expressed-in-exodus-34-6-7a-in-the-context-of-the-exodus-generation}
 
 
 
-#### Summary {#reflections-upon-gods-love-as-expressed-in-exodus-34-6-7a-in-the-context-of-the-exodus-generation-summary}
+#### Summary {#reflections-upon-god-s-love-as-expressed-in-exodus-34-6-7a-in-the-context-of-the-exodus-generation-summary}
 
 
 
@@ -2493,29 +2493,29 @@ God makes this proclamation right on the heels of the Israelite's sin regarding 
 
 {{% toggleable-content %}}
 
-#### Content {#reflections-upon-gods-love-as-expressed-in-exodus-34-6-7a-in-the-context-of-the-exodus-generation-content}
+#### Content {#reflections-upon-god-s-love-as-expressed-in-exodus-34-6-7a-in-the-context-of-the-exodus-generation-content}
 
 <!-- --- -->
 
-##### Recall, some of the great things God had shown to this generation {#reflections-upon-gods-love-as-expressed-in-exodus-34-6-7a-in-the-context-of-the-exodus-generation-recall-some-of-the-great-things-god-had-shown-to-this-generation}
+##### Recall, some of the great things God had shown to this generation {#reflections-upon-god-s-love-as-expressed-in-exodus-34-6-7a-in-the-context-of-the-exodus-generation-recall-some-of-the-great-things-god-had-shown-to-this-generation}
 
 God led his people out of slavery in Egypt. He showed them many miraculous signs, sending plagues upon the Egyptians when Pharaoh did not let His people go. Even more, when Pharaoh sent his army in pursuit, God parted the Red Sea for the Israelites, and then utterly destroyed the pursuing army in a breathtaking display of power and glory. After that, God provided for the Israelites in the wilderness, giving them quails and manna for sustenance in an overtly miraculous way.
 
 The Lord did all of these things in the sight of the people. Never once did He fail to provide for them, never once did He fail to deliver them. Instead, they were given to see miracle after miracle as God delivered them from the hand of their enemy and led them into the land He had promised Abraham, their ancestor.
 
-##### But the hearts of the people were hard {#reflections-upon-gods-love-as-expressed-in-exodus-34-6-7a-in-the-context-of-the-exodus-generation-but-the-hearts-of-the-people-were-hard}
+##### But the hearts of the people were hard {#reflections-upon-god-s-love-as-expressed-in-exodus-34-6-7a-in-the-context-of-the-exodus-generation-but-the-hearts-of-the-people-were-hard}
 
 So were the people grateful for the deliverance God had worked for them? Did they praise Him for His Mercy and Power?
 
 Unfortunately not. The people whined and grumbled, even pointing their hearts back towards Egypt, where they had been in captivity (Neh.9:16-17; cf. Num.14:1-4). And they did not content themselves to leave their sin at just that, but in Exodus 32 even went so low as to make an idol of gold and worship it instead of contenting themselves to wait for Moses' return.
 
-##### Yet God's Mercy did not utterly turn from them even so {#reflections-upon-gods-love-as-expressed-in-exodus-34-6-7a-in-the-context-of-the-exodus-generation-yet-god-s-mercy-did-not-utterly-turn-from-them-even-so}
+##### Yet God's Mercy did not utterly turn from them even so {#reflections-upon-god-s-love-as-expressed-in-exodus-34-6-7a-in-the-context-of-the-exodus-generation-yet-gods-mercy-did-not-utterly-turn-from-them-even-so}
 
 Following their idolatry in Exodus 32, the Bible is very clear that God was displeased with the Israelites, to be sure. And He had every right to be, given their poor attitude and evil works.
 
 Yet in Exodus 34:6-7a, God still proclaims to Moses His Grace and Mercy. He did not wipe the Israelites off the face of the Earth, nor, as the following narrative shows (as in the book of Joshua), did He abandon them as they went on to conquer Canaan. Instead, He still lovingly superintended them and led them into their inheritance.
 
-##### What might we take away from all this? {#reflections-upon-gods-love-as-expressed-in-exodus-34-6-7a-in-the-context-of-the-exodus-generation-what-might-we-take-away-from-all-this}
+##### What might we take away from all this? {#reflections-upon-god-s-love-as-expressed-in-exodus-34-6-7a-in-the-context-of-the-exodus-generation-what-might-we-take-away-from-all-this}
 
 If you have ever been tempted to hide your face from God on account of sin, then God speaking these words to Moses right after the gross sin of the Israelites ought to provide example enough of God's gracious attitude toward sinners. If we refuse to turn back to Him, the only ones we are hurting are ourselves. We will be disciplined for our sin as all true children of God are (compare Hebrews 12:4ff.), but never will God's attitude of Love and Mercy towards us be turned to Wrath and Judgment. All we must do is believe.
 

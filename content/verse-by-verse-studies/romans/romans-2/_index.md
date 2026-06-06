@@ -120,7 +120,7 @@ For us to do our jobs properly speaking truth into the lives of others, in other
 
 It is not only a matter of knowing what things the Bible might prohibit, but also knowing what things it does not prohibit in a black and white sort of way. One might compare Prohibition in America during the 1920s and thereabouts. The Bible does not outright ban alcohol, although it does condemn drunkenness. When some groups of Christians were insisting that alcohol itself was sinful and therefore needed to be banned—and more to the point in our context here, were looking down their noses at others who partook to any degree whatsoever—well, their legalism came about primarily as a result of being ignorant of the scriptures, which never make any such rule concerning alcohol.
 
-#### Psychology's idea of "projection" {#romans-2-1-3-how-should-we-make-our-judgments-psychology-s-idea-of-projection}
+#### Psychology's idea of "projection" {#romans-2-1-3-how-should-we-make-our-judgments-psychologys-idea-of-projection}
 
 Psychology has a concept it calls "[projection](https://en.wikipedia.org/wiki/Psychological_projection)". The phenomenon goes something like this: person A goes on a tirade against topic X. Person B then looks very confused because they they know that person A in fact does X themselves.
 
@@ -156,7 +156,7 @@ Our culture at present—in 21st-century America—is vehemently opposed to taki
 
 
 
-## [Romans 2:4 - Is the point of this verse to equate passing judgment upon others with showing contempt for God's kindness, forbearance, and patience?](/verse-by-verse-studies/romans/romans-2/romans-2-4-is-the-point-of-this-verse-to-equate-passing-judgment-upon-others-with-showing-contempt-for-gods-kindness-forbearance-and-patience) {#romans-2-4-is-the-point-of-this-verse-to-equate-passing-judgment-upon-others-with-showing-contempt-for-god-s-kindness-forbearance-and-patience}
+## [Romans 2:4 - Is the point of this verse to equate passing judgment upon others with showing contempt for God's kindness, forbearance, and patience?](/verse-by-verse-studies/romans/romans-2/romans-2-4-is-the-point-of-this-verse-to-equate-passing-judgment-upon-others-with-showing-contempt-for-gods-kindness-forbearance-and-patience) {#romans-2-4-is-the-point-of-this-verse-to-equate-passing-judgment-upon-others-with-showing-contempt-for-gods-kindness-forbearance-and-patience}
 
 
 
@@ -170,7 +170,7 @@ videoPlaylist=""
 slides="https://bibledocs.org/slides/"
 %}} -->
 
-### Summary {#romans-2-4-is-the-point-of-this-verse-to-equate-passing-judgment-upon-others-with-showing-contempt-for-god-s-kindness-forbearance-and-patience-summary}
+### Summary {#romans-2-4-is-the-point-of-this-verse-to-equate-passing-judgment-upon-others-with-showing-contempt-for-gods-kindness-forbearance-and-patience-summary}
 
 
 
@@ -182,7 +182,7 @@ In essence, Romans 2:4 introduces another "possible explanation" for how the peo
 
 {{% toggleable-content %}}
 
-### Content {#romans-2-4-is-the-point-of-this-verse-to-equate-passing-judgment-upon-others-with-showing-contempt-for-god-s-kindness-forbearance-and-patience-content}
+### Content {#romans-2-4-is-the-point-of-this-verse-to-equate-passing-judgment-upon-others-with-showing-contempt-for-gods-kindness-forbearance-and-patience-content}
 
 <!-- --- -->
 
@@ -219,7 +219,7 @@ Verse 4 is therefore just another "possible explanation" for how these people ca
 
 <!-- {{% toggleable-transcript %}}
 
-### Video/audio transcript {#romans-2-4-is-the-point-of-this-verse-to-equate-passing-judgment-upon-others-with-showing-contempt-for-god-s-kindness-forbearance-and-patience-video-audio-transcript}
+### Video/audio transcript {#romans-2-4-is-the-point-of-this-verse-to-equate-passing-judgment-upon-others-with-showing-contempt-for-gods-kindness-forbearance-and-patience-video-audio-transcript}
 
 
 
@@ -232,7 +232,7 @@ Verse 4 is therefore just another "possible explanation" for how these people ca
 
 
 
-## [Romans 2:4 - How exactly does God's kindness lead to repentance?](/verse-by-verse-studies/romans/romans-2/romans-2-4-how-exactly-does-gods-kindness-lead-to-repentance) {#romans-2-4-how-exactly-does-god-s-kindness-lead-to-repentance}
+## [Romans 2:4 - How exactly does God's kindness lead to repentance?](/verse-by-verse-studies/romans/romans-2/romans-2-4-how-exactly-does-gods-kindness-lead-to-repentance) {#romans-2-4-how-exactly-does-gods-kindness-lead-to-repentance}
 
 
 
@@ -246,7 +246,7 @@ videoPlaylist=""
 slides="https://bibledocs.org/slides/"
 %}} -->
 
-### Summary {#romans-2-4-how-exactly-does-god-s-kindness-lead-to-repentance-summary}
+### Summary {#romans-2-4-how-exactly-does-gods-kindness-lead-to-repentance-summary}
 
 
 
@@ -258,7 +258,7 @@ God's kindness leads to repentance in the sense that He spares sinners from His 
 
 {{% toggleable-content %}}
 
-### Content {#romans-2-4-how-exactly-does-god-s-kindness-lead-to-repentance-content}
+### Content {#romans-2-4-how-exactly-does-gods-kindness-lead-to-repentance-content}
 
 <!-- --- -->
 
@@ -277,7 +277,7 @@ We might compare the people of Nineveh in the Old Testament book of Jonah. That 
 
 <!-- {{% toggleable-transcript %}}
 
-### Video/audio transcript {#romans-2-4-how-exactly-does-god-s-kindness-lead-to-repentance-video-audio-transcript}
+### Video/audio transcript {#romans-2-4-how-exactly-does-gods-kindness-lead-to-repentance-video-audio-transcript}
 
 
 
@@ -517,7 +517,7 @@ Whether you take verse 13 as part of the digression mostly hinges on whether you
 In any case, it honestly doesn't change the meaning all that much one way or the other. The really important thing, in my opinion, is to make it clear that Paul digresses here before getting back to his point in verse 16. One does that when translating by setting apart the digression (regardless if you have decided it is three verses, or only two verses) with parentheses.
 {{% /technical-discussion %}}
 
-##### If Paul were saying ignorance were an excuse in Romans 2:12, we'd expect verses 13-15 to be a digression about how morality is somehow conditioned by personal knowledge {#romans-2-12-16-wait-are-gentiles-held-to-looser-standards-and-excused-due-to-their-ignorance-of-the-law-if-paul-were-saying-ignorance-were-an-excuse-in-romans-2-12-we-d-expect-verses-13-15-to-be-a-digression-about-how-morality-is-somehow-conditioned-by-personal-knowledge}
+##### If Paul were saying ignorance were an excuse in Romans 2:12, we'd expect verses 13-15 to be a digression about how morality is somehow conditioned by personal knowledge {#romans-2-12-16-wait-are-gentiles-held-to-looser-standards-and-excused-due-to-their-ignorance-of-the-law-if-paul-were-saying-ignorance-were-an-excuse-in-romans-2-12-wed-expect-verses-13-15-to-be-a-digression-about-how-morality-is-somehow-conditioned-by-personal-knowledge}
 
 If one remembers that the epistles were circulated throughout the Mediterranean among the churches, *and read through as letters in a way that we often fail to do in the present*, then the words Paul spoke about natural revelation in Romans 1:18ff. were perhaps only a minute past in the minds of those listening to the letter being read. (Most people in antiquity were illiterate, so the letters would be read out loud to the group by a single individual who could read). Those past verses already make it *very* clear that no humans can ever use ignorance as an excuse, and nobody reading the letter through like this would forget that those past verses were there just before this present passage.
 

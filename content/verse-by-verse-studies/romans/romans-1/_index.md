@@ -449,7 +449,7 @@ The implication should not be lost on us!
 
 
 
-## [Romans 1:22-25 - What are our modern day idols, given that the worshiping of animal statues isn't so much a thing anymore?](/verse-by-verse-studies/romans/romans-1/romans-1-22-25-what-are-our-modern-day-idols-given-that-the-worshiping-of-animal-statues-isnt-so-much-a-thing-anymore) {#romans-1-22-25-what-are-our-modern-day-idols-given-that-the-worshiping-of-animal-statues-isn-t-so-much-a-thing-anymore}
+## [Romans 1:22-25 - What are our modern day idols, given that the worshiping of animal statues isn't so much a thing anymore?](/verse-by-verse-studies/romans/romans-1/romans-1-22-25-what-are-our-modern-day-idols-given-that-the-worshiping-of-animal-statues-isnt-so-much-a-thing-anymore) {#romans-1-22-25-what-are-our-modern-day-idols-given-that-the-worshiping-of-animal-statues-isnt-so-much-a-thing-anymore}
 
 
 
@@ -463,7 +463,7 @@ videoPlaylist=""
 slides="https://bibledocs.org/slides/"
 %}} -->
 
-### Summary {#romans-1-22-25-what-are-our-modern-day-idols-given-that-the-worshiping-of-animal-statues-isn-t-so-much-a-thing-anymore-summary}
+### Summary {#romans-1-22-25-what-are-our-modern-day-idols-given-that-the-worshiping-of-animal-statues-isnt-so-much-a-thing-anymore-summary}
 
 
 
@@ -475,7 +475,7 @@ Idolatry is not just bowing to down to statues of wood and stone, but is any tim
 
 {{% toggleable-content %}}
 
-### Content {#romans-1-22-25-what-are-our-modern-day-idols-given-that-the-worshiping-of-animal-statues-isn-t-so-much-a-thing-anymore-content}
+### Content {#romans-1-22-25-what-are-our-modern-day-idols-given-that-the-worshiping-of-animal-statues-isnt-so-much-a-thing-anymore-content}
 
 <!-- --- -->
 
@@ -494,7 +494,7 @@ Nobody is perfect in this—not even close. The point is that we should stop lyi
 
 <!-- {{% toggleable-transcript %}}
 
-### Video/audio transcript {#romans-1-22-25-what-are-our-modern-day-idols-given-that-the-worshiping-of-animal-statues-isn-t-so-much-a-thing-anymore-video-audio-transcript}
+### Video/audio transcript {#romans-1-22-25-what-are-our-modern-day-idols-given-that-the-worshiping-of-animal-statues-isnt-so-much-a-thing-anymore-video-audio-transcript}
 
 
 
@@ -706,7 +706,7 @@ All this to say, God's progressive removal of restraint from wayward children is
 
 As another example of God giving creatures over to their folly, consider Satan's rebellion against God. Satan is an angel far more intelligent and capable than we can even imagine. He was the preeminent created being—the one tasked with warding off evil from the throne of God (cf. Ezekiel 28:11ff.). Satan *knew* God. But he still chose to raise his arm against his Creator. It is utter madness, complete insanity. How could a finite created being ever defeat his Infinite Maker?!
 
-#### God's removal of restraint does *not* violate creature free will {#romans-1-26-does-god-give-up-on-sinners-god-s-removal-of-restraint-does-not-violate-creature-free-will}
+#### God's removal of restraint does *not* violate creature free will {#romans-1-26-does-god-give-up-on-sinners-gods-removal-of-restraint-does-not-violate-creature-free-will}
 
 God removing restraint from those choosing a path of rebellion is basically synonymous with Him removing His blessings of natural instinct and insight/understanding from them. These things—cf. the human conscience—are gifts God gives humanity out of His great mercy and grace, not because He must. But when people turn away from Him, He merely removes some of these blessings He would not need to give us to begin with. Without these blessings He gives, we would *all* be in this sorry state of utter blindness, lacking the ability to understand even the most basic of spiritual truths. Praise be to God that He only removes His insight from us if that is well and truly what we have decided in our heart of hearts that we want, and never for any other reason!
 
@@ -830,7 +830,7 @@ These verses are quite unambiguous. Both homosexual relationships between women 
 
 
 
-## [Romans 1:26-27 - Love is love, right? You can't be against love!](/verse-by-verse-studies/romans/romans-1/romans-1-26-27-love-is-love-right-you-cant-be-against-love) {#romans-1-26-27-love-is-love-right-you-can-t-be-against-love}
+## [Romans 1:26-27 - Love is love, right? You can't be against love!](/verse-by-verse-studies/romans/romans-1/romans-1-26-27-love-is-love-right-you-cant-be-against-love) {#romans-1-26-27-love-is-love-right-you-cant-be-against-love}
 
 
 
@@ -844,7 +844,7 @@ videoPlaylist=""
 slides="https://bibledocs.org/slides/"
 %}} -->
 
-### Summary {#romans-1-26-27-love-is-love-right-you-can-t-be-against-love-summary}
+### Summary {#romans-1-26-27-love-is-love-right-you-cant-be-against-love-summary}
 
 
 
@@ -856,7 +856,7 @@ Greek has multiple words for "love." The fact that God clearly supports "love" (
 
 {{% toggleable-content %}}
 
-### Content {#romans-1-26-27-love-is-love-right-you-can-t-be-against-love-content}
+### Content {#romans-1-26-27-love-is-love-right-you-cant-be-against-love-content}
 
 <!-- --- -->
 
@@ -894,7 +894,7 @@ Finally, if you really love someone, *you do not encourage and enable their gros
 
 <!-- {{% toggleable-transcript %}}
 
-### Video/audio transcript {#romans-1-26-27-love-is-love-right-you-can-t-be-against-love-video-audio-transcript}
+### Video/audio transcript {#romans-1-26-27-love-is-love-right-you-cant-be-against-love-video-audio-transcript}
 
 
 
@@ -1286,7 +1286,7 @@ That is, God arranged the world in such a way that we do not even have to go aga
 
 
 
-## [Romans 1:29-31 - What is not proper in God's eyes?](/verse-by-verse-studies/romans/romans-1/romans-1-29-31-what-is-not-proper-in-gods-eyes) {#romans-1-29-31-what-is-not-proper-in-god-s-eyes}
+## [Romans 1:29-31 - What is not proper in God's eyes?](/verse-by-verse-studies/romans/romans-1/romans-1-29-31-what-is-not-proper-in-gods-eyes) {#romans-1-29-31-what-is-not-proper-in-gods-eyes}
 
 
 
@@ -1300,7 +1300,7 @@ videoPlaylist=""
 slides="https://bibledocs.org/slides/"
 %}} -->
 
-### Summary {#romans-1-29-31-what-is-not-proper-in-god-s-eyes-summary}
+### Summary {#romans-1-29-31-what-is-not-proper-in-gods-eyes-summary}
 
 
 
@@ -1312,7 +1312,7 @@ Romans 1:29-31 contains quite a list of things that we ought to avoid—things t
 
 {{% toggleable-content %}}
 
-### Content {#romans-1-29-31-what-is-not-proper-in-god-s-eyes-content}
+### Content {#romans-1-29-31-what-is-not-proper-in-gods-eyes-content}
 
 <!-- --- -->
 
@@ -1366,7 +1366,7 @@ All of this is important for ensuring that we accurately discern the nature of t
 
 <!-- {{% toggleable-transcript %}}
 
-### Video/audio transcript {#romans-1-29-31-what-is-not-proper-in-god-s-eyes-video-audio-transcript}
+### Video/audio transcript {#romans-1-29-31-what-is-not-proper-in-gods-eyes-video-audio-transcript}
 
 
 

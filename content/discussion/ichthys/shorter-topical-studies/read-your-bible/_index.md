@@ -472,7 +472,7 @@ Only by putting in the time to "dig" will we make deep progress in the truth. Go
 
 <!-- --- -->
 
-##### "But I'm too busy" {#excuses-people-give-for-not-reading-the-bible-src-ichthys-but-i-m-too-busy}
+##### "But I'm too busy" {#excuses-people-give-for-not-reading-the-bible-src-ichthys-but-im-too-busy}
 
 Another area to discuss is the specific excuse of "I'm too busy."
 

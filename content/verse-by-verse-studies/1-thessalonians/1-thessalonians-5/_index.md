@@ -122,7 +122,7 @@ But in 1 Thessalonians 5:4-11 (basically directly in parallel with Matthew 24:36
 
 The point of all of this is that we must be aware and alert, always prepared for the return of our master. In [our discussion of 1 Thessalonians 4:13-18](/verse-by-verse-studies/1-thessalonians/1-thessalonians-4/1-thessalonians-4-13-18-the-resurrection-of-the-dead-and-the-rapture-at-the-second-coming-of-christ/), we briefly touched on the false doctrine of the pre-tribulation rapture, and argued that believing that particular false teaching inherently makes one spiritually complacent... the exact opposite of the attitude that 1 Thessalonians 5:4-11 (and Matthew 24:36ff.) would have us adopt! For if God will just take us from the world before Christ "actually" returns anyway (His annihilation of the armies of evil at Armageddon being the culmination of a years-long series of judgements rendered against the world), why bother worrying about all this dark prophecy stuff? It can all be completely academic to us if we won't have to live it.
 
-#### Modern Christianity's distaste for and avoidance of eschatology {#1-thessalonians-5-4-11-we-are-children-of-the-light-so-unlike-others-should-stay-awake-and-sober-modern-christianity-s-distaste-for-and-avoidance-of-eschatology}
+#### Modern Christianity's distaste for and avoidance of eschatology {#1-thessalonians-5-4-11-we-are-children-of-the-light-so-unlike-others-should-stay-awake-and-sober-modern-christianitys-distaste-for-and-avoidance-of-eschatology}
 
 If you think I'm exaggerating the carelessness modern Christians have when it comes to looking into the interpretation of Revelation and other eschatological prophecy, consider the last time you heard *any* sort of actually substantial teaching about the end times.
 

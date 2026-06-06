@@ -13,10 +13,6 @@ Some people ask whether the prostitute Rahab who hid the Jewish spies is the Rah
 
 ## [Dealing With the Main Arguments Against a Single Rahab Interpretation](/questions-and-answers/reader-correspondence/on-the-possibility-of-multiple-rahabs/dealing-with-the-main-arguments-against-a-single-rahab-interpretation) {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation}
 
-{{< properties
-stags="Rahab the prostitute"
->}}
-
 
 
 <!-- ## Video {#video}
@@ -113,7 +109,7 @@ This is an outright assumption. Unless the writer claims to know the mind of Jam
 
 <!-- --- -->
 
-##### Commenting on the argument's reasons for 'Rahab the harlot' identifications {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-commenting-on-the-argument-s-reasons-for-rahab-the-harlot-identifications}
+##### Commenting on the argument's reasons for 'Rahab the harlot' identifications {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-commenting-on-the-arguments-reasons-for-rahab-the-harlot-identifications}
 
 {{% quote src="http://www.outsidethecamp.org/rahab.htm" text="OutsideTheCamp.org" %}}
 
@@ -131,7 +127,7 @@ Observations (b) and (c) are valid points; when Rahab is mentioned in the "heroe
 
 <!-- --- -->
 
-##### Commenting on the argument's reasons for 'Rahab the relative of Christ' identification {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-commenting-on-the-argument-s-reasons-for-rahab-the-relative-of-christ-identification}
+##### Commenting on the argument's reasons for 'Rahab the relative of Christ' identification {#dealing-with-the-main-arguments-against-a-single-rahab-interpretation-commenting-on-the-arguments-reasons-for-rahab-the-relative-of-christ-identification}
 
 {{% quote src="http://www.outsidethecamp.org/rahab.htm" text="OutsideTheCamp.org" %}}
 
@@ -297,7 +293,7 @@ Sin is a human problem, not a woman problem. (Duh).
 
 <!-- --- -->
 
-#### But they were included in Matthew's genealogy specifically to showcase God's surpassing grace towards mankind {#the-supposed-scandal-of-a-prostitute-in-the-line-of-christ-but-they-were-included-in-matthew-s-genealogy-specifically-to-showcase-god-s-surpassing-grace-towards-mankind}
+#### But they were included in Matthew's genealogy specifically to showcase God's surpassing grace towards mankind {#the-supposed-scandal-of-a-prostitute-in-the-line-of-christ-but-they-were-included-in-matthews-genealogy-specifically-to-showcase-gods-surpassing-grace-towards-mankind}
 
 {{< properties
 stags="Genealogy of Christ > Women in the line of Christ > Showcase God's surpassing grace"
@@ -387,7 +383,7 @@ This lesson handles a couple other objections that some people raise in trying t
 
 <!-- --- -->
 
-#### "It's not the same Rahab because the chronology does not work" {#handling-several-other-matters-it-s-not-the-same-rahab-because-the-chronology-does-not-work}
+#### "It's not the same Rahab because the chronology does not work" {#handling-several-other-matters-its-not-the-same-rahab-because-the-chronology-does-not-work}
 
 {{< properties
 stags="Chronology > Long lifespans do not necessarily pose problems"

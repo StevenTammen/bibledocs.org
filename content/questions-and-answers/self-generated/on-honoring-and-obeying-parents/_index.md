@@ -13,10 +13,6 @@ Respecting and obeying parents... every teenager's favorite practices! All human
 
 ## [Scripture Is Clear That We Are to Honor and Obey Our Parents](/questions-and-answers/self-generated/on-honoring-and-obeying-parents/scripture-is-clear-that-we-are-to-honor-and-obey-our-parents) {#scripture-is-clear-that-we-are-to-honor-and-obey-our-parents}
 
-{{< properties
-stags="Parents > Honoring | Parents > Obeying"
->}}
-
 
 
 <!-- ## Video {#video}
@@ -47,7 +43,7 @@ There are certain areas of application in the Christian walk that almost all peo
 
 <!-- --- -->
 
-#### Q: I don't agree with what my parents want for me. Do I need to do exactly what they say? {#scripture-is-clear-that-we-are-to-honor-and-obey-our-parents-q-i-don-t-agree-with-what-my-parents-want-for-me-do-i-need-to-do-exactly-what-they-say}
+#### Q: I don't agree with what my parents want for me. Do I need to do exactly what they say? {#scripture-is-clear-that-we-are-to-honor-and-obey-our-parents-q-i-dont-agree-with-what-my-parents-want-for-me-do-i-need-to-do-exactly-what-they-say}
 
 So, I know one of the ten commandments is to honor my parents, but they drive me crazy and want to pick out my life for me, even though I don't want what they want for me. What should I do? Do I need to submit myself to them and do exactly as they say? Or can I "honor" them while still choosing my own path?
 
@@ -279,7 +275,7 @@ Not everything is so cut-and-dry as this though. There certainly are parents out
 
 <!-- --- -->
 
-##### Should we step in if people aren't parenting how we would? {#however-if-our-parents-are-out-of-line-there-are-exceptions-should-we-step-in-if-people-aren-t-parenting-how-we-would}
+##### Should we step in if people aren't parenting how we would? {#however-if-our-parents-are-out-of-line-there-are-exceptions-should-we-step-in-if-people-arent-parenting-how-we-would}
 
 {{< properties
 stags="Meddling > Is not proper for Christians | Busybody behavior > Is not proper for Christians | Minding your own business"

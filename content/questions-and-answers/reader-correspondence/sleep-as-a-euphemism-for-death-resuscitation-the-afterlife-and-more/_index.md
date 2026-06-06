@@ -51,7 +51,7 @@ When Jesus says that Jairus' daughter is "sleeping", and says that Lazarus (the 
 
 <!-- --- -->
 
-#### Q: If Jesus said they were sleeping, but they were dead, isn't there a contradiction? {#lazarus-and-jairus-daughter-are-they-sleeping-or-dead-q-if-jesus-said-they-were-sleeping-but-they-were-dead-isn-t-there-a-contradiction}
+#### Q: If Jesus said they were sleeping, but they were dead, isn't there a contradiction? {#lazarus-and-jairus-daughter-are-they-sleeping-or-dead-q-if-jesus-said-they-were-sleeping-but-they-were-dead-isnt-there-a-contradiction}
 
 Hebrews 9:27 says that each person is destined to die once and after that comes judgment, but:
 
@@ -871,10 +871,6 @@ Bob L.
 
 ## [Does Jesus' Use of the Sleeping Terminology Have Anything to Do with Resuscitation?](/questions-and-answers/reader-correspondence/sleep-as-a-euphemism-for-death-resuscitation-the-afterlife-and-more/does-jesus-use-of-the-sleeping-terminology-have-anything-to-do-with-resuscitation) {#does-jesus-use-of-the-sleeping-terminology-have-anything-to-do-with-resuscitation}
 
-{{< properties
-stags="Sleep > As a euphemism for death > Does not necessarily point to eventual resuscitation"
->}}
-
 
 
 ### Video {#does-jesus-use-of-the-sleeping-terminology-have-anything-to-do-with-resuscitation-video}
@@ -930,7 +926,7 @@ In the case of Lazarus, the euphemism would be just as true in their culture if 
 
 <!-- --- -->
 
-##### Jairus' daughter's case {#does-jesus-use-of-the-sleeping-terminology-have-anything-to-do-with-resuscitation-jairus-daughter-s-case}
+##### Jairus' daughter's case {#does-jesus-use-of-the-sleeping-terminology-have-anything-to-do-with-resuscitation-jairus-daughters-case}
 
 And in the case of Jairus' daughter, like I argued, even though she was actually dead and Jesus knew so, He said what he did (that is, took advantage of the euphemism people clearly knew culturally) to make things purposefully ambiguous to others, so that neither He nor the girl and her family would receive as much negative attention from it.
 
@@ -1274,7 +1270,7 @@ Our present topic is focused upon the first type of death: physical death.
 
 <!-- --- -->
 
-#### Defining terms: physical death means someone's human spirit departs their physical body {#how-does-the-concept-of-resuscitation-affect-the-afterlife-defining-terms-physical-death-means-someone-s-human-spirit-departs-their-physical-body}
+#### Defining terms: physical death means someone's human spirit departs their physical body {#how-does-the-concept-of-resuscitation-affect-the-afterlife-defining-terms-physical-death-means-someones-human-spirit-departs-their-physical-body}
 
 {{< properties
 stags="Death > Physical death is when someone's human spirit departs their physical body | Interpretation > Semantic overloading - words with unique connotations stemming from multiple meanings"
@@ -1300,7 +1296,7 @@ Let's start with the "normal" case, and explain the general mechanics of things.
 
 <!-- --- -->
 
-##### Before Christ's ascension vs. after Christ's ascension vs. in eternity proper {#how-does-the-concept-of-resuscitation-affect-the-afterlife-before-christ-s-ascension-vs-after-christ-s-ascension-vs-in-eternity-proper}
+##### Before Christ's ascension vs. after Christ's ascension vs. in eternity proper {#how-does-the-concept-of-resuscitation-affect-the-afterlife-before-christs-ascension-vs-after-christs-ascension-vs-in-eternity-proper}
 
 {{< properties
 stags="Death > Locations of believers and unbelievers after physical death"
@@ -1341,7 +1337,7 @@ I should note that in English, we tend to be a bit loose with how we use the wor
 
 <!-- --- -->
 
-###### Before Christ's ascension {#how-does-the-concept-of-resuscitation-affect-the-afterlife-before-christ-s-ascension}
+###### Before Christ's ascension {#how-does-the-concept-of-resuscitation-affect-the-afterlife-before-christs-ascension}
 
 {{< properties
 stags="Death > Locations of believers and unbelievers after physical death > Changed after Christ's ascension"
@@ -1354,7 +1350,7 @@ Abraham's Bosom, though separate from the presence of the Father, was not some n
 
 <!-- --- -->
 
-###### After Christ's ascension {#how-does-the-concept-of-resuscitation-affect-the-afterlife-after-christ-s-ascension}
+###### After Christ's ascension {#how-does-the-concept-of-resuscitation-affect-the-afterlife-after-christs-ascension}
 
 {{< properties
 stags="Death > Locations of believers and unbelievers after physical death > Changed after Christ's ascension"
@@ -2245,7 +2241,7 @@ This will be a bit detailed and technical, which is sort of why I hadn't done th
 
 <!-- --- -->
 
-##### Hebrew 9:27's wider context {#could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death-hebrew-9-27-s-wider-context}
+##### Hebrew 9:27's wider context {#could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death-hebrew-9-27s-wider-context}
 
 {{< properties
 stags="Tabernacle > Contrast between earthly and heavenly | Blood > Use in ratification of covenants"
@@ -2304,7 +2300,7 @@ This means the *hapax* of Hebrews 9:27 is set directly parallel with the "once f
 
 <!-- --- -->
 
-###### The importance of the "once for all" concept as it pertains to Christ's work completely forces our hand in translating Hebrews 9:26, 28 {#could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death-the-importance-of-the-once-for-all-concept-as-it-pertains-to-christ-s-work-completely-forces-our-hand-in-translating-hebrews-9-26-28}
+###### The importance of the "once for all" concept as it pertains to Christ's work completely forces our hand in translating Hebrews 9:26, 28 {#could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death-the-importance-of-the-once-for-all-concept-as-it-pertains-to-christs-work-completely-forces-our-hand-in-translating-hebrews-9-26-28}
 
 {{< properties
 stags="Interpretation > NT Principles > “Once for all”"

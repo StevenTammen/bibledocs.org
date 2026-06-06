@@ -314,7 +314,7 @@ Follow-on topics:
 
 <!-- --- -->
 
-#### Some reasons these texts are obviously not canon: their theology is crazy, the names used in the texts aren't what they would be if the texts were genuine {#the-right-books-src-apologetics-canada-some-reasons-these-texts-are-obviously-not-canon-their-theology-is-crazy-the-names-used-in-the-texts-aren-t-what-they-would-be-if-the-texts-were-genuine}
+#### Some reasons these texts are obviously not canon: their theology is crazy, the names used in the texts aren't what they would be if the texts were genuine {#the-right-books-src-apologetics-canada-some-reasons-these-texts-are-obviously-not-canon-their-theology-is-crazy-the-names-used-in-the-texts-arent-what-they-would-be-if-the-texts-were-genuine}
 
 ##### Video clip from Apologetics Canada {#the-right-books-src-apologetics-canada-video-clip-from-apologetics-canada}
 
@@ -659,7 +659,7 @@ Follow-on topics:
 
 <!-- --- -->
 
-#### So, if we have the right books in the Bible, and the right text in those books, how do we know any of it is actually true? And what are the takeaways from all that we've studied here? {#the-right-text-src-apologetics-canada-so-if-we-have-the-right-books-in-the-bible-and-the-right-text-in-those-books-how-do-we-know-any-of-it-is-actually-true-and-what-are-the-takeaways-from-all-that-we-ve-studied-here}
+#### So, if we have the right books in the Bible, and the right text in those books, how do we know any of it is actually true? And what are the takeaways from all that we've studied here? {#the-right-text-src-apologetics-canada-so-if-we-have-the-right-books-in-the-bible-and-the-right-text-in-those-books-how-do-we-know-any-of-it-is-actually-true-and-what-are-the-takeaways-from-all-that-weve-studied-here}
 
 ##### Video clip from Apologetics Canada {#the-right-text-src-apologetics-canada-video-clip-from-apologetics-canada}
 

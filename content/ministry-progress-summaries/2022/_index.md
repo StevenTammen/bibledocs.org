@@ -1427,7 +1427,7 @@ I'm really looking forward to having a social life again (I've been pretty head-
 
 <!-- --- -->
 
-##### Phase III: Organizing all the already-existing BB6A content, setting up the fully-optimized video creation workflow, and catching up in other areas so that I can more fully focus on ministry without feeling like I'm behind elsewhere {#through-9-25-22-phase-iii-organizing-all-the-already-existing-bb6a-content-setting-up-the-fully-optimized-video-creation-workflow-and-catching-up-in-other-areas-so-that-i-can-more-fully-focus-on-ministry-without-feeling-like-i-m-behind-elsewhere}
+##### Phase III: Organizing all the already-existing BB6A content, setting up the fully-optimized video creation workflow, and catching up in other areas so that I can more fully focus on ministry without feeling like I'm behind elsewhere {#through-9-25-22-phase-iii-organizing-all-the-already-existing-bb6a-content-setting-up-the-fully-optimized-video-creation-workflow-and-catching-up-in-other-areas-so-that-i-can-more-fully-focus-on-ministry-without-feeling-like-im-behind-elsewhere}
 
 The Phase III tasks are as follows:
 

@@ -287,7 +287,7 @@ I haven't started any writing of my own for the Jeremiah study yet, but plan to 
 
 <!-- --- -->
 
-#### Week 4: Does the Voice Align with God's Character? {#through-2-21-23-week-4-does-the-voice-align-with-god-s-character}
+#### Week 4: Does the Voice Align with God's Character? {#through-2-21-23-week-4-does-the-voice-align-with-gods-character}
 
 - [Link to page](https://www.bibledocs.org/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-align-with-gods-character/)
 - [Link to discussion page: Did Moses Do Wrong in Throwing the First Set of Tablets?](https://www.bibledocs.org/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-align-with-gods-character/did-moses-do-wrong-in-throwing-the-first-set-of-tablets/)
@@ -367,7 +367,7 @@ Nonetheless, this release brings some new content for many of the lessons in the
 
 <!-- --- -->
 
-#### It's been a while... {#through-4-17-23-it-s-been-a-while}
+#### It's been a while... {#through-4-17-23-its-been-a-while}
 
 Even though last time I said I'd try to keep up the production pace, well... it's not that this release brings nothing, but it is less than I'd anticipated, and later than anticipated too.
 
@@ -848,7 +848,7 @@ And in that vein, I'm afraid this video probably will not completely describe ev
 
 <!-- --- -->
 
-#### BibleDriven, Jordan Bomberger's online ministry, is now live! {#through-10-16-23-bibledriven-jordan-bomberger-s-online-ministry-is-now-live}
+#### BibleDriven, Jordan Bomberger's online ministry, is now live! {#through-10-16-23-bibledriven-jordan-bombergers-online-ministry-is-now-live}
 
 In my last update, I had mentioned that I was helping my close friend, roommate, and fellow Bible teacher set up his ministry website, and that that would be my primary focus for at least for a while. (Which it was—a couple weeks at least). 
 

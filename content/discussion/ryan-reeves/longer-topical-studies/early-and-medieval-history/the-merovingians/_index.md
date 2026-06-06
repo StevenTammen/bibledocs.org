@@ -28,7 +28,7 @@ In this lecture we will look at the Merovingian dynasty. With the fall of the We
 
 <!-- summary -->
 
-TODO: Summary
+In this lecture we will look at the Merovingian dynasty. With the fall of the Western half of the Roman Empire, the Middle Ages begin. Descending not from the Romans but from the Frankish tribes living just outside the Roman boundery, the Merovingian Empire plays a significant role in shaping the new medieval world of the West. Although a number of the Germanic tribes embraced the northward expansion of Arianism, the Merovingians come from a people who resisted this faith. Many of the Meriovingian ancestors were decidedly pagan, practicing polygamy and ritual worship to various gods, including some forms of ritual sacrifice. This changed when Clovis I, the founder of the Merivingian dynasty proper, converts to Catholicisim. This kicked off the Catholicization of the Franks and opened the door for interactions between the them and the Catholic church hierarchy. In this lesson we also discuss the topics of hagiaropahy, evangelism, and the Battle of Tours, as well as several key factors that led to the downfall of the Merovingian dynasty and gave way to another Frankish Empire: the Carolingians, who eventually came to be ruled by Charles "the great" or Charlemange. 
 
 <!-- summary -->
 
