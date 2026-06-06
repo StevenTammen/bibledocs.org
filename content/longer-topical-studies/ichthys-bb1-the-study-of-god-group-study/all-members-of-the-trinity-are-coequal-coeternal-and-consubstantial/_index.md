@@ -48,7 +48,7 @@ This lesson's main focus is examining the point that God is *three* in person, b
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Key point: God is *three* in person, but that does *not* mean that there is any inferiority or disparity of status, activity, or substance between the members of the Trinity {#key-point-god-is-three-in-person-but-that-does-not-mean-that-there-is-any-inferiority-or-disparity-of-status-activity-or-substance-between-the-members-of-the-trinity}
 
@@ -60,7 +60,7 @@ In any human association, there is always inherent inferiority and disparity pre
 
 God is *one* in essence and all three members of the Trinity (the Father and the Son and the Holy Spirit) are coequal, coeternal, and con-substantial partners in one and the same essence. Heresies of the past which have challenged the coequality of members of the Trinity include subordinationism (which alternatively asserts that either Christ or the Spirit is by nature inferior to the Father) and Arianism (which teaches a Christ not entirely equal in divinity to the Father). But the Bible teaches that all three members of the Trinity are coequal partakers of the same essence.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### They all possess a full and equal share of the *status* of deity {#they-all-possess-a-full-and-equal-share-of-the-status-of-deity}
 
@@ -75,7 +75,7 @@ As seen from the equal rank accorded to each in the formula for profession of fa
 Then Jesus came over and said to them, "All authority in heaven and on earth has been given to me, so go and make all nations my followers by baptizing them into the name of the Father and of the Son and of the Holy Spirit, and by teaching them to observe everything I have commanded you."
 {{% /scripture-h %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### They all possess a full and equal share of the *eternal function* of deity {#they-all-possess-a-full-and-equal-share-of-the-eternal-function-of-deity}
 
@@ -90,7 +90,7 @@ As seen from their joint participation in creation:
 Then God said, "Let ***Us*** make man in ***Our*** image, according to ***Our*** pattern.  
 {{% /scripture-h %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### They all possess a full and equal share of the *substance* of deity {#they-all-possess-a-full-and-equal-share-of-the-substance-of-deity}
 

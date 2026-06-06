@@ -58,7 +58,7 @@ This lesson, we are going to be talking about God's infinite nature, and what th
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Introduction: God's infinite nature {#introduction-god-s-infinite-nature}
 
@@ -66,7 +66,7 @@ Key point: God's nature is infinite. *Infinite*.
 
 God's infinity – infinity in every way and according to any conceivable true standard – is a clarifying concept, *illuminating His abilities*.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### God is Spiritual {#god-is-spiritual}
 
@@ -76,7 +76,7 @@ stags="God > Is spiritual | Angels > Are subject to matter"
 
 God's being transcends the physical universe. He is not limited or bounded by material issues or concerns. God is not subject to matter in any way. God is not made of matter – God created matter and employs it however He desires.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% video-only %}}
 
@@ -100,7 +100,7 @@ stags="God > Is eternal"
 
 God's being transcends time. He is not limited or bounded by temporal issues or concerns. God is not subject to time in any way. God is not constrained by time – God created time and employs it however He desires.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% video-only %}}
 
@@ -132,7 +132,7 @@ stags="God > Is immeasurable"
 
 God's being transcends space. He is not limited or bounded by spatial issues or concerns. God is not subject to space in any way. God is not confined by space – God created space and employs it however He desires.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### God is Unique {#god-is-unique}
 
@@ -144,7 +144,7 @@ Uniqueness comes from God's infinite nature. No one else in the universe can rea
 
 From the standpoint of His *transcendence* of the physical universe, He is unique by virtue of His spirituality, eternity and immeasurability. From the standpoint of His *supremacy* within the physical universe, He is unique by virtue of His omnipotence, omniscience, and omnipresence.
 
-<!-- --- -->
+<!-- slide-break -->
 
 | Essential Quality                               | Manifesting in creation as                                                                                            |
 |-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
@@ -154,7 +154,7 @@ From the standpoint of His *transcendence* of the physical universe, He is uniqu
 
 While we may not be properly able to fully grasp God's true nature since we are small, finite beings bound by spacetime, it should nonetheless be clearly apparent that it is not possible for any created creature to compare with the Creator. Even creatures far more powerful than ourselves—Satan and the other angels—are bound and limited in ways God is not, leaving God completely alone and unique in His transcendence of and supremacy within the physical universe.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### God is Omnipotent {#god-is-omnipotent}
 
@@ -164,7 +164,7 @@ stags="God > Is omnipotent"
 
 God is all-powerful, irrespective of matter. He can effect anything He desires in the material realm, and nothing can transpire apart from His will. Therefore there is no deed (nor was there ever, nor will there ever be) which God is unable to do, small or great.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% sidenote %}}
 
@@ -180,13 +180,13 @@ People argue that the two superlatives mandated by omnipotence contradict each o
 
 We can let people who wish to not believe on account such an argument go on their merry way. We needn't take them up on the debate. For it is *obvious* that God can both create whatsoever He wishes, and also manipulate His creation in whatever ways He wishes. The idea of a material object He cannot create is definitionally impossible, and so too a material object He cannot manipulate. Put differently, there is no such thing as an object He could create but not lift, or an object He could lift but not create. So the entire objection is circular by assuming such a thing can exist to begin with. That is, they've already put God in a box from the very beginning, and then only proceed to smugly knock down nothing but a straw man.
 
-<!-- --- -->
+<!-- slide-break -->
 
 My counsel would be to avoid all such nonsense. God can do "it", whatever "it" may be. Always. We follow אֵל שַׁדַּי, *El Shaddai*, God Almighty, He who was, and is, and is to come—He who holds the strings of the universe in His hands, and can create or annihilate galaxies in the blink of an eye. And we'd better fear that power and majesty as we ought, to keep our lives in perspective. We are tiny compared to the vastness of the Earth, much less our solar system, much less our galaxy, much less the universe. But God is even bigger (infinitely bigger), and could snuff them all out in the blink of an eye if He decided to. *That* is the kind of power in view when we speak of God being omnipotent. Not that He will actually snuff out the universe on a whim, but that it would be nothing for Him to do so, since He is in complete control of matter, time, and space... and things only exist because *He* causes them to exist.
 
 {{% /sidenote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### God is Omniscient {#god-is-omniscient}
 
@@ -196,7 +196,7 @@ stags="God > Is omniscient"
 
 God is all-knowing, irrespective of time. He can effect anything He desires in the temporal realm. Therefore God knows (has always known, and always will know) everything, the end from the beginning. As the Everlasting One (Ps.90:2; 90:4), His knowledge of every event that ever has or will or even could occur within His creation is comprehensive and absolute.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### God's knowledge of hypotheticals {#god-s-knowledge-of-hypotheticals}
 
@@ -210,11 +210,11 @@ Here's an example: since the Bible says that God will never test us past what we
 
 Same deal with perfectly disciplining us, and plenty of other matters besides. Put simply, God's perfect foreordination of all things logically requires that He know everything about all potential paths in the mind-bogglingly complex decision tree that spans the history of the entire universe. It has always puzzled me why people would ever think to argue against such a notion, but alas, some people do for some reason. Perhaps it is because such a belief requires one to appreciate how truly "big" and unlike us (with our very finite perspective) God really is?
 
-<!-- --- -->
+<!-- slide-break -->
 
 For now, you should mostly ignore the fact that some people have again put God in a box in their minds, and content yourself with the sure confidence that God knows everything—absolutely everything, inclusive of our free-will decisions before we even make them—and is so infinitely wise as to have perfectly mapped out all of creature history before the universe was even created. There is a Perfect Divine Plan being worked out around us, and God knows very well what He is doing, rest assured.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### God is Omnipresent {#god-is-omnipresent}
 

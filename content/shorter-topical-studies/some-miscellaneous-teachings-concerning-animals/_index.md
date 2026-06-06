@@ -37,7 +37,7 @@ Although animals have spirits, this does not mean it is wrong to kill and eat th
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Animals have spirits, but not free will. {#animals-have-spirits-but-not-free-will}
 
@@ -57,7 +57,7 @@ The answer is not really. Human being have "the image of God" (Genesis 1:27). By
 
 It should come as no great surprise that we are fundamentally different from the animals. Everyone with even a bit of common sense could tell you that we and they are not the same when it comes to moral accountability. Humans can sin; animals cannot. Is it sinful for the tiger to eat his prey? Does he know any better?
 
-<!-- --- -->
+<!-- slide-break -->
 
 Some quotes from my mentor discussing these same sorts of things:
 
@@ -67,7 +67,7 @@ Animals have spirits, so indeed they have personalities. They are more like us i
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote text="Ichthys" src="https://ichthys.com/mail-biblical-anthropology8.htm#:~:text=Animals%20have%20spirits,or%20entirely%20curtailed." %}}
 
@@ -75,7 +75,7 @@ Animals have spirits too, but they are not made in the image of God. Free will i
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote text="Ichthys" src="https://ichthys.com/mail-Jacob-Wrestling.htm#:~:text=As%20it%20says,unmistakable%20individual%20personalities)." %}}
 
@@ -83,7 +83,7 @@ As it says in Ecclesiastes 3:21, "Who knows if the human spirit rises upward and
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The relationship between breath and spirit holds for animals, just like humans {#the-relationship-between-breath-and-spirit-holds-for-animals-just-like-humans}
 
@@ -101,13 +101,13 @@ Plants don't breathe ([cellular respiration](https://en.wikipedia.org/wiki/Cellu
 
 We needn't exercise ourselves about whether or not fish truly breathe etc. (but cf. Psalm 104:29, which speaks of God "taking away the breath" of aquatic creatures, in the near context). The point is that these two concepts are inextricably linked in scripture.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Why we are emphasizing this is to make it clear that there is in fact a commonality to creature life in this universe of ours: creatures are created with flesh and spirit together, with breath/spirit given at the point of birth. Consciousness comes from the hand of the Almighty, *not* merely as a product of chemical reactions and so on in brain tissue.
 
 This keeps the emphasis on God's hand in life, which is commonly underplayed by the scientific establishment, which scoffs at the notion that anything immaterial is involved in life. They may not be able to measure or quantify consciousness arising from the spiritual part of our being (and animals' beings), but that does not mean that it does not exist.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Here's a long quote from my mentor discussing some of these matters:
 
@@ -115,7 +115,7 @@ Here's a long quote from my mentor discussing some of these matters:
 
 As to animals, it says in Ecclesiastes 3:21, "Who knows if the spirit of man rises upward and if the spirit of the animal goes down into the earth?" (NIV). Animals clearly have do have spirits. God is called the "God of the spirits of all flesh" (Num.16:22; 27:16), and that certainly would seem to include more than just mankind (please see the link: [Aspects of the Genesis Curse on Animals](https://ichthys.com/mail-Jacob-Wrestling.htm)). The problem with trying to research some of these things with the English Bible alone is that all translations are interpretations, so that where a particular version has "decided" what some passage means, it always affects the way a passage is rendered, and that will be for the worse if the translators have in fact understood incorrectly. Take, for example, this critical passage in Psalm 104:
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% scripture p="Psalm 104:24-30 | NIV" %}}
 
@@ -143,21 +143,21 @@ and you renew the face of the earth.
 
 {{% /scripture %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 This is not a bad translation, but it obscures the critical point that "breath" in verse 29 is the same word as "Spirit" in verse 30 (i.e., *ruach*). It is entirely defensible to see "Spirit" as the Holy Spirit since He is the One who performs the quickening function of initiating or restoring life (Rom.8:11; and also Jn.3:5; Gal.2:25; cf. Gen.7:22 and Rev.11:11 compared with Rom.8:2). However, since the Spirit gives life by providing breath which is identical to providing a spirit – and this in the context above is what it means to be "a creature" (v.24) and to be "created" (v.30) – this quintessential role of the Spirit in creating life by providing a breath-spirit (or a living spirit which animates and provides independent life) along with the concomitant truth that breath and spirit are not only the same word but clearly conjoined (i.e., the immaterial spirit is represented by the breath-spirit whose presence in a body is always temporally coterminous) is largely lost to the English reader.
 
-<!-- --- -->
+<!-- slide-break -->
 
 I am not a scientist or a medical doctor, and I certainly allow as to how we ought not to overlook empirical facts. However, while I do take that approach, when I see information reported as empirically factual and these facts seem to contradict what scripture says, I know by very simple deduction that either my understanding of the Bible is wrong or that the so-called facts do not actually mean what they are being interpreted to mean. No scientific testimony can tell us when life begins precisely because science assumes that animals and human beings are purely material, whereas scripture attributes a spiritual part to each. [...] Since science is not looking for a spiritual part and since it could not find it if it were (because by definition the spirit is not material and therefore undetectable by any materialistic investigation), science really cannot tell us when life begins.
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Animals will likely be present in eternity, but that is an inference more than anything else {#animals-will-likely-be-present-in-eternity-but-that-is-an-inference-more-than-anything-else}
 
@@ -174,7 +174,7 @@ We do not have scripture that directly comments on this one way or the other. Ho
 1. There was animal life in the garden of Eden and will be animal life in the Millennium (cf. Isaiah 11:6, and [see below](the-bible-says-jesus-will-redeem-creation-would-animals-fall-under-that-can-a-cow-for-example-be-redeemed)), the two other "paradises" we know the most about. So it would track if in the New Heavens and New Earth (i.e., the final paradise), there were also animals.
 2. All spirits of angels and of all mankind are indestructible from the moment of their creation by the Lord, and the same Greek and Hebrew words are used for animal spirits, so it is likely they are also eternal.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Some quotes from my mentor discussing these same sorts of things:
 
@@ -184,7 +184,7 @@ Personally, I do think it likely that animals will be found in eternity; they ar
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote text="Ichthys" src="https://ichthys.com/mail-Jacob-Wrestling.htm#:~:text=Scripture%20does%20not,the%20most%20about)." %}}
 
@@ -192,7 +192,7 @@ Scripture does not say, so I am entirely within the realm of speculation here, b
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote text="Ichthys" src="https://ichthys.com/mail-Genesis-Questions.htm#:~:text=As%20it%20says,on%20Animals%22)." %}}
 
@@ -200,7 +200,7 @@ As it says in Ecclesiastes 3:21, "Who knows if the spirit of man rises upward an
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote text="Ichthys" src="https://ichthys.com/mail-biblical-anthropology9.htm#:~:text=Question%20%2319%3A,in%20Jesus%20Christ." %}}
 
@@ -216,7 +216,7 @@ While scripture does not say directly, there is reason to believe that all "anim
 
 Animals, however, do not face the issue of believing in Jesus Christ for life eternal or suffering the consequences for rejecting Him, since they do not possess free will as we do, the image of God. So there is no reason for them to be condemned, obviously, but also no reason for them – that is to say, their spirits – to be discarded. In any case, since God never allows a human spirit once created to go out of existence, that parallel at least argues for animals in eternity.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% scripture p="Ecclesiastes 3:21 | NIV" %}}
 
@@ -230,7 +230,7 @@ Finally, the original creation before Satan's rebellion had flora and fauna; whe
 
 There is a great deal about [the eternal state](https://ichthys.com/Tribulation-Part6.htm#VII._New_Jerusalem_and_the_Eternal_state:_Revelation:_21:1_-_22:5) we don't know (see the link for a discussion what we do know). As I often have remarked, it is really beyond the scope of our present perception to appreciate the wonders to come (cf. 2Cor.12:4). What scripture does say mostly describes things in terms of the LACK of troubles, pain, problems, death with which we are currently plagued in this world. As I also often say, if we knew just how wonderful eternity really is, it might just ruin us for being able to endure this present one any longer – and we're here just as long as Jesus wants us to be here to do just what He wants us to do.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Here are a few links:
 
@@ -241,11 +241,11 @@ One thing I DO know: God is absolutely loving and absolutely faithful, and He kn
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Some general questions concerning the spiritual state of animals {#some-general-questions-concerning-the-spiritual-state-of-animals}
 
@@ -257,7 +257,7 @@ stags="Animals"
 
 Let's go through some questions now, and see if we can answer them based on everything we have discussed:
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Q: Do animals have a soul or a spirit? {#q-do-animals-have-a-soul-or-a-spirit}
 
@@ -272,7 +272,7 @@ Animals have spirits, like all created creatures. Biblically speaking, creatures
 
 Both animals and humans are composed of flesh and spirit together, which form a "soul" = lifezo.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Q: Can animals go to heaven or hell? {#q-can-animals-go-to-heaven-or-hell}
 
@@ -284,7 +284,7 @@ stags="Animals > Will not undergo moral judgement and are likely “automaticall
 
 Because animals do not have free will, they will likely be "automatically saved" = find themselves in the paradise of the New Heavens and New Earth in eternity. I should note that I believe this is the same way God treats human beings who also have restricted free will (like children who die before reaching an old enough age that they are morally accountable, or folks with a severe enough mental handicap that they cannot really morally choose).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Q: If animals "can be saved", can the Holy spirit indwell them? {#q-if-animals-can-be-saved-can-the-holy-spirit-indwell-them}
 
@@ -296,7 +296,7 @@ stags="Holy Spirit > Indwelling ministry of > Only applies to humans post-Pentec
 
 Animals have spirits, but they are not indwelt with the Holy Spirit like believing humans are post-Pentecost. (At least we have nothing in scripture that suggests such a thing).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Q: Do animals have the intellectual capacity to understand sin; can they repent? {#q-do-animals-have-the-intellectual-capacity-to-understand-sin-can-they-repent}
 
@@ -308,7 +308,7 @@ stags="Animals > Have spirits, but not moral free will"
 
 Animals do not have free will = the image of God. Therefore they are not morally capable of understanding right or wrong, or sinning in a moral sense. There is thus also no real way for them to repent, or have any sort of awareness about sin.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Q: Should we judge animals as we do humans? {#q-should-we-judge-animals-as-we-do-humans}
 
@@ -320,7 +320,7 @@ stags="Animals > Will not undergo moral judgement and are likely “automaticall
 
 Because animals do not have free will, we cannot judge them in the same way as we do humans, with a moral component. They simply cannot be held morally accountable for their actions in the same way humans can.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Q: Because animals have spirits like us, is it wrong to cage them, kill them, eat them, etc.? {#q-because-animals-have-spirits-like-us-is-it-wrong-to-cage-them-kill-them-eat-them-etc}
 
@@ -336,7 +336,7 @@ Compare Genesis 9:2-4. After the flood, animals were given to humanity to eat; i
 
 We are to respect life, however. (Blood is a symbol of life; hence the directive in Genesis 9:4 to avoid eating meat with its lifeblood still in it).
 
-<!-- --- -->
+<!-- slide-break -->
 
 Compare also the practice of animal sacrifice under the Law. That was instituted by God, and involved the systematic capture and slaughter of animals. There is no way to somehow wriggle out of that fact.
 
@@ -344,13 +344,13 @@ Yet that practice was *supposed* to be a terrible thing that viscerally made cle
 
 I suppose we can feel sorry for the slaughtered animals, but they will not face the Lake of Fire like unbelieving humans will, a fate *far* worse than physical death. And we should feel orders of magnitude sorrier for what Christ paid for us on the cross, when he faced spiritual judgement for our sins, and suffered far beyond what we can even imagine. 
 
-<!-- --- -->
+<!-- slide-break -->
 
 I think it is rather obvious that we should not be cruel to animals. Jesus is the Good Shepherd, after all, not the Shepherd Who Beats His Sheep. But the point is that we do not get to pretend like the Bible doesn't talk about killing animals for food or ritualistic reasons, because it clearly does.
 
 That this makes some squeamish is neither here nor there. Many people have theological issues with hell as a concept, God's command to slaughter the Canaanites down to man, woman, and child, etc. That does not make these things not so. And so too here.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Q: The Bible says Jesus will redeem creation. Would animals fall under that? Can a cow, for example, be "redeemed"? {#q-the-bible-says-jesus-will-redeem-creation-would-animals-fall-under-that-can-a-cow-for-example-be-redeemed}
 
@@ -367,7 +367,7 @@ However, there will be physical manifestations of creation's redemption, includi
 
 This will set to rights what was thrown out of alignment in the Fall. Most interpreters (myself and my mentor included) believe that animal behavior was fundamentally altered for the worse by the Fall. For example, a quote from my mentor:
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote text="Ichthys" src="https://ichthys.com/mail-Jacob-Wrestling.htm#:~:text=the%20situation%20Genesis,this%20pattern%20perfectly." %}}
 
@@ -377,11 +377,11 @@ This will set to rights what was thrown out of alignment in the Fall. Most inter
 
 When these negative changes are undone at the commencement of the Millennium, animals are "redeemed" from some of the physical consequences of the Fall. But that is still a different thing entirely from *spiritual* redemption in a moral sense.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% /content %}}
 

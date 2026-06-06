@@ -38,7 +38,7 @@ We should take pains to not delude ourselves in such a way. If we wish to please
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Loving God means actually obeying His commands {#loving-god-means-actually-obeying-his-commands}
 

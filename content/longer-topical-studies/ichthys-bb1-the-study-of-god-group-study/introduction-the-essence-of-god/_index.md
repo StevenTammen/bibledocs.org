@@ -50,7 +50,7 @@ In this lesson, we are going to be kicking off our new study of BB1: Theology on
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The essence of God is being. He is the Great I AM {#the-essence-of-god-is-being-he-is-the-great-i-am}
 
@@ -67,7 +67,7 @@ If you've ever thought about the question "Well, if the universe exists because 
 
 Unbelievers scoff at that logic, but it is what the Bible says.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The resplendence of God: light and glory {#the-resplendence-of-god-light-and-glory}
 
@@ -79,7 +79,7 @@ Loosely speaking, light captures the sense that God is sublime and unapproachabl
 
 God's glory is most directly revealed to mankind through His Son, Jesus Christ. As Hebrews 1:1-3 makes clear.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% video-only %}}
 
@@ -134,7 +134,7 @@ Arguments usually seem to hinge on how "inherent" something is to an object. For
 
 Compare this link: https://chrismlegg.com/2018/06/19/what-do-essence-and-nature-mean-a-simple-explanation/
 
-<!-- --- -->
+<!-- slide-break -->
 
 So, on our topic, must God be infinite and perfect in character to be God? Are these essential characteristics of God?
 

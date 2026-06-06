@@ -50,7 +50,7 @@ slides="https://bibledocs.org/slides/longer-topical-studies/ichthys-sr4-satans-w
 
 (Derived from https://ichthys.com/SR4(SWS).htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Why do this study in particular? {#introduction-to-sr4-satans-world-system-why-do-this-study-in-particular}
 
@@ -60,7 +60,7 @@ At least for me as a teenager, Christianity was kept in its nice God-shaped box.
 
 Then I read this study. This is one of the first things on Ichthys I read all the way through, and to borrow an idiom, it completely blew my mind. *Ah*, I said. *So this is what is beyond the illusion*.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Plato's Allegory of the Cave {#introduction-to-sr4-satans-world-system-platos-allegory-of-the-cave}
 
@@ -74,7 +74,7 @@ Having never been exposed to true light, those in the cave think that the illusi
 
 This allegory is actually a great explanatory tool. For Plato, light served as a metaphor for philosophical truth. For us in our present study, light instead stands as a metaphor for spiritual truth. As we learn about how the world really works in this study, it will be possible to move further and further from the illusions of shadow (what Satan's world system would have us think are the actual realities) and more towards the light of spiritual truth.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Satan the puppet-master {#introduction-to-sr4-satans-world-system-satan-the-puppet-master}
 
@@ -84,13 +84,13 @@ We as Christians must deal with the harsh fact that this world system, this *kos
 
 Bearing this in mind is in fact crucial, as it ensures we never forget that we are strangers in a foreign land, soldiers of Jesus Christ in enemy territory.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The outline for SR4 on Ichthys {#introduction-to-sr4-satans-world-system-the-outline-for-sr4-on-ichthys}
 
 See [the study directly](https://ichthys.com/SR4%28SWS%29.htm).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Steven's high-level introduction {#introduction-to-sr4-satans-world-system-stevens-high-level-introduction}
 
@@ -777,7 +777,7 @@ This lesson we first go over why the title of the introduction to SR4 mentions S
 
 (Derived from https://ichthys.com/SR4(SWS).htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The Introduction's title: Satan's rebellion and fall {#like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devils-realm-the-introductions-title-satans-rebellion-and-fall}
 
@@ -791,7 +791,7 @@ This might seem a bit confusing inasmuch as the introduction here, as we shall s
 
 Properly speaking, it is the first segment of the study ([Part 1](https://ichthys.com/SR1copy.htm)) that deals with Satan's initial state and his fall. However, reality today -- and indeed, as [Part 3](https://ichthys.com/Fall-sr3.htm) discusses, the very purpose and creation of man -- is very much shaped by and affected by Satan's continuing rebellion against God. If our existence is a war on a battlefield, then creation turned into this battlefield when Satan arrogantly raised his hand against his Creator.
 
-<!-- --- -->
+<!-- slide-break -->
 
 It is for this reason that we should keep this wider context in our minds as we start easing into our study. We are starting *in medias res* in this study, and likewise we are born into this world in the middle of a grand spiritual narrative that greatly transcends our own individual lives.
 
@@ -801,7 +801,7 @@ That was the opening act of all creature history. Parts 1 through 3 of this stud
 
 We will periodically turn time and again to this wider context -- the echoes of Satan's initial rebellion and fall, the grand spiritual stage of existence -- as we proceed in our study, because keeping that big picture in mind is in fact one of the very best ways to see through the illusions before us in this world.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The actual introduction: Adam and Eve, and us {#like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devils-realm-the-actual-introduction-adam-and-eve-and-us}
 
@@ -819,7 +819,7 @@ Dr. Luginbill opens up this present study (SR4 specifically) with some initial f
    - The *protoevangelium*
 - Us now vs. them then
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The contrast between pre-fall paradise and post-fall realities {#like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devils-realm-the-contrast-between-pre-fall-paradise-and-post-fall-realities}
 
@@ -838,7 +838,7 @@ The domestic tranquility that had reigned in Eden as a matter of course would no
 
 And finally, in crowning futility, when they had lived out their now-finite years, the ground would receive them back -- death would put an end to all they had worked and striven for in the sorrowful interim.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### God's promise of deliverance {#like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devils-realm-gods-promise-of-deliverance}
 
@@ -856,7 +856,7 @@ Thus, before they even left the garden of Eden, God had given Adam and Eve a new
 
 It only remained for our first parents to accept our Lord's generous offer of boundless grace, trusting in Him for their deliverance from the inevitability of the grave, the unavoidable reality which had now become life's central issue.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Us now vs. them then {#like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devils-realm-us-now-vs-them-then}
 
@@ -866,13 +866,13 @@ The critical issue for every human being is identical now to what it was then: w
 
 Moreover, just as Adam and Eve were left in the world beyond the point of faith, so also we today are not immediately transferred to our heavenly home after salvation, but remain here in the world to prove our faith, to grow in it, and to help others do the same.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### The segue {#like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devils-realm-the-segue}
 
 Thus, as followers of God and believers in Jesus Christ, we can be forgiven for feeling ill at ease in this present world where we scarcely even seem to belong, for it is not a place where the knowledge of God abounds and the will of God is always done. On the contrary, this perilous world through which we pass lies largely under the influence of the evil one (1 John 5:19, and cf. Ephesians 2:2, which we talked about last time).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### I. Strangers in the Devil's Realm {#like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devils-realm-i-strangers-in-the-devils-realm}
 
@@ -888,31 +888,31 @@ Here are the subsections we'll go over:
 4. The battlefield
 5. The enemy
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Sojourners in the devil's world {#like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devils-realm-sojourners-in-the-devils-world}
 
 Like our first parents Adam and Eve before us, we have been left in this strange and alien world where the blinding reality of God is largely obscured from view, revealed almost exclusively in His Word to those who seek Him out. Until that time, we wait for something better as homeless wanderers in a world which finds our perspective and our hope worthless, even foolish and idiotic.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The vanity of life {#like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devils-realm-the-vanity-of-life}
 
 In His judgment upon Adam and Eve, God laid down the fundamental calculus of human life outside of the garden: that we must earn our bread through sweat and toil throughout our short lives, and afterwards return to dust (Genesis 3:16-19), taking nothing with us as we pass into the grave.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The hostility of the world {#like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devils-realm-the-hostility-of-the-world}
 
 From the moment we turn away from the hollow manner of life handed down from generation to generation (1 Peter 1:18), and turn instead to the living God through faith in His Son Jesus Christ, we are reconciled to Him, and at the same time alienated from the world. There can be no middle ground. Either we are friends of God, or friends of the world (James 4:4).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The battlefield {#like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devils-realm-the-battlefield}
 
 There is another dimension to be considered beyond our alienation to the world, beyond its essential futility, and beyond the enmity between it and us: the world is also a battlefield where the struggle between Satan's present kingdom and the coming kingdom of heaven continues to be played out in deadly earnest (as has been the case since the devil's fall).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The enemy {#like-adam-and-eve-we-live-in-a-broken-world-as-strangers-in-the-devils-realm-the-enemy}
 
@@ -1742,7 +1742,7 @@ TODO: Summary
 
 (Derived from https://ichthys.com/SR4(SWS).htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The fallen world {#purpose-in-this-dark-world-only-comes-by-faith-which-makes-us-outcasts-here-but-chosen-by-god-the-fallen-world}
 
@@ -1755,7 +1755,7 @@ Though no doubt relieved that the Lord God had not visited upon them a swift and
 
 Life was no longer wonderful, especially in contrast to the bounty so recently lost. Everything was now flawed, and strangely unsatisfying. The pain, the privation, the decay and corruption -- and more than the anything else the absence of God -- must have driven home the contrast to Eden.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### We may not have as heartrending a point of comparison as Adam and Eve, but this world's brokenness can and will pierce us anyway {#purpose-in-this-dark-world-only-comes-by-faith-which-makes-us-outcasts-here-but-chosen-by-god-we-may-not-have-as-heartrending-a-point-of-comparison-as-adam-and-eve-but-this-worlds-brokenness-can-and-will-pierce-us-anyway}
 
@@ -1763,7 +1763,7 @@ Unlike our first parents, we do not possess the experience of a perfect Eden as 
 
 Nonetheless, despite the fact that familiarity tends to inure one to hardships, this unforgiving world of trouble and tears has a tendency from time to time to slice through even the most deep-rooted Stoicism, and through even the most fortunate circumstances, reminding us all that this is not a paradise designed by God for our happiness and pleasure. ***On the contrary, this is the devil's world***.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The darkness all around us in the world {#purpose-in-this-dark-world-only-comes-by-faith-which-makes-us-outcasts-here-but-chosen-by-god-the-darkness-all-around-us-in-the-world}
 
@@ -1777,7 +1777,7 @@ War, genocide, rape, slavery, human trafficking, child abuse... whoever thinks t
 
 On top of all this, not too far down the road in every individual life lies the grave, the reward and legacy awaiting us all, no matter how blissful or disappointing our lives have been in the interim. We will talk more about this unavoidable fact (and the mockery it makes of all human effort) starting next time.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### True meaning in this life only comes through faith {#purpose-in-this-dark-world-only-comes-by-faith-which-makes-us-outcasts-here-but-chosen-by-god-true-meaning-in-this-life-only-comes-through-faith}
 
@@ -1795,7 +1795,7 @@ We will find this meaning, fulfillment, and happiness when we are at last re-uni
 
 Until that time, we wait for something better as homeless wanderers in a world which finds our perspective and our hope worthless, even idiotic.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Though strangers and outcasts in this world, our faith marks us out as God's chosen people {#purpose-in-this-dark-world-only-comes-by-faith-which-makes-us-outcasts-here-but-chosen-by-god-though-strangers-and-outcasts-in-this-world-our-faith-marks-us-out-as-gods-chosen-people}
 
@@ -1805,7 +1805,7 @@ stags="In the world, but not of the world"
 
 But by our faith and the actions that faith produces, we show the world that we are not of it, do not love it, and acknowledge that we have no true part in it -- except for the God who is the focus and the object of our love all the days of our sojourning here in the devil's inhospitable desert (cf. 1 Chronicles 29:15; Psalm 23:1-6; 39:12; 63:1; 84:5-7; 119:19; Hebrews 11:37-38; 11:13-16; 13:13-14; 1 Peter 1:1; 2:11).
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% nt t="esv" h="400px" p="Psalm 73:25" %}}
 
@@ -1819,7 +1819,7 @@ TODO
 
 {{% /nt %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Parallel discussion from Peter #3 on Ichthys {#purpose-in-this-dark-world-only-comes-by-faith-which-makes-us-outcasts-here-but-chosen-by-god-parallel-discussion-from-peter-3-on-ichthys}
 
@@ -1833,7 +1833,7 @@ Peter, an apostle of Jesus Christ, to those who, though outcasts dispersed throu
 
 *To those though outcasts dispersed . . . yet selected*: We have already considered the ostracism and outright persecution which these early Christians endured for their beliefs [earlier in the Peter Series]. Instead of down-playing the problems his audience was experiencing, Peter acknowledges their sufferings. He calls them *parepidemoi* (outcasts), a Greek word meaning someone who is only visiting as a stranger or an exile (cf. Hebrews 11:13-16), and goes on to compare them to a scattered nation, using the Greek word *diaspora* (i.e., dispersion; often transliterated and used of scattered Israel).
 
-<!-- --- -->
+<!-- slide-break -->
 
 Yes, says Peter, we Christians do live as strangers on this earth, scattered and dispersed. From the world's point of view this is indeed a pitiable state. To the world, we are outcasts, even rejects.
 

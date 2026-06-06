@@ -34,7 +34,7 @@ God's banquet table has plenty of seats waiting to be filled. It is our duty to 
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Just as Paul received grace (Romans 1:5), he urges others to submit to God, so that they too may belong to Jesus Christ as he does.
 

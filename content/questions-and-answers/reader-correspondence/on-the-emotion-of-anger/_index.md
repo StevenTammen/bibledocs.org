@@ -21,7 +21,7 @@ Some folks struggle with anger management more than others, although perhaps sai
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Q: How to deal with anger management issues? {#q-how-to-deal-with-anger-management-issues}
 

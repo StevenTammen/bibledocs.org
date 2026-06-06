@@ -57,7 +57,7 @@ This lesson, we are going to be talking about God's perfect character, and what 
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Introduction: God's perfect character {#introduction-god-s-perfect-character}
 
@@ -82,7 +82,7 @@ So be perfect, just as your Father in heaven is perfect.
 
 When firmly grasped, God's perfection—perfection in every way and according to any conceivable true standard—is a clarifying concept, *illuminating His motives*. God's perfect character will never be less than the highest, the best, and the purest that the human mind can comprehend.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% video-only %}}
 
@@ -115,7 +115,7 @@ stags="God > Is good"
 
 God's character is good (Hebrew *tov*: טוב); it is the antithesis of evil. So how does goodness respond to sinful man? In His goodness, God always has our best interests at heart. Therefore His desire for us to be free from evil and devoted to good is genuine. Even though we are sinful and by nature unworthy of His blessing, in His goodness God has nevertheless found a *gracious* way to redeem us from sin without compromising His character, namely, by giving us the gift of His Son, Jesus Christ.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### God is Holy {#god-is-holy}
 
@@ -125,7 +125,7 @@ stags="God > Is holy"
 
 God's character is holy (Hebrew *qadosh*: קדוש); it is completely separate from evil. So how does holiness respond to sinful man? In His holiness, God can never compromise His perfect standards for any reason. Therefore His commitment to condemning evil and rewarding good is inviolable. But even though we are sinful and by nature deserving of His judgment, in His holiness God has nevertheless found a *merciful* way to justify us in spite of our sin without violating His character, namely, by judging His Son, Jesus Christ in our place.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### God is Faithful and True {#god-is-faithful-and-true}
 
@@ -135,7 +135,7 @@ stags="God > Is faithful and true"
 
 God's character is faithful and true (Hebrew: *omen*, *emeth*: אמת ,אמון); it is actively opposed to evil. So how do truth and faithfulness respond to sinful man? In His faithfulness and truth, God is entirely reliable and trustworthy in all that He promises to us and does for us. Therefore His veracity and dependability in offering us a way through Jesus Christ to escape the evil of death and embrace the good of eternal life are beyond reproach. So even though we are sinful and by nature objects of His wrath, in His faithfulness and truth God has nevertheless found a way to make *peace* between Himself and us and to remove the enmity between Himself and us, caused by our sins, without corrupting His character, namely, by reconciling us to Himself through the death of His Son, Jesus Christ.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### God is Sovereign {#god-is-sovereign}
 
@@ -149,25 +149,25 @@ From the standpoint of His *transcendence* of the moral universe, He is sovereig
 
 Only God is qualified to be the ultimate judge of the morally accountable creatures He has created, and thus to hold them responsible for their actions. As *de facto* ruler of the universe (through His infinite nature) and *de jure* ruler of the universe (through His perfect character):
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### God possesses the sovereign authority to demonstrate *love* to His sinful creatures out of His own *goodness* {#god-possesses-the-sovereign-authority-to-demonstrate-love-to-his-sinful-creatures-out-of-his-own-goodness}
 
 Not ignoring their sins, as evil suggests He should, but *paying* for them Himself by the death on the cross of His Son, Jesus Christ, in their place (redemption). We call the result of this act of His sovereignty **grace** (Hebrew *chen*: חן; Greek *charis*: χάρις).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### God possesses the sovereign authority to administer *justice* to His sinful creatures out of His *holiness* {#god-possesses-the-sovereign-authority-to-administer-justice-to-his-sinful-creatures-out-of-his-holiness}
 
 Not abandoning them to their sins, as evil suggests He must, but *forgiving* them Himself on the basis of the death on the cross of His Son, Jesus Christ, in their place (justification). We call the result of this act of His sovereignty **mercy** (Hebrew *chesed*: חסד; Greek *eleos*: ἔλεος).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### God possesses the sovereign authority to give *life* to His sinful creatures out of His *truth* and *faithfulness* {#god-possesses-the-sovereign-authority-to-give-life-to-his-sinful-creatures-out-of-his-truth-and-faithfulness}
 
 Not allowing them to die in their sins, as evil suggests He will, but *reconciling* them to Himself through the death on the cross of His Son, Jesus Christ, in their place (reconciliation). We call the result of this act of His sovereignty **peace** (Hebrew *shalom*: שלום; Greek *eirene*: εἰρήνη).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary: God's sovereignty in action {#summary-god-s-sovereignty-in-action}
 
@@ -179,7 +179,7 @@ Not allowing them to die in their sins, as evil suggests He will, but *reconcili
 
 In this—God's full plan for saving sinful man—absolutely everything relies upon the cross, the blood of Jesus Christ. One particularly memorable way I have heard it described is that "God's Mercy and Justice intersect in the cross."
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### God is Love {#god-is-love}
 
@@ -189,7 +189,7 @@ stags="God > Is love"
 
 Having love for His creatures, is a natural consequence of God's goodness. Out of the intrinsic goodness of His character, God loves us with a perfect love, desiring to help us in our sinful state. However, He does not overlook His holiness and justice in the process and forgive our sin without consequence (as evil suggests He should). Therefore God had to find a way to *reach out to us in love* without compromising His character, and did so through the gift and sacrifice of His only Son on our behalf. *Grace* is the biblical name for God's policy of lovingly redeeming us from our sins through Jesus Christ. We accept and receive God's gracious offer of love and redemption by accepting and receiving the Lord Jesus Christ as our Savior.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### God is Just {#god-is-just}
 
@@ -199,7 +199,7 @@ stags="God > Is just"
 
 Demanding justice for His creatures is a natural consequence of God's holiness. Out of the intrinsic holiness of His character, God must deal with us in perfect justice, righteously condemning us in our sinful state. However, He does not overlook His goodness and love in the process and abandon us to our sins (as evil suggests He will). For God found a way to *treat us as righteous* without compromising His character, and did so through the gift and sacrifice of His only Son on our behalf. *Mercy* is the biblical name for God's policy of justly forgiving us on the basis of the death of Jesus Christ. We accept and receive God's merciful offer of justification by accepting and receiving the Lord Jesus Christ as our Savior.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% video-only %}}
 

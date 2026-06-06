@@ -50,7 +50,7 @@ God has always been triune in nature; He did not somehow change to become three 
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Given the benefit of subsequent clarifying New Testament revelation, the Trinity is visible in the Old Testament {#given-the-benefit-of-subsequent-clarifying-new-testament-revelation-the-trinity-is-visible-in-the-old-testament}
 
@@ -66,7 +66,7 @@ The Trinity is not only present in the verses of the Old Testament, but portraye
 
 In these cases and others, the clear intent is to reflect (if not to convey) the triune nature of God. Moreover, some Old Testament scriptures cast the Trinity in even sharper relief, such as king David's last words which in quick succession refer to God as "the Spirit of the Lord", "the God of Israel", and "the Rock of Israel" (2Sam.23:2-3; see 1Cor.10:4 for the image of Christ as Israel's Rock). There are many other passages commonly cited to demonstrate the reality of the Trinity in the Old Testament, a reality shimmering just beneath the veil (e.g., Is.48:15-17; 63:9-10), but perhaps the best example is the one used by our Lord to demonstrate that His divinity was indeed prophesied by scripture (cf. Zech.2:7-13): Matthew 22:41-46. We'll look at this passage next.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Matthew 22:41-46 {#matthew-22-41-46}
 
@@ -85,7 +85,7 @@ So if David calls Him Lord, how is He his Son?" And no one was able to answer Hi
 
 We are not to assume that David, when he penned this prophecy under divine inspiration, saw the coming Christ as clearly as he wished to. Indeed, we have it from Christ that "many prophets and righteous men desired to see" what was being revealed to Jesus' generation face to face, namely, the unveiling of the Messiah (Matt.13:17; Lk.10:24; cf. Jn.8:56; 1Pet.1:10-12). The revelation of Jesus Christ to the world during His 1st Advent, in addition to explaining passages such as Ps.110:1 above (Christ is David's Son in His humanity, but David's Lord in His deity), is also, not coincidentally, the basis for explaining many other Old Testament passages that are only fully understood by means of our likewise now more complete understanding of the Trinity.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Prophetic foreshortening {#prophetic-foreshortening}
 
@@ -99,7 +99,7 @@ We should note that all three mountains have always been there, even if humanity
 
 This illustration of the Trinity in the Old Testament is commonly called "prophetic foreshortening". For more on this phenomenon, see [part 1 of Coming Tribulation, section IV.1.a, "Prophetical Foreshortening"](https://ichthys.com/Tribulation-Part1.htm#Foreshortening).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Why did God decide to veil the triune nature of His essence in Old Testament times? {#why-did-god-decide-to-veil-the-triune-nature-of-his-essence-in-old-testament-times}
 
@@ -114,7 +114,7 @@ Sometimes the explanation put forth for this veiling is the prevention of idolat
 
 In any case, the point is God has good reasons for His progressive revelation of truth to humanity, and we need to have unshakeable faith in His wisdom and judgment. God knows what He is doing... and not in the way we humans think we do. For He is control of *everything*, and nothing happens except that which is part of His Plan.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Idolatry as an explanation for God's veiling of His nature {#idolatry-as-an-explanation-for-god-s-veiling-of-his-nature}
 
@@ -131,7 +131,7 @@ Pagan pantheons (not to mention pagan religions) are different from God and the 
 
 {{% /sidenote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The person of Jesus Christ not yet come as an explanation for God's veiling of His nature {#the-person-of-jesus-christ-not-yet-come-as-an-explanation-for-god-s-veiling-of-his-nature}
 
@@ -142,7 +142,7 @@ stags="Interpretation > Inferences have their place when they only go so far as 
 
 The full answer lies in the person of Jesus Christ. Before the fact, before we see with our own eyes Christ come in the flesh, His humility, His suffering, His sacrifice for us, can we really appreciate in full the Trinity and what God has chosen to do for us in Christ's incarnation and death on the cross? Without the *accomplished reality* of the incarnation of Jesus, how could we ever but dimly conceive the glory of it? And without the accomplished fact of His incarnation, how could we possibly understand and appreciate the triune nature of God? For it is only through Christ – after He has come into the world in person – that we begin to see God with the clarity of vision it has now been given us to possess (Jn.1:18; 14:9).
 
-<!-- --- -->
+<!-- slide-break -->
 
 Just as the temple veil that symbolically separated us from the presence of God was split in two by Christ's sacrifice on our behalf (Matt.27:51), so the veil that in the Old Testament partially obscured the person of Christ from our view has been lifted by His actual advent in the flesh – to die on our behalf. So that now, through our faith in Jesus Christ, we see God the Father, the Son, and the Holy Spirit more clearly than we ever could before:
 
@@ -154,7 +154,7 @@ For God who said, "Let light shine forth from the darkness!", is He who has shon
 For until this very day, the same veil remains [upon their unbelieving hearts] when the Old Testament is read, and it is not removed [when they hear these scriptures], because it is [only] done away with ***in Christ***.
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 So:
 

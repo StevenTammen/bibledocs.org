@@ -45,7 +45,7 @@ slides="https://bibledocs.org/slides/longer-topical-studies/ichthys-sr4-satans-w
 
 (Derived from https://ichthys.com/SR4(SWS).htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Why do this study in particular? {#why-do-this-study-in-particular}
 
@@ -55,7 +55,7 @@ At least for me as a teenager, Christianity was kept in its nice God-shaped box.
 
 Then I read this study. This is one of the first things on Ichthys I read all the way through, and to borrow an idiom, it completely blew my mind. *Ah*, I said. *So this is what is beyond the illusion*.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Plato's Allegory of the Cave {#plato-s-allegory-of-the-cave}
 
@@ -69,7 +69,7 @@ Having never been exposed to true light, those in the cave think that the illusi
 
 This allegory is actually a great explanatory tool. For Plato, light served as a metaphor for philosophical truth. For us in our present study, light instead stands as a metaphor for spiritual truth. As we learn about how the world really works in this study, it will be possible to move further and further from the illusions of shadow (what Satan's world system would have us think are the actual realities) and more towards the light of spiritual truth.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Satan the puppet-master {#satan-the-puppet-master}
 
@@ -79,13 +79,13 @@ We as Christians must deal with the harsh fact that this world system, this *kos
 
 Bearing this in mind is in fact crucial, as it ensures we never forget that we are strangers in a foreign land, soldiers of Jesus Christ in enemy territory.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The outline for SR4 on Ichthys {#the-outline-for-sr4-on-ichthys}
 
 See [the study directly](https://ichthys.com/SR4%28SWS%29.htm).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Steven's high-level introduction {#steven-s-high-level-introduction}
 

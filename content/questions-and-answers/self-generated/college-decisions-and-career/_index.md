@@ -33,7 +33,7 @@ Discerning one's path in life is a very important task, but with so many possibl
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Q: What path of study should I undertake in college? {#q-what-path-of-study-should-i-undertake-in-college}
 

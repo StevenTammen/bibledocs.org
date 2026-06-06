@@ -34,7 +34,7 @@ Even if we already love our brothers and sisters in Christ, we can always do so 
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 In 1 Thessalonians 4:10, Paul encourages the Thessalonians to continue to love all of God's family throughout Macedonia more and more.
 

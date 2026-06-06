@@ -49,7 +49,7 @@ This lesson's main focus is examining the point that God is *three* in person, b
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Key point: God is *three* in person, but that does *not* mean that the Trinity is composed of three (or more) different "gods" {#key-point-god-is-three-in-person-but-that-does-not-mean-that-the-trinity-is-composed-of-three-or-more-different-gods}
 
@@ -59,7 +59,7 @@ stags="Trinity > What it is not > A pantheon"
 
 God is *one* in essence, and all three members of the Trinity (the Father and the Son and the Holy Spirit) are the sole, joint partakers of that same essence rather than three similar beings of similar essence. All so-called Christian sects which elevate saints and angels to the status of divinity essentially belong to this heretical category (after the manner of pagan pantheons, which also possess numerous "deities" of lesser and greater rank). But the Bible teaches that all three members of the Trinity alone share the same unique essence:
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The Father is revealed to be uniquely God {#the-father-is-revealed-to-be-uniquely-god}
 
@@ -72,7 +72,7 @@ stags="Trinity > Jointly partake in one single essence > Father"
 You were shown these things so as to know that the Lord, He is God, and there is no other besides Him.
 {{% /scripture-h %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The Son and the Father are revealed to be uniquely God {#the-son-and-the-father-are-revealed-to-be-uniquely-god}
 
@@ -90,7 +90,7 @@ Some things I'll add here in addition to this one verse Dr. Luginbill quoted, to
 - Colossians 2:9
 - Philippians 2:6
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% video-only %}}
 

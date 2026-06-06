@@ -37,7 +37,7 @@ While some credit the early Church Councils and Creeds with developing doctrine,
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Councils, Creeds, and theological vocabulary {#councils-creeds-and-theological-vocabulary}
 
@@ -70,7 +70,7 @@ End:
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#summary-points}
 
@@ -78,7 +78,7 @@ Like we discussed in our last video about how Church Councils generally operated
 
 So coming into Nicea, people had not all on their own decided that they needed to develop some brand new doctrine (and thereafter labeled it the Trinity), but rather they had been Trinitarian since the beginning, and were now just trying to come up with good ways to explain it in ways that did not mislead.
 
-<!-- --- -->
+<!-- slide-break -->
 
 This brings us to the relationship between scripture itself, theological vocabulary, and the Creeds introducing and popularizing such theological vocabulary.
 
@@ -90,7 +90,7 @@ On the one hand, it is not as if the Bible itself has nothing to say about such 
 
 But on the other hand, it is also true that how Christians talk about these issues is not entirely unrelated to the theological vocabulary used to articulate and explain the points in play.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% note %}}
 
@@ -108,14 +108,14 @@ He says something along these lines:
 - We cannot simply regurgitate and sort of sloganize verses of the Bible and call that "theological thinking" or "reflection", as if that were all that would need to go on.
 - But instead, it is the responsibility of all Christians (and the Church collectively) to shape its language—to work out ways that it wants to affirm the overall teachings of scripture.
 
-<!-- --- -->
+<!-- slide-break -->
 
 He also says that there are some pitfalls to avoid here:
 
 - The first is asserting that reflections on the Trinity or on Christ as Divine are so obvious that the language we use about them will be matter-of-fact and simplistic—that all we need to do is parrot back verses without stepping back to consider what scripture as a whole teaches.
 - Another is asserting that just because the Councils and Creeds very specifically address our language and our vocabulary, that this is all just a bunch of craziness—like 300 random guys coming together and making stuff up.
 
-<!-- --- -->
+<!-- slide-break -->
 
 In His view, both of the following ideas involve a too-high degree of cynicism:
 
@@ -125,7 +125,7 @@ In His view, both of the following ideas involve a too-high degree of cynicism:
 
 According to Dr. Reeves, both of these views are overly simplistic, and even cowardly in some sense, since they try to explain away the tension that is here rather than really grappling with it properly.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#follow-on-topics}
 
@@ -133,7 +133,7 @@ I think I understand some of what Dr. Reeves is arguing against here with regard
 
 For example, terms like *homoousios* and even the label of Trinity itself are in some senses technical theological vocabulary that has come down to us from the Church Councils and Creeds. As Dr. Reeves says, it is largely impossible not to have a theological vocabulary that gets shaped over time as ideas are articulated in greater depth. This doesn't mean that theological beliefs themselves evolve so much as how people talk about said beliefs. As far as that goes as a general concept, I don't have huge issues with it. It's just sort of the nature of the beast.
 
-<!-- --- -->
+<!-- slide-break -->
 
 However, I do have issues placing the Church's self-definition of terms on any sort of equal footing with scripture itself in our epistemology, or of injecting Central Church authority into our hermeneutic process as as an interpretive "ingredient" that you cannot do without (i.e., as a necessary component, without which you supposedly cannot properly deal with the Bible on its own). I should be clear in saying this that I don't really think that that is what Dr. Reeves is saying in this section, but I just want to specifically head it off in my own discussion of this topic, because I know some groups of Christians like the Catholics and Orthodox make a big deal out of this idea of "needing" a Central Church authority structure in order to "know how" to interpret scripture.
 
@@ -143,13 +143,13 @@ So basically, when Dr. Reeves says
 
 Then it really depends what people take this to mean. In general, I can get behind the idea that successive generations of believers naturally and organically came to develop a relatively structured way of describing the Trinity (for example), in order to more effectively communicate the Bible's teachings on the subject. But I can't really get behind the idea that some ecumenical centralized church authority structure therefore "needs to exist" in order to facilitate some sort of doctrinal standardization and enforced vocabulary. I hope you can see how those are sort of two different things.
 
-<!-- --- -->
+<!-- slide-break -->
 
 There is also the matter of how I personally think we ought to view the Church Councils and Creeds through a historical lens rather than seeing them as being particularly useful from a doctrine standpoint. I've made my views on this pretty clear in some of our other recent discussions, so I will not overly belabor the point again here, but it does mean that I don't fully agree with the sort of sentiment expressed when Dr. Reeves says:
 
 > What is more common in Evangelical circles is to say that these are simply documents of the Catholic Church and not somehow part of our heritage as well [...] But these Creedal periods—these early centuries of the Church in particular—are our history. The lights didn't go out after the Apostles and they didn't only come on when Luther came on the scene.
 
-<!-- --- -->
+<!-- slide-break -->
 
 I actually really do think the lights largely went out after the Apostles, and didn't come back on until the Reformation. My mentor teaches on the subject here: [🌐 Ichthys.com 🗏 CT Part 2A: The Seven Churches of Revelation § Ephesus: Initiation (2:1-7)](https://ichthys.com/Tribulation-Part2A.htm#1.%20Ephesus:%20%22The%20Era%20of%20Transition%22%20%28September%2070%20to%2082%20=%2012%20years%29)
 
@@ -157,23 +157,23 @@ He says (emphasis mine):
 
 {{% quote src="https://ichthys.com/Tribulation-Part2A.htm" text="Ichthys" %}}
 
-There were signs from even before the start of the Ephesian era that there would be problems with the transition from apostolic to local church rule. Paul's pointed remonstrances to the Jerusalem congregation (the book of Hebrews), and to the Corinthians (1st and 2nd Corinthians), and John's loss of control over one of the churches as evidenced in his third epistle are just a few of the more pointed examples which, even at the time, might well have led us to see Peter's hopes for the post-apostolic Church as overly optimistic (2Pet.1:12-15). For if such problems continued to surface in the "green wood" under the guiding hand of the apostles, what might be expected "in the dry" (Lk.23:31)? Ideally, the Church (as a collection of local churches) would have redoubled their efforts in the Word of God after the apostles' departure (along with the departure of the miraculous gifts which characterized their age), and would have taken pains to "call to remembrance" their teachings, as Peter so fondly hoped they would (2Pet.1:12-15; 3:1-2; cf. Paul also: 2Tim.1:13). <!-- --- -->But despite the "good defense" against sinful influences which we have noted in the case of the Ephesians, **the evidence suggests that the dynamic and Spirit-filled personal teachings of the apostles were largely lost, and, apparently, almost immediately so**. This does not mean, it is important to note, that a single iota of divine truth was either lost or even lost to us – all that God has meant for us to know in this life is contained in His holy scriptures. These scriptures were indeed lovingly preserved, collected and distributed, so that today the entire canon of scripture is safe and widely available. But scripture must be understood to be learned, believed, and applied. **By failing to preserve the understanding of the scriptures, bequeathed by the very men that wrote them under the Spirit's guidance, the Church as a whole lost a tremendous amount of momentum in the realm of spiritual growth, a momentum which would in some respects only begin to be seriously recouped centuries later during the Reformation**.
+There were signs from even before the start of the Ephesian era that there would be problems with the transition from apostolic to local church rule. Paul's pointed remonstrances to the Jerusalem congregation (the book of Hebrews), and to the Corinthians (1st and 2nd Corinthians), and John's loss of control over one of the churches as evidenced in his third epistle are just a few of the more pointed examples which, even at the time, might well have led us to see Peter's hopes for the post-apostolic Church as overly optimistic (2Pet.1:12-15). For if such problems continued to surface in the "green wood" under the guiding hand of the apostles, what might be expected "in the dry" (Lk.23:31)? Ideally, the Church (as a collection of local churches) would have redoubled their efforts in the Word of God after the apostles' departure (along with the departure of the miraculous gifts which characterized their age), and would have taken pains to "call to remembrance" their teachings, as Peter so fondly hoped they would (2Pet.1:12-15; 3:1-2; cf. Paul also: 2Tim.1:13). <!-- slide-break -->But despite the "good defense" against sinful influences which we have noted in the case of the Ephesians, **the evidence suggests that the dynamic and Spirit-filled personal teachings of the apostles were largely lost, and, apparently, almost immediately so**. This does not mean, it is important to note, that a single iota of divine truth was either lost or even lost to us – all that God has meant for us to know in this life is contained in His holy scriptures. These scriptures were indeed lovingly preserved, collected and distributed, so that today the entire canon of scripture is safe and widely available. But scripture must be understood to be learned, believed, and applied. **By failing to preserve the understanding of the scriptures, bequeathed by the very men that wrote them under the Spirit's guidance, the Church as a whole lost a tremendous amount of momentum in the realm of spiritual growth, a momentum which would in some respects only begin to be seriously recouped centuries later during the Reformation**.
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Of course, this is an interpretation, and plenty of people would disagree with this characterization, even plenty of Protestants. But this way of looking at things does inherently mean that my enthusiasm about Councils and Creeds in the Early Church is substantially dampened compared to most other people identifying as Christian.
 
 I do try to take pains to not be overly iconoclastic and bash these things more than is reasonable, since it's not like God didn't use them in some ways even despite the issues. But nonetheless, I do *not* agree that Church Councils and Creeds in the first few centuries of the Church are somehow "part of my theological heritage", because the *only* thing that I see as contributing to my theological positions is the Bible itself, and that alone. As I've tried to explain before, this is what the *sola* of *sola scriptura* logically demands of us, as I see things.
 
-<!-- --- -->
+<!-- slide-break -->
 
 In this section, Dr. Reeves talks some about how certain "Biblicist" approaches can end up proof-texting and not properly reflecting on what the verses they quote really mean light of all the Bible teaches as an whole. I certainly sympathize, having myself been on the receiving end of some people that more or less quoted scripture at me but refused to reason about what it meant or reflect upon what it was really saying in the specifics. It is true that it does us no good to parrot words without understanding the meaning behind them.
 
 But I do not think that it somehow logically follows from such an acknowledgement that a "*sola scriptura* all the way down" position (such as the one that I hold) is therefore somehow oversimplifying things. Critics would say that all of our language for defining the Trinity (such as *homoousios* and so on) came from the Councils and Creeds, and that failing to affirm these "self-definitions" coming about from the Councils and Creeds while nonetheless explaining our theology using some of them is... well, that it is essentially talking out of both sides of one's mouth, trying to hypocritically have one's cake and eat it too.
 
-<!-- --- -->
+<!-- slide-break -->
 
 But that is making an assumption that without the theological vocabulary set by the Church Councils and Creeds, we Christians would not be able to properly explain doctrines like the Trinity... and I just don't agree with that assumption in even the slightest. I think believers in the several centuries before Nicea believed in the Trinity and taught it, even *before* any of the technical theological terms coming out of Nicea were proposed, and the specific phrasing settled on and propagated.
 
@@ -181,7 +181,7 @@ To be clear, this doesn't mean there was anything inherently wrong with the impu
 
 The point is that if you cannot 100% trust them because sometimes they can be wrong like this, then their utility necessarily stops at them being useful historical background to contextualize theological points; because they are not inspired, they can *never* be on any sort of equal footing with scripture when it comes to determining correct interpretation. Full stop.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Doctrinal questions within the Church followed the same natural progression that is common for individual Christians {#doctrinal-questions-within-the-church-followed-the-same-natural-progression-that-is-common-for-individual-christians}
 
@@ -214,7 +214,7 @@ End:
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#summary-points}
 
@@ -226,39 +226,39 @@ Generally speaking, there are three main steps (with the first two being primary
 2. How human is God come down?
 3. Is the Holy Spirit a separate person?
 
-<!-- --- -->
+<!-- slide-break -->
 
 These questions are sort of invited by the language of the New Testament: the language Christ uses of Himself, the language the gospels use of Him, and so on. In other words, this particular path of inquiry is—it is fair to say—actually suggested by scripture itself, in some respects.
 
 When the language of the Bible suggests that there is a "separation of persons" when it comes to Father and Son, then that leads us right into the first question.
 
-<!-- --- -->
+<!-- slide-break -->
 
 After that, if you decide that the scriptures are clear that the Father and Son are the same "something" (pick your word: being, essence, nature, etc.)---such that the Son is co-equal; rather than being some angel or other created creature, He is also God—then how in the world did this pure, divine God come down and incarnate in human form? How can an infinite being take on finite flesh? This is the second question.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Finally, we have the third question—which, while a bit less noticeable in terms of the waves it made in the early Church, is still a natural part of the progression. Basically, do we believe that the Holy Spirit is a "full person", in the sense of having a complete personality like the Father and the Son? As the "unseen mover" in the Trinity—lacking much of the direct speech exhibited by the Father and the Son—is the Spirit still a person, or is the Spirit more like some kind of impersonal force or energy?
 
-<!-- --- -->
+<!-- slide-break -->
 
 So the idea here is that this progression of questions is sort of natural, expected even. If you buy this, then this progression helps explain how the development of controversies and doctrinal development was not particularly arbitrary, but actually charted a logical course. The Creeds don't drop out of the sky without a context, and without a sort of biblical pattern driving people to these questions.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#follow-on-topics}
 
 Unlike the first segment of this week's discussion, I don't have much to add to the general point being made here—I don't find the idea that the controversies and crises driving the Creeds in the Early Church were steered at least in part by this natural progression of questions to be at all fanciful.
 
-<!-- --- -->
+<!-- slide-break -->
 
 With that said, I do think it is important to continue to emphasize that some (and probably even most) Christians in the early Church knew about and believed the correct positions decades and even centuries before the Church Councils and Creeds went over said positions formally. This would seem to be obvious (in the same way that someone might know what a particular plant or animal is long before learning the Latin scientific name for it, for example), but it bears repeating, just because there is a not-uncommon meta-narrative out there that Christian theology "developed" and "evolved" in the Early Church, in the sense that the Councils and Creeds represented "changes" in thought, rather than mostly just being refinements in vocabulary and manner of expression, as we've been arguing.
 
-<!-- --- -->
+<!-- slide-break -->
 
 So long as that is understood and appreciated first, then as I see things, the wider point that the Church focused on completely clarifying doctrine more or less in the general order of this natural progression (i.e., mirroring the set of questions that individual believers tend to ask) can help give us a bit of intuition for why things played out in the sequence they did, and shows that even though Church Councils and Creeds were not inspired and certainly had their issues, they were nonetheless not completely disconnected from the laudable goal of seeking to clarify and explain what exactly it is that the Bible says and means.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Modalism/Sabellianism {#modalism-sabellianism}
 
@@ -291,7 +291,7 @@ End:
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#summary-points}
 
@@ -302,13 +302,13 @@ Sabellius was one of those credited with popularizing this particular set of vie
 - But he was excommunicated by Pope Callistus I
 - He and his teachings were strongly attacked by Tertullian
 
-<!-- --- -->
+<!-- slide-break -->
 
 Sabellius taught a "simple" way of describing the Trinity in terms of logic; modalism is the consummate "logical" heresy
 
 - When people are first taught the Trinity, it is common for their thoughts to start out in a direction leaning towards modalism, just because it is a sort of natural path to take when trying to wrap one's head around reconciling God's "oneness" and "threeness".
 
-<!-- --- -->
+<!-- slide-break -->
 
 Modalism teaches that Trinity roles are the same single being "wearing different hats" or "wearing different masks". Basically, there is only one being, who expresses Himself to us in different ways.
 
@@ -317,7 +317,7 @@ Many "illustrations" of the Trinity tend towards modalism (so in Steven's opinio
 - For example, trying to explain the Trinity in terms of ice, liquid, and steam all being forms of water yet distinct. Ultimately,
 there is only one chemical substance, but it is changing its form... which is basically teaching modalism rather than helping elucidate the Trinity proper.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Modalism tries to "solve" the problem of relating the oneness and threeness of God by doubling down on the oneness. The problem with this is that it wreaks havoc on many passages we have in scripture:
 
@@ -328,13 +328,13 @@ Modalism tries to "solve" the problem of relating the oneness and threeness of G
 
 So the Church rejected this interpretation because it doesn't square with scripture. But if this isn't actually how the Trinity operates, well, how exactly *does* it operate then? The lead-up to Nicea was largely shaped by those combating modalism while trying to answer this very question.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#follow-on-topics}
 
 One thing I thought I'd mention in regard to the progressive revelation of Trinity roles: technically speaking, Jesus *did* appear plenty in the Old Testament via Christophanies; as the second person of the Trinity, the Son has always been the visible "Agent" carrying out God's Will in creation. So it is that Moses was actually speaking with a pre-incarnate Jesus Christ on Mt. Sinai and at the burning bush, the pillar of cloud and fire that guided the Israelites out of Egypt was also the pre-incarnate Jesus Christ, and so on. It is just that it was not obvious to Old Testament believers that these appearances were of the Son rather than the Father. That aside...
 
-<!-- --- -->
+<!-- slide-break -->
 
 We've discussed modalism in some of our previous discussions, but are reviewing it here for context.
 
@@ -342,7 +342,7 @@ I should emphasize that it is the attacking of modalism (while simultaneously tr
 
 In this way, I would argue you cannot properly understand Arianism without first understanding what it was created to argue against. It would be kind of like trying to understand anti-war rhetoric without having ever encountered any pro-war rhetoric: while you might be able to trace the arguments and largely follow what it is trying to do, examining it without the foil it is responding to necessarily makes it much harder to appreciate it in its full context.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Reactions to Modalism/Sabellianism {#reactions-to-modalism-sabellianism}
 
@@ -374,7 +374,7 @@ End:
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#summary-points}
 
@@ -382,7 +382,7 @@ After modalism is rejected by the Church, different positions arise to offer alt
 
 In the West, the persons of the Trinity (cf. Latin *persona*) are distinguished from the substance/essence/nature of God (cf. Latin, *substantia*, *essentia*, *natura*).
 
-<!-- --- -->
+<!-- slide-break -->
 
 In the East arises some sense of subordination in the Trinity. Origen proposes one set of teachings, and then others (the "radical Origenists"... like Arius) take things further.
 
@@ -393,7 +393,7 @@ In the East arises some sense of subordination in the Trinity. Origen proposes o
 
 He doesn't think this implies any sort of creation that makes the Son and the Spirit mere creatures. In Steven's opinion, this is because what exactly any of this means is anyone's guess.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#follow-on-topics}
 
@@ -401,7 +401,7 @@ Overall, I am much more on board with how the West came to describe things. If o
 
 Unfortunately, as we shall soon examine, this concept of "begetting" found its way into Nicea, and has been confusing and misleading people ever since. (In my opinion). We'll talk more about this in our examination of Nicea itself.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 

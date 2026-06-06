@@ -32,7 +32,7 @@ This lesson goes over the responsibilities pastor-teachers have in the Church --
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Q: What exactly is the role of an "elder" or "pastor" in the Church? {#q-what-exactly-is-the-role-of-an-elder-or-pastor-in-the-church}
 

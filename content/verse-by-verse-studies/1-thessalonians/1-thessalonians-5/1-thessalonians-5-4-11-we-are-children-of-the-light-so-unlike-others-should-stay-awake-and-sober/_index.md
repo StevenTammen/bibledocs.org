@@ -34,7 +34,7 @@ In 1 Thessalonians 5:4-11, Paul exhorts us to be awake and sober, for we are not
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### On the need for watchfulness, and its relation to the end times {#on-the-need-for-watchfulness-and-its-relation-to-the-end-times}
 

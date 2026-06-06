@@ -54,7 +54,7 @@ In this lesson we kick off a series of discussions we will be having about what 
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Our next several discussions: understanding the Trinity in terms of what it is *not* {#our-next-several-discussions-understanding-the-trinity-in-terms-of-what-it-is-not}
 
@@ -62,7 +62,7 @@ Last lesson we gave the basic definition of the Trinity: "three in person / one 
 
 We can better understand what the Trinity is by first considering what it is *not* in terms of the definition given above, so that will be our focus for the next several discussions.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Key point: God is *one* in essence, but that does *not* mean that only one person of the Trinity is deity {#key-point-god-is-one-in-essence-but-that-does-not-mean-that-only-one-person-of-the-trinity-is-deity}
 
@@ -74,7 +74,7 @@ God is *three* in person, and all three persons of the Trinity (the Father, the 
 
 But the Bible teaches that all three members of the Trinity are deity. Compare: Is.63:9-14; Matt. 3:16-17; 28:19; Jn.14:16-17; 1Cor.12:4-6; 2Cor.13:14; Eph.4:4-6; 1Pet.1:1-2; Rev.1:4-6.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% video-only %}}
 
@@ -150,7 +150,7 @@ See: Matt.6:9; 1Cor.8:6; Eph.3:14-15.
 "I am the Alpha and the Omega," says the Lord who is God, "He who is and was and is coming, the Almighty."   
 {{% /scripture-h %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% video-only %}}
 
@@ -178,7 +178,7 @@ See: Jn.5:18; 10:30; 10:33; Rom.9:5; 1Cor.8:6; Col.2:9; Heb.1:3.
 The Word existed in the beginning: the Word was both present with the [Father] God [before creation] and the Word was God [in His own right]. This same One was present with the [Father] God in the beginning.
 {{% /scripture-h %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The Holy Spirit is God {#the-holy-spirit-is-god}
 

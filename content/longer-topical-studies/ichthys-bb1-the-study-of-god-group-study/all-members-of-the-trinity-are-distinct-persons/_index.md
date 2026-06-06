@@ -48,7 +48,7 @@ This lesson's main focus is examining the point that God is *one* in essence, bu
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Key point: God is *one* in essence, but that does *not* mean that the Trinity is only one person (merely displaying three modes or aspects of Himself) {#key-point-god-is-one-in-essence-but-that-does-not-mean-that-the-trinity-is-only-one-person-merely-displaying-three-modes-or-aspects-of-himself}
 
@@ -60,7 +60,7 @@ God is three in person, and all three members of the Trinity (the Father and the
 
 Heresies of the past which have challenged the distinct personalities of members of the Trinity include modalism (the idea that Christ and the Spirit are mere "modes" of the Father's personality), and docetism (the notion that Christ only seemed real and was in reality merely a phantom of sorts representing the Father's plan). But the Bible teaches that all three members of the Trinity are distinct persons.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The Father is a unique person in His own right (for He is distinct from the Son) {#the-father-is-a-unique-person-in-his-own-right-for-he-is-distinct-from-the-son}
 
@@ -73,7 +73,7 @@ stags="Trinity > Distinctness > Father"
 I was looking during my vision of that night, and behold – with the clouds of heaven one like a Son of Man was coming up, and He approached the Ancient of Days [i.e, the Father] and they brought Him before Him.
 {{% /scripture-h %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The Son is a unique person in His own right (for He is distinct from the Father) {#the-son-is-a-unique-person-in-his-own-right-for-he-is-distinct-from-the-father}
 
@@ -88,7 +88,7 @@ Behold, I have arrived – in the scroll of Your book it is written about Me –
 
 (See Psalm 40:7-8)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The Holy Spirit is a unique person in His own right (for He acts as a distinct person) {#the-holy-spirit-is-a-unique-person-in-his-own-right-for-he-acts-as-a-distinct-person}
 

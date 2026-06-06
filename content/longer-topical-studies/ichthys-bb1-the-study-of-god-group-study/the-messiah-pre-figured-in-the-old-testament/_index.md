@@ -44,7 +44,7 @@ From the very beginning, the scriptures spoke of a Messiah that would come to sa
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Introduction: the Old Testament's portrayal of the suffering of Christ {#introduction-the-old-testament-s-portrayal-of-the-suffering-of-christ}
 
@@ -57,7 +57,7 @@ Contrary to much conventional wisdom about the Old Testament, Jesus Christ and H
 
 In fact, there are in the Old Testament a large variety of "types" employed to pre-figure the incarnation, death and suffering of the Son of God on our behalf. The subject of typology will be covered in more extensive detail in [part 4A of this series (Christology)](https://ichthys.com/4A-Christo.htm), but two major categories of the Old Testament's portrayal of the suffering of Christ should be mentioned now:
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Blood sacrifice {#blood-sacrifice}
 
@@ -68,7 +68,7 @@ stags="Blood sacrifice > Shows the horrific severity of sin, and glossing over i
 
 From the coats of skin that God provides for Adam and Eve to indicate that One will die in their place (Gen.3:21), to Abel's sacrifice, superior to Cain's because it depicts the Substitute's death (Gen.4:4), to the Noahic covenant demanding respect for blood that represents the death of Another in our place (Gen.9:4), to the whole elaborate series of sacrifices commanded by the Mosaic law, all of which portray redemption through Another's blood (cf. Heb.9:22ff.), God made extensive use of the "teaching aid" of blood sacrifice in order that it might be crystal clear to all Old Testament believers that forgiveness of their sins was no light matter: it was something that only God could do for them, and it involved a steep and bloody price that God would somehow have to pay Himself on behalf of those who trusted in Him.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Prophecy {#prophecy}
 

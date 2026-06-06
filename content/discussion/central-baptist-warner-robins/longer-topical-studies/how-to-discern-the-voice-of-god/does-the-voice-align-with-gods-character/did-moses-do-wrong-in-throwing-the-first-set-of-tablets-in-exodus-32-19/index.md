@@ -32,7 +32,7 @@ This page will examine whether this destruction of the first set of tablets refl
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### A simple formulation of the question {#a-simple-formulation-of-the-question}
 

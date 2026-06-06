@@ -34,7 +34,7 @@ It can be tempting to choose the lies of the world over the truth of God because
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Do you wish to be popular? To be accepted? To not face ridicule and scorn?
 

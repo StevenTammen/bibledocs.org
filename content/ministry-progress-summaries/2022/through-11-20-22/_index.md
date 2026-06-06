@@ -43,7 +43,7 @@ This cycle I was mostly stuck working on personal matters that needed to get don
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Set up new phone {#set-up-new-phone}
 
@@ -51,14 +51,14 @@ This cycle I was mostly stuck working on personal matters that needed to get don
 * In addition to getting all my apps and data transferred over, I also went into my carrier to get them to swap the SIM, and upgraded my phone plan while I was at it, to be able to use my hotspot over my lunch break at work, as previously discussed. Hopefully I can now get more ministry stuff done during that time slot in my day.
 * Doing all this, or more precisely, planning and figuring out how to do all of this seamlessly, took a while.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Set up full teleprompter assembly, including software for reversing the computer display that is reflected {#set-up-full-teleprompter-assembly-including-software-for-reversing-the-computer-display-that-is-reflected}
 
 * The teleprompter, webcam, ring lights, and so on all came, and I spent a good amount of time getting everything set up physically. I am recording through the teleprompter right now (the webcam sits behind it), even though I'm not using it in this video, since this isn't the type of video where I am planning to use full scripts.
 * To get the teleprompter to work properly, my tablet's image needs to be reversed in software, so that when the beam-splitter glass mirror reflects it, the reflected display is shown in the correct orientation. I was rather horrified at the lack of good software options (at least on Windows) to do this for the screen as a whole. Long story short, I finally found one that works (called [UltraMon](https://www.realtimesoft.com/ultramon/)), but it only works if you hook up at least one additional monitor, which kind of stinks, and it's not free either. But I did get it working properly, so that is at least something.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Created a spreadsheet to automate the creation of update messages for these ministry progress summaries {#created-a-spreadsheet-to-automate-the-creation-of-update-messages-for-these-ministry-progress-summaries}
 
@@ -66,13 +66,13 @@ This cycle I was mostly stuck working on personal matters that needed to get don
 * The spreadsheet I built will hopefully reduce the amount of time it takes for me to post these ministry progress summaries to all the relevant channels: the TinyLetter mailing list, Facebook, Twitter, the forum, and so on.
 * In essence, the spreadsheet lets me paste in the links to the webpage and video form of one of these ministry progress summaries and enter the summarized version of the ministry update, and then it builds everything else automatically. Hurray, less busywork.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Set up a new framework for daily progress summaries moving forward {#set-up-a-new-framework-for-daily-progress-summaries-moving-forward}
 
 * I won't spend much time on this in this ministry update since it is not particularly ministry related in a direct sense, but I set up a more systematic framework for making the progress summaries I do daily. Hopefully the time I invested here in this cycle will help me keep up with these daily videos better, so that they no longer end up as a bottleneck, as they have from time to time thus far.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Upcoming work {#upcoming-work}
 

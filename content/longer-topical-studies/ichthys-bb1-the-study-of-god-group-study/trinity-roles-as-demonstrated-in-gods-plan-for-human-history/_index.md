@@ -58,7 +58,7 @@ The best way to get an understanding of how the three members of the Trinity wor
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Overview {#overview}
 
@@ -69,13 +69,13 @@ stags="Trinity > Understood through God's redemptive plan for humankind"
 
 When we are face to face with God, we shall "know even as we are known" (1Cor.13:12). Until that time, our understanding of God in three persons is essentially dependent upon the way the Bible reveals the Trinity in the process of carrying out God's plan for human history. In the following sections, we will briefly be examining the different roles taken by the Trinity in several aspects of administering that plan.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### A non-exhaustive list of examples {#a-non-exhaustive-list-of-examples}
 
 There are more things that could be discussed than the few cases we will be going over here. Even with just a few examples, though, it should be clear how the working out of God's plan for human history helps us understand the roles that the members of the Trinity have adopted.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The Plan of God Generally {#the-plan-of-god-generally}
 
@@ -86,7 +86,7 @@ stags="Plan of God"
 
 Authorized by the *Will* of the Father (Eph.1:11; Rev.4:11), executed by the *Word*, the Son (Heb.1:2-3; Jn.1:1-3), administered through the *Wisdom* and power of the Spirit (Is.11:2; Zech.4:6).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Creation of the World {#creation-of-the-world}
 
@@ -97,7 +97,7 @@ stags="Creation of the world | Trinity Roles > In God's relationship with the an
 
 Directed by the Father (Gen.1:1; 1:3; Rev.4:11), carried out by the Son (1Cor.8:6; Col.1:16; Heb.1:2), empowered by the Spirit (Ps.33:6b; Prov.8:27-31).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Revelation of the Word {#revelation-of-the-word}
 
@@ -108,7 +108,7 @@ stags="The Word of God | Logos > Meanings behind the word"
 
 The Father *expresses* the Word (Is.55:11; also Is.40:8; 45:23), Christ *is* the Word (Jn.1:1-3; Heb.1:3), the Holy Spirit *reveals* the Word (1Cor.2:10-16).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Christ's 1st Advent {#christ-s-1st-advent}
 
@@ -119,7 +119,7 @@ stags="Jesus > First advent"
 
 Christ is sent by the Father (Heb.10:7), conceived (Matt.1:20), led (Matt.4:1), and empowered (Jn.3:34) by the Spirit as He carries out His ministry of self-sacrifice for our salvation.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The Victory of Salvation {#the-victory-of-salvation}
 
@@ -132,7 +132,7 @@ stags="Kenosis"
 
 The Father sends the Son on the mission (Jn.3:16), the Son accomplishes the mission (Jn.19:30; Heb.10:7), the Holy Spirit supports the mission (Matt.3:16; Jn.3:34).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Reconciliation of the Believer {#reconciliation-of-the-believer}
 
@@ -143,7 +143,7 @@ stags="Reconciliation"
 
 Though estranged from the Father (Eph.4:18; Col.1:21; 1Jn.1:3 & 6), we are restored to fellowship with Him through the mediation of the Son by means of His sacrifice on the cross (Eph.2:12-13; Col.1:22; Heb.2:14-15), with the Spirit acting as the agent of our renewed fellowship (2Cor.13:14; Phil.2:1).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Regeneration of the Believer {#regeneration-of-the-believer}
 
@@ -154,7 +154,7 @@ stags="Regeneration | Born again > Spirit not water"
 
 The Father holds the key to eternal life (Jn.5:19-26; Rom.5:10-11), the Son purchased access to eternal life by His death for all who believe in Him (Acts 3:15; 20:28; 1Pet.1:18), the Spirit quickens or regenerates believers (Jn.3:5-8).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Walk of the Believer {#walk-of-the-believer}
 
@@ -165,7 +165,7 @@ stags="Walk of the believer | Pelagianisnm | Sanctification > The standard is pe
 
 The Father sets the standard of holiness (2Cor.7:1; 1Thes.4:3; Heb.12:14; 1Pet.1:16), the Son is the model (Matt.16:24; 1Cor.11:1; 1Thes.1:6), the Spirit provides the power to live as God would have us live (Rom.8:4; Gal.5:16).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Virtues of the Believer {#virtues-of-the-believer}
 
@@ -176,7 +176,7 @@ stags="Eternal Rewards > Crowns | Virtue thinking > Faith | Virtue thinking > Ho
 
 The Father gives us the example of ***love*** (Jn.3:16; 1Jn.4:7-12) by sending His Son, who is the object our ***faith*** (Jn.14:6; Act 16:31), so that we look forward to our resurrection with a ***hope*** empowered by the Holy Spirit (Rom.15:13).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Spiritual Gifts of the Believer {#spiritual-gifts-of-the-believer}
 
@@ -187,7 +187,7 @@ stags="Spiritual gifts | Spiritual gifts > All believers have them, not only pas
 
 Given by the Spirit, with specific ministries assigned by the Son and specific effects decreed by the Father (1Cor.12:4-6).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Prayers of the Believer {#prayers-of-the-believer}
 
@@ -198,7 +198,7 @@ stags="Prayer > Access to the throne room of God was purchased with the blood of
 
 Offered to the Father (Matt.6:6), in the name of the Son (Jn.15:16; 16:23), accomplished in the power of the Spirit (Eph.6:18).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Caveats {#caveats}
 

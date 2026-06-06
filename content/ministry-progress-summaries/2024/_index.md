@@ -49,7 +49,7 @@ This cycle I mostly focused on completing a large chunk of the development effor
 
 ### Content {#through-3-23-24-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Foreword: things I did not do, despite some of my prior plans {#through-3-23-24-foreword-things-i-did-not-do-despite-some-of-my-prior-plans}
 
@@ -63,7 +63,7 @@ Well, time flew by, and it has been a while again. I should say upfront I did ra
 
 So that's a list of things I didn't do, even though I had been thinking these things were where I was going to turn next, as of a few months ago.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### So what *did* I actually do? {#through-3-23-24-so-what-did-i-actually-do}
 
@@ -73,7 +73,7 @@ Here's a high-level overview of some of the tasks I focused on:
 - When I got a series of questions (about sleep as a metaphor for death, resuscitation, the afterlife, etc.) from a friend, I made a series of in-depth videos to answer the questions. This turned into a four-part series, with ballpark four hours of pretty dense recorded content.
 - Since MailChimp deprecated TinyLetter (the mailing list service I'd been using on [BibleDocs](https://www.bibledocs.org/), and also had set up for Jordan's ministry site [BibleDriven](https://www.bibledriven.org/)), I had to switch both of us over to a different mailing list service. I decided to go with [Buttondown](https://buttondown.email/). This took some work.
 
-<!-- --- -->
+<!-- slide-break -->
 
 I also coded. *A lot*.
 
@@ -85,7 +85,7 @@ I also coded. *A lot*.
 
 I'm not going to go over absolutely all of these coding-relating things in further depth in this video, but I will talk somewhat more about the general video processing steps, as well as page-internal timestamps, since I can sort of demo those visually, and they are probably the most important things of the lot.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Why did things turn out delayed this way? Mostly because I wanted to finish the bulk of the video processing automation before I processed all the videos {#through-3-23-24-why-did-things-turn-out-delayed-this-way-mostly-because-i-wanted-to-finish-the-bulk-of-the-video-processing-automation-before-i-processed-all-the-videos}
 
@@ -98,7 +98,7 @@ Even as it is now, it is not perfect. I'll talk more about a couple planned impr
 
 And across the many, many hours of video content we've recorded for BB1, having these things automated will save me a massive amount of time. That's why I chose to wait until I had all the automation more in place before doing the BB1 videos.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### A brief overview of the video processing workflow {#through-3-23-24-a-brief-overview-of-the-video-processing-workflow}
 
@@ -113,7 +113,7 @@ I will be going over a few concepts:
 
 The short version is that all of this together automates a lot of the video processing steps that would otherwise be tedious and time-consuming (not to mention more error-prone) to do by hand.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### What the output videos look like on YouTube/the website {#through-3-23-24-what-the-output-videos-look-like-on-youtube-the-website}
 
@@ -121,7 +121,7 @@ The big things to note are the clean title-slide transitions between topics, and
 
 Seeing it all in action will help make it a lot more obvious what I am talking about, so I'll just demo the main functionality in the ministry progress video here.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Page-internal timestamps and the YouTube Iframe API {#through-3-23-24-page-internal-timestamps-and-the-youtube-iframe-api}
 
@@ -131,7 +131,7 @@ One thing that is very useful that is now better supported is being able to full
 
 Seeing it all in action will help make it a lot more obvious what I am talking about, so I'll just demo the main functionality in the ministry progress video here.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### So now that all of that is set up, releases will be more consistent. I promise {#through-3-23-24-so-now-that-all-of-that-is-set-up-releases-will-be-more-consistent-i-promise}
 
@@ -139,7 +139,7 @@ I just very recently finished getting everything just discussed set up, and deci
 
 I'm planning to release at least a couple videos a week for the next few weeks, until I run out of ready content. If you aren't already subscribed to [the YouTube channel](https://www.youtube.com/channel/UCFk7khraAKf68DZ5GeYEFIw), you might consider doing that, since from here on out, there ought to be more consistent new video content.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Upcoming plans {#through-3-23-24-upcoming-plans}
 
@@ -147,7 +147,7 @@ First of all, I'm going to be working on getting the full backlog of ready video
 
 In our BB1 study, we are still talking about the Trinity, but are now in the last section of the study, going over Christophanies in the Old Testament. We will probably finish this study in several more weeks. I'm planning to have us start either Christology or Soteriology next (parts 4A and 4B, respectively, of the Bible Basics series on Ichthys), but I haven't picked which yet.
 
-<!-- --- -->
+<!-- slide-break -->
 
 In the immediate short term, I have three other primary goals:
 
@@ -155,7 +155,7 @@ In the immediate short term, I have three other primary goals:
 - Setting up further automation with the topic transitions in videos. I would like to automatically generate the top transition video segments in a hands-off (completely automated) way. Right now I have to manually record the short segments one by one.
 - Setting up a BibleDocs podcast on the podcasting platform [PodBean](https://www.podbean.com/), to include all the content from our Ichthys group Bible studies (at least that is the content stream I'll start with for podcasting—I will probably expand to others too, later). I need to support ripping mp3 audio off of the mp4 videos, and generating proper mp3 metadata/episode descriptions so that podcast episode timestamps will work properly on Apple Podcasts and Spotify (the two most dominant podcast apps, at present).
 
-<!-- --- -->
+<!-- slide-break -->
 
 After all of that, I want to turn my full focus back to launching an in-person Bible study at my house. There are a ton of TODOs left there, but I'll leave all those aside for now, until we get a bit closer.
 
@@ -725,7 +725,7 @@ This cycle I mostly spent time finishing remaining tasks in my command line appl
 
 ### Content {#through-6-18-24-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Review {#through-6-18-24-review}
 
@@ -737,7 +737,7 @@ Last ministry progress summary, I said I had these three immediate short-term go
 
 I'll be going over what progress I've made on these (and some other things besides).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Automated silence removal {#through-6-18-24-automated-silence-removal}
 
@@ -747,7 +747,7 @@ This is good news, since it means we won't have to switch away from Zoom in our 
 
 At any rate, after determining that we can in fact keep using Zoom, I wired up the silence removal step in my automated video processing command line tool, so that it will now get automatically run, rather than me manually have to process each segment like I was having to do before.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Automated topic transition scaffolding {#through-6-18-24-automated-topic-transition-scaffolding}
 
@@ -760,7 +760,7 @@ I also set up the part of my automated video processing workflow that automatica
 
 Basically, while I was previously make all these topic transition segments manually by hand (and then using a script to standardize them to all be three seconds long), now the entire thing is automated from front to back.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Automated transcripts {#through-6-18-24-automated-transcripts}
 
@@ -768,7 +768,7 @@ I also set up a process to utilize the Python package [youtube-transcript-api](h
 
 Previously I was using some regular expressions and a rather sophisticated spreadsheet to do much the same (which took a good bit of the manual work out of it, but still required a few minutes of effort per video), but now it is all completely automatic.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The upshot of all this {#through-6-18-24-the-upshot-of-all-this}
 
@@ -778,7 +778,7 @@ If I were only doing videos, I'd now be done. However, that brings us to the thi
 
 I am hoping I can knock it out rapidly to get out of this limbo phase we've been it. I'm taking time off work for a couple weeks in the near future in order to visit family, and historically, my "vacation time" has always been when I get the most software development work done in any given year. So I am optimistic.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Consistent content posting the next little bit {#through-6-18-24-consistent-content-posting-the-next-little-bit}
 
@@ -786,7 +786,7 @@ Podcast automation aside, since I've now finished the video side of things, I'm 
 
 Most of this content is from our group study of BB1: Theology but there is also a separate four-video playlist in there too. I recorded this other playlist several months back when a friend asked me some questions (so it falls into the Q&A > Reader Correspondence content type).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Upcoming plans {#through-6-18-24-upcoming-plans}
 

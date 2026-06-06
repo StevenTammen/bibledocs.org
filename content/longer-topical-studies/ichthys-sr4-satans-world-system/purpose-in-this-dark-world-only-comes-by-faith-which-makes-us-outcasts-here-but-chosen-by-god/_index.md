@@ -38,7 +38,7 @@ TODO: Summary
 
 (Derived from https://ichthys.com/SR4(SWS).htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The fallen world {#the-fallen-world}
 
@@ -51,7 +51,7 @@ Though no doubt relieved that the Lord God had not visited upon them a swift and
 
 Life was no longer wonderful, especially in contrast to the bounty so recently lost. Everything was now flawed, and strangely unsatisfying. The pain, the privation, the decay and corruption -- and more than the anything else the absence of God -- must have driven home the contrast to Eden.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### We may not have as heartrending a point of comparison as Adam and Eve, but this world's brokenness can and will pierce us anyway {#we-may-not-have-as-heartrending-a-point-of-comparison-as-adam-and-eve-but-this-world-s-brokenness-can-and-will-pierce-us-anyway}
 
@@ -59,7 +59,7 @@ Unlike our first parents, we do not possess the experience of a perfect Eden as 
 
 Nonetheless, despite the fact that familiarity tends to inure one to hardships, this unforgiving world of trouble and tears has a tendency from time to time to slice through even the most deep-rooted Stoicism, and through even the most fortunate circumstances, reminding us all that this is not a paradise designed by God for our happiness and pleasure. ***On the contrary, this is the devil's world***.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The darkness all around us in the world {#the-darkness-all-around-us-in-the-world}
 
@@ -73,7 +73,7 @@ War, genocide, rape, slavery, human trafficking, child abuse... whoever thinks t
 
 On top of all this, not too far down the road in every individual life lies the grave, the reward and legacy awaiting us all, no matter how blissful or disappointing our lives have been in the interim. We will talk more about this unavoidable fact (and the mockery it makes of all human effort) starting next time.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### True meaning in this life only comes through faith {#true-meaning-in-this-life-only-comes-through-faith}
 
@@ -91,7 +91,7 @@ We will find this meaning, fulfillment, and happiness when we are at last re-uni
 
 Until that time, we wait for something better as homeless wanderers in a world which finds our perspective and our hope worthless, even idiotic.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Though strangers and outcasts in this world, our faith marks us out as God's chosen people {#though-strangers-and-outcasts-in-this-world-our-faith-marks-us-out-as-god-s-chosen-people}
 
@@ -101,7 +101,7 @@ stags="In the world, but not of the world"
 
 But by our faith and the actions that faith produces, we show the world that we are not of it, do not love it, and acknowledge that we have no true part in it -- except for the God who is the focus and the object of our love all the days of our sojourning here in the devil's inhospitable desert (cf. 1 Chronicles 29:15; Psalm 23:1-6; 39:12; 63:1; 84:5-7; 119:19; Hebrews 11:37-38; 11:13-16; 13:13-14; 1 Peter 1:1; 2:11).
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% nt t="esv" h="400px" p="Psalm 73:25" %}}
 
@@ -115,7 +115,7 @@ TODO
 
 {{% /nt %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Parallel discussion from Peter #3 on Ichthys {#parallel-discussion-from-peter-3-on-ichthys}
 
@@ -129,7 +129,7 @@ Peter, an apostle of Jesus Christ, to those who, though outcasts dispersed throu
 
 *To those though outcasts dispersed . . . yet selected*: We have already considered the ostracism and outright persecution which these early Christians endured for their beliefs [earlier in the Peter Series]. Instead of down-playing the problems his audience was experiencing, Peter acknowledges their sufferings. He calls them *parepidemoi* (outcasts), a Greek word meaning someone who is only visiting as a stranger or an exile (cf. Hebrews 11:13-16), and goes on to compare them to a scattered nation, using the Greek word *diaspora* (i.e., dispersion; often transliterated and used of scattered Israel).
 
-<!-- --- -->
+<!-- slide-break -->
 
 Yes, says Peter, we Christians do live as strangers on this earth, scattered and dispersed. From the world's point of view this is indeed a pitiable state. To the world, we are outcasts, even rejects.
 

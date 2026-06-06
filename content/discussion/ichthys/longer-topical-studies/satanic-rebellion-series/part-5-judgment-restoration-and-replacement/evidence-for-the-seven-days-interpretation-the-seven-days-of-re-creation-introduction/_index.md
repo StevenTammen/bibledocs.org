@@ -35,7 +35,7 @@ The seven days of re-creation model God's plan for the seven millennial days of 
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Audio clip from Ichthys {#audio-clip-from-ichthys}
 
@@ -48,7 +48,7 @@ srcend="22:52"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -56,7 +56,7 @@ That the seven day week is a reflection of God's overall design of human history
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Follow-on topics {#follow-on-topics}
 
@@ -66,13 +66,13 @@ During those original seven days, God conducted a comprehensive refitting of the
 
 This fits into the cycles of Judgment, Restoration, and Replacement that we have been arguing describe God's overall plans for material creation.
 
-<!-- --- -->
+<!-- slide-break -->
 
 The following sections will be examining the specifics in the alignment between the seven Genesis days of re-creation compared to the seven millennial days of human history. In this, Dr. Luginbill posits some detailed parallels: not just which days align to what, but also how God's actions in re-creation (for example, in separating things or filling things) symbolically parallel trends within human history.
 
 Since I quite like how Dr. Luginbill put things in his conclusion section about the seven millennial days (which we will get to after we have gone through all the days), I've reproduced it below. We'll talk about this specific text again in a few lessons once we are on the other side of going through all the details, and hopefully at that point it will serve as as an effective review and refresher about the big picture. But for now, it will help outline exactly what this wider section of the study is discussing:
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -80,7 +80,7 @@ Whether taken in tandem or taken individually, both the first six Genesis days a
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Further discussion {#further-discussion}
 

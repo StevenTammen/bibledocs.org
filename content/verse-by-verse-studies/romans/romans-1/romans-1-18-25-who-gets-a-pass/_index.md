@@ -34,7 +34,7 @@ In Romans 1:18ff. and Psalm 19, the Bible teaches that all human beings are with
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Natural revelation holds that no mentally mature humans get a pass {#natural-revelation-holds-that-no-mentally-mature-humans-get-a-pass}
 

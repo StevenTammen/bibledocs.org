@@ -40,7 +40,7 @@ Genesis 1:1 (in the original Hebrew and Greek Septuagint both) and John 1:1 do n
 
 ### Content {#genesis-1-1-what-beginning-is-in-view-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The "beginning" mentioned in Genesis 1:1 (and also John 1:1) is indefinite not definite {#genesis-1-1-what-beginning-is-in-view-the-beginning-mentioned-in-genesis-1-1-and-also-john-1-1-is-indefinite-not-definite}
 
@@ -66,7 +66,7 @@ In the beginning [of the material universe], God created the heavens and the ear
 
 {{% /scripture %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 The Hebrew text of Genesis 1:1 in the Old Testament supports the first possible translation. The Greek text of Genesis 1:1 in the Old Testament also supports the first possible translation. (Since the Old Testament was initially written in Hebrew, this Greek version of the Old Testament was a translation for people who could only read Greek, not Hebrew. It is called the Septuagint, and is sometimes abbreviated as LXX (Roman Numerals), meaning "70", just like the Latin word *septuaginta* from which we get the English name).
 
@@ -76,7 +76,7 @@ All of these texts support the first possible translation because they lack some
 
 One might be able to argue that the definite article in Genesis 1:1 is implied and ought to be supplied... except it does not show up in the Septuagint or John 1:1 either, as one might expect if it were in fact supposed to be supplied. Such an argument thus requires you to assume quite a lot. It is not impossible for the definite article to be implied even so (in all three texts), but anyone who argues for such ought to acknowledge that this large leap in logic exists in their position.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% technical-discussion %}}
 
@@ -108,7 +108,7 @@ We have בְּרֵאשִׁית not בָּרֵאשִׁית in Genesis 1:1. We hav
 
 {{% /technical-discussion %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Aside from the textual evidence, taking the beginning in a definite way would seem to imply that space and time were somehow already in existence during God's creation of the heavens and the Earth. This causes theological problems (or at least can) as it muddles God's eternal existence and externality to material creation.
 
@@ -116,7 +116,7 @@ God exists as three persons that share one essence. This doctrine is known as th
 
 When God commanded spacetime to come into existence from nothing, it did. God's existence is in no way linked to the beginning of the material universe. In fact, it is actually right and proper to say that God existed *before* time, because he created time.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### How did God exist before space and time? {#genesis-1-1-what-beginning-is-in-view-how-did-god-exist-before-space-and-time}
 
@@ -128,7 +128,7 @@ We human beings are very small and finite. Due to this limited perspective, we d
 
 The second step is understanding God's identity as I AM. In Exodus 3:14–15 God declares to Moses that His name is "I AM".
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% ot t="esv" h="400px" p="Exodus 3:14-15" %}}
 
@@ -146,7 +146,7 @@ The second step is understanding God's identity as I AM. In Exodus 3:14–15 God
 
 {{% /ot %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% technical-discussion %}}
 
@@ -170,13 +170,13 @@ The second step is understanding God's identity as I AM. In Exodus 3:14–15 God
 
 {{% /ot %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Some scholars squabble endlessly about the etymology of the tetragrammaton, but it is clear from usage that the divine the name of God is fundamentally connected to existence, just as in this passage from Exodus.
 
 I've honestly always found the ink spilled here somewhat regrettable, inasmuch as actual *usage* is always king in lexicography, not etymology. For another example of scholars getting off in the weeds of etymology and muddling themselves theologically, compare all the confusion over the Greek adjective [μονογενής](https://biblehub.com/greek/3439.htm). (Ichthys hits interpretive issues surrounding μονογενής [here](https://ichthys.com/mail-Only-Begotten-Mother-Of-God-On-This-Rock.htm) and [here](https://ichthys.com/mail-Jesus-is-God-and-Man.htm#monogenes--only-begotten), for example).
 
-<!-- --- -->
+<!-- slide-break -->
 
 To be clear, it's not even that the etymology of יהוה has been settled contrary to the semantic scope we have observable to us from usage. For example:
 
@@ -193,7 +193,7 @@ If you like, though, read what some scholars have to say on the divine name:
 
 {{% /technical-discussion %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Put simply, existence is tied up in who God is. God is the Alpha and Omega, He who is and was and is to come, the First and the Last, the Beginning and the End (Revelation 1:8; 22:13). For this reason, time is of no consequence to God.
 

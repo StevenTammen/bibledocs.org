@@ -21,7 +21,7 @@ Using Ephesians 4:26 as a proof-text (alongside, for example, Jesus' cleansings 
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Q: Is there such a thing as "righteous anger" {#q-is-there-such-a-thing-as-righteous-anger}
 

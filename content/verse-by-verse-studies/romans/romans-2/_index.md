@@ -38,7 +38,7 @@ The "therefore" in Romans 2:1 is pointing back to the entire preceding passage i
 
 ### Content {#romans-2-1-what-is-the-sense-of-the-therefore-in-this-verse-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 We might phrase the general question something like:
 
@@ -98,7 +98,7 @@ According to this passage (as well as others like Matthew 7:1-5; Luke 6:37-42), 
 
 ### Content {#romans-2-1-3-how-should-we-make-our-judgments-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The basic idea {#romans-2-1-3-how-should-we-make-our-judgments-the-basic-idea}
 
@@ -184,7 +184,7 @@ In essence, Romans 2:4 introduces another "possible explanation" for how the peo
 
 ### Content {#romans-2-4-is-the-point-of-this-verse-to-equate-passing-judgment-upon-others-with-showing-contempt-for-gods-kindness-forbearance-and-patience-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Is the point of Romans 2:4 to equate passing judgment upon others with showing contempt for God's kindness, forbearance, and patience? In a word, no. Verse 4 is set more opposite the "do you think you will escape judgment?" part of verse 3, rather than the "when you pass judgement yet do the same things" part.
 
@@ -260,7 +260,7 @@ God's kindness leads to repentance in the sense that He spares sinners from His 
 
 ### Content {#romans-2-4-how-exactly-does-gods-kindness-lead-to-repentance-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 In asking "how exactly does God's kindness lead to repentance?", the idea behind the question is sort of that discipline not kindness might seem like a likelier motivator for repentance. Compare Hebrews 12:4-11---the Bible is clear that God disciplines all those who are truly His children (for our own good, of course). So then why wouldn't God's divine discipline generally be what leads us to repentance, not "kindness"? 
 
@@ -318,7 +318,7 @@ We need to take care when thinking about the stubborn and unrepentant people tha
 
 ### Content {#romans-2-5-6-others-aside-is-your-heart-stubborn-and-unrepentant-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 In the first several verses of Romans 2, Paul condemns hypocritical judgment. It is in this very context that verse 5 picks up.
  
@@ -374,7 +374,7 @@ If we are honest with ourselves, the paths before us are actually rather clear: 
 
 ### Content {#romans-2-7-11-why-do-we-make-life-hard-for-ourselves-when-the-decision-is-so-clear-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Verses 7-10 follow an ABBA structure in terms of topic. Verse 7 starts by describing the positive outcome (eternal life) for those who by perseverance in doing good seek glory and honor and immortality. Then verse 8 states that wrath and indignation will be the lot of those who are selfishly ambitious and obey unrighteousness rather than the truth. Verse 9 is talking about the same group of people as verse 8, emphasizing that the consequences apply both to Jew and Greek alike, and then Verse 10 is talking about the same people as verse 7, back to the positive as a foil.
 
@@ -434,7 +434,7 @@ This is because there is no salvation to be had by Law-keeping; we cannot work o
 
 ### Content {#romans-2-12-16-wait-are-gentiles-held-to-looser-standards-and-excused-due-to-their-ignorance-of-the-law-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The general question {#romans-2-12-16-wait-are-gentiles-held-to-looser-standards-and-excused-due-to-their-ignorance-of-the-law-the-general-question}
 

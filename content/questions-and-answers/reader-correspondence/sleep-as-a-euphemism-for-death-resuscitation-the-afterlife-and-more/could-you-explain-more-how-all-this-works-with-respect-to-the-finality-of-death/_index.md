@@ -48,7 +48,7 @@ The word that some English versions translate as "once" in Hebrews 9:27 is the G
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 
 ### Q: Could you explain more how all this works with respect to the finality of death? {#q-could-you-explain-more-how-all-this-works-with-respect-to-the-finality-of-death}
@@ -57,7 +57,7 @@ In Luke 16, a chasm is described as separating the two parts of Hades (such that
 
 So how does the concept of resuscitation affect the finality of death? It seems to me like Luke 16 and Hebrews 9:27 describe death as final, but then these people die twice...? What gives?
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Luke 16 - on the chasm of separation {#luke-16-on-the-chasm-of-separation}
 
@@ -76,7 +76,7 @@ If the conceptual hang-up is that in resuscitation people once in Hades somehow 
 
 So what to make of this? How do we puzzle it out? The key point is that in resurrection and resuscitation both, it is not humans that do the crossing of the uncrossable boundaries on our own, but God that causes it to happen. Compare Matthew 19:26.
 
-<!-- --- -->
+<!-- slide-break -->
 
 I also don't think we should lose sight of the fact that raising people from the dead (resuscitation) was clearly recognized as being utterly miraculous. It is *not* normal, but completely extraordinary—that's the whole point! So far from arguing "well, resuscitation can't actually be a thing, because it would mean that dead people have to cross an uncrossable boundary", we should instead be emphasizing how awe-inspiring it is that God, out of His overflowing grace and mercy and love, actually Himself violates the natural order He has set up, for our benefit!
 
@@ -84,7 +84,7 @@ This reminds me in some respects of people struggling with exactly how the divin
 
 That's not meant to be a rebuke or anything, by the way. We just need to be sure to keep our focus upon what is truly important, and not let ourselves get tripped up by trying to apply human logic to God... who is decidedly *not* bound in the ways that we are as humans. God created the Universe in the blink of an eye; He can do whatever He pleases within it. Even things that are completely impossible from the human perspective.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Hebrews 9:27 - Perhaps speaking in terms of "types of death" was a poor choice on my part {#hebrews-9-27-perhaps-speaking-in-terms-of-types-of-death-was-a-poor-choice-on-my-part}
 
@@ -101,13 +101,13 @@ So, for example, if Jairus' daughter died of illness (as is likely, given that s
 
 What I had been trying to get at before was that there is a sort of death after which one stays dead, and that is true of all humans, even those who were resuscitated in the interim. Permanent physical death eventually comes for us all, and cannot be avoided by anyone.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### A better way to talk about it, perhaps: focusing on the vocabulary and context of Hebrews 9:27 more {#a-better-way-to-talk-about-it-perhaps-focusing-on-the-vocabulary-and-context-of-hebrews-9-27-more}
 
 This will be a bit detailed and technical, which is sort of why I hadn't done the deep dive the first time around. However, I do hope it will help you make sense of Hebrews 9:27 better, despite the complexity.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Hebrew 9:27's wider context {#hebrew-9-27-s-wider-context}
 
@@ -124,7 +124,7 @@ Hebrews 9:16-24 speaks of the role of blood in covenants. We are told that these
 
 Hebrews 9:25-28 makes it clear that unlike the prior ritual sacrifices that had to be offered again and again, Christ does not enter heaven to offer himself repeatedly, since "He appeared once for all at the culmination of the ages to do away with sin by the sacrifice of Himself" (verse 26). When He returns again, it will not be to bear sin, but to bring salvation to those who are waiting for Him (verse 28).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The Greek adverb *hapax* {#the-greek-adverb-hapax}
 
@@ -144,7 +144,7 @@ So, for example, contrast these uses:
 
 See the difference? I quite like the analogy of a single fender-bender (the "single time" meaning) vs. totaling a car completely (the "once for all" meaning), as I think it illustrates the differing concepts well.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Before we look at how *hapax* is used in Hebrews 9 specifically, let's look at a couple other examples from scripture to make sure we understand the difference between these two meanings of *hapax*.
 
@@ -152,7 +152,7 @@ Before we look at how *hapax* is used in Hebrews 9 specifically, let's look at a
 
 Jude 1:3 is a good example of a verse where the sense of the *hapax* is most certainly "once for all" rather than "one time, as opposed to more times". Since how could the faith be delivered unto the saints multiple times? What would that even mean?
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The Greek adverb *hapax* in Hebrews 9 {#the-greek-adverb-hapax-in-hebrews-9}
 
@@ -166,7 +166,7 @@ In Hebrew's 9:26, we ought to translate that *hapax* as "once for all", since it
 
 This means the *hapax* of Hebrews 9:27 is set directly parallel with the "once for all" usage of Hebrews 9:28. In fact, the verses begin with with "**27** καὶ καθ᾽ ὅσον... **28** οὕτως καὶ", which translates to something like "**27** and just as... **28** so also". We thus conclude that the sense of the *hapax* in Hebrews 9:27 *must* be "once for all" rather than being "one time".
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The importance of the "once for all" concept as it pertains to Christ's work completely forces our hand in translating Hebrews 9:26, 28 {#the-importance-of-the-once-for-all-concept-as-it-pertains-to-christ-s-work-completely-forces-our-hand-in-translating-hebrews-9-26-28}
 
@@ -194,7 +194,7 @@ At any rate, all of this is to show how it is irresponsible to take Hebrews 9:26
 
 And if the *hapax* Hebrews 9:28 must be translated as "once for all", then so too must the *hapax* in Hebrews 9:27, as we covered just previously.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### So Hebrews 9:27 does not contradict the idea of resuscitation, QED {#so-hebrews-9-27-does-not-contradict-the-idea-of-resuscitation-qed}
 

@@ -34,7 +34,7 @@ In essence, Romans 2:4 introduces another "possible explanation" for how the peo
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Is the point of Romans 2:4 to equate passing judgment upon others with showing contempt for God's kindness, forbearance, and patience? In a word, no. Verse 4 is set more opposite the "do you think you will escape judgment?" part of verse 3, rather than the "when you pass judgement yet do the same things" part.
 

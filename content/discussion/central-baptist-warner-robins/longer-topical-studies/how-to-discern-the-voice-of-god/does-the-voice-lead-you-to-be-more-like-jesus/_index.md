@@ -70,7 +70,7 @@ Instead, we ought to aspire to have the peace and confidence that comes from int
 
 ### Content {#on-seeking-the-things-above-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The answer is always focusing on spiritual things. *Always* {#on-seeking-the-things-above-the-answer-is-always-focusing-on-spiritual-things-always}
 
@@ -90,13 +90,13 @@ Have worries about finances and making ends meet? *Think on the things above*.
 
 Relationships (family, friendships, marriage, dating) going poorly, even falling apart? *Think on the things above*.
 
-<!-- --- -->
+<!-- slide-break -->
 
 It is hard---*so* hard—to do this as we truly ought. Things will go wrong, even spectacularly so. They always will. But that doesn't matter. Why should it bother us? What is this life, that it should so capture our attention? It is but a single drop of water compared to the endless oceans of eternity. How small is our faith if we don't trust that the Creator and Sustainer of the Universe can handle our problems! Are they really such great matters for an Infinite God, One who is Omniscient and Omnipotent?
 
 Colossians 3:1-2 is not so very difficult to understand conceptually, but you will very quickly find out how hard it it in practice to keep one's mind always focused on the spiritual. The sin nature within our flesh and Satan's world system will together always try to steer us away from the spiritual focus we ought to continuously maintain, but we *can* fight them... if only we trust God enough to lean on His strength in our fight, rather than trying to go it alone.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### What are the things above? {#on-seeking-the-things-above-what-are-the-things-above}
 
@@ -112,7 +112,7 @@ Spiritual things. The Bible—God's written word—and in-depth Bible teaching c
 
 We know what these things are. It is no trick question.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### We have duties, it is true. But priorities are priorities {#on-seeking-the-things-above-we-have-duties-it-is-true-but-priorities-are-priorities}
 
@@ -126,7 +126,7 @@ ptags="Luke 10:38-42"
 
 Consider this passage from Luke 10:
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% nt t="esv" p="Luke 10:38-42" h="400px" %}}
 
@@ -141,7 +141,7 @@ Mary sat at the Lord’s feet listening to what he said. **40** But Martha was b
 
 {{% /nt %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 It is probably really easy for us to sympathize with Martha in this passage, especially if we consider ourselves "the responsible sort."
 
@@ -149,11 +149,11 @@ But if what we are about is not truly "Kingdom business," how urgent is it reall
 
 So yes, we must provide for our families (1 Timothy 5:8), we must work to support ourselves so as not to be a burden to others (2 Thessalonians 3:6-10), and so on. But in truth there are very few things that ought to take us away from the feet of Jesus, out of His Word and His Truth. Don't be like Martha and worry about the things of the world, but be like Mary and choose the better part that comes from focusing single-mindedly upon spiritual truth, and the One who gives it to us.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Further discussion {#on-seeking-the-things-above-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### God will provide, if we put our focus in the right place {#on-seeking-the-things-above-god-will-provide-if-we-put-our-focus-in-the-right-place}
 
@@ -167,7 +167,7 @@ ptags="Matthew 6:25-34"
 
 Consider this passage as well, this time from Matthew 6:
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% nt t="esv" p="Matthew 6:25-34" h="600px" %}}
 
@@ -189,15 +189,15 @@ Consider this passage as well, this time from Matthew 6:
 
 {{% /nt %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 What use does worrying about worldly things get us if when we "seek first His kingdom and His righteousness" all of our legitimate needs will be given to us? For that is what God promises here. *That* is why we need not worry about tomorrow.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Further discussion {#on-seeking-the-things-above-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### So we should err *far* on the side of over-prioritizing spiritual things in our lives {#on-seeking-the-things-above-so-we-should-err-far-on-the-side-of-over-prioritizing-spiritual-things-in-our-lives}
 
@@ -211,13 +211,13 @@ As mentioned briefly above, there are some common-sense lines we cannot cross, s
 
 But Luke 10:38-42 and Matthew 6:25-34 definitely show that the single-minded focus on "things above" that Colossians 3 commands is really that: single-minded. We cannot properly sit at the feet of Jesus and give ourselves over towards His Truth if we let our hearts be split by worldly worries—even things that are far from bad or sinful. It's just that everything in this ephemeral world weighs in as completely inconsequential compared to eternal spiritual realities. We need to be pleased to put God and His Truth first in our lives—making that our primary focus—and hand over the reigns to Him in absolutely everything else.
 
-<!-- --- -->
+<!-- slide-break -->
 
 We may not get everything we *want* when we do this, when we completely hand control over to God, but the Bible is clear that we will get all we truly *need*. And in exchange, we will gain ever so much more on the spiritual front. For the least spiritual reward that is eternal will be worth more than all the wealth in this present world that is passing away. That is the calculus that we should always strive to keep within our minds.
 
 And that is precisely why we should always set our hearts on things above.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Further discussion {#on-seeking-the-things-above-further-discussion}
 

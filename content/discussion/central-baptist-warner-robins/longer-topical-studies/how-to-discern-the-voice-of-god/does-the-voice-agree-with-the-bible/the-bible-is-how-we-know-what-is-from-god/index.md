@@ -39,7 +39,7 @@ This is because for us to properly use the Bible as our measuring stick for ever
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### How do you recognize God's voice, as opposed to the voice of Satan and/or others under Satan's sway? Through the Word of God {#how-do-you-recognize-god-s-voice-as-opposed-to-the-voice-of-satan-and-or-others-under-satan-s-sway-through-the-word-of-god}
 
@@ -57,11 +57,11 @@ It is no surprise that the written Word of God is all about Jesus Christ, the li
 
 Bringing us back to the point at hand, it is only through the Word of God that we will be able to properly "discern the Spirits" (1 John 4:1-3), and so correctly make out the voice of God from among the veritable chorus of false voices.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### We must both submit to Bible teachers and personally read the Bible to grow in such a way that we develop the discernment God wants us to develop {#we-must-both-submit-to-bible-teachers-and-personally-read-the-bible-to-grow-in-such-a-way-that-we-develop-the-discernment-god-wants-us-to-develop}
 
@@ -75,33 +75,33 @@ False things can sometimes be rather obvious (so, for example, the Bible does mo
 
 Part of this is because Satan's lies often have at least a grain of truth in them. When Satan speaks to Eve in Genesis 3, he is not wrong that God forbade Adam and Eve from eating... but he does purposely misrepresent God's words. It is actually not all that subtle here (God forbade eating the fruit from a single tree, not all the trees), but how about in Matthew 4:1-11 during the temptation of Christ? Satan quotes scripture at Jesus. How can scripture be wrong? But Jesus quotes scripture right back at Him, showing that Satan's interpretation of what that scripture meant was faulty. Satan had twisted things, even though all he did was quote the Bible!
 
-<!-- --- -->
+<!-- slide-break -->
 
 This introduces a major wrinkle: using the Bible as our measuring stick only works when we know what the *correct* interpretation of the Bible is. How then do we get this correct interpretation of the Bible? The basic answer to that question is that we must grow spiritually. And how do we grow spiritually? By listening to Bible teachers, and by reading the Bible ourselves.
 
 The Bible says that God has put some in the body of Christ as pastor-teachers, and these men are specially empowered by the Holy Spirit to learn and then explain the Bible, "in order to equip his people for works of service, so that the body of Christ may be built up" (see Ephesians 4:11-13). This means we can come to know what the Bible actually teaches by listening to these gifted and prepared individuals God has placed in the body of Christ to explain the Bible to us. Teaching the Bible is their primary job, so we ought to take full advantage of their gifts, for that is how things are supposed to work in the system God has designed: the Church, the united body of Christ here in the world, composed of various parts each fulfilling their respective role (see 1 Corinthians 12). In fact, to grow to spiritual maturity, we *must* submit ourselves to these Bible teachers; that is what the Ephesians quote from above demands, albeit indirectly.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Secondly, we all need to build up our own personal knowledge of the Bible by reading it consistently. For one thing, the matter of choosing which Bible teachers to listen to is impossible to do properly without us verifying that the words coming out of their mouths line up with the Bible (compare Acts 17:11). Even though this is the case, we are *not* authorized to think we can go it alone, and forgo the step of submitting to teachers. Instead, we *do* need to submit to teachers... but only the ones whose words we can verify with the Bible. To do this, we certainly need to be conversant with what the Bible says!
 
 It's not just about getting us past that first hurdle of figuring out which Bible teachers to listen to, though. Let me try to use an analogy: let's say that the truth contained in the Bible is like a puzzle -- individual verses and passages are like puzzle pieces. The end goal is for each of us to have collected pieces of the puzzle (pieces of scripture), and have them "properly assembled" in our hearts, fitting together piece-by-piece to form a solid edifice of truth. If that is the goal, then what is the most effective way for this goal to be achieved? Is it to put the sole responsibility for our growth in the hands of our teachers? Do we think that will maximize our spiritual growth?
 
-<!-- --- -->
+<!-- slide-break -->
 
 Is it not instead the case that we should do absolutely as much as we can on our own to make the process more effective? If we read our Bibles every day, we will be accumulating in our hearts more and more puzzle pieces, so to speak. Some of them we can probably fit together all on our own, but others we probably won't be able to (those are the ones we need Bible teachers for). Us taking the initiative to consistently read our Bibles greatly enhances the process, because then teachers don't always have to be re-explaining "what the Bible says" alongside "what the Bible means," but can instead mostly just focus on explaining how some of the trickier pieces fit together. It should be very obvious that the more familiarity people have with the Bible -- even if they are fuzzy on some things -- the more effectively they can understand Bible teaching, as a general rule. So, for example, if a teacher is teaching about the theological concept of Justification, he might work on explaining how James' description of faith being proved genuine by the fruit it bears in people's lives (compare James 2) does not at all contradict Paul's teaching that we are justified by faith, not by works (compare the end of Romans 3, particularly verse 28). This particular teaching will be more easily understandable and more useful for those who are already familiar with what these passages talk about, how they are situated in their respective narratives, and so on.
 
-<!-- --- -->
+<!-- slide-break -->
 
 In short, reading our Bibles is our "homework" as Christians, so that when we show up to "lecture," we will be able to better follow the words of our teachers. If we neglect our homework, we will not learn nearly as well from our teachers, and if we do not learn nearly as well from our teachers, our understanding of what the Bible really means will be limited, and if our understanding of what the Bible really means will be limited, then we will be unable to effectively use the Bible as a measuring stick for everything (like how we are supposed to). Our discernment will be crippled, and we will not be nearly as successful in picking out the voice of God, instead being more likely to follow other voices we ought not. 
 
 To wrap up this section, trying to learn from homework alone is no good -- if we are wrong, who will correct us? Who will answer our questions if we get stuck? That's why we need Bible teachers. But the point we have just been making is that trying to learn from lecture alone is no good either, because Bible teaching won't make much sense to us unless we are already familiar with the Bible -- the thing that all good Bible teaching should be singularly focused upon -- and no one but us can make us familiar with the Bible (through a personal choice on our part to read it consistently). So it is that we must *both* submit to Bible teachers and personally read the Bible for the process to work as God intends -- for us to grow spiritually, and therefore know the correct interpretation of the Bible, that we might be able to accurately discern the voice of God.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Conclusion and recap {#conclusion-and-recap}
 

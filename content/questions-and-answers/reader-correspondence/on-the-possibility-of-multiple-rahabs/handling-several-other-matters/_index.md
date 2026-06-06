@@ -36,7 +36,7 @@ This lesson handles a couple other objections that some people raise in trying t
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### "It's not the same Rahab because the chronology does not work" {#it-s-not-the-same-rahab-because-the-chronology-does-not-work}
 
@@ -50,7 +50,7 @@ stags="Chronology > Long lifespans do not necessarily pose problems"
 
 This is an argument that deals with the chronology of Israel before the Davidic Kingdom. While scholars still debate some, the time spans are greater than normal life spans by our standards, but of course that means very little. 
 
-<!-- --- -->
+<!-- slide-break -->
 
 Here is what a friend and mentor of mine has to say about the matter (please see [here](https://ichthys.com/mail-Bible-InterpretationV.htm#:~:text=Bob%20L.-,question%20%238), question/response 8):
 
@@ -58,7 +58,7 @@ Here is what a friend and mentor of mine has to say about the matter (please see
 "The chronology here has bothered some in the past, and some have tried to solve the "problem" of too much time between Salmon and David by suggesting that some names have been left out of the list and only the famous included. That, I think, is a questionable approach. Extremely long life-spans among Old Testament believers are certainly not unprecedented, even after the flood. Jacob lived to be over 130 years old (Gen.47:9), and given that Benjamin still seems to be a fairly young lad during the episode of Joseph's time in Egypt, it seems that he must have been at least a hundred when Benjamin was born. We should therefore understand that the generation which entered into the land of promise and those immediately thereafter must likewise have been blessed with exceptional length of days and continued fecundity into old age (at least among the godly believers) which would be remarkable by today's standards. After all, even before he entered into the land, Caleb could say in truth "So here I am today, eighty-five years old! I am still as strong today as the day Moses sent me out; I'm just as vigorous to go out to battle now as I was then" (Josh.14:10-11 NIV). And Caleb was still active in the period of conquering the land for many years to come thereafter (cf. Judg.1:12-15). So the fact that between Salmon (who I would argue must have been one of the two spies whom Rahab protected) to Solomon's reign we have well over four hundred years but only four additional males in the line (i.e., Boaz, Obed, Jesse, David) only seems problematic for those who wish to overlook these other biblical facts. David, for example, was the youngest of eight brothers (1Sam.16:10), so we are safe to conclude that Jesse sired him in his old age. And of course Boaz was also an older man when he married Ruth (cf. Ruth 2:1; 3:10). As I say, while this sequence would be remarkable in our day and age, it would have been much less so at the time -- and what genealogy, after all, is more remarkable in every way than that of our Lord?"
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### "Neither Josephus nor Joshua mention a marriage between the prostitute Rahab and Salmon" {#neither-josephus-nor-joshua-mention-a-marriage-between-the-prostitute-rahab-and-salmon}
 
@@ -76,7 +76,7 @@ Disregarding the above, this is another classic example of the statement "the ab
 
 Hopefully all this has answered your question. Do feel free to email back if you have more questions!
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Steven asking Dr. Luginbill of Ichthys.com for clarification on the text of Sinaiticus {#steven-asking-dr-luginbill-of-ichthys-com-for-clarification-on-the-text-of-sinaiticus}
 
@@ -96,7 +96,7 @@ With respect to the actual email, I guess there actually is one thing I want to 
 
 For Matthew 1:5, This seems to match the TR, and goes against my whole argument. (I checked and it's Ῥαάβ at the the other two occurrences in Sinaiticus). Is this right or wrong? How should I explain the occurrence of the χ in Rahab's name to my friend if it is actually the correct reading?
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Dr. Luginbill of Ichthys.com responding {#dr-luginbill-of-ichthys-com-responding}
 

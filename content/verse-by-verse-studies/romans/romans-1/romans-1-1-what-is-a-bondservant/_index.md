@@ -34,7 +34,7 @@ In Romans 1:1, Paul call himself a servant/slave of Jesus Christ. What exactly d
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 The Greek word used in Romans 1:1 is *doulos* (Greek: [δοῦλος](https://www.blueletterbible.org/lexicon/g1401/esv/mgnt/0-1/)). It is appropriate to translate it several different ways:
 

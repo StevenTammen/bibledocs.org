@@ -36,7 +36,7 @@ In the first lesson, we argued that the Bible clearly teaches that we need to ho
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Back to the main thrust of the question {#back-to-the-main-thrust-of-the-question}
 
@@ -50,7 +50,7 @@ In general, such matters fall between the explicit scriptural directives to obey
 
 Note, however, that scripture is strong enough in its exhortations to obey our parents that always obeying our parents should be our default mindset. There's no two ways about it.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% application %}}
 
@@ -68,13 +68,13 @@ Now, I'm *not* saying that it is impossible that some of these situations are pr
 
 On the other hand, if, for example, my American parents suddenly decided that they ought to get to pick out who my wife will be without my say, this action, *here in America*, would be considered strange. As a matter of application, even if they positively commanded me to marry someone, it would not be at all unreasonable for me to question things rather than meekly submitting to such a directive.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### It is only our own personal circumstances that matter {#it-is-only-our-own-personal-circumstances-that-matter}
 
 To generalize this a bit further: the fact that you can think up hypothetical outrageous situations regarding unjust parents (or even actual ones halfway across the world) does not mean *you* have grounds for ignoring *your* parents.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Things are different if you are still living at home {#things-are-different-if-you-are-still-living-at-home}
 
@@ -84,7 +84,7 @@ Once you are your own person more, your parents have less justified say in what 
 
 We never outgrow the obligation to respect our parents and act deferentially towards them.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Our duty to God can help shed light on some of the possible areas of contention {#our-duty-to-god-can-help-shed-light-on-some-of-the-possible-areas-of-contention}
 
@@ -99,7 +99,7 @@ Sometimes we can gain insight into the proper path of action by considering the 
 
 As a rule of thumb, if put on the scale, God's Will for us outweighs parental preference every time. However, you actually have to have some conviction on what it is God wants for you for this to hold (and you can't just use it as a convenient excuse -- "God wants me party and live it up in college, so I don't have to listen to you and study!").
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Career {#career}
 
@@ -113,7 +113,7 @@ Problems can arise when kids aren't interested in the things their parents think
 
 Well, what does God want you to do? If the answer is "history professor," then humbly and respectfully disagreeing with your parents' choice for you is not inappropriate. But if the answer is in fact "doctor," and you spit in your parents' faces despite their reasonable guidance, who do you think is going to be on the hook for that?
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Choice of significant other {#choice-of-significant-other}
 
@@ -129,7 +129,7 @@ Marriage is an incredibly important decision for us as Christians, largely becau
 
 Since parents are, as a general rule, wiser and more experienced than their children, it usually behooves children to listen closely to their parents' observations on the character of others rather than blowing them off. They can help you avoid common traps that might ultimately lead to pain and heartbreak for you (such as Mr. Charming Swindler, Ms. Self-absorbed Beauty, and Mr. Bad Boy Leather Jacket -- as generalizations).
 
-<!-- --- -->
+<!-- slide-break -->
 
 On the other hand, due to the long-term consequences of marriage (as above), this is a decision for which you really do not want to completely outsource your free will.
 
@@ -139,7 +139,7 @@ If you, on the other hand, are prioritizing the spiritual maturity of your partn
 
 Usually things won't be so clear-cut. The main idea is to take your parents' opinions into consideration rather than treating them dismissively, while at the same time ensuring that doing such does not cause you to lose sight of God's guiding hand in this critical life decision.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Choice of friends {#choice-of-friends}
 
@@ -155,7 +155,7 @@ There is, however, the issue of legalism. If you take a look at Jesus' circle of
 
 As you might have been able to guess, there is a middle road to be walked here as well. If your parents forbid you from associating with someone who is not going to be dragging you down spiritually -- even if this person made poor choices in the past -- then should you listen to them? Well, what does God want you to do? Are you actually called to be a good influence in that person's life?
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Spiritual approach {#spiritual-approach}
 
@@ -169,7 +169,7 @@ This consideration is a subset of our spiritual approach in general. While many 
 
 This is most apparent when parents are unbelievers and a child is a believer, or parents are believers and a child professes unbelief. However, even in the case that all parties are (self-professed) Christians, tensions in this area can run just as high as they run in conflicts over career path, if not more so.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Any time there is a wide gap in beliefs -- Catholic vs. Mormon, traditional mainline Protestant vs. Charismatic, Mega Church vs. Independent Evangelical, anything vs. Cult -- there are bound to be times when parents push for a certain course of action that their child will oppose on spiritual grounds.
 
@@ -177,7 +177,7 @@ Conflicts in this regard really boil almost entirely down to the individuals in 
 
 I know of some people who have "been Christians" their whole lives with little to show for it, and others who already had a full evangelism ministry of their own just several years after being saved, dedicating almost all their time to the Lord. For this reason, there is little basis for giving parents' spiritual approaches higher weight simply on account of their age.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Recap and summary {#recap-and-summary}
 

@@ -48,31 +48,31 @@ Does it mean anything that both Lazarus and Jairus' daughter came back to life a
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Q: Does Jesus' use of the sleeping terminology have anything to to do with resuscitation? {#q-does-jesus-use-of-the-sleeping-terminology-have-anything-to-to-do-with-resuscitation}
 
 Could the reason that Jesus used the sleeping terminology in John 11:11 and Matthew 9:24 have anything to do with the fact that these individuals would be resuscitated and wake up again? (As opposed to people who die but are not resuscitated)?
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Comments on our specific cases {#comments-on-our-specific-cases}
 
 I think Jesus' use of the sleeping terminology in John 11 and Matthew 9 is completely separate from his foreknowledge that these folks would be resuscitated rather than staying dead.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Lazarus' case {#lazarus-case}
 
 In the case of Lazarus, the euphemism would be just as true in their culture if Lazarus never was resuscitated and stayed dead. That would be how the euphemism was mostly used in practice, after all, since it would be far more normal for people to stay dead than to be raised back to life.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Jairus' daughter's case {#jairus-daughter-s-case}
 
 And in the case of Jairus' daughter, like I argued, even though she was actually dead and Jesus knew so, He said what he did (that is, took advantage of the euphemism people clearly knew culturally) to make things purposefully ambiguous to others, so that neither He nor the girl and her family would receive as much negative attention from it.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The basic concept: sleeping is primarily associated with death, not resuscitation {#the-basic-concept-sleeping-is-primarily-associated-with-death-not-resuscitation}
 
@@ -82,7 +82,7 @@ In neither case was his usage of this terminology really directly tied to the re
 
 We also ought to note that there are places where sleeping is mentioned alongside death but not resuscitation (e.g., 1 Kings 2:10---"Then David slept with his fathers and was buried in the city of David"), and also places where resuscitation is mentioned but not sleeping (e.g., Paul's raising of Eutychus in Acts 20:7-12). These observations mean that we ought to understand the sleep references as being primarily associated with death, not resuscitation.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### More explanation about how sleeping and death are tightly linguistically coupled {#more-explanation-about-how-sleeping-and-death-are-tightly-linguistically-coupled}
 

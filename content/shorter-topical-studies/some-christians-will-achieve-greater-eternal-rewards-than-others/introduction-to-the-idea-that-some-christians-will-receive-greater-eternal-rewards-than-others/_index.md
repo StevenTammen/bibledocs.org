@@ -39,13 +39,13 @@ Even though most people don't have issues decorating only certain particularly w
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Merit-based rewards are not generally controversial {#merit-based-rewards-are-not-generally-controversial}
 
 Every day people give honor to distinguished service and scorn laziness. The idea of different levels of recognition and reward for different levels of service does not seem to be very controversial to most people.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### However, when the rewards in question are eternal, people seem to be a bit more skittish {#however-when-the-rewards-in-question-are-eternal-people-seem-to-be-a-bit-more-skittish}
 
@@ -61,7 +61,7 @@ However, some people seem to have a problem when the rewards in question are not
 
 Whatever the reasons, this idea of different levels of eternal reward for different levels of merit-based service seems to be hard for many people to accept. The goal of this short study is to briefly put forward some of the scriptural evidence for the concept.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Some general passages dealing with differing levels of eternal reward {#some-general-passages-dealing-with-differing-levels-of-eternal-reward}
 
@@ -71,7 +71,7 @@ stags="Eternal rewards > Scripture about"
 
 Scripture is quite clear that upon Christ’s return, judgement will be rendered as to the works of men. For example:
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% nt t="esv" h="600px" p="Matthew 16:27 | 2 Corinthians 5:10 | Revelation 22:12" %}}
 
@@ -101,11 +101,11 @@ We must all stand in front of Christ to be judged. Each one of us will be judged
 
 {{% /nt %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 All these passages speak of an evaluation of our works. It follows naturally that if some people have "better works" than others, then they will receive more reward. There is no other way to responsibly interpret these passages.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### More on the process of evaluation: 1 Corinthians 3:10-15 {#more-on-the-process-of-evaluation-1-corinthians-3-10-15}
 
@@ -125,7 +125,7 @@ Paul gives us some more detail on the process of evaluation in 1 Corinthians 3:
 
 {{% /nt %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 After the fires of judgement, only those things we built upon the sure foundation of Jesus Christ will remain. (This applies to words and thoughts as well as actions: compare Matthew 12:36–37).
 
@@ -133,7 +133,7 @@ This passage in 1 Corinthians 3 teaches that those who build with gold, silver, 
 
 The fire represents God evaluating the things we do in this life, and the things left behind lead to reward for us (see verse 14). For this reason, this passage clearly teaches that some people receive greater reward than others.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Eternal ranking is implicit in "Many of the first will be last, and the last first" {#eternal-ranking-is-implicit-in-many-of-the-first-will-be-last-and-the-last-first}
 
@@ -159,7 +159,7 @@ Finally, consider the passages that teach that many of the first will be last, a
 
 {{% /nt %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 These passages directly teach that there is ranking in heaven. If we were all the same in eternity, it would not be possible to have people who are first and last.
 

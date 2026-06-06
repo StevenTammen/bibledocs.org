@@ -36,13 +36,13 @@ Oftentimes people want a binary answer -- want someone else to give them permiss
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Q: But must I specifically obey my parents in matter X? {#q-but-must-i-specifically-obey-my-parents-in-matter-x}
 
 You didn't really answer my question. Do I have to obey my parents' wishes for me or not? Yes or No?
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Third parties should not weigh in on specifics {#third-parties-should-not-weigh-in-on-specifics}
 

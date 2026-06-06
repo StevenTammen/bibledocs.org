@@ -34,7 +34,7 @@ slides="https://bibledocs.org/slides/"
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### On the concept of "the rapture" {#on-the-concept-of-the-rapture}
 

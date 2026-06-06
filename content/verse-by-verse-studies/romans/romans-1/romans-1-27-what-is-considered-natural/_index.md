@@ -34,7 +34,7 @@ Genesis 2:23-24 and Matthew 19:4-6 make it clear what God holds to be natural in
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The basic idea {#the-basic-idea}
 

@@ -38,7 +38,7 @@ In Romans 1:1, Paul call himself a servant/slave of Jesus Christ. What exactly d
 
 ### Content {#romans-1-1-what-is-a-bondservant-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 The Greek word used in Romans 1:1 is *doulos* (Greek: [δοῦλος](https://www.blueletterbible.org/lexicon/g1401/esv/mgnt/0-1/)). It is appropriate to translate it several different ways:
 
@@ -100,7 +100,7 @@ When Jesus was declared son of God through the resurrection, it showed that He i
 
 ### Content {#romans-1-3-4-what-does-it-mean-for-jesus-to-be-declared-son-of-god-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 What does it mean for Jesus to be "declared Son of God"? Basically, it means that Jesus was and is fully God, with the resurrection serving as proof positive.
 
@@ -156,7 +156,7 @@ God's banquet table has plenty of seats waiting to be filled. It is our duty to 
 
 ### Content {#romans-1-5-7-how-should-we-approach-other-sinners-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Just as Paul received grace (Romans 1:5), he urges others to submit to God, so that they too may belong to Jesus Christ as he does.
 
@@ -212,7 +212,7 @@ If we are ever tempted to question if our faith really matters or changes anythi
 
 ### Content {#romans-1-8-does-faith-truly-make-an-impact-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 In Romans 1:8, Paul's statement directly implies that the faith of the Roman church had spread all the way across the Mediterranean. Consider for a moment that Paul had not yet personally met these people (compare verses 10-13) at the time when he was penning this letter; he likely didn't have personal relationships with people in Rome that would give him an insider's view into the faith of the church there. *Yet he was aware of their faith even so*.
 
@@ -266,7 +266,7 @@ Encouragement was Paul's primary reason for wishing to visit Rome, it seems, and
 
 ### Content {#romans-1-11-12-how-important-is-encouragement-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 How important is encouragement? Important enough that it seems to be Paul's primary reason for wishing to visit the church in Rome (Romans 1:11-12).
 
@@ -326,7 +326,7 @@ As human beings, we have no righteousness of our own. God only sees us as righte
 
 ### Content {#romans-1-17-are-we-righteous-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Are we righteous? On our own? *Absolutely not*. We are only righteous because we have been washed clean in the blood of Christ. God sees us as righteous only because He sees us covered in the righteousness of Jesus.
 
@@ -386,7 +386,7 @@ In Romans 1:18ff. and Psalm 19, the Bible teaches that all human beings are with
 
 ### Content {#romans-1-18-25-who-gets-a-pass-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Natural revelation holds that no mentally mature humans get a pass {#romans-1-18-25-who-gets-a-pass-natural-revelation-holds-that-no-mentally-mature-humans-get-a-pass}
 
@@ -477,7 +477,7 @@ Idolatry is not just bowing to down to statues of wood and stone, but is any tim
 
 ### Content {#romans-1-22-25-what-are-our-modern-day-idols-given-that-the-worshiping-of-animal-statues-isnt-so-much-a-thing-anymore-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 People nowadays might scoff at the idea of bowing down and worshiping physical animal idols of wood and stone, but we would be quite foolish to think that idolatry isn't a problem in our time. If you wanted to be clever and make a play on words, you might point out as one example that animals still seem more important than God to some people (or more important than the human beings in God's Church, at any rate). I might even generally agree with the idea that puppies and kittens are generally friendlier and cuddlier and more likable than some or even many human beings, but we do not have a responsibility to work towards their salvation in the same way we are called to do for our fellow man.
 
@@ -535,7 +535,7 @@ The impurity mentioned in Romans 1:24 is speaking of moral uncleanness—with ov
 
 ### Content {#romans-1-24-what-ought-we-make-of-the-vile-impurity-or-uncleanness-mentioned-here-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 The New American Standard Bible (1995) translates Romans 1:24 as follows:
 
@@ -612,7 +612,7 @@ It can be tempting to choose the lies of the world over the truth of God because
 
 ### Content {#romans-1-25-why-would-people-choose-the-lies-of-the-world-over-the-truth-of-god-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Do you wish to be popular? To be accepted? To not face ridicule and scorn?
 
@@ -674,7 +674,7 @@ There is no point after which a sinner is too far gone. God will *always* accept
 
 ### Content {#romans-1-26-does-god-give-up-on-sinners-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Introduction {#romans-1-26-does-god-give-up-on-sinners-introduction}
 
@@ -799,7 +799,7 @@ In Romans 1:26, the "dishonorable passion" or "shameful lust" that is spoken of 
 
 ### Content {#romans-1-26-what-is-a-dishonorable-passion-or-shameful-lust-in-this-context-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 In context here, the "shameful lusts" that God gave these people over to, these people who "neither glorified Him as God nor gave thanks to Him" (Romans 1:21), were:
 
@@ -858,7 +858,7 @@ Greek has multiple words for "love." The fact that God clearly supports "love" (
 
 ### Content {#romans-1-26-27-love-is-love-right-you-cant-be-against-love-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 The Bible says God is love (1 John 4:8). How then can God be against the love between two men and two women, if they "really love each other?"
 
@@ -935,7 +935,7 @@ Since all of us struggle with different areas of sin, it does not seem to me to 
 
 ### Content {#romans-1-26-27-are-people-born-gay-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Introduction: distinguishing between temptation and sin {#romans-1-26-27-are-people-born-gay-introduction-distinguishing-between-temptation-and-sin}
 
@@ -1025,7 +1025,7 @@ The text in Romans 1:27 ("receiving in themselves the due penalty for their erro
 
 ### Content {#romans-1-27-what-exactly-does-receiving-in-themselves-the-due-penalty-for-their-error-mean-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The interpretive challenge: identifying the specific referents for the error and the penalty {#romans-1-27-what-exactly-does-receiving-in-themselves-the-due-penalty-for-their-error-mean-the-interpretive-challenge-identifying-the-specific-referents-for-the-error-and-the-penalty}
 
@@ -1178,7 +1178,7 @@ Genesis 2:23-24 and Matthew 19:4-6 make it clear what God holds to be natural in
 
 ### Content {#romans-1-27-what-is-considered-natural-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The basic idea {#romans-1-27-what-is-considered-natural-the-basic-idea}
 
@@ -1256,7 +1256,7 @@ Romans 1:28 says that the result of straying from God's truth is God giving us o
 
 ### Content {#romans-1-28-what-is-the-result-of-our-passions-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 As the verse directly says, the result of straying from God's truth is God giving us over to a depraved mind, so that we do that which ought not to be done.
 
@@ -1314,7 +1314,7 @@ Romans 1:29-31 contains quite a list of things that we ought to avoid—things t
 
 ### Content {#romans-1-29-31-what-is-not-proper-in-gods-eyes-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 What is not proper in God's eyes?
 
@@ -1407,7 +1407,7 @@ Romans 1:32 calls out the practice of "approving of" evil—different from "doin
 
 ### Content {#romans-1-32-what-does-this-verse-have-to-say-about-the-notion-of-live-and-let-live-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 "Live and let live" is a popular sentiment in our modern culture. (At least among the younger generation—speaking from my time in college, the idea of "you do you" very much permeated the expected social fabric). Being frustrated by this over-emphasized tolerance, it might be tempting to interpret verse 32's condemnation of approving evil works as *carte blanch* for poking our nose into all manner of sinful conduct in the lives of others. After all, if one believes silence implicitly means approval, then we really would have no choice, right? But does silence really mean approval? And what exactly does "silence" (=not speaking up) mean anyway, in practice? How does it interact with the concept of "pearls before swine"?
 

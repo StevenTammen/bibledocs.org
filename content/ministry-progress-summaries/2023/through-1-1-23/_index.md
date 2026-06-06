@@ -40,13 +40,13 @@ This cycle I spent time relaxing over the holidays with family. I also made a go
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Relaxing with family {#relaxing-with-family}
 
 Not much to say here. I took time off work and spent the holidays visiting family and recharging.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Progress on various studies {#progress-on-various-studies}
 
@@ -54,13 +54,13 @@ I am in the middle of drafting a study discussing the exact nature of "judge not
 
 I started that one when I was partway through a different study outlining some issues in the modern church visible (such as a lack of emphasis put on serious Bible teaching, as compared to music and social time, for example), and the lack of commitment many self-professed Christians demonstrate, given the amount of time they spend watching TV shows and browsing social media (and so on) rather than reading their Bibles or taking in Bible teaching. These are not fun things to talk about, but are necessary, for a lot of modern churchgoers seem to be blind to the sad decline of care people have towards the Bible and God's truth.
 
-<!-- --- -->
+<!-- slide-break -->
 
 I branched off into the other study about judging after I realized it might be a good idea to firmly establish that "shooting it straight" and "calling a spade a spade" is not something to be shy about for us as Christians. That is, pointing out unpleasant truths in a level-handed manner to lovingly exhort people to turn (more) toward the truth is not the sort of self-righteous condemnatory judgment called out in Matthew 7:1ff.
 
 At any rate, exactly what I mean by all of these things will be more clear as I finish and publish all these studies.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Practical matters {#practical-matters}
 
@@ -68,7 +68,7 @@ At any rate, exactly what I mean by all of these things will be more clear as I 
 - I also built custom foam backings for the projector screens to make them straight and flush with the wall, to improve the projected images' centering.
 - I sequenced my really big TODO list when I had the time over this holiday break. I have literally hundreds of things on this master list (including a good bit on the ministry side, of course), but as ever, it will always only be one step at a time.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Upcoming work {#upcoming-work}
 

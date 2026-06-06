@@ -52,7 +52,7 @@ The Trinity Roles are clearly visible in many passages in the New Testament. Whi
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Matthew 3:16-17 {#matthew-3-16-17}
 
@@ -67,7 +67,7 @@ Now once **Jesus** had been baptized, He immediately came up out of the water, a
 
 The baptism of Christ had a much different symbolism from any other baptism John ever undertook. John had (rightly) understood the normal meaning of his unique baptism to be a visible act of repentance and a symbolic washing away of sins. This explains why he was reluctant to baptize the sinless Messiah (Matt.3:14). But in the case of Christ, the symbolism is different: His entrance into the water represents His willingness to submerge Himself into our sins (therefore to die for them); whereas His coming up out of the water represents His resurrection. In this, the role of the Trinity in Christ's victory over death at the cross in death and resurrection is symbolized: the Son who undertook the *mission* to save us from our sins comes back to life (in His humanity); the Holy Spirit *quickens* Him (1Pet.3:18); and the Father who sent the Son *pronounces* His work and sacrifice satisfactory, efficacious and well-pleasing.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### John 14:16 {#john-14-16}
 
@@ -82,7 +82,7 @@ And **I** will ask the **Father** and He will give you another **Comforter**, th
 
 This verse shows the Father in a position of *authority*, the Son *interceding* on behalf of believers, and the Holy Spirit being sent *to help* us.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### 1 Corinthians 12:4-6 {#1-corinthians-12-4-6}
 
@@ -97,7 +97,7 @@ There are different gifts, but the same **Spirit**; and there are different mini
 
 Here we see clearly the respective roles of the Trinity in supporting our Christian ministry in life. The Holy Spirit gives us our particular spiritual gift(s) (cf. 1Cor.12:11); specific ministries are said to be assigned by our Lord Jesus Christ; and the Father is said to oversee and empower the results of those ministries: God gives us the gift (the Holy Spirit: He *empowers* us); God gives us the ministry (the Lord Jesus Christ: we share in His *mission*); God gives us the results (the Father: all effects are part of His *plan*).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### 2 Corinthians 13:14 {#2-corinthians-13-14}
 
@@ -112,7 +112,7 @@ May the grace of the **Lord Jesus Christ**, and the love of **God**, and the fel
 
 The Trinity is seen here from the standpoint of salvation, before, during and after: The <u>love</u> of the Father *sends* the Son to die for sinful mankind (cf. Jn.3:16); The Son's *sacrifice* reconciles us with the Father by satisfying the requirements of the Father's righteousness, and thus providing <u>grace</u>, that is, salvation free to us since He paid; The Spirit *unites* in <u>fellowship</u> with God all who accept this offer of grace (based on Christ's death) originating in God's love.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Ephesians 3:14-17 {#ephesians-3-14-17}
 
@@ -127,7 +127,7 @@ For this reason I bow my knees to the **Father**, from whom His entire family in
 
 In this apostolic prayer of Paul, we see the Father as the *authority* to whom Paul prays; he prays for us to be *strengthened* by the Holy Spirit; the object of his prayer is that we may grow to be *more like* our Savior, Jesus Christ, and improve our relationship with Him in every way.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Ephesians 4:4-6 {#ephesians-4-4-6}
 
@@ -142,7 +142,7 @@ There is one body and One **Spirit** – just as when you were called it was in 
 
 In this precís of the "unity of the faith" (Eph.4:3), Paul reminds us of some of the most important common factors of our Christian faith. In doing so, certain aspects of individual Trinity roles are emphasized: the Holy Spirit's role in bringing us into the body of Christ through His baptizing of us into Christ, and our concomitant *hope* of resurrection in Christ; the Lord Jesus Christ's role as our object of *faith* and the Spirit baptism by which we enter into union with Him through that *faith*; the Father's role as the unifying God of *love*, who knits His family of believers together in every way.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### 1 Peter 1:1-2 {#1-peter-1-1-2}
 
@@ -157,7 +157,7 @@ Peter, an apostle of Jesus Christ, to those who, though outcasts dispersed throu
 
 Peter tells us that we believers are elected to eternal life according to the Father's *plan* of salvation, the Holy Spirit's *implementation* of salvation for us when we believe, and the Son's *work* of salvation, in which and in whom we put our faith.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Revelation 1:4-6 {#revelation-1-4-6}
 

@@ -34,7 +34,7 @@ As human beings, we have no righteousness of our own. God only sees us as righte
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Are we righteous? On our own? *Absolutely not*. We are only righteous because we have been washed clean in the blood of Christ. God sees us as righteous only because He sees us covered in the righteousness of Jesus.
 

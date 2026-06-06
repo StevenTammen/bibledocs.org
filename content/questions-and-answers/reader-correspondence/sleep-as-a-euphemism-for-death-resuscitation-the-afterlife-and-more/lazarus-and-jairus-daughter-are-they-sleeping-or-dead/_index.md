@@ -46,7 +46,7 @@ When Jesus says that Jairus' daughter is "sleeping", and says that Lazarus (the 
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Q: If Jesus said they were sleeping, but they were dead, isn't there a contradiction? {#q-if-jesus-said-they-were-sleeping-but-they-were-dead-isn-t-there-a-contradiction}
 
@@ -61,7 +61,7 @@ Also, in Luke 16 when Jesus tells about the rich man and Lazarus, he doesn’t m
 
 Don't Hebrews 9:27 and Luke 16 go against the idea that they’re sleeping?
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Answering point by point {#answering-point-by-point}
 
@@ -69,7 +69,7 @@ There is a lot to unpack here! Some good questions.
 
 I'm going to go piece by piece. This got rather long, but hopefully it will hit all the facets.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### First of all, the Lazarus of Luke 16 is not the same Lazarus as John 11 {#first-of-all-the-lazarus-of-luke-16-is-not-the-same-lazarus-as-john-11}
 
@@ -86,7 +86,7 @@ Let's start with one of the easier things to address. Just like today, in antiqu
 
 One might go on. The point is, just like today, it was not all that uncommon for different people to have the same name. This can get confusing rather quickly.
 
-<!-- --- -->
+<!-- slide-break -->
 
 And so, of course, while it is completely reasonable to line up the two people named Lazarus, the shared name alone is not proof of them being the same person. In fact, there is some evidence to the contrary:
 
@@ -95,7 +95,7 @@ And so, of course, while it is completely reasonable to line up the two people n
 
 So quite simply, from the Bible itself, it seems unlikely that these two men are the same person.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% sidenote %}}
 
@@ -111,7 +111,7 @@ Jesus most certainly does not say that it is a parable, although that is His pra
 
 {{% /sidenote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Jesus' describing Lazarus as "sleeping" in John 11 {#jesus-describing-lazarus-as-sleeping-in-john-11}
 
@@ -124,7 +124,7 @@ It is very clear from John 11 that Lazarus was dead; unlike in the Matthew 9 pas
 
 So why then did Jesus employ the language of sleeping instead of death? Quite simply, he was speaking euphemistically. We still do this nowadays as well. For example, in English we might say someone "passed away" or "is no longer with us" or "went to be with Jesus" rather than bluntly saying that they died. But all of these things clearly are getting at the concept of death.
 
-<!-- --- -->
+<!-- slide-break -->
 
 An on-topic quote from my mentor:
 
@@ -132,19 +132,19 @@ An on-topic quote from my mentor:
 
 Now, to address the specifics of your question [about the false doctrine of so-called "soul sleep"], I believe that the major part of the issue (and indeed the essential grounds for the origin of it historically) is the use of the euphemism "sleep" for those who have died. A euphemism, of course, is a circumlocution or certain phraseology that is "more pleasant" or "less offensive" than giving something its most direct and abrupt name. This is why the veterinarian says, "I sorry to have to tell you that your cat 'has passed'", instead of saying "Your cat is dead". And if we feel compunctions about being direct in the case of the death of somebody's pet, how much more inappropriate would it be for us to say of someone's family member "He's dead." In fact, the use of euphemism is a Spirit-inspired device. Note for example the avoidance of direct terms for sexual and other biological functions in the Pentateuch. And in terms of death, our Lord's example will stand as one which cannot be denied. For He told the disciples, "Lazarus is sleeping", whereas He was being appropriately kind in using this standard biblical euphemism for death (Jn.11:11-15).
 
-<!-- --- -->
+<!-- slide-break -->
 
 All this is a long way of saying that when people in the Bible say "he/she is asleep", they often mean "he/she is dead", without there being any conclusion to be drawn from the nature of the euphemism about the current state of the individual – and rightly too, since we cannot actually see the person in heaven (or torments as the case may be). The problem of course is that in English we do not use the same idiom. Our euphemisms for death are numerous, but it is not our practice to say that a person is "asleep". In our cultural view, that would seem cruel (rather than kind) because it would seem to imply that they could be "awakened" when in fact of course they can no longer be (viewing things from our secular and materialistic perspective, at any rate). However, here we do see the superiority of the biblical idiom, for Jesus does say He is going to "wake up" Lazarus – and so He does! That, of course, was a miracle that has rarely been reproduced in the history of the world. But it does show that behind the word "sleep" used in the biblical euphemism for death, there lies the possibility of awakening – not of this physical body in its present corrupt state (aside from uncommon miracles as in the case of Lazarus), but of the body transformed in resurrection at the return of Jesus Christ. We see the promise latent in the euphemism "sleep" in Martha's words to the Lord: "I know he will rise again in the resurrection at the last day", in response to Jesus' words "Your brother will rise again" (Jn.11:23-24). But please note that the word "rise", Greek *anistemi*, while it is the standard word for resurrection is also the standard word for getting up and waking up from sleep. So whether we are talking about genuine sleep, or miraculous resuscitation of the body as with Lazarus, or the actual resurrection and transformation of the body at our Lord's return, in all of these cases we have "sleep" followed by "rising". That is to say, unquestionably it is the body which sleeps and then rises. But when we die we are "out of [this] body and face to face with the Lord" (1Cor.5:6; cf. Phil.1:20-24). The euphemism of sleep is thus clearly and entirely directed to the body, not the spirit (the "soul", an unfortunate translation of the Hebrew *nephesh* and the Greek *pscyhe* is really where the two meet at present, "the heart"; see the link: ["The dichotomy of man"](https://ichthys.com/3A-Anthro.htm#4.%20The%20Dichotomy%20of%20Man)).
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Because we in our culture do not use sleep as a euphemism for death in the same way their culture did, it can be harder for us to pick up on this when we read English translations and "think from the English worldview", so to speak. But in fact, to properly grasp the meaning of the Bible, sometimes we must endeavor to put ourselves in the shoes of a first-century Hebrew-speaking person from Judea (for example), and then read the Bible from that perspective. You may hear this termed "culture-sensitive interpretation" or something of the sort. It's not that the truth ever changes or anything of the sort; rather, it is simply that we must "do our homework" when it comes to interpreting the Bible according to the audience to whom it was written.
 
 And when we do that, hopefully it becomes clear why Jesus' words here are no contradiction. For we can see from John 11:13 that in saying "Lazarus sleeps" he had in fact very much meant in saying this that Lazarus was dead. That is quite literally what John 11:13 says!
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Jesus' describing Jairus' daughter as "sleeping" in Matthew 9 {#jesus-describing-jairus-daughter-as-sleeping-in-matthew-9}
 
@@ -168,7 +168,7 @@ This is why these people mock Jesus' statement in Matthew 9:24. They would be th
 
 So this is the "setting of the scene" for this passage here in Matthew.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### It is not a euphemism this time, but something completely different {#it-is-not-a-euphemism-this-time-but-something-completely-different}
 
@@ -184,14 +184,14 @@ It might be tempting to think Jesus was merely using sleep as a euphemism for de
 
 So what *was* going on here, then?
 
-<!-- --- -->
+<!-- slide-break -->
 
 In my opinion, the best best way to interpret this passage is that Jesus knew full well that the girl was dead, but yet He said she was sleeping, and very intentionally never clarified whether it was a euphemism or not. (Culturally, as we have said, it was in fact a euphemism in common use, but people here would still have wondered if He was being literal or not, especially when the girl actually came walking out in short order). There are two reasons for this that I can see:
 
 - Jesus (well, more specifically, his miracles) drew immense crowds. But people drawn in in by the "shiny things" and spectacle of it all would merely make it harder for Jesus to accomplish his ministry (culminating in the cross, where he paid for the sins of us all). The phenomenon can be clearly seen in, for example, Mark 1:40-45. You might also compare Matthew 9:30, Matthew 12:16, and so on. The basic idea is that Jesus, as a general rule, wanted to keep his miracles veiled and something decidedly less than shouted from the rooftops to avoid the celebrity of it all, since it interfered with the Father's Will for Him.
 - Even aside from his own celebrity, consider the life this poor girl would lead if Jesus raised her from the dead in an unambiguous sort of way in front of a large crowd. Himself aside, it is quite likely that He avoided doing this to spare her and her family the sheer amount of interference this would cause in the rest of their lives.
 
-<!-- --- -->
+<!-- slide-break -->
 
 If Jesus insisted she was sleeping, sends everyone out, and then she appears a few minutes later, rumors take over and do the rest of the work. No doubt the girl and her family would receive some attention if people thought Jesus had miraculously healed her from very serious illness, but on the other hand, Jesus did that reasonably often with plenty of other people too. So after a time, the nosiness of others would die down, and they could live in peace. But if He unambiguously raised her from the dead in front of all? That's a wee bit more of a thing.
 
@@ -200,7 +200,7 @@ There are only two other instances of Jesus raising people from the dead aside f
 - In the case of the widow of Nain's son, Jesus raised him during the funeral procession. No plausible deniability there, right? And so too with Lazarus, who had already been entombed for four days before Jesus got to Bethany, like we discussed above. So one obvious reason why Jesus didn't do some "they're only sleeping" business in these cases is because it would simply be impossible.
 - Aside from that, there is also the fact that these were both adult men. Even with interfering busybodies (or worse) bothering them on account of the miracle, they would be capable of warding off anything problematic from them and their families (cf. John 12:10---this is no mere speculation on my part). But a young girl? Not so much. Especially given the relatively higher degree of vulnerability women were forced to contend with in antiquity.
 
-<!-- --- -->
+<!-- slide-break -->
 
 I will acknowledge that much of what I have just said is based on inference and a degree of speculation on my part (that is, it is not as if the Bible says these things very explicitly). However, I do believe this is more than just an opinion—I believe this is the actual truth of it, indirect as it may be. For I see little other explanation that satisfies all the elements at once without having other problems. Jesus sending the people out especially makes little sense under most other possible interpretations.
 
@@ -212,7 +212,7 @@ If you want to read additional support for the interpretation I put forth, you m
 (Those links will take you to specific locations if you use a Chromium based browser, like Google Chrome or Microsoft Edge. Otherwise, search those webpages for the word "sleep", and you'll find the relevant sections).
 {{% /sidenote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### What of Hebrews 9:27? {#what-of-hebrews-9-27}
 
@@ -229,7 +229,7 @@ It will probably make skeptics scoff, but there is death, and then there is *dea
 
 I'm sure that sounds all sorts of hand-wavy, but there it is. Put simply, all those who are resuscitated are not dead in the eternal sense of never again walking the earth in mortal bodies of fleshly corruption. From the human perspective, dead people are dead people. But with God's perfect foreknowledge and foreordination of all things, only those whom He does not foreknow as being resuscitated are positionally dead in the sense of being in the state they shall be in until Judgement Day. The two "types of dead" really are quite different, then, even if human beings can never tell the difference.
 
-<!-- --- -->
+<!-- slide-break -->
 
 If you'd like to read some additional Q&As on the same general question:
 
@@ -243,7 +243,7 @@ Someone had asked if Lazarus (whom Jesus raised from the dead) had died twice, a
 And as it is appointed unto men once to die, but after this the judgment:
 {{% /scripture %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 **Response #4:**
 
@@ -257,7 +257,7 @@ Bob L.
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/mail-aspects%20of%20resurrection.htm" text="Ichthys" %}}
 
@@ -269,7 +269,7 @@ Concerning those who were raised momentarily in Matthew 27:53, how do we reconci
 And as it is appointed unto men once to die, but after this the judgment:
 {{% /scripture %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 **Response #3:** 
 

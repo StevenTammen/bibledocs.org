@@ -48,7 +48,7 @@ This first summary video here, I go over all of the things that happened in the 
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Emailing back people who responded to ministry launch email {#emailing-back-people-who-responded-to-ministry-launch-email}
 
@@ -60,13 +60,13 @@ For anyone curious, from around ~75 people BCC'd on initial launch (many folks I
 
 But hey, starting small is no big deal. I'm not doing it for fame or money, after all.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### A debate on the forum about matters concerning submitting to government authority, and what exactly that means {#a-debate-on-the-forum-about-matters-concerning-submitting-to-government-authority-and-what-exactly-that-means}
 
 The timing wasn't the best considering I'd just launched, but a good friend and I had an extremely active debate going on on the forum for the span of a few days in this cycle. I spent a lot of my time outside of my 9-5 job there, including most of the three day weekend over labor day.
 
-<!-- --- -->
+<!-- slide-break -->
 
 A brief outline:
 
@@ -81,7 +81,7 @@ At the end of it all, we had on the order of 70 responses across both threads, a
 
 But it was good. A worthy use of time. (Although of course we've learned some things from the experience, and hope to communicate better in the future. At least I sure do).
 
-<!-- --- -->
+<!-- slide-break -->
 
 Just another plug for anyone interested to sign up for the community (forum and WhatsApp group). The registration form is [here](https://www.bibledocs.org/community-overview/#the-form-itself) on the site.
 
@@ -89,7 +89,7 @@ If the scope of that conversation I just went over sounds super-intimidating, do
 
 Most of the forum isn't that over-the-top! I promise.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Discussion about forum structure moving forward {#discussion-about-forum-structure-moving-forward}
 
@@ -101,7 +101,7 @@ Specifically, we will all teach as we feel led by the Lord, and it is right and 
 
 As I say, practical admin stuff.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Helping my good friend start setting up a ministry website of his own {#helping-my-good-friend-start-setting-up-a-ministry-website-of-his-own}
 
@@ -109,7 +109,7 @@ He'd already converted all of his content into markdown, but we spent a couple h
 
 I had to rework some of the templating for him since he is laying his content out differently from me. Before we do things for real (actually deploy his site), I'll need to make my theme up on GitHub much more extensible (refactor to use SCSS variables for colors, for example), but that will come in time. Right now this was sort of the quick-and-dirty first pass, to get things scaffolded out for him in the meantime, so he can test everything.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Researching/buying technology of various forms, things that will help future content {#researching-buying-technology-of-various-forms-things-that-will-help-future-content}
 
@@ -117,7 +117,7 @@ First of all, I ordered a new desktop computer to help smooth everything out in 
 
 I'd already been meaning to get a more powerful desktop computer to help with the video processing, but the straw that broke the camel's back here was realizing I'd need more computational power to optimally make use of voice recognition software in drafting video scripts, which is something I'll get to in a sec.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Now, aside from juicing up my processing power in preparation for really ramping up the video production, I also spent a lot of time thinking about how to best create the video content itself.
 
@@ -129,7 +129,7 @@ Specifically, I decided:
 2. Being unable to directly read scripts when making videos will inherently lead to lower quality than being able to directly (naturally) read them with a teleprompter. It's a bigger deal than I'd realized.
 3. Scripts for videos of any length are an awful lot longer than you might think -- thousands of words. If I wish to improve the video quality with formal scripts, I'm going to need to step up my game in the text-input department, a lot. Otherwise it simply takes way too long to write full scripts.
 
-<!-- --- -->
+<!-- slide-break -->
 
 So, in preparation to tackle these three areas, I did a bunch of research and settled on:
 
@@ -139,7 +139,7 @@ So, in preparation to tackle these three areas, I did a bunch of research and se
 
 I haven't purchased these things yet, but probably will soon, after the new computer comes and I get it it set up. We are probably still a few weeks out from scaled-up video production, but I am building out the framework right now to be able to have a high throughput in the long-term. At least that is my hope.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Doing everything to be able to resume the SR4 video series, when the time is right {#doing-everything-to-be-able-to-resume-the-sr4-video-series-when-the-time-is-right}
 
@@ -147,7 +147,7 @@ I had a document mapping out all the remaining content in the section from the s
 
 So I spent a looong time looking for it, and finally found it. Then I verified it was in the right state (the last things I'd removed from it were the slides for the last presentation video I did). So I can now resume that series again right from where I left off, whenever I decide I am ready to pick back up in video production.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Planning out BB6A content grouping {#planning-out-bb6a-content-grouping}
 
@@ -157,7 +157,7 @@ I also skimmed through the rest of the videos in the series. I decided that I wo
 
 All of these will be split out into a separate playlist from the earlier videos in our BB6A playlist, as these are much more organized and focused, and will probably be much more useful to people overall.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Organizing the YouTube channel better {#organizing-the-youtube-channel-better}
 
@@ -176,13 +176,13 @@ Both
 - Created custom thumbnails for each series, and added them to all the videos (around 115 videos total, at this point)
 - Removed numbers from all the more-focused videos, to leave just video subjects in the titles, which is more natural.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Asking a nearby school about parking policy and grounds use after-hours {#asking-a-nearby-school-about-parking-policy-and-grounds-use-after-hours}
 
 Just as it sounds. Will be relevant for potentially improving the parking situation for the in-person side of Bible studies, eventually. Still no response, unfortunately.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Upcoming work {#upcoming-work}
 
@@ -191,7 +191,7 @@ One immediate focus will be finishing off the initial organization of already-ex
 - Introduction videos for all the playlists
 - A second channel intro video that is much, much shorter, with timestamped links to the full treatment. Since 45 minutes for an intro video is much longer than I'd initially wanted.
 
-<!-- --- -->
+<!-- slide-break -->
 
 I will also start filling in all of the things for the existing content (timestamps, summaries, the content on the study webpages on the website itself), as I still have a lot of catching up to do.
 

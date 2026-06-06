@@ -34,7 +34,7 @@ God's kindness leads to repentance in the sense that He spares sinners from His 
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 In asking "how exactly does God's kindness lead to repentance?", the idea behind the question is sort of that discipline not kindness might seem like a likelier motivator for repentance. Compare Hebrews 12:4-11---the Bible is clear that God disciplines all those who are truly His children (for our own good, of course). So then why wouldn't God's divine discipline generally be what leads us to repentance, not "kindness"? 
 

@@ -39,7 +39,7 @@ Millennial day one was the separation of truth from lies. Just as light is neces
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Audio clip from Ichthys {#audio-clip-from-ichthys}
 
@@ -52,18 +52,18 @@ srcend="26:07"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
 The first two Genesis days of re-creation are clearly paired in that they alone focus upon acts of <u>separation</u> almost exclusively (the re-kindling of light which marks the beginning of the process over all being the significant exception): light separated from darkness (Day 1); the waters above separated from waters below by means of the firmament or sky (Day 2). This first pair of days provides essential groundwork for physical life through the provision of light and air. This physical provision is analogous to the essential spiritual groundwork provided by the first two millennial days of the Gentile age:
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Day #1 – Gentile age millennium #1</u>: 
 Just as light, the foremost necessity of physical life, first appears in the dark world on day one of re-creation, so God's truth, the foremost necessity of spiritual life, first appears in the devil's dark world during the first millennium of the Gentile age, beginning with the first promise of Christ (Gen.3:15). This legacy of truth is then perpetuated through the line of Adam and Seth down to Noah and his family.
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Day #2 – Gentile age millennium #2</u>: 
 Just as air, a necessity without which physical life cannot be maintained, is provided on day two of re-creation, so during the second millennium of the Gentile age God guaranteed the fresh air of ***freedom*** for mankind, an attribute as absolutely essential for spiritual life as air is for physical life, through:
@@ -74,13 +74,13 @@ Just as air, a necessity without which physical life cannot be maintained, is pr
 
 God's instrument of judgment whereby (1) the angelic outrages of Genesis six are brought to an end, (2) after which the rule of law is established, and (3) in consequence of which the nations are divided, is the great flood, the deluge that temporarily restored the earth to its pre-dry land condition (cf. 1Pet.3:18-22; 2Pet.3:5-6). Therefore it is exactly because of the deluge that the legacy of truth is protected, finding a more secure foothold in the environment of freedom (provided through limitations on further angelic interference, the establishment of law, and the development of nationalism).
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Separation</u>: As the first pair of Genesis days focuses on the formation of an essential environment for physical growth through the separation of light from darkness and the waters above from the waters below, so the first pair of millennial days (the age of the Gentiles) focuses on the formation of an essential foundation for spiritual growth through the provision of divine truth (separated and protected from the devil's lies) and human freedom of choice (separated and protected from the devil's best efforts to destroy free will through demonic interference, murder and intolerant internationalism).
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Summary points {#summary-points}
 
@@ -96,13 +96,13 @@ The parallelism with respect to the seven millennial days of human history is as
 1. Millennial day one was the separation of truth from lies. (Central metaphor: light = truth).
 2. Millennial day two was the separation of human freedom of choice from Satan's efforts to destroy free will. (Central metaphor: air = freedom).
 
-<!-- --- -->
+<!-- slide-break -->
 
 God's truth, the foremost necessity of spiritual life, first appears in the devil's dark world during the first millennium of the Gentile age, beginning with the first promise of Christ (Gen.3:15).
 
 This legacy of truth is then perpetuated through the line of Adam and Seth down to Noah and his family.
 
-<!-- --- -->
+<!-- slide-break -->
 
 During the second millennium of the Gentile age God guaranteed the fresh air of freedom for mankind—an attribute as absolutely essential for spiritual life as air is for physical life—through:
 
@@ -116,13 +116,13 @@ To protect human freedom, God utilized a means of judgment: the great flood. In 
 2. After which the rule of law is established, and
 3. From that comes the division of the nations
 
-<!-- --- -->
+<!-- slide-break -->
 
 How do the first pair of millennial days relate to the concept of separation?
 
 The first pair of millennial days (the age of the Gentiles) focuses on the formation of an essential foundation for spiritual growth through the provision of divine truth (separated and protected from the devil's lies) and human freedom of choice (separated and protected from the devil's best efforts to destroy free will through demonic interference, murder, and intolerant internationalism).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Follow-on topics {#follow-on-topics}
 
@@ -132,7 +132,7 @@ Equating air and freedom is perhaps a bit less obvious a relationship, but it de
 
 But where the parallels really shine is in analyzing what things exactly provide the underlying foundation for *physical life* (Genesis re-creation) vs. *spiritual life* (seven millennial days). More than anything else, the availability of God's truth in the world (given to us in the form of natural revelation and special revelation) and the ability to freely choose to follow it or not are the cornerstones of all spiritual growth. Without the truth we obviously would not be able to grow. But without freedom of pursue said truth, we would also be equally hamstrung. And so it is that these are things are just as essential to the spiritual life as light and air are to the physical life.
 
-<!-- --- -->
+<!-- slide-break -->
 
 In this way, freedom as a concept is not just a vague democratic ideal that we might strive for in our construction of a productive civic society, but is actually also quite important for being productive spiritually. I would go so far as to say that one can actually measure the relative suitability a given nation as a place to grow spiritually largely as a function of the freedoms protected in that nation's legal code. (Or perhaps lack of such protections).
 
@@ -146,7 +146,7 @@ God handles the defense against angelic interference in human free will (as we c
 
 We should not be at all shy about gravitating towards the things that are actually the best environments to grow spiritually in. In fact, we should be rather zealous about insisting upon it at every turn, even to the point of offending others and seeming a bit "out there" to others. Because freedom is critically important for spiritual living, just as much as air is necessary for physical living.
 
-<!-- --- -->
+<!-- slide-break -->
 
 If all of this seems too abstract, consider these sorts of things:
 
@@ -156,7 +156,7 @@ If all of this seems too abstract, consider these sorts of things:
 
 So in fact, this matter is actually all around us in the world. We would be wise to consider the fact that God's strict superintendence of human freedom is direct evidence that He views this thing as being important for mankind. If He thinks it is important, then should not we also do the same? Why then do we let ourselves settle in any regard?
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Further discussion {#further-discussion}
 

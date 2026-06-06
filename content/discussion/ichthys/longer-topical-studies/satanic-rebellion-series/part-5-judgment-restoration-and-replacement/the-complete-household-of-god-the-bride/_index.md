@@ -40,7 +40,7 @@ Marriage symbolizes and reflects Christ's relationship with His Church. Jesus Ch
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Audio clip from Ichthys {#audio-clip-from-ichthys}
 
@@ -53,7 +53,7 @@ srcend="15:09"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -61,19 +61,19 @@ The Church is Christ's "body, the fullness of Him who fills everything in every 
 
 Thus the intimate relationship between the Savior and His saved is so close, so intense, that in itself it comprises both sides of the mystery we have so far been discussing, namely, the incarnation and sacrifice of Jesus for His Church, and the filling up of that Church in such a marvelous and unanticipated way following His triumph. The analogy (between Christ and Church and man and wife) is, therefore, incredibly close, and can be seen from the very beginning of human history when God invented and sanctified the human institution of marriage.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Indeed, it is not too strong a statement to say by way of inference that the whole idea of marriage (something unique to human beings: cf. Lk.20:35-36) was designed by God for mankind in order to teach us about the fundamental and essential tenet of His plan for all of human history: the incarnation and sacrifice of His Son (the loving husband) for the salvation of His Church (the faithful wife). For it is certainly fitting for the most fundamental and original human institution (marriage, consecrated in Eden before the fall: Gen.2:18-24) to mirror and reflect His most fundamental and central purpose for human history as He constructed it (the saving work of Jesus Christ and the calling out of His Church).
 
 Just as God has constructed human existence and human nature so that man needs woman and woman needs man (Gen.2:18), so He has established the span of human history as the type to this antitype, with the coming of Jesus as a true man and the preparation and calling out of His bride the cardinal events of these first six millennial days. Thus the whole purpose and reason for history (salvation for the Church through the Person and work of Christ) is reflected in what is, apart from mortality, arguably the dominant human concern in this life, namely, the marriage relationship. And in every marriage relationship we learn something about the greatest of all mysteries, the great love of Jesus Christ and the faithfulness of His Church.
 
-<!-- --- -->
+<!-- slide-break -->
 
 This is true notwithstanding the weakness of our flesh and the resultant imperfect nature of human relationships here in the devil's world. Do men fall short of the perfect standard of Christ's love? Of necessity, they all do (only the degree is in question), but we can learn about the wondrous nature of Christ's perfect love by comparison to the imperfections of every husband we meet: every human lapse reminds us of our divine Husband's perfection. Do women fall short of the perfect obedience and faithfulness that the perfect love of Jesus Christ is due from His Church? Every such instance is a reminder of the perfect responsiveness due to our heavenly Husband. Even the Church itself, that is, the part which remains in these bodies and in this world, is far from perfect in these respects. But it should be noted with care that, in respect to Christ, we as the Church, women *and* men, find ourselves in the woman's role, and are called upon to manifest the same submissive obedience and faithfulness toward God demonstrated by Christ during His sojourn on the earth, humbling Himself even to the point of total humiliation and death on the cross (Phil.2:5-8).
 
 And so we can learn from observation of any wife something not only about the relationship of the Church to Christ in general, but also (and very importantly) about *our* individual relationships to Christ. Do we observe a wife who is extraordinary in her duties toward her husband? We examine our own performance toward the One who bought us with His blood and should be challenged to be found likewise in His eyes. Do we observe a wife who in our estimation falls far short of the biblical standard? We would do well to consider our own performance toward Christ and His forgiveness and faithfulness in the face of our rebellious behavior.
 
-<!-- --- -->
+<!-- slide-break -->
 
 In short, by applying the analogy of marriage, we learn about who Christ is and what He would have from us, and we learn about our true priorities and His estimation of our behavior. This is indeed a great mystery, revealed now to the Church through Jesus' chosen apostles, the close consideration of which can help us to know our Master better and bring us closer to Him by making us better servants for Him. Just as the first Adam was espoused to Eve by God, flesh of his flesh and bone of his bone, so the Church is the bride of the Last Adam, Jesus Christ (1Cor.15:45; cf. Rom.5:14), the perfect complement to Him, designed for Him, and destined to be one with Him forever (Matt.9:15; Matt.25:1ff.; Mk.2:19; Lk.5:34; Jn.3:29; 2Cor.11:2-3; Eph.1:22-23; 5:22-33; Rev.19:7-14; 21:2-4; 21:9ff.; 22:17; cf. Rom.7:1-6):
 
@@ -85,7 +85,7 @@ In short, by applying the analogy of marriage, we learn about who Christ is and 
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Summary points {#summary-points}
 
@@ -98,7 +98,7 @@ The intimate marriage relationship between Christ and the Church itself comprise
 
 In all of this we should note that God made human marriage to point to this relationship, not the other way around. In fact, we can go a step further and say that this is not some small, minor part of the reason why God created marriage for mankind, but is instead *the* primary reason for marriage to begin with. It is certainly fitting for the most fundamental and original human institution (marriage, consecrated in Eden even before the fall: Gen.2:18-24) to mirror and reflect His most fundamental and central purpose for human history as He constructed it (the saving work of Jesus Christ, and the calling out of His Church).
 
-<!-- --- -->
+<!-- slide-break -->
 
 In every marriage relationship we learn something about the greatest of all mysteries: the incarnation and sacrifice of His Son (the loving husband) for the salvation of His Church (the faithful wife). This is true notwithstanding the weakness of our flesh and the resultant imperfect nature of human relationships here in the devil's world:
 
@@ -107,11 +107,11 @@ In every marriage relationship we learn something about the greatest of all myst
 
 We should emphasize that *all* of us human beings (men and women alike) currently find ourselves in the woman's role, and are called upon to manifest the same submissive obedience and faithfulness toward God demonstrated by Christ during His sojourn on the earth, humbling Himself even to the point of total humiliation and death on the cross (Phil.2:5-8). And so we can learn from observation of any wife something not only about the relationship of the Church to Christ in general, but also (and very importantly) about *our* individual relationships to Christ.
 
-<!-- --- -->
+<!-- slide-break -->
 
 In short, by applying the analogy of marriage, we learn about who Christ is and what He would have from us, and we learn about our true priorities and His estimation of our behavior. This is indeed a great mystery, revealed now to the Church through Jesus' chosen apostles, the close consideration of which can help us to know our Master better and bring us closer to Him by making us better servants for Him. Just as the first Adam was espoused to Eve by God, flesh of his flesh and bone of his bone, so the Church is the bride of the Last Adam, Jesus Christ, the perfect complement to Him, designed for Him, and destined to be one with Him forever.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Follow-on topics {#follow-on-topics}
 
@@ -133,13 +133,13 @@ Most anything we say here is mere speculation, because the Bible simply doesn't 
 
 One might examine the matter from a purely practical approach. Say a man married a woman, but then she died during childbirth (like has been very common throughout much of history). This then happened two more times. Which of three women would he be married to in eternity? This example alone should make it obvious that there is no particularly good way to map temporal human relationships onto eternal relationships. And this is not even mentioning all the messiness that divorce and remarriage necessarily introduces.
 
-<!-- --- -->
+<!-- slide-break -->
 
 The above aside, I think how we understand all this can perhaps be simpler than squinting at all that. The sort of unity we will have with one another in eternity will put even the very closest of temporal human relationships to shame. We will all have infinite time to grow close to every other believer that has ever lived, in perfect love. In a world without the constraints we now operate under---a world without any concept of opportunity cost---why limit ourselves in the relationships we have with others? We will have enough time, emotional bandwidth, etc. to have relationships with everyone. It's *eternity*. Expand your field of view a little!
 
 You might ask about sex then. Well, procreation will no longer be necessary in eternity, so that's one thing. In time, sex is clearly restricted to the bounds of marriage. So if there's no marriage in eternity, does that mean no sex?
 
-<!-- --- -->
+<!-- slide-break -->
 
 Something C.S. Lewis wrote on the matter:
 
@@ -151,13 +151,13 @@ Hence where fullness awaits us we anticipate fasting. In denying that sexual lif
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Unlike Lewis, I don't take a firm stand one way or the other regarding whether or not there will be any concept of sex in eternity (Lewis here actually stakes his flag down, answering the question in the negative). Humans were allowed to eat meat when they previously were not (cf. Genesis 9:2-4), so why not this too, once circumstances change (like they clearly will in eternity)? On what interpretative basis would we say it is completely impossible (as opposed to, say, seeming rather unlikely, given that there will not be marriage in eternity, and sex has up until now been only within marriage)? Again, we simply do not know about such things, because the Bible does not say.
 
 Nonetheless, Lewis's argument is the correct one to make if someone does come to us worried about some form of hypothetical deprivation in eternity: like the little boy who cannot understand why lovers care not about chocolates within the throes of passion, even if we were to lose what we now consider the highest form of pleasure, it will no doubt be because we are too busy doing something else so much better that it makes sex seem boring and plain by comparison. This renders the deprivation argument completely toothless in practice, if one even wants to bother addressing it one way or the other.
 
-<!-- --- -->
+<!-- slide-break -->
 
 So no matter what, we know we will not find ourselves missing marriage in eternity. In time, things like sex, companionship, and family come along with marriage. In eternity, no matter how exactly everything works, we can be sure that what comes to take the place of these godly things will only be better in every way.
 
@@ -173,7 +173,7 @@ For now we see only a reflection as in a mirror; then we shall see face to face.
 
 And this "no marriage in eternity" business is simply part of that wider principle.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Biblical submission is manly {#biblical-submission-is-manly}
 
@@ -191,7 +191,7 @@ Men better get it through their heads that they are just like women in this rega
 
 Submission is therefore not a particularly gendered thing in general; only within the confines of human marriage is the submission of a wife to her husband a gendered thing. In all other areas, men and women are completely the same when it comes to submitting to authority.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The metaphor of marriage between Christ and the Church is important for fully understanding various things in the Bible {#the-metaphor-of-marriage-between-christ-and-the-church-is-important-for-fully-understanding-various-things-in-the-bible}
 
@@ -219,7 +219,7 @@ And how about understanding Israel's spiritual unfaithfulness to the Lord as ful
 > But you have played the harlot with many lovers;  
 > Yet return to Me,” says the Lord.  
 
-<!-- --- -->
+<!-- slide-break -->
 
 > **2** “Lift up your eyes to the desolate heights and see:
 > Where have you not lain with men?  
@@ -238,13 +238,13 @@ And how about understanding Israel's spiritual unfaithfulness to the Lord as ful
 > Behold, you have spoken and done evil things,  
 > As you were able.”  
 
-<!-- --- -->
+<!-- slide-break -->
 
 **A Call to Repentance**
 
 **6** The Lord said also to me in the days of Josiah the king: “Have you seen what backsliding Israel has done? She has gone up on every high mountain and under every green tree, and there played the harlot. **7** And I said, after she had done all these things, ‘Return to Me.’ But she did not return. And her treacherous sister Judah saw it. **8** Then I saw that for all the causes for which backsliding Israel had committed adultery, I had put her away and given her a certificate of divorce; yet her treacherous sister Judah did not fear, but went and played the harlot also. **9** So it came to pass, through her casual harlotry, that she defiled the land and committed adultery with stones and trees. **10** And yet for all this her treacherous sister Judah has not turned to Me with her whole heart, but in pretense,” says the Lord.
 
-<!-- --- -->
+<!-- slide-break -->
 
 **11** Then the Lord said to me, “Backsliding Israel has shown herself more righteous than treacherous Judah. 12 Go and proclaim these words toward the north, and say:
 
@@ -258,7 +258,7 @@ And how about understanding Israel's spiritual unfaithfulness to the Lord as ful
 > To alien deities under every green tree,  
 > And you have not obeyed My voice,’ says the Lord.  
 
-<!-- --- -->
+<!-- slide-break -->
 
 **14** “Return, O backsliding children,” says the Lord; “for I am married to you. I will take you, one from a city and two from a family, and I will bring you to Zion. **15** And I will give you shepherds according to My heart, who will feed you with knowledge and understanding.
 
@@ -268,7 +268,7 @@ And how about understanding Israel's spiritual unfaithfulness to the Lord as ful
 
 **18** “In those days the house of Judah shall walk with the house of Israel, and they shall come together out of the land of the north to the land that I have given as an inheritance to your fathers.
 
-<!-- --- -->
+<!-- slide-break -->
 
 **19** “But I said:
 
@@ -289,7 +289,7 @@ And how about understanding Israel's spiritual unfaithfulness to the Lord as ful
 > For they have perverted their way;  
 > They have forgotten the Lord their God.  
 
-<!-- --- -->
+<!-- slide-break -->
 
 > **22** “Return, you backsliding children,  
 > And I will heal your backslidings.”  
@@ -313,11 +313,11 @@ And how about understanding Israel's spiritual unfaithfulness to the Lord as ful
 
 {{% /scripture %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 God speaks of giving unfaithful Israel a divorce due to adultery (verse 8). He says that He is married to Israel (verse 14). Verses 1 and 20 directly use terminology of husband and wife. All this tells us that the relationship we have spoken of in this lesson is far from an offhand comparison used in a single spot, but actually permeates all of scripture.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Further discussion {#further-discussion}
 

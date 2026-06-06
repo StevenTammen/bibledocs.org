@@ -45,7 +45,7 @@ In this lesson, we go over how the Trinity can be a tricky concept to understand
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Review {#review}
 
@@ -60,7 +60,7 @@ The definition of the Trinity which best does justice to the biblical statements
 - All three members of the Trinity have coequal and coeternal essence.
 - All three members of the Trinity share the same divine essence.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The Trinity can be hard to explain properly {#the-trinity-can-be-hard-to-explain-properly}
 
@@ -72,7 +72,7 @@ As can be seen from the numerous heresies (touched on some in our previous lesso
 
 It should be noted here that even the terms "essence" and "person" were felt by some theologians of the early church to be controversial. We may talk of Man's essence (we are all cut from the same spiritual cloth), and Man's personality (we are all unique individuals), but the essence of God is different from the essence of Man (for one thing, all members of the Trinity share *the same* divine essence), and the idea of personality in the Trinity is different from that of human persons (to take but one example, the absolute unity of agreement and purpose of the Trinity throughout all eternity is not only quantitatively but also qualitatively beyond human experience).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### So keeping the focus on the Bible is necessary {#so-keeping-the-focus-on-the-bible-is-necessary}
 
@@ -86,7 +86,7 @@ Just a little leaven in the loaf, and Satan can make the Trinity seem as an asso
 
 In His loving wisdom, God has told us what we most need to know without giving us either information that could be misinterpreted, or less than accurate illustrations that might do more harm than good.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% video-only %}}
 

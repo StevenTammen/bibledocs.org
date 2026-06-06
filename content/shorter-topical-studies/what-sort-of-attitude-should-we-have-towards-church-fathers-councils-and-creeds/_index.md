@@ -32,7 +32,7 @@ TODO: Summary
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Introduction: I am a bit out on an extreme here {#introduction-i-am-a-bit-out-on-an-extreme-here}
 
@@ -40,7 +40,7 @@ As a foreword to our discussions of various Church Councils and Creeds, I think 
 
 My methodological hermeneutic (we might say) when it comes to Church Fathers, Councils, and Creeds is something along the lines that at best they are not much use in establishing doctrine (aside from giving one background about what has come before), and at worst, they actively give one the wrong impression about the truth. So in my opinion, they are of reasonably limited utility to Evangelical Protestants who are interested primarily in determining what the Bible says and means, and that alone.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### *Sola scriptura* leaves no room for Church Fathers, Councils, or Creeds {#sola-scriptura-leaves-no-room-for-church-fathers-councils-or-creeds}
 
@@ -48,13 +48,13 @@ So why then do other people claiming to be Evangelical Protestants give them suc
 
 But, people argue, we needed ecumenical Church Councils to decide on the doctrine of the Trinity, or what books should be part of the canon. Without them, so the argument goes, maybe Christians today wouldn't worship a Triune God (but have a different conception of God), or maybe our Bible wouldn't contain the 66 books we know—either way, we needed these centralized meetings of Early Church leaders to make these crucial foundational decisions that define our faith.
 
-<!-- --- -->
+<!-- slide-break -->
 
 But God exists independent of human conceptions of Him, does He not? Even if the Arians had "won" in Nicea, God would still exist in three persons. In fact, even more than that, even if the Arians had won, I don't think that believers in a triune God would have been wiped off the face of the earth... because the Bible pretty clearly teaches it in various ways (e.g., see [here](https://www.youtube.com/watch?v=4l_OzkCbJxg) for how the Bible teaches the divinity of the Father, Son, and Spirit, and [here](https://www.youtube.com/watch?v=eKpw0_W78Sc) for how the Bible teaches the distinct personhood of the Father, Son, and Spirit).
 
 And in like manner, even if the canon hadn't been decided upon correctly by Early Church figures, would the true canon have ever stopped being God's Word? Of course not. Even if the majority of the world went off the rails and believed in a false canon, it would not at all change what the true canon actually is. Because it exists independent of human conceptions of it.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Put succinctly then, truth is independent of human consensus. It always has been, and always will be. Thus, in a proper *sola scriptura* epistemology, there is zero room for Church Fathers, Councils, and Creeds. Not even a teensy tiny bit. Because these people, events, and writings are not inspired and inerrant. Because they deal with imperfect, fallible human beings, not the perfect Word of God.
 
@@ -62,11 +62,11 @@ Does this mean there is no value in studying Church Fathers, Councils, and Creed
 
 The right way is to analyze Church Fathers in much the same way we would other historical figures (like Cicero, say); to analyze Church Councils in much the same way we would other historical events (like the assassination of Julius Caesar, say); and to analyze Creeds in much the same way we would other historical documents (like parts of the Roman legal code, say). The wrong way is to put these people, events, and writings up on a pedestal uncritically, and make them into something more than they are. We can learn much about the problems and controversies facing the Early Church through these people, events, and writings... but that is a far cry from believing that they are causally responsible for correct doctrine, or that our faith somehow stands upon these things. If we are doing Christianity right, our faith should have nothing to do with these things: if we are doing it right, our faith should rest upon the Bible *alone*.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The Church Universal vs. the church visible {#the-church-universal-vs-the-church-visible}
 
@@ -82,13 +82,13 @@ The two are *not* at all the same. Consider that according to the history books 
 - When they start saying that Christians should forcibly take over the government and create a theocratic state—as advocated for by the [New Apostolic Reformation](https://en.wikipedia.org/wiki/New_Apostolic_Reformation) and [Dominion theology](https://en.wikipedia.org/wiki/Dominion_theology)? (Contrast Romans 13:1-7; 1 Peter 2:13-17)
 - Etc.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Many of these decisions have been reached by broad consensus, very similar to pronouncements coming from regional and ecumenical Church Councils in the Early Church. Are there those of us who dissent? Of course there are. But then again, there were those who dissented at the time of the Church Councils too.
 
 So why do we have rose-colored glasses when it comes to Church Councils from the Early Church, but are perfectly comfortable rejecting forms of broad consensus at present, when it seems to us like the majority position is falling into error? What, pray tell, is the fundamental difference between these situations? As I see it, there is no large underlying difference at all.
 
-<!-- --- -->
+<!-- slide-break -->
 
 One might also reach back into history to make a similar argument. For example, at what point do the ecumenical Church Councils start becoming "too Catholic" for the taste of Protestants? Most Protestants would say something went wrong at some point, and it is then that the Church Fathers, Councils, and Creeds no longer carry spiritual authority. To be perfectly honest, it probably depends who you ask—many Protestants are very fuzzy on which Church Fathers, Councils, and Creeds are acceptable (and why), and which ones are not.
 
@@ -98,11 +98,11 @@ According to history, "the church" (note the scare quotes) never really stopped 
 
 Well, what use are they then? We are right back to relying upon the Bible alone to determine truth, which is where we should have been from the beginning, QED.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### *Sola scriptura* is not necessarily anachronistic {#sola-scriptura-is-not-necessarily-anachronistic}
 
@@ -112,7 +112,7 @@ The criticism would go something like this: say I were a believer in the early 4
 
 The implication here is that any good 4th century Christian would have thought that this council was a good idea (along with the creeds coming out of it), and that the notion of *sola scriptura* would have been completely foreign to them.
 
-<!-- --- -->
+<!-- slide-break -->
 
 So, well... does such an argument have merit?
 
@@ -122,7 +122,7 @@ So we know what the Ambroses of the world thought about various things (so to sp
 
 The secular academy sort of thinks that the Ambroses of the world are the only sort of Christian that existed. This is because they deal in objective evidence like written sources, and what records we have passed down to us are heavily skewed towards Christians who got entangled with powerful figures like Constantine and Theodosius I who end up in the history books. By way of contrast, we know virtually nothing about the beliefs of rural churches out in far-flung Hispania in the mid 3rd century (for example), except perhaps when some crazy cult leader got a sufficient degree of popular support that he managed to alarm local bishops enough to get himself condemned in a local synod. The rest of the time? It's kind of hard to say.
 
-<!-- --- -->
+<!-- slide-break -->
 
 And the more the church visible started to organize around power hierarchies, the scarier it becomes for the little guys to speak up if they disagree with something. Suddenly, if you cross the wrong person theologically, you might find yourself facing serious legal consequences under the Roman imperial administration, such as having your Roman citizenship revoked.
 
@@ -130,7 +130,7 @@ So do we really find it surprising that we don't have a lot of sources aside fro
 
 And lest you think this is just some rogue bishops here and there, in this we are also talking about people highly revered as Church Fathers, like Augustine, for example. Augustine petitioned the Roman emperor Honorius to bring harsh imperial sanctions down upon his Donatist opponents in North Africa, culminating in the Council of Carthage in 411 (and its violent aftereffects upon the Donatists, which lasted until the invasion of the Vandals in the 430s). This Church Council came about largely because of Augustine's personal persistent politicking, meaning he was heavily involved in this through and through.
 
-<!-- --- -->
+<!-- slide-break -->
 
 We may agree theologically with Augustine on the matter of Donatism, but what we are discussing here is not the theology itself, but the manner in which the bishops sought to outright criminalize their theological opponents. A [paper I wrote in college]() (particularly Section II "Monologic and Orthodoxy", and Section III "The Formation and Application of Labels") has much to say about the at times questionable actions of the so-called "Orthodox", as well as the matter of heresiological labels and their relationship to Roman law.
 
@@ -138,7 +138,7 @@ In short, theological disputes in the Early Church had a great deal more at stak
 
 So I ask, in light of all these observations, how likely do you think it is that someone who did not much care for central church authority and all the ceaseless politics and posturing therein would go try to fight this very establishment, rather than keeping their heads down in living out quiet lives of faith? It obviously isn't likely at all. And this is exactly why we don't have copious records describing such people—because only those battling one another for power make the history books.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Personally, that argument is good enough for me. How can I know that people have always existed who truly sought to follow God's path, no matter what the visible establishment was doing around them? Well what do you think of this passage:
 
@@ -150,7 +150,7 @@ Personally, that argument is good enough for me. How can I know that people have
 
 In Elijah's time, God had His remnant of grace even under the persecution of Ahab and Jezebel. And I am sure God also had His remnant of grace when the centralization of church authority in the West peaked under the Catholic Church, and there was little truth to be found in the church visible. There have always been people who quietly did what is right, but because of their priorities, they won't show up in conventional historical narratives.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Why is that again? Because these people do not care about power, since their kingdom is not of this world. Having set their eyes upon the heavenly country of Hebrews 11:16, they won't fight for religious control, or try to influence the rulers of nations. Instead, they will humbly serve where they are, and trust that God their Savior will deliver them without them needing to go do it themselves.
 
@@ -160,7 +160,7 @@ At any rate, to bring us full circle, you may not see this group (representing t
 
 Does this mean we need to universally pour scorn down upon the church visible, or that none of the folks participating within the church visible were saved throughout history? Of course not. But I hope you can see how the positions of the church visible—such as a preoccupation with central church authority and doctrinal enforcement via some sort of organizational control—are merely one particular sort of orthopraxy that does not fully represent all types of existing Christian thought.
 
-<!-- --- -->
+<!-- slide-break -->
 
 In closing, it can definitely be a good thing for us to study Church Fathers, Councils, and Creeds with a critical eye in order to better understand the context of the Early Church and some of the things going on at that time.
 
@@ -168,11 +168,11 @@ But my main takeaway is this: at the same time that many of these topics are tru
 
 For if we start basing our theology off of anything but the Bible, we will quickly run into problems, even if the "external things" we are pulling into our doctrine are highly revered by many, like Augustine and the Nicene Creed, for example. In this way, nothing—absolutely *nothing*---gets a pass from *sola scriptura*, even if that tends to put us on a collision course with most other self-proclaimed Christians in the world. Because the truth is too important to compromise on.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% /content %}}
 

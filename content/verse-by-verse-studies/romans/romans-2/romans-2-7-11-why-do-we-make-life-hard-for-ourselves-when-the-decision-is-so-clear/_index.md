@@ -34,7 +34,7 @@ If we are honest with ourselves, the paths before us are actually rather clear: 
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Verses 7-10 follow an ABBA structure in terms of topic. Verse 7 starts by describing the positive outcome (eternal life) for those who by perseverance in doing good seek glory and honor and immortality. Then verse 8 states that wrath and indignation will be the lot of those who are selfishly ambitious and obey unrighteousness rather than the truth. Verse 9 is talking about the same group of people as verse 8, emphasizing that the consequences apply both to Jew and Greek alike, and then Verse 10 is talking about the same people as verse 7, back to the positive as a foil.
 

@@ -43,7 +43,7 @@ In this lesson, we are going to be summarizing what we've done in the last sever
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### A reminder of what we've been going over {#a-reminder-of-what-we-ve-been-going-over}
 
@@ -53,7 +53,7 @@ We have been talking about the essence of God: His infinite nature and His perfe
 * [God's infinite nature](https://www.bibledocs.org/longer-topical-studies/ichthys-bb1-the-study-of-god/gods-infinite-nature/)
 * [God's perfect character](https://www.bibledocs.org/longer-topical-studies/ichthys-bb1-the-study-of-god/gods-perfect-character/)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### An overview in words {#an-overview-in-words}
 
@@ -76,7 +76,7 @@ God's faithfulness and truth overflow in life, producing peace with God for sinf
 &emsp;He did make peace between us through His Son,  
 &emsp;reconciling us to Himself and granting us eternal life on the basis of the blood of Christ.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### An overview in picture form {#an-overview-in-picture-form}
 

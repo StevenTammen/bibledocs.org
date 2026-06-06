@@ -34,7 +34,7 @@ According to this passage (as well as others like Matthew 7:1-5; Luke 6:37-42), 
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The basic idea {#the-basic-idea}
 

@@ -34,7 +34,7 @@ We need to take care when thinking about the stubborn and unrepentant people tha
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 In the first several verses of Romans 2, Paul condemns hypocritical judgment. It is in this very context that verse 5 picks up.
  

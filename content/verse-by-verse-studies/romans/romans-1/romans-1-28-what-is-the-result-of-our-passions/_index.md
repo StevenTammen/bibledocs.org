@@ -34,7 +34,7 @@ Romans 1:28 says that the result of straying from God's truth is God giving us o
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 As the verse directly says, the result of straying from God's truth is God giving us over to a depraved mind, so that we do that which ought not to be done.
 

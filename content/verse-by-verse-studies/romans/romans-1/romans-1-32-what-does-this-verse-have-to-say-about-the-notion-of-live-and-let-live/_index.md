@@ -34,7 +34,7 @@ Romans 1:32 calls out the practice of "approving of" evil—different from "doin
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 "Live and let live" is a popular sentiment in our modern culture. (At least among the younger generation—speaking from my time in college, the idea of "you do you" very much permeated the expected social fabric). Being frustrated by this over-emphasized tolerance, it might be tempting to interpret verse 32's condemnation of approving evil works as *carte blanch* for poking our nose into all manner of sinful conduct in the lives of others. After all, if one believes silence implicitly means approval, then we really would have no choice, right? But does silence really mean approval? And what exactly does "silence" (=not speaking up) mean anyway, in practice? How does it interact with the concept of "pearls before swine"?
 

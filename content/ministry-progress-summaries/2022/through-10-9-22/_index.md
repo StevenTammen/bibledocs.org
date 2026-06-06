@@ -54,7 +54,7 @@ Aside from all that, the biggest task knocked out this cycle was coding support 
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Did lots, lots more computer setup stuff, including things related to the video recording workflow {#did-lots-lots-more-computer-setup-stuff-including-things-related-to-the-video-recording-workflow}
 
@@ -70,7 +70,7 @@ Aside from all that, the biggest task knocked out this cycle was coding support 
 - Set up Cold Turkey on the new computer, and adjusted automated lockout times across both the new computer and the old computer.
 - Imported phrase express phrase list to match the old computer's list. Computer access restrictions are now set up completely. Helps me better stay on-task and better maintain a consistent sleep schedule.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Researched, ordered, and started to set up things related to voice recognition {#researched-ordered-and-started-to-set-up-things-related-to-voice-recognition}
 
@@ -83,7 +83,7 @@ Aside from all that, the biggest task knocked out this cycle was coding support 
 - After getting the hang of adding vocabulary entries to Dragon, added some initial entries for making things bold, making things italic, making things both bold and italic, and then some core punctuation (period, comma, question mark, exclamation mark). I'll be adding more custom stuff over time, to increase the speed at which I can dictate by eliminating ambiguity for the recognition engine.
 - I still have plenty more punctuation and stuff to figure out, but this was a good start.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Researched and ordered a better mic setup for making content videos {#researched-and-ordered-a-better-mic-setup-for-making-content-videos}
 
@@ -98,7 +98,7 @@ After some research, I also bought a different mic system, both for when I'm rec
 
 I've been busy so I haven't set up and tested these things yet, but I will soon.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Researched, ordered, and planned out a portable computer setup to work at a local public library on weekends {#researched-ordered-and-planned-out-a-portable-computer-setup-to-work-at-a-local-public-library-on-weekends}
 
@@ -116,7 +116,7 @@ The setup I decided on (to be used in addition to, at the time being, my tablet,
 
 All this was pretty expensive when taken together, but I have high hopes for this setup. I think it is rather clever, and ought to work very well.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Pondered the multi-website future that is coming {#pondered-the-multi-website-future-that-is-coming}
 
@@ -124,7 +124,7 @@ I helped my roommate come up with ideas for his ministry website's domain name. 
 
 This got me thinking a bit about the next steps I will need to take to get my website theme in the state it needs to be in to be shared across multiple websites. Both this one I'm helping my roommate set up, and my own other planned websites (personal, and business-focused). I probably ought to make this theme organization stuff happen sooner rather than later. Some of the things I was thinking about here were related to combining all of the CSS into one file, and then making it SCSS to be able to use variables for accent colors and so on.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Misc. discussions from the ministry community {#misc-discussions-from-the-ministry-community}
 
@@ -134,7 +134,7 @@ One of the Bible studies on Saturday afternoons turned into a discussion of apol
 
 After much discussion on the call, I scrounged up a bunch of links for this friend who is involved with this other guy. I went with links regarding the mind body problem, critiques of logical positivism and prevailing oversimplistic views regarding philosophy of science (at least from a strict materialist perspective), and so on. I did a lot of research myself since I found the topics and arguments here interesting.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Modified the preprocessor Python application to support discussion pages {#modified-the-preprocessor-python-application-to-support-discussion-pages}
 
@@ -149,7 +149,7 @@ Just to get a sense of the scale here, [this](https://github.com/StevenTammen/bi
 
 I've been lazy and haven't been committing as consistently in the preprocessor repo (among other reasons, just because I know it's not really ready for public use anyway, so it doesn't matter too much at the moment), so I can't presently show the changes there in the same way. But it was a really big changeset spanning across many files.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Upcoming work {#upcoming-work}
 

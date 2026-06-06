@@ -52,7 +52,7 @@ God makes this proclamation right on the heels of the Israelite's sin regarding 
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Recall, some of the great things God had shown to this generation {#recall-some-of-the-great-things-god-had-shown-to-this-generation}
 

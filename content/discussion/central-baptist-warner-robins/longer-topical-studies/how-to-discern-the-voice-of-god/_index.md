@@ -86,7 +86,7 @@ This is because for us to properly use the Bible as our measuring stick for ever
 
 #### Content {#the-bible-is-how-we-know-what-is-from-god-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### How do you recognize God's voice, as opposed to the voice of Satan and/or others under Satan's sway? Through the Word of God {#the-bible-is-how-we-know-what-is-from-god-how-do-you-recognize-gods-voice-as-opposed-to-the-voice-of-satan-and-or-others-under-satans-sway-through-the-word-of-god}
 
@@ -104,11 +104,11 @@ It is no surprise that the written Word of God is all about Jesus Christ, the li
 
 Bringing us back to the point at hand, it is only through the Word of God that we will be able to properly "discern the Spirits" (1 John 4:1-3), and so correctly make out the voice of God from among the veritable chorus of false voices.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Further discussion {#the-bible-is-how-we-know-what-is-from-god-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### We must both submit to Bible teachers and personally read the Bible to grow in such a way that we develop the discernment God wants us to develop {#the-bible-is-how-we-know-what-is-from-god-we-must-both-submit-to-bible-teachers-and-personally-read-the-bible-to-grow-in-such-a-way-that-we-develop-the-discernment-god-wants-us-to-develop}
 
@@ -122,33 +122,33 @@ False things can sometimes be rather obvious (so, for example, the Bible does mo
 
 Part of this is because Satan's lies often have at least a grain of truth in them. When Satan speaks to Eve in Genesis 3, he is not wrong that God forbade Adam and Eve from eating... but he does purposely misrepresent God's words. It is actually not all that subtle here (God forbade eating the fruit from a single tree, not all the trees), but how about in Matthew 4:1-11 during the temptation of Christ? Satan quotes scripture at Jesus. How can scripture be wrong? But Jesus quotes scripture right back at Him, showing that Satan's interpretation of what that scripture meant was faulty. Satan had twisted things, even though all he did was quote the Bible!
 
-<!-- --- -->
+<!-- slide-break -->
 
 This introduces a major wrinkle: using the Bible as our measuring stick only works when we know what the *correct* interpretation of the Bible is. How then do we get this correct interpretation of the Bible? The basic answer to that question is that we must grow spiritually. And how do we grow spiritually? By listening to Bible teachers, and by reading the Bible ourselves.
 
 The Bible says that God has put some in the body of Christ as pastor-teachers, and these men are specially empowered by the Holy Spirit to learn and then explain the Bible, "in order to equip his people for works of service, so that the body of Christ may be built up" (see Ephesians 4:11-13). This means we can come to know what the Bible actually teaches by listening to these gifted and prepared individuals God has placed in the body of Christ to explain the Bible to us. Teaching the Bible is their primary job, so we ought to take full advantage of their gifts, for that is how things are supposed to work in the system God has designed: the Church, the united body of Christ here in the world, composed of various parts each fulfilling their respective role (see 1 Corinthians 12). In fact, to grow to spiritual maturity, we *must* submit ourselves to these Bible teachers; that is what the Ephesians quote from above demands, albeit indirectly.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Secondly, we all need to build up our own personal knowledge of the Bible by reading it consistently. For one thing, the matter of choosing which Bible teachers to listen to is impossible to do properly without us verifying that the words coming out of their mouths line up with the Bible (compare Acts 17:11). Even though this is the case, we are *not* authorized to think we can go it alone, and forgo the step of submitting to teachers. Instead, we *do* need to submit to teachers... but only the ones whose words we can verify with the Bible. To do this, we certainly need to be conversant with what the Bible says!
 
 It's not just about getting us past that first hurdle of figuring out which Bible teachers to listen to, though. Let me try to use an analogy: let's say that the truth contained in the Bible is like a puzzle -- individual verses and passages are like puzzle pieces. The end goal is for each of us to have collected pieces of the puzzle (pieces of scripture), and have them "properly assembled" in our hearts, fitting together piece-by-piece to form a solid edifice of truth. If that is the goal, then what is the most effective way for this goal to be achieved? Is it to put the sole responsibility for our growth in the hands of our teachers? Do we think that will maximize our spiritual growth?
 
-<!-- --- -->
+<!-- slide-break -->
 
 Is it not instead the case that we should do absolutely as much as we can on our own to make the process more effective? If we read our Bibles every day, we will be accumulating in our hearts more and more puzzle pieces, so to speak. Some of them we can probably fit together all on our own, but others we probably won't be able to (those are the ones we need Bible teachers for). Us taking the initiative to consistently read our Bibles greatly enhances the process, because then teachers don't always have to be re-explaining "what the Bible says" alongside "what the Bible means," but can instead mostly just focus on explaining how some of the trickier pieces fit together. It should be very obvious that the more familiarity people have with the Bible -- even if they are fuzzy on some things -- the more effectively they can understand Bible teaching, as a general rule. So, for example, if a teacher is teaching about the theological concept of Justification, he might work on explaining how James' description of faith being proved genuine by the fruit it bears in people's lives (compare James 2) does not at all contradict Paul's teaching that we are justified by faith, not by works (compare the end of Romans 3, particularly verse 28). This particular teaching will be more easily understandable and more useful for those who are already familiar with what these passages talk about, how they are situated in their respective narratives, and so on.
 
-<!-- --- -->
+<!-- slide-break -->
 
 In short, reading our Bibles is our "homework" as Christians, so that when we show up to "lecture," we will be able to better follow the words of our teachers. If we neglect our homework, we will not learn nearly as well from our teachers, and if we do not learn nearly as well from our teachers, our understanding of what the Bible really means will be limited, and if our understanding of what the Bible really means will be limited, then we will be unable to effectively use the Bible as a measuring stick for everything (like how we are supposed to). Our discernment will be crippled, and we will not be nearly as successful in picking out the voice of God, instead being more likely to follow other voices we ought not. 
 
 To wrap up this section, trying to learn from homework alone is no good -- if we are wrong, who will correct us? Who will answer our questions if we get stuck? That's why we need Bible teachers. But the point we have just been making is that trying to learn from lecture alone is no good either, because Bible teaching won't make much sense to us unless we are already familiar with the Bible -- the thing that all good Bible teaching should be singularly focused upon -- and no one but us can make us familiar with the Bible (through a personal choice on our part to read it consistently). So it is that we must *both* submit to Bible teachers and personally read the Bible for the process to work as God intends -- for us to grow spiritually, and therefore know the correct interpretation of the Bible, that we might be able to accurately discern the voice of God.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Further discussion {#the-bible-is-how-we-know-what-is-from-god-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Conclusion and recap {#the-bible-is-how-we-know-what-is-from-god-conclusion-and-recap}
 
@@ -218,7 +218,7 @@ The issue with this sort of argument is that you could well say that Isaiah 52:1
 
 #### Content {#satan-is-the-serpent-of-genesis-3-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Introduction: Is the serpent of Genesis 3 Satan? {#satan-is-the-serpent-of-genesis-3-introduction-is-the-serpent-of-genesis-3-satan}
 
@@ -234,11 +234,11 @@ This is an excellent example of the Word's central importance in our discernment
 
 This is in fact the correct interpretation (that is, that the serpent in Genesis 3 was Satan and/or was controlled by Satan), but exactly how can we go about establishing the evidence for this identification? Revelation 20:2 alone is a good starting place, but as we shall see, there is certainly more to be said, and this "more" is what we shall now explore.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Further discussion {#satan-is-the-serpent-of-genesis-3-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Who is Satan, according to the Old Testament? {#satan-is-the-serpent-of-genesis-3-who-is-satan-according-to-the-old-testament}
 
@@ -258,13 +258,13 @@ The *Nun* in שָׂטָן is here word-final, and therefore in the [sofit form](
 
 {{% /technical-discussion %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 The Hebrew noun can be used without a definite article. So, for example, The Angel of the Lord (a Christophany = pre-incarnate appearance of Christ; *The* Angel of the Lord) opposes Balaam as "an adversary" [in Numbers 22:22](https://biblehub.com/interlinear/numbers/22-22.htm).
 
 When used with a [definite article](https://www.hebrew4christians.com/Grammar/Unit_Four/The_Definite_Article/the_definite_article.html) (הַ), however, the being in view (= הַשָׂטָן now that we have added the article, transliterated *ha-satan*) refers to the supernatural adversary of God.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Satan as a... divine prosecutor? The scriptural witness of Job and Zechariah {#satan-is-the-serpent-of-genesis-3-satan-as-a-divine-prosecutor-the-scriptural-witness-of-job-and-zechariah}
 
@@ -278,11 +278,11 @@ ptags="Revelation 12:10"
 
 This specific being is, somewhat surprisingly, not actually mentioned particularly frequently in the Old Testament. The *ha-satan* form is used in Job 1:6-9, 1:12, 2:1-4, 2:6-7 to refer to an angelic being in the court of God who accuses Job before God. It is also used in Zechariah 3:1-2 in a very similar manner -- a supernatural being leveling accusations. Some exegetes have argued for seeing these instances as an elect angel serving in a "divine prosecutor" sort of role, but the problem with that idea is the being's apparent antagonism towards both God and (for example) Job—why would an elect angel be interested in trying to get a human whom God took pride in to stumble, in a seeming bid to prove God's words false? Moreover, Revelation 12:10 says that Satan is "the accuser of our brothers and sisters, who accuses them before our God day and night."
 
-<!-- --- -->
+<!-- slide-break -->
 
 It is therefore theologically irresponsible, in my opinion, to even entertain the possibility that the accuser mentioned in the Job and Zechariah passages is anyone other than Satan. There is no "literary development of the Satan character", no "Jewish legal conception of *ha-satan* improperly retconned by later Christians to be supernatural evil", no "borrowed characterization based upon literary parallels in other Near-East cosmologies." Regardless of what false things others might say (as additional examples, you might also see [here](https://www.biola.edu/blogs/good-book-blog/2021/why-michael-heiser-is-probably-wrong-about-satan-in-the-book-of-job) or [here](https://academic.oup.com/book/38719/chapter-abstract/336896773?redirectedFrom=fulltext)), the accuser mentioned in the Old Testament has always been the devil—a very real, very powerful spiritual force for evil, not some legal bureaucrat angel just doing his job... even if people of the past may not have been as aware of him as we are today, now that we have received the New Testament. The greater nuance over time in our understanding of Satan's true nature is just so-called "progressive revelation" at work. (More on that in a moment).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Satan and 1 Chronicles 21:1 {#satan-is-the-serpent-of-genesis-3-satan-and-1-chronicles-21-1}
 
@@ -300,7 +300,7 @@ The interpretation of this passage (1 Chronicles 21:1-6ff.) is rather vexing for
 
 It really isn't. For example, God states explicitly that He used Assyria to punish wayward Israel (Isaiah 10:5-7), and this Isaiah passage makes it crystal clear that God is using Assyria *despite* what Assyria (personified, or "The Assyrian" if you prefer) intends—compare "this is not what he has in mind", verse 7. God is simply so smart (in fact, Omniscient) and so powerful (in fact, Omnipotent) that he can use evil people in His Perfect Plan, *and there's nothing they can do about it, no matter what evil they intend*. Like *ha-satan* in Job 1 and Job 2, evildoers can never do a single thing except that which God explicitly allows. They are dancing completely in the palm of His hand, to borrow a metaphor.
 
-<!-- --- -->
+<!-- slide-break -->
 
 So, to reconcile 1 Chronicles 21:1 and 2 Samuel 24:1 only requires that you take the interpretive leap that God allowed Satan to incite David to take the census, that God *used* Satan. Satan was the agent; God was the architect. We might assume that Satan knew that taking the census would be a sin against God (for reasons we shan't get into here—this is "the other reason" why the interpretation of this passage is vexing), and thought that getting David—a "man after God's own heart" (Acts 13:22)---to stumble would somehow damage God's plans (compare Satan's desire to trip up Job in Job chapters 1 and 2). This thought was, of course, utter madness... as sin always is. Satan, a mere creature, thought he could somehow successfully raise his hand against his Maker? What a joke. We may laugh at his foolishness, yet who are we to talk? We all sin (Romans 3:23, James 3:2), and our sin is just as insane for this very same reason.
 
@@ -312,11 +312,11 @@ If you'd like to read a second analysis of Satan in the Old Testament, you might
 
 {{% /technical-discussion %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ####### Further discussion {#satan-is-the-serpent-of-genesis-3-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### On progressive revelation, and the scriptural evidence for drawing the equivalency between Satan and the serpent of Genesis 3 {#satan-is-the-serpent-of-genesis-3-on-progressive-revelation-and-the-scriptural-evidence-for-drawing-the-equivalency-between-satan-and-the-serpent-of-genesis-3}
 
@@ -334,7 +334,7 @@ To elaborate a bit more on why we can be so dismissive: there is a concept in th
 
 But after Jesus was crucified, died, and was resurrected (thereby positionally defeating death and overcoming the grave), what had previously been a mystery was now revealed to mankind. Our salvation was won on the cross, redeeming sinful humanity to a perfect God once for all. That this was what God had meant all along only became clear *later*, not when the prophecies were initially written. Hence "progressive revelation".
 
-<!-- --- -->
+<!-- slide-break -->
 
 ####### Did angels communicate with Adam and Eve, perhaps while possessing the bodies of animals? {#satan-is-the-serpent-of-genesis-3-did-angels-communicate-with-adam-and-eve-perhaps-while-possessing-the-bodies-of-animals}
 
@@ -350,17 +350,17 @@ To sidetrack for just a moment, the fact that we are dealing with what appears t
 
 You might take the position that God "allowed Eve to speak snake" (or animal languages generally). We have literally nothing to go on in terms of scriptural evidence one way or the other, so why not? Such a view does have the advantage that it would explain why Eve wasn't surprised when an animal spoke to her. On the other hand, you then have to deal with the fact that this ability certainly didn't persist. So was it revoked after the fall? Did it die out after Adam and Eve, even if they retained it for their entire lives?
 
-<!-- --- -->
+<!-- slide-break -->
 
 While the above sounds like it would be an interesting premise for a work of fiction (and actually, cf. [Dr. Dolittle](https://en.wikipedia.org/wiki/Doctor_Dolittle)---that's already a thing), the more realistic explanation, to my mind, is that Eve wasn't weirded out by the random communication à la snake because Adam and Eve probably spoke directly to not only God (that much we have directly from the text in Genesis), but also angels (that's more of an inference). After all, why not? We humans will certainly speak to angels when we share eternity together with them in the final paradise (the New Heavens and New Earth and New Jerusalem)---so why couldn't Adam and Eve likewise have spoken to them in the initial paradise (Eden), as in the setting of this passage? If we assume that this communication with angels was actually something that happened, it follows that while Eve may have been puzzled as to why an angel had possessed the body of an animal (or maybe that part was normal enough too—who knows?), the *really* strange bit about the snake speaking would be no major matter. That is to say, if Adam and Eve were already used to communicating with angels, then that clears up the interpretive question mark of the talking snake quite neatly.
 
 More importantly, it supports a reading of the text that holds that the snake was possessed by an angel, not acting of its own accord as an animal. There are people who make this argument---"Since the Genesis text only says *nachash*, it must really have only been a snake, nothing more and nothing less." I can't exactly disprove this directly—as what I just went through is essentially just speculation on my part—but the passage does make perfectly good sense if you hold that the snake was being possessed by a fallen angel (that is, Satan).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ####### Further discussion {#satan-is-the-serpent-of-genesis-3-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Pulling things together: direct scriptural evidence for making the identification {#satan-is-the-serpent-of-genesis-3-pulling-things-together-direct-scriptural-evidence-for-making-the-identification}
 
@@ -376,7 +376,7 @@ At any rate, back to progressive revelation and Genesis 3:15. Upon an initial re
 
 Perhaps. That's what the doubters say. But what is actually the case is that the "seed of the woman" mentioned in Genesis 3:15 is Jesus Christ, making Genesis 3:15 a prophecy. Jesus crushed Satan's head with his victory on the cross—Satan has already lost! In terms of correct prophetic interpretation, Satan is thus the serpent whose head is crushed.
 
-<!-- --- -->
+<!-- slide-break -->
 
 We can keep going, too. Genesis 3:14 speaks of the serpent being driven down to the earth. That sounds an awful lot like Revelation 12:9.
 
@@ -388,7 +388,7 @@ In the Greek in Revelation 12:9, we have "ὁ δράκων ὁ μέγας ὁ 
 καὶ ἐβλήθη ὁ δράκων ὁ μέγας, ὁ ὄφις ὁ ἀρχαῖος, ὁ καλούμενος διάβολος καὶ ὁ σατανᾶς ὁ πλανῶν τὴν οἰκουμένην ὅλην, ἐβλήθη εἰς τὴν γῆν, καὶ οἱ ἄγγελοι αὐτοῦ μετ᾽ αὐτοῦ ἐβλήθησαν.
 {{% /scripture-h %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 The adjectives μέγας (great/large) and ἀρχαῖος (ancient) go with δράκων (dragon) and ὄφις (serpent), respectively. The particular construct being used here follows the format "article > noun > article > adjective", putting the adjective in [the attributive position](https://books.openbookpublishers.com/10.11647/obp.0264/ch16.xhtml#:~:text=Attributive%20position%20tells%20us%20that%20a%20noun%20is,road%20into%20attributive%20position%20with%20the%20noun%20woman.).
 
@@ -400,7 +400,7 @@ Putting it all together, we then get "the great dragon, the ancient serpent, the
 
 {{% /technical-discussion %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 It might be a bit of a jump to identify the serpent of Genesis 3 with Satan just on account of "ancient serpent" being equated with "Satan" in Revelation 12:9 (cf. also Revelation 20:2), although that's strong enough all on its own. What really seals it is the typological parallel of being driven down to the earth that directly mirrors the curse God places upon the serpent Genesis 3:14: to be cast to the ground, and eat dust.
 
@@ -408,7 +408,7 @@ Some people still somehow explain all this away... but, well, they explain away 
 
 I should note that prophetic typology and dual-application is *super* common in Old Testament prophecy. For example, another dual-application passage typologically related to Satan is Ezekiel 28:1-19 (note especially verses 11 through 19). These words (at least many of them) applied to the literal King of Tyre (i.e., a historical human being), but the passage also very clearly shifts into talking about Satan, and what brought about his fall. We might also here note that once again Satan is said to be "thrown to the earth" (verse 17), fitting right in with Genesis 3:14 and Revelation 12:9 mentioning the serpent being cast to the ground.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Properly seeing the connection between Satan and the prophecy of Genesis 3:15 is actually important for interpretation {#satan-is-the-serpent-of-genesis-3-properly-seeing-the-connection-between-satan-and-the-prophecy-of-genesis-3-15-is-actually-important-for-interpretation}
 
@@ -540,7 +540,7 @@ The operative point we will be examining on this page specifically is the idea t
 
 #### Content {#on-the-human-capacity-for-self-deception-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Example verses concerning the idea of human self-deception {#on-the-human-capacity-for-self-deception-example-verses-concerning-the-idea-of-human-self-deception}
 
@@ -568,17 +568,17 @@ A human heart is more dishonest than anything else. It can’t be healed. Who ca
 
 {{% /ot %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 We have no basis for trusting our own hearts. We are indwelt by the sin nature, as all humans have been since Adam (excepting Christ; part of the reason why the virgin birth is important). We are, down to a person, biased by the flesh. If we were witnesses taking the stand, we have already been tampered with, already taken a bribe.
 
 Consequently, we ought not trust our own judgement any further than we can throw it. We ought to instead only trust the Word of God, which the Holy Spirit will use to convict our hearts of the truth, if we would but choose to listen to Him rather than charging ahead and dictating to God.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ####### Further discussion {#on-the-human-capacity-for-self-deception-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### General example verses about self-deception {#on-the-human-capacity-for-self-deception-general-example-verses-about-self-deception}
 
@@ -620,11 +620,11 @@ If you think you are somebody when you are nobody, you are fooling yourselves.
 
 {{% /nt %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ####### Further discussion {#on-the-human-capacity-for-self-deception-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Self-deception can even apply to salvation {#on-the-human-capacity-for-self-deception-self-deception-can-even-apply-to-salvation}
 
@@ -650,17 +650,17 @@ ptags="Matthew 7:21-23"
 
 Many people don't like talking about these verses. Uncomfortable subject, this. Who wants to think about the chilling fact that not all Israel is Israel (Romans 9:6-7)?
 
-<!-- --- -->
+<!-- slide-break -->
 
 Yet there are those who engage in something that they call Christianity that will nonetheless end up in the Lake of Fire forever, for the only thing that is important is believing in who Jesus was and what He did for us on the cross by taking the penalty for our sin upon His shoulders. God is Just -- He offers salvation to all, gives all an equal chance to respond to Him. Literally all we have to do is not say no! But He does not ever make exceptions or excuse unbelief. Not even for people who outwardly adopt the title of Christian and engage in things that society thinks are good, like giving money to the poor.
 
 How can people who spit in God's face by rejecting the Son He sacrificed on their behalf then turn around and consider themselves Christians and children of God -- even consider themselves and their group "better Christians" than other Christians (cf. cults)? That's human self-deception. That people can redefine salvation to be a set of legalistic works *and then actually believe it* ought to terrify us. Not because our own salvation is imperiled when we come to this realization (we are saved so long as we actually believe in Jesus Christ -- end of story), but because it ought to thus be obvious to us that humans can in fact lie to themselves to such a degree that they get something as important as salvation by grace through faith dead wrong, all while being completely blind to it. *They think they are right*, legitimately believe it. But they are not.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ####### Further discussion {#on-the-human-capacity-for-self-deception-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Self-deception runs on human arrogance {#on-the-human-capacity-for-self-deception-self-deception-runs-on-human-arrogance}
 
@@ -686,11 +686,11 @@ You say, ‘I am rich; I have acquired wealth and do not need a thing.’ But yo
 
 Human arrogance is such that we all fail to recognize our own pitiful state; we all overestimate how much we have it together, and underestimate how much we need God. The Church of Laodicea in Revelation 3 typifies this pattern of blindness, but it applies in greater or lesser measure to all Christians. It is more than possible for people to think themselves upon the right path while in fact not even being close. The point is that we must never forget this truth, but must instead turn it upon ourselves reflexively to make sure that anything that we think and believe has the Word of God behind it, rather than human rationalization and self-deception.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ####### Further discussion {#on-the-human-capacity-for-self-deception-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The Bible would not have verses about examining and testing ourselves if it were not important {#on-the-human-capacity-for-self-deception-the-bible-would-not-have-verses-about-examining-and-testing-ourselves-if-it-were-not-important}
 
@@ -732,7 +732,7 @@ Each of you should put your own actions to the test. Then you can take pride in 
 
 {{% /nt %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% ot t="esv" p="Lamentations 3:40" h="300px" %}}
 
@@ -748,13 +748,13 @@ Let’s take a good look at the way we’re living. Let’s return to the Lord.
 
 It makes no sense for the Bible to speak of us testing and examining ourselves unless it was possible for us to be deceiving ourselves.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Does this mean we ought to always be fearful of "not really believing?" No. If we believe, we believe, and that is that. We need to have confidence in that. If we want to actually believe something, we do. We can't mess it up like that; we *do* have free will.
 
 But nothing will protect us from believing the wrong things, or actual unbelief. That free will cuts both ways. This is why we must always test ourselves against the scriptures to make sure that we really are holding to God's truth, not some straw man version of it we have set up in our hearts. For, as we have just seen, it is more than possible for us humans to lie to ourselves so effectively that we completely blind ourselves to the truth, even though we claim we have it. Would that we would care enough to study the truth so that we might not be those people!
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Further discussion {#on-the-human-capacity-for-self-deception-further-discussion}
 
@@ -825,7 +825,7 @@ It is a good question, for if we spend lots of time with an ear to the ground, l
 
 #### Content {#we-ought-not-have-unrealistic-expectations-about-spiritual-conviction-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Our perspective is necessarily limited, and this is by God's intentional design {#we-ought-not-have-unrealistic-expectations-about-spiritual-conviction-our-perspective-is-necessarily-limited-and-this-is-by-gods-intentional-design}
 
@@ -839,23 +839,23 @@ For most matters in life, the Bible doesn't give us specifics. Generalizing a bi
 
 Consider that this state of affairs does not come about because God could not provide us clearer answers for all the things we ask. He is Omniscient and Omnipotent. So, given verses like Matthew 7:7-8, why doesn't He just instantly give us those answers, firm feelings regarding which path to take?
 
-<!-- --- -->
+<!-- slide-break -->
 
 Well, who are we to say that it would be better for us to actually immediately get such answers and conviction for all our matters of discernment? If we believe Romans 8:28, no matter what happens, God is working all things out for our ultimate (spiritual) good. In fact, it is the best—the superlative is appropriate. The Plan of God is completely perfect. So if we don't get any firm answers from God as to exactly what we ought to do about some specific thing, it is no accident.
 
 Nowhere does Romans 8:28 say that we will understand God's plans most or even much of the time. When you think about it, the reason for such is kind of obvious. We are incredibly finite beings with perspectives warped by our own sinful flesh and Satan's world system trying to turn us away from God at every turn. Even the most spiritually advanced among us are still just puny humans. Who are we to talk to back to God? Do we really think we know better than Him now, hm? Perhaps we feel that we are *owed* guidance. That it is somehow our due. But just as a parent cannot always explain their complicated reasons to their whiny indignant four-year-old (even if they wanted to), so to does our blind human perspective pretty sharply limit God's ability to share with us the real reasons behind things in life.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Put simply, God doesn't immediately answer every decision we put before Him like some sort of divine "Magic 8 Ball" because He views the development of our faith as more important than our temporal gratification. If God were to answer our every question instantly, where is there room for faith on our part in that? How then could God perfectly work every single thing out right under our noses—even better than we could have ever imagined or prayed for ourselves—thereby demonstrating His perfect faithfulness... if we would but trust Him, trust that He has it all in hand?
 
 So it is that we are left down here to struggle with limited perspective and imperfect information in order to demonstrate exactly how much we really do trust the Lord. He will always come through for us—maybe not in a way that maximizes comfort or wealth or any other ephemeral material parameter, but in a way that maximizes our spiritual wellbeing—but we have to have faith and wait upon Him. That is much the point, in fact.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Further discussion {#we-ought-not-have-unrealistic-expectations-about-spiritual-conviction-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### This does not mean that God does not give us enough information to do what we ought {#we-ought-not-have-unrealistic-expectations-about-spiritual-conviction-this-does-not-mean-that-god-does-not-give-us-enough-information-to-do-what-we-ought}
 
@@ -874,7 +874,7 @@ No matter what decisions stare us down (college major, career, who to marry, how
 
 So never ought the excuse "but I didn't have enough information!" cross our lips. Enough information for what?
 
-<!-- --- -->
+<!-- slide-break -->
 
 For example, let's say you come to decide that you need to change you major after already being in college two years. Seems like wasted time and money, right? But what happens if God has some greater plan at work here? What happens if you might use that information you now think is fall-through in some way in the future? How do you know that such a thing for sure won't happen?
 
@@ -882,11 +882,11 @@ Or maybe you really were being selfish and hardheaded in pursuing the earlier ma
 
 Emphasizing this is important because the very worst thing we can do is make excuses for ourselves and blame God. If it seems to us like we prayed and prayed for guidance only to end up on a bad path that we had to backtrack on later ("why couldn't you have just pushed me in this correct direction in the first place when I asked!"), things didn't happen that way for a reason, one way or another, and that reason is never because God is unfairly stingy in His guidance.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Further discussion {#we-ought-not-have-unrealistic-expectations-about-spiritual-conviction-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### The principle is in fact absolute {#we-ought-not-have-unrealistic-expectations-about-spiritual-conviction-the-principle-is-in-fact-absolute}
 
@@ -900,7 +900,7 @@ Very often the toughest matters of discernment are matters of application wherei
 
 But if we pray earnestly, no matter how bad our intel, we can still always do what God wants of us, given where we are. We always have that potential. Even if some of these challenging hypotheticals were to actually come about for us personally (and that is sometimes not even remotely realistic), well we can properly answer all such things when we actually face them personally and pray for guidance, relying on the Holy Spirit that indwells us. We must have faith in that. 
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### But, again, having all we need to follow God's Will is different from it always being clear and dead obvious {#we-ought-not-have-unrealistic-expectations-about-spiritual-conviction-but-again-having-all-we-need-to-follow-gods-will-is-different-from-it-always-being-clear-and-dead-obvious}
 
@@ -920,7 +920,7 @@ Blessedly, we can have rock-solid conviction about many things. For example:
 - Everything that happens happens for a reason, maximizing the ultimate spiritual good of all (Romans 8:28).
 - Etc.
 
-<!-- --- -->
+<!-- slide-break -->
 
 In fact, everything the Bible truly teaches we can be rock-solid on. The problem is that there is plenty in life that is not directly addressed in the Bible. What to do then? Well, we can certainly avoid the extremes:
 
@@ -929,7 +929,7 @@ In fact, everything the Bible truly teaches we can be rock-solid on. The problem
 
 Perhaps all of this is seems unsatisfying, leaving things vague and far from parsed out in a clear set of rules and principles. Welcome to life—grey and messy.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Sometimes conviction comes stronger with time, but sometimes not {#we-ought-not-have-unrealistic-expectations-about-spiritual-conviction-sometimes-conviction-comes-stronger-with-time-but-sometimes-not}
 
@@ -946,7 +946,7 @@ To close us out, it is worth noting that it is not uncommon to better understand
 
 It was not until I was months down these paths that things crystallized into full certainty in my mind. When I was forced to make the decisions in the moment—through much prayer—I honestly was not confident that I was not making mistakes in both cases. But over time God opened my eyes to things that had been hidden before, things that gave me a level of peace and certainty that I hadn't had at the beginning.
 
-<!-- --- -->
+<!-- slide-break -->
 
 We cannot always expect this across all situations though. Sometimes that process of difficult faith and persistent lack of answers may drag out rather than getting resolved in a few short weeks or months. No matter what, we just need to trust that settled emotions or not, if we are doing everything we can to learn, believe, and apply God's Word to our lives (and keep in constant prayer about it all too)---if we are doing everything that we are supposed to on our end—that God will work things all out perfectly. As Christian soldiers upon the battlefield of this life, we can keep our heads down and let our commanding officer handle all the rest—for there is no greater commanding officer than Jesus Christ.
 
@@ -1026,7 +1026,7 @@ Hopefully all this (which our lesson in the Workbook covered -- more or less) is
 
 #### Content {#the-momentousness-of-acts-2-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Acts 2 is really when the Church takes off numbers-wise. It represents a massive change in scale {#the-momentousness-of-acts-2-acts-2-is-really-when-the-church-takes-off-numbers-wise-it-represents-a-massive-change-in-scale}
 
@@ -1041,13 +1041,13 @@ Acts 1:15 states quite clearly that the number of believers at that time numbere
 
 So those who spoke in tongues in the first part of Acts 2 were the people making up this small group of initial believers, the very first people in the New Testament Church. It is somewhat startling when you consider how many people congregated around Jesus when He did miracles and taught the crowds. Thousands were touched by his ministry, yet just a few dozen are gathered soon after His resurrection and ascension. We do not know exactly how many of those Jesus had sent out before (e.g., Luke 10:1ff.) were part of this group, so it is possible there were more godly people who were not present in Jerusalem at this time, for whatever reason. One might also consider some of those from the Samaritan village who had believed (John 4:39-42), for example, among other individuals or groups mentioned throughout the gospels (like the centurions of Matthew 8:5-13 and Mark 15:37-39, who perhaps were not able to leave their posts to be together with the other believers). We needn't get overly fixated on the precise number; the point is that the overall number of people starts out startlingly small.
 
-<!-- --- -->
+<!-- slide-break -->
 
 This is an important point to make given that after Peter's Spirit-filled speech at Pentecost, Acts 2:41 says that "about three thousand" (ὡσεὶ τρισχίλιαι) were added to their number. *Three thousand*. Whether the multiplier was actually a full 30-fold, or was perhaps a bit less than that overall, the point is that the change here is drastic, and would lead to fundamental and sweeping changes in the structure and organization of the Church.
 
 We should thus bear in mind whenever we talk of the conversion of these folks at Pentecost exactly how massive a thing this day was. For while there were believers before Pentecost, Pentecost marks the coming of Holy Spirit and beginning the Church Age as a distinct phase of human history.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Many of these new converts were the very same people who may have clamored for Jesus' crucifixion {#the-momentousness-of-acts-2-many-of-these-new-converts-were-the-very-same-people-who-may-have-clamored-for-jesus-crucifixion}
 
@@ -1067,7 +1067,7 @@ In some ways, this collective realization on the part of the Jews prefigures the
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Of course, we Gentiles are now part of the Church as well. But in these cases -- both past and future -- there is something decidedly *right* about God's chosen people turning to Him *en masse*, a dramatic show of collective repentance. In much the same way as the prodigal son returning home, the things out of place will be set to rights. Israel, after millennia of hardness, will have finally come home, joining us at the feet of the Father. Then we shall all truly be one in Christ, forever. 
 
@@ -1075,7 +1075,7 @@ At any rate, the upshot for our passage here in Acts 2 is that this event hits h
 
 So, again, we need to view this account of mass conversion at Pentecost as something a great deal more important than a bunch of random people being converted. For it marks the repentance of many Jews, who would go on to become the backbone of the very early Church as it expanded outwards from Judea to encompass the Roman Mediterranean. Those who had set themselves against God's Son came to realize the truth, and decided to be born again, throwing themselves upon the Mercy of the very one they had betrayed. It ought to give us chills, even today.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Further discussion {#the-momentousness-of-acts-2-further-discussion}
 
@@ -1154,7 +1154,7 @@ Of course, many times, people believe things that are false due to a veritable "
 
 #### Content {#conviction-is-not-based-upon-emotion-but-upon-the-truth-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Why emotion alone is a faulty basis for establishing spiritual truth {#conviction-is-not-based-upon-emotion-but-upon-the-truth-why-emotion-alone-is-a-faulty-basis-for-establishing-spiritual-truth}
 
@@ -1172,7 +1172,7 @@ To be clear, this does not mean that we need to be utterly against emotions as C
 
 The point is simply that our emotions ought not be in the driver's seat, but us. The truth is a thing independent from them. When our emotions line up with the truth, well and good. But if they do not, well, best go with the Bible, not our emotions.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Example: Facing down the wind and the waves {#conviction-is-not-based-upon-emotion-but-upon-the-truth-example-facing-down-the-wind-and-the-waves}
 
@@ -1190,7 +1190,7 @@ My purpose in bringing up the example of Peter's reaction here is this: it is co
 
 This is why *following* our emotions (rather than *leading* them) is dangerous.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Example: Joy in suffering {#conviction-is-not-based-upon-emotion-but-upon-the-truth-example-joy-in-suffering}
 
@@ -1206,11 +1206,11 @@ If you want a persuasive yet short argument against the idea of basing much of a
 
 The natural response we feel when finding ourselves in the middle of suffering is dismay, not joy. As we grow more mature, we definitely will get better at looking to the unseen spiritual dimension in order to bolster our attitude and square our shoulders like good Christian soldiers—in order to snap out of our emotion-induced pity party that much faster. The more we believe 2 Corinthians 4:17---*really* believe it—the less phased we will be by the temporary afflictions of the world. But we will still probably always have to wrestle our feelings in line at least some, to get back our peace and joy when things really get tough.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Further discussion {#conviction-is-not-based-upon-emotion-but-upon-the-truth-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Emotional conviction vs. spiritual conviction {#conviction-is-not-based-upon-emotion-but-upon-the-truth-emotional-conviction-vs-spiritual-conviction}
 
@@ -1226,7 +1226,7 @@ For us to become spiritually convicted about something, the Holy Spirit operates
 
 Hopefully all this makes it clear why emotions have no part in true spiritual conviction. Emotions are simply not involved on *either* side of the equation. This means that they are, more or less, a red herring when it comes to what we ought to think, say, and do. The truth is the truth; it doesn't care if we feel good about it, if we feel downright lousy about it, or if we are somewhere in between. We still have a duty to accept it and obey it, no matter how we might feel.
 
-<!-- --- -->
+<!-- slide-break -->
 
 By way of contrast, emotional conviction operates independently from the biblical truth stored up in our hearts, and independent from the Holy Spirit's prompting. Without God's Word and the indwelling Holy Spirit coming together to shine light on our path, why would we expect emotional conviction to be worth much of anything at all? Seems obvious, right?
 
@@ -1234,7 +1234,7 @@ Yet, even so, it is still difficult in the moment to keep this in mind, and keep
 
 So once again, growing spiritually (by consistently reading our Bibles and taking in Bible teaching from gifted and prepared teachers) is our answer, the answer as to how to deal with emotions in a godly way. You will seldom ever be wrong in guessing that spiritual growth is the ultimate answer to some problem we might face as Christians, and this case is no exception.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Further discussion {#conviction-is-not-based-upon-emotion-but-upon-the-truth-further-discussion}
 
@@ -1335,7 +1335,7 @@ Hebrews 11 starts off with a definition of faith: "faith is the assurance of thi
 
 #### Content {#faith-is-not-irrational-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% technical-discussion %}}
 
@@ -1359,7 +1359,7 @@ ptags="Hebrews 11:1"
 
 This sentence is not that complex grammatically. The core sentence is "ἔστιν πίστις ὑπόστασις... [ἔστιν πίστις] ἔλεγχος". This is a normal "{subject} {linking verb} {complement}" construction, with the only twist being that there are two complements, but without a coordinating conjunction between them (that is, there is no καί between ὑπόστασις and ἔλεγχος). The subject and linking verb are thus implicitly understood to go with both complements: "faith is assurance... [faith is] conviction."
 
-<!-- --- -->
+<!-- slide-break -->
 
 [Ichthys' translation of this verse](https://ichthys.com/6A-Peripateo.htm#Hebrews%2011:1-2) -- "It is faith [in the Living and written Word], moreover, that substantiates what we hope for. [Faith] provides proof of things unseen" -- doesn't mirror the exact grammatical structure as much, using indirect statement in the first bit (i.e., "it is faith... that").
 
@@ -1367,7 +1367,7 @@ Arguably, Ichthys' translation that translates with verbal phrases (that is, "fa
 
 {{% /technical-discussion %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Analysis of Hebrews 11:1 {#faith-is-not-irrational-analysis-of-hebrews-11-1}
 
@@ -1385,7 +1385,7 @@ For us as Christians, our confidence in things that haven't happened yet comes f
 
 We *cannot* prove that prophecy will play out how God says it will with science, or verify the promises He makes us about eternity with science. We also *cannot* prove the existence of the spiritual realm with science, as it cannot be observed or measured like the material world.
 
-<!-- --- -->
+<!-- slide-break -->
 
 This is because science (at least the epistemologically-sound variety, rather than the wild scholarly speculation that is rampant within some fields like evolutionary biology and the branch of theoretical astrophysics concerned with the creation of the universe) by its very nature only deals with the material world that can be subject to observation and experimentation. Metaphysics is simply outside its purview, or at least it ought to be.
 
@@ -1393,7 +1393,7 @@ All of this is a natural conversation to have when talking about Hebrews 11:1, b
 
 Why is this important? Well, because it tells us that...
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Faith is necessary, not illogical {#faith-is-not-irrational-faith-is-necessary-not-illogical}
 
@@ -1411,7 +1411,7 @@ The fundamentals of Christianity largely center around who Jesus was (fully God 
 - What's more, how could any human actually "prove" that Jesus paid the price for all human sin upon the cross, facing the fiery judgement of God in our place? That's definitely what the Bible teaches, but how do you prove that with science? You just can't; the very idea is nonsensical. Because the judgement happened *spiritually* when Jesus was physically hanging upon the cross.
 - And finally, in the modern day, it is simply impossible for us to test or verify observationally whether Jesus was truly resurrected from the dead. We cannot have video evidence or what have you. It's just impossible.
 
-<!-- --- -->
+<!-- slide-break -->
 
 The points being brought up here are sorely lacking in many discussions about faith and science. Christians are made to feel like they are uneducated and ignorant for having faith, that faith is somehow illogical. But science can say exactly nothing about whether Jesus paid for human sin when upon the cross, for example. Literally the only way to take a position on that proposition is through faith. Even if you wanted to do things "the science way," it is simply not a possibility.
 
@@ -1419,11 +1419,11 @@ The thing is, God never demands that we believe things that contravene reason an
 
 Where I am going with all this is that we cannot even "prove" (in the scientific sense, according to observation of and experimentation with the material world) that Jesus was God and that He fully paid for human sin upon the cross and that he was subsequently resurrected from the dead -- the very most fundamental points of Christianity. If we have confidence in these things, that confidence comes 100% from faith and 0% from material evidence. It is thus no surprise that everything else in Christianity largely follows suit -- the "things hoped for" (such as future promises of our eternal home) and the "things not seen" (such as the spiritual battle being waged all around us) all rest upon faith. And the vast majority of them are scientifically untestable propositions.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Further discussion {#faith-is-not-irrational-further-discussion}
 
-<!-- --- --> 
+<!-- slide-break --> 
 
 ##### Define "illogical" {#faith-is-not-irrational-define-illogical}
 
@@ -1437,7 +1437,7 @@ Certain materialists take the epistemological position that any claims that are 
 
 The subtle thing that happens in arguments is that people sneak in their presuppositions as fact. How can you scientifically prove that God *doesn't* exist? You can't, if God is spiritual rather than material, and we humans can only measure the material. In terms of formal logic, this is purely "the absence of evidence is not evidence of absence." In like manner, you also cannot scientifically prove that Goes *does* exist. Because again, God is spiritual rather than material, and we humans can only measure the material. We can infer his existence (cf. the so-called "God of the gaps" argument), but that is not scientific proof.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Atheists base all their reasoning on the proposition that God does not exist... despite us just saying it is impossible for them to prove such scientifically! They will readily point out that we do the same thing in presupposing that God does exist. And yeah, we do. But *we* acknowledge the presupposition and call it faith. *We* don't pretend our positions are scientifically provable, but instead readily acknowledge that they are not. The difference is that their position is not one whit more scientifically provable, yet they do not similarly acknowledge the fact that their belief that God does not exist actually has no scientific basis. Even though they won't admit it, theirs too is a faith-based position, a presupposition.
 
@@ -1445,11 +1445,11 @@ Let me put it this way: what is illogical is asserting that scientifically untes
 
 Christians do *not* do this because, while we view our belief as true and correct, we don't base our confidence in spiritual things on scientific premises, but instead freely acknowledge that our belief rests upon presuppositions that we hold by faith. That our faith picks up where science leaves off, rather than contradicting it.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Further discussion {#faith-is-not-irrational-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Final comments {#faith-is-not-irrational-final-comments}
 
@@ -1457,7 +1457,7 @@ Faith is not just a hunch or something. When we believe things the Bible speaks 
 
 Even if science can't prove God created the universe from nothing, well, science can't prove that God *didn't* create the universe from nothing either, can it? People can't run experiments with a controlled randomized trial that has a great enough sample size of universes to ascertain whether there is enough evidence to reject the null hypothesis (e.g.). At best, the astrophysicists can hypothesize based upon the limited evidence available to them. Sometimes their current hypothesis might actually contradict what the Bible says. Well, what of it? The thing about most of the things that trouble materialists (e.g., *ex nihilo* creation, the ark and worldwide flood in Genesis 6, the virgin birth, etc.) is that there is no way for them to formally disprove these things. *They weren't there*. And there are many possible explanations for how things could perhaps end up looking XYZ way to us in the future, yet somehow be misleading at the same time.
 
-<!-- --- -->
+<!-- slide-break -->
 
 The point of all this is that the skepticism of others regarding the Bible's claims needn't make us feel ashamed of our faith. For we don't believe what the Bible says because of empirical scientific evidence; that is going about faith all wrong. We believe it because the Bible says it. That's all there is to it.
 
@@ -1535,7 +1535,7 @@ Although there is much to say concerning these people specifically, on this page
 
 #### Content {#drawing-inspiration-from-the-faith-of-others-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% sidenote %}}
 
@@ -1555,19 +1555,19 @@ While we don't want to fall into legalism by banning something scripture does no
 
 This is why this page will mostly be discussing people whom we can have direct relationships with in our own lives, and therefore can have less doubt about. It's hard (perhaps functionally impossible) for someone to fake serious interest in the Bible and actual spiritual growth for a long period of time, and yet not mean it. People who are not genuinely interested will be driven away, because the truth gives no quarter, and it unfailingly divides and convicts (Hebrews 4:12). Any place where the truth is *actually* being taught in a substantive way (rather than just given lip service to, as is unfortunately common in many modern churches, which barely even teach anything at all, much less anything that could be said to be offensive to and truly demanding of their attendees... since that would drive away said attendees, and therefore money and prestige) -- such places actually teaching the truth in a substantive way will be extremely uncomfortable for anyone who doesn't sincerely want the truth.
 
-<!-- --- -->
+<!-- slide-break -->
 
 All that is a long way of saying that it is relatively safer for us to admire people whose spiritual maturity we can observe ourselves. We can do such with a good bit less wariness than that we probably ought to exercise in admiring the supposed spiritual maturity of historical believers whom others have put up on pedestals... even and perhaps especially if by "others" we mean "well, many Christians in our present lukewarm day." Even though it sounds really harsh, since in current times many Christians are not truly all that zealous about the hard work of spiritual growth and production (despite what they say with their lips; their lack of care towards the truth in how they organize their lives clearly and irrefutably puts the lie to their words), how likely is it that the people they think are excellent and praiseworthy are really the ones deserving of the most honor in God's eyes?
 
 See Matthew 19:30; Mark 10:31; Luke 13:30. In my estimation, the believers in eternity who will be most highly rewarded will *not* be the ones most people would guess, but the faithful few who work out God's Will tirelessly, seeking His glory rather than attention for themselves. Compare also Matthew 6:1-2. This idea of "being careful not to perform righteous acts before men to be seen by them" is precisely why you don't hear about them, and why they don't grace the pages of history books as much as the sort that lukewarm believers idolize. Because showing up on magazine covers or the historical equivalent—gaining recognition so that people know of you and say nice things about you—matters not one whit. Only doing the Will of God matters, doing the things He actually demands of us. And God's judgement on that Great Day of Days will make that incontrovertibly clear to all.
 
-<!-- --- -->
+<!-- slide-break -->
 
 I should close by stating that not all well-known believers of the past were necessarily trying to draw attention to themselves in a Pharisaical manner. Some people who seem great really were great, it is true. The point is that it is difficult to know for certain in a great many cases, and for that reason there are many people held up glowingly as examples that ought to instead be held at arms length more than is commonly the case. Our skepticism should only be stoked all the more by the fact that the truth is usually quite unpopular (since it demands so much from us), such that people whose teaching is beloved are commonly not teaching much truth, as a rule of thumb. And we ought not forget that.
 
 {{% /sidenote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The dangers in comparison; looking to others for inspiration is not really comparison {#drawing-inspiration-from-the-faith-of-others-the-dangers-in-comparison-looking-to-others-for-inspiration-is-not-really-comparison}
 
@@ -1583,21 +1583,21 @@ Nonetheless, it is oftentimes very tempting to compare ourselves to others. This
 
 This practice is dangerous for several reasons. First of all, our minds are entirely self-serving, and comparing ourselves to others tends to lead to legalism very quickly. It is easy to make the sins of others seem so much worse than one's own, to redraw the lines in a way that makes one seem relatively better and others relatively worse than what is accurate to reality.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Secondly, we humans are very poor at judging anything deeper than the surface level. The issue is, what God really cares about most of the time is the heart. It is true that the actions of spiritually mature people—their "spiritual fruit"---will shine forth their faith, but it ought to take only the tiniest bit of honest reflection to realize that it is simply impossible for human beings to really know the hearts of others in the way that would be necessary for us to make completely accurate assessments about "how well they are doing spiritually."
 
-<!-- --- -->
+<!-- slide-break -->
 
 Finally, comparing the skeletons in our closets tends to put the emphasis on the past, rather than focusing on the present. We can't change the past and we can't control the future, so the only day we should care about as Christians is the present. No matter if yesterday holds a long chain of spiritual victories or an unfortunate chain of spiritual defeats, either way, what we ought to be doing today *does not actually change one bit*. Think about that for a second. Our orders from our Commanding Officer will not wait on excuses of past failure. And if we let focus on the past get in the way, then we are failing as soldiers in the present!
 
-<!-- --- -->
+<!-- slide-break -->
 
 For all these reasons, and others besides, comparing ourselves to other Christians is not something that we ought to do as general practice. The natural question to ask then is if it is possible for us to look to the example of other Christians to find inspiration in our own walk without at the same time engaging in this sort of harmful comparison? While one might be able to make a longer argument, we shall here content ourselves with simply asserting that the two things are not identical—that is, that it is entirely possible for us to draw inspiration from our brothers and sisters in Christ without at the same time necessarily slipping into comparison of the problematic variety.
 
 Given that presupposition, well, who is it exactly we are looking to for spiritual inspiration? We can certainly look to those who came long before—like the folks mentioned in Hebrews 11---but we can also actually look to those around us in our own individual circumstances. We can marvel at the work God is doing through them, appreciate the glory their faith brings to God. We can try to make similar choices in our own lives to similarly reflect God's glory, try to also act in such a way that God is not ashamed to call us His people. And we can do all of this without slipping into comparison. It mostly just requires us to firmly keep in mind that we are all of us but tools in the hands of the Master Craftsman, and all glory thus belongs to Him, not ourselves.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Examples of Christians in our own lives who we might look to for inspiration {#drawing-inspiration-from-the-faith-of-others-examples-of-christians-in-our-own-lives-who-we-might-look-to-for-inspiration}
 
@@ -1613,11 +1613,11 @@ If we are going about the process of spiritual growth correctly, each of us shou
 
 Put simply, if we have done well in selecting our Bible teachers, they ought to be very natural people for us to be inspired by. Since trusting their character and spiritual knowledge is something that is all but mandatory anyway for us to be able to submit to them and trust what they say, then it ought to be no surprise that lay Christians commonly end up looking up to their Bible teachers. This is completely right and proper.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ####### Further discussion {#drawing-inspiration-from-the-faith-of-others-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Older mentor figures {#drawing-inspiration-from-the-faith-of-others-older-mentor-figures}
 
@@ -1633,11 +1633,11 @@ While age is no guarantee of maturity, with greater age comes greater potential.
 
 The trick then is finding the older folks who have *actually* lived lives worthy of emulation, who have made good use of their lives by putting God first and growing spiritually. Not so you can put them up on a pedestal and treat them as some sort of unattainable ideal, but so that you can learn from them—so that the body of Christ might properly build itself up in love.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ####### Further discussion {#drawing-inspiration-from-the-faith-of-others-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### The high outliers {#drawing-inspiration-from-the-faith-of-others-the-high-outliers}
 
@@ -1653,17 +1653,17 @@ Put simply, the hottest of the red-hot, no matter their age or relation to us, a
 
 And that really is all there is to it. Once we recognize, as we ought, that faith is honestly the only thing of importance—and exactly how hard it is to hold tightly onto faith in this world of ours—then in fact it ought to be easy for us to be inspired, even awed, by all those who run an exceptional spiritual race, regardless of everything else about them (like their age or social status or level of education and so on). These other things *simply aren't relevant* when it comes to appreciating the witness of their commitment to the Lord.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ####### Further discussion {#drawing-inspiration-from-the-faith-of-others-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Conclusions {#drawing-inspiration-from-the-faith-of-others-conclusions}
 
 Alongside the accounts of particularly faithful historical believers we have in scripture, like those mentioned in Hebrews 11, we can also look to Christians in our personal lives for inspiration. The example of these others can serve as a witness to us that the exercising of godly faith was not only something possible for believers of old, but is also something possible for us for us here in the present.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% /toggleable-content %}}
 
@@ -1740,7 +1740,7 @@ On this page, we will be examining the idea that our faith leads to certain outc
 
 #### Content {#what-we-believe-will-always-become-a-reality-if-and-only-if-we-target-our-faith-properly-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Not everything we ask for is a guarantee {#what-we-believe-will-always-become-a-reality-if-and-only-if-we-target-our-faith-properly-not-everything-we-ask-for-is-a-guarantee}
 
@@ -1756,7 +1756,7 @@ God will always do what is best for us spiritually (compare Romans 8:28-30), eve
 
 Where I'm going with this is not so much that we ought to pray that we might suffer or not pray that we might be delivered from it, but simply that we must make a point to not get angry at God if we pray to avoid suffering yet find ourselves being tested with it nonetheless. Because God knows so much better than we ever could what is truly best for us.
 
-<!-- --- -->
+<!-- slide-break -->
 
 What we are going to talk about now is basically when certain parties take the "whatever" of John 14:13, and start plugging in things that have no business being there. And then get mad at God because "we ought to have certain faith in God's promises, and God promised He would give us whatever we asked!"
 
@@ -1764,7 +1764,7 @@ Many people might here roll their eyes and remark that they would never engage i
 
 So, for example, we might become angry at God if a family member is sick and we pray for their healing but they die from their illness instead. Or perhaps we pray for continued employment to provide for our family in the midst of an economic recession, and yet we lose our jobs. We prayed these things in Jesus' name, did we not? So why did they not happen? Doesn't John 14:13 say that whatever we pray in the name of Jesus He will do for us? So what gives?
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The only things we can be certain of are God's promises as related in the Bible, not our own desires or even what others might call God's promises {#what-we-believe-will-always-become-a-reality-if-and-only-if-we-target-our-faith-properly-the-only-things-we-can-be-certain-of-are-gods-promises-as-related-in-the-bible-not-our-own-desires-or-even-what-others-might-call-gods-promises}
 
@@ -1782,7 +1782,7 @@ In broad strokes, God's promises are not individual things in our lives like spe
 
 Some of the hardest situations we may have to navigate in our lives are when we cannot see the reasons for something—like the death of a loved one, like war and disease and genocide. We might pray for specific outcomes relating to some of the horrors of the world, only to find ourselves still afflicted, not spared in the way we might wish.
 
-<!-- --- -->
+<!-- slide-break -->
 
 When we are tempted to bitterness in such times, it would do us well to remember that God does *not* in fact promise us blissful lives free from suffering and pain, even though some people falsely claim so. He promises us many things, but actually many of the things that people might think would be promises of God—things that they've heard others call promises of God, things that they *want* to be promises of God—many of these things are not in fact promises of the certain variety. And that can be a hard lesson for us.
 
@@ -1848,7 +1848,7 @@ People have an easy time understanding why Cain was punished after he murdered h
 
 #### Content {#why-was-abels-sacrifice-acceptable-even-praised-but-not-cains-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The passage in Genesis chapter 4 {#why-was-abels-sacrifice-acceptable-even-praised-but-not-cains-the-passage-in-genesis-chapter-4}
 
@@ -1874,17 +1874,17 @@ Abel took care of sheep. Cain worked the ground. **3** After some time, Cain gat
 
 {{% /ot %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Because we know that God is completely Just, we know that He cannot show favoritism simply because He likes offerings of livestock better than offerings of crops (cf. Deuteronomy 10:17; Job 34:19; Romans 2:11; Acts 10:34-35; etc.). Nor do I personally believe we have ground to stand on to say that this event had much of anything to do with raising livestock being inherently more godly than farming crops. On what basis? That's nonsense.
 
 The thing that makes the interpretation of this passage somewhat difficult is that the text itself does not explain much; it does not have a clear description of why God favored Abel's sacrifice but not Cain's, at least not directly.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Further discussion {#why-was-abels-sacrifice-acceptable-even-praised-but-not-cains-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### One possibility is that the only difference between the two was heart state {#why-was-abels-sacrifice-acceptable-even-praised-but-not-cains-one-possibility-is-that-the-only-difference-between-the-two-was-heart-state}
 
@@ -1902,7 +1902,7 @@ Do you think that God would be unjust in having a positive attitude towards the 
 
 Mapping this onto our passage, Abel would be like the first man, and Cain like the second.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The symbolism of blood sacrifice {#why-was-abels-sacrifice-acceptable-even-praised-but-not-cains-the-symbolism-of-blood-sacrifice}
 
@@ -1920,13 +1920,13 @@ However, I will make one additional point. From the Protoevangelium in Genesis 3
 
 [^1]: Figurative blood not literal blood is what is important salvifically: it was Christ taking the divine judgment for our sins upon His shoulders in our place that saves us, not His physical blood. See [here](https://ichthys.com/4A-Christo.htm#4._The_Blood_of_Christ:_) for more on this frequently used metaphor in scripture.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Hebrews 11:4 emphasizes Abel's faith. Quite simply, if the matter of sacrifices in Genesis 4 had just been something along the lines of "giving the first fruits of one's labor to the Lord," then there is little logical basis for why Abel's sacrifice would be marked out as a sign of special faith. It would be the right thing to do, sure, but would that alone make him "Hebrews-11-worthy" (so to speak), alongside the other heroes of the faith?
 
 Both the Genesis passage itself and reference to Abel's faith in Hebrews 11:4 make a great deal more sense if this sacrificing business was really all about acknowledging the fact that it is impossible for us to work our way into God's favor—if Abel's blood sacrifice here was acknowledgment on His part of God's Grace and Mercy. Abel was willing to submit himself to God, looking by faith towards God's eventual sacrifice for sin once for all, while Cain only focused on bragging to God about what he had done himself on his own effort.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Personally, this is how I take the passage in Genesis 4, although I do acknowledge it is somewhat of an inference. This is also the position that Ichthys takes:
 
@@ -1934,7 +1934,7 @@ Personally, this is how I take the passage in Genesis 4, although I do acknowled
 
 "Works" are things "we do for God". That whole mentality is sinful because God doesn't need anything from us (contrary to what pagan religion assumes: Acts 17:25). God doesn't need us – we need God. This principle is seen clearly in the example of Cain and Abel. Cain offered God some vegetables: "Look at what I did! And now I'm giving you some!" This whole attitude is abhorrent to the Lord because 1) He needs nothing from us so to assume He'll reward us for doing something He neither needs nor wants nor asked for is arrogant in the extreme; 2) To think that we can actually "reward God" so that He then "owes us something" (cf. Rom.4:4) is downright blasphemous; and 3) anything we could ever "do" in this life is only possible because God has given us the means to do it (cf. Deut.8:18; 1Chron.29:16).
 
-<!-- --- -->
+<!-- slide-break -->
 
 Faith, on the other hand, is the opposite of work. Faith is being willing to receive a gift. Faith is the completely non-meritorious function of our will. Faith is free-will exercised without effort or sweat. Faith is accepting God's authority, and, in the case of salvation, accepting God's free gift. The difference is profound. If we exert effort for salvation, we are earning it (if it could be earned, which it cannot); we deserve it – in that hypothetical, impossible case. But in fact there is nothing we could do in a thousand lifetimes if we devoted all of our waking efforts to the problem to remove the guilt of the smallest sin we have ever committed. Salvation cannot be earned. It cannot be worked for (efficaciously, at any rate). And trying to work for salvation is the most egregious insult to God the Father who judged all of our sins in His beloved Son so that we might not have to face such an impossible situation, and to God the Son who has born the guilt of all of our sins so that we might be saved in the only way it was possible to be saved: through non-meritorious faith, accepting Him as our Substitute. Abel understood and accepted what Cain would not have. His "offering" was a *symbolic representation* of what Christ would do – die for all sin to open the way for mankind's salvation. Abel's offering was not "work"; Abel's offering was "worship". When Christians "do" anything in a spiritual vein it is "good" because God has planned it and empowered it. Legitimate Christian "good works" follow salvation rather than preceding it and are done in the power of the Holy Spirit not in the power of the sinful flesh.
 
@@ -1944,7 +1944,7 @@ For it is by grace you have been saved, through faith—and this not from yourse
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Further discussion {#why-was-abels-sacrifice-acceptable-even-praised-but-not-cains-further-discussion}
 
@@ -2044,7 +2044,7 @@ This page will examine whether this destruction of the first set of tablets refl
 
 #### Content {#did-moses-do-wrong-in-throwing-the-first-set-of-tablets-in-exodus-32-19-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### A simple formulation of the question {#did-moses-do-wrong-in-throwing-the-first-set-of-tablets-in-exodus-32-19-a-simple-formulation-of-the-question}
 
@@ -2287,7 +2287,7 @@ This page, instead of focusing on those words, focuses on the writing: the writi
 
 #### Content {#what-is-going-on-in-exodus-34-27-28-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% technical-discussion %}}
 
@@ -2495,7 +2495,7 @@ God makes this proclamation right on the heels of the Israelite's sin regarding 
 
 #### Content {#reflections-upon-god-s-love-as-expressed-in-exodus-34-6-7a-in-the-context-of-the-exodus-generation-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Recall, some of the great things God had shown to this generation {#reflections-upon-god-s-love-as-expressed-in-exodus-34-6-7a-in-the-context-of-the-exodus-generation-recall-some-of-the-great-things-god-had-shown-to-this-generation}
 
@@ -2625,7 +2625,7 @@ This page will examine exactly what that means, in the context of Calvinism, pre
 
 #### Content {#who-are-the-people-the-father-gave-jesus-in-john-17-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Foreword: On Calvinism, predestination, and free will {#who-are-the-people-the-father-gave-jesus-in-john-17-foreword-on-calvinism-predestination-and-free-will}
 
@@ -2639,17 +2639,17 @@ In theology, the idea of salvation being all about God's choice (completely igno
 
 Even people in the Reformed camp (those actually themselves teaching double predestination) point out the irrationality of arguing for so-called single predestination, which only focuses on the saving bit. For example, [R.C. Sproul of Ligonier](https://www.ligonier.org/learn/articles/double-predestination-biblical). On that page, Sproul does also make the point that the traditional Reformed view of double predestination only makes the positive side irresistible (i.e., coerces man's will therein), not the negative. Put more simply, God is only the author of salvation; when human beings sin and choose unbelief, it is not because "God made them do it." Under Sproul's view, this makes God's actions "asymmetric"---God positively and actively intervenes in the lives of the elect to bring them to salvation, but does *not* positively and actively intervene in the lives of the reprobate to bring them to sin and unbelief.
 
-<!-- --- -->
+<!-- slide-break -->
 
 By way of contrast, those of us who do not believe in any form of arbitrary predestination at all (such as myself) *do* still believe that God is the one who brings the elect to salvation (on His power, and through the sacrifice of His Son on our behalf---*not* on account of our own works), but that our free will is in fact a critical component. Put succinctly, God chooses *all* who choose Him; His election of us specifically is conditional upon our individual choice.
 
 There is still "predestination" in this, the point is just that it isn't arbitrary, but conditional upon our choice. God is outside spacetime, and knows who will choose for Him before they even exist. These people—who both sides in the debate call "the elect" because scripture itself uses that language (cf. Matthew 24:24; Luke 18:7; Romans 8:33; Titus 1:1; etc.)---were known by God and worked into His plan from the very beginning. But they are not elect because God grabbed them by the coat and *made* them elect—as if by dragging them kicking and screaming—but they are elect simply because God foreknew their free will choice for Him.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Further discussion {#who-are-the-people-the-father-gave-jesus-in-john-17-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Believing in free will does not mean that we believe that we save ourselves {#who-are-the-people-the-father-gave-jesus-in-john-17-believing-in-free-will-does-not-mean-that-we-believe-that-we-save-ourselves}
 
@@ -2663,7 +2663,7 @@ A straw man that some Reformed folks might throw up is something like "But you a
 
 First of all, we only have free will (the very image of God, cf. Genesis 1:27) because *God* gave it to us; the ability to have a will and to choose is what makes us "godlike", and distinct from the animals. So if we only have the ability to choose because God created us as possessing the ability to choose (not due to any action on our part), how then can we be said to save ourselves, when our very salvation is contingent upon this ability to choose?
 
-<!-- --- -->
+<!-- slide-break -->
 
 Secondly, we would not even know of our need to turn to God if He did not make it clear through natural revelation (compare Psalm 19 and Romans 1)---if He did not first call all of us to Him. If the testimony and warnings of natural revelation are like signs warning of a washed-out road ahead, then we only turn back because *God* put up those signs. Otherwise all of us would simply rush headlong into our doom, none the wiser. This too is worked entirely by God's hands, not our own.
 
@@ -2671,11 +2671,11 @@ Thirdly, even if we want to heed the signs, we still have need of instruction in
 
 Finally—and most importantly—we cannot actually solve even the tiniest bit of the dilemma on our own power. We are not lambs without blemish; we are not even qualified to pay for our own sin, since we are unworthy sacrifices! Because of this helplessness, 100% of the "payment" for our salvation comes from God, not ourselves. This means we are only saved because *God* did absolutely everything needed for us to be saved (that was the cross, upon which Jesus paid for the sins of "the world" = of everyone who ever has or ever will live—compare John 1:29; John 3:16-17; 1 John 2:2; 1 John 4:14; and also see Romans 3:25-26 for more on the idea of pre-cross sins still being paid for through the blood of Christ, but just "on credit").
 
-<!-- --- -->
+<!-- slide-break -->
 
 So no, believing in free will does *not* mean we believe we save ourselves. Not in the least. Our non-meritorious faith does not bring about our own salvation on its own. It is merely us choosing to grasp the rope that God has thrown down into the pit to save us, instead of stubbornly refusing to grab ahold of it due to the fact that it is God on the other side of that rope.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### The family of God in eternity will be self-selected {#who-are-the-people-the-father-gave-jesus-in-john-17-the-family-of-god-in-eternity-will-be-self-selected}
 
@@ -2690,7 +2690,7 @@ God reaches out to *all* and calls *all* to believe, not only those whom He fore
 
 And so it is that the family of God in eternity will be self-selected, a group of people who esteemed God over the world, who *chose* to love Him despite the fact that doing such earns us the world's hatred and a life of suffering for His glory.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### So... back to those the Father "gave" Jesus in John 17 {#who-are-the-people-the-father-gave-jesus-in-john-17-so-back-to-those-the-father-gave-jesus-in-john-17}
 
@@ -2706,7 +2706,7 @@ Maybe that preamble seemed overly long and a bit irrelevant, but it was all so I
 
 That really is all there is to it, no Calvinism necessary. This concept works with human free will just fine, it just requires one to acknowledge God's foreknowledge, exactly as the Bible itself does.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Eisegesis, exegesis, and Calvinists {#who-are-the-people-the-father-gave-jesus-in-john-17-eisegesis-exegesis-and-calvinists}
 
@@ -2723,7 +2723,7 @@ Put simply, when we interpret, we must always focus on what the text actually sa
 
 And this is where certain Calvinists fail here. If you presuppose double predestination, nothing will inherently stop you from interpreting those God gives to Christ here as people God has arbitrarily chosen to give eternal life to. It is textually allowable; it does not engender a logical contradiction to interpret that way in this particular passage.
 
-<!-- --- -->
+<!-- slide-break -->
 
 The point is, it is *also* textually allowable here to take the elect given to Christ as those God has foreknown as believing based upon their own free will choice. And that is exactly why using this passage as "proof" of double predestination is complete nonsense. (To be clear, this particular passage also *cannot* be used as proof for my position either, as both interpretations work fine textually in this specific place). For either side, if you use this passage in John 17 as a proof text, you are assuming the very position you say you are proving!
 
@@ -2731,7 +2731,7 @@ This split holds absolutely everywhere. Consider John 3:16, a very famous verse 
 
 Here's the thing though: no matter how many verses you look at (interpreting scripture with scripture, as we are supposed to—that is essentially the cornerstone of hermeneutics), you will not find *any* that directly teach double predestination, the idea that God arbitrarily chooses some people but not others. There are a number of places in scripture that can be made to "work" with such an idea—such as the one we have just gone over above—but none of them actually logically mandate the position, leaving it only ever as a complete assumption.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Now, I would be a hypocrite if I didn't here provide some direct scriptural evidence for the opposing position I'm putting forward, yes? Turnabout being fair play and all that. Well, what about Romans 8:29-30?
 
@@ -2741,13 +2741,13 @@ Now, I would be a hypocrite if I didn't here provide some direct scriptural evid
 
 It is my opinion that Romans 8:29 is plenty clear about what is going on here. Calvinists still disagree (pointing out, for example, that the verse says just "those God foreknew" and not "those God foreknew [as believing in Jesus Christ of their own free will]"), but one reaches a point where the burden of proof falls squarely upon those who object to what is by far the most straightforward way to take the text. That is to say, I have never come across a single convincing explanation for what sense it makes for "foreknew" to be in this progression of "foreknew, predestined, called, justified, glorified" if those God would foreknow are the very ones He Himself arbitrarily predestined. If He's the one doing the predestining, then what reason would He have for foreknowing before predestining? Since human free will wouldn't matter anyway, there would be nothing to foreknow.
 
-<!-- --- -->
+<!-- slide-break -->
 
 The straightforward reading of this passage logic-wise is that God predestines all those whom He *previously* foreknows (i.e., He foreknows before He then predestines, in the sense of "first this... then this... then this"). The logical causality is clearly in that direction; that is, the predestining does not come logically first (as the Calvinist position would require), but logically second. Just as God calls (in a salvific sense here—contrast the fact God does actually "call" the entire world in the sense of natural revelation) all those He predestines, justifies all those He calls, and glorifies all those He justifies.
 
 *This* is therefore the passage, in my opinion, that one ought to base one's rejection of double predestination on, not John 17. Because while both positions might work relatively OK in John 17 textually, only one works acceptably here in Romans 8:29-30. Otherwise, we read our assumptions into the Bible when interpreting, and fall into *eisegesis* rather than *exegesis*.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Further discussion {#who-are-the-people-the-father-gave-jesus-in-john-17-further-discussion}
 
@@ -2860,7 +2860,7 @@ Instead, we ought to aspire to have the peace and confidence that comes from int
 
 #### Content {#on-seeking-the-things-above-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The answer is always focusing on spiritual things. *Always* {#on-seeking-the-things-above-the-answer-is-always-focusing-on-spiritual-things-always}
 
@@ -2880,13 +2880,13 @@ Have worries about finances and making ends meet? *Think on the things above*.
 
 Relationships (family, friendships, marriage, dating) going poorly, even falling apart? *Think on the things above*.
 
-<!-- --- -->
+<!-- slide-break -->
 
 It is hard---*so* hard—to do this as we truly ought. Things will go wrong, even spectacularly so. They always will. But that doesn't matter. Why should it bother us? What is this life, that it should so capture our attention? It is but a single drop of water compared to the endless oceans of eternity. How small is our faith if we don't trust that the Creator and Sustainer of the Universe can handle our problems! Are they really such great matters for an Infinite God, One who is Omniscient and Omnipotent?
 
 Colossians 3:1-2 is not so very difficult to understand conceptually, but you will very quickly find out how hard it it in practice to keep one's mind always focused on the spiritual. The sin nature within our flesh and Satan's world system will together always try to steer us away from the spiritual focus we ought to continuously maintain, but we *can* fight them... if only we trust God enough to lean on His strength in our fight, rather than trying to go it alone.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### What are the things above? {#on-seeking-the-things-above-what-are-the-things-above}
 
@@ -2902,7 +2902,7 @@ Spiritual things. The Bible—God's written word—and in-depth Bible teaching c
 
 We know what these things are. It is no trick question.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### We have duties, it is true. But priorities are priorities {#on-seeking-the-things-above-we-have-duties-it-is-true-but-priorities-are-priorities}
 
@@ -2916,7 +2916,7 @@ ptags="Luke 10:38-42"
 
 Consider this passage from Luke 10:
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% nt t="esv" p="Luke 10:38-42" h="400px" %}}
 
@@ -2931,7 +2931,7 @@ Mary sat at the Lord’s feet listening to what he said. **40** But Martha was b
 
 {{% /nt %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 It is probably really easy for us to sympathize with Martha in this passage, especially if we consider ourselves "the responsible sort."
 
@@ -2939,11 +2939,11 @@ But if what we are about is not truly "Kingdom business," how urgent is it reall
 
 So yes, we must provide for our families (1 Timothy 5:8), we must work to support ourselves so as not to be a burden to others (2 Thessalonians 3:6-10), and so on. But in truth there are very few things that ought to take us away from the feet of Jesus, out of His Word and His Truth. Don't be like Martha and worry about the things of the world, but be like Mary and choose the better part that comes from focusing single-mindedly upon spiritual truth, and the One who gives it to us.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Further discussion {#on-seeking-the-things-above-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### God will provide, if we put our focus in the right place {#on-seeking-the-things-above-god-will-provide-if-we-put-our-focus-in-the-right-place}
 
@@ -2957,7 +2957,7 @@ ptags="Matthew 6:25-34"
 
 Consider this passage as well, this time from Matthew 6:
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% nt t="esv" p="Matthew 6:25-34" h="600px" %}}
 
@@ -2979,15 +2979,15 @@ Consider this passage as well, this time from Matthew 6:
 
 {{% /nt %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 What use does worrying about worldly things get us if when we "seek first His kingdom and His righteousness" all of our legitimate needs will be given to us? For that is what God promises here. *That* is why we need not worry about tomorrow.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Further discussion {#on-seeking-the-things-above-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### So we should err *far* on the side of over-prioritizing spiritual things in our lives {#on-seeking-the-things-above-so-we-should-err-far-on-the-side-of-over-prioritizing-spiritual-things-in-our-lives}
 
@@ -3001,13 +3001,13 @@ As mentioned briefly above, there are some common-sense lines we cannot cross, s
 
 But Luke 10:38-42 and Matthew 6:25-34 definitely show that the single-minded focus on "things above" that Colossians 3 commands is really that: single-minded. We cannot properly sit at the feet of Jesus and give ourselves over towards His Truth if we let our hearts be split by worldly worries—even things that are far from bad or sinful. It's just that everything in this ephemeral world weighs in as completely inconsequential compared to eternal spiritual realities. We need to be pleased to put God and His Truth first in our lives—making that our primary focus—and hand over the reigns to Him in absolutely everything else.
 
-<!-- --- -->
+<!-- slide-break -->
 
 We may not get everything we *want* when we do this, when we completely hand control over to God, but the Bible is clear that we will get all we truly *need*. And in exchange, we will gain ever so much more on the spiritual front. For the least spiritual reward that is eternal will be worth more than all the wealth in this present world that is passing away. That is the calculus that we should always strive to keep within our minds.
 
 And that is precisely why we should always set our hearts on things above.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Further discussion {#on-seeking-the-things-above-further-discussion}
 

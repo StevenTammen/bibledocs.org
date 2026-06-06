@@ -40,7 +40,7 @@ There are certain areas of application in the Christian walk that almost all peo
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Q: I don't agree with what my parents want for me. Do I need to do exactly what they say? {#q-i-don-t-agree-with-what-my-parents-want-for-me-do-i-need-to-do-exactly-what-they-say}
 
@@ -96,7 +96,7 @@ The eye that mocks a father, that scorns obedience to a mother, will be pecked o
 
 {{% /ot %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% nt t="esv" h="300px" p="Ephesians 6:1-3" %}}
 
@@ -110,13 +110,13 @@ The eye that mocks a father, that scorns obedience to a mother, will be pecked o
 
 {{% /nt %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 The Bible is very clear about the importance of giving our parents the respect they are due. It is never presented as "optional" or "just when we feel like it and it suits our purposes."
 
 Under the Law, arrogant disobedience of one's parents was grounds for execution (the people of Israel, as God's nation, were called out for exemplary conduct as bearers of an unattainably perfect standard).
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% ot t="esv" h="600px" p="Leviticus 20:9 | Deuteronomy 21:18-21" %}}
 
@@ -140,7 +140,7 @@ If anyone calls down a curse on his father or mother, he will be put to death. H
 
 {{% /ot %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Some direct quotes from scripture: obeying parents {#some-direct-quotes-from-scripture-obeying-parents}
 

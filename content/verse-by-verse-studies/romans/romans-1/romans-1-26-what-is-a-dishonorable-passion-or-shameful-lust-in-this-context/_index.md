@@ -34,7 +34,7 @@ In Romans 1:26, the "dishonorable passion" or "shameful lust" that is spoken of 
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 In context here, the "shameful lusts" that God gave these people over to, these people who "neither glorified Him as God nor gave thanks to Him" (Romans 1:21), were:
 

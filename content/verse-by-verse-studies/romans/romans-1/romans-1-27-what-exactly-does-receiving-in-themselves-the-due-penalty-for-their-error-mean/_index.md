@@ -34,7 +34,7 @@ The text in Romans 1:27 ("receiving in themselves the due penalty for their erro
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The interpretive challenge: identifying the specific referents for the error and the penalty {#the-interpretive-challenge-identifying-the-specific-referents-for-the-error-and-the-penalty}
 

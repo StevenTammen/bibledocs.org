@@ -32,7 +32,7 @@ This page, instead of focusing on those words, focuses on the writing: the writi
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% technical-discussion %}}
 

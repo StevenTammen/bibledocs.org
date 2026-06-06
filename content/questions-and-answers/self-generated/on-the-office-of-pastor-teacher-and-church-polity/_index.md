@@ -37,7 +37,7 @@ This lesson goes over the responsibilities pastor-teachers have in the Church --
 
 ### Content {#overview-of-the-office-of-pastor-teacher-in-the-church-and-how-church-polity-needs-to-be-flexible-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Q: What exactly is the role of an "elder" or "pastor" in the Church? {#overview-of-the-office-of-pastor-teacher-in-the-church-and-how-church-polity-needs-to-be-flexible-q-what-exactly-is-the-role-of-an-elder-or-pastor-in-the-church}
 
@@ -174,7 +174,7 @@ In this lesson we examine in more detail a couple of the requirements for elders
 
 ### Content {#do-elders-need-to-be-physically-old-do-they-need-to-be-married-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Q: Do elders need to be, well, elderly? Do they need to be married? {#do-elders-need-to-be-physically-old-do-they-need-to-be-married-q-do-elders-need-to-be-well-elderly-do-they-need-to-be-married}
 
@@ -291,7 +291,7 @@ In this lesson we go over some specifics in a bit more detail, and also briefly 
 
 ### Content {#additional-clarification-and-other-offices-in-the-church-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Q: Am I understanding everything correctly? What about other offices in the Church? {#additional-clarification-and-other-offices-in-the-church-q-am-i-understanding-everything-correctly-what-about-other-offices-in-the-church}
 

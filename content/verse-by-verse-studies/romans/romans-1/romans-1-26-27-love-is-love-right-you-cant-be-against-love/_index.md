@@ -34,7 +34,7 @@ Greek has multiple words for "love." The fact that God clearly supports "love" (
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 The Bible says God is love (1 John 4:8). How then can God be against the love between two men and two women, if they "really love each other?"
 

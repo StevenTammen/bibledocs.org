@@ -36,7 +36,7 @@ The parable of the talents and the parable of the minas both clearly teach that 
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Introduction {#introduction}
 
@@ -44,7 +44,7 @@ These two parables clearly teach that the level of our reward in eternity is dep
 
 The two parables are not exactly identical, but they do both teach this general principle.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The parable of the talents {#the-parable-of-the-talents}
 
@@ -85,7 +85,7 @@ The two parables are not exactly identical, but they do both teach this general 
 
 {{% /nt %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% sidenote %}}
 
@@ -99,7 +99,7 @@ The NIrV, a Bible version intentionally written at low level of writing (somewhe
 
 Here, this is done in an attempt to make the passage mean more for children who do not know what a talent is as an ancient unit of currency. It is actually not as simple as one might think to explain different currencies and measures in antiquity, especially to younger children. So choosing a dollar amount is not a translation choice completely without merit.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### But there are dangers {#but-there-are-dangers}
 
@@ -109,7 +109,7 @@ However, there are certainly dangers too. For example, figuring out exactly how 
 The metrology of the Near East during the Greek and Roman periods is still poorly understood. Coins bring additional evidence but complicate matters enormously because we do not have the evidence to control either the effect of prices or politics.
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Conclusions {#conclusions}
 
@@ -119,7 +119,7 @@ The point of all this discussion is not necessarily to condemn translations that
 
 {{% /sidenote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The parable of the minas {#the-parable-of-the-minas}
 
@@ -158,7 +158,7 @@ The point of all this discussion is not necessarily to condemn translations that
 
 {{% /nt %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Interpreting the parable of the talents and the parable of the minas {#interpreting-the-parable-of-the-talents-and-the-parable-of-the-minas}
 
@@ -174,7 +174,7 @@ While these two parables are not identical in all the particulars, they teach mo
 - In both these parables, the going away of the master represents Christ's ascension to be with the Father in heaven. We can no longer see Christ directly just like the servants in the passage cannot see their master, as he is far away. The return of the master represents the second advent of Christ (his *parousia*, Gk. [παρουσία](https://biblehub.com/greek/3952.htm)).
 - In both these parables, the rewards given to the servants after the master's return represent the rewards that will be bestowed upon believers after Christ's second advent in the judgement and reward of the Church.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Conclusion {#conclusion}
 
@@ -184,7 +184,7 @@ We should take care to not get arrogant and think to ourselves that we deserve s
 
 If (only by leaning on God's power, not ourselves) we accomplish that which he commanded us to do, rather than getting a swelled head and feeling that we are most special, we should instead humbly bow our heads and acknowledge that we have just done that which we ought as servants (Luke 17:10). What is praiseworthy in rendering to our Master that which is His right to demand? (And imperfectly at that, for no matter how hard we try, we are bound to present to him only the crudest works, like unskilled children proudly holding up rags while not even knowing that they ought to instead feel shame).
 
-<!-- --- -->
+<!-- slide-break -->
 
 In reward for the (proportionally) small matter of doubling ten minas, ours is a God who puts men in charge of ten cities. His grace is positively scandalous. Who are we to rule ten cities?
 

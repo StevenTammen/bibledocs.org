@@ -38,7 +38,7 @@ So sudden will be the coming of the Son of Man that it will catch those who do n
 
 ### Content {#1-thessalonians-5-1-3-unbelievers-will-not-escape-the-coming-wrath-of-god-but-it-will-come-upon-them-suddenly-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 1 Thessalonians 5:1-3 is not the only place in scripture where we hear about the sudden destruction of those who refuse to follow God (and therefore the path of true righteousness). For example:
 
@@ -51,7 +51,7 @@ There are also other passages of formal prophecy (rather than just general princ
 - Isaiah 47
 - Lamentations 4
 
-<!-- --- -->
+<!-- slide-break -->
 
 Isaiah 47 deals with the destruction of so-called "Mystery Babylon", a powerful nation in Revelation drunk on its own prosperity. (Cf. also Revelation 17). It will be utterly destroyed in judgement, even though people will think it too big to fall.
 
@@ -107,7 +107,7 @@ In 1 Thessalonians 5:4-11, Paul exhorts us to be awake and sober, for we are not
 
 ### Content {#1-thessalonians-5-4-11-we-are-children-of-the-light-so-unlike-others-should-stay-awake-and-sober-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### On the need for watchfulness, and its relation to the end times {#1-thessalonians-5-4-11-we-are-children-of-the-light-so-unlike-others-should-stay-awake-and-sober-on-the-need-for-watchfulness-and-its-relation-to-the-end-times}
 
@@ -248,7 +248,7 @@ Just like we are called to respect our parents and respect government authority,
 
 ### Content {#1-thessalonians-5-12-13a-respecting-pastor-teachers-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Introduction {#1-thessalonians-5-12-13a-respecting-pastor-teachers-introduction}
 
@@ -331,7 +331,7 @@ This page goes into detail about these matters.
 
 ### Content {#1-thessalonians-5-13b-14-how-ought-we-relate-to-different-groups-of-people-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Introduction {#1-thessalonians-5-13b-14-how-ought-we-relate-to-different-groups-of-people-introduction}
 
@@ -451,7 +451,7 @@ Rather than personally seeking vengeance upon those who wrong us, we are to pay 
 
 ### Content {#1-thessalonians-5-15-returning-good-for-evil-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Introduction {#1-thessalonians-5-15-returning-good-for-evil-introduction}
 

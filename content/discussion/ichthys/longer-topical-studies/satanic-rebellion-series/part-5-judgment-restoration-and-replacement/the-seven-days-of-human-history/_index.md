@@ -35,7 +35,7 @@ The seven days of re-creation start the process of God's judgment upon evil and 
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Audio clip from Ichthys {#audio-clip-from-ichthys}
 
@@ -48,17 +48,17 @@ srcend="15:11"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
 When God restored the heavens and the earth to habitable form, He did so in six literal days, leaving the seventh as a day of rest to memorialize the principle of peace and rest available to all who trust in Him. These seven days of the earth's re-creation began the process of God's judgment upon evil, His restoration of the universe, and His replacement of Satan. As we saw in [section I](https://ichthys.com/Satans-Rebellion-Part5.htm#I.%20Judgment,%20Restoration%20and%20Replacement%20I:%20Positional%20Victory%20%28Progeny%20and%20Promise%29) above, following His divine *judgment* upon the heavens and the earth in response to Satan's rebellion, God *restored* the earth and set the stage for the *replacement* of Satan and his followers with Adam and his progeny. Though the devil thought to disrupt this prospect through his temptation of Adam and Eve, the fall of mankind merely set in motion the grand Plan of God for human history, a design which pivots around the incarnation and sacrifice of Jesus Christ, and which will culminate in the ultimate replacement of the devil and his followers at history's end.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Besides marking the first phase of judgment, restoration and replacement, these first seven literal days were also symbolic of the entire course of human history that was to come. For the seven days of re-creation correspond to the seven millennia of human history, a definite period of time ordained by God before the foundation of the world within which mankind would be saved by the gift of Christ and within which all things would be judged, restored and replaced. As we have seen above, different conditions prevail in different periods, both from the standpoint of God's provision of grace and from the point of view of Satan's method of attack. Just as the restoration of what was destroyed in heaven and on earth in the wake of God's original judgment upon the devil and his followers was replaced in phases during seven literal days, so throughout the course of the seven millennia of human history God is phasing in replacements for Satan and the fallen angels, demonstrating in the process His multifarious grace to believers regardless of the vastly different circumstances under which they are called out:
 
-<!-- --- -->
+<!-- slide-break -->
 
 **Days 1 and 2: The Gentiles:** (ca. 4065-2065 B.C.)
 
@@ -74,7 +74,7 @@ b. <u>The Division of the Nations</u>:
 
 *Challenge to believers*: To maintain and develop faith in God in the face of unprecedented satanic attacks (i.e., the genetic dilution of Genesis chapter six, and Satan's post-flood attempt to establish one-world government).
 
-<!-- --- -->
+<!-- slide-break -->
 
 **Days 3 and 4: Israel:** (ca. 2065-2 B.C.) [the 70 years of the Babylonian captivity excepted; the seven years of the Tribulation still future]
 
@@ -90,7 +90,7 @@ d. <u>The Kingdom of Israel</u>:
 
 *Challenge to believers*: To maintain and develop faith in God as members (or associates) of His unique nation Israel (the central point of satanic opposition) in the midst of a world of devil-worshipping nations.
 
-<!-- --- -->
+<!-- slide-break -->
 
 **Days 5 and 6: The Church:** (ca. 33-2033 A.D.)
 
@@ -106,7 +106,7 @@ f. <u>Decentralized Christianity</u>:
 
 *Challenge to believers*: To maintain and develop faith in God in the face of mounting attacks on the truth from all quarters (religious, social, economic and political), culminating in the most intense period of pressure and opposition in human history, the Tribulation.
 
-<!-- --- -->
+<!-- slide-break -->
 
 **Day 7: The Kingdom of God (the Sabbath Day):** (ca. 2033-3033 A.D.)
 
@@ -118,7 +118,7 @@ g. <u>The Millennium</u>:
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Summary points {#summary-points}
 
@@ -130,7 +130,7 @@ As we covered previously in this study, the seven days of the earth's re-creatio
 
 Satan's attacks on God's plan (such as tempting Adam and Eve) cannot shake God's plan to replace Satan and his followers. The fall of mankind just set in motion God's Perfect Plan to redeem humanity through the incarnation and sacrifice of Jesus Christ.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Besides marking the first phase of judgment, restoration and replacement, these first seven literal days were also symbolic of the entire course of human history that was to come:
 
@@ -141,7 +141,7 @@ Besides marking the first phase of judgment, restoration and replacement, these 
 
 And so it is that the different days of re-creation map onto periods of human history:
 
-<!-- --- -->
+<!-- slide-break -->
 
 | **Wider division**                   | **Day** | **Description**               | **Time frame**                                                     | **Challenge to believers**                                                                                                                                                                                                                            |
 |--------------------------------------|---------|-------------------------------|--------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -153,11 +153,11 @@ And so it is that the different days of re-creation map onto periods of human hi
 | The Church                           | 6       | Decentralized Christianity    | From circa the schism of the Church to the Second Advent of Christ | To maintain and develop faith in God in the face of mounting attacks on the truth from all quarters (religious, social, economic and political), culminating in the most intense period of pressure and opposition in human history, the Tribulation. |
 | The Kingdom of God (the Sabbath Day) | 7       | The Millennium                | From the Second Advent of Christ to the Gog-Magog Rebellion        | To maintain and develop faith in God while transitioning from the devil's world to Christ's perfect rule over mankind (sinful human beings facing the ultimate prosperity test).                                                                      |
 
-<!-- --- -->
+<!-- slide-break -->
 
 Note that in the chronology, with respect to Israel, the 70 years of the Babylonian captivity are excepted in the year count, and the seven years of the Tribulation are still future in the year count.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Follow-on topics {#follow-on-topics}
 
@@ -165,17 +165,17 @@ I've mentioned before that as I see things, whatever you think of the first six 
 
 This poses no issue since this is the one division of the seven that is most obvious from scripture, as far as I see things. In fact, I would go so far as to say that if you don't teach some version of the seven millennial days, you are missing some clear hints in the Bible. We'll get into the specifics of the evidence more in the videos immediately following this one, but in my eyes, the one initial thing that always most clearly stands out is the Millennium (the last 1,000 years of human history) being parallel to God's seventh day of rest. If you can buy the clear correspondence there, then the rest of the days become not a matter of "if", but a matter of "how".
 
-<!-- --- -->
+<!-- slide-break -->
 
 Critics might label what I just termed "the rest" as nothing but confirmation bias = cherry-picking evidence to support a predetermined conclusion. As I see it though, it is a methodical process of taking into account the wealth of chronological information the Bible has, and showing how it precisely fits into the predicted structure.
 
 Don't get me wrong, there is still some faith involved here, and there always will be. But in my opinion, there are far, far too many coincidences for there not to be anything here. And so I would encourage anyone harboring skepticism to try to keep an open mind as we discuss the concept of the seven millennial days. As we shall see, the evidence is all there, if you are willing to look for it. But it doesn't work if you *assume* upfront that God having a definite chronological plan for human history is black and white impossible.
 
-<!-- --- -->
+<!-- slide-break -->
 
 For whatever reason, many people seem to have "issues" with that as a possible position. My best guess is because there have been many, many false teachers throughout history who have tied themselves to dates that ultimately proved to be false. And fair enough. But as we'll go over, no matter what you ultimately think of it, the teaching of the seven millennial days is definitely more biblical interpretation than fanciful conspiracy theory. Can biblical interpretations ultimately be wrong? Sure they can. But the point is that they are most certainly *not* in the same category as the "out there" teachings that people often think of when it comes to predictions about the end of the world.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Further discussion {#further-discussion}
 

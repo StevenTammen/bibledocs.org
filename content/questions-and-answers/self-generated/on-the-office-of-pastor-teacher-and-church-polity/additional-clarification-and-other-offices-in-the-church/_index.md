@@ -32,7 +32,7 @@ In this lesson we go over some specifics in a bit more detail, and also briefly 
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Q: Am I understanding everything correctly? What about other offices in the Church? {#q-am-i-understanding-everything-correctly-what-about-other-offices-in-the-church}
 

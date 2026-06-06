@@ -48,7 +48,7 @@ This page goes into detail about these matters.
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Introduction {#introduction}
 

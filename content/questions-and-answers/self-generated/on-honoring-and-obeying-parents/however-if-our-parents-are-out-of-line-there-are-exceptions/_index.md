@@ -36,7 +36,7 @@ The first lesson in this series made a strong case from scripture that we need t
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Things that go against our spiritual responsibilities as Christians (including failing to obey the government) {#things-that-go-against-our-spiritual-responsibilities-as-christians-including-failing-to-obey-the-government}
 
@@ -44,7 +44,7 @@ If your parents tell you to do something that goes against our spiritual respons
 
 Incidentally, those verses about government obedience above also give rise to a second exception: because we are called to follow the law as Christians, if our parents order us to do something illegal (and it is not something analogous to praying in Daniel's situation, as above), then we should obviously not obey them.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Abuse {#abuse}
 
@@ -60,7 +60,7 @@ To use an analogy, anybody who has beaten us to the point of hospitalization is 
 
 Some people are best loved from a distance. Perhaps even with a restraining order or two between us and them.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% sidenote %}}
 
@@ -74,7 +74,7 @@ The above holds true not just for children, but also for women who are victims o
 
 My counsel for all women who are victims of domestic abuse is to make every effort to leave (heads high -- the shameful behavior of their abusive husbands is not their fault in any way) so as to protect themselves and any children in the equation.
 
-<!-- --- -->
+<!-- slide-break -->
 
 In such situations, women have *every* right to divorce and leave (...duh). Just because continued marriage would be ideal does not mean it is mandatory, and it is especially reprehensible to force such a position upon women who already have to deal with abuse from the very people that are supposed to love and cherish them. It's not *them* who are causing the marriage to fall apart, after all. They are the victims here.
 
@@ -84,7 +84,7 @@ Matthew 18:6 comes to mind -- such gross and hypocritical legalism, especially c
 
 {{% /sidenote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### God is the one who decides what abuse is {#god-is-the-one-who-decides-what-abuse-is}
 
@@ -94,7 +94,7 @@ In other words, teenagers do not get to selectively disobey rules their parents 
 
 Not everything is so cut-and-dry as this though. There certainly are parents out there who emotionally damage their children and undercut their self-confidence to such a degree that it is absolutely abuse -- even if it doesn't leave physical bruises.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Should we step in if people aren't parenting how we would? {#should-we-step-in-if-people-aren-t-parenting-how-we-would}
 
@@ -106,7 +106,7 @@ As long as what we perceive does not seem to cross the lines of actual abuse (i.
 
 According to scripture, we are not to be meddlesome busybodies.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Moreover, there are plenty of factors that make getting a true "read" of situations difficult:
 

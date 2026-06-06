@@ -47,7 +47,7 @@ This cycle I mostly focused on completing a large chunk of the development effor
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Foreword: things I did not do, despite some of my prior plans {#foreword-things-i-did-not-do-despite-some-of-my-prior-plans}
 
@@ -61,7 +61,7 @@ Well, time flew by, and it has been a while again. I should say upfront I did ra
 
 So that's a list of things I didn't do, even though I had been thinking these things were where I was going to turn next, as of a few months ago.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### So what *did* I actually do? {#so-what-did-i-actually-do}
 
@@ -71,7 +71,7 @@ Here's a high-level overview of some of the tasks I focused on:
 - When I got a series of questions (about sleep as a metaphor for death, resuscitation, the afterlife, etc.) from a friend, I made a series of in-depth videos to answer the questions. This turned into a four-part series, with ballpark four hours of pretty dense recorded content.
 - Since MailChimp deprecated TinyLetter (the mailing list service I'd been using on [BibleDocs](https://www.bibledocs.org/), and also had set up for Jordan's ministry site [BibleDriven](https://www.bibledriven.org/)), I had to switch both of us over to a different mailing list service. I decided to go with [Buttondown](https://buttondown.email/). This took some work.
 
-<!-- --- -->
+<!-- slide-break -->
 
 I also coded. *A lot*.
 
@@ -83,7 +83,7 @@ I also coded. *A lot*.
 
 I'm not going to go over absolutely all of these coding-relating things in further depth in this video, but I will talk somewhat more about the general video processing steps, as well as page-internal timestamps, since I can sort of demo those visually, and they are probably the most important things of the lot.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Why did things turn out delayed this way? Mostly because I wanted to finish the bulk of the video processing automation before I processed all the videos {#why-did-things-turn-out-delayed-this-way-mostly-because-i-wanted-to-finish-the-bulk-of-the-video-processing-automation-before-i-processed-all-the-videos}
 
@@ -96,7 +96,7 @@ Even as it is now, it is not perfect. I'll talk more about a couple planned impr
 
 And across the many, many hours of video content we've recorded for BB1, having these things automated will save me a massive amount of time. That's why I chose to wait until I had all the automation more in place before doing the BB1 videos.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### A brief overview of the video processing workflow {#a-brief-overview-of-the-video-processing-workflow}
 
@@ -111,7 +111,7 @@ I will be going over a few concepts:
 
 The short version is that all of this together automates a lot of the video processing steps that would otherwise be tedious and time-consuming (not to mention more error-prone) to do by hand.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### What the output videos look like on YouTube/the website {#what-the-output-videos-look-like-on-youtube-the-website}
 
@@ -119,7 +119,7 @@ The big things to note are the clean title-slide transitions between topics, and
 
 Seeing it all in action will help make it a lot more obvious what I am talking about, so I'll just demo the main functionality in the ministry progress video here.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Page-internal timestamps and the YouTube Iframe API {#page-internal-timestamps-and-the-youtube-iframe-api}
 
@@ -129,7 +129,7 @@ One thing that is very useful that is now better supported is being able to full
 
 Seeing it all in action will help make it a lot more obvious what I am talking about, so I'll just demo the main functionality in the ministry progress video here.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### So now that all of that is set up, releases will be more consistent. I promise {#so-now-that-all-of-that-is-set-up-releases-will-be-more-consistent-i-promise}
 
@@ -137,7 +137,7 @@ I just very recently finished getting everything just discussed set up, and deci
 
 I'm planning to release at least a couple videos a week for the next few weeks, until I run out of ready content. If you aren't already subscribed to [the YouTube channel](https://www.youtube.com/channel/UCFk7khraAKf68DZ5GeYEFIw), you might consider doing that, since from here on out, there ought to be more consistent new video content.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Upcoming plans {#upcoming-plans}
 
@@ -145,7 +145,7 @@ First of all, I'm going to be working on getting the full backlog of ready video
 
 In our BB1 study, we are still talking about the Trinity, but are now in the last section of the study, going over Christophanies in the Old Testament. We will probably finish this study in several more weeks. I'm planning to have us start either Christology or Soteriology next (parts 4A and 4B, respectively, of the Bible Basics series on Ichthys), but I haven't picked which yet.
 
-<!-- --- -->
+<!-- slide-break -->
 
 In the immediate short term, I have three other primary goals:
 
@@ -153,7 +153,7 @@ In the immediate short term, I have three other primary goals:
 - Setting up further automation with the topic transitions in videos. I would like to automatically generate the top transition video segments in a hands-off (completely automated) way. Right now I have to manually record the short segments one by one.
 - Setting up a BibleDocs podcast on the podcasting platform [PodBean](https://www.podbean.com/), to include all the content from our Ichthys group Bible studies (at least that is the content stream I'll start with for podcasting—I will probably expand to others too, later). I need to support ripping mp3 audio off of the mp4 videos, and generating proper mp3 metadata/episode descriptions so that podcast episode timestamps will work properly on Apple Podcasts and Spotify (the two most dominant podcast apps, at present).
 
-<!-- --- -->
+<!-- slide-break -->
 
 After all of that, I want to turn my full focus back to launching an in-person Bible study at my house. There are a ton of TODOs left there, but I'll leave all those aside for now, until we get a bit closer.
 

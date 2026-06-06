@@ -35,7 +35,7 @@ Is it proper to say that the morality of actions depends upon cultural context? 
 
 (Before reading this discussion, I recommend reading through Genesis chapter 16 several times)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Q: God's judgment doesn't let people off-the-hook just due to cultural background, right? {#q-god-s-judgment-doesn-t-let-people-off-the-hook-just-due-to-cultural-background-right}
 

@@ -37,7 +37,7 @@ The issue with this sort of argument is that you could well say that Isaiah 52:1
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Introduction: Is the serpent of Genesis 3 Satan? {#introduction-is-the-serpent-of-genesis-3-satan}
 
@@ -53,11 +53,11 @@ This is an excellent example of the Word's central importance in our discernment
 
 This is in fact the correct interpretation (that is, that the serpent in Genesis 3 was Satan and/or was controlled by Satan), but exactly how can we go about establishing the evidence for this identification? Revelation 20:2 alone is a good starting place, but as we shall see, there is certainly more to be said, and this "more" is what we shall now explore.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Who is Satan, according to the Old Testament? {#who-is-satan-according-to-the-old-testament}
 
@@ -77,13 +77,13 @@ The *Nun* in שָׂטָן is here word-final, and therefore in the [sofit form](
 
 {{% /technical-discussion %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 The Hebrew noun can be used without a definite article. So, for example, The Angel of the Lord (a Christophany = pre-incarnate appearance of Christ; *The* Angel of the Lord) opposes Balaam as "an adversary" [in Numbers 22:22](https://biblehub.com/interlinear/numbers/22-22.htm).
 
 When used with a [definite article](https://www.hebrew4christians.com/Grammar/Unit_Four/The_Definite_Article/the_definite_article.html) (הַ), however, the being in view (= הַשָׂטָן now that we have added the article, transliterated *ha-satan*) refers to the supernatural adversary of God.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Satan as a... divine prosecutor? The scriptural witness of Job and Zechariah {#satan-as-a-divine-prosecutor-the-scriptural-witness-of-job-and-zechariah}
 
@@ -97,11 +97,11 @@ ptags="Revelation 12:10"
 
 This specific being is, somewhat surprisingly, not actually mentioned particularly frequently in the Old Testament. The *ha-satan* form is used in Job 1:6-9, 1:12, 2:1-4, 2:6-7 to refer to an angelic being in the court of God who accuses Job before God. It is also used in Zechariah 3:1-2 in a very similar manner -- a supernatural being leveling accusations. Some exegetes have argued for seeing these instances as an elect angel serving in a "divine prosecutor" sort of role, but the problem with that idea is the being's apparent antagonism towards both God and (for example) Job—why would an elect angel be interested in trying to get a human whom God took pride in to stumble, in a seeming bid to prove God's words false? Moreover, Revelation 12:10 says that Satan is "the accuser of our brothers and sisters, who accuses them before our God day and night."
 
-<!-- --- -->
+<!-- slide-break -->
 
 It is therefore theologically irresponsible, in my opinion, to even entertain the possibility that the accuser mentioned in the Job and Zechariah passages is anyone other than Satan. There is no "literary development of the Satan character", no "Jewish legal conception of *ha-satan* improperly retconned by later Christians to be supernatural evil", no "borrowed characterization based upon literary parallels in other Near-East cosmologies." Regardless of what false things others might say (as additional examples, you might also see [here](https://www.biola.edu/blogs/good-book-blog/2021/why-michael-heiser-is-probably-wrong-about-satan-in-the-book-of-job) or [here](https://academic.oup.com/book/38719/chapter-abstract/336896773?redirectedFrom=fulltext)), the accuser mentioned in the Old Testament has always been the devil—a very real, very powerful spiritual force for evil, not some legal bureaucrat angel just doing his job... even if people of the past may not have been as aware of him as we are today, now that we have received the New Testament. The greater nuance over time in our understanding of Satan's true nature is just so-called "progressive revelation" at work. (More on that in a moment).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Satan and 1 Chronicles 21:1 {#satan-and-1-chronicles-21-1}
 
@@ -119,7 +119,7 @@ The interpretation of this passage (1 Chronicles 21:1-6ff.) is rather vexing for
 
 It really isn't. For example, God states explicitly that He used Assyria to punish wayward Israel (Isaiah 10:5-7), and this Isaiah passage makes it crystal clear that God is using Assyria *despite* what Assyria (personified, or "The Assyrian" if you prefer) intends—compare "this is not what he has in mind", verse 7. God is simply so smart (in fact, Omniscient) and so powerful (in fact, Omnipotent) that he can use evil people in His Perfect Plan, *and there's nothing they can do about it, no matter what evil they intend*. Like *ha-satan* in Job 1 and Job 2, evildoers can never do a single thing except that which God explicitly allows. They are dancing completely in the palm of His hand, to borrow a metaphor.
 
-<!-- --- -->
+<!-- slide-break -->
 
 So, to reconcile 1 Chronicles 21:1 and 2 Samuel 24:1 only requires that you take the interpretive leap that God allowed Satan to incite David to take the census, that God *used* Satan. Satan was the agent; God was the architect. We might assume that Satan knew that taking the census would be a sin against God (for reasons we shan't get into here—this is "the other reason" why the interpretation of this passage is vexing), and thought that getting David—a "man after God's own heart" (Acts 13:22)---to stumble would somehow damage God's plans (compare Satan's desire to trip up Job in Job chapters 1 and 2). This thought was, of course, utter madness... as sin always is. Satan, a mere creature, thought he could somehow successfully raise his hand against his Maker? What a joke. We may laugh at his foolishness, yet who are we to talk? We all sin (Romans 3:23, James 3:2), and our sin is just as insane for this very same reason.
 
@@ -131,11 +131,11 @@ If you'd like to read a second analysis of Satan in the Old Testament, you might
 
 {{% /technical-discussion %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### On progressive revelation, and the scriptural evidence for drawing the equivalency between Satan and the serpent of Genesis 3 {#on-progressive-revelation-and-the-scriptural-evidence-for-drawing-the-equivalency-between-satan-and-the-serpent-of-genesis-3}
 
@@ -153,7 +153,7 @@ To elaborate a bit more on why we can be so dismissive: there is a concept in th
 
 But after Jesus was crucified, died, and was resurrected (thereby positionally defeating death and overcoming the grave), what had previously been a mystery was now revealed to mankind. Our salvation was won on the cross, redeeming sinful humanity to a perfect God once for all. That this was what God had meant all along only became clear *later*, not when the prophecies were initially written. Hence "progressive revelation".
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Did angels communicate with Adam and Eve, perhaps while possessing the bodies of animals? {#did-angels-communicate-with-adam-and-eve-perhaps-while-possessing-the-bodies-of-animals}
 
@@ -169,17 +169,17 @@ To sidetrack for just a moment, the fact that we are dealing with what appears t
 
 You might take the position that God "allowed Eve to speak snake" (or animal languages generally). We have literally nothing to go on in terms of scriptural evidence one way or the other, so why not? Such a view does have the advantage that it would explain why Eve wasn't surprised when an animal spoke to her. On the other hand, you then have to deal with the fact that this ability certainly didn't persist. So was it revoked after the fall? Did it die out after Adam and Eve, even if they retained it for their entire lives?
 
-<!-- --- -->
+<!-- slide-break -->
 
 While the above sounds like it would be an interesting premise for a work of fiction (and actually, cf. [Dr. Dolittle](https://en.wikipedia.org/wiki/Doctor_Dolittle)---that's already a thing), the more realistic explanation, to my mind, is that Eve wasn't weirded out by the random communication à la snake because Adam and Eve probably spoke directly to not only God (that much we have directly from the text in Genesis), but also angels (that's more of an inference). After all, why not? We humans will certainly speak to angels when we share eternity together with them in the final paradise (the New Heavens and New Earth and New Jerusalem)---so why couldn't Adam and Eve likewise have spoken to them in the initial paradise (Eden), as in the setting of this passage? If we assume that this communication with angels was actually something that happened, it follows that while Eve may have been puzzled as to why an angel had possessed the body of an animal (or maybe that part was normal enough too—who knows?), the *really* strange bit about the snake speaking would be no major matter. That is to say, if Adam and Eve were already used to communicating with angels, then that clears up the interpretive question mark of the talking snake quite neatly.
 
 More importantly, it supports a reading of the text that holds that the snake was possessed by an angel, not acting of its own accord as an animal. There are people who make this argument---"Since the Genesis text only says *nachash*, it must really have only been a snake, nothing more and nothing less." I can't exactly disprove this directly—as what I just went through is essentially just speculation on my part—but the passage does make perfectly good sense if you hold that the snake was being possessed by a fallen angel (that is, Satan).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Pulling things together: direct scriptural evidence for making the identification {#pulling-things-together-direct-scriptural-evidence-for-making-the-identification}
 
@@ -195,7 +195,7 @@ At any rate, back to progressive revelation and Genesis 3:15. Upon an initial re
 
 Perhaps. That's what the doubters say. But what is actually the case is that the "seed of the woman" mentioned in Genesis 3:15 is Jesus Christ, making Genesis 3:15 a prophecy. Jesus crushed Satan's head with his victory on the cross—Satan has already lost! In terms of correct prophetic interpretation, Satan is thus the serpent whose head is crushed.
 
-<!-- --- -->
+<!-- slide-break -->
 
 We can keep going, too. Genesis 3:14 speaks of the serpent being driven down to the earth. That sounds an awful lot like Revelation 12:9.
 
@@ -207,7 +207,7 @@ In the Greek in Revelation 12:9, we have "ὁ δράκων ὁ μέγας ὁ 
 καὶ ἐβλήθη ὁ δράκων ὁ μέγας, ὁ ὄφις ὁ ἀρχαῖος, ὁ καλούμενος διάβολος καὶ ὁ σατανᾶς ὁ πλανῶν τὴν οἰκουμένην ὅλην, ἐβλήθη εἰς τὴν γῆν, καὶ οἱ ἄγγελοι αὐτοῦ μετ᾽ αὐτοῦ ἐβλήθησαν.
 {{% /scripture-h %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 The adjectives μέγας (great/large) and ἀρχαῖος (ancient) go with δράκων (dragon) and ὄφις (serpent), respectively. The particular construct being used here follows the format "article > noun > article > adjective", putting the adjective in [the attributive position](https://books.openbookpublishers.com/10.11647/obp.0264/ch16.xhtml#:~:text=Attributive%20position%20tells%20us%20that%20a%20noun%20is,road%20into%20attributive%20position%20with%20the%20noun%20woman.).
 
@@ -219,7 +219,7 @@ Putting it all together, we then get "the great dragon, the ancient serpent, the
 
 {{% /technical-discussion %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 It might be a bit of a jump to identify the serpent of Genesis 3 with Satan just on account of "ancient serpent" being equated with "Satan" in Revelation 12:9 (cf. also Revelation 20:2), although that's strong enough all on its own. What really seals it is the typological parallel of being driven down to the earth that directly mirrors the curse God places upon the serpent Genesis 3:14: to be cast to the ground, and eat dust.
 
@@ -227,7 +227,7 @@ Some people still somehow explain all this away... but, well, they explain away 
 
 I should note that prophetic typology and dual-application is *super* common in Old Testament prophecy. For example, another dual-application passage typologically related to Satan is Ezekiel 28:1-19 (note especially verses 11 through 19). These words (at least many of them) applied to the literal King of Tyre (i.e., a historical human being), but the passage also very clearly shifts into talking about Satan, and what brought about his fall. We might also here note that once again Satan is said to be "thrown to the earth" (verse 17), fitting right in with Genesis 3:14 and Revelation 12:9 mentioning the serpent being cast to the ground.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Properly seeing the connection between Satan and the prophecy of Genesis 3:15 is actually important for interpretation {#properly-seeing-the-connection-between-satan-and-the-prophecy-of-genesis-3-15-is-actually-important-for-interpretation}
 

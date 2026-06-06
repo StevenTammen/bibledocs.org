@@ -34,7 +34,7 @@ Romans 1:29-31 contains quite a list of things that we ought to avoid—things t
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 What is not proper in God's eyes?
 

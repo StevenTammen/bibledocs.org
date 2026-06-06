@@ -40,7 +40,7 @@ In the Church age, God has chosen to send the Holy Spirit, and *everything* abou
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Audio clip from Ichthys {#audio-clip-from-ichthys}
 
@@ -53,7 +53,7 @@ srcend="01:02:20"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Audio clip 2 {#audio-clip-2}
 
@@ -66,13 +66,13 @@ srcend="09:04"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
-In the Greek, a "mystery" (μυστήριον) is most commonly a cryptic rite, a ritual or arcane piece of information that only the initiates of certain cults (the Eleusian mysteries, for example) were permitted to know, a secret, in other words, that was generally hidden from all but the select few. The designation "mystery" perfectly reflects the particulars of both the nature of the Messiah's first advent (His incarnation and victory on the cross) and the nature of the calling out of the complement of His Church that followed in its wake (the flooding of gentile believers into the assembly of God in completely unanticipated numbers). <!-- --- -->As we have seen above, both the suffering of the Messiah and the great influx of gentiles into the family of God were predicted in scripture, but the particulars of the second Person of the Trinity taking on human existence and dying for our sins, and the particulars of the unprecedented surge of believing gentiles into His Church would have surprised even the Old Testament prophets who alluded to them. It was, in short, "a mystery" that has only come fully to light since the cross:
+In the Greek, a "mystery" (μυστήριον) is most commonly a cryptic rite, a ritual or arcane piece of information that only the initiates of certain cults (the Eleusian mysteries, for example) were permitted to know, a secret, in other words, that was generally hidden from all but the select few. The designation "mystery" perfectly reflects the particulars of both the nature of the Messiah's first advent (His incarnation and victory on the cross) and the nature of the calling out of the complement of His Church that followed in its wake (the flooding of gentile believers into the assembly of God in completely unanticipated numbers). <!-- slide-break -->As we have seen above, both the suffering of the Messiah and the great influx of gentiles into the family of God were predicted in scripture, but the particulars of the second Person of the Trinity taking on human existence and dying for our sins, and the particulars of the unprecedented surge of believing gentiles into His Church would have surprised even the Old Testament prophets who alluded to them. It was, in short, "a mystery" that has only come fully to light since the cross:
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% ichthys-translation p="1st Peter 1:10-12" %}}
 
@@ -80,11 +80,11 @@ The prophets [of old] diligently investigated and inquired about this salvation 
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
-In this last verse we have the answer to a question so profound that the mystery of Christ and of the Church would remain effectively cloaked until His resurrection: If Israel, God's chosen people, the one people on the face of the earth after His own heart, did not accept Him en masse but only in part (cf. 1Ki.19:18; 1Cor.10:5; etc.), then how could it ever be that the gentiles, so much farther from God, would flood into His family in such unsurpassed volume? The answer, as verse twelve above makes clear, is the ministry of the Holy Spirit. <!-- --- -->The Spirit's ministry is a rich and detailed subject that will be given full treatment in [Part 5 of Bible Basics: Pneumatology](https://ichthys.com/5-Pneumato.htm). It must suffice to say here that the gift of the Holy Spirit, an event that could not take place before the victory and glorification of Christ (Jn.7:39; Phil.2:5-11; cf. Is.53:2; Jn.12:23; 13:31-32; 17:1-5), is one of the most momentous and significant features of the Church age. It is the ministry of the Spirit which was behind the expansion of evangelism from Pentecost forward (Acts 2:1-41; 5:12-14; 8:4-6; 8:29; 10:44-46), the broadening of evangelistic focus beyond the borders of Israel (Acts 13:2; 15:28; 16:6; 20:28), and the massive influx of gentile believers into the family of God, which trend continues to this very day (Jn.3:5-8; 15:26-27; 16:5-11; Rom.8:2; 8:26-27; 1Cor.2:4; Gal.3:2-3; 5:16ff.; 1Jn.5:6-7). <!-- --- -->The line of the Church (the early gentiles) and the foundation of the Church (historical Israel) antedated the coming of the Savior, but it was appropriate for the erection of the great edifice of the Church to wait upon His victory and glorification, and it is the Spirit's work to bring to completion "the joy" that Christ had set His heart upon (Heb.12:2), namely, to complete within the present two millennial days the bride that completes Him, the Church. In the meantime, the comparable surge of Jewish belief (though in every generation there is at least a remnant of believing Jews: Rom.11:5), likewise anticipated in scripture (cf. Jer.31:33-34), has not been abrogated, but is merely pending, waiting for the ministries of preparation predicted to come in the last days, and ready to burst into full flood at the 2nd Advent of the Messiah:
+In this last verse we have the answer to a question so profound that the mystery of Christ and of the Church would remain effectively cloaked until His resurrection: If Israel, God's chosen people, the one people on the face of the earth after His own heart, did not accept Him en masse but only in part (cf. 1Ki.19:18; 1Cor.10:5; etc.), then how could it ever be that the gentiles, so much farther from God, would flood into His family in such unsurpassed volume? The answer, as verse twelve above makes clear, is the ministry of the Holy Spirit. <!-- slide-break -->The Spirit's ministry is a rich and detailed subject that will be given full treatment in [Part 5 of Bible Basics: Pneumatology](https://ichthys.com/5-Pneumato.htm). It must suffice to say here that the gift of the Holy Spirit, an event that could not take place before the victory and glorification of Christ (Jn.7:39; Phil.2:5-11; cf. Is.53:2; Jn.12:23; 13:31-32; 17:1-5), is one of the most momentous and significant features of the Church age. It is the ministry of the Spirit which was behind the expansion of evangelism from Pentecost forward (Acts 2:1-41; 5:12-14; 8:4-6; 8:29; 10:44-46), the broadening of evangelistic focus beyond the borders of Israel (Acts 13:2; 15:28; 16:6; 20:28), and the massive influx of gentile believers into the family of God, which trend continues to this very day (Jn.3:5-8; 15:26-27; 16:5-11; Rom.8:2; 8:26-27; 1Cor.2:4; Gal.3:2-3; 5:16ff.; 1Jn.5:6-7). <!-- slide-break -->The line of the Church (the early gentiles) and the foundation of the Church (historical Israel) antedated the coming of the Savior, but it was appropriate for the erection of the great edifice of the Church to wait upon His victory and glorification, and it is the Spirit's work to bring to completion "the joy" that Christ had set His heart upon (Heb.12:2), namely, to complete within the present two millennial days the bride that completes Him, the Church. In the meantime, the comparable surge of Jewish belief (though in every generation there is at least a remnant of believing Jews: Rom.11:5), likewise anticipated in scripture (cf. Jer.31:33-34), has not been abrogated, but is merely pending, waiting for the ministries of preparation predicted to come in the last days, and ready to burst into full flood at the 2nd Advent of the Messiah:
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% ichthys-translation p="Romans 11:25-27" %}}
 
@@ -92,11 +92,11 @@ Brothers, I do not want you to be ignorant of ***this mystery*** (and so think m
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 So the change of heart that brings a flood of Jews to faith in Christ (comparable to the flood of gentiles that characterizes the Church age) will be the Messiah's actual return. When they look upon "Him they have pierced" (Zech.12:10-14; Rev.1:7; cf. Joel 2:30-32; Matt.24:30), Israel will turn to Him in numbers that will proportionally outstrip the greatest gains of the Church age, as God purges and restores His chosen people, fulfilling all the promises He has made (Is.65:8-10; Jer.31:31-34; Ezek.20:33-38; 37:11-14; Hos.1:10-11; Mal.4:5-6; Matt.23:39; Rom.11:26). The fact that this much anticipated spiritual (and geographical) restoration of Israel would not take place immediately after the Messiah's (first) appearance, but would wait upon the completion of His Church through the calling out of innumerable gentiles is the "mystery" we have been experiencing since His triumph on the cross (and as a direct result of that victory: cf. Lk.2:32; 10:17-20):
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% ichthys-translation p="Revelation 5:5" %}}
 
@@ -110,19 +110,19 @@ Then one of the elders said to me, "Don't cry. Behold, the Lion of the tribe of 
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% ichthys-translation p="Ephesians 3:1-11" %}}
 
-(1) For this reason (i.e., the building up of the Church into a holy temple: cf. 2:14-22), I, Paul, am Christ's prisoner on behalf of the gentiles. (2) And I assume that you have heard about this dispensation of God's grace given to me on your behalf (i.e., his mandate as an apostle to "carry Christ's name to the gentiles": Acts 9:15). (3) For it was through [God's] revelation that this ***mystery*** [of His calling out of the gentiles] was made known to me as I wrote you briefly before. (4) When you read these things you will be able to understand my spiritual insight into this ***mystery of Christ***, (5) which was not made known to mankind in previous generations as it has now been revealed to His holy apostles and prophets by the Spirit. (6) [And the ***mystery*** is this]: that the gentiles are [now] fellow heirs, members of the same body, and equal partakers of the promise [of salvation to Israel] in Christ Jesus through the gospel, [the proclamation of His victory]. <!-- --- -->(7) It is of this gospel that I have been made a minister by the gift of God's grace given to me through His dynamic power. (8) To me, the least of all His holy ones, this gracious charge has been entrusted: to proclaim to the gentiles the unfathomable wealth that is Christ, (9) and to shed light on this ***mystery***[, the calling out of the gentiles] which is now being brought to pass (lit., "the dispensation" of it), though it was once hidden from the ages in God who created everything. (10) God [did this] so that [His] enigmatically intricate wisdom might be made known to the rulers and authorities in the heavenly realms through the agency of the Church, (11) according to His plan for the ages (i.e., history) which He has implemented in [the person of] Christ Jesus our Lord.
+(1) For this reason (i.e., the building up of the Church into a holy temple: cf. 2:14-22), I, Paul, am Christ's prisoner on behalf of the gentiles. (2) And I assume that you have heard about this dispensation of God's grace given to me on your behalf (i.e., his mandate as an apostle to "carry Christ's name to the gentiles": Acts 9:15). (3) For it was through [God's] revelation that this ***mystery*** [of His calling out of the gentiles] was made known to me as I wrote you briefly before. (4) When you read these things you will be able to understand my spiritual insight into this ***mystery of Christ***, (5) which was not made known to mankind in previous generations as it has now been revealed to His holy apostles and prophets by the Spirit. (6) [And the ***mystery*** is this]: that the gentiles are [now] fellow heirs, members of the same body, and equal partakers of the promise [of salvation to Israel] in Christ Jesus through the gospel, [the proclamation of His victory]. <!-- slide-break -->(7) It is of this gospel that I have been made a minister by the gift of God's grace given to me through His dynamic power. (8) To me, the least of all His holy ones, this gracious charge has been entrusted: to proclaim to the gentiles the unfathomable wealth that is Christ, (9) and to shed light on this ***mystery***[, the calling out of the gentiles] which is now being brought to pass (lit., "the dispensation" of it), though it was once hidden from the ages in God who created everything. (10) God [did this] so that [His] enigmatically intricate wisdom might be made known to the rulers and authorities in the heavenly realms through the agency of the Church, (11) according to His plan for the ages (i.e., history) which He has implemented in [the person of] Christ Jesus our Lord.
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Fully digested, the passage above teaches virtually the entire content of what we have been discussing on the subject of the mystery of the fifth and sixth millennial days, that is, the calling out of the gentiles to fill up the body of Christ, a prophecy not fully understood until its implementation, and therefore a mystery, the mystery of the Church (when viewed from the standpoint of the bride, the Church) and at the same time the mystery of Christ (when viewed from the standpoint of the bridegroom, Jesus Christ): 
 
-<!-- --- -->
+<!-- slide-break -->
 
 - <u>verses 1-2</u>: the object of Paul's ministry is to implement or dispense the mystery of the calling out of the gentiles, made known to Him by Christ.
 - <u>verse 3</u>: the mystery, hidden in the past, was unveiled or revealed to him by divine agency (revelation is the counterpart of a mystery).
@@ -135,7 +135,7 @@ Fully digested, the passage above teaches virtually the entire content of what w
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Summary points {#summary-points}
 
@@ -154,7 +154,7 @@ The designation "mystery" perfectly reflects the particulars of both:
 
 Both the suffering of the Messiah and the great influx of gentiles into the family of God were predicted in scripture, but the particulars of the second Person of the Trinity taking on human existence and dying for our sins, and the particulars of the unprecedented surge of believing gentiles into His Church would have surprised even the Old Testament prophets who alluded to them.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The unanticipated reality of the ministry of the Holy Spirit is what brought about the expansion of salvation to the gentiles {#the-unanticipated-reality-of-the-ministry-of-the-holy-spirit-is-what-brought-about-the-expansion-of-salvation-to-the-gentiles}
 
@@ -174,7 +174,7 @@ The ministry of the Holy Spirit was behind:
 2. The broadening of evangelistic focus beyond the borders of Israel
 3. The massive influx of gentile believers into the family of God, which trend continues to this very day
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The "logic" of gentile salvation post-dating the cross {#the-logic-of-gentile-salvation-post-dating-the-cross}
 
@@ -188,7 +188,7 @@ As we have discussed previously, the "full edifice" of the Church may have start
 
 However, it was appropriate for the erection of the great edifice of the Church to wait upon His victory and glorification, for only through the giving of the Spirit is this new building phase possible. Compare John 16:7-15.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The temporary hardness of Israel is another part of the mystery in the calling out of the gentiles {#the-temporary-hardness-of-israel-is-another-part-of-the-mystery-in-the-calling-out-of-the-gentiles}
 
@@ -210,7 +210,7 @@ Brothers, I do not want you to be ignorant of ***this mystery*** (and so think m
 
 In many places, the Old Testament prophecies the regathering of Israel. The fact that this much anticipated spiritual (and geographical) restoration of Israel would not take place immediately after the Messiah's (first) appearance, but would wait upon the completion of His Church through the calling out of innumerable gentiles is the "mystery" we have been experiencing since His triumph on the cross.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### How Ephesians 3:1-11 teaches everything we are discussing here {#how-ephesians-3-1-11-teaches-everything-we-are-discussing-here}
 
@@ -224,7 +224,7 @@ ptags="Ephesians 3:1-2; Ephesians 3:3; Ephesians 3:4; Ephesians 3:5; Ephesians 3
 
 Ephesians 3:1-11 teaches virtually the entire content of what we have been discussing on the subject of the mystery of the fifth and sixth millennial days, that is, the calling out of the gentiles to fill up the body of Christ, a prophecy not fully understood until its implementation, and therefore a mystery, the mystery of the Church (when viewed from the standpoint of the bride, the Church) and at the same time the mystery of Christ (when viewed from the standpoint of the bridegroom, Jesus Christ):
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Verses 1-2</u>:
 
@@ -236,7 +236,7 @@ The object of Paul's ministry is to implement or dispense the mystery of the cal
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Verse 3</u>:
 
@@ -248,7 +248,7 @@ The mystery, hidden in the past, was unveiled or revealed to him by divine agenc
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Verse 4</u>: 
 
@@ -260,7 +260,7 @@ Jesus Christ is the mystery (because the mystery, seen from Christ's point of vi
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Verse 5</u>: 
 
@@ -272,7 +272,7 @@ This mystery has now been fully revealed to the present day apostles and prophet
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Verse 6</u>: 
 
@@ -284,7 +284,7 @@ Paul explains the mystery specifically from the point of view of the bride of Ch
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Verse 7-9</u>: 
 
@@ -296,7 +296,7 @@ It is Paul's job to minister to this unforeseen expansion of the family of God t
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Verse 10</u>: 
 
@@ -308,7 +308,7 @@ God's wisdom in filling up the assembly (the Church of Christ) is thus made know
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 <u>Verse 11</u>: 
 
@@ -320,7 +320,7 @@ Such has been God's purpose for and plan of human history all along: the constru
 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Follow-on topics {#follow-on-topics}
 
@@ -336,7 +336,7 @@ When 1 Peter 1:12 says "even angels want to look into these things", we are to u
 
 Rather than getting bent out of shape about this, we'd best rejoice. Because our very salvation rests on God's completely unexpected mercy towards the gentiles! We can thank God that He doesn't always act as we expect, because we would have otherwise had no opportunity to put our faith in Jesus Christ as *our* savior (rather than Him just being the savior of the Jews).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The centrality of the Holy Spirit in gentile salvation {#the-centrality-of-the-holy-spirit-in-gentile-salvation}
 
@@ -350,7 +350,7 @@ It bears repeating that *everything* about gentile salvation rests upon the mini
 
 In this way, I think we could also rightly consider the giving of the Holy Spirit to be a proper mystery as well. It is part and parcel of God's unanticipated plan to open up salvation to the gentiles—another thing veiled from earlier believers until it actually came about.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Further discussion {#further-discussion}
 

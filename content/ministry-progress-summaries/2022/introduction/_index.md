@@ -40,7 +40,7 @@ In this video, I go over exactly what these ministry progress summary videos are
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### About these ministry progress summaries {#about-these-ministry-progress-summaries}
 
@@ -50,7 +50,7 @@ Most of of the ministry highlights from the given time-window are hit, and then 
 
 I try to keep everything nice and short, so that people don't have to spend very long to learn about what's going on.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### These are different than the daily progress summary videos on the other YouTube channel {#these-are-different-than-the-daily-progress-summary-videos-on-the-other-youtube-channel}
 
@@ -58,7 +58,7 @@ I run [a separate YouTube channel](https://www.youtube.com/channel/UCyhLltbXz6ox
 
 These are honestly as much for me as for anyone else, so that I can find things over time if I ever need to reference something I've done or thought on, and so that I can keep myself very organized day-by-day, trying to keep in mind all the spiritual pressure that should drive me. Many people probably won't be interested in these, which is completely logical.
 
-<!-- --- -->
+<!-- slide-break -->
 
 It's honestly kind of shocking how much work goes into (has gone into) everything, so if you're ever curious in peering behind the curtain a bit, this would be where you might glimpse some of the thought and effort that has to happen (has happened) to make it all go round.
 

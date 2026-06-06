@@ -34,7 +34,7 @@ Encouragement was Paul's primary reason for wishing to visit Rome, it seems, and
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 How important is encouragement? Important enough that it seems to be Paul's primary reason for wishing to visit the church in Rome (Romans 1:11-12).
 

@@ -46,7 +46,7 @@ This cycle I mostly spent time finishing remaining tasks in my command line appl
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Review {#review}
 
@@ -58,7 +58,7 @@ Last ministry progress summary, I said I had these three immediate short-term go
 
 I'll be going over what progress I've made on these (and some other things besides).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Automated silence removal {#automated-silence-removal}
 
@@ -68,7 +68,7 @@ This is good news, since it means we won't have to switch away from Zoom in our 
 
 At any rate, after determining that we can in fact keep using Zoom, I wired up the silence removal step in my automated video processing command line tool, so that it will now get automatically run, rather than me manually have to process each segment like I was having to do before.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Automated topic transition scaffolding {#automated-topic-transition-scaffolding}
 
@@ -81,7 +81,7 @@ I also set up the part of my automated video processing workflow that automatica
 
 Basically, while I was previously make all these topic transition segments manually by hand (and then using a script to standardize them to all be three seconds long), now the entire thing is automated from front to back.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Automated transcripts {#automated-transcripts}
 
@@ -89,7 +89,7 @@ I also set up a process to utilize the Python package [youtube-transcript-api](h
 
 Previously I was using some regular expressions and a rather sophisticated spreadsheet to do much the same (which took a good bit of the manual work out of it, but still required a few minutes of effort per video), but now it is all completely automatic.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The upshot of all this {#the-upshot-of-all-this}
 
@@ -99,7 +99,7 @@ If I were only doing videos, I'd now be done. However, that brings us to the thi
 
 I am hoping I can knock it out rapidly to get out of this limbo phase we've been it. I'm taking time off work for a couple weeks in the near future in order to visit family, and historically, my "vacation time" has always been when I get the most software development work done in any given year. So I am optimistic.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Consistent content posting the next little bit {#consistent-content-posting-the-next-little-bit}
 
@@ -107,7 +107,7 @@ Podcast automation aside, since I've now finished the video side of things, I'm 
 
 Most of this content is from our group study of BB1: Theology but there is also a separate four-video playlist in there too. I recorded this other playlist several months back when a friend asked me some questions (so it falls into the Q&A > Reader Correspondence content type).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Upcoming plans {#upcoming-plans}
 

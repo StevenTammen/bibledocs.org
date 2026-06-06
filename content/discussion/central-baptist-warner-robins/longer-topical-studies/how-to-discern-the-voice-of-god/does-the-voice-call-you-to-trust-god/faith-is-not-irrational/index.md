@@ -38,7 +38,7 @@ Hebrews 11 starts off with a definition of faith: "faith is the assurance of thi
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% technical-discussion %}}
 
@@ -62,7 +62,7 @@ ptags="Hebrews 11:1"
 
 This sentence is not that complex grammatically. The core sentence is "ἔστιν πίστις ὑπόστασις... [ἔστιν πίστις] ἔλεγχος". This is a normal "{subject} {linking verb} {complement}" construction, with the only twist being that there are two complements, but without a coordinating conjunction between them (that is, there is no καί between ὑπόστασις and ἔλεγχος). The subject and linking verb are thus implicitly understood to go with both complements: "faith is assurance... [faith is] conviction."
 
-<!-- --- -->
+<!-- slide-break -->
 
 [Ichthys' translation of this verse](https://ichthys.com/6A-Peripateo.htm#Hebrews%2011:1-2) -- "It is faith [in the Living and written Word], moreover, that substantiates what we hope for. [Faith] provides proof of things unseen" -- doesn't mirror the exact grammatical structure as much, using indirect statement in the first bit (i.e., "it is faith... that").
 
@@ -70,7 +70,7 @@ Arguably, Ichthys' translation that translates with verbal phrases (that is, "fa
 
 {{% /technical-discussion %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Analysis of Hebrews 11:1 {#analysis-of-hebrews-11-1}
 
@@ -88,7 +88,7 @@ For us as Christians, our confidence in things that haven't happened yet comes f
 
 We *cannot* prove that prophecy will play out how God says it will with science, or verify the promises He makes us about eternity with science. We also *cannot* prove the existence of the spiritual realm with science, as it cannot be observed or measured like the material world.
 
-<!-- --- -->
+<!-- slide-break -->
 
 This is because science (at least the epistemologically-sound variety, rather than the wild scholarly speculation that is rampant within some fields like evolutionary biology and the branch of theoretical astrophysics concerned with the creation of the universe) by its very nature only deals with the material world that can be subject to observation and experimentation. Metaphysics is simply outside its purview, or at least it ought to be.
 
@@ -96,7 +96,7 @@ All of this is a natural conversation to have when talking about Hebrews 11:1, b
 
 Why is this important? Well, because it tells us that...
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Faith is necessary, not illogical {#faith-is-necessary-not-illogical}
 
@@ -114,7 +114,7 @@ The fundamentals of Christianity largely center around who Jesus was (fully God 
 - What's more, how could any human actually "prove" that Jesus paid the price for all human sin upon the cross, facing the fiery judgement of God in our place? That's definitely what the Bible teaches, but how do you prove that with science? You just can't; the very idea is nonsensical. Because the judgement happened *spiritually* when Jesus was physically hanging upon the cross.
 - And finally, in the modern day, it is simply impossible for us to test or verify observationally whether Jesus was truly resurrected from the dead. We cannot have video evidence or what have you. It's just impossible.
 
-<!-- --- -->
+<!-- slide-break -->
 
 The points being brought up here are sorely lacking in many discussions about faith and science. Christians are made to feel like they are uneducated and ignorant for having faith, that faith is somehow illogical. But science can say exactly nothing about whether Jesus paid for human sin when upon the cross, for example. Literally the only way to take a position on that proposition is through faith. Even if you wanted to do things "the science way," it is simply not a possibility.
 
@@ -122,11 +122,11 @@ The thing is, God never demands that we believe things that contravene reason an
 
 Where I am going with all this is that we cannot even "prove" (in the scientific sense, according to observation of and experimentation with the material world) that Jesus was God and that He fully paid for human sin upon the cross and that he was subsequently resurrected from the dead -- the very most fundamental points of Christianity. If we have confidence in these things, that confidence comes 100% from faith and 0% from material evidence. It is thus no surprise that everything else in Christianity largely follows suit -- the "things hoped for" (such as future promises of our eternal home) and the "things not seen" (such as the spiritual battle being waged all around us) all rest upon faith. And the vast majority of them are scientifically untestable propositions.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- --> 
+<!-- slide-break --> 
 
 ### Define "illogical" {#define-illogical}
 
@@ -140,7 +140,7 @@ Certain materialists take the epistemological position that any claims that are 
 
 The subtle thing that happens in arguments is that people sneak in their presuppositions as fact. How can you scientifically prove that God *doesn't* exist? You can't, if God is spiritual rather than material, and we humans can only measure the material. In terms of formal logic, this is purely "the absence of evidence is not evidence of absence." In like manner, you also cannot scientifically prove that Goes *does* exist. Because again, God is spiritual rather than material, and we humans can only measure the material. We can infer his existence (cf. the so-called "God of the gaps" argument), but that is not scientific proof.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Atheists base all their reasoning on the proposition that God does not exist... despite us just saying it is impossible for them to prove such scientifically! They will readily point out that we do the same thing in presupposing that God does exist. And yeah, we do. But *we* acknowledge the presupposition and call it faith. *We* don't pretend our positions are scientifically provable, but instead readily acknowledge that they are not. The difference is that their position is not one whit more scientifically provable, yet they do not similarly acknowledge the fact that their belief that God does not exist actually has no scientific basis. Even though they won't admit it, theirs too is a faith-based position, a presupposition.
 
@@ -148,11 +148,11 @@ Let me put it this way: what is illogical is asserting that scientifically untes
 
 Christians do *not* do this because, while we view our belief as true and correct, we don't base our confidence in spiritual things on scientific premises, but instead freely acknowledge that our belief rests upon presuppositions that we hold by faith. That our faith picks up where science leaves off, rather than contradicting it.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Final comments {#final-comments}
 
@@ -160,7 +160,7 @@ Faith is not just a hunch or something. When we believe things the Bible speaks 
 
 Even if science can't prove God created the universe from nothing, well, science can't prove that God *didn't* create the universe from nothing either, can it? People can't run experiments with a controlled randomized trial that has a great enough sample size of universes to ascertain whether there is enough evidence to reject the null hypothesis (e.g.). At best, the astrophysicists can hypothesize based upon the limited evidence available to them. Sometimes their current hypothesis might actually contradict what the Bible says. Well, what of it? The thing about most of the things that trouble materialists (e.g., *ex nihilo* creation, the ark and worldwide flood in Genesis 6, the virgin birth, etc.) is that there is no way for them to formally disprove these things. *They weren't there*. And there are many possible explanations for how things could perhaps end up looking XYZ way to us in the future, yet somehow be misleading at the same time.
 
-<!-- --- -->
+<!-- slide-break -->
 
 The point of all this is that the skepticism of others regarding the Bible's claims needn't make us feel ashamed of our faith. For we don't believe what the Bible says because of empirical scientific evidence; that is going about faith all wrong. We believe it because the Bible says it. That's all there is to it.
 

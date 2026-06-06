@@ -66,7 +66,7 @@ The operative point we will be examining on this page specifically is the idea t
 
 ### Content {#on-the-human-capacity-for-self-deception-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Example verses concerning the idea of human self-deception {#on-the-human-capacity-for-self-deception-example-verses-concerning-the-idea-of-human-self-deception}
 
@@ -94,17 +94,17 @@ A human heart is more dishonest than anything else. It can’t be healed. Who ca
 
 {{% /ot %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 We have no basis for trusting our own hearts. We are indwelt by the sin nature, as all humans have been since Adam (excepting Christ; part of the reason why the virgin birth is important). We are, down to a person, biased by the flesh. If we were witnesses taking the stand, we have already been tampered with, already taken a bribe.
 
 Consequently, we ought not trust our own judgement any further than we can throw it. We ought to instead only trust the Word of God, which the Holy Spirit will use to convict our hearts of the truth, if we would but choose to listen to Him rather than charging ahead and dictating to God.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Further discussion {#on-the-human-capacity-for-self-deception-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### General example verses about self-deception {#on-the-human-capacity-for-self-deception-general-example-verses-about-self-deception}
 
@@ -146,11 +146,11 @@ If you think you are somebody when you are nobody, you are fooling yourselves.
 
 {{% /nt %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Further discussion {#on-the-human-capacity-for-self-deception-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Self-deception can even apply to salvation {#on-the-human-capacity-for-self-deception-self-deception-can-even-apply-to-salvation}
 
@@ -176,17 +176,17 @@ ptags="Matthew 7:21-23"
 
 Many people don't like talking about these verses. Uncomfortable subject, this. Who wants to think about the chilling fact that not all Israel is Israel (Romans 9:6-7)?
 
-<!-- --- -->
+<!-- slide-break -->
 
 Yet there are those who engage in something that they call Christianity that will nonetheless end up in the Lake of Fire forever, for the only thing that is important is believing in who Jesus was and what He did for us on the cross by taking the penalty for our sin upon His shoulders. God is Just -- He offers salvation to all, gives all an equal chance to respond to Him. Literally all we have to do is not say no! But He does not ever make exceptions or excuse unbelief. Not even for people who outwardly adopt the title of Christian and engage in things that society thinks are good, like giving money to the poor.
 
 How can people who spit in God's face by rejecting the Son He sacrificed on their behalf then turn around and consider themselves Christians and children of God -- even consider themselves and their group "better Christians" than other Christians (cf. cults)? That's human self-deception. That people can redefine salvation to be a set of legalistic works *and then actually believe it* ought to terrify us. Not because our own salvation is imperiled when we come to this realization (we are saved so long as we actually believe in Jesus Christ -- end of story), but because it ought to thus be obvious to us that humans can in fact lie to themselves to such a degree that they get something as important as salvation by grace through faith dead wrong, all while being completely blind to it. *They think they are right*, legitimately believe it. But they are not.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Further discussion {#on-the-human-capacity-for-self-deception-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Self-deception runs on human arrogance {#on-the-human-capacity-for-self-deception-self-deception-runs-on-human-arrogance}
 
@@ -212,11 +212,11 @@ You say, ‘I am rich; I have acquired wealth and do not need a thing.’ But yo
 
 Human arrogance is such that we all fail to recognize our own pitiful state; we all overestimate how much we have it together, and underestimate how much we need God. The Church of Laodicea in Revelation 3 typifies this pattern of blindness, but it applies in greater or lesser measure to all Christians. It is more than possible for people to think themselves upon the right path while in fact not even being close. The point is that we must never forget this truth, but must instead turn it upon ourselves reflexively to make sure that anything that we think and believe has the Word of God behind it, rather than human rationalization and self-deception.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ###### Further discussion {#on-the-human-capacity-for-self-deception-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The Bible would not have verses about examining and testing ourselves if it were not important {#on-the-human-capacity-for-self-deception-the-bible-would-not-have-verses-about-examining-and-testing-ourselves-if-it-were-not-important}
 
@@ -258,7 +258,7 @@ Each of you should put your own actions to the test. Then you can take pride in 
 
 {{% /nt %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% ot t="esv" p="Lamentations 3:40" h="300px" %}}
 
@@ -274,13 +274,13 @@ Let’s take a good look at the way we’re living. Let’s return to the Lord.
 
 It makes no sense for the Bible to speak of us testing and examining ourselves unless it was possible for us to be deceiving ourselves.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Does this mean we ought to always be fearful of "not really believing?" No. If we believe, we believe, and that is that. We need to have confidence in that. If we want to actually believe something, we do. We can't mess it up like that; we *do* have free will.
 
 But nothing will protect us from believing the wrong things, or actual unbelief. That free will cuts both ways. This is why we must always test ourselves against the scriptures to make sure that we really are holding to God's truth, not some straw man version of it we have set up in our hearts. For, as we have just seen, it is more than possible for us humans to lie to ourselves so effectively that we completely blind ourselves to the truth, even though we claim we have it. Would that we would care enough to study the truth so that we might not be those people!
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Further discussion {#on-the-human-capacity-for-self-deception-further-discussion}
 
@@ -351,7 +351,7 @@ It is a good question, for if we spend lots of time with an ear to the ground, l
 
 ### Content {#we-ought-not-have-unrealistic-expectations-about-spiritual-conviction-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Our perspective is necessarily limited, and this is by God's intentional design {#we-ought-not-have-unrealistic-expectations-about-spiritual-conviction-our-perspective-is-necessarily-limited-and-this-is-by-god-s-intentional-design}
 
@@ -365,23 +365,23 @@ For most matters in life, the Bible doesn't give us specifics. Generalizing a bi
 
 Consider that this state of affairs does not come about because God could not provide us clearer answers for all the things we ask. He is Omniscient and Omnipotent. So, given verses like Matthew 7:7-8, why doesn't He just instantly give us those answers, firm feelings regarding which path to take?
 
-<!-- --- -->
+<!-- slide-break -->
 
 Well, who are we to say that it would be better for us to actually immediately get such answers and conviction for all our matters of discernment? If we believe Romans 8:28, no matter what happens, God is working all things out for our ultimate (spiritual) good. In fact, it is the best—the superlative is appropriate. The Plan of God is completely perfect. So if we don't get any firm answers from God as to exactly what we ought to do about some specific thing, it is no accident.
 
 Nowhere does Romans 8:28 say that we will understand God's plans most or even much of the time. When you think about it, the reason for such is kind of obvious. We are incredibly finite beings with perspectives warped by our own sinful flesh and Satan's world system trying to turn us away from God at every turn. Even the most spiritually advanced among us are still just puny humans. Who are we to talk to back to God? Do we really think we know better than Him now, hm? Perhaps we feel that we are *owed* guidance. That it is somehow our due. But just as a parent cannot always explain their complicated reasons to their whiny indignant four-year-old (even if they wanted to), so to does our blind human perspective pretty sharply limit God's ability to share with us the real reasons behind things in life.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Put simply, God doesn't immediately answer every decision we put before Him like some sort of divine "Magic 8 Ball" because He views the development of our faith as more important than our temporal gratification. If God were to answer our every question instantly, where is there room for faith on our part in that? How then could God perfectly work every single thing out right under our noses—even better than we could have ever imagined or prayed for ourselves—thereby demonstrating His perfect faithfulness... if we would but trust Him, trust that He has it all in hand?
 
 So it is that we are left down here to struggle with limited perspective and imperfect information in order to demonstrate exactly how much we really do trust the Lord. He will always come through for us—maybe not in a way that maximizes comfort or wealth or any other ephemeral material parameter, but in a way that maximizes our spiritual wellbeing—but we have to have faith and wait upon Him. That is much the point, in fact.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Further discussion {#we-ought-not-have-unrealistic-expectations-about-spiritual-conviction-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### This does not mean that God does not give us enough information to do what we ought {#we-ought-not-have-unrealistic-expectations-about-spiritual-conviction-this-does-not-mean-that-god-does-not-give-us-enough-information-to-do-what-we-ought}
 
@@ -400,7 +400,7 @@ No matter what decisions stare us down (college major, career, who to marry, how
 
 So never ought the excuse "but I didn't have enough information!" cross our lips. Enough information for what?
 
-<!-- --- -->
+<!-- slide-break -->
 
 For example, let's say you come to decide that you need to change you major after already being in college two years. Seems like wasted time and money, right? But what happens if God has some greater plan at work here? What happens if you might use that information you now think is fall-through in some way in the future? How do you know that such a thing for sure won't happen?
 
@@ -408,11 +408,11 @@ Or maybe you really were being selfish and hardheaded in pursuing the earlier ma
 
 Emphasizing this is important because the very worst thing we can do is make excuses for ourselves and blame God. If it seems to us like we prayed and prayed for guidance only to end up on a bad path that we had to backtrack on later ("why couldn't you have just pushed me in this correct direction in the first place when I asked!"), things didn't happen that way for a reason, one way or another, and that reason is never because God is unfairly stingy in His guidance.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Further discussion {#we-ought-not-have-unrealistic-expectations-about-spiritual-conviction-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The principle is in fact absolute {#we-ought-not-have-unrealistic-expectations-about-spiritual-conviction-the-principle-is-in-fact-absolute}
 
@@ -426,7 +426,7 @@ Very often the toughest matters of discernment are matters of application wherei
 
 But if we pray earnestly, no matter how bad our intel, we can still always do what God wants of us, given where we are. We always have that potential. Even if some of these challenging hypotheticals were to actually come about for us personally (and that is sometimes not even remotely realistic), well we can properly answer all such things when we actually face them personally and pray for guidance, relying on the Holy Spirit that indwells us. We must have faith in that. 
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### But, again, having all we need to follow God's Will is different from it always being clear and dead obvious {#we-ought-not-have-unrealistic-expectations-about-spiritual-conviction-but-again-having-all-we-need-to-follow-god-s-will-is-different-from-it-always-being-clear-and-dead-obvious}
 
@@ -446,7 +446,7 @@ Blessedly, we can have rock-solid conviction about many things. For example:
 - Everything that happens happens for a reason, maximizing the ultimate spiritual good of all (Romans 8:28).
 - Etc.
 
-<!-- --- -->
+<!-- slide-break -->
 
 In fact, everything the Bible truly teaches we can be rock-solid on. The problem is that there is plenty in life that is not directly addressed in the Bible. What to do then? Well, we can certainly avoid the extremes:
 
@@ -455,7 +455,7 @@ In fact, everything the Bible truly teaches we can be rock-solid on. The problem
 
 Perhaps all of this is seems unsatisfying, leaving things vague and far from parsed out in a clear set of rules and principles. Welcome to life—grey and messy.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Sometimes conviction comes stronger with time, but sometimes not {#we-ought-not-have-unrealistic-expectations-about-spiritual-conviction-sometimes-conviction-comes-stronger-with-time-but-sometimes-not}
 
@@ -472,7 +472,7 @@ To close us out, it is worth noting that it is not uncommon to better understand
 
 It was not until I was months down these paths that things crystallized into full certainty in my mind. When I was forced to make the decisions in the moment—through much prayer—I honestly was not confident that I was not making mistakes in both cases. But over time God opened my eyes to things that had been hidden before, things that gave me a level of peace and certainty that I hadn't had at the beginning.
 
-<!-- --- -->
+<!-- slide-break -->
 
 We cannot always expect this across all situations though. Sometimes that process of difficult faith and persistent lack of answers may drag out rather than getting resolved in a few short weeks or months. No matter what, we just need to trust that settled emotions or not, if we are doing everything we can to learn, believe, and apply God's Word to our lives (and keep in constant prayer about it all too)---if we are doing everything that we are supposed to on our end—that God will work things all out perfectly. As Christian soldiers upon the battlefield of this life, we can keep our heads down and let our commanding officer handle all the rest—for there is no greater commanding officer than Jesus Christ.
 
@@ -552,7 +552,7 @@ Hopefully all this (which our lesson in the Workbook covered -- more or less) is
 
 ### Content {#the-momentousness-of-acts-2-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Acts 2 is really when the Church takes off numbers-wise. It represents a massive change in scale {#the-momentousness-of-acts-2-acts-2-is-really-when-the-church-takes-off-numbers-wise-it-represents-a-massive-change-in-scale}
 
@@ -567,13 +567,13 @@ Acts 1:15 states quite clearly that the number of believers at that time numbere
 
 So those who spoke in tongues in the first part of Acts 2 were the people making up this small group of initial believers, the very first people in the New Testament Church. It is somewhat startling when you consider how many people congregated around Jesus when He did miracles and taught the crowds. Thousands were touched by his ministry, yet just a few dozen are gathered soon after His resurrection and ascension. We do not know exactly how many of those Jesus had sent out before (e.g., Luke 10:1ff.) were part of this group, so it is possible there were more godly people who were not present in Jerusalem at this time, for whatever reason. One might also consider some of those from the Samaritan village who had believed (John 4:39-42), for example, among other individuals or groups mentioned throughout the gospels (like the centurions of Matthew 8:5-13 and Mark 15:37-39, who perhaps were not able to leave their posts to be together with the other believers). We needn't get overly fixated on the precise number; the point is that the overall number of people starts out startlingly small.
 
-<!-- --- -->
+<!-- slide-break -->
 
 This is an important point to make given that after Peter's Spirit-filled speech at Pentecost, Acts 2:41 says that "about three thousand" (ὡσεὶ τρισχίλιαι) were added to their number. *Three thousand*. Whether the multiplier was actually a full 30-fold, or was perhaps a bit less than that overall, the point is that the change here is drastic, and would lead to fundamental and sweeping changes in the structure and organization of the Church.
 
 We should thus bear in mind whenever we talk of the conversion of these folks at Pentecost exactly how massive a thing this day was. For while there were believers before Pentecost, Pentecost marks the coming of Holy Spirit and beginning the Church Age as a distinct phase of human history.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Many of these new converts were the very same people who may have clamored for Jesus' crucifixion {#the-momentousness-of-acts-2-many-of-these-new-converts-were-the-very-same-people-who-may-have-clamored-for-jesus-crucifixion}
 
@@ -593,7 +593,7 @@ In some ways, this collective realization on the part of the Jews prefigures the
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Of course, we Gentiles are now part of the Church as well. But in these cases -- both past and future -- there is something decidedly *right* about God's chosen people turning to Him *en masse*, a dramatic show of collective repentance. In much the same way as the prodigal son returning home, the things out of place will be set to rights. Israel, after millennia of hardness, will have finally come home, joining us at the feet of the Father. Then we shall all truly be one in Christ, forever. 
 
@@ -601,7 +601,7 @@ At any rate, the upshot for our passage here in Acts 2 is that this event hits h
 
 So, again, we need to view this account of mass conversion at Pentecost as something a great deal more important than a bunch of random people being converted. For it marks the repentance of many Jews, who would go on to become the backbone of the very early Church as it expanded outwards from Judea to encompass the Roman Mediterranean. Those who had set themselves against God's Son came to realize the truth, and decided to be born again, throwing themselves upon the Mercy of the very one they had betrayed. It ought to give us chills, even today.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Further discussion {#the-momentousness-of-acts-2-further-discussion}
 
@@ -680,7 +680,7 @@ Of course, many times, people believe things that are false due to a veritable "
 
 ### Content {#conviction-is-not-based-upon-emotion-but-upon-the-truth-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Why emotion alone is a faulty basis for establishing spiritual truth {#conviction-is-not-based-upon-emotion-but-upon-the-truth-why-emotion-alone-is-a-faulty-basis-for-establishing-spiritual-truth}
 
@@ -698,7 +698,7 @@ To be clear, this does not mean that we need to be utterly against emotions as C
 
 The point is simply that our emotions ought not be in the driver's seat, but us. The truth is a thing independent from them. When our emotions line up with the truth, well and good. But if they do not, well, best go with the Bible, not our emotions.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Example: Facing down the wind and the waves {#conviction-is-not-based-upon-emotion-but-upon-the-truth-example-facing-down-the-wind-and-the-waves}
 
@@ -716,7 +716,7 @@ My purpose in bringing up the example of Peter's reaction here is this: it is co
 
 This is why *following* our emotions (rather than *leading* them) is dangerous.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Example: Joy in suffering {#conviction-is-not-based-upon-emotion-but-upon-the-truth-example-joy-in-suffering}
 
@@ -732,11 +732,11 @@ If you want a persuasive yet short argument against the idea of basing much of a
 
 The natural response we feel when finding ourselves in the middle of suffering is dismay, not joy. As we grow more mature, we definitely will get better at looking to the unseen spiritual dimension in order to bolster our attitude and square our shoulders like good Christian soldiers—in order to snap out of our emotion-induced pity party that much faster. The more we believe 2 Corinthians 4:17---*really* believe it—the less phased we will be by the temporary afflictions of the world. But we will still probably always have to wrestle our feelings in line at least some, to get back our peace and joy when things really get tough.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Further discussion {#conviction-is-not-based-upon-emotion-but-upon-the-truth-further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Emotional conviction vs. spiritual conviction {#conviction-is-not-based-upon-emotion-but-upon-the-truth-emotional-conviction-vs-spiritual-conviction}
 
@@ -752,7 +752,7 @@ For us to become spiritually convicted about something, the Holy Spirit operates
 
 Hopefully all this makes it clear why emotions have no part in true spiritual conviction. Emotions are simply not involved on *either* side of the equation. This means that they are, more or less, a red herring when it comes to what we ought to think, say, and do. The truth is the truth; it doesn't care if we feel good about it, if we feel downright lousy about it, or if we are somewhere in between. We still have a duty to accept it and obey it, no matter how we might feel.
 
-<!-- --- -->
+<!-- slide-break -->
 
 By way of contrast, emotional conviction operates independently from the biblical truth stored up in our hearts, and independent from the Holy Spirit's prompting. Without God's Word and the indwelling Holy Spirit coming together to shine light on our path, why would we expect emotional conviction to be worth much of anything at all? Seems obvious, right?
 
@@ -760,7 +760,7 @@ Yet, even so, it is still difficult in the moment to keep this in mind, and keep
 
 So once again, growing spiritually (by consistently reading our Bibles and taking in Bible teaching from gifted and prepared teachers) is our answer, the answer as to how to deal with emotions in a godly way. You will seldom ever be wrong in guessing that spiritual growth is the ultimate answer to some problem we might face as Christians, and this case is no exception.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Further discussion {#conviction-is-not-based-upon-emotion-but-upon-the-truth-further-discussion}
 

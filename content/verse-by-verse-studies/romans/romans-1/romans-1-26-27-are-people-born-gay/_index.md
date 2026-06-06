@@ -34,7 +34,7 @@ Since all of us struggle with different areas of sin, it does not seem to me to 
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Introduction: distinguishing between temptation and sin {#introduction-distinguishing-between-temptation-and-sin}
 

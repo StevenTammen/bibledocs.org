@@ -35,7 +35,7 @@ TODO: Summary
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Charlemagne is crowned {#charlemagne-is-crowned}
 
@@ -67,7 +67,7 @@ End:
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#summary-points}
 
@@ -80,7 +80,7 @@ As the Carolingians emerged from the Merovingians during this time, the relation
 
 Yet the crowning of [Charlemagne](https://en.wikipedia.org/wiki/Charlemagne) by [Pope Leo III](https://en.wikipedia.org/wiki/Pope_Leo_III) was a step past mere friendly relations. On Christmas day in 800 A.D., the Pope placed a crown on Charlemagne's head and declared that he was now the new emperor of the Romans (*Imperator Romanorum*). Regarding the significance of this event, depending on how you define "reigning emperor", Charlemagne was the first reigning emperor in the West since the deposition of [Romulus Augustulus](https://en.wikipedia.org/wiki/Romulus_Augustulus) in 476---more than 300 years before.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Now, some protest at this fusing of Church and State, seeing it as a terrible new development. But the truth is that Constantine already set the precedent hundreds of years before, in his politicization of the Church. So it is not quite right to treat this event as some sort of never-before-seen thing, just a continuation (and perhaps intensification) of the idea.
 
@@ -88,7 +88,7 @@ The Pope crowning a new emperor in the West strained relations with the East, wh
 
 This event also marked the beginning of what scholars typically call the the [Holy Roman Empire](https://en.wikipedia.org/wiki/Holy_Roman_Empire), at least if you take Charlemagne as the first Holy Roman Emperor (rather than [Otto the Great](https://en.wikipedia.org/wiki/Otto_the_Great), who was crowned in 962 by [Pope John XII](https://en.wikipedia.org/wiki/Pope_John_XII)).
 
-<!-- --- -->
+<!-- slide-break -->
 
 In examining Charlemagne, aside from discussing what his reign was like generally, we will discuss:
 
@@ -96,7 +96,7 @@ In examining Charlemagne, aside from discussing what his reign was like generall
 2. What effect his reign had on European culture (e.g., through the [Carolingian Renaissance](https://en.wikipedia.org/wiki/Carolingian_Renaissance))
 3. How he shaped and changed the Church as it developed from an early ancient Church into a medieval western European Church.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#follow-on-topics}
 
@@ -114,13 +114,13 @@ I think it is important to emphasize exactly how much the Catholic Church change
 
 For example, nowadays the Vatican is not able to exert very much foreign policy influence (at least when compared in a relative sense to what they did with the [Holy Roman Empire](https://en.wikipedia.org/wiki/Holy_Roman_Empire) and so on), and certainly at this point we describe here in the mid to late 700s, they could barely survive themselves, much less influence other nations.
 
-<!-- --- -->
+<!-- slide-break -->
 
 So it is interesting to consider what sort of explanations Catholic theologians might try to make in order to justify and explain the vast changes in how the Catholic Church expressed itself and exerted its influence across time and place and circumstance. As I see things, it is a problem they truly must grapple with.
 
 We Evangelical Protestants have no such concern (at least those of use who believe in a decentralized "each Church is directly accountable to God with no larger hierarchy" form of church polity), because under this model, churches have nothing to do with political power, but are solely focused upon teaching the Word of God.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Charlemagne's military conquests {#charlemagne-s-military-conquests}
 
@@ -154,7 +154,7 @@ End:
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#summary-points}
 
@@ -168,7 +168,7 @@ Charlemagne also created borderland regions that came to be known as [marches](h
 
 All said and done, after his conquests, Charlemagne ruled an empire that spanned some 800+ miles across most of the arable land of Europe.
 
-<!-- --- -->
+<!-- slide-break -->
 
 So how was Charlemagne so successful militarily, such that he could conquer all this land?
 
@@ -180,7 +180,7 @@ Some scholars have postulated that a wider adoption of the stirrup in this timef
 
 At any rate, the Carolingian military proved to be very effective. However, they were not invincible. For example, Charlemagne sent troops down to try to retake certain portions of Muslim Spain, and they got pretty soundly defeated in the [Battle of Roncevaux Pass](https://en.wikipedia.org/wiki/Battle_of_Roncevaux_Pass) (a defeat captured in the epic poem the [*Song of Roland*](https://en.wikipedia.org/wiki/Song_of_Roland)).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#follow-on-topics}
 
@@ -198,19 +198,19 @@ The question of exactly how much the wider adoption of stirrups as cavalry techn
 
 The power of narrative ("spin" if want to use a dirtier word for it) in historical analysis is huge. That is to say, the way in which things are framed and explained can very strongly shape what people make of them. One might not care in a moral sense whether stirrups really had a big impact here, but what about when we are not talking about stirrups, but some biblical concept?
 
-<!-- --- -->
+<!-- slide-break -->
 
 An errant word or comment, when it comes from a Bible teacher in a position of authority, can fundamentally alter how lay Christians view entire topics. If we come up with a meta-narrative about something in scripture *but get it wrong*, it can lead to a certain form of spiritual blindness in those who buy into our incorrect narrative. They may thereafter have a terribly hard time reading the Bible through any other lens than the false one we handed to them.
 
 Consider, for example, the doctrine of the pre-tribulation rapture. There is not a single Bible verse that directly teaches that the event that we call the rapture (as described in 1 Corinthians 15 and 1 Thessalonians 4, for example) will happen before the events of the tribulation. Yet because people were exposed to this way of looking at things, they unconsciously interpret all the passages this way, making it very difficult for other possible interpretations (like the one that holds that this event happens when Jesus returns at the end of the tribulation, directly preceding Armageddon) to even be considered.
 
-<!-- --- -->
+<!-- slide-break -->
 
 And so it is that Bible teachers need to respect the power of ideas to shape belief, and take care not to teach anything past that which it is clearly safe to teach. Any mistakes we make are costly---proportionally much more so than a perhaps overblown theory about the importance of stirrup technology on the development of medieval Europe. For while mistaken scholarly ideas can give people misimpressions about history, mistaken theological ideas can give people misimpressions about God or the Bible.
 
 We do not want to find ourselves facing the words of Matthew 18:6. So we'd best watch our words and make sure we aren't merely theorizing or hypothesizing, but teaching from a position of full certainty. In other words, we should leave speculation to the scholars, because it has no place whatsoever in the pulpit.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The Carolingian Renaissance {#the-carolingian-renaissance}
 
@@ -243,7 +243,7 @@ End:
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#summary-points}
 
@@ -254,7 +254,7 @@ Despite all his successes in the military sphere, Charlemagne was not just a mil
 - He organized land registries and tax systems to keep track of who owned what.
 - He poured resources into the legal profession: laws and precedents were codified and written down.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Aside from new legal and administrative practices, there was also during Charlemagne's reign what historians call the Carolingian Renaissance: a time period during which there was a flourishing of intellectual activity---letters, arts, manuscripts, etc.
 
@@ -262,13 +262,13 @@ Think back to what we discussed [before]() with regards to how some people perce
 
 Because Charlemagne taking interest in these things was perhaps as much about preserving Roman culture as the advancement of it; there was clearly a concerted effort to ensure that the Roman culture---the *Romanitas*, the ways in which the old world had engaged in the life of the mind---was going to continue. And so in fact it is simply not true that Roman culture (including the parts of it that are definitely more art than political norm or engineering practice) did not just "go dark" for hundreds of years, only to return with the Italian Renaissance.
 
-<!-- --- -->
+<!-- slide-break -->
 
 As one might expect, the cultural explosion during the Carolingian Renaissance had far-reaching effects. For example, we might consider architecture. According to Dr. Reeves's numbers, by one count, between 768 A.D. and 855 A.D., there were 30 cathedrals and 417 monasteries built across the Frankish Empire (and that is not even counting palaces for the dukes and counts, which also involved plenty of architecture). In fact, not a few of the medieval castles in Europe (at least those in areas that used to belong to the Frankish Empire) belong to this architectural period.
 
 Charlemagne also tried to gather together leading intellectuals. Prior to the Carolingian Renaissance and concentration of scholars in the Frankish court, one of the leading places of scholarship was actually the British Isles. Their monks were literate and wrote a great deal (for example, cf. the [Venerable Bede](https://en.wikipedia.org/wiki/Bede) and others). But Charlemagne tries to draw people from all over Europe to his court in Aachen, from Lombardy to Britain, and everywhere else besides.
 
-<!-- --- -->
+<!-- slide-break -->
 
 One of the more important figures Charlemagne manages to draw to his court was [Alcuin of York](https://en.wikipedia.org/wiki/Alcuin). Around 781 A.D., on the way back from a successful embassy to convince the Pope to support an Archbishopric in York (in addition to the already existing Archbishopric in Canterbury), Alcuin apparently meets Charlemagne. (Whether or not this was their first meeting is sort of irrelevant to the fact that this meeting did in fact happen). Soon after, he was persuaded to join Charlemagne's court at Aachen, running both the palace school and *scriptorium*.
 
@@ -278,25 +278,25 @@ Whether or not he himself actually actually developed it, Alcuin seems to have h
 - A combination of uppercase and lowercase for subtitles
 - Spaced-out words (!) and more liberal use of punctuation (!)
 
-<!-- --- -->
+<!-- slide-break -->
 
 All of this might not seem all that important, but relative to previous writing systems where everything was uppercase with no spaces or punctuation, Carolingian miniscule makes everything a lot easier to work with, especially for people without the specialized training and practice necessary to make sense of the former sort of writing (...which is most of us who are not professional academics).
 
 As the Carolingian Empire fades and the High Middle Ages come about, a new script takes over called [Gothic script](https://en.wikipedia.org/wiki/Gothic_script_(palaeography), and we are back to pain and suffering. Gothic script is maybe not quite as impenetrable as the ancient Roman scripts, but it is nonetheless clearly a step backwards in legibility, relative to Carolingian miniscule.
 
-<!-- --- -->
+<!-- slide-break -->
 
 During the Italian Renaissance, amusingly, scholars of the time came to think that Carolingian miniscule was the ancient Roman script (whereas actually, any copies of ancient texts written in Carolignian miniscule came about in the 8th century or later). Terming it *litteria antiqua* ("antique letter"), they based their own writing systems off of it, all the while looking down on everything between ancient Rome and them. The irony is that the texts they came to appreciate were actually from the very times they were so quick to dismiss as ignorant and backward!
 
 This misapprehension meant that Renaissance typography was actually based off of Carolingian miniscule, and since printed fonts (from the printing press all the way to modern printed fonts on computers) have all been based off of Renaissance typography, in essence, they also trace their origin to Carolingian miniscule. Modern Latin script fonts therefore owe much to the Carolingian Renaissance, whether they know it or not.
 
-<!-- --- -->
+<!-- slide-break -->
 
 In some ways, you might consider Carolingian miniscule as a wider symbol of the educational reforms that Charlemagne pushed for in the Carolingian Renaissance. We should note that Charlemagne himself seems to not have been fully literate (although scholars debate about the exact level of Charlemagne's education). In some ways, this makes the heavy emphasis he puts on learning and education all the more interesting: he was doing all of this without even being able to fully taste the fruits of all these intellectual labors he was funding.
 
 But nonetheless, he was quite consistent in such funding, and this is what drives the Carolingian Renaissance. All of this was also not just limited to Aachen (although the court there was definitely the intellectual center of the empire; more on Aachen in a moment). For example, Charlemagne mandated a widespread, authorized revision of the Vulgate and ordered that corrected, accurate copies be produced and distributed to monasteries and cathedral libraries across the empire.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#follow-on-topics}
 
@@ -312,7 +312,7 @@ Paleography is important in studying ancient texts. By analyzing the writing sty
 
 One has to be careful though, as writing styles changed not only with time, but also with geographic location. And every once in while, you might bump into texts written in a writing style "before their time" (so to speak); that is, texts that were written in a particular writing style years or even decades before that writing style came to be widespread. And of course, just because a writing style fell out of fashion (for example, like how Carolingian miniscule did when Gothic script came on the scene) does not mean that absolutely everybody stopped using the writing style (and especially not all at once). This means that if you wed yourself too firmly to dating texts by paleography alone, you can occasionally get yourself into trouble.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Also, this sort of thing works best when we have records about the development of the new writing style that lets us date it precisely. For example, we know from various sources that Carolingian miniscule script was developed around the late 8th century---we can pretty narrowly define when the writing style came into existence. This is far from the case for other writing styles. The further back you go and the more sparse the documentary meta-evidence about the writing system itself, the worse this gets. It doesn't help that oftentimes scripts were developed as an accumulation of subtle changes over time, rather than all at once like Carolingian miniscule was. This can make determining what is older than what much harder than might initially be apparent.
 
@@ -320,7 +320,7 @@ Also, this sort of thing works best when we have records about the development o
 
 In my opinion, while this is fascinating and introduces some much-needed quantitative measures into the process, even here certainty is less than 100%. For example, how do you know that the age of the materials upon which the text was written exactly matches the time the text was written? It is probably usually close, statistically speaking, but even that is a bit of an assumption. And of course [palimpsests](https://en.wikipedia.org/wiki/Palimpsest) make all of this even more complicated. (Although palimpsests were much more common with animal hide parchments compared to papyri, so that is something).
 
-<!-- --- -->
+<!-- slide-break -->
 
 In short, paleography is part and parcel of what historians must do in order to accurately analyze ancient texts, and this is no different when it comes to biblical texts. But as you can see, the process is a bit complicated. We go through all of this not to say that we should lose trust in our understanding of ancient texts (including the biblical text), but in order to show that a great deal of scholarship is necessary for us to get to the bottom of things in a truly rigorous sort of way.
 
@@ -328,11 +328,11 @@ In short, paleography is part and parcel of what historians must do in order to 
 
 I will say that both paleography and textual criticism have been much helped by technological innovation. Modern digital transcriptions of ancient texts mean that nowadays only a very small number of highly proficient scholars need to suffer through the original manuscripts in order to produce the digital transcriptions, and the rest of us can simply stand upon their shoulders (and perhaps double-check them occasionally, in controversial places).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Aachen was the epicenter of the Carolingian Renaissance {#aachen-was-the-epicenter-of-the-carolingian-renaissance}
 
@@ -364,7 +364,7 @@ End:
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#summary-points}
 
@@ -378,13 +378,13 @@ On one end was the [council hall](https://en.wikipedia.org/wiki/Palace_of_Aachen
 - He issued legal rulings
 - Etc.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Off of the council hall was a tall tower containing [the treasury and the archives](https://en.wikipedia.org/wiki/Palace_of_Aachen#Treasury_and_archives) for the Frankish Empire. With respect to the treasury, it is from here that some of the economic policy of Charlemagne's rule would have likely originated. For example, currency switched from a gold-based system to more of a silver-based system, which had certain advantages. With respect to the archives, they would have contained a repository of the decisions, artifacts, and manuscripts that were developed at the palace.
 
 The collection of manuscripts in particular made the archives at Aachen special. If it were not for the manuscript collection in this tower, significant numbers of manuscripts from the ancient world that we still have today would perhaps have been lost; something in the neighborhood of 7,000 manuscripts survived through this collection. This would include texts that we don't have the originals for, or even any earlier copies of. What happened is that Charlemagne paid for these manuscripts to be recovered from wherever they might have been initially, then brought to Aachen and copied. This practice made the tower archives at Aachen an invaluable library of knowledge in the Middle Ages, and important document source for historians.
 
-<!-- --- -->
+<!-- slide-break -->
 
 On the other side of palace complex was the grandest building of them all: the [Palantine Chapel](https://en.wikipedia.org/wiki/Palatine_Chapel,_Aachen). This building:
 
@@ -394,7 +394,7 @@ On the other side of palace complex was the grandest building of them all: the [
 
 In this chapel complex, Charlemagne would sit on the second floor (up above for all to see) upon a marble throne. The imagery here was that Charlemagne occupied an elevated---almost divine---seat of power. You could argue that it is perhaps out of this that later monarchial developments (like the exultation of kings from human rulers to quasi-sacred beings) come about.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Other buildings at the Aachen palace complex also existed:
 
@@ -403,7 +403,7 @@ Other buildings at the Aachen palace complex also existed:
 - There were barracks
 - There were even baths built on top of the hot springs present there
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#follow-on-topics}
 
@@ -419,7 +419,7 @@ Have you ever considered where exactly scholars get ancient texts from? When you
 
 Most of us have probably heard of the famed library of Alexandria, and [its supposed burning](https://en.wikipedia.org/wiki/Library_of_Alexandria#Burning_by_Julius_Caesar) (which... may not have actually destroyed the whole library, according to some scholars). Regardless of the specifics, this is the sort of historical event that shows the utter fragility of textual transmission in antiquity.
 
-<!-- --- -->
+<!-- slide-break -->
 
 We "know of" far more texts than we actually have copies of. What I mean by that is that some ancient texts reference other texts that apparently did not survive and come down to us in the present. Spotty transmission is common especially for the works of minor authors or less important individuals. Because hand-copied texts in antiquity were very expensive, most of the time only texts with substantial value or significance (or rather, *perceived* substantial value and significance) were widely copied, and therefore survived.
 
@@ -427,7 +427,7 @@ Even so, some important texts come down to us only in handful of copies (cf. the
 
 Hopefully all of this can help explain why Dr. Reeves spent the time he did discussing the manuscript archives in the palace at Aachen that housed those 7,000 manuscripts. No matter what we may think of Charlemagne's court overall, these works of his *scriptorium* are things that we can certainly thank him for as historians.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### How Charlemagne shaped and changed the Church {#how-charlemagne-shaped-and-changed-the-church}
 
@@ -461,7 +461,7 @@ End:
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#summary-points}
 
@@ -476,14 +476,14 @@ Charlemagne does a number of things to ensure the regulation of the churches in 
 - He tries to ensure education amongst the clergy such that there are "quality sermons" (according to their definition of the concept, at any rate).
   - He goes so far as to draw up a list of model sermons that can be read aloud if the person to give a sermon is unable to come up with one on his own.
 
-<!-- --- -->
+<!-- slide-break -->
 
 All of this is important because in it we see Charlemagne taking steps to develop a cohesive Catholic identity in Western Europe:
 
 - Were Charlemagne to not have implemented the policies he did in Western and Northern Europe, the papal Catholic faith might have been delayed if not attenuated altogether in some parts of these regions.
 - But instead, with Charlemagne stressing the Catholic faith and papal obedience, we see Europe develop increasingly in the Middle Ages towards a unified Catholic Church.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#follow-on-topics}
 
@@ -501,7 +501,7 @@ From the point of view of us Evangelical Protestants, it does not much matter ho
 
 So, for example, we might note that nowhere does the New Testament command tithing. But did Charlemagne implement a mandatory tithe because of an argument from scripture? My thesis is that trying to view these developments in those terms is not quite proper. These reforms were political just as much as they were theological, as I see things. This doesn't necessarily make them evil or anything like that; it simply means that viewing them as theological developments is somewhat misguided. Instead, these were simply things that we find in the pages of history, done by other claiming Christ.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Fortunately, our epistemology as *sola scriptura* Evangelical Protestants allows for this without any issue. Since we base what we do off of the Bible and the Bible alone (or at least we ought to), we needn't overly concern ourselves with what things other self-professed Christians throughout history got up to, since none of our interpretation ever depends upon tradition.
 
@@ -509,11 +509,11 @@ The idea being introduced here is powerful in its ability to sidestep most eccle
 
 So we just need to be sure we keep all of this in mind when we consider things done in the name of the Church---that the greater part of events of this sort have little to do with theology proper, and should therefore be treated first and foremost as history. Including what Charlemagne was doing here.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### After Charlemagne {#after-charlemagne}
 
@@ -543,7 +543,7 @@ N/A (to very end of end of video = no srcend needed)
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#summary-points}
 
@@ -551,7 +551,7 @@ Despite Charlemagne's great achievements in terms of unifying the Frankish empir
 
 Charlemagne's descendants squabbled over matters of succession in much the same way as the Merovingians that we previously discussed. In fact, within two generations of Charlemagne's death, we see the Frankish empire caught in civil war between three brothers: [Lothair I](https://en.wikipedia.org/wiki/Lothair_I), [Louis the German](https://en.wikipedia.org/wiki/Louis_the_German), and [Charles the Bald](https://en.wikipedia.org/wiki/Charles_the_Bald). All three brothers initially received divided portions of the Frankish empire, and for a number of reasons they end up going to war with each other.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Lothair I initially had the upper hand, but his other brothers Louis the German and Charles the Bald managed to defeat him, and in 843 the [Treaty of Verdun](https://en.wikipedia.org/wiki/Treaty_of_Verdun) was signed. This treaty essentially divided the lands:
 
@@ -561,7 +561,7 @@ Lothair I initially had the upper hand, but his other brothers Louis the German 
 
 From this treaty we actually see the outlines of modern European countries that exist to this day, like Italy, Germany, and France. Now, while the eastern and western portions of Francia remained largely unified and eventually developed into what became Germany and France (respectively), the Italian portion splintered into multiple different regions after the death of Lothair I, which remained split (albeit with various different kingdoms rising and falling over the centuries) all the way up until the [Unification of Italy](https://en.wikipedia.org/wiki/Unification_of_Italy) (*Risorgimento*) in the 19th century.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Division of lands aside, what about the title of Holy Roman Emperor? Initially, Charlemagne stuck to traditional Frankish inheritance laws—where realms were divided among all surviving sons—rather than making his newly revived imperial title hereditary. However, two of Charlemagne's three sons died before him, eventually leaving [Louis the Pious](https://en.wikipedia.org/wiki/Louis_the_Pious) as his sole heir. So shortly before his death, Charlemagne crowned Louis the Pious as co-emperor, passing on the title. However, the title did not get cleanly passed down after that, as the empire was torn apart by the civil war we mentioned above (between the sons of Louis the Pious = Charlemagne's grandsons).
 
@@ -569,7 +569,7 @@ Eventually, it is Germany (the region of Eastern Francia) that comes to dominate
 
 The Germanic Holy Roman Empire managed to survive nearly a millennia (all the way [until 1806](https://en.wikipedia.org/wiki/Dissolution_of_the_Holy_Roman_Empire), when Napoleon's rapidly expanding power forced [Francis II](https://en.wikipedia.org/wiki/Francis_II,_Holy_Roman_Emperor) to abdicate or else risk [Napoleon](https://en.wikipedia.org/wiki/Napoleon) claiming the imperial title for himself).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#follow-on-topics}
 
@@ -593,7 +593,7 @@ Yet within two generations, everything he had built up was consumed by the flame
 
 {{% /scripture %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Even the greatest of human rulers cannot safeguard their achievements. Their reigns are temporary, and when they die, all of their efforts may fall apart and wither away. And there is *absolutely nothing* they can do about it.
 

@@ -40,7 +40,7 @@ To help conceptualize the overall sweep of the times, the Middle Ages are typica
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### The Middle Ages were not actually as dark and dreary as all that {#the-middle-ages-were-not-actually-as-dark-and-dreary-as-all-that}
 
@@ -73,7 +73,7 @@ that they have some preconceptions on that they can then develop and shape but w
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#summary-points}
 
@@ -85,7 +85,7 @@ In 1605, Miguel Cervantes published *Don Quixote*, in two volumes.
   - Played for comedy, brutally satirizing medieval chivalric idealism. Don Qixote's squire (named Sancho Panza, whose background is that of a simple farmer) plays the straight man to Don Qixote's over-the-top delusions.
   - The humor comes from Don Qixote attempting to impose a 12th-century code of chivalric knighthood onto 17th-century Spain.
 
-<!-- --- -->
+<!-- slide-break -->
 
 This work helps fight against prevailing misconceptions about the Middle Ages:
 
@@ -97,7 +97,7 @@ Media tropes concerning the period help perpetuate this line of thought:
 - *Monty Python and the Holy Grail*, for example. Obviously we oughtn't evaluate a work of comedy through an overly historical hermeneutic, but nonetheless the point is that clearly the setting is taken to be moderately to severely depressing.
 - If you are not yourself dying of the plague, then you are carting a wheelbarrow around to pick up those who did die of it. And so forth.
 
-<!-- --- -->
+<!-- slide-break -->
 
 But actually this period was not so uniformly awful as all this might lead one to believe.
 
@@ -107,7 +107,7 @@ Although this period did have its fair share of quirks.
 
 - Strange superstitious nonsense, chastity belts, the whole nine yards. 
 
-<!-- --- -->
+<!-- slide-break -->
 
 To us in the 21st century, various features about their way of life can seem odd to us. For example:
 
@@ -119,7 +119,7 @@ We can often find ourselves falling into intellectual snobbery as a result of th
 
 In fact, on the stage of human history, the modern time (in the sense of the internet age, with constant communication and connectedness) is the decidedly weird period. The Middle Ages were far more "normal" compared to the rest of history, relative to us.
 
-<!-- --- -->
+<!-- slide-break -->
 
 So we definitely ought not blanket condemn the whole period with derision. There are things that come out of it that are definitely exciting and interesting (from a historical point of view, if nothing else):
 
@@ -128,7 +128,7 @@ So we definitely ought not blanket condemn the whole period with derision. There
 - Stories of [King Arthur](https://en.wikipedia.org/wiki/King_Arthur) and [Robin Hood](https://en.wikipedia.org/wiki/Robin_Hood)
 - Dante's Trilogy, AKA [*The Divine Comedy*](https://en.wikipedia.org/wiki/Divine_Comedy) (Italian: *La Divina Commedia*)
 
-<!-- --- -->
+<!-- slide-break -->
 
 There were also developments in theology (cf. again Dante). We Protestants are sometimes suspicious of these developments (and quite rightly so, in some cases), but nonetheless, to fully understand the Reformation, you have to understand that which came before in the Middle Ages:
 
@@ -137,7 +137,7 @@ There were also developments in theology (cf. again Dante). We Protestants are s
 
 Luther and other reformers would eventually react against portions of this period's theological developments, but that doesn't make these things completely useless. For much the same reason why we study Arianism even though it is false in order to better understand the Trinity, we study some of these theological developments in the Middle Ages in order better understand the Reformation.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Of course, the views of some individuals carried forward more fully too, making these folks true "Forerunners to the Reformation" (if you will):
 
@@ -145,7 +145,7 @@ Of course, the views of some individuals carried forward more fully too, making 
 
 What these men did in theology—in changing, developing, and in some ways working against the Catholic Church—has much in common with later reformers like Luther and Calvin.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Literature and theology aside, the Middle Ages also had some other interesting developments:
 
@@ -155,7 +155,7 @@ Literature and theology aside, the Middle Ages also had some other interesting d
 
 When you lay all of these things out and pull everything together, you get a more accurate composite picture of the Middle Ages (as opposed to the overly simplistic uniformly negative caricatures of it, as discussed above).
 
-<!-- --- -->
+<!-- slide-break -->
 
 With this more complete picture, we may in fact find that far from being foreign or strange, the culture of the Middle Ages may, in some respects, be more easily grasped by modern audiences than the culture of the Early Church. This is because some facets of the time period of the Early Church truly are quite different from and wholly incompatible with Evangelical Protestantism:
 
@@ -165,7 +165,7 @@ With this more complete picture, we may in fact find that far from being foreign
 
 While in the Middle Ages, even if their way of doing things had not grown up to be Protestantism quite yet, there were at least some whispers along those lines. Those whispers can make us feel a bit more at home overall.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#follow-on-topics}
 
@@ -181,19 +181,19 @@ If most artistic representations of the Middle Ages portray it in a certain way,
 
 This is not to say one must never consume art. More the point is that one ought never really look to it for any sort of factual information. Unfortunately, this is the exact opposite of how history-focused art typically advertises itself. That is, it typically shouts the equivalent of "Learn about the past through me!" rather than "Nothing I portray is likely to have any sort of rigorous scholarly analysis behind it, so you should trust almost none of it!"
 
-<!-- --- -->
+<!-- slide-break -->
 
 This is unfortunate. This is why people think Marie Antoinette said "Let them eat cake!" (*Qu'ils mangent de la brioche*), despite the quote showing up in Jean-Jacques Rousseau's *Confessions* in 1765... 24 years prior to the French Revolution, and when Antoinette was nine years old and had never been to France. Whoops.
 
 In our context, common misconceptions about the Middle Ages have much to do with fanciful artistic representations of it, and this is an excellent example of the "art is often wrong, and mostly untrustworthy as a scholarly source" phenomena under discussion here. So any time in the future you are tempted to base any of your views about something off an artistic representation of it rather than something more rigorous, try keep in mind how terribly wrong most art gets the Middle Ages.
 
-<!-- --- -->
+<!-- slide-break -->
 
 <!-- TODO: link to exact content in discussion/ryan-reeves/shorter-topical-studies/the-ancient-roman-world/#video-intro-the-roman-world -->
 
 As I've [mentioned elsewhere on the site](), this holds just as much for theology-focused art as history-focused art. And this is why things like [The Chosen](https://en.wikipedia.org/wiki/The_Chosen_(TV_series)), [The Passion of the Christ](https://en.wikipedia.org/wiki/The_Passion_of_the_Christ), and so on ought to be viewed more as entertainment with potentially glaring factual inaccuracies than anything more useful in terms of developing one's academic understanding. Not holding them at arms length with a degree of measured skepticism inherently opens one up to theological misimpressions, as I see things. Misimpressions are bad enough when they are in relation to our understanding of secular history, but it is an entirely different kettle of fish when it comes to our theological beliefs, because it is ever so much more important for us to strive for 100% accuracy when it comes to spiritual truth. The stakes are so much higher in this area that we ought to accept nothing but exacting rigorous scholarly analysis, and absolutely nothing less than that.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The Middle Ages too are important in the development of Western Civilization, not just Greece and Rome {#the-middle-ages-too-are-important-in-the-development-of-western-civilization-not-just-greece-and-rome}
 
@@ -209,13 +209,13 @@ Yet despite being biased in this way, I can tell you that the developments that 
 
 The transformation of the broken Western empire of the early 5th century into modern Western Europe is a fascinating progression of kings and empires, of Popes and power. 
  
-<!-- --- -->
+<!-- slide-break -->
 
 You cannot skip straight from Greece and Rome to the Renaissance and pretend like everything in between never happened (no matter what the biased Renaissance writers would have you think). Trying to understand modern European history without the bit in the middle will leave you flying blind, and with a terribly warped view of what actually happened and why.
 
 We should not think ourselves too good for this period of history, even if it hasn't always historically gotten as much love as other periods before and since. And as Dr. Reeves has taken pains to point out in this section, there are plenty of interesting developments in the Middle Ages to study; we do not have to grasp at straws to make it interesting, because it already is so from the outset.
 
-<!-- --- -->
+<!-- slide-break -->
 
 
 ### The Early Middle Ages, High Middle Ages, and Later Middle Ages {#the-early-middle-ages-high-middle-ages-and-later-middle-ages}
@@ -248,7 +248,7 @@ happened in the high Middle Ages during the so-called pristine years and you can
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#summary-points}
 
@@ -257,7 +257,7 @@ The Middle Ages are typically broken down into three separate periods of time th
 - These three periods of time are in many ways simply arbitrary and artificial, being the inventions of historians. That is to say, nobody that lived a few year after one of the boundary points would have said "Gee, I'm so glad I now live in this new period!" or anything like that.
 - Instead, these divisions are made to help us as students of history better make sense of the overall scope of the Middle Ages, given the broadness of their chronological span.
 
-<!-- --- -->
+<!-- slide-break -->
 
 First we have the Early Middle Ages (c. 500 A.D. to c. 1000 A.D.).
 
@@ -265,7 +265,7 @@ If you wish to call any period of time "The Dark Ages", then this period of time
 
 The "darkness" here (insomuch as this term is not so entirely unhelpful to the point one would wish to avoid using it altogether) has less to do with spiritual or moral decline—as if people in this period were largely apathetic or hostile when it came to church involvement or theological engagement—but is instead best understood in light of a relative paucity of written sources from this time period when compared to Classical Antiquity and the periods that follow, and also a less strong emphasis on the texts of Classical Antiquity during the period. To later writers like Petrarch, the absence of the "light" of the cultures of Roman and Greek Antiquity (which light was "rediscovered" and firmly embraced in the Renaissance) is what made this period dark, supposedly.
 
-<!-- --- -->
+<!-- slide-break -->
 
 While there is perhaps an argument to be made for the appropriateness of the title "Dark Ages" if one considers the relative-lack-of-written-sources angle (since less direct textual evidence really does complicate the job of historians trying to accurately map out the events and developments of the time), modern historians have largely abandoned the label as misleading, since it oversimplifies the era and implies a total lack of advancement, which simply wasn't the case.
 
@@ -275,7 +275,7 @@ In any case, a few different variables end up making the Early Middle Ages a per
 - Ongoing fallout from the destruction of the unified Roman Empire, which up until its collapse, had been a sort of glue holding together the unity of East and West.
 - A rising force of nationalistic sentiment.
 
-<!-- --- -->
+<!-- slide-break -->
 
 It is in this period that nations (like France and Germany and England) started to coalesce and take shape. This occurred alongside (and perhaps in part, because of) linguistic fragmentation. As people moved from Latin to more vernacular languages, different cultural identities formed, and things proceeded naturally from there.
 
@@ -283,7 +283,7 @@ Now, there was a push to resist this rising tide of linguistic fragmentation. Ch
 
 Despite all of this making this period objectively somewhat more challenging to understand from a holistic literary or theological standpoint, we nonetheless possess more than enough evidence to come to accurate conclusions about the Early Middle Ages. It just takes a bit more scholarly elbow grease to get there, compared to some other times and places in history that have a greater variety of evidence to simplify the process of piecing things together.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Next we have what is often referred to as the High Middle Ages (c. 1000 A.D. to c. 1300 A.D.). In the opinion of some, this period represents the period of time during which the Middle Ages were at their best, with:
 
@@ -294,7 +294,7 @@ Next we have what is often referred to as the High Middle Ages (c. 1000 A.D. to 
 
 This was also the period during which the Crusades occurred, which somewhat leads one to wonder whether this time period is truly worthy of its title that suggests positive moral excellence.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Finally, we have the Later Middle Ages (c. 1300 A.D. to c. 1500 A.D.). Nowadays, of the three divisions, this is probably the one that has the greatest amount of ongoing scholarly debate in regards to its nature.
 
@@ -304,7 +304,7 @@ Such a point of view has fallen out of favor in the eyes of some as once again b
 
 Now, the fact that some of the directions ended up being bad does not mean therefore that none of the directions were good. While there certainly were troubling things during this period, it is nonetheless not entirely accurate to label the entire time as some cesspool of bad thinking and bad theology.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Why then was such a point of view ever put forward? It is possible it is a combination of reasons:
 
@@ -315,11 +315,11 @@ Why then was such a point of view ever put forward? It is possible it is a combi
 
 However, we cannot completely pin all the sins in the Middle Ages onto the Later period, particularly since the Crusades and a number of other troubling things definitely happened during the High Middle Ages (contrary to their reputation for being the pristine golden years), not the Later Middle Ages.
 
-<!-- --- -->
+<!-- slide-break -->
 
 While Luther and the reformers do certainly react against specific developments in the Later Middle Ages (such as blatant corruption in the selling of indulgences), it is not inaccurate to say that they reacted against the Middle Ages as a whole, not just the one specific period. For this reason, we need not try to make the facts fit some neat narrative where only one period of the Middle Ages is seen as being the worst time or as the the only time that really kind of got things wrong. History is very seldom as tidy and easy to categorize as that... which ought to make us skeptical of this point of view's overall accuracy.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#follow-on-topics}
 
@@ -337,11 +337,11 @@ When pointing out that this division is arbitrary (not to mention the fact that 
 
 There can be great utility in later historians analyzing and categorizing periods of history based on shared commonalities and characteristics. Doing things like this often helps us better understand the spread of people, technology, ideas, and so on across places and times, in a way that would be much less readily understandable if we were not to use such labels and make such distinctions.
 
-<!-- --- -->
+<!-- slide-break -->
 
 In fact, this sort of thing is largely why history as a profession even exists. That is to say, nerding out on the details and posing conceptual frameworks for understanding the past is sort of what professional historians get paid to do to begin with, so we ought not look at the products of their process with more skepticism than is truly warranted. They are theories rather than fact, to be sure, but they are nonetheless very useful tools in our analysis, and we would be far less better off if we refused to ever use them out of some misplaced sense of "accuracy" or "avoidance of anachronism" or what have you.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Historical scholarship can be tested and updated based upon new evidence and analysis, much in the same way as hard sciences {#historical-scholarship-can-be-tested-and-updated-based-upon-new-evidence-and-analysis-much-in-the-same-way-as-hard-sciences}
 
@@ -357,7 +357,7 @@ I will not deny that there are branches of the humanities that tend to lean away
 
 When done right, the conceptual frameworks that are proposed as a part of historical analysis can be viewed much in the same way as hypotheses and theories in formal science. What we mean by that is that they may be formally tested, to see if the data supports or rejects the hypothesis.
 
-<!-- --- -->
+<!-- slide-break -->
 
 In our context, the hypothesis "Between the fall of Rome and the beginning the Renaissance was a period in Western Europe of stalled forward progress" is what was tested, and found by most professional historians to be wanting. It is sort like early scientists thinking that things orbit around the earth rather than the sun, or thinking that matter was made of of fundamental elements (like Fire, Air, Water, and Earth---cf. Aristotle) instead of atoms.
 
@@ -365,7 +365,7 @@ When more data rolled in, the professional scientists updated their theories. So
 
 This "changing of their minds" does not make history as a field unrigorous any more than scientists updating their theories of planetary orbits or the composition of matter makes the fields of astronomy and particle physics unrigorous. In all cases, hypotheses are being tested and updated based upon the evidence available at the time.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Future topics in our study of the Middle Ages {#future-topics-in-our-study-of-the-middle-ages}
 
@@ -397,7 +397,7 @@ Reformation which broke away from the medieval perspective **on faith Theology a
 
 -->
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#summary-points}
 
@@ -413,7 +413,7 @@ First, concerning the rise of nations, we will be looking at:
 - Scandinavian culture, and the Vikings.
 - Etc.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Then, moving into the High Middle Ages and Later Middle Ages, we will examine (from the level of both the lay and the clergy) topics like:
 
@@ -423,7 +423,7 @@ Then, moving into the High Middle Ages and Later Middle Ages, we will examine (f
 - The breakdown of society—how it was arranged into three different ["estates"](https://en.wikipedia.org/wiki/Estates_of_the_realm) (something along the lines of 1) Clergy, 2) Nobles, and 3) Peasants/Merchants = everyone else who did not belong to the first two estates).
 - Developments in the papacy—how did it rise, how did it becomes strong, and how did it face the series of crises that came up (like getting co-opted by the French government, and even fracturing into multiple pieces with multiple Popes floating about, for a time).
 
-<!-- --- -->
+<!-- slide-break -->
 
 In short, we will be arguing that the Middle Ages are actually quite fascinating, rather than being irrelevant or too hard to study on account of fewer overall textual sources. The goal is to:
 
@@ -432,7 +432,7 @@ In short, we will be arguing that the Middle Ages are actually quite fascinating
 3) We can get a general understanding of the medieval church, so that
 4) We can properly contextualize the Protestant Reformation, which in some ways broke away from the medieval perspective on faith, theology, and the Bible.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#follow-on-topics}
 
@@ -448,13 +448,13 @@ If there is one thing to get from this last section, it would be the fact that y
 
 If the Reformation was a reaction to something, then trying to analyze it without know what it was reacting against is necessarily doomed to failure. Studying the Reformation without the context of the Middle Ages is just as foolish as trying to study the French Revolution without first studying the French Monarchy, or trying to study the American Revolution without first studying Colonial America.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Generalizing the principle, studying any sort of rebellion or push to reform in history without first understanding what caused the pushback is not going to work very well. Events happen within a specific set of circumstances, and the logic that drives them operates within that individual context. If you try to remove the events from their context, it will be much, much harder to properly trace the lines of cause and effect... which is a huge part of understanding history as anything more than a jumble of facts (names, dates, places, etc.) floating about in the void. In other words, getting to the bottom of "the why" is just about the entire point of the overall effort, so any approach that militates against such is eminently counterproductive.
 
 So *this* is why we study the Middle Ages before turning our attention to the Reformation. It is not that you cannot say anything about the Reformation without the full context, but that having the full context allows one to analyze the Reformation to a degree that is simply impossible without it.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% /content %}}
 

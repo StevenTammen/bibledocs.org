@@ -37,7 +37,7 @@ It is a good question, for if we spend lots of time with an ear to the ground, l
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Our perspective is necessarily limited, and this is by God's intentional design {#our-perspective-is-necessarily-limited-and-this-is-by-god-s-intentional-design}
 
@@ -51,23 +51,23 @@ For most matters in life, the Bible doesn't give us specifics. Generalizing a bi
 
 Consider that this state of affairs does not come about because God could not provide us clearer answers for all the things we ask. He is Omniscient and Omnipotent. So, given verses like Matthew 7:7-8, why doesn't He just instantly give us those answers, firm feelings regarding which path to take?
 
-<!-- --- -->
+<!-- slide-break -->
 
 Well, who are we to say that it would be better for us to actually immediately get such answers and conviction for all our matters of discernment? If we believe Romans 8:28, no matter what happens, God is working all things out for our ultimate (spiritual) good. In fact, it is the best—the superlative is appropriate. The Plan of God is completely perfect. So if we don't get any firm answers from God as to exactly what we ought to do about some specific thing, it is no accident.
 
 Nowhere does Romans 8:28 say that we will understand God's plans most or even much of the time. When you think about it, the reason for such is kind of obvious. We are incredibly finite beings with perspectives warped by our own sinful flesh and Satan's world system trying to turn us away from God at every turn. Even the most spiritually advanced among us are still just puny humans. Who are we to talk to back to God? Do we really think we know better than Him now, hm? Perhaps we feel that we are *owed* guidance. That it is somehow our due. But just as a parent cannot always explain their complicated reasons to their whiny indignant four-year-old (even if they wanted to), so to does our blind human perspective pretty sharply limit God's ability to share with us the real reasons behind things in life.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Put simply, God doesn't immediately answer every decision we put before Him like some sort of divine "Magic 8 Ball" because He views the development of our faith as more important than our temporal gratification. If God were to answer our every question instantly, where is there room for faith on our part in that? How then could God perfectly work every single thing out right under our noses—even better than we could have ever imagined or prayed for ourselves—thereby demonstrating His perfect faithfulness... if we would but trust Him, trust that He has it all in hand?
 
 So it is that we are left down here to struggle with limited perspective and imperfect information in order to demonstrate exactly how much we really do trust the Lord. He will always come through for us—maybe not in a way that maximizes comfort or wealth or any other ephemeral material parameter, but in a way that maximizes our spiritual wellbeing—but we have to have faith and wait upon Him. That is much the point, in fact.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### This does not mean that God does not give us enough information to do what we ought {#this-does-not-mean-that-god-does-not-give-us-enough-information-to-do-what-we-ought}
 
@@ -86,7 +86,7 @@ No matter what decisions stare us down (college major, career, who to marry, how
 
 So never ought the excuse "but I didn't have enough information!" cross our lips. Enough information for what?
 
-<!-- --- -->
+<!-- slide-break -->
 
 For example, let's say you come to decide that you need to change you major after already being in college two years. Seems like wasted time and money, right? But what happens if God has some greater plan at work here? What happens if you might use that information you now think is fall-through in some way in the future? How do you know that such a thing for sure won't happen?
 
@@ -94,11 +94,11 @@ Or maybe you really were being selfish and hardheaded in pursuing the earlier ma
 
 Emphasizing this is important because the very worst thing we can do is make excuses for ourselves and blame God. If it seems to us like we prayed and prayed for guidance only to end up on a bad path that we had to backtrack on later ("why couldn't you have just pushed me in this correct direction in the first place when I asked!"), things didn't happen that way for a reason, one way or another, and that reason is never because God is unfairly stingy in His guidance.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The principle is in fact absolute {#the-principle-is-in-fact-absolute}
 
@@ -112,7 +112,7 @@ Very often the toughest matters of discernment are matters of application wherei
 
 But if we pray earnestly, no matter how bad our intel, we can still always do what God wants of us, given where we are. We always have that potential. Even if some of these challenging hypotheticals were to actually come about for us personally (and that is sometimes not even remotely realistic), well we can properly answer all such things when we actually face them personally and pray for guidance, relying on the Holy Spirit that indwells us. We must have faith in that. 
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### But, again, having all we need to follow God's Will is different from it always being clear and dead obvious {#but-again-having-all-we-need-to-follow-god-s-will-is-different-from-it-always-being-clear-and-dead-obvious}
 
@@ -132,7 +132,7 @@ Blessedly, we can have rock-solid conviction about many things. For example:
 - Everything that happens happens for a reason, maximizing the ultimate spiritual good of all (Romans 8:28).
 - Etc.
 
-<!-- --- -->
+<!-- slide-break -->
 
 In fact, everything the Bible truly teaches we can be rock-solid on. The problem is that there is plenty in life that is not directly addressed in the Bible. What to do then? Well, we can certainly avoid the extremes:
 
@@ -141,7 +141,7 @@ In fact, everything the Bible truly teaches we can be rock-solid on. The problem
 
 Perhaps all of this is seems unsatisfying, leaving things vague and far from parsed out in a clear set of rules and principles. Welcome to life—grey and messy.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Sometimes conviction comes stronger with time, but sometimes not {#sometimes-conviction-comes-stronger-with-time-but-sometimes-not}
 
@@ -158,7 +158,7 @@ To close us out, it is worth noting that it is not uncommon to better understand
 
 It was not until I was months down these paths that things crystallized into full certainty in my mind. When I was forced to make the decisions in the moment—through much prayer—I honestly was not confident that I was not making mistakes in both cases. But over time God opened my eyes to things that had been hidden before, things that gave me a level of peace and certainty that I hadn't had at the beginning.
 
-<!-- --- -->
+<!-- slide-break -->
 
 We cannot always expect this across all situations though. Sometimes that process of difficult faith and persistent lack of answers may drag out rather than getting resolved in a few short weeks or months. No matter what, we just need to trust that settled emotions or not, if we are doing everything we can to learn, believe, and apply God's Word to our lives (and keep in constant prayer about it all too)---if we are doing everything that we are supposed to on our end—that God will work things all out perfectly. As Christian soldiers upon the battlefield of this life, we can keep our heads down and let our commanding officer handle all the rest—for there is no greater commanding officer than Jesus Christ.
 

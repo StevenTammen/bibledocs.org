@@ -44,13 +44,13 @@ This cycle I spent time relaxing over the holidays with family. I also made a go
 
 ### Content {#through-1-1-23-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Relaxing with family {#through-1-1-23-relaxing-with-family}
 
 Not much to say here. I took time off work and spent the holidays visiting family and recharging.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Progress on various studies {#through-1-1-23-progress-on-various-studies}
 
@@ -58,13 +58,13 @@ I am in the middle of drafting a study discussing the exact nature of "judge not
 
 I started that one when I was partway through a different study outlining some issues in the modern church visible (such as a lack of emphasis put on serious Bible teaching, as compared to music and social time, for example), and the lack of commitment many self-professed Christians demonstrate, given the amount of time they spend watching TV shows and browsing social media (and so on) rather than reading their Bibles or taking in Bible teaching. These are not fun things to talk about, but are necessary, for a lot of modern churchgoers seem to be blind to the sad decline of care people have towards the Bible and God's truth.
 
-<!-- --- -->
+<!-- slide-break -->
 
 I branched off into the other study about judging after I realized it might be a good idea to firmly establish that "shooting it straight" and "calling a spade a spade" is not something to be shy about for us as Christians. That is, pointing out unpleasant truths in a level-handed manner to lovingly exhort people to turn (more) toward the truth is not the sort of self-righteous condemnatory judgment called out in Matthew 7:1ff.
 
 At any rate, exactly what I mean by all of these things will be more clear as I finish and publish all these studies.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Practical matters {#through-1-1-23-practical-matters}
 
@@ -72,7 +72,7 @@ At any rate, exactly what I mean by all of these things will be more clear as I 
 - I also built custom foam backings for the projector screens to make them straight and flush with the wall, to improve the projected images' centering.
 - I sequenced my really big TODO list when I had the time over this holiday break. I have literally hundreds of things on this master list (including a good bit on the ministry side, of course), but as ever, it will always only be one step at a time.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Upcoming work {#through-1-1-23-upcoming-work}
 
@@ -130,7 +130,7 @@ This cycle was very research-heavy. I worked more on the studies I'm in the proc
 
 ### Content {#through-1-15-23-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Worked more on in-progress studies {#through-1-15-23-worked-more-on-in-progress-studies}
 
@@ -138,7 +138,7 @@ The same ones mentioned last cycle, about how Christians ought to view judging, 
 
 I just don't want to release anything before I feel like things are ready. I've written more now, and split things into several parts, but still don't want to release the earlier parts until I'm sure I know the full order of the topics in the studies and won't change anything around any more.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Researched a couple topics and had long conversations about them {#through-1-15-23-researched-a-couple-topics-and-had-long-conversations-about-them}
 
@@ -146,7 +146,7 @@ This was probably the biggest time sink this cycle. We had a very active topic o
 
 I emailed my mentor about some of the things being discussed as well, and that email chain got up to ~13 responses long too.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Researched and decided where I want to start getting involved locally {#through-1-15-23-researched-and-decided-where-i-want-to-start-getting-involved-locally}
 
@@ -154,7 +154,7 @@ I made a spreadsheet of many local churches (tens of them), came up with some cr
 
 I'm hoping to start getting involved in the next week or two.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Upcoming work {#through-1-15-23-upcoming-work}
 
@@ -219,7 +219,7 @@ This cycle ran long on account of me being busy getting set up and established a
 
 ### Content {#through-2-21-23-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Making these updates only as more content accumulates {#through-2-21-23-making-these-updates-only-as-more-content-accumulates}
 
@@ -231,7 +231,7 @@ The reason why this latest update has been so slow in coming was because I was b
 
 I'm also going to try to make the progress update emails and posts on social media a bit less formulaic. Hopefully switching things up here and there will make it more engaging.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Squashed some bugs/made some framework improvements {#through-2-21-23-squashed-some-bugs-made-some-framework-improvements}
 
@@ -242,7 +242,7 @@ I'm also going to try to make the progress update emails and posts on social med
 - Fixed an issue where Step Bible App iframes were causing the parent page to jump all over the place as they loaded, probably due to an update upstream of me with their API. I added some delay before they are shown, to let them fully load and do their worst in the way of scroll-stealing before I make them visible. This seems to have fixed it quite nicely.
 - Changed the styling of scripture-related special content sections. I made them transparent (as opposed to the light brown they had been), but added a 1px solid black border. I think the new style looks quite nice.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Got established at some local church fellowships {#through-2-21-23-got-established-at-some-local-church-fellowships}
 
@@ -250,7 +250,7 @@ I've started going to a Sunday school class on Sunday mornings, as well as a Bib
 
 As I get more involved, a good bit of my production will probably shift into things relating to these groups, at least for the time being.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### New content {#through-2-21-23-new-content}
 
@@ -260,7 +260,7 @@ The study that the Sunday school class I've been attending has been going throug
 
 I haven't started any writing of my own for the Jeremiah study yet, but plan to this week. I have, however written quite a lot relating to the Sunday school study.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Week 1: Does the Voice Agree with the Bible? {#through-2-21-23-week-1-does-the-voice-agree-with-the-bible}
 
@@ -268,7 +268,7 @@ I haven't started any writing of my own for the Jeremiah study yet, but plan to 
 - [Link to discussion page: The Bible Is How We Know What Is from God](https://www.bibledocs.org/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-agree-with-the-bible/the-bible-is-how-we-know-what-is-from-god/)
 - [Link to discussion page: Satan Is the Serpent of Genesis 3](https://www.bibledocs.org/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-agree-with-the-bible/satan-is-the-serpent-of-genesis-3/)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Week 2: Does the Voice Bring Conviction? {#through-2-21-23-week-2-does-the-voice-bring-conviction}
 
@@ -278,14 +278,14 @@ I haven't started any writing of my own for the Jeremiah study yet, but plan to 
 - [Link to discussion page: The Momentousness of Acts 2](https://www.bibledocs.org/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-bring-conviction/the-momentousness-of-acts-2/)
 - [Link to discussion page: Conviction Is Not Based upon Emotion, but upon the Truth](https://www.bibledocs.org/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-bring-conviction/conviction-is-not-based-upon-emotion-but-upon-the-truth/)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Week 3: Does the Voice Call You to Trust God? {#through-2-21-23-week-3-does-the-voice-call-you-to-trust-god}
 
 - [Link to page](https://www.bibledocs.org/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-call-you-to-trust-god/)
 - [Link to discussion page: Faith Is Not Irrational](https://www.bibledocs.org/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-call-you-to-trust-god/faith-is-not-irrational/)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Week 4: Does the Voice Align with God's Character? {#through-2-21-23-week-4-does-the-voice-align-with-gods-character}
 
@@ -295,13 +295,13 @@ I haven't started any writing of my own for the Jeremiah study yet, but plan to 
   - [Link to another new related Q&A: Does Ephesians 4:26 Teach That There Is a Form of Righteous Anger?](https://www.bibledocs.org/questions-and-answers/self-generated/does-ephesians-4-26-teach-that-there-is-a-form-of-righteous-anger/)
 - [Link to discussion page: What Is Going on in Exodus 34:27-28?](https://www.bibledocs.org/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-align-with-gods-character/what-is-going-on-in-exodus-34-27-28/)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Week 5: Does the Voice Honor God? {#through-2-21-23-week-5-does-the-voice-honor-god}
 
 - [Link to page](https://www.bibledocs.org/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-honor-god/)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Upcoming work {#through-2-21-23-upcoming-work}
 
@@ -365,7 +365,7 @@ Nonetheless, this release brings some new content for many of the lessons in the
 
 ### Content {#through-4-17-23-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### It's been a while... {#through-4-17-23-its-been-a-while}
 
@@ -373,7 +373,7 @@ Even though last time I said I'd try to keep up the production pace, well... it'
 
 I'll go over a brief summary of some of the reasons for that at the end of this update. That way people who aren't interested in hearing the details won't have to (you can just stop watching when that part starts).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Helping my roommate get his content ready for his ministry launch {#through-4-17-23-helping-my-roommate-get-his-content-ready-for-his-ministry-launch}
 
@@ -381,42 +381,42 @@ Partway through this cycle I started helping my roommate get all his written con
 
 I'm helping organize it all, and add additional headers for better section linkability, and things like that. I hadn't really anticipated the degree of time this is requiring of me, but it will very much be worth it in the end, once all his stuff goes up. It's just that in the meantime, a good bit of my time is going here, rather than my own content.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### New content this cycle {#through-4-17-23-new-content-this-cycle}
 
 That said, I still got a number of new things up in this cycle. I have several more things that are decidedly close to being done too, but I decided I'd procrastinated too long already on a progress update, as I kept moving the goalposts forward. So these others can wait until next time. The list for this time:
 
-<!-- --- -->
+<!-- slide-break -->
 
 - Under the wider lesson of [Does the Voice Call You to Trust God?](/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-call-you-to-trust-god)
   - [Drawing Inspiration from the Faith of Others](/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-call-you-to-trust-god/drawing-inspiration-from-the-faith-of-others)
   - [What We Believe Will Always Become a Reality… If and Only If We Target Our Faith Properly](/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-call-you-to-trust-god/what-we-believe-will-always-become-a-reality-if-and-only-if-we-targe)
   - [Why Was Abel’s Sacrifice Acceptable, Even Praised, but Not Cain’s?](/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-call-you-to-trust-god/why-was-abels-sacrifice-acceptable-even-praised-but-not-cains)
 
-<!-- --- -->
+<!-- slide-break -->
 
 - Under the wider lesson of [Does the Voice Align with God’s Character?](/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-align-with-gods-character)
   - [Reflections Upon God’s Love As Expressed in Exodus 34:6–7a, in the Context of the Exodus Generation](/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-align-with-gods-character/reflections-upon-gods-love-as-expressed-in-exodus-34-6-7a-in-the-context-of-the-exodus-generation)
 
-<!-- --- -->
+<!-- slide-break -->
 
 - Under the wider lesson of [Does the Voice Honor God?](/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-honor-god)
   - [Who Are the People the Father “Gave” Jesus?](/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-honor-god/who-are-the-people-the-father-gave-jesus)
 
-<!-- --- -->
+<!-- slide-break -->
 
 - Under the wider lesson of [Does the Voice Lead You to Be More Like Jesus?](/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-lead-you-to-be-more-like-jesus)
   - [On Seeking the Things Above](/longer-topical-studies/central-baptist-winter-2022-2023-how-to-discern-the-voice-of-god/does-the-voice-lead-you-to-be-more-like-jesus/on-seeking-the-things-above)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Upcoming work {#through-4-17-23-upcoming-work}
 
 - I'll be trying to mostly focus on finishing helping my roommate with his content for the next little bit. The sooner I can can finish helping with that, the sooner I can stop having to split my focus. This may take a while though, so I think it may be a few weeks until I get another update of my own up, since I'll be tied up with this.
 - Aside from that, I'm going to try to at least finish the other things I am close on. I might be able to get these things up sooner than other new content.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Excuse for lateness number 1: Microphone debugging {#through-4-17-23-excuse-for-lateness-number-1-microphone-debugging}
 
@@ -424,7 +424,7 @@ The volume level for recordings has been ending up really quiet (when recording 
 
 I spent time trying to figure out how to get louder audio when recording, and also figure out why my gain settings were not seeming to be respected when recording. One YouTube video claims that to have adjustable gain with this wireless Rode system, one needs to use an audio cable (3.5mm jack) not USB-C to connect the receiver into a computer, for whatever reason. I have things on order to test this out, and am hopeful, but as of now, still no dice.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Excuse for lateness number 2: Getting accustomed to new responsibilities at work {#through-4-17-23-excuse-for-lateness-number-2-getting-accustomed-to-new-responsibilities-at-work}
 
@@ -432,7 +432,7 @@ In my day job as a software engineer, I'm formally shifting into project managem
 
 Up until this shift in responsibilities, I had been leading an Agile software development subteam as a team lead. Now I am more or less moving into doing requirements refinement and work sequencing full time (in addition to leading my subteam just as I always have). Due to only having so much time in a workday, I'm more or less stepping back from coding myself now. (I'd already been less than full-time coding for some time, instead shouldering other responsibilities in the division of labor. This is just going the complete distance and severing any expectations for me there, instead formally tasking me for more of the PM workload).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Excuse for lateness number 3: I was very busy when away on a business trip for two weeks {#through-4-17-23-excuse-for-lateness-number-3-i-was-very-busy-when-away-on-a-business-trip-for-two-weeks}
 
@@ -443,7 +443,7 @@ Soon after I got my new set of PM-related responsibilities, I drove 10 hours up 
 - I was tired after every workday on this trip since we had days of ~7 hour meetings for two weeks straight.
 - I also pulled a lot more overtime than I normally do (probably over 15 hours across the two weeks) to try and get more written down when it was all fresh in my mind.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Excuse for lateness number 4: I spent some time "investing in the future" {#through-4-17-23-excuse-for-lateness-number-4-i-spent-some-time-investing-in-the-future}
 
@@ -828,7 +828,7 @@ There are also *lots* of new pages in new verse-by-verse studies of Romans and 1
 
 ### Content {#through-10-16-23-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### On the nature of this particular ministry progress summary {#through-10-16-23-on-the-nature-of-this-particular-ministry-progress-summary}
 
@@ -836,17 +836,17 @@ It has certainly been a minute here. *Homo proponit, sed Deus disponit*, as they
 
 There have been a number of developments over the last few months (it's been about 6 months to the day, in fact, since the last update). I should have been better about staying on top of the updates, but now at least there is plenty to go over!
 
-<!-- --- -->
+<!-- slide-break -->
 
 I have split some of the more mundane updates out into [a separate video up on my personal YouTube channel](), and will (hopefully) continue this structure now moving forward. I kind of wish I'd thought to do this from the very beginning of these ministry progress summary videos, but oh well. Live and learn.
 
 I find the process of going over where my time has been spent and where my focus has been directed valuable for myself, personally, but it certainly isn't "ministry related" much more than "well, here are some of the reasons why there are not more new videos and/or new content pages". Anyone who is interested is certainly free to have a look at these other matters, but for everyone else, the upshot is that hopefully these ministry-related videos can stay shorter and more focused overall.
 
-<!-- --- -->
+<!-- slide-break -->
 
 And in that vein, I'm afraid this video probably will not completely describe everything that has happened since the last one. (This is the obvious downside of leaving such big breaks between them). However, since perfectionism and moving goalposts are contributing factors to the delay, best to just accept that and not let the perfect get in the way of the good any more than it already has! Tricky thing to stick with, that.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### BibleDriven, Jordan Bomberger's online ministry, is now live! {#through-10-16-23-bibledriven-jordan-bombergers-online-ministry-is-now-live}
 
@@ -858,11 +858,11 @@ He has a few [large topical studies](https://www.bibledriven.org/large-topical/)
 
 Should you have questions relating any of these things he has written (or others besides), you can also reach him at [jordan@bibledriven.org](mailto:jordan@bibledriven.org). He also [has a mailing list too](https://www.bibledriven.org/mailing-list/), similar to the one for this site.
 
-<!-- --- -->
+<!-- slide-break -->
 
 I am planning to cross-link to Jordan's content a good bit in my own work moving forward, as I identify areas where he has already covered something. Hopefully that should be indicative of the regard I hold for my friend's efforts—not that we probably agree on every single thing, but that his writing is truly worthy of consideration.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Our group Bible Study over Zoom has resumed our weekly recordings, this time going through Ichthys' Systematic Theology {#through-10-16-23-our-group-bible-study-over-zoom-has-resumed-our-weekly-recordings-this-time-going-through-ichthys-systematic-theology}
 
@@ -870,19 +870,19 @@ I am planning to cross-link to Jordan's content a good bit in my own work moving
 
 Thus far, we've finished discussing the Essence of God (His Infinite Nature and Perfect Character), and started talking about the Trinity. Anyone familiar with [our past study of BB6A](https://www.youtube.com/playlist?list=PLcqAebKsBWy9NzEhpik-IyU9jycIOw1e9) may be glad to learn that we are trying to stay more on-topic and focused nowadays (in a relative sense). This doesn't necessarily mean all the lesson videos will be short (at least not by many people's standards), but it does mean that there will be fewer tangential rabbit trails in the discussions. This has at least been so for our first few videos. I am quite pleased with the direction our new study has taken.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Just as a reminder, these Bible Studies are completely open to everyone who wants to join! The Zoom meeting link is posted in the header of [the forum](https://www.bibledocs.org/community-overview/#the-forum), and can also be shared in the [WhatsApp groups](https://www.bibledocs.org/community-overview/#whatsapp). If you want to join our community (either of these groups), you may fill out a form to do so [here](https://www.bibledocs.org/community-overview/#the-form-itself). We always love to have new folks come and participate.
 
 At present, our study is meeting Saturday afternoons at 4:00 PM EST (Atlanta/New York time on world clocks). The schedule for our meetings can be found [here](https://www.bibledocs.org/community-meetings/).
 
-<!-- --- -->
+<!-- slide-break -->
 
 While we are several months into this study (and I therefore have a nice backlog of videos already recorded), I wish for the video format to be just so (editing things in for topic transitions, etc.), so have not yet gotten around to processing and posting all the videos. Part of the reason this ministry update is coming out so late is because I kept wishing for the videos to be part of the update (and therefore kept pushing back the timing of the update to try to give myself more time to finish things here), but it just hasn't happened yet due to all the other things I'm trying to get done at the same time. And I eventually decided that I'd best release what I've been working on in the meantime, videos or no videos.
 
 They will be a primary focus of mine in the next bit though—catching up so that I post each new video as we have the study week by week. You'll probably see a bunch of videos pop up on the channel in the next several weeks as I work my way through the backlog here. I'm going to try to clear this backlog before I make the next ministry progress summary video, but we'll see.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Discussion questions from a local Bible study covering the book of Romans {#through-10-16-23-discussion-questions-from-a-local-bible-study-covering-the-book-of-romans}
 
@@ -890,7 +890,7 @@ I have been writing down the discussion questions from a local Bible study I've 
 
 This was another contributing factor to the lateness of this update. I kept holding off because I wanted to get my backlog of notes here cleaned up so I could post everything together... but again, it just hasn't happened, since I have so many other things I'm simultaneously juggling. So I'm going to go ahead and post the discussion questions for now, and then fill things in as I go, trying ever more to squash the perfectionistic tendencies within me.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Verse-by-verse Romans study {#through-10-16-23-verse-by-verse-romans-study}
 
@@ -898,13 +898,13 @@ Just to give a sense of what I mean about said perfectionistic tendencies, when 
 
 The local Bible study is progressing at around half a chapter a week, and I realized soon enough that I was biting off a lot more than I had really intended with the amount of depth that I was falling into in writing things up. So, I've basically decided to back-burner the in-depth writing on Romans for now. I've emailed my mentor all sorts of interesting questions about various matters of interpretation in the early chapters of Romans, and have a good bit outlined verse-by-verse, but this just honestly doesn't seem like quite the right time to undertake this endeavor. Not that I don't want to, but I just have a lot of other things I want to work on too, and I can only do so much.
 
-<!-- --- -->
+<!-- slide-break -->
 
 Basically, I have decided to try to focus on posting my *brief* notes (as described in the last section), and leave the full formal verse-by-verse study for later. 
 
 So while I have [posted the verse-by-verse Romans content I already got through](/verse-by-verse-studies/romans/), I'll hold off on continuing this full verse-by-verse Romans study until I've gotten some other things written, I think.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Another verse-by-verse study, this one for 1 Thessalonians {#through-10-16-23-another-verse-by-verse-study-this-one-for-1-thessalonians}
 
@@ -912,13 +912,13 @@ A separate local Bible study I've been involved in went through 1 Thessalonians.
 
 I did, however, lead the last week in this study, when the normal study organizer was sick. I have since then substantially expanded upon my initial notes from that night (wherein we went through 1 Thessalonians 4 and 1 Thessalonians 5). Since I had such limited time then, my notes for that night were more section-by-section than verse-by-verse, but I have now [filled in the notes substantially](/verse-by-verse-studies/1-thessalonians/). It got a lot longer than I thought it might, but I'm happy with how things turned out.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Some other theological conversations {#through-10-16-23-some-other-theological-conversations}
 
 Across the debate community I run, our forum, and our WhatsApp group, in the few months since I've last given an update, I've been involved in a good many conversations about this and that. These might not turn into ministry content immediately, but I always have in the back of my head the notion that I might mine some of these theological discussions for content ideas eventually, over time.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Work on some of my planned studies {#through-10-16-23-work-on-some-of-my-planned-studies}
 
@@ -926,7 +926,7 @@ I've worked some on a couple of the longer multi-part studies I have in-progress
 
 Both of these are studies I'd like to get out in the near future, hopefully. I have lots written already, but am constantly coming up with more things I want to cover, changing my mind about how I want to order things, and so on.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Plans for the future {#through-10-16-23-plans-for-the-future}
 
@@ -934,21 +934,21 @@ As already mentioned, I'd first like to finish processing and then post all of t
 
 Odii (my friend and "co-host" in the BB1 series) and I have discussed the idea of doing a parallel study on the Coming Tribulation (CT) series on Ichthys as well, meeting more ad-hoc during the week as our schedules allow (rather than also having this second study be formally/consistently scheduled—contrast the BB1 study, which always happens at the same time on Saturdays), and we might like to try this out in the future. That could well lead to preparing for, recording, processing, and posting two (or perhaps even three) long/in-depth videos every week or two, which would keep me busy, for sure.
 
-<!-- --- -->
+<!-- slide-break -->
 
 I'd also like to catch up and then keep up better with posting my brief notes for the Romans Bible study week-by-week. And I'd also like to finish the other studies I mentioned (the study about judgment for us as Christians, and the study about lukewarmness in the modern Church) soon as well. I'd also like to actually finish my verse-by-verse study of 1 Thessalonians 5, since I still have a few more verses to go there at the end of the chapter. (I got through most of it before deciding I better just go ahead and make this update otherwise I never would).
 
-<!-- --- -->
+<!-- slide-break -->
 
 Finally, I'm weighing the idea of getting involved in a few online Christian communities—like forums, Facebook groups, Subreddits, Discord servers, and that sort of thing. The idea would be to engage more actively with others, rather than only posting static content. I only have so much time, of course, but it has been something that I thought might be a good fit for me. Especially as I finish getting all of my voice recognition and text editing things set up, and my writing efficiency continues to go up.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Index of new content this release {#through-10-16-23-index-of-new-content-this-release}
 
 I mentioned the higher-level categories above, but now I'm going to link each new page individually—I believe the following sections exhaustively list out all the new content pages in this release.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### BB1: Theology lessons {#through-10-16-23-bb1-theology-lessons}
 
@@ -964,7 +964,7 @@ These are the lessons we've already gotten through in our group Bible study of B
 * [All Members of the Trinity Are Coequal, Coeternal, and Consubstantial · BibleDocs](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-coequal-coeternal-and-consubstantial/)
 * [All Members of the Trinity Are Joint Partakers of the Same Essence · BibleDocs](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/all-members-of-the-trinity-are-joint-partakers-of-the-same-essence/)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Romans discussion questions and brief notes {#through-10-16-23-romans-discussion-questions-and-brief-notes}
 
@@ -985,7 +985,7 @@ And then there are all the other chapters that so far are just the discussion qu
 * [Second Baptist - 2023 Romans Study - Romans 9 · BibleDocs](/longer-topical-studies/second-baptist-2023-romans-study/romans-9/)
 * [Second Baptist - 2023 Romans Study - Romans 10 · BibleDocs](/longer-topical-studies/second-baptist-2023-romans-study/romans-10/)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Verse-by-verse Romans study: Romans 1 {#through-10-16-23-verse-by-verse-romans-study-romans-1}
 
@@ -1011,7 +1011,7 @@ To break down all the content that I wrote up in more depth for Romans 1:
 * [Romans 1:29-31 - What is not proper in God's eyes? · BibleDocs](/verse-by-verse-studies/romans/romans-1/romans-1-29-31-what-is-not-proper-in-gods-eyes/)
 * [Romans 1:32 - What does this verse have to say about the notion of "live and let live"? · BibleDocs](/verse-by-verse-studies/romans/romans-1/romans-1-32-what-does-this-verse-have-to-say-about-the-notion-of-live-and-let-live/)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Verse-by-verse Romans study: Romans 2 {#through-10-16-23-verse-by-verse-romans-study-romans-2}
 
@@ -1025,7 +1025,7 @@ To break down all the content that I wrote up in more depth for Romans 2:
 * [Romans 2:7-11 - Why do we make life hard for ourselves, when the decision is so clear? · BibleDocs](/verse-by-verse-studies/romans/romans-2/romans-2-7-11-why-do-we-make-life-hard-for-ourselves-when-the-decision-is-so-clear/)
 * [Romans 2:12-16 - Wait, are Gentiles held to looser standards and excused due to their ignorance of the Law? · BibleDocs](/verse-by-verse-studies/romans/romans-2/romans-2-12-16-wait-are-gentiles-held-to-looser-standards-and-excused-due-to-their-ignorance-of-the-law/)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Verse-by-verse 1 Thessalonians study: 1 Thessalonians 4 {#through-10-16-23-verse-by-verse-1-thessalonians-study-1-thessalonians-4}
 
@@ -1037,7 +1037,7 @@ To break down all the content that I wrote up in more depth for 1 Thessalonians 
 * [1 Thessalonians 4:11-12 - Minding our own business and working with our hands · BibleDocs](/verse-by-verse-studies/1-thessalonians/1-thessalonians-4/1-thessalonians-4-11-12-minding-our-own-business-and-working-with-our-hands/)
 * [1 Thessalonians 4:13-18 - The resurrection of the dead and the rapture at the second coming of Christ · BibleDocs](/verse-by-verse-studies/1-thessalonians/1-thessalonians-4/1-thessalonians-4-13-18-the-resurrection-of-the-dead-and-the-rapture-at-the-second-coming-of-christ/)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Verse-by-verse 1 Thessalonians study: 1 Thessalonians 5 {#through-10-16-23-verse-by-verse-1-thessalonians-study-1-thessalonians-5}
 

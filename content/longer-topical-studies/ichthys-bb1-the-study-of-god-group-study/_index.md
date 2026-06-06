@@ -50,7 +50,7 @@ In this lesson, we are going to be kicking off our new study of BB1: Theology on
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The essence of God is being. He is the Great I AM {#introduction-the-essence-of-god-the-essence-of-god-is-being-he-is-the-great-i-am}
 
@@ -67,7 +67,7 @@ If you've ever thought about the question "Well, if the universe exists because 
 
 Unbelievers scoff at that logic, but it is what the Bible says.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The resplendence of God: light and glory {#introduction-the-essence-of-god-the-resplendence-of-god-light-and-glory}
 
@@ -79,7 +79,7 @@ Loosely speaking, light captures the sense that God is sublime and unapproachabl
 
 God's glory is most directly revealed to mankind through His Son, Jesus Christ. As Hebrews 1:1-3 makes clear.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% video-only %}}
 
@@ -134,7 +134,7 @@ Arguments usually seem to hinge on how "inherent" something is to an object. For
 
 Compare this link: https://chrismlegg.com/2018/06/19/what-do-essence-and-nature-mean-a-simple-explanation/
 
-<!-- --- -->
+<!-- slide-break -->
 
 So, on our topic, must God be infinite and perfect in character to be God? Are these essential characteristics of God?
 
@@ -772,7 +772,7 @@ This lesson, we are going to be talking about God's infinite nature, and what th
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Introduction: God's infinite nature {#gods-infinite-nature-introduction-gods-infinite-nature}
 
@@ -780,7 +780,7 @@ Key point: God's nature is infinite. *Infinite*.
 
 God's infinity – infinity in every way and according to any conceivable true standard – is a clarifying concept, *illuminating His abilities*.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### God is Spiritual {#gods-infinite-nature-god-is-spiritual}
 
@@ -790,7 +790,7 @@ stags="God > Is spiritual | Angels > Are subject to matter"
 
 God's being transcends the physical universe. He is not limited or bounded by material issues or concerns. God is not subject to matter in any way. God is not made of matter – God created matter and employs it however He desires.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% video-only %}}
 
@@ -814,7 +814,7 @@ stags="God > Is eternal"
 
 God's being transcends time. He is not limited or bounded by temporal issues or concerns. God is not subject to time in any way. God is not constrained by time – God created time and employs it however He desires.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% video-only %}}
 
@@ -846,7 +846,7 @@ stags="God > Is immeasurable"
 
 God's being transcends space. He is not limited or bounded by spatial issues or concerns. God is not subject to space in any way. God is not confined by space – God created space and employs it however He desires.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### God is Unique {#gods-infinite-nature-god-is-unique}
 
@@ -858,7 +858,7 @@ Uniqueness comes from God's infinite nature. No one else in the universe can rea
 
 From the standpoint of His *transcendence* of the physical universe, He is unique by virtue of His spirituality, eternity and immeasurability. From the standpoint of His *supremacy* within the physical universe, He is unique by virtue of His omnipotence, omniscience, and omnipresence.
 
-<!-- --- -->
+<!-- slide-break -->
 
 | Essential Quality                               | Manifesting in creation as                                                                                            |
 |-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
@@ -868,7 +868,7 @@ From the standpoint of His *transcendence* of the physical universe, He is uniqu
 
 While we may not be properly able to fully grasp God's true nature since we are small, finite beings bound by spacetime, it should nonetheless be clearly apparent that it is not possible for any created creature to compare with the Creator. Even creatures far more powerful than ourselves—Satan and the other angels—are bound and limited in ways God is not, leaving God completely alone and unique in His transcendence of and supremacy within the physical universe.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### God is Omnipotent {#gods-infinite-nature-god-is-omnipotent}
 
@@ -878,7 +878,7 @@ stags="God > Is omnipotent"
 
 God is all-powerful, irrespective of matter. He can effect anything He desires in the material realm, and nothing can transpire apart from His will. Therefore there is no deed (nor was there ever, nor will there ever be) which God is unable to do, small or great.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% sidenote %}}
 
@@ -894,13 +894,13 @@ People argue that the two superlatives mandated by omnipotence contradict each o
 
 We can let people who wish to not believe on account such an argument go on their merry way. We needn't take them up on the debate. For it is *obvious* that God can both create whatsoever He wishes, and also manipulate His creation in whatever ways He wishes. The idea of a material object He cannot create is definitionally impossible, and so too a material object He cannot manipulate. Put differently, there is no such thing as an object He could create but not lift, or an object He could lift but not create. So the entire objection is circular by assuming such a thing can exist to begin with. That is, they've already put God in a box from the very beginning, and then only proceed to smugly knock down nothing but a straw man.
 
-<!-- --- -->
+<!-- slide-break -->
 
 My counsel would be to avoid all such nonsense. God can do "it", whatever "it" may be. Always. We follow אֵל שַׁדַּי, *El Shaddai*, God Almighty, He who was, and is, and is to come—He who holds the strings of the universe in His hands, and can create or annihilate galaxies in the blink of an eye. And we'd better fear that power and majesty as we ought, to keep our lives in perspective. We are tiny compared to the vastness of the Earth, much less our solar system, much less our galaxy, much less the universe. But God is even bigger (infinitely bigger), and could snuff them all out in the blink of an eye if He decided to. *That* is the kind of power in view when we speak of God being omnipotent. Not that He will actually snuff out the universe on a whim, but that it would be nothing for Him to do so, since He is in complete control of matter, time, and space... and things only exist because *He* causes them to exist.
 
 {{% /sidenote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### God is Omniscient {#gods-infinite-nature-god-is-omniscient}
 
@@ -910,7 +910,7 @@ stags="God > Is omniscient"
 
 God is all-knowing, irrespective of time. He can effect anything He desires in the temporal realm. Therefore God knows (has always known, and always will know) everything, the end from the beginning. As the Everlasting One (Ps.90:2; 90:4), His knowledge of every event that ever has or will or even could occur within His creation is comprehensive and absolute.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### God's knowledge of hypotheticals {#gods-infinite-nature-gods-knowledge-of-hypotheticals}
 
@@ -924,11 +924,11 @@ Here's an example: since the Bible says that God will never test us past what we
 
 Same deal with perfectly disciplining us, and plenty of other matters besides. Put simply, God's perfect foreordination of all things logically requires that He know everything about all potential paths in the mind-bogglingly complex decision tree that spans the history of the entire universe. It has always puzzled me why people would ever think to argue against such a notion, but alas, some people do for some reason. Perhaps it is because such a belief requires one to appreciate how truly "big" and unlike us (with our very finite perspective) God really is?
 
-<!-- --- -->
+<!-- slide-break -->
 
 For now, you should mostly ignore the fact that some people have again put God in a box in their minds, and content yourself with the sure confidence that God knows everything—absolutely everything, inclusive of our free-will decisions before we even make them—and is so infinitely wise as to have perfectly mapped out all of creature history before the universe was even created. There is a Perfect Divine Plan being worked out around us, and God knows very well what He is doing, rest assured.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### God is Omnipresent {#gods-infinite-nature-god-is-omnipresent}
 
@@ -1837,7 +1837,7 @@ This lesson, we are going to be talking about God's perfect character, and what 
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Introduction: God's perfect character {#gods-perfect-character-introduction-gods-perfect-character}
 
@@ -1862,7 +1862,7 @@ So be perfect, just as your Father in heaven is perfect.
 
 When firmly grasped, God's perfection—perfection in every way and according to any conceivable true standard—is a clarifying concept, *illuminating His motives*. God's perfect character will never be less than the highest, the best, and the purest that the human mind can comprehend.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% video-only %}}
 
@@ -1895,7 +1895,7 @@ stags="God > Is good"
 
 God's character is good (Hebrew *tov*: טוב); it is the antithesis of evil. So how does goodness respond to sinful man? In His goodness, God always has our best interests at heart. Therefore His desire for us to be free from evil and devoted to good is genuine. Even though we are sinful and by nature unworthy of His blessing, in His goodness God has nevertheless found a *gracious* way to redeem us from sin without compromising His character, namely, by giving us the gift of His Son, Jesus Christ.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### God is Holy {#gods-perfect-character-god-is-holy}
 
@@ -1905,7 +1905,7 @@ stags="God > Is holy"
 
 God's character is holy (Hebrew *qadosh*: קדוש); it is completely separate from evil. So how does holiness respond to sinful man? In His holiness, God can never compromise His perfect standards for any reason. Therefore His commitment to condemning evil and rewarding good is inviolable. But even though we are sinful and by nature deserving of His judgment, in His holiness God has nevertheless found a *merciful* way to justify us in spite of our sin without violating His character, namely, by judging His Son, Jesus Christ in our place.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### God is Faithful and True {#gods-perfect-character-god-is-faithful-and-true}
 
@@ -1915,7 +1915,7 @@ stags="God > Is faithful and true"
 
 God's character is faithful and true (Hebrew: *omen*, *emeth*: אמת ,אמון); it is actively opposed to evil. So how do truth and faithfulness respond to sinful man? In His faithfulness and truth, God is entirely reliable and trustworthy in all that He promises to us and does for us. Therefore His veracity and dependability in offering us a way through Jesus Christ to escape the evil of death and embrace the good of eternal life are beyond reproach. So even though we are sinful and by nature objects of His wrath, in His faithfulness and truth God has nevertheless found a way to make *peace* between Himself and us and to remove the enmity between Himself and us, caused by our sins, without corrupting His character, namely, by reconciling us to Himself through the death of His Son, Jesus Christ.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### God is Sovereign {#gods-perfect-character-god-is-sovereign}
 
@@ -1929,25 +1929,25 @@ From the standpoint of His *transcendence* of the moral universe, He is sovereig
 
 Only God is qualified to be the ultimate judge of the morally accountable creatures He has created, and thus to hold them responsible for their actions. As *de facto* ruler of the universe (through His infinite nature) and *de jure* ruler of the universe (through His perfect character):
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### God possesses the sovereign authority to demonstrate *love* to His sinful creatures out of His own *goodness* {#gods-perfect-character-god-possesses-the-sovereign-authority-to-demonstrate-love-to-his-sinful-creatures-out-of-his-own-goodness}
 
 Not ignoring their sins, as evil suggests He should, but *paying* for them Himself by the death on the cross of His Son, Jesus Christ, in their place (redemption). We call the result of this act of His sovereignty **grace** (Hebrew *chen*: חן; Greek *charis*: χάρις).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### God possesses the sovereign authority to administer *justice* to His sinful creatures out of His *holiness* {#gods-perfect-character-god-possesses-the-sovereign-authority-to-administer-justice-to-his-sinful-creatures-out-of-his-holiness}
 
 Not abandoning them to their sins, as evil suggests He must, but *forgiving* them Himself on the basis of the death on the cross of His Son, Jesus Christ, in their place (justification). We call the result of this act of His sovereignty **mercy** (Hebrew *chesed*: חסד; Greek *eleos*: ἔλεος).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### God possesses the sovereign authority to give *life* to His sinful creatures out of His *truth* and *faithfulness* {#gods-perfect-character-god-possesses-the-sovereign-authority-to-give-life-to-his-sinful-creatures-out-of-his-truth-and-faithfulness}
 
 Not allowing them to die in their sins, as evil suggests He will, but *reconciling* them to Himself through the death on the cross of His Son, Jesus Christ, in their place (reconciliation). We call the result of this act of His sovereignty **peace** (Hebrew *shalom*: שלום; Greek *eirene*: εἰρήνη).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Summary: God's sovereignty in action {#gods-perfect-character-summary-gods-sovereignty-in-action}
 
@@ -1959,7 +1959,7 @@ Not allowing them to die in their sins, as evil suggests He will, but *reconcili
 
 In this—God's full plan for saving sinful man—absolutely everything relies upon the cross, the blood of Jesus Christ. One particularly memorable way I have heard it described is that "God's Mercy and Justice intersect in the cross."
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### God is Love {#gods-perfect-character-god-is-love}
 
@@ -1969,7 +1969,7 @@ stags="God > Is love"
 
 Having love for His creatures, is a natural consequence of God's goodness. Out of the intrinsic goodness of His character, God loves us with a perfect love, desiring to help us in our sinful state. However, He does not overlook His holiness and justice in the process and forgive our sin without consequence (as evil suggests He should). Therefore God had to find a way to *reach out to us in love* without compromising His character, and did so through the gift and sacrifice of His only Son on our behalf. *Grace* is the biblical name for God's policy of lovingly redeeming us from our sins through Jesus Christ. We accept and receive God's gracious offer of love and redemption by accepting and receiving the Lord Jesus Christ as our Savior.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### God is Just {#gods-perfect-character-god-is-just}
 
@@ -1979,7 +1979,7 @@ stags="God > Is just"
 
 Demanding justice for His creatures is a natural consequence of God's holiness. Out of the intrinsic holiness of His character, God must deal with us in perfect justice, righteously condemning us in our sinful state. However, He does not overlook His goodness and love in the process and abandon us to our sins (as evil suggests He will). For God found a way to *treat us as righteous* without compromising His character, and did so through the gift and sacrifice of His only Son on our behalf. *Mercy* is the biblical name for God's policy of justly forgiving us on the basis of the death of Jesus Christ. We accept and receive God's merciful offer of justification by accepting and receiving the Lord Jesus Christ as our Savior.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% video-only %}}
 
@@ -3569,7 +3569,7 @@ In this lesson, we are going to be summarizing what we've done in the last sever
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### A reminder of what we've been going over {#conclusions-the-essence-of-god-a-reminder-of-what-weve-been-going-over}
 
@@ -3579,7 +3579,7 @@ We have been talking about the essence of God: His infinite nature and His perfe
 * [God's infinite nature](https://www.bibledocs.org/longer-topical-studies/ichthys-bb1-the-study-of-god/gods-infinite-nature/)
 * [God's perfect character](https://www.bibledocs.org/longer-topical-studies/ichthys-bb1-the-study-of-god/gods-perfect-character/)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### An overview in words {#conclusions-the-essence-of-god-an-overview-in-words}
 
@@ -3602,7 +3602,7 @@ God's faithfulness and truth overflow in life, producing peace with God for sinf
 &emsp;He did make peace between us through His Son,  
 &emsp;reconciling us to Himself and granting us eternal life on the basis of the blood of Christ.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### An overview in picture form {#conclusions-the-essence-of-god-an-overview-in-picture-form}
 
@@ -3951,13 +3951,13 @@ In this lesson, we are going to be starting an examination of a new topic in our
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The core definition of the Trinity: God is One in Essence, Three in Person {#introduction-the-trinity-the-core-definition-of-the-trinity-god-is-one-in-essence-three-in-person}
 
 We will examine exactly what this statement means as we continue in our study, but suffice it to say that this idea of "one essence / three persons" (or "three persons / one essence" if you prefer that order to the phrasing instead) is the central point, and what you should always keep in mind when thinking about the Trinity. These two statements together sum up all that is important about the triune nature of God.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Is the terminology itself important in considering the development of this doctrine? {#introduction-the-trinity-is-the-terminology-itself-important-in-considering-the-development-of-this-doctrine}
 
@@ -3976,7 +3976,7 @@ and He who is coming.
 
 No specific term for the triune nature of God occurs in the Bible. The inspired writers of the New Testament clearly felt that the existence of one God in three distinct persons, the doctrine which we now call "the Trinity", was a relatively straight-forward concept and accessible enough (even with a cursory reading of the scripture) from passages such as the one quoted above.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% technical-discussion %}}
 To flesh out a bit more why we might make the claim that Revelation 4:8 supports the doctrine of the Trinity, consider:
@@ -3993,7 +3993,7 @@ Perhaps someone might say that it is not impossible or even particularly uncommo
 The explanation that makes the most sense is simply that John, inspired by the Holy Spirit, put things this way intentionally. And therefore it ought not be ignored. QED.
 {{% /technical-discussion %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 The Apostolic Fathers, the generation that followed the men who actually penned the New Testament, also felt that merely quoting scriptures was an entirely adequate way of discussing the relationship between Father, Son, and Holy Spirit.
 
@@ -4001,7 +4001,7 @@ Not until the late second and early third centuries did the term "Trinity" itsel
 
 God is one. God is also three. And there is no contradiction between these statements.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% video-only %}}
 
@@ -4532,7 +4532,7 @@ In this lesson we kick off a series of discussions we will be having about what 
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Our next several discussions: understanding the Trinity in terms of what it is *not* {#all-members-of-the-trinity-are-deity-our-next-several-discussions-understanding-the-trinity-in-terms-of-what-it-is-not}
 
@@ -4540,7 +4540,7 @@ Last lesson we gave the basic definition of the Trinity: "three in person / one 
 
 We can better understand what the Trinity is by first considering what it is *not* in terms of the definition given above, so that will be our focus for the next several discussions.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Key point: God is *one* in essence, but that does *not* mean that only one person of the Trinity is deity {#all-members-of-the-trinity-are-deity-key-point-god-is-one-in-essence-but-that-does-not-mean-that-only-one-person-of-the-trinity-is-deity}
 
@@ -4552,7 +4552,7 @@ God is *three* in person, and all three persons of the Trinity (the Father, the 
 
 But the Bible teaches that all three members of the Trinity are deity. Compare: Is.63:9-14; Matt. 3:16-17; 28:19; Jn.14:16-17; 1Cor.12:4-6; 2Cor.13:14; Eph.4:4-6; 1Pet.1:1-2; Rev.1:4-6.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% video-only %}}
 
@@ -4628,7 +4628,7 @@ See: Matt.6:9; 1Cor.8:6; Eph.3:14-15.
 "I am the Alpha and the Omega," says the Lord who is God, "He who is and was and is coming, the Almighty."   
 {{% /scripture-h %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% video-only %}}
 
@@ -4656,7 +4656,7 @@ See: Jn.5:18; 10:30; 10:33; Rom.9:5; 1Cor.8:6; Col.2:9; Heb.1:3.
 The Word existed in the beginning: the Word was both present with the [Father] God [before creation] and the Word was God [in His own right]. This same One was present with the [Father] God in the beginning.
 {{% /scripture-h %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The Holy Spirit is God {#all-members-of-the-trinity-are-deity-the-holy-spirit-is-god}
 
@@ -6074,7 +6074,7 @@ This lesson's main focus is examining the point that God is *one* in essence, bu
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Key point: God is *one* in essence, but that does *not* mean that the Trinity is only one person (merely displaying three modes or aspects of Himself) {#all-members-of-the-trinity-are-distinct-persons-key-point-god-is-one-in-essence-but-that-does-not-mean-that-the-trinity-is-only-one-person-merely-displaying-three-modes-or-aspects-of-himself}
 
@@ -6086,7 +6086,7 @@ God is three in person, and all three members of the Trinity (the Father and the
 
 Heresies of the past which have challenged the distinct personalities of members of the Trinity include modalism (the idea that Christ and the Spirit are mere "modes" of the Father's personality), and docetism (the notion that Christ only seemed real and was in reality merely a phantom of sorts representing the Father's plan). But the Bible teaches that all three members of the Trinity are distinct persons.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The Father is a unique person in His own right (for He is distinct from the Son) {#all-members-of-the-trinity-are-distinct-persons-the-father-is-a-unique-person-in-his-own-right-for-he-is-distinct-from-the-son}
 
@@ -6099,7 +6099,7 @@ stags="Trinity > Distinctness > Father"
 I was looking during my vision of that night, and behold – with the clouds of heaven one like a Son of Man was coming up, and He approached the Ancient of Days [i.e, the Father] and they brought Him before Him.
 {{% /scripture-h %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The Son is a unique person in His own right (for He is distinct from the Father) {#all-members-of-the-trinity-are-distinct-persons-the-son-is-a-unique-person-in-his-own-right-for-he-is-distinct-from-the-father}
 
@@ -6114,7 +6114,7 @@ Behold, I have arrived – in the scroll of Your book it is written about Me –
 
 (See Psalm 40:7-8)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The Holy Spirit is a unique person in His own right (for He acts as a distinct person) {#all-members-of-the-trinity-are-distinct-persons-the-holy-spirit-is-a-unique-person-in-his-own-right-for-he-acts-as-a-distinct-person}
 
@@ -6433,7 +6433,7 @@ This lesson's main focus is examining the point that God is *three* in person, b
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Key point: God is *three* in person, but that does *not* mean that there is any inferiority or disparity of status, activity, or substance between the members of the Trinity {#all-members-of-the-trinity-are-coequal-coeternal-and-consubstantial-key-point-god-is-three-in-person-but-that-does-not-mean-that-there-is-any-inferiority-or-disparity-of-status-activity-or-substance-between-the-members-of-the-trinity}
 
@@ -6445,7 +6445,7 @@ In any human association, there is always inherent inferiority and disparity pre
 
 God is *one* in essence and all three members of the Trinity (the Father and the Son and the Holy Spirit) are coequal, coeternal, and con-substantial partners in one and the same essence. Heresies of the past which have challenged the coequality of members of the Trinity include subordinationism (which alternatively asserts that either Christ or the Spirit is by nature inferior to the Father) and Arianism (which teaches a Christ not entirely equal in divinity to the Father). But the Bible teaches that all three members of the Trinity are coequal partakers of the same essence.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### They all possess a full and equal share of the *status* of deity {#all-members-of-the-trinity-are-coequal-coeternal-and-consubstantial-they-all-possess-a-full-and-equal-share-of-the-status-of-deity}
 
@@ -6460,7 +6460,7 @@ As seen from the equal rank accorded to each in the formula for profession of fa
 Then Jesus came over and said to them, "All authority in heaven and on earth has been given to me, so go and make all nations my followers by baptizing them into the name of the Father and of the Son and of the Holy Spirit, and by teaching them to observe everything I have commanded you."
 {{% /scripture-h %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### They all possess a full and equal share of the *eternal function* of deity {#all-members-of-the-trinity-are-coequal-coeternal-and-consubstantial-they-all-possess-a-full-and-equal-share-of-the-eternal-function-of-deity}
 
@@ -6475,7 +6475,7 @@ As seen from their joint participation in creation:
 Then God said, "Let ***Us*** make man in ***Our*** image, according to ***Our*** pattern.  
 {{% /scripture-h %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### They all possess a full and equal share of the *substance* of deity {#all-members-of-the-trinity-are-coequal-coeternal-and-consubstantial-they-all-possess-a-full-and-equal-share-of-the-substance-of-deity}
 
@@ -7001,7 +7001,7 @@ This lesson's main focus is examining the point that God is *three* in person, b
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Key point: God is *three* in person, but that does *not* mean that the Trinity is composed of three (or more) different "gods" {#all-members-of-the-trinity-are-joint-partakers-of-the-same-essence-key-point-god-is-three-in-person-but-that-does-not-mean-that-the-trinity-is-composed-of-three-or-more-different-gods}
 
@@ -7011,7 +7011,7 @@ stags="Trinity > What it is not > A pantheon"
 
 God is *one* in essence, and all three members of the Trinity (the Father and the Son and the Holy Spirit) are the sole, joint partakers of that same essence rather than three similar beings of similar essence. All so-called Christian sects which elevate saints and angels to the status of divinity essentially belong to this heretical category (after the manner of pagan pantheons, which also possess numerous "deities" of lesser and greater rank). But the Bible teaches that all three members of the Trinity alone share the same unique essence:
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The Father is revealed to be uniquely God {#all-members-of-the-trinity-are-joint-partakers-of-the-same-essence-the-father-is-revealed-to-be-uniquely-god}
 
@@ -7024,7 +7024,7 @@ stags="Trinity > Jointly partake in one single essence > Father"
 You were shown these things so as to know that the Lord, He is God, and there is no other besides Him.
 {{% /scripture-h %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The Son and the Father are revealed to be uniquely God {#all-members-of-the-trinity-are-joint-partakers-of-the-same-essence-the-son-and-the-father-are-revealed-to-be-uniquely-god}
 
@@ -7042,7 +7042,7 @@ Some things I'll add here in addition to this one verse Dr. Luginbill quoted, to
 - Colossians 2:9
 - Philippians 2:6
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% video-only %}}
 
@@ -7482,7 +7482,7 @@ In this lesson, we go over how the Trinity can be a tricky concept to understand
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Review {#introduction-the-trinity-in-the-bible-review}
 
@@ -7497,7 +7497,7 @@ The definition of the Trinity which best does justice to the biblical statements
 - All three members of the Trinity have coequal and coeternal essence.
 - All three members of the Trinity share the same divine essence.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The Trinity can be hard to explain properly {#introduction-the-trinity-in-the-bible-the-trinity-can-be-hard-to-explain-properly}
 
@@ -7509,7 +7509,7 @@ As can be seen from the numerous heresies (touched on some in our previous lesso
 
 It should be noted here that even the terms "essence" and "person" were felt by some theologians of the early church to be controversial. We may talk of Man's essence (we are all cut from the same spiritual cloth), and Man's personality (we are all unique individuals), but the essence of God is different from the essence of Man (for one thing, all members of the Trinity share *the same* divine essence), and the idea of personality in the Trinity is different from that of human persons (to take but one example, the absolute unity of agreement and purpose of the Trinity throughout all eternity is not only quantitatively but also qualitatively beyond human experience).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### So keeping the focus on the Bible is necessary {#introduction-the-trinity-in-the-bible-so-keeping-the-focus-on-the-bible-is-necessary}
 
@@ -7523,7 +7523,7 @@ Just a little leaven in the loaf, and Satan can make the Trinity seem as an asso
 
 In His loving wisdom, God has told us what we most need to know without giving us either information that could be misinterpreted, or less than accurate illustrations that might do more harm than good.
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% video-only %}}
 
@@ -7905,7 +7905,7 @@ In this lesson we discuss illustrations that seek to help explain the Trinity. S
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Perils in attempting to use illustrations for the Trinity {#illustrating-the-trinity-perils-in-attempting-to-use-illustrations-for-the-trinity}
 
@@ -7917,7 +7917,7 @@ As we discussed in our last lesson, attempting to illustrate such a carefully pr
 
 The number one objection to such illustrations is that God is divine, and since nothing and no one else is, *any* illustration will needs be imperfect and inaccurate (a fact which may well explain why no such illustrations occur in the Bible: Is.40:18). And there is more. Historically, Satan's attacks on the doctrine of the Trinity – a teaching crucial to the integrity of our Christian faith – have focused on the three-fold sovereign *personality* of God and/or His *deity* in three persons. But this reality of divine, triune personality is precisely the point that all illustrations of the Trinity miss (of necessity, since there is nothing "like" the Trinity).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### An illustration from the early church: the Trinity "triangle" {#illustrating-the-trinity-an-illustration-from-the-early-church-the-trinity-triangle}
 
@@ -7930,25 +7930,25 @@ This oldest of the Trinity illustrations is also in many ways the best, because 
 <!-- TODO -->
 ![The Trinity Triangle](/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/illustrating-the-trinity/trinity-triangle.gif)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The illustration of the family of Man {#illustrating-the-trinity-the-illustration-of-the-family-of-man}
 
 Like the Trinity, mankind has multiple members, all possessed of similar, spiritual essences. But the Trinity *share* a unique, divine essence, and their triune unanimity of purpose is unlike anything in the realm of humanity.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The illustration of the human mind {#illustrating-the-trinity-the-illustration-of-the-human-mind}
 
 Like the Trinity, the mind can be said to be at once one thing, yet at the same time several things (intellect, emotion, conscience, etc.) and can dialogue with itself, and even be at cross-purposes with itself. But the Trinity is composed of distinct, divine personalities to which the inner-workings of our psyches make a poor comparison.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Illustrations from the world of nature {#illustrating-the-trinity-illustrations-from-the-world-of-nature}
 
 There are many things in the natural world that consist of distinct, multiple parts that at the same time constitute one complete whole. For example, distinguishable branches, roots and trunk are all part of one and the same tree, and eggs have three distinct parts (yolk, white and shell) without any of which three you would no longer have an egg. None of the illustrations of this sort really help to explain the unique personalities of the Trinity or their shared divine essence.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Illustrations from the physical realm {#illustrating-the-trinity-illustrations-from-the-physical-realm}
 
@@ -7960,7 +7960,7 @@ This category of illustration contains some of the more interesting examples tha
 - Space is one yet distinct: length, breadth, and height
 - Matter is one yet distinct: energy, matter, phenomnea
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Conclusions: these illustrations are only the loosest of analogies at best {#illustrating-the-trinity-conclusions-these-illustrations-are-only-the-loosest-of-analogies-at-best}
 
@@ -8568,7 +8568,7 @@ All three members of the Trinity are referred to by common names in both the Old
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Roles of the Trinity in the Plan of God {#roles-of-the-trinity-in-the-plan-of-god-roles-of-the-trinity-in-the-plan-of-god}
 
@@ -8579,7 +8579,7 @@ stags="Trinity > Roles > Contrasted with non-biblical illustrations for Trinity"
 
 A more valuable approach than the use of non-biblical illustrations to understand the nature of the Trinity is the examination of the function of the Trinity as described in the Bible. The scriptures have much to say about how God works in human history, and, specific to our topic, what roles the individual members of the Trinity play in that work, otherwise known as the "plan of God".
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### General Introduction: The Roles of the Trinity Are a Biblical Way To Get Additional Perspective {#roles-of-the-trinity-in-the-plan-of-god-general-introduction-the-roles-of-the-trinity-are-a-biblical-way-to-get-additional-perspective}
 
@@ -8587,7 +8587,7 @@ God has not been operating in human history on an ad hoc or reactive basis, but 
 
 No potentially-misleading illustrations necessary
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The Names of the Trinity: Shared Names {#roles-of-the-trinity-in-the-plan-of-god-the-names-of-the-trinity-shared-names}
 
@@ -8600,7 +8600,7 @@ Much can be understood about the Trinity through a consideration of the names by
 
 Individually considered, however, members of the Trinity in the Old Testament are referred to most commonly by the Hebrew word *Yahweh* (translated in the New Testament by the common Greek word for Lord, *kyrios*), a word that, as we have seen, calls special attention to the Lord's timeless and dynamic being (see [section I, note 1](https://ichthys.com/1Theo.htm#N_1_)). These two names, God and Lord, emphasize respectively the unity of the Trinity in its three-fold persons (*'Elohim* is plural but refers to the Trinity collectively), and the joint divine-essence of all three individual members (*Yahweh* is singular but can be used to refer to any of the Trinity's members individually).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The Names of the Trinity: Individual Names {#roles-of-the-trinity-in-the-plan-of-god-the-names-of-the-trinity-individual-names}
 
@@ -8612,7 +8612,7 @@ With the fuller revelation of the Trinity in the New Testament following the rev
 
 Cf. the general concept of so-called *progressive revelation*. This is an excellent example of the phenomenon.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The Father (the 1st Person of the Trinity) {#roles-of-the-trinity-in-the-plan-of-god-the-father-the-1st-person-of-the-trinity}
 
@@ -8623,17 +8623,17 @@ stags="Trinity > Roles > Father | Fatherhood of God | Typology > Human copies th
 
 *Origin*: The term for and idea of the Fatherhood of God, a designation well known from the New Testament, is also found in the Old Testament from the Pentateuch onward. The word Father is first used for God in Deuteronomy 32:6: "Is He not your Father? The One who bought you? He is the One who made you and established you." Later in verse 18 of the same chapter, God is referred to as "the Rock who fathered you". The concept of the fatherhood of God can also be seen at Exodus 4:22, where Israel is referred to as God's "firstborn son".
 
-<!-- --- -->
+<!-- slide-break -->
 
 *Significance*: The use of the name "Father" is clearly intended to be taken as an analogy from human experience. Like the father who sired us, He is our creator. Like a father, He is our authority figure, our trainer, disciplinarian, and teacher (Heb.12:5-11). And, not to be underestimated, He is the One who cares for us and loves us deeply, who protects us, keeps us safe, and wants only what is truly best for us (regardless of what we see as best).
 
 Being human, our earthly fathers had strengths and weaknesses, and despite their best intentions had to act on the basis of imperfect information about what was best for us. But our heavenly Father represents the perfect ideal of fatherhood. He acts toward us always in perfect love, and all He does for us is without question for our ultimate good, for whether He disciplines us or blesses us, He does so in perfect knowledge of who we are, and of all that is in our hearts.
 
-<!-- --- -->
+<!-- slide-break -->
 
 *Person*: The Father is often referred to as the 1st person of the Trinity (i.e., the authoritative "I" person), because He speaks to us as "I", directly manifesting His ***authoritative*** will as our God, creator and ruler of the universe (e.g., Ex.3:14-15; Is.46:9-10).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The Son (the 2nd Person of the Trinity) {#roles-of-the-trinity-in-the-plan-of-god-the-son-the-2nd-person-of-the-trinity}
 
@@ -8651,17 +8651,17 @@ Though Christ's incarnation was, in a veiled fashion, prophesied and foreshadowe
 - Israel is God's son -- Christ is *the* Son (Hos.11:1 fulfilled at Matt.2:15)
 - Finally, though Solomon was David's direct descendant, Christ is his ultimate descendant, the Messiah, *the* Son of David who is also the Son of God (Ps.2:7-12; 110:1).
 
-<!-- --- -->
+<!-- slide-break -->
 
 *Significance*: Building on the idea of fatherhood as discussed above, sonship denotes the idea of a special and unbreakable relationship with the Father, one of dutiful subordination to the Father's will, but also one of special privilege, inheritance and shared authority.
 
 A son (especially a king's son) is often more accessible than a father. The role of mediator between the king and His offending subjects can only be played by someone who is on a par with both the Father-king and creature-subjects: only a Son (incarnate) can be sent on such a mission of reconciliation (cf. Matt.21:33-40).
 
-<!-- --- -->
+<!-- slide-break -->
 
 *Person*: The Son is often referred to as the 2nd person (i.e., the accessible "you" person), because He is ***accessible*** to us, having appeared in the flesh to forge a relationship with us on the Father's behalf (e.g., Jn.15:14-15), and having gained access to the Father for us (Jn.14:6; Eph.2:18; 3:12).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The Holy Spirit (the 3rd Person of the Trinity) {#roles-of-the-trinity-in-the-plan-of-god-the-holy-spirit-the-3rd-person-of-the-trinity}
 
@@ -8672,15 +8672,15 @@ stags="Trinity > Roles > Holy Spirit | Holy Spirit > Is a person, not just an im
 
 *Origin*: From the first chapter of the Old Testament (Gen.1:2), to the closing chapter of the New Testament (Rev.22:17), the word "spirit" is used to refer to God the Holy Spirit. The Hebrew and Greek words for "spirit", *ruach* and *pneuma* respectively, have the core meaning of "wind" or "breeze", and, again, there are important points to be garnered from the name analogy.
 
-<!-- --- -->
+<!-- slide-break -->
 
 *Significance*: The wind is a potent, invisible force. Though we perceive it and experience its effects, we can neither see where it has come from or where it is going to (Jn.3:8). It can have everything from a gentle, warming influence to a powerful, chilling effect. "Wind" is thus an aptly descriptive analogy for the Holy Spirit's role in the plan of God: His invisible yet powerful support of good (Zech.4:6; 1Cor.12:3) and restraint of evil (Gen.6:3; 1Cor.12:3; 2Thes.2:5-8) in the furtherance of the plan of God must not be underestimated.
 
-<!-- --- -->
+<!-- slide-break -->
 
 *Person*: The Holy Spirit is often referred to as the 3rd person of the Trinity (i.e., the unseen "he" person), because unlike the Father, He does not speak directly to us, and unlike the Son, He has not been made manifest to us; instead, like the wind, He is ***unseen*** by us, but, like the wind, that does not mean that we do not experience His power in a very personal and dynamic way (Jn.14:16-17; Gal.5:22-26).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Note: Analogies Are Just Analogies, and Nothing More {#roles-of-the-trinity-in-the-plan-of-god-note-analogies-are-just-analogies-and-nothing-more}
 
@@ -9733,7 +9733,7 @@ The Trinity Roles are clearly visible in many passages in the New Testament. Whi
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Matthew 3:16-17 {#trinity-roles-as-seen-from-specific-new-testament-scriptures-matthew-3-16-17}
 
@@ -9748,7 +9748,7 @@ Now once **Jesus** had been baptized, He immediately came up out of the water, a
 
 The baptism of Christ had a much different symbolism from any other baptism John ever undertook. John had (rightly) understood the normal meaning of his unique baptism to be a visible act of repentance and a symbolic washing away of sins. This explains why he was reluctant to baptize the sinless Messiah (Matt.3:14). But in the case of Christ, the symbolism is different: His entrance into the water represents His willingness to submerge Himself into our sins (therefore to die for them); whereas His coming up out of the water represents His resurrection. In this, the role of the Trinity in Christ's victory over death at the cross in death and resurrection is symbolized: the Son who undertook the *mission* to save us from our sins comes back to life (in His humanity); the Holy Spirit *quickens* Him (1Pet.3:18); and the Father who sent the Son *pronounces* His work and sacrifice satisfactory, efficacious and well-pleasing.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### John 14:16 {#trinity-roles-as-seen-from-specific-new-testament-scriptures-john-14-16}
 
@@ -9763,7 +9763,7 @@ And **I** will ask the **Father** and He will give you another **Comforter**, th
 
 This verse shows the Father in a position of *authority*, the Son *interceding* on behalf of believers, and the Holy Spirit being sent *to help* us.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### 1 Corinthians 12:4-6 {#trinity-roles-as-seen-from-specific-new-testament-scriptures-1-corinthians-12-4-6}
 
@@ -9778,7 +9778,7 @@ There are different gifts, but the same **Spirit**; and there are different mini
 
 Here we see clearly the respective roles of the Trinity in supporting our Christian ministry in life. The Holy Spirit gives us our particular spiritual gift(s) (cf. 1Cor.12:11); specific ministries are said to be assigned by our Lord Jesus Christ; and the Father is said to oversee and empower the results of those ministries: God gives us the gift (the Holy Spirit: He *empowers* us); God gives us the ministry (the Lord Jesus Christ: we share in His *mission*); God gives us the results (the Father: all effects are part of His *plan*).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### 2 Corinthians 13:14 {#trinity-roles-as-seen-from-specific-new-testament-scriptures-2-corinthians-13-14}
 
@@ -9793,7 +9793,7 @@ May the grace of the **Lord Jesus Christ**, and the love of **God**, and the fel
 
 The Trinity is seen here from the standpoint of salvation, before, during and after: The <u>love</u> of the Father *sends* the Son to die for sinful mankind (cf. Jn.3:16); The Son's *sacrifice* reconciles us with the Father by satisfying the requirements of the Father's righteousness, and thus providing <u>grace</u>, that is, salvation free to us since He paid; The Spirit *unites* in <u>fellowship</u> with God all who accept this offer of grace (based on Christ's death) originating in God's love.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Ephesians 3:14-17 {#trinity-roles-as-seen-from-specific-new-testament-scriptures-ephesians-3-14-17}
 
@@ -9808,7 +9808,7 @@ For this reason I bow my knees to the **Father**, from whom His entire family in
 
 In this apostolic prayer of Paul, we see the Father as the *authority* to whom Paul prays; he prays for us to be *strengthened* by the Holy Spirit; the object of his prayer is that we may grow to be *more like* our Savior, Jesus Christ, and improve our relationship with Him in every way.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Ephesians 4:4-6 {#trinity-roles-as-seen-from-specific-new-testament-scriptures-ephesians-4-4-6}
 
@@ -9823,7 +9823,7 @@ There is one body and One **Spirit** – just as when you were called it was in 
 
 In this precís of the "unity of the faith" (Eph.4:3), Paul reminds us of some of the most important common factors of our Christian faith. In doing so, certain aspects of individual Trinity roles are emphasized: the Holy Spirit's role in bringing us into the body of Christ through His baptizing of us into Christ, and our concomitant *hope* of resurrection in Christ; the Lord Jesus Christ's role as our object of *faith* and the Spirit baptism by which we enter into union with Him through that *faith*; the Father's role as the unifying God of *love*, who knits His family of believers together in every way.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### 1 Peter 1:1-2 {#trinity-roles-as-seen-from-specific-new-testament-scriptures-1-peter-1-1-2}
 
@@ -9838,7 +9838,7 @@ Peter, an apostle of Jesus Christ, to those who, though outcasts dispersed throu
 
 Peter tells us that we believers are elected to eternal life according to the Father's *plan* of salvation, the Holy Spirit's *implementation* of salvation for us when we believe, and the Son's *work* of salvation, in which and in whom we put our faith.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Revelation 1:4-6 {#trinity-roles-as-seen-from-specific-new-testament-scriptures-revelation-1-4-6}
 
@@ -10481,7 +10481,7 @@ The best way to get an understanding of how the three members of the Trinity wor
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Overview {#trinity-roles-as-demonstrated-in-gods-plan-for-human-history-overview}
 
@@ -10492,13 +10492,13 @@ stags="Trinity > Understood through God's redemptive plan for humankind"
 
 When we are face to face with God, we shall "know even as we are known" (1Cor.13:12). Until that time, our understanding of God in three persons is essentially dependent upon the way the Bible reveals the Trinity in the process of carrying out God's plan for human history. In the following sections, we will briefly be examining the different roles taken by the Trinity in several aspects of administering that plan.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### A non-exhaustive list of examples {#trinity-roles-as-demonstrated-in-gods-plan-for-human-history-a-non-exhaustive-list-of-examples}
 
 There are more things that could be discussed than the few cases we will be going over here. Even with just a few examples, though, it should be clear how the working out of God's plan for human history helps us understand the roles that the members of the Trinity have adopted.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The Plan of God Generally {#trinity-roles-as-demonstrated-in-gods-plan-for-human-history-the-plan-of-god-generally}
 
@@ -10509,7 +10509,7 @@ stags="Plan of God"
 
 Authorized by the *Will* of the Father (Eph.1:11; Rev.4:11), executed by the *Word*, the Son (Heb.1:2-3; Jn.1:1-3), administered through the *Wisdom* and power of the Spirit (Is.11:2; Zech.4:6).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Creation of the World {#trinity-roles-as-demonstrated-in-gods-plan-for-human-history-creation-of-the-world}
 
@@ -10520,7 +10520,7 @@ stags="Creation of the world | Trinity Roles > In God's relationship with the an
 
 Directed by the Father (Gen.1:1; 1:3; Rev.4:11), carried out by the Son (1Cor.8:6; Col.1:16; Heb.1:2), empowered by the Spirit (Ps.33:6b; Prov.8:27-31).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Revelation of the Word {#trinity-roles-as-demonstrated-in-gods-plan-for-human-history-revelation-of-the-word}
 
@@ -10531,7 +10531,7 @@ stags="The Word of God | Logos > Meanings behind the word"
 
 The Father *expresses* the Word (Is.55:11; also Is.40:8; 45:23), Christ *is* the Word (Jn.1:1-3; Heb.1:3), the Holy Spirit *reveals* the Word (1Cor.2:10-16).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Christ's 1st Advent {#trinity-roles-as-demonstrated-in-gods-plan-for-human-history-christs-1st-advent}
 
@@ -10542,7 +10542,7 @@ stags="Jesus > First advent"
 
 Christ is sent by the Father (Heb.10:7), conceived (Matt.1:20), led (Matt.4:1), and empowered (Jn.3:34) by the Spirit as He carries out His ministry of self-sacrifice for our salvation.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The Victory of Salvation {#trinity-roles-as-demonstrated-in-gods-plan-for-human-history-the-victory-of-salvation}
 
@@ -10555,7 +10555,7 @@ stags="Kenosis"
 
 The Father sends the Son on the mission (Jn.3:16), the Son accomplishes the mission (Jn.19:30; Heb.10:7), the Holy Spirit supports the mission (Matt.3:16; Jn.3:34).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Reconciliation of the Believer {#trinity-roles-as-demonstrated-in-gods-plan-for-human-history-reconciliation-of-the-believer}
 
@@ -10566,7 +10566,7 @@ stags="Reconciliation"
 
 Though estranged from the Father (Eph.4:18; Col.1:21; 1Jn.1:3 & 6), we are restored to fellowship with Him through the mediation of the Son by means of His sacrifice on the cross (Eph.2:12-13; Col.1:22; Heb.2:14-15), with the Spirit acting as the agent of our renewed fellowship (2Cor.13:14; Phil.2:1).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Regeneration of the Believer {#trinity-roles-as-demonstrated-in-gods-plan-for-human-history-regeneration-of-the-believer}
 
@@ -10577,7 +10577,7 @@ stags="Regeneration | Born again > Spirit not water"
 
 The Father holds the key to eternal life (Jn.5:19-26; Rom.5:10-11), the Son purchased access to eternal life by His death for all who believe in Him (Acts 3:15; 20:28; 1Pet.1:18), the Spirit quickens or regenerates believers (Jn.3:5-8).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Walk of the Believer {#trinity-roles-as-demonstrated-in-gods-plan-for-human-history-walk-of-the-believer}
 
@@ -10588,7 +10588,7 @@ stags="Walk of the believer | Pelagianisnm | Sanctification > The standard is pe
 
 The Father sets the standard of holiness (2Cor.7:1; 1Thes.4:3; Heb.12:14; 1Pet.1:16), the Son is the model (Matt.16:24; 1Cor.11:1; 1Thes.1:6), the Spirit provides the power to live as God would have us live (Rom.8:4; Gal.5:16).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Virtues of the Believer {#trinity-roles-as-demonstrated-in-gods-plan-for-human-history-virtues-of-the-believer}
 
@@ -10599,7 +10599,7 @@ stags="Eternal Rewards > Crowns | Virtue thinking > Faith | Virtue thinking > Ho
 
 The Father gives us the example of ***love*** (Jn.3:16; 1Jn.4:7-12) by sending His Son, who is the object our ***faith*** (Jn.14:6; Act 16:31), so that we look forward to our resurrection with a ***hope*** empowered by the Holy Spirit (Rom.15:13).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Spiritual Gifts of the Believer {#trinity-roles-as-demonstrated-in-gods-plan-for-human-history-spiritual-gifts-of-the-believer}
 
@@ -10610,7 +10610,7 @@ stags="Spiritual gifts | Spiritual gifts > All believers have them, not only pas
 
 Given by the Spirit, with specific ministries assigned by the Son and specific effects decreed by the Father (1Cor.12:4-6).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Prayers of the Believer {#trinity-roles-as-demonstrated-in-gods-plan-for-human-history-prayers-of-the-believer}
 
@@ -10621,7 +10621,7 @@ stags="Prayer > Access to the throne room of God was purchased with the blood of
 
 Offered to the Father (Matt.6:6), in the name of the Son (Jn.15:16; 16:23), accomplished in the power of the Spirit (Eph.6:18).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Caveats {#trinity-roles-as-demonstrated-in-gods-plan-for-human-history-caveats}
 
@@ -11887,7 +11887,7 @@ God has always been triune in nature; He did not somehow change to become three 
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Given the benefit of subsequent clarifying New Testament revelation, the Trinity is visible in the Old Testament {#introduction-the-trinity-in-the-old-testament-given-the-benefit-of-subsequent-clarifying-new-testament-revelation-the-trinity-is-visible-in-the-old-testament}
 
@@ -11903,7 +11903,7 @@ The Trinity is not only present in the verses of the Old Testament, but portraye
 
 In these cases and others, the clear intent is to reflect (if not to convey) the triune nature of God. Moreover, some Old Testament scriptures cast the Trinity in even sharper relief, such as king David's last words which in quick succession refer to God as "the Spirit of the Lord", "the God of Israel", and "the Rock of Israel" (2Sam.23:2-3; see 1Cor.10:4 for the image of Christ as Israel's Rock). There are many other passages commonly cited to demonstrate the reality of the Trinity in the Old Testament, a reality shimmering just beneath the veil (e.g., Is.48:15-17; 63:9-10), but perhaps the best example is the one used by our Lord to demonstrate that His divinity was indeed prophesied by scripture (cf. Zech.2:7-13): Matthew 22:41-46. We'll look at this passage next.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Matthew 22:41-46 {#introduction-the-trinity-in-the-old-testament-matthew-22-41-46}
 
@@ -11922,7 +11922,7 @@ So if David calls Him Lord, how is He his Son?" And no one was able to answer Hi
 
 We are not to assume that David, when he penned this prophecy under divine inspiration, saw the coming Christ as clearly as he wished to. Indeed, we have it from Christ that "many prophets and righteous men desired to see" what was being revealed to Jesus' generation face to face, namely, the unveiling of the Messiah (Matt.13:17; Lk.10:24; cf. Jn.8:56; 1Pet.1:10-12). The revelation of Jesus Christ to the world during His 1st Advent, in addition to explaining passages such as Ps.110:1 above (Christ is David's Son in His humanity, but David's Lord in His deity), is also, not coincidentally, the basis for explaining many other Old Testament passages that are only fully understood by means of our likewise now more complete understanding of the Trinity.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Prophetic foreshortening {#introduction-the-trinity-in-the-old-testament-prophetic-foreshortening}
 
@@ -11936,7 +11936,7 @@ We should note that all three mountains have always been there, even if humanity
 
 This illustration of the Trinity in the Old Testament is commonly called "prophetic foreshortening". For more on this phenomenon, see [part 1 of Coming Tribulation, section IV.1.a, "Prophetical Foreshortening"](https://ichthys.com/Tribulation-Part1.htm#Foreshortening).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Why did God decide to veil the triune nature of His essence in Old Testament times? {#introduction-the-trinity-in-the-old-testament-why-did-god-decide-to-veil-the-triune-nature-of-his-essence-in-old-testament-times}
 
@@ -11951,7 +11951,7 @@ Sometimes the explanation put forth for this veiling is the prevention of idolat
 
 In any case, the point is God has good reasons for His progressive revelation of truth to humanity, and we need to have unshakeable faith in His wisdom and judgment. God knows what He is doing... and not in the way we humans think we do. For He is control of *everything*, and nothing happens except that which is part of His Plan.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### Idolatry as an explanation for God's veiling of His nature {#introduction-the-trinity-in-the-old-testament-idolatry-as-an-explanation-for-gods-veiling-of-his-nature}
 
@@ -11968,7 +11968,7 @@ Pagan pantheons (not to mention pagan religions) are different from God and the 
 
 {{% /sidenote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The person of Jesus Christ not yet come as an explanation for God's veiling of His nature {#introduction-the-trinity-in-the-old-testament-the-person-of-jesus-christ-not-yet-come-as-an-explanation-for-gods-veiling-of-his-nature}
 
@@ -11979,7 +11979,7 @@ stags="Interpretation > Inferences have their place when they only go so far as 
 
 The full answer lies in the person of Jesus Christ. Before the fact, before we see with our own eyes Christ come in the flesh, His humility, His suffering, His sacrifice for us, can we really appreciate in full the Trinity and what God has chosen to do for us in Christ's incarnation and death on the cross? Without the *accomplished reality* of the incarnation of Jesus, how could we ever but dimly conceive the glory of it? And without the accomplished fact of His incarnation, how could we possibly understand and appreciate the triune nature of God? For it is only through Christ – after He has come into the world in person – that we begin to see God with the clarity of vision it has now been given us to possess (Jn.1:18; 14:9).
 
-<!-- --- -->
+<!-- slide-break -->
 
 Just as the temple veil that symbolically separated us from the presence of God was split in two by Christ's sacrifice on our behalf (Matt.27:51), so the veil that in the Old Testament partially obscured the person of Christ from our view has been lifted by His actual advent in the flesh – to die on our behalf. So that now, through our faith in Jesus Christ, we see God the Father, the Son, and the Holy Spirit more clearly than we ever could before:
 
@@ -11991,7 +11991,7 @@ For God who said, "Let light shine forth from the darkness!", is He who has shon
 For until this very day, the same veil remains [upon their unbelieving hearts] when the Old Testament is read, and it is not removed [when they hear these scriptures], because it is [only] done away with ***in Christ***.
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 So:
 
@@ -12858,7 +12858,7 @@ From the very beginning, the scriptures spoke of a Messiah that would come to sa
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Introduction: the Old Testament's portrayal of the suffering of Christ {#the-messiah-pre-figured-in-the-old-testament-introduction-the-old-testaments-portrayal-of-the-suffering-of-christ}
 
@@ -12871,7 +12871,7 @@ Contrary to much conventional wisdom about the Old Testament, Jesus Christ and H
 
 In fact, there are in the Old Testament a large variety of "types" employed to pre-figure the incarnation, death and suffering of the Son of God on our behalf. The subject of typology will be covered in more extensive detail in [part 4A of this series (Christology)](https://ichthys.com/4A-Christo.htm), but two major categories of the Old Testament's portrayal of the suffering of Christ should be mentioned now:
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Blood sacrifice {#the-messiah-pre-figured-in-the-old-testament-blood-sacrifice}
 
@@ -12882,7 +12882,7 @@ stags="Blood sacrifice > Shows the horrific severity of sin, and glossing over i
 
 From the coats of skin that God provides for Adam and Eve to indicate that One will die in their place (Gen.3:21), to Abel's sacrifice, superior to Cain's because it depicts the Substitute's death (Gen.4:4), to the Noahic covenant demanding respect for blood that represents the death of Another in our place (Gen.9:4), to the whole elaborate series of sacrifices commanded by the Mosaic law, all of which portray redemption through Another's blood (cf. Heb.9:22ff.), God made extensive use of the "teaching aid" of blood sacrifice in order that it might be crystal clear to all Old Testament believers that forgiveness of their sins was no light matter: it was something that only God could do for them, and it involved a steep and bloody price that God would somehow have to pay Himself on behalf of those who trusted in Him.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Prophecy {#the-messiah-pre-figured-in-the-old-testament-prophecy}
 
@@ -13380,7 +13380,7 @@ In this lesson, we primarily examine the concepts of Theophanies (appearances of
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Overview {#appearances-of-christ-in-the-old-testament-introduction-overview}
 
@@ -13399,7 +13399,7 @@ Additionally, in the New Testament, when our Lord says "I and the Father are one
 So whatever I say is just what the Father has told me to say.
 {{% /scripture %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Definition of Theophany and Christophany {#appearances-of-christ-in-the-old-testament-introduction-definition-of-theophany-and-christophany}
 
@@ -13412,7 +13412,7 @@ The words "Theophany" and "Christophany" mean, respectively, "an appearance of G
 
 It needs to be made clear right at the outset that by Christophany we are definitely not referring to the literal, physical appearance of our Lord Jesus Christ in His true humanity – ever since His deity assumed true humanity at the incarnation, Christ has not again appeared in temporary, Christophanic form. The position that all Old Testament appearances of God are, in reality, appearances of Christ, also allows for the possibility of other sorts of manifestations of the Father other than an ostensibly corporeal appearance here on earth, such as a dream or vision (Daniel's vision of the "Ancient of Days" being the prime example: Dan.7:13-14).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The invisibility of the Father {#appearances-of-christ-in-the-old-testament-introduction-the-invisibility-of-the-father}
 
@@ -13431,7 +13431,7 @@ Until we get to heaven, we will not see the Father. We know that the Father is n
 Surely, You are a God who hides Himself. 
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% ichthys-translation p="John 1:18" %}}
 No one has ever seen God. God the only Son – the One who has always been at the Father's side – He has made Him known. 
@@ -13449,7 +13449,7 @@ He [the Father] who alone possesses immortality, dwelling in ***unapproachable**
 No one has ever seen God.
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The inaccessibility of the Father apart from Christ {#appearances-of-christ-in-the-old-testament-introduction-the-inaccessibility-of-the-father-apart-from-christ}
 
@@ -13466,7 +13466,7 @@ Although, as discussed earlier in this study, the Father is omnipresent in His c
 "Woe is me! I am done for! For I am a man of unclean lips and I live among a people of unclean lips. For my eyes have seen the King, the Lord of hosts."
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 Though we cannot go to heaven to plead our case with the Father, Christ Jesus is the one who has come down from heaven on our account (Jn.3:13). Through faith in Him and His death for us, we now have ***access*** to the Father in His name. By His blood (that is, His death on the cross on our behalf), Christ has broken down the barrier of hostility between the Father and those who believe in His Son. Jesus Christ has made peace between us, and, as a result, we now have been granted entrance into the throne room of heaven and the presence of the Father. This means that on the basis of the acceptability of Christ's sacrifice and our acceptance of Him, our prayers and petitions are heard by the Father now, and we ourselves shall enter into the heavenly holy of holies in His good time:
 
@@ -13478,7 +13478,7 @@ So now that we have been justified by faith, let us take hold of the peace [we h
 For through Him [Jesus Christ] we both [Jews and gentiles] have ***access*** to the Father by one Spirit.
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% ichthys-translation p="Ephesians 3:12" %}}
 Being in Him [Jesus Christ] and having confidence through our faith in Him we possess this ***access*** [to the Father] and freedom to speak [to Him].
@@ -13492,11 +13492,11 @@ So let us ***approach*** with confident free speech to the throne of grace [of t
 For Christ died once for us on account of our sins, the righteous for the unrighteous, that He might ***bring*** us to God.
 {{% /ichthys-translation %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 The fact that through faith in the Son we now have full ***access*** to the Father (sonship, fellowship, acceptance of prayer, and eternal life with Him), shows that before the Son came and died for us, such access was at least *limited*. The Father's splitting of the temple's veil at the conclusion of our Lord's sacrifice on our behalf is a dramatic indication that through His death the barrier that had previously separated us from the Father (that is, our sins) has now been removed (Lk.23:45). Now we have access to the Father in prayer, though we still cannot enter into His presence in heaven as long as we remain in these earthly bodies. Before the cross, the Father was even more inaccessible to sinful mankind. It would be surprising, therefore, if the instances of Theophany in the Old Testament are actual appearances of the Father. It is much more likely (based upon this principle of greater access *after* the cross, less beforehand) that just as the Father made Himself known through His Son in the New Testament (Heb.1:1-2), so also in the Old Testament His appearances were mediated by this same Son, that is to say, by Christophany.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The dignity of the Father {#appearances-of-christ-in-the-old-testament-introduction-the-dignity-of-the-father}
 
@@ -13507,7 +13507,7 @@ stags="Trinity > Roles > Father | Jesus > Has been delegated authority from the 
 
 The fact that the angelic rebellion led by Satan precedes the creation of man (Job 38:7; Is.14:12-15; Ezek.28:12-19) explains much about the Father's modus operandi of working through the One who will ultimately replace Satan as ruler of this world, His Son Jesus Christ (Lk.10:18; Jn.12:31; 16:11; 1Cor.15:24-25; Col.2:15; Rev.11:15). As the Trinity's figure of authority and majesty, the Father chooses a representative to wage the struggle against Satan, even He who by His sacrifice will redeem sinful mankind and replace our adversary, the Morning Star replacing Lucifer (compare Is.14:12 with Rev.22:16). So it should not be surprising that throughout the Old Testament too, the Son is the One representing the Father, speaking His words whenever He appears (in Christophany), for He is the anointed One, the Messiah, the One sent into the world by the Father (Matt.10:40; 21:37; Lk.9:48; 10:16; Jn.12:44; 13:20). This principle of the Son *representing* the Father as His agent in the plan of salvation can also be seen from Christ's...
 
-<!-- --- -->
+<!-- slide-break -->
 
 1) **Message**: Christ is the Word (Jn.1:1-3). This means that He is the embodiment of the message and truth of the Father, and speaks the Father's words truly and precisely at all times (Deut.18:18; Jn.8:55; 14:10&24). Christ is the Father's ultimate message (Heb.1:1), the messenger of the Father's new covenant in His blood (Is.42:6; Jer.31:31ff.; Mal.3:1; Matt.26:28; 1Cor.11:25).
 
@@ -13523,7 +13523,7 @@ c) the Son's primacy from creation to eternity (Ps.97:7b with Heb.1:6).
 
 All the above examples of Christ's role of *representing* the Father in God's plan of salvation support the position that all Old Testament Theophany is truly Christophany, the Son appearing, representing, and speaking for the Father before His incarnation.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The visibility, accessibility and humility of the Son {#appearances-of-christ-in-the-old-testament-introduction-the-visibility-accessibility-and-humility-of-the-son}
 
@@ -14571,7 +14571,7 @@ All appearances of the The (definite article) Angel of the Lord in the Old Testa
 
 (Derived from https://ichthys.com/1Theo.htm)
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Overview {#appearances-of-christ-in-the-old-testament-overview}
 
@@ -14584,13 +14584,13 @@ We have been in the process of demonstrating that the appearances of God to beli
 
 The word "angel" is potentially confusing here on account of all the centuries of non-scriptural misinformation we have suffered through. "Angel" is a borrowing of the Greek *angelos*, meaning "messenger", and is itself a translation of the Hebrew *malach* bearing the same meaning. It is important to note that neither word inherently signifies heavenly creatures; both were originally applied to human messengers. Messengers from God would, of necessity, have to be supernatural, and on many occasions these are "angels" in the traditional English sense of the word, that is, that heavenly race of creatures who serve and minister to God (Gabriel, for example: Dan.8:16; 9:21; Lk.1:21-26).
 
-<!-- --- -->
+<!-- slide-break -->
 
 But ***the*** Angel of the Lord is an entirely different story, for scripture uses this phrase to designate an "appearance" of God Himself, taking on messenger form to deliver a message personally. As we have seen above, it is best to take these appearances of ***the*** Angel (messenger-servant) of the Lord to be appearances of ***the*** Messenger and Minister of the Father, Jesus Christ our Lord. For example, when we read of Isaiah's vision of the Lord (Is.6), it is understandable to assume at first that Isaiah's vision was of the Father, but John 12:41 tells us that Isaiah was beholding *Christ's* glory, and we understand (with our New Testament perspective) that this was a vision of our Lord in His capacity of King of Kings and Lord of Lords, the glorified ruler of the earth who has accepted the mantle of rulership from the Father (as He will return to reign until "He has placed all enemies under His feet" 1Cor.15:25).
 
 The appearance of the Lord to Moses in giving the Mosaic Law presents a case similar to the vision of Isaiah. At first glance, we may assume that Moses is actually viewing the Father (or His likeness: i.e., a Theophany). But the New Testament is quite explicit in stating that the law was given "through angels" (Greek: *di' angelon*: Gal.3:19-20; Heb.2:2; Acts 7:38 & 53). Since we know that these "angelic appearances" are represented in the Old Testament as appearances of God (e.g., Ex.34:5ff.), it must be the case that the New Testament passages which ascribe the giving of the Law to "angels" are in fact indicating that the Father spoke the Law to Moses through appearances of ***the*** Angel of the Lord, a manifestation of our pre-incarnate Lord, Jesus Christ (i.e., a Christophany).
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The Angel of the Exodus {#appearances-of-christ-in-the-old-testament-the-angel-of-the-exodus}
 
@@ -14603,7 +14603,7 @@ The case of the Angel of the Exodus demonstrates both the divinity of the Angel 
 
 You'll see exactly what we mean by "the Angel of the Exodus" as we go through the next bit. The specific focus here is on passages from the first few books of the Bible—from the calling of Moses, to Israel's flight from Egypt, to their settlement in the promised land. At every step of the way, they were guided by a pre-incarnate Jesus Christ, on behalf of the Father.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The burning bush {#appearances-of-christ-in-the-old-testament-the-burning-bush}
 
@@ -14614,7 +14614,7 @@ stags="Branch > Jesus is the Branch out of the stem of Jesse | Fire > Is a symbo
 
 The Angel first appears to Moses in the burning bush (Ex.3:2ff.). It is the Angel of the Lord who appeared to Moses in the fiery flames (v.2), but shortly thereafter the Angel represents Himself as God the Father, saying "I am the God of your father, the God of Abraham, the God of Isaac and the God of Jacob (v.6), and "I shall be who I am" (v.14), and is further identified as "the Lord" (in v.7). The symbolism of the fire and the bush is important: the bush calls attention to Christ, the Messiah, as the Branch (Is.4:2; 11:1; 53:2; Jer.23:5; 33:15; Zech.3:8; 6:12), while the fire represents the fiery judgment of the cross that does not consume Him (cf., for example, the burnt offerings of Lev.1 which represent Christ's work on the cross). This first appearance of the Angel of the Lord to Moses, then, is a Christophany, an appearance of the pre-incarnate Christ representing and speaking for the Father.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The column of cloud and fire {#appearances-of-christ-in-the-old-testament-the-column-of-cloud-and-fire}
 
@@ -14632,7 +14632,7 @@ Links to further solidify the link between Num.9:15 with Lev.16 (discussed in th
 - [Numbers 17 NIV - The Budding of Aaron’s Staff - The - Bible Gateway](https://www.biblegateway.com/passage/?search=Numbers%2017&version=NIV)
 - [Hebrews 9:3-4 NIV - Behind the second curtain was a room - Bible Gateway](https://www.biblegateway.com/passage/?search=Hebrews+9%3A3-4&version=NIV)
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The angel sent before the Israelites to guard them on the way {#appearances-of-christ-in-the-old-testament-the-angel-sent-before-the-israelites-to-guard-them-on-the-way}
 
@@ -14643,7 +14643,7 @@ stags="Interpretation > Apparent contradictions > If Jesus gave Moses the Law no
 
 At Exodus 23:20-23 as part of the giving of the Law to Moses on Sinai, the Angel of the Lord (identified as such as we saw above from New Testament passages such as Gal.3:19-20; Heb.2:2; Acts 7:38 & 53) proclaims that He is going to "send" the Angel before the Israelites to lead and guard them (as Christ is sent by the Father). Moses is also told that they are to obey the Angel "because My Name is in Him" (v.21), a similar description to that of the returning Son of Man in Revelation 19:11-16.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The one whom Moses (among others) knew and spoke to "face to face" {#appearances-of-christ-in-the-old-testament-the-one-whom-moses-among-others-knew-and-spoke-to-face-to-face}
 
@@ -14654,7 +14654,7 @@ stags="God's overwhelming glory > Instant death for sinful flesh > Does not just
 
 Despite the fact that no one has ever seen the Father while on this earth (see above), we are told that the elders saw the God of Israel (in company with Moses and Aaron: Ex.24:9-11), and we know that Moses entered the cloud of glory and spoke with the Lord on Sinai (Ex.24:16-18) and petitioned the Lord to "show me Your glory" (a request He granted: Ex.33:18ff.). We also find in Numbers 12:8 that Moses saw "the form of the Lord" and from Deuteronomy we know that unlike any other servant of the Lord, Moses spoke with Him "face to face" (Deut.34:10). This then surely is once again the Angel of the Lord, not the actual presence of the Father, but the appearance of the One who is sent by Him, speaks for Him, and who has undertaken to fulfill His plan of salvation in this world, our Lord and Savior Jesus Christ, appearing in pre-incarnate Christophany.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ##### The angel who is said to have led the Israelites out of Egypt {#appearances-of-christ-in-the-old-testament-the-angel-who-is-said-to-have-led-the-israelites-out-of-egypt}
 
@@ -14665,7 +14665,7 @@ stags="Jesus > As messenger of the Father > Does not speak how angel messengers 
 
 Finally, the last appearance of the Angel in respect to the Exodus is at Judges 2:1-5. Here the Angel claims to be the One who "led you up from the land of Egypt" and reminds the Israelites that He will never break "My covenant with you". Only the Father Himself could make such a claim – or Someone representing Him, that is, His Servant, our Lord Jesus Christ who would fulfill that covenant and minister a new one for us all in His blood.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### The Angel of the Lord elsewhere {#appearances-of-christ-in-the-old-testament-the-angel-of-the-lord-elsewhere}
 
@@ -14682,7 +14682,7 @@ Other appearances of God in the Old Testament are likewise best taken as Christo
 - Along with Moses and Aaron, the elders of Israel see "the God of Israel" on Mt. Sinai (Ex.24:9-11). Despite the fact that no one has ever seen the Father, nor can see Him and live, they not only see the God of Israel, but have a symbolic meal of fellowship with Him, an event that clearly foreshadows communion based on the blood of our Lord Jesus Christ, the coming "King of Israel" (Jn.1:49).
 - The Angel of the Lord who appears to Gideon (Judg.6:11-23) is also said to be the Lord (vv.16-17). The Angel also identifies Himself with the sacrifice (by touching it with His staff) which then goes up in flames, representing the fiery judgment of God (that Christ was to undergo on our behalf).
 
-<!-- --- -->
+<!-- slide-break -->
 
 - The Angel of the Lord's appearance to the parents of Samson is similar to His appearance to Gideon (Judg.13:2-23). The Angel is described as such throughout the passage, but Manoah and his wife, though realizing that an angel has appeared to them, do not realize this is in fact the Angel of the Lord until His fiery departure (v.21), at which point Manoah exclaims "We have seen God" (v.22). The symbolism of self-sacrifice by the Angel is even more distinctly drawn in this passage, for He "ascended in the flame" of the burnt sacrifice (v.20), the very picture of Christ being judged on our behalf, teaching Old Testament believers to look forward to God's future forgiveness of sins through a sacrifice that He would provide.
 - We have already discussed Isaiah's vision of Israel's King (Is.6:1ff.), which turns out to be a vision of Jesus Christ as Israel's appointed ruler in the line of David (Jn.12:41).
@@ -14690,7 +14690,7 @@ Other appearances of God in the Old Testament are likewise best taken as Christo
 - Zechariah's vision of the Angel of the Lord (Zech.1:7-17) is instructive because the Angel, clearly divine as seen from the examples above, is presented as distinct from the Lord of Hosts, that is, the Father, so that this is undoubtedly a Christophany.
 - Finally, it has often been pointed out that after the birth of Christ, though angels do make many more appearances in the Bible, ***the*** Angel of the Lord no longer appears in the scriptures.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Conclusion {#appearances-of-christ-in-the-old-testament-conclusion}
 

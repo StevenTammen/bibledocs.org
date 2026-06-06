@@ -70,7 +70,7 @@ This page will examine whether this destruction of the first set of tablets refl
 
 ### Content {#did-moses-do-wrong-in-throwing-the-first-set-of-tablets-in-exodus-32-19-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### A simple formulation of the question {#did-moses-do-wrong-in-throwing-the-first-set-of-tablets-in-exodus-32-19-a-simple-formulation-of-the-question}
 
@@ -313,7 +313,7 @@ This page, instead of focusing on those words, focuses on the writing: the writi
 
 ### Content {#what-is-going-on-in-exodus-34-27-28-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% technical-discussion %}}
 
@@ -521,7 +521,7 @@ God makes this proclamation right on the heels of the Israelite's sin regarding 
 
 ### Content {#reflections-upon-gods-love-as-expressed-in-exodus-34-6-7a-in-the-context-of-the-exodus-generation-content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Recall, some of the great things God had shown to this generation {#reflections-upon-gods-love-as-expressed-in-exodus-34-6-7a-in-the-context-of-the-exodus-generation-recall-some-of-the-great-things-god-had-shown-to-this-generation}
 

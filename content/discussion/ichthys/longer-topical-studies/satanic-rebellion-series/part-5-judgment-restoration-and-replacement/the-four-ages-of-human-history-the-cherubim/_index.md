@@ -34,7 +34,7 @@ The cherubim (the fourfold angelic guardians of God's chariot-throne), have take
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Wider introduction {#wider-introduction}
 
@@ -51,7 +51,7 @@ srcend="46:32"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -61,7 +61,7 @@ a) <u>Their Number</u>: The cherubs (also called seraphim in Isaiah chapter six)
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#summary-points}
 
@@ -69,7 +69,7 @@ Biblically speaking, the cherubim and seraphim are the same creatures.
 
 There are four cherubim, not two. The apparent contradiction in number in some passages can be explained by the idea of visual perspective: when viewed from the front of the Throne of God, only two of the Cherubim would really be visible. This doesn't mean that there are only two, but just that from that visual perspective only two are visible.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#follow-on-topics}
 
@@ -81,13 +81,13 @@ Our job in this is to trust the Bible when we come across such things, even if w
 
 I know I mentioned it in a past CrossTalk Bible Study meeting, but we need to be willing to entertain questions like this, and actually "go there". If we do not, we risk giving the impression that inspiration and inerrancy are just a fake veneer or wishful thinking, rather than being objective reality like they actually are. And that does a good deal of damage to people's overall confidence in the Bible.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
 
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Cherubim - Their wings {#cherubim-their-wings}
 
@@ -102,7 +102,7 @@ srcend="47:53"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -110,7 +110,7 @@ b) <u>Their Wings</u>: The wings of the cherubim are described as numbering six 
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#summary-points}
 
@@ -120,7 +120,7 @@ It is sort of difficult to for us to visualize what this looks like, but some of
 
 Understanding this also sheds light on how the wheels are said to "have eyes". We have no general indication that wheels mentioned here are in any way alive (unlike the angels), so how could they have eyes (which are possessed by living things)? Well, if the wings have eyes, and the wings compose part of the "wheels within wheels", then that is how. So technically speaking, it is not the wheels themselves with eyes, but the "wheel assemblies" (i.e., the wheels with the cherubim wings interlocked to power them) that have eyes... because the living angelic creatures partially compose these wheel assemblies. If you were to remove the angels, then there would be no eyes, is the point.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#follow-on-topics}
 
@@ -130,13 +130,13 @@ When it comes to understanding and visualizing the cherubim and wing-powered whe
 
 We can only imagine how spectacular a sight this would be to behold. No doubt Ezekiel was left in awe by the sight... well this, and all the other heavenly things he saw. We can scarcely imagine the majesty that awaits us on the other side, but the prophets actually caught real glimpses of it through their visions.
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Further discussion {#further-discussion}
 
 
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Cherubim - Their symbolism {#cherubim-their-symbolism}
 
@@ -151,20 +151,20 @@ srcend="50:37"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
 c) <u>Their Symbolism</u>: As described above, all four cherub-faces symbolize Jesus Christ, with each representing that aspect of His historical mission at the forefront during the age for which they stand.
 
-- <u>The bullock face</u> (Gentile age) is a picture of Christ the suffering Servant. The bullock not only bears burdens (as Christ bore our sins: cf. Is.53:4), but is also the most esteemed sacrificial animal, whose blood was shed under the Old Testament economy as a symbolic representation of Christ's promised work on our behalf (Lev.1:5ff.).<!-- --- -->
-- <u>The lion face</u> (Jewish age) is a picture of Christ as the promised Messiah. The lion is the symbol of the tribe of Judah (Rev.5:5; cf. Gen.49:9-12), and has a messianic connotation throughout the Old Testament (cf. Num.23:24; 24:9). The generation of Israel to whom He came was ready to embrace the lion (the Messiah as avenging warrior), but stumbled over the bullock (the Messiah as self-sacrificing servant).<!-- --- -->
-- <u>The human face</u> (Church age) is a picture of Christ as the incarnate, visible Savior of the world. He is ***the*** Son of Man (Matt.9:6), the archetypal human being who is truly human in every way apart from sin (Heb.2:14 with Heb.4:15), the last Adam (1Cor.15:45). The Church, composed of all believing Jews and gentiles, is His body here on earth, not yet glorified as indeed He was not glorified until after His work on the cross was completed (Jn.17:1-5).<!-- --- -->
+- <u>The bullock face</u> (Gentile age) is a picture of Christ the suffering Servant. The bullock not only bears burdens (as Christ bore our sins: cf. Is.53:4), but is also the most esteemed sacrificial animal, whose blood was shed under the Old Testament economy as a symbolic representation of Christ's promised work on our behalf (Lev.1:5ff.).<!-- slide-break -->
+- <u>The lion face</u> (Jewish age) is a picture of Christ as the promised Messiah. The lion is the symbol of the tribe of Judah (Rev.5:5; cf. Gen.49:9-12), and has a messianic connotation throughout the Old Testament (cf. Num.23:24; 24:9). The generation of Israel to whom He came was ready to embrace the lion (the Messiah as avenging warrior), but stumbled over the bullock (the Messiah as self-sacrificing servant).<!-- slide-break -->
+- <u>The human face</u> (Church age) is a picture of Christ as the incarnate, visible Savior of the world. He is ***the*** Son of Man (Matt.9:6), the archetypal human being who is truly human in every way apart from sin (Heb.2:14 with Heb.4:15), the last Adam (1Cor.15:45). The Church, composed of all believing Jews and gentiles, is His body here on earth, not yet glorified as indeed He was not glorified until after His work on the cross was completed (Jn.17:1-5).<!-- slide-break -->
 - <u>The eagle face</u> (Millennial age) is a picture of Christ exalted in resurrection and victorious in battle. Glorified by the Father for His victory at the cross ( Eph.1:19b-23), following His resurrection and ascension He is now seated at the right hand of God the Father until the day of His return (Ps.110). At that time (the Second Advent), He will fulfill all the messianic prophecies recorded in the scriptures (cf. Eph.3:10-12; Col.1:20), and will rule the world in glory for a thousand years. With its connotations of forbidding majesty and awe (Deut.28:49; Jer.48:40; 49:22; Ezek.17:3; 17:7; Dan.7:4; Hos.8:1; Hab.1:8; cf. Is.46:11), the eagle is an appropriate symbol for Christ's majestic and awe-inspiring double victory, first at the cross (with its accompanying resurrection, ascension and session at the Father's right hand), and ultimately at the Second Advent (Matt.24:28; Lk.17:37; compare the picture of the glorified Christ at Rev.1:12-16).
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#summary-points}
 
@@ -177,7 +177,7 @@ The faces possessed by the cherubim represent the respective aspects of Christ's
 
 So in each of these four divisions we have 1) a face, 2) an age the face corresponds to, and 3) a corresponding aspect of Christ's historical mission at the forefront during that age. 
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#follow-on-topics}
 
@@ -191,13 +191,13 @@ Combining that perhaps less-ambiguous identification with the other faces is how
 
 So basically, none of this is particularly arbitrary. Is it "obvious"? I suppose that is somewhat in the eye of the beholder, but in my opinion, we needn't be particularly shy about teaching these identifications, because what else would the faces represent if not this?
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
 
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Cherubim - The number of their faces {#cherubim-the-number-of-their-faces}
 
@@ -212,19 +212,19 @@ srcend="53:02"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
 d) <u>The Number of their Faces</u>: Of all human features, the face is at once one of the most memorable and expressive, making it a most effective means for the type of symbolic representation discussed above. Although their bodies are in human form (Ezek.1:5), the four faces of the cherubim are unique, and stand symbolically for the various aspects of our Lord's earthly ministry just described. In this way, the faces of the cherubim reflect the glory of the Son of God instead of their own glory, just as, ideally, the world should see the face of Christ in us, His servants, when we walk as He commanded us to do (2Cor.3:18; cf. Matt.16:24; Jn.13:15; 1Cor.11:1; 2Cor.2:15; Gal.4:19; Eph.5:1; 1Thes.1:6; 1Pet.2:21).
 
-<!-- --- -->
+<!-- slide-break -->
 
 All four faces of the cherubim are entirely obscured in Isaiah (Is.6:1-7), because as the cherubs hover over the throne of God, they cover their faces with one set of wings (so as not to look upon the glory of God). In Ezekiel (Ezek.1:4-26; 10:1-22; 41:18-20), the cherubs (along with their wing-wheels) are positioned under the chariot throne, so that no veiling of their faces is necessary. All four faces, as a result, were visible to Ezekiel. In Revelation (Rev.4:6-8), the cherubs encircle the throne and are part of it (i.e., in direct contact with it), but are not positioned so as to provide locomotion (i.e., they have rotated into a guardian position: see the diagram below). Here, they are roughly on the level of God's throne (i.e., not completely below it as in Ezekiel, nor hovering above it as in Isaiah). As a result, we may surmise that they are seen by John covering all but their outward looking face (so that he can describe them as if they had only one face). In actuality, therefore, each cherub in all three passages possesses all four faces: that of a man on the front, an eagle on the back, a lion on the right and a bullock on the left (as in Ezek.1:6-9). From the viewer's perspective, however, each cherub may seem to have only one face, since only one of the faces is generally visible at any given time (cf. Ezek.10:14, where it states literally in the Hebrew that "***the*** face of the first one was . . . [etc.]", although Ezekiel is previously quite clear about the fact each cherub has ***four*** faces: Ezek.1:6-9).
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#summary-points}
 
@@ -232,7 +232,7 @@ Of all human features, the face is at once one of the most memorable and express
 
 The cherubim cover their faces when their "line of sight" has them facing God, so as not to look upon the glory of the LORD. So when they were flying above the chariot-throne and could see God, they used a pair of wings to cover their sight (Isaiah 6:2). On the other hand, when they are in their "locomotion position", they are below the chariot-throne, and do not have any need to cover their faces, which is why Ezekiel could see all four faces in his description of them in Ezekiel 10 (cf. Ezekiel 10:14). But when in the "guardian position" (which we may infer has them more level with the chariot-throne, rather than completely below it), it is likely that they cover all but their "outward-directed" face, which explains why the Apostle John only describes them each with a single face in Revelation 4:6-8.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#follow-on-topics}
 
@@ -245,13 +245,13 @@ Just as with the number of cherubim and the number of wings, this is yet another
 All this explains why Ezekiel says four faces each, but John only mentions one each. Just because John did not see the other (covered) faces does not mean that they were not in fact there.
 
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
 
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Cherubim - Their order {#cherubim-their-order}
 
@@ -266,7 +266,7 @@ srcend="57:27"
 
 >}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 {{% quote src="https://ichthys.com/Satans-Rebellion-Part5.htm" text="Ichthys" %}}
 
@@ -278,15 +278,15 @@ Each had four faces. The face of the first [side] was [that of a] cherub; the fa
 
 In this second description, Ezekiel's account thus moves around the chariot-throne in a clockwise fashion (left-front, front-right, right-rear, rear-left), mentioning the outward-looking face in each case. Ezekiel begins with the cherub stationed on the left-front corner of the chariot no doubt because this angel was closest to his view, for the chariot-throne is described at this point as standing south of the temple (Ezek.10:3), while Ezekiel himself was positioned near the temple's entrance (viz., to the north of the chariot-throne: Ezek.8:16). His description of this cherub, elsewhere with the bullock face, as having "the face of a cherub" may be explained by fact that in the Hebrew culture the *cherubh* (cherub: Hebrew  כרוב) must have generally been understood as having the appearance of a bullock, precisely the reason why Ezekiel made such a point of articulating that the genuine, heavenly cherubs had *four* faces, only one of which resembled a bullock.
 
-<!-- --- -->
+<!-- slide-break -->
 
 The order of the cherubim given in Revelation 4:7 of Lion, Bullock, Man, Eagle, is thus consistent with what is found elsewhere in scripture (i.e., Is.6:1-7; Ezek.1:4-26; 10:1-22; 41:18-20). In Ezekiel's description, the cherubs are actually in contact with the chariot-throne while flying, in Isaiah's description, the cherubs (called seraphs) are disengaged and flying, and in Revelation, the cherubs are in contact with the throne (though they have apparently shifted positions: see the diagram immediately below), and are not flying (i.e., they are "in the midst" of the throne; Greek: *en meso*: ἐν μέσῳ τοῦ θρόνου).
 
-<!-- --- -->
+<!-- slide-break -->
 
 ![Cherubim Order](https://ichthys.com/images/cherub.gif)
 
-<!-- --- -->
+<!-- slide-break -->
 
 As to the order per se as given in Revelation 4:7, John lists the cherubim in the following manner right, left, front, rear. This is similar to what Ezekiel does when describing the four faces of the individual cherubim in the tenth verse of chapter one, but not identical. For while Ezekiel sandwiches the left and the right in between the front and the rear, John, on the other hand, shifts this order, giving the left and the right, followed by the front and the rear. This change of order (from the more natural order of Ezekiel) is due to the fact that, in the book of Revelation (the "unveiling of Jesus Christ", its literal title), it was appropriate for John under the guidance of the Holy Spirit to list the faces of the cherubim so as to reflect these symbolic representations of the person and work of our Savior in respect to their specific relationship to the overall Plan of God. Therefore the ranking in Revelation 4:7 (Lion-Bullock-Man-Eagle) has the following significance:
 
@@ -301,7 +301,7 @@ The symbolism thus rendered of Israel enclosing the gentiles and the gentiles fu
 
 {{% /quote %}}
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Summary points {#summary-points}
 
@@ -311,7 +311,7 @@ In Ezekiel 10:14, Ezekiel describes the faces of the cherubim (here arranged in 
 
 Since here the "cherub face" is aligned with bullock face (i.e., it has to be, by process of elimination), it must be that the Hebrew culture of the time implicitly understood this association of cherubim and bullocks. Although Ezekiel is nonetheless very clear each angel has *four* faces.
 
-<!-- --- -->
+<!-- slide-break -->
 
 The order of the cherubim in Revelation is yet again different. Part of this is that the angels here have shifted to their "guardian positions" so that now each side only has one face pointing outward. But instead of listing the faces in a clockwise direction (like one might if one were walking around the chariot-throne, as explained before in discussing Ezekiel 10:14), or in mirroring the order given for the faces of single cherub (as explained before in discussing Ezekiel 1:10), John gives us a third completely new order.
 
@@ -324,7 +324,7 @@ John's new order stands out all the more. Why start with a side? Why be differen
 
 If nothing in scripture is accidental, there must be a reason for this. The theory is that John lists the faces of the cherubim so as to reflect the symbolic representations of the person and work of our Savior in respect to their specific relationship to the overall Plan of God: Israel and Kingdom Israel enclose the gentiles and the mystery gentiles, just as they do in the plan of God.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Follow-on topics {#follow-on-topics}
 
@@ -332,12 +332,12 @@ A picture really is worth a thousand words here. I'd be *very* lost without the 
 
 This whole discussion reminds me of the arrangement of the tribes of Israel in the camp and the stones on the breastplate, as [gone over in CT6](https://ichthys.com/Tribulation-Part6.htm#7._The_Foundations_and_Gates_of_the_Wall). What might at first glance seem completely arbitrary actually has some significance to it... even though it takes quite some effort to unpack it all and make sense of it.
 
-<!-- --- -->
+<!-- slide-break -->
 
 #### Further discussion {#further-discussion}
 
 
-<!-- --- -->
+<!-- slide-break -->
 
 ### Recap {#recap}
 

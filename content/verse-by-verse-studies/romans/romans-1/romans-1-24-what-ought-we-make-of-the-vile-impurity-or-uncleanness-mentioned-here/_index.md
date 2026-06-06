@@ -34,7 +34,7 @@ The impurity mentioned in Romans 1:24 is speaking of moral uncleanness—with ov
 
 ## Content {#content}
 
-<!-- --- -->
+<!-- slide-break -->
 
 The New American Standard Bible (1995) translates Romans 1:24 as follows:
 
