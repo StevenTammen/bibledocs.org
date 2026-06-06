@@ -1,6 +1,9 @@
 ---
 title: Introduction - The Trinity
 weight: 50
+stags:
+    - Trinity > Definition
+
 layout: content-page
 video: https://www.youtube.com/watch?v=8GMxPLPmj90
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
@@ -9,10 +12,6 @@ playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcA
 In this lesson, we are going to be starting an examination of a new topic in our study of God: the Trinity. God existing in three persons yet with one shared essence is about as core a concept as any we have in Christianity, which is one of the reasons that heresies related to the Trinity have been among the most existential of all threats to truth in the Church. This being the case, it is very important for us to understand the ins and outs of this keystone doctrine, so that we may stand firm in the truth of the Bible and its teaching.
 
 <!--more-->
-
-{{< properties
-stags="Trinity > Definition"
->}}
 
 {{% section-navigation %}}
 

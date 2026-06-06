@@ -1,6 +1,9 @@
 ---
 title: All Members of the Trinity Are Coequal, Coeternal, and Consubstantial
 weight: 80
+stags:
+    - Trinity > All members fully and equally share status, activity, and substance
+
 layout: content-page
 video: https://www.youtube.com/watch?v=1m7n0vUWqMY
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
@@ -9,10 +12,6 @@ playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcA
 This lesson's main focus is examining the point that God is *three* in person, but that does *not* mean that there is any inferiority or disparity of status, activity, or substance between the members of the Trinity.
 
 <!--more-->
-
-{{< properties
-stags="Trinity > All members fully and equally share status, activity, and substance"
->}}
 
 {{% section-navigation %}}
 

@@ -1,16 +1,15 @@
 ---
 title: Introduction to the idea that some Christians will receive greater eternal rewards than others
 weight: 1
+stags:
+    - Eternal rewards > Not all people will receive the same amount
+
 layout: content-page
 ---
 
 Even though most people don't have issues decorating only certain particularly worthy soldiers for exemplary service, for example, many seem to have problems when that idea is mapped onto the concept of eternal rewards from the hand of God. Despite the skepticism, scripture is actually pretty clear on this specific question, so for all who are truly willing to look at what the Bible says, it becomes quickly apparent that God will in fact reward some individuals more than others in eternity, based upon the quality of their Christian walk here in time.
 
 <!--more-->
-
-{{< properties
-stags="Eternal rewards > Not all people will receive the same amount"
->}}
 
 {{% section-navigation %}}
 

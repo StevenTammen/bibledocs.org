@@ -1,6 +1,9 @@
 ---
 title: All Members of the Trinity Are Deity
 weight: 60
+stags:
+    - Trinity > All members are deity
+
 layout: content-page
 video: https://www.youtube.com/watch?v=4l_OzkCbJxg
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
@@ -9,10 +12,6 @@ playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcA
 In this lesson we kick off a series of discussions we will be having about what the Trinity is *not*, to help throw into starker relief what it actually is. This lesson's main focus is examining the point that God is *one* in essence, but that does *not* mean that only one person of the Trinity is deity.
 
 <!--more-->
-
-{{< properties
-stags="Trinity > All members are deity"
->}}
 
 {{% section-navigation %}}
 

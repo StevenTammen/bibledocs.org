@@ -1,6 +1,10 @@
 ---
 title: God's Infinite Nature
 weight: 20
+stags:
+    - Infinity
+    - God > Is infinite in nature
+
 layout: content-page
 video: https://www.youtube.com/watch?v=2EMBqNotHqs
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
@@ -9,10 +13,6 @@ playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcA
 This lesson, we are going to be talking about God's infinite nature, and what that means in terms of His abilities.
 
 <!--more-->
-
-{{< properties
-stags="Infinity | God > Is infinite in nature"
->}}
 
 {{% section-navigation %}}
 

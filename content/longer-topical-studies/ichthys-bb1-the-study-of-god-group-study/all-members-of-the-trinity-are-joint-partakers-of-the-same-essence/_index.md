@@ -1,6 +1,9 @@
 ---
 title: All Members of the Trinity Are Joint Partakers of the Same Essence
 weight: 90
+stags:
+    - Trinity > All members share the same essence
+
 layout: content-page
 video: https://www.youtube.com/watch?v=LoKHW0rRxzU
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
@@ -9,10 +12,6 @@ playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcA
 This lesson's main focus is examining the point that God is *three* in person, but that does *not* mean that the Trinity is composed of three (or more) different "gods".
 
 <!--more-->
-
-{{< properties
-stags="Trinity > All members share the same essence"
->}}
 
 {{% section-navigation %}}
 

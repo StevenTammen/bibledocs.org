@@ -1,6 +1,9 @@
 ---
 title: Does Jesus' Use of the Sleeping Terminology Have Anything to Do with Resuscitation?
 weight: 20
+stags:
+    - Sleep > As a euphemism for death > Does not necessarily point to eventual resuscitation
+
 layout: content-page
 video: https://www.youtube.com/watch?v=_s0PMBAP-fs
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
@@ -9,10 +12,6 @@ playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcA
 Does it mean anything that both Lazarus and Jairus' daughter came back to life after Jesus said they were "sleeping?" Does "sleeping" necessarily predict eventual resuscitation? The answer to this question is no. Sleep as a metaphor/euphemism is more linked with death than resuscitation, and other evidence from the Bible helps us show that the normal way to take things is actually that those who are "sleeping" are dead. That these two specific individuals happened to be resuscitated does not change the fact that the metaphorical/euphemistic usage of sleep is linked to death, not resuscitation.
 
 <!--more-->
-
-{{< properties
-stags="Sleep > As a euphemism for death > Does not necessarily point to eventual resuscitation"
->}}
 
 {{% section-navigation %}}
 

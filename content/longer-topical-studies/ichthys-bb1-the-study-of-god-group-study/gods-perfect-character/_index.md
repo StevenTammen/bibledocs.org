@@ -1,6 +1,10 @@
 ---
 title: God's Perfect Character
 weight: 30
+stags:
+    - Perfection
+    - God > Is perfect in character
+
 layout: content-page
 video: https://www.youtube.com/watch?v=4okunpItA7w
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
@@ -9,10 +13,6 @@ playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcA
 This lesson, we are going to be talking about God's perfect character, and what that means in terms of His motives.
 
 <!--more-->
-
-{{< properties
-stags="Perfection | God > Is perfect in character"
->}}
 
 {{% section-navigation %}}
 

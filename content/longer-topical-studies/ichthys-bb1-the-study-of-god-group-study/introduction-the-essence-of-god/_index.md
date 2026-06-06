@@ -1,6 +1,9 @@
 ---
 title: Introduction - The Essence of God
 weight: 10
+stags:
+    - God > Essence
+
 layout: content-page
 video: https://www.youtube.com/watch?v=otO3Nt6Xu9I
 playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcAD8
@@ -9,10 +12,6 @@ playlist: https://www.youtube.com/playlist?list=PLcqAebKsBWy_uE1FoXZAjHKMHV1wWcA
 In this lesson, we are going to be kicking off our new study of BB1: Theology on Ichthys by starting to discuss the Essence of God. We'll talk about how God is being (Exodus 3:14-15), as well as exactly what essence means as a concept.
 
 <!--more-->
-
-{{< properties
-stags="God > Essence"
->}}
 
 {{% section-navigation %}}
 
