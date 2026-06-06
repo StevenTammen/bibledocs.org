@@ -79,6 +79,7 @@
 {{ $stag := . }}
 {{ $slug := replaceRE `'` "" $stag }}
 {{ $slug := replaceRE `[^a-zA-Z0-9]+` "-" $slug }}
+{{ $slug := strings.TrimPrefix "-" $slug }}
 {{ $slug := strings.TrimSuffix "-" $slug }}
 {{ $slug := strings.ToLower $slug }}
 
