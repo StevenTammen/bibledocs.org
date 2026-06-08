@@ -41,6 +41,12 @@ While some credit the early Church Councils and Creeds with developing doctrine,
 
 ### Councils, Creeds, and theological vocabulary {#councils-creeds-and-theological-vocabulary}
 
+{{< properties
+
+stags="Church history > Councils and Creeds | Trinity > The teaching existed before the word “Trinity” was used for it"
+
+>}}
+
 #### Video clip from Ryan Reeves {#video-clip-from-ryan-reeves}
 
 {{< properties
@@ -49,8 +55,6 @@ srcyoutubevideoid="IlzM7LogGRU"
 srctitle="Early Church and Trinity: Father and Son"
 srcstart="206"
 srcend="537"
-
-stags="Church history > Councils and Creeds | Trinity > The teaching existed before the word “Trinity” was used for it"
 
 >}}
 
@@ -185,6 +189,12 @@ The point is that if you cannot 100% trust them because sometimes they can be wr
 
 ### Doctrinal questions within the Church followed the same natural progression that is common for individual Christians {#doctrinal-questions-within-the-church-followed-the-same-natural-progression-that-is-common-for-individual-christians}
 
+{{< properties
+
+stags="Trinity > All members share the same essence | Trinity > All members are distinct from one another | Church history > Councils and Creeds > Definitions of > Trinity" 
+
+>}}
+
 #### Video clip from Ryan Reeves {#video-clip-from-ryan-reeves}
 
 {{< properties
@@ -193,8 +203,6 @@ srcyoutubevideoid="IlzM7LogGRU"
 srctitle="Early Church and Trinity: Father and Son"
 srcstart="537"
 srcend="974"
-
-stags="Trinity > All members share the same essence | Trinity > All members are distinct from one another | Church history > Councils and Creeds > Definitions of > Trinity" 
 
 >}}
 
@@ -262,6 +270,12 @@ So long as that is understood and appreciated first, then as I see things, the w
 
 ### Modalism/Sabellianism {#modalism-sabellianism}
 
+{{< properties
+
+stags="Trinity > Heresies related to > Modalism | Trinity > Illustrations > Perils of | Trinity > Is clearly visible in Old Testament, when viewed in light of the New Testament"
+
+>}}
+
 #### Video clip from Ryan Reeves {#video-clip-from-ryan-reeves}
 
 {{< properties
@@ -270,8 +284,6 @@ srcyoutubevideoid="IlzM7LogGRU"
 srctitle="Early Church and Trinity: Father and Son"
 srcstart="973"
 srcend="1554"
-
-stags="Trinity > Heresies related to > Modalism | Trinity > Illustrations > Perils of | Trinity > Is clearly visible in Old Testament, when viewed in light of the New Testament"
 
 >}}
 
@@ -346,6 +358,12 @@ In this way, I would argue you cannot properly understand Arianism without first
 
 ### Reactions to Modalism/Sabellianism {#reactions-to-modalism-sabellianism}
 
+{{< properties
+
+stags="Trinity > Heresies related to > Modalism > Reactions to Modalism | Trinity > What it is not > A union with inferiority or disparity between members | Trinity > What it is not > Only one member possessing divinity"
+
+>}}
+
 #### Video clip from Ryan Reeves {#video-clip-from-ryan-reeves}
 
 {{< properties
@@ -354,8 +372,6 @@ srcyoutubevideoid="IlzM7LogGRU"
 srctitle="Early Church and Trinity: Father and Son"
 srcstart="1553"
 srcend="1717"
-
-stags="Trinity > Heresies related to > Modalism > Reactions to Modalism | Trinity > What it is not > A union with inferiority or disparity between members | Trinity > What it is not > Only one member possessing divinity"
 
 >}}
 

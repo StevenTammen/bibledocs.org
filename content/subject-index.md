@@ -1166,10 +1166,19 @@ page-title="Early Church and Trinity: Father and Son (src: Ryan Reeves)"
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
-link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/arius-and-nicea/#video-clip-from-ryan-reeves"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/arius-and-nicea/#background-to-the-controversy-trinitarian-debates-generally-and-the-pre-arius-extreme-origenist-teachings-that-directly-shaped-ariuss-thinking"
 study-title="Early & Medieval History (src: Ryan Reeves)"
 page-title="Arius and Nicea (src: Ryan Reeves)"
-header-title="Video clip from Ryan Reeves"
+header-title="Background to the controversy: Trinitarian debates generally, and the pre-Arius extreme Origenist teachings that directly shaped Arius's thinking"
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/arius-and-nicea/#the-teachings-of-arius"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Arius and Nicea (src: Ryan Reeves)"
+header-title="The teachings of Arius"
 %}}
 
 ### Church history > Biography was an important literary genre in the Early Church {#church-history-biography-was-an-important-literary-genre-in-the-early-church}
@@ -1188,10 +1197,10 @@ header-title="Hagiography as a literary genre"
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
-link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/early-church-and-trinity-father-and-son/#video-clip-from-ryan-reeves"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/early-church-and-trinity-father-and-son/#councils-creeds-and-theological-vocabulary"
 study-title="Early & Medieval History (src: Ryan Reeves)"
 page-title="Early Church and Trinity: Father and Son (src: Ryan Reeves)"
-header-title="Video clip from Ryan Reeves"
+header-title="Councils, Creeds, and theological vocabulary"
 %}}
 
 #### Church history > Councils and Creeds > Definitions of {#church-history-councils-and-creeds-definitions-of}
@@ -1201,19 +1210,19 @@ header-title="Video clip from Ryan Reeves"
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
-link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/arius-and-nicea/#video-clip-from-ryan-reeves"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/arius-and-nicea/#the-two-sides-at-nicea"
 study-title="Early & Medieval History (src: Ryan Reeves)"
 page-title="Arius and Nicea (src: Ryan Reeves)"
-header-title="Video clip from Ryan Reeves"
+header-title="The two sides at Nicea"
 %}}
 
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
-link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/early-church-and-trinity-father-and-son/#video-clip-from-ryan-reeves"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/early-church-and-trinity-father-and-son/#doctrinal-questions-within-the-church-followed-the-same-natural-progression-that-is-common-for-individual-christians"
 study-title="Early & Medieval History (src: Ryan Reeves)"
 page-title="Early Church and Trinity: Father and Son (src: Ryan Reeves)"
-header-title="Video clip from Ryan Reeves"
+header-title="Doctrinal questions within the Church followed the same natural progression that is common for individual Christians"
 %}}
 
 #### Church history > Councils and Creeds > Nicea {#church-history-councils-and-creeds-nicea}
@@ -1221,10 +1230,10 @@ header-title="Video clip from Ryan Reeves"
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
-link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/arius-and-nicea/#video-clip-from-ryan-reeves"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/arius-and-nicea/#the-council-of-nicea-is-called"
 study-title="Early & Medieval History (src: Ryan Reeves)"
 page-title="Arius and Nicea (src: Ryan Reeves)"
-header-title="Video clip from Ryan Reeves"
+header-title="The Council of Nicea is called"
 %}}
 
 ##### Church history > Councils and Creeds > Nicea > Nicene Creed {#church-history-councils-and-creeds-nicea-nicene-creed}
@@ -1232,10 +1241,10 @@ header-title="Video clip from Ryan Reeves"
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
-link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/arius-and-nicea/#video-clip-from-ryan-reeves"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/arius-and-nicea/#the-original-nicene-creed-of-325"
 study-title="Early & Medieval History (src: Ryan Reeves)"
 page-title="Arius and Nicea (src: Ryan Reeves)"
-header-title="Video clip from Ryan Reeves"
+header-title="The original Nicene Creed of 325"
 %}}
 
 ### Church history > Lucian of Antioch {#church-history-lucian-of-antioch}
@@ -1243,10 +1252,10 @@ header-title="Video clip from Ryan Reeves"
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
-link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/arius-and-nicea/#video-clip-from-ryan-reeves"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/arius-and-nicea/#background-to-the-controversy-trinitarian-debates-generally-and-the-pre-arius-extreme-origenist-teachings-that-directly-shaped-ariuss-thinking"
 study-title="Early & Medieval History (src: Ryan Reeves)"
 page-title="Arius and Nicea (src: Ryan Reeves)"
-header-title="Video clip from Ryan Reeves"
+header-title="Background to the controversy: Trinitarian debates generally, and the pre-Arius extreme Origenist teachings that directly shaped Arius's thinking"
 %}}
 
 ## Column of cloud and fire {#column-of-cloud-and-fire}
@@ -6431,19 +6440,19 @@ page-title="All Members of the Trinity Are Deity"
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
-link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/arius-and-nicea/#video-clip-from-ryan-reeves"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/arius-and-nicea/#the-council-of-nicea-is-called"
 study-title="Early & Medieval History (src: Ryan Reeves)"
 page-title="Arius and Nicea (src: Ryan Reeves)"
-header-title="Video clip from Ryan Reeves"
+header-title="The Council of Nicea is called"
 %}}
 
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
-link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/early-church-and-trinity-father-and-son/#video-clip-from-ryan-reeves"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/early-church-and-trinity-father-and-son/#doctrinal-questions-within-the-church-followed-the-same-natural-progression-that-is-common-for-individual-christians"
 study-title="Early & Medieval History (src: Ryan Reeves)"
 page-title="Early Church and Trinity: Father and Son (src: Ryan Reeves)"
-header-title="Video clip from Ryan Reeves"
+header-title="Doctrinal questions within the Church followed the same natural progression that is common for individual Christians"
 %}}
 
 {{% subject-index-link
@@ -6471,19 +6480,19 @@ page-title="All Members of the Trinity Are Coequal, Coeternal, and Consubstantia
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
-link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/arius-and-nicea/#video-clip-from-ryan-reeves"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/arius-and-nicea/#the-original-nicene-creed-of-325"
 study-title="Early & Medieval History (src: Ryan Reeves)"
 page-title="Arius and Nicea (src: Ryan Reeves)"
-header-title="Video clip from Ryan Reeves"
+header-title="The original Nicene Creed of 325"
 %}}
 
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
-link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/early-church-and-trinity-father-and-son/#video-clip-from-ryan-reeves"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/early-church-and-trinity-father-and-son/#doctrinal-questions-within-the-church-followed-the-same-natural-progression-that-is-common-for-individual-christians"
 study-title="Early & Medieval History (src: Ryan Reeves)"
 page-title="Early Church and Trinity: Father and Son (src: Ryan Reeves)"
-header-title="Video clip from Ryan Reeves"
+header-title="Doctrinal questions within the Church followed the same natural progression that is common for individual Christians"
 %}}
 
 {{% subject-index-link
@@ -6612,10 +6621,19 @@ header-title="The Son is God"
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
-link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/arius-and-nicea/#video-clip-from-ryan-reeves"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/arius-and-nicea/#background-to-the-controversy-trinitarian-debates-generally-and-the-pre-arius-extreme-origenist-teachings-that-directly-shaped-ariuss-thinking"
 study-title="Early & Medieval History (src: Ryan Reeves)"
 page-title="Arius and Nicea (src: Ryan Reeves)"
-header-title="Video clip from Ryan Reeves"
+header-title="Background to the controversy: Trinitarian debates generally, and the pre-Arius extreme Origenist teachings that directly shaped Arius's thinking"
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/arius-and-nicea/#the-teachings-of-arius"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Arius and Nicea (src: Ryan Reeves)"
+header-title="The teachings of Arius"
 %}}
 
 {{% subject-index-link
@@ -6632,10 +6650,10 @@ header-title="In its spread, God's truth did not only need to overcome paganism,
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
-link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/early-church-and-trinity-father-and-son/#video-clip-from-ryan-reeves"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/early-church-and-trinity-father-and-son/#modalism-sabellianism"
 study-title="Early & Medieval History (src: Ryan Reeves)"
 page-title="Early Church and Trinity: Father and Son (src: Ryan Reeves)"
-header-title="Video clip from Ryan Reeves"
+header-title="Modalism/Sabellianism"
 %}}
 
 ##### Trinity > Heresies related to > Modalism > Reactions to Modalism {#trinity-heresies-related-to-modalism-reactions-to-modalism}
@@ -6643,10 +6661,10 @@ header-title="Video clip from Ryan Reeves"
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
-link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/early-church-and-trinity-father-and-son/#video-clip-from-ryan-reeves"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/early-church-and-trinity-father-and-son/#reactions-to-modalism-sabellianism"
 study-title="Early & Medieval History (src: Ryan Reeves)"
 page-title="Early Church and Trinity: Father and Son (src: Ryan Reeves)"
-header-title="Video clip from Ryan Reeves"
+header-title="Reactions to Modalism/Sabellianism"
 %}}
 
 ### Trinity > Illustrations {#trinity-illustrations}
@@ -6665,10 +6683,10 @@ page-title="Illustrating the Trinity"
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
-link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/early-church-and-trinity-father-and-son/#video-clip-from-ryan-reeves"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/early-church-and-trinity-father-and-son/#modalism-sabellianism"
 study-title="Early & Medieval History (src: Ryan Reeves)"
 page-title="Early Church and Trinity: Father and Son (src: Ryan Reeves)"
-header-title="Video clip from Ryan Reeves"
+header-title="Modalism/Sabellianism"
 %}}
 
 {{% subject-index-link
@@ -6696,10 +6714,10 @@ header-title="An illustration from the early church: the Trinity \"triangle\""
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
-link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/early-church-and-trinity-father-and-son/#video-clip-from-ryan-reeves"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/early-church-and-trinity-father-and-son/#modalism-sabellianism"
 study-title="Early & Medieval History (src: Ryan Reeves)"
 page-title="Early Church and Trinity: Father and Son (src: Ryan Reeves)"
-header-title="Video clip from Ryan Reeves"
+header-title="Modalism/Sabellianism"
 %}}
 
 {{% subject-index-link
@@ -6716,10 +6734,10 @@ header-title="Given the benefit of subsequent clarifying New Testament revelatio
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
-link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/arius-and-nicea/#video-clip-from-ryan-reeves"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/arius-and-nicea/#the-council-of-nicea-is-called"
 study-title="Early & Medieval History (src: Ryan Reeves)"
 page-title="Arius and Nicea (src: Ryan Reeves)"
-header-title="Video clip from Ryan Reeves"
+header-title="The Council of Nicea is called"
 %}}
 
 #### Trinity > Jointly partake in one single essence > Father {#trinity-jointly-partake-in-one-single-essence-father}
@@ -6970,10 +6988,10 @@ header-title="Arguing against Arianism by attacking the notion that the Son is a
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
-link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/arius-and-nicea/#video-clip-from-ryan-reeves"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/arius-and-nicea/#the-original-nicene-creed-of-325"
 study-title="Early & Medieval History (src: Ryan Reeves)"
 page-title="Arius and Nicea (src: Ryan Reeves)"
-header-title="Video clip from Ryan Reeves"
+header-title="The original Nicene Creed of 325"
 %}}
 
 ### Trinity > The teaching existed before the word “Trinity” was used for it {#trinity-the-teaching-existed-before-the-word-trinity-was-used-for-it}
@@ -6981,10 +6999,10 @@ header-title="Video clip from Ryan Reeves"
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
-link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/early-church-and-trinity-father-and-son/#video-clip-from-ryan-reeves"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/early-church-and-trinity-father-and-son/#councils-creeds-and-theological-vocabulary"
 study-title="Early & Medieval History (src: Ryan Reeves)"
 page-title="Early Church and Trinity: Father and Son (src: Ryan Reeves)"
-header-title="Video clip from Ryan Reeves"
+header-title="Councils, Creeds, and theological vocabulary"
 %}}
 
 {{% subject-index-link
@@ -7043,10 +7061,10 @@ header-title="Arguing against Arianism by attacking the notion that the Son is a
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
-link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/early-church-and-trinity-father-and-son/#video-clip-from-ryan-reeves"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/early-church-and-trinity-father-and-son/#reactions-to-modalism-sabellianism"
 study-title="Early & Medieval History (src: Ryan Reeves)"
 page-title="Early Church and Trinity: Father and Son (src: Ryan Reeves)"
-header-title="Video clip from Ryan Reeves"
+header-title="Reactions to Modalism/Sabellianism"
 %}}
 
 {{% subject-index-link
@@ -7063,10 +7081,10 @@ header-title="Key point: God is *three* in person, but that does *not* mean that
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
-link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/early-church-and-trinity-father-and-son/#video-clip-from-ryan-reeves"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/early-church-and-trinity-father-and-son/#reactions-to-modalism-sabellianism"
 study-title="Early & Medieval History (src: Ryan Reeves)"
 page-title="Early Church and Trinity: Father and Son (src: Ryan Reeves)"
-header-title="Video clip from Ryan Reeves"
+header-title="Reactions to Modalism/Sabellianism"
 %}}
 
 {{% subject-index-link

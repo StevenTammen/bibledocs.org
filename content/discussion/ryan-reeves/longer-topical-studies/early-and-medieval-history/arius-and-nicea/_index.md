@@ -42,6 +42,12 @@ To properly understand the council of Nicea, we must understand the historical, 
 
 ### Background to the controversy: Trinitarian debates generally, and the pre-Arius extreme Origenist teachings that directly shaped Arius's thinking {#background-to-the-controversy-trinitarian-debates-generally-and-the-pre-arius-extreme-origenist-teachings-that-directly-shaped-arius-s-thinking}
 
+{{< properties
+
+stags="Church history > Arius| Church history > Lucian of Antioch | Trinity > Heresies related to > Arianism"
+
+>}}
+
 #### Video clip from Ryan Reeves {#video-clip-from-ryan-reeves}
 
 {{< properties
@@ -50,8 +56,6 @@ srcyoutubevideoid="Nduka-QqXbQ"
 srctitle="Arius and Nicea"
 srcstart="14"
 srcend="473"
-
-stags="Church history > Arius| Church history > Lucian of Antioch | Trinity > Heresies related to > Arianism"
 
 >}}
 
@@ -172,6 +176,14 @@ At any rate, my purpose in going through all this is to challenge the narrative 
 
 ### The teachings of Arius {#the-teachings-of-arius}
 
+{{< properties
+
+stags="Church history > Arius | Trinity > Heresies related to > Arianism"
+
+ptags="Isaiah 43:11"
+
+>}}
+
 #### Video clip from Ryan Reeves {#video-clip-from-ryan-reeves}
 
 {{< properties
@@ -180,10 +192,6 @@ srcyoutubevideoid="Nduka-QqXbQ"
 srctitle="Arius and Nicea"
 srcstart="473"
 srcend="815"
-
-stags="Church history > Arius | Trinity > Heresies related to > Arianism"
-
-ptags="Isaiah 43:11"
 
 >}}
 
@@ -400,6 +408,12 @@ And this is why, in the end, the concepts of "eternal begetting" and "eternal pr
 
 ### The Council of Nicea is called {#the-council-of-nicea-is-called}
 
+{{< properties
+
+stags="Church history > Councils and Creeds > Nicea | Trinity > Jointly partake in one single essence | Trinity > All members are distinct from one another"
+
+>}}
+
 #### Video clip from Ryan Reeves {#video-clip-from-ryan-reeves}
 
 {{< properties
@@ -408,8 +422,6 @@ srcyoutubevideoid="Nduka-QqXbQ"
 srctitle="Arius and Nicea"
 srcstart="815"
 srcend="1292"
-
-stags="Church history > Councils and Creeds > Nicea | Trinity > Jointly partake in one single essence | Trinity > All members are distinct from one another"
 
 >}}
 
@@ -551,6 +563,12 @@ At least, that is how I personally see things.
 
 ### The two sides at Nicea {#the-two-sides-at-nicea}
 
+{{< properties
+
+stags="Church history > Councils and Creeds > Definitions of > Trinity"
+
+>}}
+
 #### Video clip from Ryan Reeves {#video-clip-from-ryan-reeves}
 
 {{< properties
@@ -559,8 +577,6 @@ srcyoutubevideoid="Nduka-QqXbQ"
 srctitle="Arius and Nicea"
 srcstart="1292"
 srcend="1367"
-
-stags="Church history > Councils and Creeds > Definitions of > Trinity"
 
 >}}
 
@@ -614,6 +630,12 @@ In this, we needn't pretend like there weren't polarized sides; there definitely
 
 ### The original Nicene Creed of 325 {#the-original-nicene-creed-of-325}
 
+{{< properties
+
+stags="Church history > Councils and Creeds > Nicea > Nicene Creed | Trinity > All members share the same essence | Trinity > Son > One and Only"
+
+>}}
+
 #### Video clip from Ryan Reeves {#video-clip-from-ryan-reeves}
 
 {{< properties
@@ -622,8 +644,6 @@ srcyoutubevideoid="Nduka-QqXbQ"
 srctitle="Arius and Nicea"
 srcstart="1456"
 srcend="1914"
-
-stags="Church history > Councils and Creeds > Nicea > Nicene Creed | Trinity > All members share the same essence | Trinity > Son > One and Only"
 
 >}}
 

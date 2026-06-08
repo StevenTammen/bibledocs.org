@@ -222,6 +222,32 @@ There are a number of reasons that can help explain why this schism ultimately o
 
 #### Follow-on topics {#follow-on-topics}
 
+##### Can non-denominational churches also have "schisms"?
+
+Those of us who believe in a non-denominational form of Church organization do not think that there are any "extra layers" between local church leadership and Jesus Himself, who is the head of the Church. That is, there are no regional bishops, national assemblies, or any other levels of clergy above local church pastors.
+
+One might then ask: can churches that operate according to this understanding still have "schisms"? As I see things, the answer sort of depends upon how you choose to define terms. If you define "schism" as "a division of two groups of people who previously were united under one banner", then under that definition, a local church splitting into two could be considered "a schism".
+
+However, most non-denominational local churches aren't in the habit of declaring themselves to be "in communion with" or "out of communion with" other local assemblies of believers; that very way of looking at things sort of presupposes higher-order inter-church relations of some form.
+
+<!-- slide-break -->
+
+At times, I have no doubt that non-denominational local churches do choose to split over doctrinal disagreements. How formal a process that is (i.e., is there an explicit announcement in the weekly bulletin mentioning Option A and Option B, or do some people just choose to leave more quietly?) seems to me to be something that we can say absolutely nothing about from the perspective of scripture; the Bible simply does not talk about this matter whatsoever.
+
+Where I am going with all this is that this lack of specificity leaves the door wide open in terms of how local assemblies might choose to reorganize themselves due to theological disputes:
+
+- Under what circumstances it is allowable (or advisable) to split
+- How formally this matter ought to be undertaken and communicated, if it must be done
+- Etc.
+
+Hopefully this sort of thing can happen within the bounds of good Christian love and calm tempers, although humans being humans, that may not always end up being the case.
+
+<!-- slide-break -->
+
+The point of me bringing all this up is this: some people might have overly narrow view of what "schisms" are, colored by hundreds and thousands of years of history and tradition relating to the church visible. Yet if we take *sola scriptura* seriously, we are left with a far less rigid understanding of what believers dividing over doctrine might look like, since the Bible doesn't address it directly. Given the differences in culture across all the regions and peoples that the gospel has spread to over the centuries, we might even postulate that what this looks like probably varies by time and place and culture.
+
+Such a view is only possible if you properly stay silent where the Bible stays silent... unlike rigidly defining what "schisms" are when the Bible doesn't.
+
 <!-- slide-break -->
 
 #### Further discussion {#further-discussion}
@@ -381,6 +407,27 @@ As we shall see, disagreements on the surface might have been about various theo
 <!-- slide-break -->
 
 #### Follow-on topics {#follow-on-topics}
+
+##### Consider that the greater part of this authority dispute centers around something that non-denominational local churches could never argue about to begin with, even if they wanted to
+
+If we were to summarize the main takeaway from everything we went through here, it would probably go something like "East and West disagreed about how to treat the authority of the pope (i.e., the bishop/patriarch of Rome) relative to the authority of bishops/patriarchs of other regions like Alexandria, Antioch, Constantinople, and so on."
+
+I hope it is obvious how this entire thing deals with a subject (namely, the relative authority of regional bishops/patriarchs) that is simply not ever relevant for a non-denominational form of Christianity that does not even have regional bishops/patriarchs to begin with.
+
+<!-- slide-break -->
+
+Oftentimes, it seems to me like a proper biblical understanding would have made many disputes and controversies throughout church history completely unnecessary. Some other examples that come to mind:
+
+- Plenty of churches throughout history have split solely due to the issue of how water baptism is to be conducted. For example, does it have to be full immersion, or does sprinkling count? Should it only be for adults, or can infants be baptized? And so on. Yet what if the "one baptism" of Ephesians 4:5 is *Spirit* baptism, not water baptism? What if Matthew 3:11 is supposed to be taken literally (in the sense that water baptism was *only* ever supposed to be John's baptism of repentance to prepare for the coming Messiah... that ought to have been eventually phased out after the Messiah actually came, given that Jesus baptizes with the Holy Spirit instead)? Then all of the historical controversy related to water baptism could have been completely sidestepped.
+  - I should note that this view of baptism is *much* less common overall than a non-denominational take on ecclesiology, so make of that what you will. I am just using it to give another example of the phenomenon of how some interpretations completely sidestep entire types of historical controversy in the church visible.
+- How about the question of which day of the week to celebrate as a Sabbath (or pseudo-Sabbath = a *de facto* Sabbath, even if not *de jure*)? According to Hebrews 4, we now live in a time wherein we have available to us a *perpetual* moment-by-moment Sabbath-rest. Holding such a view, all of the controversy over which day to hold a literal Sabbath on (cf. Seventh Day Adventists) would never even come up.
+- How about all the controversy that is avoided if one properly understands that there is a "gap" spoken of between Genesis 1:1 and Genesis 1:2, during which time Satan rebelled and initial creation was blacked out in judgement? There need not be any tension between the Bible and science because neither young earth creation *nor* evolution are true. The earth can be billions of years old (like geology tells us, for example), *and* humanity specifically can have only existed for some 6,000 years or so. Both things can actually be true at the same time, rendering the conventional theological debates about creationism generally (and the interpretation of Genesis 1 specifically) largely unnecessary.
+
+<!-- slide-break -->
+
+One might go on. The point is that some of the controversies and disputes we may read about in the history of the church visible may not even apply to us, depending on our individual theological beliefs. The matter of high church authority here is probably very nearly the top of the list of famous controversies in the historical church that in my view have little to do with how *sola scriptura* evangelical Protestants ought to live out their Christianity.
+
+This does not make it useless to study, but it does mean that we must view what we study here with the correct perspective: *historical* rather than *theological*, as I've argued for elsewhere.
 
 <!-- slide-break -->
 
