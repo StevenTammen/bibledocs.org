@@ -63,11 +63,11 @@ ignoreFiles = ["assessment\\.md$", "anki-flashcards\\.md$", "checklist\\.xlsx$"]
     identifier = "about-the-site"
     url = "/about-the-site/"
   [[menu.navigation]]  
-    name = "Progress Summaries"
+    name = "Blog"
     pre = "<i class='fa fa-calendar fa-fw'></i>"
     weight = 5
-    identifier = "ministry-progress-summaries"
-    url = "/ministry-progress-summaries/"
+    identifier = "blog"
+    url = "/blog/"
 	
 	
 #  [[menu.content]]
