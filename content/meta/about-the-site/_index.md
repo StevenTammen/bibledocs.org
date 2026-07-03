@@ -1,6 +1,7 @@
 ---
 title: About the Site
 show-lists: true
+layout: about-the-site-list-page
 ---
 
 TODO: Summary

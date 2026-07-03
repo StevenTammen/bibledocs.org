@@ -1,5 +1,5 @@
 ---
-date: 2025-01-04T15:00:00
+date: 2026-01-04T15:00:00
 domain: —pb-d-ichthys=l
 title: "The six chronological periods of human history (src: Ichthys)"
 stags: 

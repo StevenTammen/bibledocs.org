@@ -1,5 +1,5 @@
 ---
-date: 2025-01-10T19:00:00
+date: 2026-01-10T19:00:00
 domain: —pb-d-ryan-reeves=l
 title: "Arius and Nicea (src: Ryan Reeves)"
 stags: 

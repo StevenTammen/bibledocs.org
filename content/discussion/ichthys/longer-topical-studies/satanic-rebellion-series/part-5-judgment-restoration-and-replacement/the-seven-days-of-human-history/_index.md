@@ -1,5 +1,5 @@
 ---
-date: 2025-01-04T16:00:00
+date: 2026-01-04T16:00:00
 domain: —pb-d-ichthys=l
 title: "The seven days of human history (src: Ichthys)"
 stags: 

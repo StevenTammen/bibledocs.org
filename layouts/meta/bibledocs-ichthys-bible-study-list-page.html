@@ -1,0 +1,48 @@
+{{ partial "header-list-summary-pages.html" . }}
+
+<div class="header">
+  <h1>{{ .Title }}</h1>
+</div>
+<div class="content">
+
+    {{ if .Truncated }}
+        {{ $summaryLen := sub (len .Summary) 1 }}
+        {{ $onlyContent := substr .Content $summaryLen | safeHTML }}
+        {{ $onlyContent | strings.TrimPrefix ">" | safeHTML }}
+    {{ else }}
+        {{ .Content }}
+    {{ end }}
+  
+	<!-- {{ partial "content-list-weight-then-title" . }} -->
+
+    {{/* Step 1: Filter pages matching the specific category */}}
+    {{ $crossTalkPages := where .Site.Pages "Params.category" "==" "Ichthys Bible Study" }}
+
+    {{/* Step 2: Group the filtered pages by the year component of their date */}}
+    {{ $groupedByYear := $crossTalkPages.GroupByDate "2006" }}
+
+    {{/* Step 3: Loop through each year group (Hugo automatically sorts groups in reverse chronological order) */}}
+    {{ range $groupedByYear }}
+
+        {{/* Render the distinct year header */}}
+        <h3>{{ .Key }}</h3>
+
+        {{/* Step 4: Sort pages within this year by date in descending order */}}
+        {{ range .Pages.ByDate.Reverse }}
+            {{ partial "date-list-item" . }}
+        {{ end }}
+
+    {{ else }}
+
+        <p>No Ichthys Bible Study pages found.</p>
+
+    {{ end }}
+  
+</div>
+
+{{ partial "mobile-bar-list-pages.html" . }}
+
+<!-- Site Functions -->
+<script src="{{ .Site.BaseURL }}js/site-functions-list-pages.js"></script>
+
+{{ partial "footer.html" . }}

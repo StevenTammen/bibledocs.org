@@ -1,6 +1,7 @@
 ---
 title: About the Author
 show-lists: true
+layout: about-the-author-list-page
 ---
 
 TODO: Summary

@@ -8,7 +8,7 @@ TODO: Summary
 
 ## The actual list of resources
 
-You can see the sortable and filterable resource index table [here](/resource-index-table).
+You can see the sortable and filterable resource index table [here](/meta/resource-index-table).
 
 It is on its own page since it is desirable to display it full-width so that everything has enough room. (Displaying it in a narrower-width content section like the one on this page cramps things. The sidebar menu and table of contents reduce the amount of usable horizontal space, which is more necessary in the case of the table than general text).
 

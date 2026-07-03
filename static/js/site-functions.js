@@ -19,7 +19,7 @@ function toggleMenu() {
 
 function showMenuMobile(menu, layout) {
 	menu.style.display = "block";
-	menu.style.left = "190px";
+	menu.style.left = "195px";
 }
 
 function hideMenu(menu, layout) {
