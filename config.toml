@@ -83,75 +83,63 @@ ignoreFiles = ["assessment\\.md$", "anki-flashcards\\.md$", "checklist\\.xlsx$"]
 #    identifier = "pages"
 #    url = "/pages/"
   [[menu.content]]
-    name = "Ichthys Bible Study"
-    pre = "<i class='fab fa-youtube fa-fw'></i>"
-    weight = 1
-    identifier = "ichthys-bible-study"
-    url = "/ichthys-bible-study/"
-  [[menu.content]]
-    name = "Open Bible Study"
-    pre = "<i class='fab fa-youtube fa-fw'></i>"
-    weight = 2
-    identifier = "open-bible-study"
-    url = "/open-bible-study/"
-  [[menu.content]]
     name = "Shorter Topical"
     pre = "<i class='fab fa-youtube fa-fw'></i>"
-    weight = 3
+    weight = 1
     identifier = "shorter-topical-studies"
     url = "/shorter-topical-studies/"
   [[menu.content]]
     name = "Longer Topical"
     pre = "<i class='fab fa-youtube fa-fw'></i>"
-    weight = 4
+    weight = 2
     identifier = "longer-topical-studies"
     url = "/longer-topical-studies/"
   [[menu.content]]
     name = "Verse-by-verse"
     pre = "<i class='fab fa-youtube fa-fw'></i>"
-    weight = 5
+    weight = 3
     identifier = "verse-by-verse-studies"
     url = "/verse-by-verse-studies/"
   [[menu.content]]
     name = "Q&As"
     pre = "<i class='fab fa-youtube fa-fw'></i>"
-    weight = 6
+    weight = 4
     identifier = "questions-and-answers"
     url = "/questions-and-answers/"
   [[menu.content]]
     name = "Discussion"
     pre = "<i class='fab fa-youtube fa-fw'></i>"
-    weight = 7
+    weight = 5
     identifier = "discussion"
     url = "/discussion/"
 #  [[menu.content]]
 #    name = "Ministry Info"
 #    pre = "<i class='fas fa-file-alt fa-fw'></i>"
-#    weight = 7
+#    weight = 6
 #    identifier = "ministry-info"
 #    url = "/ministry-info/"
 #  [[menu.content]]
 #    name = "Guides"
 #    pre = "<i class='fab fa-youtube fa-fw'></i>"
-#    weight = 8
+#    weight = 7
 #    identifier = "guides"
 #    url = "/guides/"
 #  [[menu.content]]
 #    name = "Video Series"
 #    pre = "<i class='fab fa-youtube fa-fw'></i>"
-#    weight = 9
+#    weight = 8
 #    identifier = "video-series"
 #    url = "/video-series/"
 #  [[menu.content]]
 #    name = "Greek Resources"
 #    pre = "<i class='fas fa-file-alt fa-fw'></i>"
-#    weight = 10
+#    weight = 9
 #    identifier = "greek-resources"
 #    url = "/greek-resources/"
 #  [[menu.content]]
 #    name = "Hebrew Resources"
 #    pre = "<i class='fas fa-file-alt fa-fw'></i>"
-#    weight = 11
+#    weight = 10
 #    identifier = "hebrew-resources"
 #    url = "/hebrew-resources/"	
 
