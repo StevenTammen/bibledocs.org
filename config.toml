@@ -112,6 +112,12 @@ ignoreFiles = ["assessment\\.md$", "anki-flashcards\\.md$", "checklist\\.xlsx$"]
     weight = 5
     identifier = "discussion"
     url = "/discussion/"
+  [[menu.content]]
+    name = "Live Content"
+    pre = "<i class='fab fa-youtube fa-fw'></i>"
+    weight = 6
+    identifier = "live-content"
+    url = "/live-content/"
 #  [[menu.content]]
 #    name = "Ministry Info"
 #    pre = "<i class='fas fa-file-alt fa-fw'></i>"
