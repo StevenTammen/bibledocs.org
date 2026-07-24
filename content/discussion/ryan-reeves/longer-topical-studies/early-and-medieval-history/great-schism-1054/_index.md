@@ -3,6 +3,8 @@ date: 2026-05-16T19:00:00
 domain: —pb-d-ryan-reeves=l
 title: "Great Schism (1054) (src: Ryan Reeves)"
 stags: 
+    - Church history 
+    - Church history > The Great Schism
 ptags: 
 
 weight: 120
@@ -98,6 +100,12 @@ The main answer is the [Schism of 1054](https://en.wikipedia.org/wiki/East%E2%80
 
 ##### Have you ever considered how outnumbered Protestants are? And non-denominational evangelical Protestants even more so? {#have-you-ever-considered-how-outnumbered-protestants-are-and-non-denominational-evangelical-protestants-even-more-so}
 
+{{< properties
+
+stags="Apologetics"
+
+>}}
+
 Do you find it surprising that on the world stage Protestants are so highly outnumbered by Catholic and Orthodox folks (at a ratio of roughly two to one)? More generally, have you ever considered how few people claiming Christ might believe even roughly similar things to you as an individual? For example, those similar to me in belief could probably be categorized as:
 
 - Protestant
@@ -131,6 +139,12 @@ I would argue that the more your individual beliefs place you "outside of" the s
 <!-- slide-break -->
 
 ##### According to the statistics, frequency of Christian belief is strongly associated with geographic area. This should lead us to thoroughly question and examine our own beliefs {#according-to-the-statistics-frequency-of-christian-belief-is-strongly-associated-with-geographic-area-this-should-lead-us-to-thoroughly-question-and-examine-our-own-beliefs}
+
+{{< properties
+
+stags=""
+
+>}}
 
 In the video, Dr. Reeves mentions that the Eastern Orthodox Church is the dominant form of Christianity in certain regions that have less prevalent ties with the Western world order, which means that despite its substantially smaller number of overall adherents relative to the Catholic Church (let's call it ~250 million people vs. ~1.5 billion people, or thereabouts), it still carries somewhat outsized relevancy in political and social spheres.
 
@@ -204,7 +218,7 @@ End:
 
 The terminology here can be a bit confusing. The Great Schism of 1054 was not the first time that there had in some senses been a schism between the East and West in the church. Moreover, it is not even the first one to be called a "great schism", nor was it the only church schism happening during the period of the Middle Ages. (In fact, it is much the opposite: the Middle Ages had relatively more of these sorts of conflicts than prior periods).
 
-For those encountering all this for the first time, the schisms may all sort of seem to run together. But usually when people talk about a "Great Schism" without a particular date referent, what they mean is this one in 1054, wherein the Catholic Church in the West was completely sundered from the  church in the East that would eventually come to be identified as the Orthodox Church.
+For those encountering all this for the first time, the schisms may all sort of seem to run together. But usually when people talk about a "Great Schism" without a particular date referent, what they mean is this one in 1054, wherein the Catholic Church in the West was completely sundered from the church in the East that would eventually come to be identified as the Orthodox Church.
 
 <!-- slide-break -->
 
@@ -223,6 +237,12 @@ There are a number of reasons that can help explain why this schism ultimately o
 #### Follow-on topics {#follow-on-topics}
 
 ##### Can non-denominational churches also have "schisms"?
+
+{{< properties
+
+stags="Church organization | Church organization > Divisions"
+
+>}}
 
 Those of us who believe in a non-denominational form of Church organization do not think that there are any "extra layers" between local church leadership and Jesus Himself, who is the head of the Church. That is, there are no regional bishops, national assemblies, or any other levels of clergy above local church pastors.
 
@@ -409,6 +429,12 @@ As we shall see, disagreements on the surface might have been about various theo
 #### Follow-on topics {#follow-on-topics}
 
 ##### Consider that the greater part of this authority dispute centers around something that non-denominational local churches could never argue about to begin with, even if they wanted to
+
+{{< properties
+
+stags="Church history > Developments are often more historical than theological"
+
+>}}
 
 If we were to summarize the main takeaway from everything we went through here, it would probably go something like "East and West disagreed about how to treat the authority of the pope (i.e., the bishop/patriarch of Rome) relative to the authority of bishops/patriarchs of other regions like Alexandria, Antioch, Constantinople, and so on."
 

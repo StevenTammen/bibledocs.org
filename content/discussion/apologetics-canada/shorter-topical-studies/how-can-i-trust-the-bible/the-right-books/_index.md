@@ -96,8 +96,8 @@ Follow-on topics:
 
 srcyoutubevideoid="QhVPBNBAGY0"
 srctitle="Can I Trust the Bible - Episode 1: The Right Books"
-srcstart="56"
-srcend="143"
+srcstart="68"
+srcend="142"
 
 >}}
 
@@ -149,8 +149,8 @@ Follow-on topics:
 
 srcyoutubevideoid="QhVPBNBAGY0"
 srctitle="Can I Trust the Bible - Episode 1: The Right Books"
-srcstart="142"
-srcend="357"
+srcstart="147"
+srcend="358"
 
 >}}
 
@@ -206,8 +206,8 @@ Follow-on topics:
 
 srcyoutubevideoid="QhVPBNBAGY0"
 srctitle="Can I Trust the Bible - Episode 1: The Right Books"
-srcstart="356"
-srcend="588"
+srcstart="360"
+srcend="589"
 
 >}}
 
@@ -267,8 +267,8 @@ Follow-on topics:
 
 srcyoutubevideoid="QhVPBNBAGY0"
 srctitle="Can I Trust the Bible - Episode 1: The Right Books"
-srcstart="587"
-srcend="725"
+srcstart="592"
+srcend="726"
 
 >}}
 
@@ -323,8 +323,8 @@ Follow-on topics:
 
 srcyoutubevideoid="QhVPBNBAGY0"
 srctitle="Can I Trust the Bible - Episode 1: The Right Books"
-srcstart="724"
-srcend="1131"
+srcstart="725"
+srcend="1132"
 
 >}}
 

@@ -45,8 +45,8 @@ At the time the gospel spread throughout the Mediterranean in the first century 
 
 srcyoutubevideoid="Sa_E9QBHe30"
 srctitle="The Ancient Roman World"
-srcstart=""
-srcend=""
+srcstart="12"
+srcend="399"
 
 >}}
 
@@ -109,8 +109,8 @@ Follow-on topics:
 
 srcyoutubevideoid="Sa_E9QBHe30"
 srctitle="The Ancient Roman World"
-srcstart=""
-srcend=""
+srcstart="399"
+srcend="656"
 
 >}}
 
@@ -168,8 +168,8 @@ Follow-on topics:
 
 srcyoutubevideoid="Sa_E9QBHe30"
 srctitle="The Ancient Roman World"
-srcstart=""
-srcend=""
+srcstart="656"
+srcend="1110"
 
 >}}
 
@@ -239,8 +239,8 @@ Follow-on topics:
 
 srcyoutubevideoid="Sa_E9QBHe30"
 srctitle="The Ancient Roman World"
-srcstart=""
-srcend=""
+srcstart="1110"
+srcend="1255"
 
 >}}
 
@@ -295,8 +295,8 @@ Follow-on topics:
 
 srcyoutubevideoid="Sa_E9QBHe30"
 srctitle="The Ancient Roman World"
-srcstart=""
-srcend=""
+srcstart="1256"
+srcend="1587"
 
 >}}
 
@@ -357,8 +357,8 @@ Follow-on topics:
 
 srcyoutubevideoid="Sa_E9QBHe30"
 srctitle="The Ancient Roman World"
-srcstart=""
-srcend=""
+srcstart="1587"
+srcend="1997"
 
 >}}
 

@@ -3,6 +3,9 @@ date: 2026-04-25T19:00:00
 domain: —pb-d-ryan-reeves=l
 title: "Who was Charlemagne? (src: Ryan Reeves)"
 stags: 
+    - Charlemange
+    - Carolingian Empire
+    - Carolingian Renaissance
 ptags: 
 
 weight: 110
@@ -11,7 +14,10 @@ category: CrossTalk Bible Study
 layout: single-page
 ---
 
-TODO: Summary
+Continuing and building upon the vison of his father and grandfather, Charles "the great" or Charlemange, was highly influential in European history. Not only were his military conquests significant, expanding the Frankish Carolingian Empire even beyond the extensive land holdings his ancestors had, but Charlemange also took an interest in both the culture and the Church. He funded and promoted education, drawing leading 
+intellectuals to his court, in an effort to preserve the Roman way of life--the *Romanitas*. He was also involved in enforcing and regulating the doctrines of the Catholic Church, promoting the Nicene point of view through government. 
+
+The Carolingian Renaissance was a time of cultural explosion. During his reign, Charlemange unified an entire empire through his military expansion, administrative reforms, sponsoring of intellectuals, and Church reforms. Yet within two generations, the great empire that Charlemange had worked to build was divided, and the title of the Holy Roman Empire eventually came to be dominated and taken by Germany, with Otto the Great. 
 
 <!--more-->
 
@@ -104,7 +110,7 @@ In examining Charlemagne, aside from discussing what his reign was like generall
 
 {{< properties
 
-stags=""
+stags="Church history > Catholic church dominance has changed significantly over time | Church > Is not a human institution or physical building, but is based upon saving faith in Jesus Christ | Church > Each Church is directly accountable to God, not human hierarchy"
 
 >}}
 
@@ -188,7 +194,7 @@ At any rate, the Carolingian military proved to be very effective. However, they
 
 {{< properties
 
-stags=""
+stags="Bible Teachers > Lay Christians should verify all teaching with the Bible | Bible Teachers > Incorrect teaching can alter how lay Christians read and interpret the Bible | Bible Teachers > Are commanded to teach God's Word correctly"
 
 ptags="2 Timothy 2:15"
 
@@ -304,7 +310,7 @@ But nonetheless, he was quite consistent in such funding, and this is what drive
 
 {{< properties
 
-stags=""
+stags="Paleography | Paleography > Is useful in dating historical texts | Textual criticism"
 
 >}}
 
@@ -411,7 +417,7 @@ Other buildings at the Aachen palace complex also existed:
 
 {{< properties
 
-stags=""
+stags="Ancient texts > Sourcing of | Ancient texts > Sometimes reference other texts that have not survived"
 
 >}}
 
@@ -491,7 +497,7 @@ All of this is important because in it we see Charlemagne taking steps to develo
 
 {{< properties
 
-stags=""
+stags="Church history > Developments are more historical than theological | Believers > Should we be troubled by un-Christlike actions of people indentifying as "Christian"? | Bible > Ought to be the ultimate authority for believers | Church > Each Church is directly accountable to God, not human hierarchy" 
 
 >}}
 
@@ -577,7 +583,7 @@ The Germanic Holy Roman Empire managed to survive nearly a millennia (all the wa
 
 {{< properties
 
-stags=""
+stags="Kingdom of God > Contrasted with the kingdoms of this world | Seeking the Kingdom of God > Setting our hearts on things above"
 
 ptags="Ecclesiastes 2:18-21"
 
@@ -604,6 +610,68 @@ By way of contrast, Christ's kingdom will be everlasting and eternal (cf. Isaiah
 ## Review Questions {#review-questions}
 
 {{< quizdown >}}
+
+# Which of these statements about Charlemange's coronation are true?
+
+1. [x] Is typically seen as the beginning of the Holy Roman Empire. 
+1. [ ] Was the first significant combination of Church and state. 
+1. [x] Some saw the event as a sign of God's providence and superintendence of the West. 
+1. [x] It strained relations with the East
+1. [ ] Was done by Pope John XII
+
+# True or False? The Catholic Church was as powerful in the Early Middle Ages as it is today. 
+
+1. [ ] True
+1. [x] False
+
+# After his conquests, Charlemagne ruled an empire that spanned how many miles?
+
+1. [ ] 500+
+1. [x] 800+
+1. [ ] 1000+
+
+# Which of these statements are true? 
+
+1. [x] Bible teachers are called to "rightly handle the Word of truth"
+1. [x] Incorrect teaching can alter how lay Christians view the Bible
+1. [ ] Theorizing and hypothesizing are acceptable in Bible teaching 
+
+# True or False: Carolingian miniscule had no uniformity, making it difficult to read. 
+
+1. [ ] True
+1. [x] False
+
+# Which of these statements are false? 
+
+1. [x] Very little architectural development occurred during the Carolingian Renaissance. 
+1. [ ] Charlemange tried to draw leading intellectuals from all across Europe to his court. 
+1. [x] Charlemange had little interest in preserving Roman culture -- the *Romanitas*. 
+1. [ ] Without the collection at Aachen, many ancient manuscripts would have perhaps been lost.
+1. [ ] During the Italian Renaissance, scholars thought that Carolingian miniscule was the ancient Roman script.
+
+# Which of these statements are false? 
+
+1. [x] Paleography is of little use in dating ancient texts. 
+1. [ ] There are far more ancient texts "known of" than have survived. 
+1. [x] Hand-copied texts in antiquity were relatively inexpensive. 
+1. [ ] Writing style and script vary with both time and geographic location. 
+1. [ ] Understanding ancient texts require rigorous scholarship. 
+
+# True or False: Charlemange was involved in enforcing and regulating the doctrines of the Catholic Church. 
+
+1. [x] True
+1. [ ] False
+
+# Which of these statements are true? 
+
+1. [x] The Bible ought to be our ultimate authority. 
+1. [x] Developements in the Church visible should be viewed as more historical than theological. 
+1. [x] The interpretation of the Bible does not depend upon human tradition. 
+
+# True or False: Human accomplishments and kingdoms are temporary, but God's kingdom is eternal. 
+
+1. [x] True
+1. [ ] False 
 
 {{< /quizdown >}}
 

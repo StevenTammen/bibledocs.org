@@ -146,7 +146,7 @@ If politics and propaganda are *at all* involved in our theology, have we not al
 srcyoutubevideoid="xMz5MiM4iww"
 srctitle="Creeds and Councils: What are they?"
 srcstart="290"
-srcend="651"
+srcend="652"
 
 >}}
 
@@ -233,8 +233,8 @@ So, even "worst case" (i.e., if this council should not have happened to begin w
 
 srcyoutubevideoid="xMz5MiM4iww"
 srctitle="Creeds and Councils: What are they?"
-srcstart="651"
-srcend="923"
+srcstart="652"
+srcend="924"
 
 >}}
 
@@ -301,8 +301,8 @@ And this is precisely why we ought to put our faith and trust in the Bible alone
 
 srcyoutubevideoid="xMz5MiM4iww"
 srctitle="Creeds and Councils: What are they?"
-srcstart="923"
-srcend="TODO"
+srcstart="924"
+srcend="1417"
 
 >}}
 

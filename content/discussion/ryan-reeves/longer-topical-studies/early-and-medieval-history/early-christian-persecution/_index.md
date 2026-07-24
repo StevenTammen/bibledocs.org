@@ -79,8 +79,8 @@ We also have computers nowadays (that can help with statistical computations to 
 
 srcyoutubevideoid="hJR0A9phBc8"
 srctitle="Early Christian Persecution"
-srcstart=""
-srcend=""
+srcstart="13"
+srcend="227"
 
 >}}
 
@@ -129,8 +129,8 @@ Follow-on topics:
 
 srcyoutubevideoid="hJR0A9phBc8"
 srctitle="Early Christian Persecution"
-srcstart=""
-srcend=""
+srcstart="228"
+srcend="560"
 
 >}}
 
@@ -187,8 +187,8 @@ Follow-on topics:
 
 srcyoutubevideoid="hJR0A9phBc8"
 srctitle="Early Christian Persecution"
-srcstart=""
-srcend=""
+srcstart="560"
+srcend="671"
 
 >}}
 
@@ -245,8 +245,8 @@ Follow-on topics:
 
 srcyoutubevideoid="hJR0A9phBc8"
 srctitle="Early Christian Persecution"
-srcstart=""
-srcend=""
+srcstart="671"
+srcend="1175"
 
 >}}
 
@@ -317,8 +317,8 @@ Follow-on topics:
 
 srcyoutubevideoid="hJR0A9phBc8"
 srctitle="Early Christian Persecution"
-srcstart=""
-srcend=""
+srcstart="1175"
+srcend="1945"
 
 >}}
 

@@ -47,8 +47,8 @@ TODO: Summary
 
 srcyoutubevideoid="qzStS_NSs-s"
 srctitle="The Ancient Greek World"
-srcstart=""
-srcend=""
+srcstart="13"
+srcend="85"
 
 >}}
 
@@ -94,8 +94,8 @@ Follow-on topics:
 
 srcyoutubevideoid="qzStS_NSs-s"
 srctitle="The Ancient Greek World"
-srcstart=""
-srcend=""
+srcstart="86"
+srcend="1074"
 
 >}}
 
@@ -148,8 +148,8 @@ Follow-on topics:
 
 srcyoutubevideoid="qzStS_NSs-s"
 srctitle="The Ancient Greek World"
-srcstart=""
-srcend=""
+srcstart="1074"
+srcend="1288"
 
 >}}
 
@@ -202,8 +202,8 @@ Follow-on topics:
 
 srcyoutubevideoid="qzStS_NSs-s"
 srctitle="The Ancient Greek World"
-srcstart=""
-srcend=""
+srcstart="1287"
+srcend="1695"
 
 >}}
 
@@ -255,8 +255,8 @@ Follow-on topics:
 
 srcyoutubevideoid="qzStS_NSs-s"
 srctitle="The Ancient Greek World"
-srcstart=""
-srcend=""
+srcstart="1694"
+srcend="1777"
 
 >}}
 

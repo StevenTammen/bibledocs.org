@@ -44,7 +44,7 @@ TODO: Summary
 
 srcyoutubevideoid="KkmLCWeORaQ"
 srctitle="Can I Trust the Bible - Episode 2: The Right Text"
-srcstart="56"
+srcstart="58"
 srcend="217"
 
 >}}
@@ -101,8 +101,8 @@ Follow-on topics
 
 srcyoutubevideoid="KkmLCWeORaQ"
 srctitle="Can I Trust the Bible - Episode 2: The Right Text"
-srcstart="216"
-srcend="342"
+srcstart="221"
+srcend="345"
 
 >}}
 
@@ -168,8 +168,8 @@ Follow-on topics:
 
 srcyoutubevideoid="KkmLCWeORaQ"
 srctitle="Can I Trust the Bible - Episode 2: The Right Text"
-srcstart="340"
-srcend="490"
+srcstart="346"
+srcend="492"
 
 >}}
 
@@ -229,8 +229,8 @@ Follow-on topics:
 
 srcyoutubevideoid="KkmLCWeORaQ"
 srctitle="Can I Trust the Bible - Episode 2: The Right Text"
-srcstart="539"
-srcend="871"
+srcstart="544"
+srcend=""
 
 >}}
 
@@ -292,7 +292,7 @@ Follow-on topics:
 
 srcyoutubevideoid="KkmLCWeORaQ"
 srctitle="Can I Trust the Bible - Episode 2: The Right Text"
-srcstart="924"
+srcstart="926"
 srcend="1153"
 
 >}}

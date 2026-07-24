@@ -45,8 +45,8 @@ One of the heresies the Early Church faced came from the gnostics, a group peopl
 
 srcyoutubevideoid="GXc-vvCivp4"
 srctitle="Gnosticism and the Early Church"
-srcstart=""
-srcend=""
+srcstart="14"
+srcend="363"
 
 >}}
 
@@ -127,8 +127,8 @@ Some other things to mention in all of this:
 
 srcyoutubevideoid="GXc-vvCivp4"
 srctitle="Gnosticism and the Early Church"
-srcstart=""
-srcend=""
+srcstart="363"
+srcend="881"
 
 >}}
 
@@ -202,8 +202,8 @@ Follow-on topics:
 
 srcyoutubevideoid="GXc-vvCivp4"
 srctitle="Gnosticism and the Early Church"
-srcstart=""
-srcend=""
+srcstart="880"
+srcend="1441"
 
 >}}
 

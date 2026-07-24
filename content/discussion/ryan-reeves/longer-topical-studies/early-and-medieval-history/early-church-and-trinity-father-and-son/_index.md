@@ -54,7 +54,7 @@ stags="Church history > Councils and Creeds | Trinity > The teaching existed bef
 srcyoutubevideoid="IlzM7LogGRU"
 srctitle="Early Church and Trinity: Father and Son"
 srcstart="206"
-srcend="537"
+srcend="536"
 
 >}}
 
@@ -201,12 +201,13 @@ stags="Trinity > All members share the same essence | Trinity > All members are 
 
 srcyoutubevideoid="IlzM7LogGRU"
 srctitle="Early Church and Trinity: Father and Son"
-srcstart="537"
+srcstart="538"
 srcend="974"
 
 >}}
 
 <!--
+
 
 Start:
 
@@ -282,7 +283,7 @@ stags="Trinity > Heresies related to > Modalism | Trinity > Illustrations > Peri
 
 srcyoutubevideoid="IlzM7LogGRU"
 srctitle="Early Church and Trinity: Father and Son"
-srcstart="973"
+srcstart="974"
 srcend="1554"
 
 >}}
