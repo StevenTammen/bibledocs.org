@@ -43,8 +43,8 @@ TODO: Summary
 
 srcmp3audiourl="https://ichthys.com/MP3/read-your-bible-ak.mp3"
 srctitle="Read Your Bible! - A Basic Christian Right and Responsibility"
-srcstart=""
-srcend=""
+srcstart="00:07"
+srcend="04:23"
 
 >}}
 
@@ -126,8 +126,8 @@ Follow-on topics:
 
 srcmp3audiourl="https://ichthys.com/MP3/read-your-bible-ak.mp3"
 srctitle="Read Your Bible! - A Basic Christian Right and Responsibility"
-srcstart=""
-srcend=""
+srcstart="04:23"
+srcend="12:37"
 
 >}}
 

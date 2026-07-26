@@ -32,7 +32,9 @@ The Carolingian Renaissance was a time of cultural explosion. During his reign, 
 
 <!-- summary -->
 
-TODO: Summary
+Continuing and building upon the vision of his father and grandfather, Charles "the great" or Charlemagne, was highly influential in European history. Not only were his military conquests significant, expanding the Frankish Carolingian Empire even beyond the extensive land holdings his ancestors had, but Charlemagne also took an interest in both the culture and the Church. He funded and promoted education, drawing leading intellectuals to his court, in an effort to preserve the Roman way of life--the *Romanitas*. He was also involved in enforcing and regulating the doctrines of the Catholic Church, promoting the Nicene point of view through government. 
+
+The Carolingian Renaissance was a time of cultural explosion. During his reign, Charlemagne unified an entire empire through his military expansion, administrative reforms, sponsoring of intellectuals, and Church reforms. Yet within two generations, the great empire that Charlemagne had worked to build was divided, and the title of the Holy Roman Empire eventually came to be dominated and taken by Germany, with Otto the Great. 
 
 <!-- summary -->
 

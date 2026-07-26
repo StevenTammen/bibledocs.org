@@ -76,6 +76,30 @@ page-title="Could You Explain More How All This Works with Respect to the Finali
 header-title="Luke 16 - on the chasm of separation"
 %}}
 
+## Ancient texts {#ancient-texts}
+
+### Ancient texts > Sometimes reference other texts that have not survived {#ancient-texts-sometimes-reference-other-texts-that-have-not-survived}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/who-was-charlemagne/#sourcing-ancient-texts"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Who was Charlemagne? (src: Ryan Reeves)"
+header-title="Sourcing ancient texts"
+%}}
+
+### Ancient texts > Sourcing of {#ancient-texts-sourcing-of}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/who-was-charlemagne/#sourcing-ancient-texts"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Who was Charlemagne? (src: Ryan Reeves)"
+header-title="Sourcing ancient texts"
+%}}
+
 ## Angels {#angels}
 
 ### Angels > Are interested in God's redemptive plan for humanity {#angels-are-interested-in-gods-redemptive-plan-for-humanity}
@@ -280,6 +304,15 @@ page-title="The complete household of God: The uniqueness of Israel (src. Ichthy
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/great-schism-1054/#have-you-ever-considered-how-outnumbered-protestants-are-and-non-denominational-evangelical-protestants-even-more-so"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Great Schism (1054) (src: Ryan Reeves)"
+header-title="Have you ever considered how outnumbered Protestants are? And non-denominational evangelical Protestants even more so?"
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
 link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#could-god-create-a-rock-so-big-even-he-couldnt-lift-it"
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="God's Infinite Nature"
@@ -428,6 +461,15 @@ page-title="The Merovingians (src: Ryan Reeves)"
 header-title="We ought not be overly troubled by un-Christlike actions of people self-identifying as \"Christian\""
 %}}
 
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/who-was-charlemagne/#are-developments-in-the-church-visible-more-history-or-theology"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Who was Charlemagne? (src: Ryan Reeves)"
+header-title="Are developments in the Church visible more history or theology?"
+%}}
+
 ## Bible {#bible}
 
 {{% subject-index-link
@@ -517,6 +559,17 @@ page-title="The Bible is how we know what is from God"
 header-title="How do you recognize God's voice, as opposed to the voice of Satan and/or others under Satan's sway? Through the Word of God"
 %}}
 
+### Bible > Ought to be the ultimate authority for believers {#bible-ought-to-be-the-ultimate-authority-for-believers}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/who-was-charlemagne/#are-developments-in-the-church-visible-more-history-or-theology"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Who was Charlemagne? (src: Ryan Reeves)"
+header-title="Are developments in the Church visible more history or theology?"
+%}}
+
 ### Bible > Personal Bible reading is essential {#bible-personal-bible-reading-is-essential}
 
 {{% subject-index-link
@@ -548,7 +601,38 @@ page-title="The Bible is how we know what is from God"
 
 %}}
 
+### Bible Teachers > Are commanded to teach God's Word correctly {#bible-teachers-are-commanded-to-teach-gods-word-correctly}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/who-was-charlemagne/#what-the-so-called-great-stirrup-controversy-can-teach-us-about-bible-teaching"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Who was Charlemagne? (src: Ryan Reeves)"
+header-title="What the so-called \"Great Stirrup Controversy\" can teach us about Bible teaching"
+%}}
+
+### Bible Teachers > Incorrect teaching can alter how lay Christians read and interpret the Bible {#bible-teachers-incorrect-teaching-can-alter-how-lay-christians-read-and-interpret-the-bible}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/who-was-charlemagne/#what-the-so-called-great-stirrup-controversy-can-teach-us-about-bible-teaching"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Who was Charlemagne? (src: Ryan Reeves)"
+header-title="What the so-called \"Great Stirrup Controversy\" can teach us about Bible teaching"
+%}}
+
 ### Bible Teachers > Lay Christians should verify all teaching with the Bible {#bible-teachers-lay-christians-should-verify-all-teaching-with-the-bible}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/who-was-charlemagne/#what-the-so-called-great-stirrup-controversy-can-teach-us-about-bible-teaching"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Who was Charlemagne? (src: Ryan Reeves)"
+header-title="What the so-called \"Great Stirrup Controversy\" can teach us about Bible teaching"
+%}}
 
 {{% subject-index-link
 content-type="Longer Topical"
@@ -833,6 +917,28 @@ page-title="Who are the people the Father \"gave\" Jesus in John 17?"
 
 %}}
 
+## Carolingian Empire {#carolingian-empire}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/who-was-charlemagne/"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Who was Charlemagne? (src: Ryan Reeves)"
+
+%}}
+
+## Carolingian Renaissance {#carolingian-renaissance}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/who-was-charlemagne/"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Who was Charlemagne? (src: Ryan Reeves)"
+
+%}}
+
 ## Central doctrines to the Christian faith {#central-doctrines-to-the-christian-faith}
 
 ### Central doctrines to the Christian faith > Satan attacks more fiercely {#central-doctrines-to-the-christian-faith-satan-attacks-more-fiercely}
@@ -862,6 +968,17 @@ link="/discussion/central-baptist-warner-robins/longer-topical-studies/how-to-di
 study-title="How to discern the voice of God (src: Central Baptist - Warner Robins)"
 page-title="Satan is the serpent of Genesis 3"
 header-title="Satan as a... divine prosecutor? The scriptural witness of Job and Zechariah"
+%}}
+
+## Charlemagne {#charlemagne}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/who-was-charlemagne/"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Who was Charlemagne? (src: Ryan Reeves)"
+
 %}}
 
 ## Child abuse {#child-abuse}
@@ -954,6 +1071,26 @@ page-title="The complete household of God: The Church (src. Ichthys)"
 header-title="Our election is intrinsically tied to Christ"
 %}}
 
+### Church > Each Church is directly accountable to God, not human hierarchy {#church-each-church-is-directly-accountable-to-god-not-human-hierarchy}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/who-was-charlemagne/#are-developments-in-the-church-visible-more-history-or-theology"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Who was Charlemagne? (src: Ryan Reeves)"
+header-title="Are developments in the Church visible more history or theology?"
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/who-was-charlemagne/#the-catholic-church-was-not-always-a-dominant-force"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Who was Charlemagne? (src: Ryan Reeves)"
+header-title="The Catholic Church was not always a dominant force"
+%}}
+
 ### Church > Global versus local {#church-global-versus-local}
 
 {{% subject-index-link
@@ -1015,6 +1152,15 @@ page-title="The complete household of God: The Revelation (src: Ichthys)"
 %}}
 
 ### Church > Is not a human institution or physical building, but is based upon saving faith in Jesus Christ {#church-is-not-a-human-institution-or-physical-building-but-is-based-upon-saving-faith-in-jesus-christ}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/who-was-charlemagne/#the-catholic-church-was-not-always-a-dominant-force"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Who was Charlemagne? (src: Ryan Reeves)"
+header-title="The Catholic Church was not always a dominant force"
+%}}
 
 {{% subject-index-link
 content-type="Longer Topical"
@@ -1161,6 +1307,15 @@ page-title="Early Church and Trinity: Father and Son (src: Ryan Reeves)"
 
 %}}
 
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/great-schism-1054/"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Great Schism (1054) (src: Ryan Reeves)"
+
+%}}
+
 ### Church history > Arius {#church-history-arius}
 
 {{% subject-index-link
@@ -1190,6 +1345,17 @@ link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/
 study-title="Early & Medieval History (src: Ryan Reeves)"
 page-title="The Merovingians (src: Ryan Reeves)"
 header-title="Hagiography as a literary genre"
+%}}
+
+### Church history > Catholic church dominance has changed significantly over time {#church-history-catholic-church-dominance-has-changed-significantly-over-time}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/who-was-charlemagne/#the-catholic-church-was-not-always-a-dominant-force"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Who was Charlemagne? (src: Ryan Reeves)"
+header-title="The Catholic Church was not always a dominant force"
 %}}
 
 ### Church history > Councils and Creeds {#church-history-councils-and-creeds}
@@ -1247,6 +1413,17 @@ page-title="Arius and Nicea (src: Ryan Reeves)"
 header-title="The original Nicene Creed of 325"
 %}}
 
+### Church history > Developments are more historical than theological {#church-history-developments-are-more-historical-than-theological}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/who-was-charlemagne/#are-developments-in-the-church-visible-more-history-or-theology"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Who was Charlemagne? (src: Ryan Reeves)"
+header-title="Are developments in the Church visible more history or theology?"
+%}}
+
 ### Church history > Lucian of Antioch {#church-history-lucian-of-antioch}
 
 {{% subject-index-link
@@ -1256,6 +1433,17 @@ link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/
 study-title="Early & Medieval History (src: Ryan Reeves)"
 page-title="Arius and Nicea (src: Ryan Reeves)"
 header-title="Background to the controversy: Trinitarian debates generally, and the pre-Arius extreme Origenist teachings that directly shaped Arius's thinking"
+%}}
+
+### Church history > The Great Schism {#church-history-the-great-schism}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/great-schism-1054/"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Great Schism (1054) (src: Ryan Reeves)"
+
 %}}
 
 ## Column of cloud and fire {#column-of-cloud-and-fire}
@@ -4109,6 +4297,15 @@ page-title="The Merovingians (src: Ryan Reeves)"
 header-title="Contrasting the Kingdom of God with kingdoms of this world"
 %}}
 
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/who-was-charlemagne/#contrasting-christs-eternal-kingship-with-that-of-normal-human-kings"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Who was Charlemagne? (src: Ryan Reeves)"
+header-title="Contrasting Christ's eternal kingship with that of normal human kings"
+%}}
+
 ## Legalism {#legalism}
 
 ### Legalism > Counterexamples {#legalism-counterexamples}
@@ -4648,6 +4845,28 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infi
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="God's Infinite Nature"
 header-title="God's knowledge of hypotheticals"
+%}}
+
+## Paleography {#paleography}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/who-was-charlemagne/#paleography-in-the-study-of-ancient-texts"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Who was Charlemagne? (src: Ryan Reeves)"
+header-title="Paleography in the study of ancient texts"
+%}}
+
+### Paleography > Is useful in dating historical texts {#paleography-is-useful-in-dating-historical-texts}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/who-was-charlemagne/#paleography-in-the-study-of-ancient-texts"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Who was Charlemagne? (src: Ryan Reeves)"
+header-title="Paleography in the study of ancient texts"
 %}}
 
 ## Parables {#parables}
@@ -5739,6 +5958,15 @@ header-title="Faith is necessary, not illogical"
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/who-was-charlemagne/#contrasting-christs-eternal-kingship-with-that-of-normal-human-kings"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Who was Charlemagne? (src: Ryan Reeves)"
+header-title="Contrasting Christ's eternal kingship with that of normal human kings"
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
 link="/discussion/central-baptist-warner-robins/longer-topical-studies/how-to-discern-the-voice-of-god/does-the-voice-lead-you-to-be-more-like-jesus/#what-are-the-things-above"
 study-title="How to discern the voice of God (src: Central Baptist - Warner Robins)"
 page-title="Does the voice lead you to be more like Jesus?"
@@ -6263,6 +6491,15 @@ header-title="The essence of God is being. He is the Great I AM"
 %}}
 
 ## Textual criticism {#textual-criticism}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/who-was-charlemagne/#paleography-in-the-study-of-ancient-texts"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Who was Charlemagne? (src: Ryan Reeves)"
+header-title="Paleography in the study of ancient texts"
+%}}
 
 ### Textual criticism > Places where it matters {#textual-criticism-places-where-it-matters}
 

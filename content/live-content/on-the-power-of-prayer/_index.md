@@ -36,7 +36,35 @@ TODO: Summary
 
 ### What does "the prayer of a righteous man avails much" mean?
 
-See James 5:16, and compare 1 Peter 3:12; Proverbs 15:29; Proverbs 15:8.
+Our starting verse is this one:
+
+{{% scripture p="James 5:16 | NIV11" %}}
+
+Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous person is powerful and effective.
+
+{{% /scripture %}}
+
+<!-- slide-break -->
+
+And we might also compare:
+
+{{% scripture p="1 Peter 3:12 | NIV11" %}}
+
+For the eyes of the Lord are on the righteous  
+&emsp;and his ears are attentive to their prayer,  
+but the face of the Lord is against those who do evil.
+
+{{% /scripture %}}
+
+{{% scripture p="Proverbs 15:29 | NIV11" %}}
+The Lord is far from the wicked,  
+&emsp;but he hears the prayer of the righteous.
+{{% /scripture %}}
+
+{{% scripture p="Proverbs 15:8 | NIV11" %}}
+The Lord detests the sacrifice of the wicked,  
+&emsp;but the prayer of the upright pleases him.
+{{% /scripture %}}
 
 <!-- slide-break -->
 
