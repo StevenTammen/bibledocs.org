@@ -230,7 +230,7 @@ Follow-on topics:
 srcyoutubevideoid="KkmLCWeORaQ"
 srctitle="Can I Trust the Bible - Episode 2: The Right Text"
 srcstart="544"
-srcend=""
+srcend="871"
 
 >}}
 

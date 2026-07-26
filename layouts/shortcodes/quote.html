@@ -2,12 +2,14 @@
 
 {{ if (.Get "src")}}
 <strong>
-	<a href="/about-the-site/content-organization/#quotes">Quote</a> from
-	<a href="{{ .Get "src" }}">
-		{{ .Get "text" }}
-	</a>
+	<a href="/about-the-site/content-organization/#quotes">Quote</a> from <a href="{{ .Get "src" }}">{{ .Get "text" }}</a>
 </strong>
-	
+
+{{ else if (.Get "work") }}
+<strong>
+	<a href="/about-the-site/content-organization/#quotes">Quote</a> from <a href="{{ .Get "workurl" }}"><i>{{ .Get "work" }}</i></a> by <a href="{{ .Get "authorurl" }}">{{ .Get "author" }}</a>
+</strong>
+
 {{ else }}
 <strong>
 	<a href="/about-the-site/content-organization/#quotes">Quote</a>

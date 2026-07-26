@@ -3,7 +3,7 @@ date: 2026-04-25T19:00:00
 domain: —pb-d-ryan-reeves=l
 title: "Who was Charlemagne? (src: Ryan Reeves)"
 stags: 
-    - Charlemange
+    - Charlemagne
     - Carolingian Empire
     - Carolingian Renaissance
 ptags: 
@@ -14,10 +14,9 @@ category: CrossTalk Bible Study
 layout: single-page
 ---
 
-Continuing and building upon the vison of his father and grandfather, Charles "the great" or Charlemange, was highly influential in European history. Not only were his military conquests significant, expanding the Frankish Carolingian Empire even beyond the extensive land holdings his ancestors had, but Charlemange also took an interest in both the culture and the Church. He funded and promoted education, drawing leading 
-intellectuals to his court, in an effort to preserve the Roman way of life--the *Romanitas*. He was also involved in enforcing and regulating the doctrines of the Catholic Church, promoting the Nicene point of view through government. 
+Continuing and building upon the vision of his father and grandfather, Charles "the great" or Charlemagne, was highly influential in European history. Not only were his military conquests significant, expanding the Frankish Carolingian Empire even beyond the extensive land holdings his ancestors had, but Charlemagne also took an interest in both the culture and the Church. He funded and promoted education, drawing leading intellectuals to his court, in an effort to preserve the Roman way of life--the *Romanitas*. He was also involved in enforcing and regulating the doctrines of the Catholic Church, promoting the Nicene point of view through government. 
 
-The Carolingian Renaissance was a time of cultural explosion. During his reign, Charlemange unified an entire empire through his military expansion, administrative reforms, sponsoring of intellectuals, and Church reforms. Yet within two generations, the great empire that Charlemange had worked to build was divided, and the title of the Holy Roman Empire eventually came to be dominated and taken by Germany, with Otto the Great. 
+The Carolingian Renaissance was a time of cultural explosion. During his reign, Charlemagne unified an entire empire through his military expansion, administrative reforms, sponsoring of intellectuals, and Church reforms. Yet within two generations, the great empire that Charlemagne had worked to build was divided, and the title of the Holy Roman Empire eventually came to be dominated and taken by Germany, with Otto the Great. 
 
 <!--more-->
 
@@ -497,7 +496,7 @@ All of this is important because in it we see Charlemagne taking steps to develo
 
 {{< properties
 
-stags="Church history > Developments are more historical than theological | Believers > Should we be troubled by un-Christlike actions of people indentifying as "Christian"? | Bible > Ought to be the ultimate authority for believers | Church > Each Church is directly accountable to God, not human hierarchy" 
+stags="Church history > Developments are more historical than theological | Believers > Should we be troubled by un-Christlike actions of people identifying as “Christian”? | Bible > Ought to be the ultimate authority for believers | Church > Each Church is directly accountable to God, not human hierarchy" 
 
 >}}
 
