@@ -3,8 +3,8 @@ date: 2026-05-16T19:00:00
 domain: —pb-d-ryan-reeves=l
 title: "Great Schism (1054) (src: Ryan Reeves)"
 stags: 
-    - Church history 
     - Church history > The Great Schism
+    - Church history > Orthodox Church
 ptags: 
 
 weight: 120
@@ -102,7 +102,7 @@ The main answer is the [Schism of 1054](https://en.wikipedia.org/wiki/East%E2%80
 
 {{< properties
 
-stags="Apologetics"
+stags="Apologetics > Knowing our beliefs thoroughly helps us correctly defend them | Faith > Christians should test their beliefs, rather than holding unexamined ones"
 
 >}}
 
@@ -142,7 +142,7 @@ I would argue that the more your individual beliefs place you "outside of" the s
 
 {{< properties
 
-stags=""
+stags="Human beings > Are inherently biased toward the culture and beliefs they were raised with | Faith > Christians should test their beliefs, rather than holding unexamined ones | Church history > Forms and frequency of Christian belief are dependent upon geographical area"
 
 >}}
 
@@ -175,11 +175,7 @@ I should be clear that the vast majority of what we are discussing is at a level
 
 The point of all this is that we should hold the beliefs we grew up with---the views of our culture and social circles---at more than arms length, and test absolutely *all* of our inherited beliefs against the Bible, immediately throwing out anything that does not pass, no matter how much doing so alienates everyone else around us (cf. Matthew 10:34-36). We should strive to think upon the uncomfortable things gone over here, and treat ourselves and our religious groups as unavoidably biased, because truly we are and they are---no two ways about it. Only by staring this bias in the face (rather than trying to ignore it and pretend it does not exist) can we accept that we need to take active steps to sandbag against it to avoid falling prey to it.
 
-If you are ever tempted to doubt the validity of all this, remember that frequency of religious belief would not be so strongly associated with geographic area if there was nothing to what we are putting forward here. In fact, more than just the current asymmetric geographic distribution of Eastern Orthodox believers, we can also consider the massive divide between East and West that is the focus of this wider lesson about the Great Schism of 1054. All one needs to do is consider what we will be going over here with an open mind, and you will clearly see the biases of both sides, as well as the individuals belonging to them. And if *they* were not immune to such things (and in fact, very far from it), what makes us think *we* are?
-
-<!-- slide-break -->
-
-#### Further discussion {#further-discussion}
+If you are ever tempted to doubt the validity of all this, remember that frequency of religious belief would not be so strongly associated with geographic area if there was nothing to what we are putting forward here. In fact, more than just the current asymmetric geographic distribution of Eastern Orthodox believers, we can also consider the massive divide between East and West that is the focus of this wider lesson about the Great Schism of 1054. All one needs to do is consider what we will be going over here with an open mind, and you will clearly see the biases of both sides, as well as the individuals belonging to them. And if *they* were not immune to such things (and in fact, very far from it), what makes us think *we* are? 
 
 <!-- slide-break -->
 
@@ -240,7 +236,7 @@ There are a number of reasons that can help explain why this schism ultimately o
 
 {{< properties
 
-stags="Church organization | Church organization > Divisions"
+stags="Church organization | Church organization > Divisions | Church > Jesus is the head of the Church"
 
 >}}
 
@@ -343,7 +339,7 @@ When Otto was crowned Holy Roman Emperor, in some senses the title took on a new
 
 So at any rate, with the crowning of Otto and the establishment of the Ottonian dynasty, the West became further organized around its own power structures that were independent from the East. Otto's descendant [Henry II](https://en.wikipedia.org/wiki/Henry_II,_Holy_Roman_Emperor) (not to be confused with [Henry II of England](https://en.wikipedia.org/wiki/Henry_II_of_England), who was a English rather than German king) appointed [Pope Leo IX](https://en.wikipedia.org/wiki/Pope_Leo_IX) to the papacy. It is this man who was pope during the Great Schism. We'll talk more about him later.
 
-You can see in this that separation between church and state was rather nonexistent. Church authority and government authority may have been separate in theme or in terms of their areas of primary influence, but they were far from unrelated to one another. And so it was that the tension present between the government of the West and the government of the East (visible, for example, in the Holy Roman Empire seeking to act separately from the Emperor of the East) also came to permeate the ecclesiological dimension as well.
+You can see in this that separation between church and state was rather nonexistent. Church authority and government authority may have been separate in theme or in terms of their areas of primary influence, but they were far from unrelated to one another. And so it was that the tension present between the government of the West and the government of the East (visible, for example, in the Holy Roman Empire seeking to act separately from the Emperor of the East) also came to permeate the ecclesiological dimension as well. 
 
 <!-- slide-break -->
 
@@ -432,11 +428,11 @@ As we shall see, disagreements on the surface might have been about various theo
 
 {{< properties
 
-stags="Church history > Developments are often more historical than theological"
+stags="Church history > Developments are often more historical than theological | Church organization > Divisions"
 
 >}}
 
-If we were to summarize the main takeaway from everything we went through here, it would probably go something like "East and West disagreed about how to treat the authority of the pope (i.e., the bishop/patriarch of Rome) relative to the authority of bishops/patriarchs of other regions like Alexandria, Antioch, Constantinople, and so on."
+If we were to summarize the main takeaway from everything we went through here, it would probably go something like "East and West disagreed about how to treat the authority of the pope (i.e., the bishop/patriarch of Rome) relative to the authority of bishops/patriarchs of other regions like Alexandria, Antioch, Constantinople, and so on." 
 
 I hope it is obvious how this entire thing deals with a subject (namely, the relative authority of regional bishops/patriarchs) that is simply not ever relevant for a non-denominational form of Christianity that does not even have regional bishops/patriarchs to begin with.
 
@@ -454,10 +450,6 @@ Oftentimes, it seems to me like a proper biblical understanding would have made 
 One might go on. The point is that some of the controversies and disputes we may read about in the history of the church visible may not even apply to us, depending on our individual theological beliefs. The matter of high church authority here is probably very nearly the top of the list of famous controversies in the historical church that in my view have little to do with how *sola scriptura* evangelical Protestants ought to live out their Christianity.
 
 This does not make it useless to study, but it does mean that we must view what we study here with the correct perspective: *historical* rather than *theological*, as I've argued for elsewhere.
-
-<!-- slide-break -->
-
-#### Further discussion {#further-discussion}
 
 <!-- slide-break -->
 
@@ -529,6 +521,12 @@ But as we shall examine next, once circumstances involving specific personalitie
 
 ##### The problem is not the problem: how deeper conflicts often come to express themselves in seemingly unrelated circumstances
 
+{{< properties
+
+stags="History > Removing events from context makes it much harder to trace lines of cause and effect"
+
+>}}
+
 Context is critically important to understanding why at times it can seem like the things that ultimately spark major historical conflicts seem... well, not to merit such drama all on their own.
 
 An analogy might help. Imagine a couple whose marriage is crumbling. When one person explodes at the other regarding slightly burnt toast, that is probably not the real root cause of their marital tension. But taken in isolation, it may certainly seem like that is "the reason". Not knowing about what else is going on in the relationship might make it hard to understand how something so seemingly inconsequential could lead to a complete meltdown.
@@ -536,10 +534,6 @@ An analogy might help. Imagine a couple whose marriage is crumbling. When one pe
 So too with political and theological disputes. Stripped of their contexts, the extreme reactions to disagreements that are objectively not that major may seem utterly disproportionate, and therefore difficult to understand. In these sorts of cases where one is dealing with the "straw that broke the camel's back" (to use an idiom), analyzing the wider circumstances becomes the key to understanding the real reasons why small matters can lead to big consequences.
 
 It is my opinion that the Great Schism of 1054 ought to be studied in light of all of this. If you try to look at the events in the mid 11th century that on paper look like "the reason" for the schism, you will likely scratch your head at how things played out. But when you have the necessary context (including an understanding of the theological disputes we went over in this section, and the different conceptions of church authority championed therein), suddenly it makes a lot more sense why things played out how they did.
-
-<!-- slide-break -->
-
-#### Further discussion {#further-discussion}
 
 <!-- slide-break -->
 
@@ -615,6 +609,21 @@ These excommunications that started out as personal matters of ego and wounded p
 ## Review Questions {#review-questions}
 
 {{< quizdown >}}
+
+# Which of these statements are true?
+
+Check all that apply.
+
+1. [ ] Globally, Protestants greatly outnumber the members of the Catholic and Orthodox churches. 
+1. [x] The Orthodox Church is the second largest Church that self-identifies as one united body, with the Catholic Church being the first.
+1. [ ] Frequency of Christian belief is largely unaffected by geographic area. 
+1. [x] Regardless of religious or group affiliation, human beings are inherently biased to the beliefs they were raised with. 
+
+# True or False: Christians should strive to thoroughly test their beliefs against the Bible, as opposed to holding unexamined ones.
+
+1. [x] True
+1. [ ] False
+
 
 {{< /quizdown >}}
 

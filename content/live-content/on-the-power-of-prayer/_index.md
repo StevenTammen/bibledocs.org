@@ -3,6 +3,7 @@ date: 2026-07-18T16:00:00
 domain: —pb-s
 title: "On the power of prayer"
 stags: 
+    - Prayer
 ptags: 
 
 category: Ichthys Bible Study
@@ -10,7 +11,9 @@ contentlevel: intermediate
 layout: single-page
 ---
 
-TODO: Summary
+In this lesson we discuss the topic of prayer. What does James 5:16 mean when it mentions "the prayer of a righteous person"? How should we pray for concerns that weigh very heavily on our hearts, such as the salvation and spiritual growth of our children? Does God arbitrarily answer the prayers of some believers more than others?  
+
+All believers have direct access to God through prayer, and we are directed in scripture to pray boldly and persistently. As we mature spiritually, we come to better understand God's character and Will, and our prayers will become more effective since we are more likely to pray in accordance with God's Will. 
 
 <!--more-->
 
@@ -24,7 +27,9 @@ TODO: Summary
 
 <!-- summary -->
 
-TODO: Summary
+In this lesson we discuss the topic of prayer. What does James 5:16 mean when it mentions "the prayer of a righteous person"? How should we pray for concerns that weigh very heavily on our hearts, such as the salvation and spiritual growth of our children? Does God arbitrarily answer the prayers of some believers more than others?  
+
+All believers have direct access to God through prayer, and we are directed in scripture to pray boldly and persistently. As we mature spiritually, we come to better understand God's character and Will, and our prayers will become more effective since we are more likely to pray in accordance with God's Will. 
 
 <!-- summary -->
 
@@ -35,6 +40,12 @@ TODO: Summary
 <!-- slide-break -->
 
 ### What does "the prayer of a righteous man avails much" mean?
+
+{{< properties
+
+stags="Prayer > Should be offered from pure motives | Prayer > “Of a righteous person is powerful and effective” | Prayer > Mature believers are more likely to pray in alignment with God's Will | Prayer > Access to the throne room of God was purchased with the blood of Christ" 
+
+>}}
 
 Our starting verse is this one:
 
@@ -70,9 +81,21 @@ The Lord detests the sacrifice of the wicked,
 
 ### As we grow closer to the Lord, does the power of our prayers somehow change?
 
+{{< properties
+
+stags="Prayer > Mature believers are more likely to pray in alignment with God's Will"
+
+>}}
+
 <!-- slide-break -->
 
 ### Are there any specific steps we can take to make sure our prayers are "more heard"?
+
+{{< properties
+
+stags="Prayer > Persistence of | Prayer > God may answer our prayers differently than we expect, but always for our good"
+
+>}}
 
 For example, if we have something we care very deeply about---like the salvation and well-being of our children---can we "turn up the power" somehow, for these areas of special care?
 
@@ -123,6 +146,12 @@ We also see boldness in prayer taught in Luke 11:
 <!-- slide-break -->
 
 ### What kind of prayers should we pray for our children, given that God does not override free will?
+
+{{< properties
+
+stags="Prayer > For the repentance of others | Prayer > For our children"
+
+>}}
 
 Even if we want what is unquestionably best for our children, we ought not necessarily get mad at God if He doesn't override our children's free will (since He will never force things). So how ought we pray for them then?
 
@@ -235,6 +264,34 @@ Also consider the resentment between Joseph and his brothers, which arose (at le
 ## Review Questions {#review-questions}
 
 {{< quizdown >}}
+
+# True or False: Through the sacrifice of Christ, all believers have direct access to God through prayer. 
+
+1. [x] True
+1. [ ] False
+
+# True or False: Mature believers are more likely to pray in accordance with God's Will. 
+
+1. [x] True
+1. [ ] False
+
+# Which of these statements are true?
+
+1. [x] Sincerity and pureness of heart are important when we pray
+1. [x] As we grow spiritually, we can learn to pray more in accordance with God's Will 
+1. [x] The Bible encourages us to pray boldly
+
+# True or False: Persistance in prayer is not encouraged in the Bible. 
+
+1. [ ] True
+1. [x] False
+
+# Which of these statements are false? 
+
+1. [ ] We should pray for the repentance of our children when they stray from the Lord
+1. [x] God might override someone's free will in answer to our prayers 
+1. [ ] We should not pray for God to save unbelievers despite their unbelief, rather that He would lead them to faith in Christ
+1. [ ] Rather than praying for an absence of difficult things in our children's lives, we should pray for their spiritual growth and comfort in their trials
 
 {{< /quizdown >}}
 

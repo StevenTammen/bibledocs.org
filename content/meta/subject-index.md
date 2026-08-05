@@ -304,15 +304,6 @@ page-title="The complete household of God: The uniqueness of Israel (src. Ichthy
 {{% subject-index-link
 content-type="Longer Topical"
 content-type-slugified="longer-topical-studies"
-link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/great-schism-1054/#have-you-ever-considered-how-outnumbered-protestants-are-and-non-denominational-evangelical-protestants-even-more-so"
-study-title="Early & Medieval History (src: Ryan Reeves)"
-page-title="Great Schism (1054) (src: Ryan Reeves)"
-header-title="Have you ever considered how outnumbered Protestants are? And non-denominational evangelical Protestants even more so?"
-%}}
-
-{{% subject-index-link
-content-type="Longer Topical"
-content-type-slugified="longer-topical-studies"
 link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/gods-infinite-nature/#could-god-create-a-rock-so-big-even-he-couldnt-lift-it"
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="God's Infinite Nature"
@@ -328,6 +319,17 @@ link="/questions-and-answers/reader-correspondence/on-the-possibility-of-multipl
 study-title="On the Possibility of Multiple Rahabs"
 page-title="Dealing With the Main Arguments Against a Single Rahab Interpretation"
 header-title="An approach to answering this question: refuting an argument representative of the the opposing position point-by-point"
+%}}
+
+### Apologetics > Knowing our beliefs thoroughly helps us correctly defend them {#apologetics-knowing-our-beliefs-thoroughly-helps-us-correctly-defend-them}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/great-schism-1054/#have-you-ever-considered-how-outnumbered-protestants-are-and-non-denominational-evangelical-protestants-even-more-so"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Great Schism (1054) (src: Ryan Reeves)"
+header-title="Have you ever considered how outnumbered Protestants are? And non-denominational evangelical Protestants even more so?"
 %}}
 
 ## Application {#application}
@@ -1307,15 +1309,6 @@ page-title="Early Church and Trinity: Father and Son (src: Ryan Reeves)"
 
 %}}
 
-{{% subject-index-link
-content-type="Longer Topical"
-content-type-slugified="longer-topical-studies"
-link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/great-schism-1054/"
-study-title="Early & Medieval History (src: Ryan Reeves)"
-page-title="Great Schism (1054) (src: Ryan Reeves)"
-
-%}}
-
 ### Church history > Arius {#church-history-arius}
 
 {{% subject-index-link
@@ -1424,6 +1417,17 @@ page-title="Who was Charlemagne? (src: Ryan Reeves)"
 header-title="Are developments in the Church visible more history or theology?"
 %}}
 
+### Church history > Forms and frequency of Christian belief are dependent upon geographical area {#church-history-forms-and-frequency-of-christian-belief-are-dependent-upon-geographical-area}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/great-schism-1054/#according-to-the-statistics-frequency-of-christian-belief-is-strongly-associated-with-geographic-area-this-should-lead-us-to-thoroughly-question-and-examine-our-own-beliefs"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Great Schism (1054) (src: Ryan Reeves)"
+header-title="According to the statistics, frequency of Christian belief is strongly associated with geographic area. This should lead us to thoroughly question and examine our own beliefs"
+%}}
+
 ### Church history > Lucian of Antioch {#church-history-lucian-of-antioch}
 
 {{% subject-index-link
@@ -1433,6 +1437,17 @@ link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/
 study-title="Early & Medieval History (src: Ryan Reeves)"
 page-title="Arius and Nicea (src: Ryan Reeves)"
 header-title="Background to the controversy: Trinitarian debates generally, and the pre-Arius extreme Origenist teachings that directly shaped Arius's thinking"
+%}}
+
+### Church history > Orthodox Church {#church-history-orthodox-church}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/great-schism-1054/"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Great Schism (1054) (src: Ryan Reeves)"
+
 %}}
 
 ### Church history > The Great Schism {#church-history-the-great-schism}
@@ -1943,6 +1958,26 @@ link="/discussion/central-baptist-warner-robins/longer-topical-studies/how-to-di
 study-title="How to discern the voice of God (src: Central Baptist - Warner Robins)"
 page-title="What we believe will always become a reality… if and only if we target our faith properly"
 
+%}}
+
+### Faith > Christians should test their beliefs, rather than holding unexamined ones {#faith-christians-should-test-their-beliefs-rather-than-holding-unexamined-ones}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/great-schism-1054/#according-to-the-statistics-frequency-of-christian-belief-is-strongly-associated-with-geographic-area-this-should-lead-us-to-thoroughly-question-and-examine-our-own-beliefs"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Great Schism (1054) (src: Ryan Reeves)"
+header-title="According to the statistics, frequency of Christian belief is strongly associated with geographic area. This should lead us to thoroughly question and examine our own beliefs"
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/great-schism-1054/#have-you-ever-considered-how-outnumbered-protestants-are-and-non-denominational-evangelical-protestants-even-more-so"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Great Schism (1054) (src: Ryan Reeves)"
+header-title="Have you ever considered how outnumbered Protestants are? And non-denominational evangelical Protestants even more so?"
 %}}
 
 ### Faith > Drawing inspiration from believers in the Bible {#faith-drawing-inspiration-from-believers-in-the-bible}
@@ -3391,6 +3426,17 @@ link="/shorter-topical-studies/some-miscellaneous-teachings-concerning-animals/#
 study-title="Some miscellaneous teachings concerning animals"
 page-title="Some miscellaneous teachings concerning animals"
 header-title="The relationship between breath and spirit holds for animals, just like humans"
+%}}
+
+### Human beings > Are inherently biased toward the culture and beliefs they were raised with {#human-beings-are-inherently-biased-toward-the-culture-and-beliefs-they-were-raised-with}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/great-schism-1054/#according-to-the-statistics-frequency-of-christian-belief-is-strongly-associated-with-geographic-area-this-should-lead-us-to-thoroughly-question-and-examine-our-own-beliefs"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Great Schism (1054) (src: Ryan Reeves)"
+header-title="According to the statistics, frequency of Christian belief is strongly associated with geographic area. This should lead us to thoroughly question and examine our own beliefs"
 %}}
 
 ### Human beings > Are not trichotomous (we do not *have* souls, but *are* souls) {#human-beings-are-not-trichotomous-we-do-not-have-souls-but-are-souls}
@@ -5169,6 +5215,15 @@ header-title="The world will be twisted and broken until the Millennium. Until t
 %}}
 
 ## Prayer {#prayer}
+
+{{% subject-index-link
+content-type="Live Content"
+content-type-slugified="live-content"
+link="/live-content/on-the-power-of-prayer/"
+study-title="On the power of prayer"
+page-title="On the power of prayer"
+
+%}}
 
 ### Prayer > Access to the throne room of God was purchased with the blood of Christ {#prayer-access-to-the-throne-room-of-god-was-purchased-with-the-blood-of-christ}
 
