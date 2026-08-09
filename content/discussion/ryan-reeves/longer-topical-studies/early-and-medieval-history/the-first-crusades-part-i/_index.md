@@ -305,8 +305,8 @@ Rather than caring about the physical, we should live out our daily lives wherev
 
 srcyoutubevideoid="7bGxMcSHOmI"
 srctitle="The First Crusades (Part I)"
-srcstart=""
-srcend=""
+srcstart="388"
+srcend="574"
 
 >}}
 
@@ -530,8 +530,8 @@ Some things I think should also be considered when examining these doctrines cri
 
 srcyoutubevideoid="7bGxMcSHOmI"
 srctitle="The First Crusades (Part I)"
-srcstart=""
-srcend=""
+srcstart="575"
+srcend="876"
 
 >}}
 
@@ -556,9 +556,35 @@ End:
 
 #### Summary points {#summary-points}
 
+Out in in the East, as various Muslim empires rose and fell, there arose a division between [Sunni Islam](https://en.wikipedia.org/wiki/Sunni_Islam) and [Shia Islam](https://en.wikipedia.org/wiki/Shia_Islam). This meant that to some extent there was not as much unity on the part of Muslims as their might have otherwise been, and this proved fortunate to the Byzantine Empire, in that they faced relatively smaller and more fragmented armies, which let them resist more effectively.
+
+Nonetheless, the Byzantine world did at times lose land to the Muslims (or rather, the borders went back and forth [over hundreds of years of conflicts](https://en.wikipedia.org/wiki/Arab%E2%80%93Byzantine_wars))---at one point to the extent that [Constantinople itself was at risk](https://en.wikipedia.org/wiki/Arab%E2%80%93Byzantine_wars#Arab_attacks_on_Anatolia_and_sieges_of_Constantinople).
+
+But by the early part of the 11th century, the Byzantine Empire found themselves having restored and even extended many of their eastern borders.
+
 <!-- slide-break -->
 
-#### Follow-on topics
+But then the [Seljuks](https://en.wikipedia.org/wiki/Seljuk_Empire) came on the scene (triggering the [Byzantine–Seljuk wars](https://en.wikipedia.org/wiki/Byzantine%E2%80%93Seljuk_wars)), and things started going more poorly for the Byzantine Empire. Now, the Seljuks were an interesting group. They actually came from nomadic Turkic tribes from the steppes of Central Asia who moved south and converted to Islam. This means the Seljuks were *not* Arab, and that is important in understanding their society and culture, in that there were definite differences compared to the Arab Caliphates (like the [Rashidun Caliphate](https://en.wikipedia.org/wiki/Rashidun_Caliphate), [Umayyad Caliphate](https://en.wikipedia.org/wiki/Umayyad_Caliphate), and [Abbasid Caliphate](https://en.wikipedia.org/wiki/Abbasid_Caliphate), for example).
+
+At any rate, a crushing strategic defeat of the Byzantine Empire by the Seljuk Empire in the 1071 [Battle of Manzikert](https://en.wikipedia.org/wiki/Battle_of_Manzikert) opened to the door to the Turkification of [Anatolia](https://en.wikipedia.org/wiki/Anatolia), and a crumbling of the Byzantine Empire's ability to maintain its borders. The eastern emperor at the time ([Romanos IV Diogenes](https://en.wikipedia.org/wiki/Romanos_IV_Diogenes)) was even captured alive by the Seljuks.
+
+<!-- slide-break -->
+
+Of course, it was not just conflicts out east that set the backdrop for the Crusades. The Great Schism between the Eastern Church and Western Church (which we discussed previously [here](https://www.bibledocs.org/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/great-schism-1054/)) happened in 1054. At the time the First Crusade rolled around in the 1090s, the schism was still only several decades old, and this close proximity meant that there was at that point a proportionally much higher percentage of people who though that reunification was inevitable, and just a matter of time. That sentiment clearly colored relations between East and West. In fact, arguably, you can see this attitude in action in [Alexios I](https://en.wikipedia.org/wiki/Alexios_I_Komnenos) sending his embassy to [Pope Urban II](https://en.wikipedia.org/wiki/Pope_Urban_II) to request aid against the Seljuks. Basically, why would he bother reaching out to the West if there was not at least some hope of reconciliation? (I suppose one could argue that desperate times call for desperate measures).
+
+<!-- slide-break -->
+
+Whatever the case, this brings us to Pope Urban II's speech at Clermont that we already analyzed extensively in a previous section ([§How should we characterize the Crusades, at a high level?](#how-should-we-characterize-the-crusades-at-a-high-level)). (Relative to Dr. Reeves sequence in the video, I covered Clermont a bit earlier, since I thought it is quite important to bring up when going over potential Christian motivations for the First Crusade). Recapping some of the main points:
+
+- On November 27, 1095 Pope Urban gave a speech at the [Council of Clermont](https://en.wikipedia.org/wiki/Council_of_Clermont) (which was a church council that was initially about more or less unrelated things) that kicked off the First Crusade. Many scholars think that Alexios I's appeal is what ultimately led to this speech.
+- All the main historical accounts of Clermont we have were written down after the First Crusade itself, so it is hard to separate myth from fact here.
+- Pope Urban II demonizes the Seljuks in this speech, painting them as bloodthirsty savages persecuting Christians left and right.
+
+<!-- slide-break -->
+
+The initial papal call to arms (which was perhaps intended to recruit a few thousand people to go help the Byzantines in their conflict with the Seljuks) was quickly supplemented by lay preachers who sort of took the ball and ran with it. We just previously talked about how the people of the time self-defined crusades ([§What exactly was a crusade? Some combination of plenary indulgence, pilgrimage, and holy war](#what-exactly-was-a-crusade-some-combination-of-plenary-indulgence-pilgrimage-and-holy-war)), and many of these views were shaped by the popular movement that took on something of a life of its own.
+
+Whatever people's individual reasons (since the reasons did no doubt vary to at least some degree across individuals), the overall marketing proved effective, for in the end, more than 100,000 people ended up embarking on the First Crusade. Even today a mobilization of 100,000 people is a lot, but how much more so back then when populations were much smaller on the whole!
 
 <!-- slide-break -->
 
@@ -578,8 +604,8 @@ End:
 
 srcyoutubevideoid="7bGxMcSHOmI"
 srctitle="The First Crusades (Part I)"
-srcstart=""
-srcend=""
+srcstart="876"
+srcend="973"
 
 >}}
 
@@ -605,9 +631,80 @@ End:
 
 #### Summary points {#summary-points}
 
+The first mobilization of the First Crusade somewhat surprisingly did not actually involve a sortie by an army of professional soldiers. Instead it was a rather rag-tag group of peasants that first set out East. This band of more-or-less untrained people (often called the [People's Crusade](https://en.wikipedia.org/wiki/People%27s_Crusade)) set out in Spring 1096, whereas the professional armies (often called the Princes' Crusade) did not set out until Late Summer 1096.
+
+Now, if the professional Byzantine armies fell to the military might of the Seljuks, how much more so the People's Crusade. A bunch of mostly untrained peasants attacking the well-trained Seljuk army calls to mind a quote from the ancient Chinese text [Mozi](https://en.wikipedia.org/wiki/Mozi): "To refute my principle with one's own principle is like throwing an egg against a boulder. The eggs in the world would be exhausted without doing any harm to the boulder." (The wider idiom this quote spawned---[以卵投石](https://en.wiktionary.org/wiki/%E4%BB%A5%E5%8D%B5%E6%8A%95%E7%9F%B3) (pinyin: *yǐluǎntóushí*), literally, "throwing an egg against a boulder"---essentially means "to overestimate one's capabilities or to attack a stronger opponent as the weaker side, which is sure to end in failure"). Here, the Seljuk army is the boulder, and the peasant army is the egg. The clash between the two went exactly as one would expect: in the battle of [Battle of Civetot](https://en.wikipedia.org/wiki/Battle_of_Civetot) most of the individuals making up the People's Crusade got completely slaughtered. Calling it a battle is even giving them more credit than one probably should, particularly since the crusaders weren't even properly unified at this point in time (since they splintered across ethnic lines and started squabbling basically as soon as they actually reached Anatolia...).
+
+<!-- slide-break -->
+
+This entire affair might seem eminently irrational... and it really was, as hindsight clearly shows. That then leaves us as students of history with the problem of figuring out what exactly was going through these people's heads at the time. What would cause them to think that running on ahead of the professional armies was even remotely a good idea?
+
+Were they just crazy? If what you mean by that is diagnosable mental illness, then probably not. But if you mean brainwashed by delusional end-of-the-world drivel, then yeah, at least some of them were certifiably crazy.
+
+Humans seem to have a morbid fascination with the end of the world, and it has the unfortunate tendency to induce utterly nonsensical behavior in "true believers". This is true in modern times (cf. the [mass suicide at Jonestown in 1978](https://en.wikipedia.org/wiki/Jonestown#Mass_murder%E2%80%93suicide), the tragic true origin of the idiom "drink the Kool-Aid"), and it has also been true all throughout history, including here with the People's Crusade.
+
+As best we can tell, there was a fervent [Apocalyptic](https://en.wikipedia.org/wiki/Apocalypticism)/[Millenarian](https://en.wikipedia.org/wiki/Millenarianism) sentiment simmering during this period, stoked by some of the leaders of the People's Crusade like [Peter the Hermit](https://en.wikipedia.org/wiki/Peter_the_Hermit) (who we discussed before), as well as [Volkmar](https://en.wikipedia.org/wiki/Volkmar_%28crusader%29) and [Emicho](https://en.wikipedia.org/wiki/Emicho_%28crusader%29). The thought seems to have been that if they successfully marched on Jerusalem, they could bring in the second coming of Christ and begin the end times struggle against Antichrist, or something to that effect.
+
+<!-- slide-break -->
+
+So how did this sort of sentiment find a foothold in the minds of the common people? Well, severe droughts, famines, pestilence, and economic collapse across Europe in 1095 created an undeniably apocalyptic mood:
+
+- 1095 began with a brutally severe winter. There were massive snowstorms that killed multitudes of livestock and people. Rivers across Europe froze over, and subsequent thaws caused floods that at times swept away critical bridges.
+- Following the severe winter, Europe experienced an intense, suffocating summer heatwave. The extreme temperatures and resulting droughts directly killed large numbers of people.
+- At least partially as a result of the extreme weather patterns, there were successive harvest failures in 1095 that left grain reserves empty, inflating food prices and starving rural and urban populations.
+- Driven by the consecutive blows of freezing winter floods, severe drought, and failing crops, a widespread pestilence and famine swept through Europe in 1095.
+  - At least some of the pestilence was a horrific gangrenous illness known as [ergotism](https://en.wikipedia.org/wiki/Ergotism), which rotted limbs and caused agonizing deaths.
+- Widespread economic despair, hunger, and death eroded normal societal bounds, making the common folk desperate for divine intervention.
+
+In the midst of all this, there was a massive meteor shower in April 1095. The awe-inspiring celestial phenomena of falling stars was seen as a divine sign by some (cf. the statements made by [Gilbert of Lisieux](https://en.wikipedia.org/wiki/Gilbert_de_Magminot)).
+
+All these things together are hypothesized to be the reason why people at the time were willing to seriously entertain thoughts that this really might be the end.
+
+<!-- slide-break -->
+
+{{% note %}}
+
+The apocalyptic spirit was not limited to *just* the People's Crusade (although it was certainly well-represented there). How do we know this? Well, even after the slaughter of the People's Crusade in October 1096 at the Battle of Civetot, some celestial phenomena were still taken by the crusaders as having spiritual import. For example, around the time of the [Siege of Antioch](https://en.wikipedia.org/wiki/Siege_of_Antioch):
+
+- In early October 1097, just before the crusaders' Siege of Antioch began, a bright comet with a tail shaped like a sword was seen in the sky. The crusaders viewed this celestial event as a divine omen and a sign of God's support.
+- In the midst of the siege, on December 30, 1097, a strong earthquake struck. Then the very next day on January 1, 1098, there was a striking red sky in the north (likely a low-latitude sighting of the [aurora borealis](https://en.wikipedia.org/wiki/Aurora)). These two things---happening in quick succession, at that---were also taken to be divine signs.
+- When the crusaders had finally successfully taken the city only to themselves get besieged by the Muslim relieving army led by [Kerbogha](https://en.wikipedia.org/wiki/Kerbogha) (a series of events we will go over in more detail [below]()), the trapped and starving crusaders viewed the blazing meteor streaking through the atmosphere on June 14, 1098 as favorable sign from God, boosting morale ahead of an engagement with the army surrounding them.
+
+One might go on.
+
+{{% /note %}}
+
+<!-- slide-break -->
+
+Unfortunately, the fanaticism that took over here caused much greater damage than just the deaths of the brainwashed themselves. Put simply, the People's Crusade was a walking catastrophe, looting and pillaging wherever it went. Even worse than that, some of the leaders like [Volkmar](https://en.wikipedia.org/wiki/Volkmar_%28crusader%29) and [Emicho](https://en.wikipedia.org/wiki/Emicho_%28crusader%29) stirred up the mob to massacre Jews, in organized pogroms (cf. the [Rhineland Massacres](https://en.wikipedia.org/wiki/Rhineland_massacres)).
+
+The same sort of sentiment is thought to underpin some of the [horrific slaughter](https://en.wikipedia.org/wiki/Massacre_of_Jerusalem_(1099)) that followed the later capture of Jerusalem in 1099. Again, no more People's Crusade at this point, but that doesn't mean that all the ideas completely died with them.
+
+I should note that how much of the violence and brutality was definitively driven by runaway apocalyptic sentiment is still something of a debate in the academy. The theory goes that the crusaders thought that both Jews and Muslims had to be destroyed or converted for the Earth to reach the end of days. The problem is, there are also other plausible explanations for the violence too. For example, the Medieval mindset commonly justified antisemitism (up to and including outright violence) by arguing that the Jews were the ones who crucified Jesus.
+
+I should be clear that neither one of these things is any sort of excuse for slaughtering innocents. The point is not that the crusaders doing this was at all OK, but that figuring out *why* they did it is actually not as simple as one might think.
+
 <!-- slide-break -->
 
 #### Follow-on topics
+
+##### Theology saves lives. Literally
+
+[A previous study we had](https://www.bibledocs.org/discussion/ichthys/shorter-topical-studies/read-your-bible/ignorance-of-the-bible-equals-recipe-for-a-cult/) discussed how reading the Bible protects us from cult influence. In my opinion, what we have gone over here serves as an excellent historical example of how good theology can literally save lives.
+
+It reminds me of this passage from Ephesians 4:
+
+{{% scripture p="Ephesians 4:11-16 | NIV11" %}}
+
+**11** So Christ himself gave the apostles, the prophets, the evangelists, the pastors and teachers, **12** to equip his people for works of service, so that the body of Christ may be built up **13** until we all reach unity in the faith and in the knowledge of the Son of God and become mature, attaining to the whole measure of the fullness of Christ.
+
+**14** ***Then we will no longer be infants, tossed back and forth by the waves, and blown here and there by every wind of teaching and by the cunning and craftiness of people in their deceitful scheming***. **15** Instead, speaking the truth in love, we will grow to become in every respect the mature body of him who is the head, that is, Christ. **16** From him the whole body, joined and held together by every supporting ligament, grows and builds itself up in love, as each part does its work.
+
+{{% /scripture %}}
+
+<!-- slide-break -->
+
+Attaining spiritual maturity makes us resistant to being led astray by false teaching. Given that some of the consequences of being led astray by false teaching can be so terrifying, maybe this can help us be more motivated to pursue spiritual growth. After all, you don't want to end up like the peasants in the People's Crusade who died futile deaths that achieved nothing, right?
 
 <!-- slide-break -->
 
@@ -626,8 +723,8 @@ End:
 
 srcyoutubevideoid="7bGxMcSHOmI"
 srctitle="The First Crusades (Part I)"
-srcstart=""
-srcend=""
+srcstart="973"
+srcend="1232"
 
 >}}
 
@@ -674,8 +771,8 @@ End:
 
 srcyoutubevideoid="7bGxMcSHOmI"
 srctitle="The First Crusades (Part I)"
-srcstart=""
-srcend=""
+srcstart="1232"
+srcend="1344"
 
 >}}
 
@@ -721,8 +818,8 @@ End:
 
 srcyoutubevideoid="7bGxMcSHOmI"
 srctitle="The First Crusades (Part I)"
-srcstart=""
-srcend=""
+srcstart="1344"
+srcend="1696"
 
 >}}
 

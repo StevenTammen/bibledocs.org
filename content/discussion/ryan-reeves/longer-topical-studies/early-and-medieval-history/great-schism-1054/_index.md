@@ -13,7 +13,10 @@ category: CrossTalk Bible Study
 layout: single-page
 ---
 
-TODO: Summary
+After Constantine united the East and the West, many in the Christian world saw themselves politically as a United Empire. The church saw itself as one united entity, with the Eastern Emperor being regarded by many as the emperor over the West also. 
+Although the papacy originally submitted to Eastern political oversight without significant issue, over the course of the Early Middle Ages and into the High Middle Ages, they began to take steps toward independence, eventually crowning their own emperor over the Western half of what was formerly Constantine's world. 
+
+Although unity was ideal, in addition to having differing views on church authority, there were also language and cultural differences between the East and the West. The two sides had disagreements over theological issues such as iconoclasm and the language of the Nicene Creed. After a failed attempt at reconciliation between a Western delegation led by Humbert of Silva Candida and the Patriarch of Constantinople, Michael I Cerularius, the two sides eventually excommunicated one another. Communion was never formally restored, and after the Western crusaders sacked Constantinople, there was no going back in the relationship. This separation of the Catholic Church in the West from the church in the East, which would eventually come to be identified as the Orthodox Church, is what historians often term the Great Schism of 1054.
 
 <!--more-->
 
@@ -29,7 +32,10 @@ TODO: Summary
 
 <!-- summary -->
 
-TODO: Summary
+After Constantine united the East and the West, many in the Christian world saw themselves politically as a United Empire. The church saw itself as one united entity, with the Eastern Emperor being regarded by many as the emperor over the West also. 
+Although the papacy originally submitted to Eastern political oversight without significant issue, over the course of the Early Middle Ages and into the High Middle Ages, they began to take steps toward independence, eventually crowning their own emperor over the Western half of what was formerly Constantine's world. 
+
+Although unity was ideal, in addition to having differing views on church authority, there were also language and cultural differences between the East and the West. The two sides had disagreements over theological issues such as iconoclasm and the language of the Nicene Creed. After a failed attempt at reconciliation between a Western delegation led by Humbert of Silva Candida and the Patriarch of Constantinople, Michael I Cerularius, the two sides eventually excommunicated one another. Communion was never formally restored, and after the Western crusaders sacked Constantinople, there was no going back in the relationship. This separation of the Catholic Church in the West from the church in the East, which would eventually come to be identified as the Orthodox Church, is what historians often term the Great Schism of 1054.
 
 <!-- summary -->
 
