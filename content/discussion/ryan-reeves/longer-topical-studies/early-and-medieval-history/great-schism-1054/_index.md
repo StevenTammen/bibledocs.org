@@ -630,6 +630,21 @@ Check all that apply.
 1. [x] True
 1. [ ] False
 
+# Which of these statements are true?
+
+Check all the apply.
+
+1. [x] The *filioque* clause and iconoclasm were two issues the East and West disagreed over. 
+1. [ ] *Filioque* means "and from the Father". 
+1. [ ] The original text of the Nicene creed contained the *filioque*.
+1. [x] The East believed that a creed could only be formed or changed in the context of an ecumenical church council.
+
+# True or False: We are not responsible for defending the views or actions of Christian groups groups that may have drastically different 
+theological views from us. 
+
+1. [x] True
+1. [ ] False
+
 
 {{< /quizdown >}}
 

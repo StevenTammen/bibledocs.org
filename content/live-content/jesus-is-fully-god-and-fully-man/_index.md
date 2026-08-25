@@ -1,0 +1,100 @@
+---
+date: 2026-08-22T16:00:00
+domain: —pb-s
+title: "Jesus is fully God and fully man"
+stags: 
+ptags: 
+
+category: Ichthys Bible Study
+contentlevel: intermediate
+layout: single-page
+---
+
+TODO: Summary
+
+<!--more-->
+
+{{% section-navigation %}}
+
+## Video {#video}
+
+- [Link to recording segments on Dropbox](https://www.dropbox.com/scl/fo/9uu4dpzon273qahxfcy3a/AHUw4HJLOcrKIgUGhnITMPk?rlkey=6aq1uw258nu0976msy5ixoyop&st=bymoj5by&dl=0)
+
+## Summary {#summary}
+
+<!-- summary -->
+
+TODO: Summary
+
+<!-- summary -->
+
+{{% content %}}
+
+## Content {#content}
+
+<!-- slide-break -->
+
+Our topic for discussion:
+
+> When Mary supernaturally conceived by the power of the Holy Spirit, there was a physical human child in her womb. But Jesus has always been the divine second person of the Trinity. So how does His nature change as part of the incarnation? Did anything happen at conception, or just at birth? Does Jesus now have a human nature, a divine nature, or both?
+
+<!-- slide-break -->
+
+## Jesus existed as the eternal second person of the Trinity long before the incarnation. So only his human nature had a beginning
+
+In our past study of Theology proper, we went over the Son as the eternal second member of the Trinity. For example:
+
+- [All Members of the Trinity Are Coequal, Coeternal, and Consubstantial](https://www.youtube.com/watch?v=1m7n0vUWqMY)
+- [All Members of the Trinity Are Joint Partakers of the Same Essence](https://www.youtube.com/watch?v=LoKHW0rRxzU)
+
+Compare also:
+
+John 1:1-5
+
+Colossians 1:16-17
+
+John 8:58
+
+John 17:5
+
+Hebrews 13:8
+
+<!-- slide-break -->
+
+## Ever since Jesus was born, He has possessed two full natures: He is both fully God, and fully man
+
+At the point of the incarnation, Christ gained a human nature. This was at a definite temporal point in history:
+
+Psalm 2:7
+
+After Jesus gained a human nature, He was then both fully God and fully man. In theology, this is known as the *hypostatic union*. In Ichthys's systematic theology, you can find this discussed in these parts of [BB4A: Christology](https://ichthys.com/4A-Christo.htm):
+
+- [BB4A: Christology, §Jesus Christ is truly Divine](https://ichthys.com/4A-Christo.htm#1.__Jesus_Christ_is_truly_Divine)
+- [BB4A: Christology, §Jesus Christ is truly Human](https://ichthys.com/4A-Christo.htm#2.__Jesus_Christ_is_truly_Human)
+
+Philippians 2:6-11
+
+1 Corinthians 15:28
+
+<!-- slide-break -->
+
+## The fetus in Mary's womb did not yet have a full human nature, because the spirit is given at birth, not conception
+
+As [Ichthys](https://ichthys.com/) teaches, life begins at birth, not conception. Some links:
+
+- [SR3: The Purpose, Creation and Fall of Man, §The Human Spirit](https://ichthys.com/Fall-sr3.htm#3.%20The%20Human%20Spirit)
+- [Email: Life begins at birth](https://ichthys.com/mail-life-begins-at-birth.htm)
+- [Email: Life begins at birth](https://ichthys.com/mail-Culture-and-ChristianityIV.htm#life%20begins%20at%20birth%20not%20conception)
+
+
+{{% /content %}}
+
+## Review Questions {#review-questions}
+
+{{< quizdown >}}
+
+
+
+{{< /quizdown >}}
+
+{{% section-navigation %}}

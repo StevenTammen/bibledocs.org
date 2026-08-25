@@ -45,6 +45,8 @@ All believers have direct access to God through prayer, and we are directed in s
 
 stags="Prayer > Should be offered from pure motives | Prayer > “Of a righteous person is powerful and effective” | Prayer > Mature believers are more likely to pray in alignment with God's Will | Prayer > Access to the throne room of God was purchased with the blood of Christ" 
 
+ptags="James 5:16; 1 Peter 3:12; Proverbs 15:29; Proverbs 15:8"
+
 >}}
 
 Our starting verse is this one:
@@ -94,6 +96,8 @@ stags="Prayer > Mature believers are more likely to pray in alignment with God's
 {{< properties
 
 stags="Prayer > Persistence of | Prayer > God may answer our prayers differently than we expect, but always for our good"
+
+ptags="Luke 18:1-8; Genesis 32:24-29; Luke 11:5-8"
 
 >}}
 
@@ -150,6 +154,8 @@ We also see boldness in prayer taught in Luke 11:
 {{< properties
 
 stags="Prayer > For the repentance of others | Prayer > For our children"
+
+ptags="Job 1:5; Genesis 21:14-19; 2 Kings 4:18-37; Mark 5:21-43; John 4:46-54; 2 Samuel 18:33; Genesis 37:9-11"
 
 >}}
 

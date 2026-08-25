@@ -1417,6 +1417,17 @@ page-title="Who was Charlemagne? (src: Ryan Reeves)"
 header-title="Are developments in the Church visible more history or theology?"
 %}}
 
+### Church history > First Crusades {#church-history-first-crusades}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/the-first-crusades-part-i/"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="The First Crusades (Part I) (src: Ryan Reeves)"
+
+%}}
+
 ### Church history > Forms and frequency of Christian belief are dependent upon geographical area {#church-history-forms-and-frequency-of-christian-belief-are-dependent-upon-geographical-area}
 
 {{% subject-index-link
@@ -6017,6 +6028,15 @@ link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/
 study-title="Early & Medieval History (src: Ryan Reeves)"
 page-title="Who was Charlemagne? (src: Ryan Reeves)"
 header-title="Contrasting Christ's eternal kingship with that of normal human kings"
+%}}
+
+{{% subject-index-link
+content-type="Live Content"
+content-type-slugified="live-content"
+link="/live-content/focusing-on-the-spiritual-general-background-and-practical-considerations/"
+study-title="Focusing on the spiritual: general background, and practical considerations"
+page-title="Focusing on the spiritual: general background, and practical considerations"
+
 %}}
 
 {{% subject-index-link
