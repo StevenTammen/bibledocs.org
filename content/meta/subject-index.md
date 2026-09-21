@@ -1417,17 +1417,6 @@ page-title="Who was Charlemagne? (src: Ryan Reeves)"
 header-title="Are developments in the Church visible more history or theology?"
 %}}
 
-### Church history > First Crusades {#church-history-first-crusades}
-
-{{% subject-index-link
-content-type="Longer Topical"
-content-type-slugified="longer-topical-studies"
-link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/the-first-crusades-part-i/"
-study-title="Early & Medieval History (src: Ryan Reeves)"
-page-title="The First Crusades (Part I) (src: Ryan Reeves)"
-
-%}}
-
 ### Church history > Forms and frequency of Christian belief are dependent upon geographical area {#church-history-forms-and-frequency-of-christian-belief-are-dependent-upon-geographical-area}
 
 {{% subject-index-link
@@ -1516,6 +1505,28 @@ link="/longer-topical-studies/ichthys-bb1-the-study-of-god-group-study/trinity-r
 study-title="Group Study - Ichthys' BB1 Theology - The Study of God"
 page-title="Trinity Roles as Demonstrated in Gods Plan for Human History"
 header-title="Creation of the World"
+%}}
+
+## Crusades {#crusades}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/ryan-reeves-crusades-part-ii/"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Ryan Reeves: Crusades (Part II)"
+
+%}}
+
+### Crusades > First Crusade {#crusades-first-crusade}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/the-first-crusades-part-i/"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="The First Crusades (Part I) (src: Ryan Reeves)"
+
 %}}
 
 ## Culture {#culture}
@@ -4693,6 +4704,15 @@ content-type-slugified="longer-topical-studies"
 link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/medieval-overview/"
 study-title="Early & Medieval History (src: Ryan Reeves)"
 page-title="Medieval overview (src: Ryan Reeves)"
+
+%}}
+
+{{% subject-index-link
+content-type="Longer Topical"
+content-type-slugified="longer-topical-studies"
+link="/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/ryan-reeves-crusades-part-ii/"
+study-title="Early & Medieval History (src: Ryan Reeves)"
+page-title="Ryan Reeves: Crusades (Part II)"
 
 %}}
 
