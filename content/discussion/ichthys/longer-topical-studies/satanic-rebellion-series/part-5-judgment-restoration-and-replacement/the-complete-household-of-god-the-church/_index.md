@@ -237,6 +237,45 @@ This is why their conception of the global Church is flawed. The Church of Jesus
 
 {{< quizdown >}}
 
+# Which of these statements are false? 
+
+Check all that apply. 
+
+1. [x] Satan was well aware of God's eventual calling out of the Gentiles before the fact, due to Old Testament prophecy. 
+1. [x] The Church is composed of only post-Pentecost believers. 
+1. [ ] All believers are the "elect", chosen out of this world to belong to Him who is **the** Chosen one, Jesus Christ. 
+1. [ ] Believing humans are replacing the fallen angels one for one in the family of God. 
+1. [x] Millennial believers are included in the one for one replacement of the fallen angels in the family of God. 
+
+# True or False: God filled the re-created earth with an abundance of creatures during the final pair of the Genesis days of re-creation. Likewise, the final pair of historical millennial days holds the filling up of the body of Christ, the Church. 
+
+1. [x] True
+1. [ ] False
+
+# Which of these statements are true?
+
+Check all the apply.
+
+1. [x] The incarnation and sacrifice of Jesus Christ was God's great victory of the ages, and the inclusion of Gentiles in God's family is the great "mystery" that followed. 
+1. [ ] In Greek, *ekklesia* means "a building".
+1. [x] Salvation depends on faith in Jesus Christ, not affiliation or membership with a certain human organization or church. 
+
+# Which of these statements are true?
+
+I. Israel is not part of the Church. 
+II. English speakers use the word "church" for both local assemblies of believers and the global Church, so it is important that we clarify between the two when necessary. 
+III. Drawing a sharp line between believing Jews and Gentiles in the Church Age is proper. 
+
+1. [ ] I. and III. alone. 
+1. [x] II. alone.
+1. [ ] II. and III. alone. 
+1. [ ] All of the above. 
+1. [ ] None of the above.
+
+# True or False: The English word "church" is derived from the Old English borrowing and transformation of the Greek adjective *kyriakon*, or "belonging to the Lord", a clear attempt to distinguish between local assemblies of believers and **the** universal Church. 
+
+1. [x] True
+1. [ ] False
 
 {{< /quizdown >}}
 

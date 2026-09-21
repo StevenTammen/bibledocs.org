@@ -13,7 +13,7 @@ layout: content-page
 
 The seventh day is the final one in God's plan for human history. As we have seen previously, each Genesis day of re-creation corresponds to one millennial day of human history. The seventh Genesis day of rest and the Millennium are mirror images of one another and their order corresponds in the sequence of seven: a crowning end to God's perfect, completed work. In the Genesis re-creation, the seventh day of rest followed the reconstruction and refilling of the physical world. The millennium (the final one thousand years in God's plan for human history) will follow God's completion of the Church, the reconstruction and refilling of His family (which was depleted by the rebellion of Satan and his fallen angels). 
 
-God blessed the seventh day of the Genesis re-creation, setting it apart as holy, a special memorial to God's holiness, faithfulness, and goodness. The millennium is likewise a time sanctificed by the Lord, when creation will be redeemed and humanity will flourish under the perfect rule of Jesus Christ. God will reclaim direct control over the earth, and man too will reclaim their rightful control over the earth (which had been lost in the fall); Jesus Christ, the Last Adam, will reclaim that which was lost by the first Adam. The wedding of the Lamb is the resurrection of all believers just prior to the commencement of the millennium, when Christ is united to His Church forevermore. The millennial believers are the "friends of the bride" who are invited to the wedding *supper* of the Lamb, Christ's double portion given to Him throughout that time of rejoicing and celebration that lasts the full one thousand years. So it is that the process of God restoring the world under the personal rule of Christ will not just undo the damage of the fall, but will actually lead to an abundance greater even than initial paradise. 
+God blessed the seventh day of the Genesis re-creation, setting it apart as holy, a special memorial to God's holiness, faithfulness, and goodness. The millennium is likewise a time sanctified by the Lord, when creation will be redeemed and humanity will flourish under the perfect rule of Jesus Christ. God will reclaim direct control over the earth, and man too will reclaim their rightful control over the earth (which had been lost in the fall); Jesus Christ, the Last Adam, will reclaim that which was lost by the first Adam. The wedding of the Lamb is the resurrection of all believers just prior to the commencement of the millennium, when Christ is united to His Church forevermore. The millennial believers are the "friends of the bride" who are invited to the wedding *supper* of the Lamb, Christ's double portion given to Him throughout that time of rejoicing and celebration that lasts the full one thousand years. So it is that the process of God restoring the world under the personal rule of Christ will not just undo the damage of the fall, but will actually lead to an abundance greater even than initial paradise. 
 
 <!--more-->
 
@@ -31,7 +31,7 @@ God blessed the seventh day of the Genesis re-creation, setting it apart as holy
 
 The seventh day is the final one in God's plan for human history. As we have seen previously, each Genesis day of re-creation corresponds to one millennial day of human history. The seventh Genesis day of rest and the Millennium are mirror images of one another and their order corresponds in the sequence of seven: a crowning end to God's perfect, completed work. In the Genesis re-creation, the seventh day of rest followed the reconstruction and refilling of the physical world. The millennium (the final one thousand years in God's plan for human history) will follow God's completion of the Church, the reconstruction and refilling of His family (which was depleted by the rebellion of Satan and his fallen angels). 
 
-God blessed the seventh day of the Genesis re-creation, setting it apart as holy, a special memorial to God's holiness, faithfulness, and goodness. The millennium is likewise a time sanctificed by the Lord, when creation will be redeemed and humanity will flourish under the perfect rule of Jesus Christ. God will reclaim direct control over the earth, and man too will reclaim their rightful control over the earth (which had been lost in the fall); Jesus Christ, the Last Adam, will reclaim that which was lost by the first Adam. The wedding of the Lamb is the resurrection of all believers just prior to the commencement of the millennium, when Christ is united to His Church forevermore. The millennial believers are the "friends of the bride" who are invited to the wedding *supper* of the Lamb, Christ's double portion given to Him throughout that time of rejoicing and celebration that lasts the full one thousand years. So it is that the process of God restoring the world under the personal rule of Christ will not just undo the damage of the fall, but will actually lead to an abundance greater even than initial paradise. 
+God blessed the seventh day of the Genesis re-creation, setting it apart as holy, a special memorial to God's holiness, faithfulness, and goodness. The millennium is likewise a time sanctified by the Lord, when creation will be redeemed and humanity will flourish under the perfect rule of Jesus Christ. God will reclaim direct control over the earth, and man too will reclaim their rightful control over the earth (which had been lost in the fall); Jesus Christ, the Last Adam, will reclaim that which was lost by the first Adam. The wedding of the Lamb is the resurrection of all believers just prior to the commencement of the millennium, when Christ is united to His Church forevermore. The millennial believers are the "friends of the bride" who are invited to the wedding *supper* of the Lamb, Christ's double portion given to Him throughout that time of rejoicing and celebration that lasts the full one thousand years. So it is that the process of God restoring the world under the personal rule of Christ will not just undo the damage of the fall, but will actually lead to an abundance greater even than initial paradise. 
 
 <!-- summary -->
 
@@ -247,7 +247,44 @@ All of this should excite us. If we can get a taste of the Great Celebration in 
 
 {{< quizdown >}}
 
+# True or False: Through the Millennial reign of Jesus Christ, God will reclaim direct control over the earth, and man's rightful control will be reclaimed also. 
 
+1. [x] True
+1. [ ] False
+
+# Which event is the "wedding of the Lamb"? 
+
+1. [x] The resurrection of the Church
+1. [ ] The uniting of Christ and His Church and its celebration throughout the Millennium 
+
+# Which of these statements are true?
+
+1. [ ] Believers should strive to implement meaningful change in the world through political action. 
+1. [x] The restoration and redemption of creation cannot take place until the devil's removal and Christ's return. 
+1. [x] When God restores, loss is met not only with replacement, but with superabundance. 
+
+# True or False: Millennial believers are included in the one for one replacement of the devil and his angels. 
+
+1. [ ] True
+1. [x] False
+
+# True or False: Human weddings are a shadow of the divine relationship between Christ and His Church.
+
+1. [x] True
+1. [ ] False
+
+# Which of these statements are false? 
+
+The seventh Genesis day of rest and the Millennium:
+
+1. [ ] Demonstrate that what God has wrought is perfect and complete
+1. [x] Occur in a different order in the sequence of seven
+1. [ ] Are set apart as a special memorial to God's holiness, faithfulness, and goodness 
+
+# Which event is the "wedding supper of the Lamb"? 
+ 
+1. [ ] The resurrection of the Church
+1. [x] The uniting of Christ and His Church and its celebration throughout the Millennium 
 
 {{< /quizdown >}}
 

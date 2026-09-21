@@ -196,6 +196,19 @@ IV. Just as there is no room for anything to intrude between a man and his wife,
 1. [ ] I., II., and IV. alone.
 1. [x] All of the above. 
 
+# Which of these statements are false?
+
+1. [ ] Our resurrection and union with Christ, while a spiritual reality now for all believers, will not be fully unveiled and experienced
+until the Second Advent of Christ. 
+1. [x] Satan anticipated the incarnation of Christ and the filling of God's family with a large influx of gentiles before it became a reality in the Church age. 
+1. [ ] Just as the final pair of Genesis re-creation days culminated with the creation of man and the woman who completes him, so the final 
+pair of millennial days begins and ends with the two advents of Christ and the completion and revelation of His bride, the Church. 
+
+# True or False: Before the cross and dissemination of the gospel to the gentiles, the gap in the family of God (created by the devil and his fallen angels) seemed impossible to fill before the completion of human history. 
+
+1. [x] True
+1. [ ] False
+
 {{< /quizdown >}}
 
 {{% section-navigation %}}

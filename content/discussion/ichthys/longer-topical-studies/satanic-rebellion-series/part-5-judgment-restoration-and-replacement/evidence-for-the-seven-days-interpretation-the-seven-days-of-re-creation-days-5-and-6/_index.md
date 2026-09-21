@@ -348,7 +348,76 @@ We will examine the idea of the "mystery" here in more depth in a coming lesson 
 
 {{< quizdown >}}
 
+# The third pair of Genesis re-creation days is focused on acts of: 
 
+1. [ ] Separation only 
+1. [x] Filling only
+1. [ ] Separation and filling 
+ 
+# Put the three pairs of Millennial days in order:
+
+1. Gentile age
+2. Jewish age
+3. Church age
+
+# Select the correct pairing of acts of filling in the re-creation and millennial days. 
+
+A) Re-creation day five and B) millennial day five.
+
+1. [ ] A) Creation of terrestrial life and B) creation of the full worldwide Church of Jesus Christ
+1. [ ] A) Creation of terrestrial life and B) explosion of gentiles into God's family, the completed Bible and means to study and teach it
+1. [x] A) Creation of aquatic and bird life and B) explosion of gentiles into God's family, the completed Bible and means to study and teach it
+1. [ ] A) Creation of aquatic and bird life and B) creation of the full worldwide Church of Jesus Christ
+
+# Select the correct pairing of acts of filling in the re-creation and millennial days. 
+
+A) Re-creation day six and B) millennial day six.
+
+1. [ ] A) Creation of aquatic and bird life and B) explosion of gentiles into God's family, the completed Bible and means to study and teach it
+1. [x] A) Creation of terrestrial life and B) creation of the full worldwide Church of Jesus Christ
+1. [ ] A) Creation of terrestrial life and B) explosion of gentiles into God's family, the completed Bible and means to study and teach it
+1. [ ] A) Creation of aquatic and bird life and B) creation of the full worldwide Church of Jesus Christ
+
+# True or False: **Separation** represents God's provisioning of the essential spiritual groundwork for human free-will-faith, while **filling** represents God's adoption of believers into His eternal family, replacing Satan and the fallen angels.
+
+1. [x] True
+1. [ ] False
+
+# The Bible refers to the Church as a holy building, established on the Cornerstone, Jesus Christ. The Gentile age believers are analogous to what part of this structure?
+
+1. [ ] The "living stones" who comprise the edifice proper
+1. [x] The structure's blueprint
+1. [ ] The structure's foundation
+
+# The Bible refers to the Church as a holy building, established on the Cornerstone, Jesus Christ. The Jewish age believers are analogous to what part of this structure?
+
+1. [ ] The structure's blueprint
+1. [ ] The "living stones" who comprise the edifice proper
+1. [x] The structure's foundation
+
+# The Bible refers to the Church as a holy building, established on the Cornerstone, Jesus Christ. The Church age believers are analogous to what part of this structure?
+
+1. [ ] The structure's foundation
+1. [ ] The structure's blueprint
+1. [x] The "living stones" who comprise the edifice proper
+
+# Which of these statements are true?  
+
+Check all that apply. 
+
+1. [x] The creation of humanity is intrinsically linked with the rebellion of Satan and the fallen angels.
+1. [x] Lucifer (the "light bearer") is replaced by the Morning Star, Jesus Christ. It is fitting that the followers of the Morning Star should
+replace Lucifer's followers. 
+1. [x] When the family of God is completed, everything that was lost in the devil's rebellion will not only be restored, but replaced
+ with something better. 
+
+# Which of these statements are false?
+
+Check all that apply. 
+
+1. [ ] Believing Jews and gentiles are spiritually united in the family of God. 
+1. [x] The eventual inclusion of gentiles in the family of God was well understood and anticipated by Old Testament believers. 
+1. [x] The number of believers added to the family of God prior to the cross is about the same as believers added post-cross.  
 
 {{< /quizdown >}}
 

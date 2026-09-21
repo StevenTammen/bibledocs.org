@@ -287,8 +287,16 @@ There is a lot to unpack across the cases, but the point for us to consider is t
 
 {{< quizdown >}}
 
+# True or False: In the seven days of re-creation, there is a progression from separation towards filling. 
 
+1. [x] True
+1. [ ] False
 
+# The second pair of Genesis re-creation days is focused on acts of: 
+
+1. [ ] Separation only 
+1. [x] Separation and filling 
+1. [ ] Filling only 
 
 # Select the correct pairing of acts of separation and filling in day three of re-creation. {#select-the-correct-pairing-of-acts-of-separation-and-filling-in-day-three-of-re-creation}
 
@@ -297,7 +305,6 @@ There is a lot to unpack across the cases, but the point for us to consider is t
 1. [ ] God separates the light from the darkness and fills the heavens with the sun, moon, and stars.
 1. [ ] God separates the dry ground from the water and fills the heavens with the sun, moon, and stars.
 
-
 # Select the correct pairing of acts of filling and separation in day four of re-creation. {#select-the-correct-pairing-of-acts-of-filling-and-separation-in-day-four-of-re-creation}
 
 1. [ ] God fills the earth with vegetation and separates the dry ground from the water.
@@ -305,8 +312,74 @@ There is a lot to unpack across the cases, but the point for us to consider is t
 1. [ ] God fills the earth with vegetation and separates light from the darkness.
 1. [x] God fills the heavens with the sun, moon, and stars and separates the light from the darkness. 
 
+# Select the correct pairing of acts of filling and separation in millennial day three. 
 
+1. [ ] God separates to Himself a holy people and establishes Israel as a light to the nations. 
+1. [x] God separates to Himself a holy people and fills His family with the first substantial echelon of believers. 
+1. [ ] God separates Israel to Himself as a holy nation and fills His family with the first substantial echelon of believers. 
+1. [ ] God separates Israel to Himself as a holy nation and establishes Israel as a light to the nations.
 
+# Select the correct pairing of acts of filling and separation in millennial day four. 
+
+1. [x] God separates Israel to Himself as a holy nation and establishes Israel as a light to the nations.
+1. [ ] God separates Israel to Himself as a holy nation and fills His family with the first substantial echelon of believers 
+1. [ ] God separates to Himself a holy people and fills His family with the first substantial echelon of believers 
+1. [ ] God separates to Himself a holy people and establishes Israel as a light to the nations 
+
+# Put the Ten Commandments in order. 
+
+As listed in Exodus 20. 
+
+1. No other gods
+2. No idols
+3. No misuse of His Name
+4. Keep the Sabbath
+5. Honoring Father and Mother
+6. No murder
+7. No adultery
+8. No theft
+9. No false witness
+10. No covetousness
+
+# Which commandment is the only one **not** repeated in the New Testament? 
+
+1. [ ] (1) No other gods 
+1. [ ] (2) No idols
+1. [ ] (3) No misuse of His name 
+1. [x] (4) Keep the Sabbath 
+1. [ ] (5) Honoring Father and Mother 
+1. [ ] (6) No Murder 
+1. [ ] (7) No Adultery 
+1. [ ] (8) No Theft
+1. [ ] (9) No False Witness 
+1. [ ] (10) No Covetousness 
+
+# Which of these statements are false?
+
+Check all that apply. 
+
+1. [x] Millennium days 3 and 4 belong to the Gentile Age.
+1. [ ] Circumcision distinguished Israel as unique in God's eyes and was a symbolic testimony of belief in God and His promises.
+1. [x] The Jewish age did not see significant expansion in the family of God.
+1. [ ] The underlying principle of the Ten Commandments was to separate the holy from the profane.  
+
+# Which of these statements are true?
+
+1. [ ] Separation precedes filling on both days 3 and 4.
+1. [x] Separation continues to represent God's provisioning of the essential spiritual groundwork, while filling represents God's adoption of believers into His eternal family. 
+1. [x] God separating for Himself first a people, and then a nation, was necessary to best enable human spiritual flourishing in a dark world. 
+
+# True or False: God promised Abraham that his descendants would be more numerous than that stars of the heavens, analogous to God's physical filling of the heavens on re-creation day 4 and foreshadowing the replacement of the fallen angelic "stars" with believing "stars" who choose for God. 
+
+1. [x] True
+1. [ ] False
+
+# The Ten Commandments may be broken down into four areas of conduct. Put these areas in order. 
+
+1. Holiness toward God (sanctifying and separating Him in what we think, do and say). 
+2. Holiness toward Life (sanctifying and separating ourselves from reliance on the world). 
+3. Holiness toward Authority (sanctifying and separating ourselves from rebellion against divinely constituted authority).
+4. Holiness toward Others (sanctifying and separating ourselves from infringement upon the right of others to use this life to seek God). 
 
 {{< /quizdown >}}
 

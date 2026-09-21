@@ -2920,45 +2920,46 @@ So in fact, this matter is actually all around us in the world. We would be wise
 
 A) Re-creation day one and B) millennial day one.
 
-1. [ ] A) Separation of light and B) separation of the waters by means of the sky.
-1. [x] A) Separation of light and B) separation of truth from lies. 
-1. [ ] A) Separation of the waters by means of the sky and B) separation of truth from lies. 
-1. [ ] A) Separation of the waters by means of the sky and B) separation of human freedom of choice from Satan's efforts to destroy free will.
+1. [ ] A) Separation of light and B) separation of the waters by means of the sky
+1. [x] A) Separation of light and B) separation of truth from lies
+1. [ ] A) Separation of the waters by means of the sky and B) separation of truth from lies 
+1. [ ] A) Separation of the waters by means of the sky and B) separation of human freedom of choice from Satan's efforts to destroy free will
 
 ## Select the correct pairing of acts of separation in the re-creation and millennial days. {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-1-and-2-src-ichthys-select-the-correct-pairing-of-acts-of-separation-in-the-re-creation-and-millennial-days}
 
 A) Re-creation day two and B) millennial day two.
 
-1. [ ] A) Separation of human freedom of choice from Satan's efforts to destroy free will and B) Separation of the waters by means of the sky. 
-1. [ ] A) Separation of truth from lies and B) separation of human freedom of choice from Satan's efforts to destroy free will.
-1. [x] A) Separation of the waters by mean of the sky and B) separation of human freedom of choice from Satan's efforts to destroy free will.
-1. [ ] A) Separation of light and B) Separation of truth from lies. 
+1. [ ] A) Separation of human freedom of choice from Satan's efforts to destroy free will and B) Separation of the waters by means of the sky
+1. [ ] A) Separation of truth from lies and B) separation of human freedom of choice from Satan's efforts to destroy free will
+1. [x] A) Separation of the waters by mean of the sky and B) separation of human freedom of choice from Satan's efforts to destroy free will
+1. [ ] A) Separation of light and B) Separation of truth from lies
 
 ## True or False: Human freedom of choice is essential for spiritual growth. {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-1-and-2-src-ichthys-true-or-false-human-freedom-of-choice-is-essential-for-spiritual-growth}
 
 1. [x] True
 1. [ ] False
 
-
-
 ## Which of these statements are true? {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-1-and-2-src-ichthys-which-of-these-statements-are-true}
 
 I. God protected human freedom of choice from angelic interference through the judgement of the great flood. 
 II. Some governments, non-profit, and religious institutions are better than others at maximizing human freedom of choice. 
-III. Human freedom of choice does not mean the freedom to harm others, rather the preservation of human free will. 
+III. Human freedom of choice does not mean the freedom to harm others, rather the preservation of human free will.
 
-1. [ ] I. and III. 
-1. [ ] 
-1. [ ] 
-
-
-
-
+1. [ ] I. and III. alone 
+1. [ ] II. alone
+1. [ ] I. and II. alone
+1. [x] All of the above
+1. [ ] None of the above 
 
 ## True or False: God's strict superintendence of human freedom is direct evidence that He views it as important. {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-1-and-2-src-ichthys-true-or-false-gods-strict-superintendence-of-human-freedom-is-direct-evidence-that-he-views-it-as-important}
 
 1. [x] True
 1. [ ] False
+
+## True or False: The first promise of Christ appeared in the second millennium of the Gentile age. {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-1-and-2-src-ichthys-true-or-false-the-first-promise-of-christ-appeared-in-the-second-millennium-of-the-gentile-age}
+
+1. [ ] True
+1. [x] False
 
 {{< /quizdown >}}
 
@@ -3241,8 +3242,16 @@ There is a lot to unpack across the cases, but the point for us to consider is t
 
 {{< quizdown >}}
 
+## True or False: In the seven days of re-creation, there is a progression from separation towards filling. {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-3-and-4-src-ichthys-true-or-false-in-the-seven-days-of-re-creation-there-is-a-progression-from-separation-towards-filling}
 
+1. [x] True
+1. [ ] False
 
+## The second pair of Genesis re-creation days is focused on acts of: {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-3-and-4-src-ichthys-the-second-pair-of-genesis-re-creation-days-is-focused-on-acts-of}
+
+1. [ ] Separation only 
+1. [x] Separation and filling 
+1. [ ] Filling only 
 
 ## Select the correct pairing of acts of separation and filling in day three of re-creation. {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-3-and-4-src-ichthys-select-the-correct-pairing-of-acts-of-separation-and-filling-in-day-three-of-re-creation}
 
@@ -3251,7 +3260,6 @@ There is a lot to unpack across the cases, but the point for us to consider is t
 1. [ ] God separates the light from the darkness and fills the heavens with the sun, moon, and stars.
 1. [ ] God separates the dry ground from the water and fills the heavens with the sun, moon, and stars.
 
-
 ## Select the correct pairing of acts of filling and separation in day four of re-creation. {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-3-and-4-src-ichthys-select-the-correct-pairing-of-acts-of-filling-and-separation-in-day-four-of-re-creation}
 
 1. [ ] God fills the earth with vegetation and separates the dry ground from the water.
@@ -3259,8 +3267,74 @@ There is a lot to unpack across the cases, but the point for us to consider is t
 1. [ ] God fills the earth with vegetation and separates light from the darkness.
 1. [x] God fills the heavens with the sun, moon, and stars and separates the light from the darkness. 
 
+## Select the correct pairing of acts of filling and separation in millennial day three. {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-3-and-4-src-ichthys-select-the-correct-pairing-of-acts-of-filling-and-separation-in-millennial-day-three}
 
+1. [ ] God separates to Himself a holy people and establishes Israel as a light to the nations. 
+1. [x] God separates to Himself a holy people and fills His family with the first substantial echelon of believers. 
+1. [ ] God separates Israel to Himself as a holy nation and fills His family with the first substantial echelon of believers. 
+1. [ ] God separates Israel to Himself as a holy nation and establishes Israel as a light to the nations.
 
+## Select the correct pairing of acts of filling and separation in millennial day four. {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-3-and-4-src-ichthys-select-the-correct-pairing-of-acts-of-filling-and-separation-in-millennial-day-four}
+
+1. [x] God separates Israel to Himself as a holy nation and establishes Israel as a light to the nations.
+1. [ ] God separates Israel to Himself as a holy nation and fills His family with the first substantial echelon of believers 
+1. [ ] God separates to Himself a holy people and fills His family with the first substantial echelon of believers 
+1. [ ] God separates to Himself a holy people and establishes Israel as a light to the nations 
+
+## Put the Ten Commandments in order. {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-3-and-4-src-ichthys-put-the-ten-commandments-in-order}
+
+As listed in Exodus 20. 
+
+1. No other gods
+2. No idols
+3. No misuse of His Name
+4. Keep the Sabbath
+5. Honoring Father and Mother
+6. No murder
+7. No adultery
+8. No theft
+9. No false witness
+10. No covetousness
+
+## Which commandment is the only one **not** repeated in the New Testament? {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-3-and-4-src-ichthys-which-commandment-is-the-only-one-not-repeated-in-the-new-testament}
+
+1. [ ] (1) No other gods 
+1. [ ] (2) No idols
+1. [ ] (3) No misuse of His name 
+1. [x] (4) Keep the Sabbath 
+1. [ ] (5) Honoring Father and Mother 
+1. [ ] (6) No Murder 
+1. [ ] (7) No Adultery 
+1. [ ] (8) No Theft
+1. [ ] (9) No False Witness 
+1. [ ] (10) No Covetousness 
+
+## Which of these statements are false? {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-3-and-4-src-ichthys-which-of-these-statements-are-false}
+
+Check all that apply. 
+
+1. [x] Millennium days 3 and 4 belong to the Gentile Age.
+1. [ ] Circumcision distinguished Israel as unique in God's eyes and was a symbolic testimony of belief in God and His promises.
+1. [x] The Jewish age did not see significant expansion in the family of God.
+1. [ ] The underlying principle of the Ten Commandments was to separate the holy from the profane.  
+
+## Which of these statements are true? {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-3-and-4-src-ichthys-which-of-these-statements-are-true}
+
+1. [ ] Separation precedes filling on both days 3 and 4.
+1. [x] Separation continues to represent God's provisioning of the essential spiritual groundwork, while filling represents God's adoption of believers into His eternal family. 
+1. [x] God separating for Himself first a people, and then a nation, was necessary to best enable human spiritual flourishing in a dark world. 
+
+## True or False: God promised Abraham that his descendants would be more numerous than that stars of the heavens, analogous to God's physical filling of the heavens on re-creation day 4 and foreshadowing the replacement of the fallen angelic "stars" with believing "stars" who choose for God. {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-3-and-4-src-ichthys-true-or-false-god-promised-abraham-that-his-descendants-would-be-more-numerous-than-that-stars-of-the-heavens-analogous-to-gods-physical-filling-of-the-heavens-on-re-creation-day-4-and-foreshadowing-the-replacement-of-the-fallen-angelic-stars-with-believing-stars-who-choose-for-god}
+
+1. [x] True
+1. [ ] False
+
+## The Ten Commandments may be broken down into four areas of conduct. Put these areas in order. {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-3-and-4-src-ichthys-the-ten-commandments-may-be-broken-down-into-four-areas-of-conduct-put-these-areas-in-order}
+
+1. Holiness toward God (sanctifying and separating Him in what we think, do and say). 
+2. Holiness toward Life (sanctifying and separating ourselves from reliance on the world). 
+3. Holiness toward Authority (sanctifying and separating ourselves from rebellion against divinely constituted authority).
+4. Holiness toward Others (sanctifying and separating ourselves from infringement upon the right of others to use this life to seek God). 
 
 {{< /quizdown >}}
 
@@ -3604,7 +3678,76 @@ We will examine the idea of the "mystery" here in more depth in a coming lesson 
 
 {{< quizdown >}}
 
+## The third pair of Genesis re-creation days is focused on acts of: {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-5-and-6-src-ichthys-the-third-pair-of-genesis-re-creation-days-is-focused-on-acts-of}
 
+1. [ ] Separation only 
+1. [x] Filling only
+1. [ ] Separation and filling 
+ 
+## Put the three pairs of Millennial days in order: {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-5-and-6-src-ichthys-put-the-three-pairs-of-millennial-days-in-order}
+
+1. Gentile age
+2. Jewish age
+3. Church age
+
+## Select the correct pairing of acts of filling in the re-creation and millennial days. {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-5-and-6-src-ichthys-select-the-correct-pairing-of-acts-of-filling-in-the-re-creation-and-millennial-days}
+
+A) Re-creation day five and B) millennial day five.
+
+1. [ ] A) Creation of terrestrial life and B) creation of the full worldwide Church of Jesus Christ
+1. [ ] A) Creation of terrestrial life and B) explosion of gentiles into God's family, the completed Bible and means to study and teach it
+1. [x] A) Creation of aquatic and bird life and B) explosion of gentiles into God's family, the completed Bible and means to study and teach it
+1. [ ] A) Creation of aquatic and bird life and B) creation of the full worldwide Church of Jesus Christ
+
+## Select the correct pairing of acts of filling in the re-creation and millennial days. {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-5-and-6-src-ichthys-select-the-correct-pairing-of-acts-of-filling-in-the-re-creation-and-millennial-days}
+
+A) Re-creation day six and B) millennial day six.
+
+1. [ ] A) Creation of aquatic and bird life and B) explosion of gentiles into God's family, the completed Bible and means to study and teach it
+1. [x] A) Creation of terrestrial life and B) creation of the full worldwide Church of Jesus Christ
+1. [ ] A) Creation of terrestrial life and B) explosion of gentiles into God's family, the completed Bible and means to study and teach it
+1. [ ] A) Creation of aquatic and bird life and B) creation of the full worldwide Church of Jesus Christ
+
+## True or False: **Separation** represents God's provisioning of the essential spiritual groundwork for human free-will-faith, while **filling** represents God's adoption of believers into His eternal family, replacing Satan and the fallen angels. {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-5-and-6-src-ichthys-true-or-false-separation-represents-gods-provisioning-of-the-essential-spiritual-groundwork-for-human-free-will-faith-while-filling-represents-gods-adoption-of-believers-into-his-eternal-family-replacing-satan-and-the-fallen-angels}
+
+1. [x] True
+1. [ ] False
+
+## The Bible refers to the Church as a holy building, established on the Cornerstone, Jesus Christ. The Gentile age believers are analogous to what part of this structure? {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-5-and-6-src-ichthys-the-bible-refers-to-the-church-as-a-holy-building-established-on-the-cornerstone-jesus-christ-the-gentile-age-believers-are-analogous-to-what-part-of-this-structure}
+
+1. [ ] The "living stones" who comprise the edifice proper
+1. [x] The structure's blueprint
+1. [ ] The structure's foundation
+
+## The Bible refers to the Church as a holy building, established on the Cornerstone, Jesus Christ. The Jewish age believers are analogous to what part of this structure? {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-5-and-6-src-ichthys-the-bible-refers-to-the-church-as-a-holy-building-established-on-the-cornerstone-jesus-christ-the-jewish-age-believers-are-analogous-to-what-part-of-this-structure}
+
+1. [ ] The structure's blueprint
+1. [ ] The "living stones" who comprise the edifice proper
+1. [x] The structure's foundation
+
+## The Bible refers to the Church as a holy building, established on the Cornerstone, Jesus Christ. The Church age believers are analogous to what part of this structure? {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-5-and-6-src-ichthys-the-bible-refers-to-the-church-as-a-holy-building-established-on-the-cornerstone-jesus-christ-the-church-age-believers-are-analogous-to-what-part-of-this-structure}
+
+1. [ ] The structure's foundation
+1. [ ] The structure's blueprint
+1. [x] The "living stones" who comprise the edifice proper
+
+## Which of these statements are true? {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-5-and-6-src-ichthys-which-of-these-statements-are-true}
+
+Check all that apply. 
+
+1. [x] The creation of humanity is intrinsically linked with the rebellion of Satan and the fallen angels.
+1. [x] Lucifer (the "light bearer") is replaced by the Morning Star, Jesus Christ. It is fitting that the followers of the Morning Star should
+replace Lucifer's followers. 
+1. [x] When the family of God is completed, everything that was lost in the devil's rebellion will not only be restored, but replaced
+ with something better. 
+
+## Which of these statements are false? {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-days-5-and-6-src-ichthys-which-of-these-statements-are-false}
+
+Check all that apply. 
+
+1. [ ] Believing Jews and gentiles are spiritually united in the family of God. 
+1. [x] The eventual inclusion of gentiles in the family of God was well understood and anticipated by Old Testament believers. 
+1. [x] The number of believers added to the family of God prior to the cross is about the same as believers added post-cross.  
 
 {{< /quizdown >}}
 
@@ -3631,7 +3774,7 @@ We will examine the idea of the "mystery" here in more depth in a coming lesson 
 
 Israel holds a special place in God's plan. Jewish believers are the foundation for the holy building that God is erecting - not only in the Jewish age, but also in the Church age. Jewish believers have played and continue to play a critical part in all generations of the Church. Salvation belongs to the Jews as first priority, coming to the Gentiles by the grace of God. Rather than *replacing* Israel, gentile believers have become *part* of God's household along with Israel. Gentile believers are the wild olive branch that has been grafted into the natural olive tree Israel.
 
-Israel has largely rejected their Messiah, tripping over the Cornerstone, Jesus Christ, and the "offense" of His cross. Jesus Himself mourned the hardness of the Jews. While many first century Jews rejected the gospel just as their Judean countrymen had rejected their own Messiah, Jewish believers were both the original foundation of the Church and continued to play a huge role after the influx of the gentiles had begun. Despite this general "hardness" towards Christ that currently dominates the Jewish people, Israel will once more take the lead in spectaular fashion when the Jewish age overlaps with the Church age for its final seven years, known as the Tribulation. This leading role is seen in two major ways: the ministries of Moses and Elijah, and also of the 144,000 witnesses. At Christ's Second Advent, the hardness will end as the vision of Him returning in glory will bring about a profound and glorious change of heart of Israel and many Jewish people will turn to Christ for salvation. In the millennium, Jesus will rule from Jerusalem, as the inheritor of the Davidic line of Jewish Kingship. All this makes our Jewish brethren the perfect people to run alongside as we worship our Savior, who delivered Jew and Gentile alike. 
+Israel has largely rejected their Messiah, tripping over the Cornerstone, Jesus Christ, and the "offense" of His cross. Jesus Himself mourned the hardness of the Jews. While many first century Jews rejected the gospel just as their Judean countrymen had rejected their own Messiah, Jewish believers were both the original foundation of the Church and continued to play a huge role after the influx of the gentiles had begun. Despite this general "hardness" towards Christ that currently dominates the Jewish people, Israel will once more take the lead in spectacular fashion when the Jewish age overlaps with the Church age for its final seven years, known as the Tribulation. This leading role is seen in two major ways: the ministries of Moses and Elijah, and also of the 144,000 witnesses. At Christ's Second Advent, the hardness will end as the vision of Him returning in glory will bring about a profound and glorious change of heart of Israel and many Jewish people will turn to Christ for salvation. In the millennium, Jesus will rule from Jerusalem, as the inheritor of the Davidic line of Jewish Kingship. All this makes our Jewish brethren the perfect people to run alongside as we worship our Savior, who delivered Jew and Gentile alike. 
 
 
 
@@ -3853,6 +3996,54 @@ Can you not see that all this makes our Jewish brethren the perfect people to ru
 
 {{< quizdown >}}
 
+## True or False: Gentiles have joined Israel in the household of God, rather than replacing Israel. {#the-complete-household-of-god-the-uniqueness-of-israel-src-ichthys-true-or-false-gentiles-have-joined-israel-in-the-household-of-god-rather-than-replacing-israel}
+
+1. [x] True
+1. [ ] False
+
+## Which of these statements are true? {#the-complete-household-of-god-the-uniqueness-of-israel-src-ichthys-which-of-these-statements-are-true}
+
+Check all that apply.
+
+1. [ ] Jewish believers play a significant role in the Church in the Jewish Age only. 
+1. [x] All of Christ's apostles were Jewish.
+1. [ ] Only about half the writers of the Bible were Jewish. 
+1. [x] Jesus Christ, the Messiah, is Jewish. 
+1. [x] The final world-wide witness of the Gospel (and God's warning of impending doom) will be carried to the four corners of the earth by 144,000 Jews. 
+
+## True or False: When Jesus returns, He will rule the entire world from Jerusalem as the inheritor of the Davidic line of Jewish Kingship, an obvious sign to all that Israel has special significance in God's family. {#the-complete-household-of-god-the-uniqueness-of-israel-src-ichthys-true-or-false-when-jesus-returns-he-will-rule-the-entire-world-from-jerusalem-as-the-inheritor-of-the-davidic-line-of-jewish-kingship-an-obvious-sign-to-all-that-israel-has-special-significance-in-gods-family}
+
+1. [x] True
+1. [ ] False 
+
+## Which of these statements are false? {#the-complete-household-of-god-the-uniqueness-of-israel-src-ichthys-which-of-these-statements-are-false}
+
+I. Antisemitism is foolish and dangerous, for God will not tolerate those persecuting His people.
+II. The hardness of heart presently demonstrated by the majority of Israel will end when the Church is completed and Christ returns.
+III. Gentile believers have been grafted into the "root" of Israel.
+
+1. [ ] I. and III. alone. 
+1. [ ] I. and II. alone. 
+1. [ ] III. alone. 
+1. [ ] All of the above. 
+1. [x] None of the above.
+
+## The twelve foundations of the wall of the New Jerusalem are named for: {#the-complete-household-of-god-the-uniqueness-of-israel-src-ichthys-the-twelve-foundations-of-the-wall-of-the-new-jerusalem-are-named-for}
+
+1. [ ] Old Testament prophets
+1. [x] The twelve Jewish apostles of Jesus
+1. [ ] Israel's twelve tribes
+
+## The twelve gates of New Jerusalem are named for: {#the-complete-household-of-god-the-uniqueness-of-israel-src-ichthys-the-twelve-gates-of-new-jerusalem-are-named-for}
+
+1. [x] Israel's twelve tribes
+1. [ ] The twelve Jewish apostles of Jesus
+1. [ ] Old Testament prophets 
+
+## True or False: Two major reasons contribute to the hardness of heart that dominates the Jewish people: refusal to accept a suffering Messiah, and resentment over the inclusion of gentiles in the family of God. {#the-complete-household-of-god-the-uniqueness-of-israel-src-ichthys-true-or-false-two-major-reasons-contribute-to-the-hardness-of-heart-that-dominates-the-jewish-people-refusal-to-accept-a-suffering-messiah-and-resentment-over-the-inclusion-of-gentiles-in-the-family-of-god}
+
+1. [x] True
+1. [ ] False
 
 {{< /quizdown >}}
 
@@ -4083,6 +4274,45 @@ This is why their conception of the global Church is flawed. The Church of Jesus
 
 {{< quizdown >}}
 
+## Which of these statements are false? {#the-complete-household-of-god-the-church-src-ichthys-which-of-these-statements-are-false}
+
+Check all that apply. 
+
+1. [x] Satan was well aware of God's eventual calling out of the Gentiles before the fact, due to Old Testament prophecy. 
+1. [x] The Church is composed of only post-Pentecost believers. 
+1. [ ] All believers are the "elect", chosen out of this world to belong to Him who is **the** Chosen one, Jesus Christ. 
+1. [ ] Believing humans are replacing the fallen angels one for one in the family of God. 
+1. [x] Millennial believers are included in the one for one replacement of the fallen angels in the family of God. 
+
+## True or False: God filled the re-created earth with an abundance of creatures during the final pair of the Genesis days of re-creation. Likewise, the final pair of historical millennial days holds the filling up of the body of Christ, the Church. {#the-complete-household-of-god-the-church-src-ichthys-true-or-false-god-filled-the-re-created-earth-with-an-abundance-of-creatures-during-the-final-pair-of-the-genesis-days-of-re-creation-likewise-the-final-pair-of-historical-millennial-days-holds-the-filling-up-of-the-body-of-christ-the-church}
+
+1. [x] True
+1. [ ] False
+
+## Which of these statements are true? {#the-complete-household-of-god-the-church-src-ichthys-which-of-these-statements-are-true}
+
+Check all the apply.
+
+1. [x] The incarnation and sacrifice of Jesus Christ was God's great victory of the ages, and the inclusion of Gentiles in God's family is the great "mystery" that followed. 
+1. [ ] In Greek, *ekklesia* means "a building".
+1. [x] Salvation depends on faith in Jesus Christ, not affiliation or membership with a certain human organization or church. 
+
+## Which of these statements are true? {#the-complete-household-of-god-the-church-src-ichthys-which-of-these-statements-are-true}
+
+I. Israel is not part of the Church. 
+II. English speakers use the word "church" for both local assemblies of believers and the global Church, so it is important that we clarify between the two when necessary. 
+III. Drawing a sharp line between believing Jews and Gentiles in the Church Age is proper. 
+
+1. [ ] I. and III. alone. 
+1. [x] II. alone.
+1. [ ] II. and III. alone. 
+1. [ ] All of the above. 
+1. [ ] None of the above.
+
+## True or False: The English word "church" is derived from the Old English borrowing and transformation of the Greek adjective *kyriakon*, or "belonging to the Lord", a clear attempt to distinguish between local assemblies of believers and **the** universal Church. {#the-complete-household-of-god-the-church-src-ichthys-true-or-false-the-english-word-church-is-derived-from-the-old-english-borrowing-and-transformation-of-the-greek-adjective-kyriakon-or-belonging-to-the-lord-a-clear-attempt-to-distinguish-between-local-assemblies-of-believers-and-the-universal-church}
+
+1. [x] True
+1. [ ] False
 
 {{< /quizdown >}}
 
@@ -4437,6 +4667,37 @@ In this way, I think we could also rightly consider the giving of the Holy Spiri
 
 {{< quizdown >}}
 
+## The "mystery" is what: {#the-complete-household-of-god-the-mystery-of-christ-src-ichthys-the-mystery-is-what}
+
+I. The incarnation and sacrifice of Christ
+II. The inclusion of large numbers of gentiles in the family of God
+
+1. [ ] I. alone
+1. [ ] II. alone
+1. [x] All of the above
+1. [ ] None of the above
+
+## Which of these statements are false? {#the-complete-household-of-god-the-mystery-of-christ-src-ichthys-which-of-these-statements-are-false}
+
+Check all that apply.
+
+1. [x] The angels understood the mystery of Christ and His Church before the incarnation and Church age. 
+1. [ ] Israel's present hardness of heart will end when the Church is completed and Christ returns. 
+1. [x] The particular details of the suffering of the Messiah and the inclusion of gentiles into the family of God were very well understood by the Old Testament prophets. 
+
+## Which of these statements are true? {#the-complete-household-of-god-the-mystery-of-christ-src-ichthys-which-of-these-statements-are-true}
+
+Check all that apply. 
+
+1. [ ] The giving of the Holy Spirit in the Church age was anticipated by Old Testament believers.
+1. [x] The ministry of the Holy Spirit is essential to the expansion of evangelism in the Church Age.
+1. [ ] The Church only includes believers from Pentecost forward.
+1. [x] It was appropriate for the erection of the great edifice of the Church to wait until after Christ's victory and glorification.
+
+## True or False: The gift and ministry of the Holy Spirit had little effect on the increase of gentile salvation in the Church age. {#the-complete-household-of-god-the-mystery-of-christ-src-ichthys-true-or-false-the-gift-and-ministry-of-the-holy-spirit-had-little-effect-on-the-increase-of-gentile-salvation-in-the-church-age}
+
+1. [ ] True
+1. [x] False
 
 {{< /quizdown >}}
 
@@ -4988,6 +5249,19 @@ IV. Just as there is no room for anything to intrude between a man and his wife,
 1. [ ] I., II., and IV. alone.
 1. [x] All of the above. 
 
+## Which of these statements are false? {#the-complete-household-of-god-the-revelation-src-ichthys-which-of-these-statements-are-false}
+
+1. [ ] Our resurrection and union with Christ, while a spiritual reality now for all believers, will not be fully unveiled and experienced
+until the Second Advent of Christ. 
+1. [x] Satan anticipated the incarnation of Christ and the filling of God's family with a large influx of gentiles before it became a reality in the Church age. 
+1. [ ] Just as the final pair of Genesis re-creation days culminated with the creation of man and the woman who completes him, so the final 
+pair of millennial days begins and ends with the two advents of Christ and the completion and revelation of His bride, the Church. 
+
+## True or False: Before the cross and dissemination of the gospel to the gentiles, the gap in the family of God (created by the devil and his fallen angels) seemed impossible to fill before the completion of human history. {#the-complete-household-of-god-the-revelation-src-ichthys-true-or-false-before-the-cross-and-dissemination-of-the-gospel-to-the-gentiles-the-gap-in-the-family-of-god-created-by-the-devil-and-his-fallen-angels-seemed-impossible-to-fill-before-the-completion-of-human-history}
+
+1. [x] True
+1. [ ] False
+
 {{< /quizdown >}}
 
 
@@ -5013,7 +5287,7 @@ IV. Just as there is no room for anything to intrude between a man and his wife,
 
 The seventh day is the final one in God's plan for human history. As we have seen previously, each Genesis day of re-creation corresponds to one millennial day of human history. The seventh Genesis day of rest and the Millennium are mirror images of one another and their order corresponds in the sequence of seven: a crowning end to God's perfect, completed work. In the Genesis re-creation, the seventh day of rest followed the reconstruction and refilling of the physical world. The millennium (the final one thousand years in God's plan for human history) will follow God's completion of the Church, the reconstruction and refilling of His family (which was depleted by the rebellion of Satan and his fallen angels). 
 
-God blessed the seventh day of the Genesis re-creation, setting it apart as holy, a special memorial to God's holiness, faithfulness, and goodness. The millennium is likewise a time sanctificed by the Lord, when creation will be redeemed and humanity will flourish under the perfect rule of Jesus Christ. God will reclaim direct control over the earth, and man too will reclaim their rightful control over the earth (which had been lost in the fall); Jesus Christ, the Last Adam, will reclaim that which was lost by the first Adam. The wedding of the Lamb is the resurrection of all believers just prior to the commencement of the millennium, when Christ is united to His Church forevermore. The millennial believers are the "friends of the bride" who are invited to the wedding *supper* of the Lamb, Christ's double portion given to Him throughout that time of rejoicing and celebration that lasts the full one thousand years. So it is that the process of God restoring the world under the personal rule of Christ will not just undo the damage of the fall, but will actually lead to an abundance greater even than initial paradise. 
+God blessed the seventh day of the Genesis re-creation, setting it apart as holy, a special memorial to God's holiness, faithfulness, and goodness. The millennium is likewise a time sanctified by the Lord, when creation will be redeemed and humanity will flourish under the perfect rule of Jesus Christ. God will reclaim direct control over the earth, and man too will reclaim their rightful control over the earth (which had been lost in the fall); Jesus Christ, the Last Adam, will reclaim that which was lost by the first Adam. The wedding of the Lamb is the resurrection of all believers just prior to the commencement of the millennium, when Christ is united to His Church forevermore. The millennial believers are the "friends of the bride" who are invited to the wedding *supper* of the Lamb, Christ's double portion given to Him throughout that time of rejoicing and celebration that lasts the full one thousand years. So it is that the process of God restoring the world under the personal rule of Christ will not just undo the damage of the fall, but will actually lead to an abundance greater even than initial paradise. 
 
 
 
@@ -5229,7 +5503,44 @@ All of this should excite us. If we can get a taste of the Great Celebration in 
 
 {{< quizdown >}}
 
+## True or False: Through the Millennial reign of Jesus Christ, God will reclaim direct control over the earth, and man's rightful control will be reclaimed also. {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-day-7-src-ichthys-true-or-false-through-the-millennial-reign-of-jesus-christ-god-will-reclaim-direct-control-over-the-earth-and-mans-rightful-control-will-be-reclaimed-also}
 
+1. [x] True
+1. [ ] False
+
+## Which event is the "wedding of the Lamb"? {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-day-7-src-ichthys-which-event-is-the-wedding-of-the-lamb}
+
+1. [x] The resurrection of the Church
+1. [ ] The uniting of Christ and His Church and its celebration throughout the Millennium 
+
+## Which of these statements are true? {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-day-7-src-ichthys-which-of-these-statements-are-true}
+
+1. [ ] Believers should strive to implement meaningful change in the world through political action. 
+1. [x] The restoration and redemption of creation cannot take place until the devil's removal and Christ's return. 
+1. [x] When God restores, loss is met not only with replacement, but with superabundance. 
+
+## True or False: Millennial believers are included in the one for one replacement of the devil and his angels. {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-day-7-src-ichthys-true-or-false-millennial-believers-are-included-in-the-one-for-one-replacement-of-the-devil-and-his-angels}
+
+1. [ ] True
+1. [x] False
+
+## True or False: Human weddings are a shadow of the divine relationship between Christ and His Church. {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-day-7-src-ichthys-true-or-false-human-weddings-are-a-shadow-of-the-divine-relationship-between-christ-and-his-church}
+
+1. [x] True
+1. [ ] False
+
+## Which of these statements are false? {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-day-7-src-ichthys-which-of-these-statements-are-false}
+
+The seventh Genesis day of rest and the Millennium:
+
+1. [ ] Demonstrate that what God has wrought is perfect and complete
+1. [x] Occur in a different order in the sequence of seven
+1. [ ] Are set apart as a special memorial to God's holiness, faithfulness, and goodness 
+
+## Which event is the "wedding supper of the Lamb"? {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-day-7-src-ichthys-which-event-is-the-wedding-supper-of-the-lamb}
+ 
+1. [ ] The resurrection of the Church
+1. [x] The uniting of Christ and His Church and its celebration throughout the Millennium 
 
 {{< /quizdown >}}
 
@@ -5367,10 +5678,41 @@ If we can see beauty in a composer masterfully weaving a theme throughout her gr
 1. [x] True 
 1. [ ] False
 
-# 
+## True or False: The seven days of re-creation do not serve as a model for God's plan for human history. {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-summary-src-ichthys-true-or-false-the-seven-days-of-re-creation-do-not-serve-as-a-model-for-gods-plan-for-human-history}
 
-1. [ ] The Genesis re-creation days 
+1. [ ] True
+1. [x] False
 
+## Which of these statements are false? {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-summary-src-ichthys-which-of-these-statements-are-false}
+
+Both the seven Genesis recreation days and the seven millennial days of human history:
+
+1. [x] Have the first six days subdivided into 2 sets. 
+1. [ ] Have the first six days as a progression of separating the good from the bad (physically and spiritually, respectively).
+1. [ ] Have the seventh day as a memorial time of rest and blessing with paradise conditions.
+
+## True or False: God's use of pattern and symbolism, both in how He has constructed and organized human life and in the pages of scripture,offer us reminders of His plan for the ages. {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-summary-src-ichthys-true-or-false-gods-use-of-pattern-and-symbolism-both-in-how-he-has-constructed-and-organized-human-life-and-in-the-pages-of-scripture-offer-us-reminders-of-his-plan-for-the-ages}
+
+1. [x] True
+1. [ ] False
+
+## The first six millennial days are subdivided into 3 pairs. Put them in order: {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-summary-src-ichthys-the-first-six-millennial-days-are-subdivided-into-3-pairs-put-them-in-order}
+
+1. Gentile Age
+2. Jewish Age
+3. Church Age
+
+## Which of these statements are true? {#evidence-for-the-seven-days-interpretation-the-seven-days-of-re-creation-summary-src-ichthys-which-of-these-statements-are-true}
+
+I. Marriage symbolizes the union between Christ and His Church. 
+II. Willing human beings replace the fallen angels in the family of God.
+III. The seven day week reminds us of God's essential plan for human history, the calling out of the Church. 
+
+1. [ ] I. and III. alone
+1. [ ] II. alone
+1. [ ] I. alone
+1. [ ] None of the above
+1. [x] All of the above
 
 {{< /quizdown >}}
 

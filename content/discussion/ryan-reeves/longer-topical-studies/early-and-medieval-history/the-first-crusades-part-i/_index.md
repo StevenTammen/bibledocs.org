@@ -3,7 +3,7 @@ date: 2026-07-25T19:00:00
 domain: —pb-d-ryan-reeves=l
 title: "The First Crusades (Part I) (src: Ryan Reeves)"
 stags: 
-    - Church history > First Crusades
+    - Crusades > First Crusade
 ptags: 
 
 weight: 130
@@ -611,14 +611,6 @@ Whatever people's individual reasons (since the reasons did no doubt vary to at 
 
 <!-- slide-break -->
 
-#### Further discussion
-
-
-
-
-
-<!-- slide-break -->
-
 ### The so-called People's Crusade
 
 #### Video clip from Ryan Reeves {#video-clip-from-ryan-reeves}
@@ -895,13 +887,6 @@ So once more, we should keep our eyes firmly fixed upon the spiritual, rather th
 
 <!-- slide-break -->
 
-#### Further discussion
-
-
-
-
-<!-- slide-break -->
-
 ### Disagreements about end conditions for the First Crusade, and the conquest of Jerusalem in 1099
 
 #### Video clip from Ryan Reeves {#video-clip-from-ryan-reeves}
@@ -975,12 +960,6 @@ This conquest of Jerusalem in July 1099 is often seen as the end of the First Cr
 <!-- slide-break -->
 
 #### Follow-on topics
-
-<!-- slide-break -->
-
-#### Further discussion
-
-
 
 <!-- slide-break -->
 
@@ -1067,6 +1046,14 @@ Perhaps the other most significant legacy of the First Crusade was another crack
 #### Follow-on topics
 
 ##### What if instead of the Crusades people had turned all their zeal towards spiritual growth?
+
+{{< properties
+
+stags=""
+
+ptags="Ecclesiastes 1:9"
+
+>}}
 
 I want us to imagine for a moment that the enormous resource investment we are talking about here in the Crusades had instead gone towards spiritual growth for all the common people in Europe. How much better off would humanity of have been!
 

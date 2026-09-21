@@ -180,45 +180,46 @@ So in fact, this matter is actually all around us in the world. We would be wise
 
 A) Re-creation day one and B) millennial day one.
 
-1. [ ] A) Separation of light and B) separation of the waters by means of the sky.
-1. [x] A) Separation of light and B) separation of truth from lies. 
-1. [ ] A) Separation of the waters by means of the sky and B) separation of truth from lies. 
-1. [ ] A) Separation of the waters by means of the sky and B) separation of human freedom of choice from Satan's efforts to destroy free will.
+1. [ ] A) Separation of light and B) separation of the waters by means of the sky
+1. [x] A) Separation of light and B) separation of truth from lies
+1. [ ] A) Separation of the waters by means of the sky and B) separation of truth from lies 
+1. [ ] A) Separation of the waters by means of the sky and B) separation of human freedom of choice from Satan's efforts to destroy free will
 
 # Select the correct pairing of acts of separation in the re-creation and millennial days. {#select-the-correct-pairing-of-acts-of-separation-in-the-re-creation-and-millennial-days}
 
 A) Re-creation day two and B) millennial day two.
 
-1. [ ] A) Separation of human freedom of choice from Satan's efforts to destroy free will and B) Separation of the waters by means of the sky. 
-1. [ ] A) Separation of truth from lies and B) separation of human freedom of choice from Satan's efforts to destroy free will.
-1. [x] A) Separation of the waters by mean of the sky and B) separation of human freedom of choice from Satan's efforts to destroy free will.
-1. [ ] A) Separation of light and B) Separation of truth from lies. 
+1. [ ] A) Separation of human freedom of choice from Satan's efforts to destroy free will and B) Separation of the waters by means of the sky
+1. [ ] A) Separation of truth from lies and B) separation of human freedom of choice from Satan's efforts to destroy free will
+1. [x] A) Separation of the waters by mean of the sky and B) separation of human freedom of choice from Satan's efforts to destroy free will
+1. [ ] A) Separation of light and B) Separation of truth from lies
 
 # True or False: Human freedom of choice is essential for spiritual growth. {#true-or-false-human-freedom-of-choice-is-essential-for-spiritual-growth}
 
 1. [x] True
 1. [ ] False
 
-
-
 # Which of these statements are true? {#which-of-these-statements-are-true}
 
 I. God protected human freedom of choice from angelic interference through the judgement of the great flood. 
 II. Some governments, non-profit, and religious institutions are better than others at maximizing human freedom of choice. 
-III. Human freedom of choice does not mean the freedom to harm others, rather the preservation of human free will. 
+III. Human freedom of choice does not mean the freedom to harm others, rather the preservation of human free will.
 
-1. [ ] I. and III. 
-1. [ ] 
-1. [ ] 
-
-
-
-
+1. [ ] I. and III. alone 
+1. [ ] II. alone
+1. [ ] I. and II. alone
+1. [x] All of the above
+1. [ ] None of the above 
 
 # True or False: God's strict superintendence of human freedom is direct evidence that He views it as important. {#true-or-false-god-s-strict-superintendence-of-human-freedom-is-direct-evidence-that-he-views-it-as-important}
 
 1. [x] True
 1. [ ] False
+
+# True or False: The first promise of Christ appeared in the second millennium of the Gentile age. 
+
+1. [ ] True
+1. [x] False
 
 {{< /quizdown >}}
 

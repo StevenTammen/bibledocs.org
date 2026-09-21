@@ -373,7 +373,7 @@ https://ichthys.com/Pet18.htm#6.%20Legitimacy%20of%20Rewards
 
 1. [ ] Our citizenship is in heaven, not of this temporary world. 
 1. [ ] Every spiritual victory will be rewarded with glory that far outweighs whatever pain and trouble we face on this earth. 
-1. [x] Focusing on the spiritual is largely automatic for a believer
+1. [x] Focusing on the spiritual is largely automatic for a believer.
 1. [ ] Prayer and concentrating on God's Word helps us reorient to the proper spiritual perspective. 
 
 # Which of these statements about the military metaphor are true? 
@@ -394,9 +394,10 @@ Check all that apply.
 1. [x] True
 1. [ ] False
 
+# True or False: We should avoid becoming legalistic about our Bible study routines and habits, focusing instead on pleasing the Lord and growing spiritually. A solider should be focusing on completing the mission, rather than over-focusing on tactics. 
 
-
-
+1. [x] True
+1. [ ] False
 
 {{< /quizdown >}}
 

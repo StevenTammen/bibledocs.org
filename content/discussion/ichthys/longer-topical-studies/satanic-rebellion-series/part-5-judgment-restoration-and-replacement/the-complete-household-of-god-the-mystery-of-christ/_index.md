@@ -360,6 +360,37 @@ In this way, I think we could also rightly consider the giving of the Holy Spiri
 
 {{< quizdown >}}
 
+# The "mystery" is what: 
+
+I. The incarnation and sacrifice of Christ
+II. The inclusion of large numbers of gentiles in the family of God
+
+1. [ ] I. alone
+1. [ ] II. alone
+1. [x] All of the above
+1. [ ] None of the above
+
+# Which of these statements are false? 
+
+Check all that apply.
+
+1. [x] The angels understood the mystery of Christ and His Church before the incarnation and Church age. 
+1. [ ] Israel's present hardness of heart will end when the Church is completed and Christ returns. 
+1. [x] The particular details of the suffering of the Messiah and the inclusion of gentiles into the family of God were very well understood by the Old Testament prophets. 
+
+# Which of these statements are true?
+
+Check all that apply. 
+
+1. [ ] The giving of the Holy Spirit in the Church age was anticipated by Old Testament believers.
+1. [x] The ministry of the Holy Spirit is essential to the expansion of evangelism in the Church Age.
+1. [ ] The Church only includes believers from Pentecost forward.
+1. [x] It was appropriate for the erection of the great edifice of the Church to wait until after Christ's victory and glorification.
+
+# True or False: The gift and ministry of the Holy Spirit had little effect on the increase of gentile salvation in the Church age. 
+
+1. [ ] True
+1. [x] False
 
 {{< /quizdown >}}
 

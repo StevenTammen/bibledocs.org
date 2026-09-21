@@ -17,7 +17,7 @@ layout: content-page
 
 Israel holds a special place in God's plan. Jewish believers are the foundation for the holy building that God is erecting - not only in the Jewish age, but also in the Church age. Jewish believers have played and continue to play a critical part in all generations of the Church. Salvation belongs to the Jews as first priority, coming to the Gentiles by the grace of God. Rather than *replacing* Israel, gentile believers have become *part* of God's household along with Israel. Gentile believers are the wild olive branch that has been grafted into the natural olive tree Israel.
 
-Israel has largely rejected their Messiah, tripping over the Cornerstone, Jesus Christ, and the "offense" of His cross. Jesus Himself mourned the hardness of the Jews. While many first century Jews rejected the gospel just as their Judean countrymen had rejected their own Messiah, Jewish believers were both the original foundation of the Church and continued to play a huge role after the influx of the gentiles had begun. Despite this general "hardness" towards Christ that currently dominates the Jewish people, Israel will once more take the lead in spectaular fashion when the Jewish age overlaps with the Church age for its final seven years, known as the Tribulation. This leading role is seen in two major ways: the ministries of Moses and Elijah, and also of the 144,000 witnesses. At Christ's Second Advent, the hardness will end as the vision of Him returning in glory will bring about a profound and glorious change of heart of Israel and many Jewish people will turn to Christ for salvation. In the millennium, Jesus will rule from Jerusalem, as the inheritor of the Davidic line of Jewish Kingship. All this makes our Jewish brethren the perfect people to run alongside as we worship our Savior, who delivered Jew and Gentile alike. 
+Israel has largely rejected their Messiah, tripping over the Cornerstone, Jesus Christ, and the "offense" of His cross. Jesus Himself mourned the hardness of the Jews. While many first century Jews rejected the gospel just as their Judean countrymen had rejected their own Messiah, Jewish believers were both the original foundation of the Church and continued to play a huge role after the influx of the gentiles had begun. Despite this general "hardness" towards Christ that currently dominates the Jewish people, Israel will once more take the lead in spectacular fashion when the Jewish age overlaps with the Church age for its final seven years, known as the Tribulation. This leading role is seen in two major ways: the ministries of Moses and Elijah, and also of the 144,000 witnesses. At Christ's Second Advent, the hardness will end as the vision of Him returning in glory will bring about a profound and glorious change of heart of Israel and many Jewish people will turn to Christ for salvation. In the millennium, Jesus will rule from Jerusalem, as the inheritor of the Davidic line of Jewish Kingship. All this makes our Jewish brethren the perfect people to run alongside as we worship our Savior, who delivered Jew and Gentile alike. 
 
 <!--more-->
 
@@ -35,7 +35,7 @@ Israel has largely rejected their Messiah, tripping over the Cornerstone, Jesus 
 
 Israel holds a special place in God's plan. Jewish believers are the foundation for the holy building that God is erecting - not only in the Jewish age, but also in the Church age. Jewish believers have played and continue to play a critical part in all generations of the Church. Salvation belongs to the Jews as first priority, coming to the Gentiles by the grace of God. Rather than *replacing* Israel, gentile believers have become *part* of God's household along with Israel. Gentile believers are the wild olive branch that has been grafted into the natural olive tree Israel.
 
-Israel has largely rejected their Messiah, tripping over the Cornerstone, Jesus Christ, and the "offense" of His cross. Jesus Himself mourned the hardness of the Jews. While many first century Jews rejected the gospel just as their Judean countrymen had rejected their own Messiah, Jewish believers were both the original foundation of the Church and continued to play a huge role after the influx of the gentiles had begun. Despite this general "hardness" towards Christ that currently dominates the Jewish people, Israel will once more take the lead in spectaular fashion when the Jewish age overlaps with the Church age for its final seven years, known as the Tribulation. This leading role is seen in two major ways: the ministries of Moses and Elijah, and also of the 144,000 witnesses. At Christ's Second Advent, the hardness will end as the vision of Him returning in glory will bring about a profound and glorious change of heart of Israel and many Jewish people will turn to Christ for salvation. In the millennium, Jesus will rule from Jerusalem, as the inheritor of the Davidic line of Jewish Kingship. All this makes our Jewish brethren the perfect people to run alongside as we worship our Savior, who delivered Jew and Gentile alike. 
+Israel has largely rejected their Messiah, tripping over the Cornerstone, Jesus Christ, and the "offense" of His cross. Jesus Himself mourned the hardness of the Jews. While many first century Jews rejected the gospel just as their Judean countrymen had rejected their own Messiah, Jewish believers were both the original foundation of the Church and continued to play a huge role after the influx of the gentiles had begun. Despite this general "hardness" towards Christ that currently dominates the Jewish people, Israel will once more take the lead in spectacular fashion when the Jewish age overlaps with the Church age for its final seven years, known as the Tribulation. This leading role is seen in two major ways: the ministries of Moses and Elijah, and also of the 144,000 witnesses. At Christ's Second Advent, the hardness will end as the vision of Him returning in glory will bring about a profound and glorious change of heart of Israel and many Jewish people will turn to Christ for salvation. In the millennium, Jesus will rule from Jerusalem, as the inheritor of the Davidic line of Jewish Kingship. All this makes our Jewish brethren the perfect people to run alongside as we worship our Savior, who delivered Jew and Gentile alike. 
 
 <!-- summary -->
 
@@ -257,6 +257,54 @@ Can you not see that all this makes our Jewish brethren the perfect people to ru
 
 {{< quizdown >}}
 
+# True or False: Gentiles have joined Israel in the household of God, rather than replacing Israel. 
+
+1. [x] True
+1. [ ] False
+
+# Which of these statements are true?
+
+Check all that apply.
+
+1. [ ] Jewish believers play a significant role in the Church in the Jewish Age only. 
+1. [x] All of Christ's apostles were Jewish.
+1. [ ] Only about half the writers of the Bible were Jewish. 
+1. [x] Jesus Christ, the Messiah, is Jewish. 
+1. [x] The final world-wide witness of the Gospel (and God's warning of impending doom) will be carried to the four corners of the earth by 144,000 Jews. 
+
+# True or False: When Jesus returns, He will rule the entire world from Jerusalem as the inheritor of the Davidic line of Jewish Kingship, an obvious sign to all that Israel has special significance in God's family. 
+
+1. [x] True
+1. [ ] False 
+
+# Which of these statements are false?
+
+I. Antisemitism is foolish and dangerous, for God will not tolerate those persecuting His people.
+II. The hardness of heart presently demonstrated by the majority of Israel will end when the Church is completed and Christ returns.
+III. Gentile believers have been grafted into the "root" of Israel.
+
+1. [ ] I. and III. alone. 
+1. [ ] I. and II. alone. 
+1. [ ] III. alone. 
+1. [ ] All of the above. 
+1. [x] None of the above.
+
+# The twelve foundations of the wall of the New Jerusalem are named for:
+
+1. [ ] Old Testament prophets
+1. [x] The twelve Jewish apostles of Jesus
+1. [ ] Israel's twelve tribes
+
+# The twelve gates of New Jerusalem are named for:
+
+1. [x] Israel's twelve tribes
+1. [ ] The twelve Jewish apostles of Jesus
+1. [ ] Old Testament prophets 
+
+# True or False: Two major reasons contribute to the hardness of heart that dominates the Jewish people: refusal to accept a suffering Messiah, and resentment over the inclusion of gentiles in the family of God. 
+
+1. [x] True
+1. [ ] False
 
 {{< /quizdown >}}
 

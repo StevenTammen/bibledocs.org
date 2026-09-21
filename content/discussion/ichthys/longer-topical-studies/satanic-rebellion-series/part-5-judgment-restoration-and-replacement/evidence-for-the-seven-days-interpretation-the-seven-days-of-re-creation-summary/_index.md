@@ -142,10 +142,41 @@ If we can see beauty in a composer masterfully weaving a theme throughout her gr
 1. [x] True 
 1. [ ] False
 
-# 
+# True or False: The seven days of re-creation do not serve as a model for God's plan for human history. 
 
-1. [ ] The Genesis re-creation days 
+1. [ ] True
+1. [x] False
 
+# Which of these statements are false?
+
+Both the seven Genesis recreation days and the seven millennial days of human history:
+
+1. [x] Have the first six days subdivided into 2 sets. 
+1. [ ] Have the first six days as a progression of separating the good from the bad (physically and spiritually, respectively).
+1. [ ] Have the seventh day as a memorial time of rest and blessing with paradise conditions.
+
+# True or False: God's use of pattern and symbolism, both in how He has constructed and organized human life and in the pages of scripture,offer us reminders of His plan for the ages. 
+
+1. [x] True
+1. [ ] False
+
+# The first six millennial days are subdivided into 3 pairs. Put them in order:
+
+1. Gentile Age
+2. Jewish Age
+3. Church Age
+
+# Which of these statements are true?
+
+I. Marriage symbolizes the union between Christ and His Church. 
+II. Willing human beings replace the fallen angels in the family of God.
+III. The seven day week reminds us of God's essential plan for human history, the calling out of the Church. 
+
+1. [ ] I. and III. alone
+1. [ ] II. alone
+1. [ ] I. alone
+1. [ ] None of the above
+1. [x] All of the above
 
 {{< /quizdown >}}
 
