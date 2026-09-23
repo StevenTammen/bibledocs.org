@@ -1,0 +1,18 @@
+{{/* 1. Strip out HTML/Markdown comments */}}
+{{ $cleaned := .Inner | replaceRE `(?s)<!--.*?-->` "" }}
+
+{{/* 2. Remove all remaining whitespace and tabs */}}
+{{ $cleaned = trim $cleaned " \t\n\r" }}
+
+{{/* 3. Render content only if something is left */}}
+{{ if ne $cleaned "" }}
+<div class="special-content scripture">
+
+<strong>
+	Summary
+</strong>
+
+{{ .Inner }}
+	
+</div>
+{{ end }}
