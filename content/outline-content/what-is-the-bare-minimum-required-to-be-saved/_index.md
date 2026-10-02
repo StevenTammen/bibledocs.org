@@ -64,7 +64,7 @@ content-thumbnail-description="Image of a cross, with the words 'Faith in Christ
 
 {{% summary %}}
 
-Salvation is God's free gift to humanity, purchased by the blood of Christ alone. Christ's spiritual death on the cross, not His physical blood, is what satisfied both God's justice and God's love and opened the way for our reconciliation to God. Humans cannot earn salvation. We are not worthy to pay for a single one of our sins. To be saved, all that God requires is our simple faith in Christ. Relying on anything other than faith in Jesus is saying that the cross was not enough, and turns Christianity a religion of works, rather than what it truly is - undeserved grace offered by a loving God. 
+Salvation is God's free gift to humanity, purchased by the blood of Christ alone. Christ's spiritual death on the cross, not His physical blood, is what satisfied both God's justice and God's love and opened the way for our reconciliation to God. Humans cannot earn salvation. We are not worthy to pay for a single one of our sins. To be saved, all that God requires is our simple faith in Christ. Relying on anything other than faith in Jesus is saying that the cross was not enough, and turns Christianity a religion of works, rather than what it truly is---undeserved grace offered by a loving God. 
 
 {{% /summary %}}
 
@@ -157,7 +157,7 @@ Despite being just about as core a teaching as any in Christianity, God's truly 
 
 {{< properties
 
-parent=""
+parent="Salvation is a truly free gift, brought about solely by the blood of Christ"
 
 ptags=""
 
@@ -171,15 +171,15 @@ content-end-card-next-video=""
 
 content-end-card-suggestion=""
 
-content-short-title="Assurance of salvation"
+content-short-title="Assurance of salvation [discussion]"
 
-content-thumbnail-description="Image of a page of the Bible with a salvation passage, with a text overlay of 'am I saved?'"
+content-thumbnail-description="Image/clip-art/etc. of a nervous/anxious person, with a text overlay of 'am I saved?'"
 
 >}}
 
 {{% summary %}}
 
-How do we know if we are saved? Does sin effect our salvation? Here we discuss assurance of salvation. Assurance should not be based upon our own human efforts, for human beings are incapable of saving ourselves, and it must not be based on feeling, because human emotions do not decide the truth. Rather, we must base our assurance of salvation on the truth of God's Word, knowing that regardless of how we feel, if we are trusting in Christ to deliver us from death and condemnation, then we are saved. While sin is not something we should treat lightly or ignore, God does not disown us when we make mistakes. Salvation is not based on our sin, but on whether or not we believe God's promise that Christ has already paid the price for our sins with His perfect sacrifice. No matter how scarlet our sins, God will always receive us back as His children if we are only willing to come to Him. 
+How do we know if we are saved? Does sin affect our salvation? Here we discuss assurance of salvation. Assurance should not be based upon our own human efforts, for human beings are incapable of saving ourselves, and it must not be based on feeling, because human emotions do not decide the truth. Rather, we must base our assurance of salvation on the truth of God's Word, knowing that regardless of how we feel, if we are trusting in Christ to deliver us from death and condemnation, then we are saved. While sin is not something we should treat lightly or ignore, God does not disown us when we make mistakes. Salvation is therefore not based on a lack of sin in our lives, but on the presence of belief that that Christ has already paid the price for all our sins with His perfect sacrifice. No matter how scarlet our sins, God will *always* receive us back as His children, if only we are willing to come to Him in faith.
 
 {{% /summary %}}
 
@@ -220,7 +220,7 @@ In Luke 18:9-14.
 <!-- slide-break -->
 
 
-### Is Water Baptism necessary for salvation?
+### Is water baptism necessary for salvation?
 
 {{< properties
 
@@ -230,19 +230,23 @@ stags=""
 
 timestamp=""
 
-content-comment-call-to-action=""
+content-comment-call-to-action="Do you agree that the Bible teaches faith in Christ alone is what saves us? Why then do you think water baptism continues to be something people often teach as necessary for salvation?"
 
 content-end-card-next-video=""
 
 content-end-card-suggestion=""
 
-content-short-title=""
+content-short-title="Is water baptism necessary for salvation?"
 
-content-thumbnail-description=""
+content-thumbnail-description="Image of a person getting water baptized, with an arrow pointed at them and text next to the arrow labeled 'necessary for salvation?'"
 
 >}}
 
 {{% summary %}}
+
+Here we examine some of the common Bible passages that people cite to say that water baptism is *necessary* for salvation. When these passages are properly translated and explained, it is clear that the Bible does *not* support this position. The blood of Christ is what purchased our salvation, and faith in Him alone is what saves us. Water baptism is a physical work, and has no power to save.
+
+Other people hold that water baptism is not necessary for salvation, but still something that God desires us to do. Water baptism was John's baptism, commanded for the Early Church, which was comprised mostly of Jewish people. In our dispensation of the Church, water baptism is not authorized. When a person believes in Christ, they are immediately baptized into the body of Christ through the Holy Spirit. Salvation is by faith in Christ *alone*, meaning that absolutely nothing else can be inserted into the process without contradicting that statement.
 
 {{% /summary %}}
 
@@ -297,11 +301,11 @@ If they try to say that this hypothetical person would actually be saved because
 
 <!-- slide-break -->
 
-#### Group discussion
+#### Group discussion: Baptism and the Great Commission
 
 {{< properties
 
-parent=""
+parent="Is water baptism necessary for salvation?"
 
 ptags=""
 
@@ -309,19 +313,25 @@ stags=""
 
 timestamp=""
 
-content-comment-call-to-action=""
+content-comment-call-to-action="Do you find the evidence that the Great Commission refers to Spirit baptism convincing? Why do you think translators continue to use the word “in” when translating, even though the preposition is actually “into” in the Greek?"
 
 content-end-card-next-video=""
 
 content-end-card-suggestion=""
 
-content-short-title=""
+content-short-title="Baptism and the Great Commission [discussion]"
 
-content-thumbnail-description=""
+content-thumbnail-description="Black background with the Greek preposition 'εἰς' in white text on left, then an equals sign, and then the word 'into'."
 
 >}}
 
 {{% summary %}}
+
+Matthew 28:19, the Great Commission passage, is often used as a proof text to support water baptism. However, English versions often mistranslate the Greek text. In the phrase, "baptizing them in the name of the Father and of the Son and of the Holy Spirit", the word "*in*" is actually "*into*" in the Greek. The Holy Spirit baptizes us *into* Christ, and we become spiritually united with God. In other words, this verse is referring to Spirit baptism, rather than water baptism.  
+
+For a short time in the early Church, the Holy Spirit was physically transferred by the laying on of hands, at times mediated through water baptism.
+
+However, this physical transferring stopped not long after the Church age began, because by the time Romans was written, Paul says that anyone without the Holy Spirit is not a believer (Romans 8:9). To make Paul's statement there logically compute, the Holy Spirit must now indwell a person immediately upon their faith in Christ, and not a second later.
 
 {{% /summary %}}
 

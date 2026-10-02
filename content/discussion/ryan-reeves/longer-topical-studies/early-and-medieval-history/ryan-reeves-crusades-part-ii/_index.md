@@ -10,7 +10,7 @@ weight: 140
 category: CrossTalk Bible Study
 date: 2026-09-12T19:00:00
 
-playlist-short-title: 
+playlist-short-title: "Crusades (Part II) [src: Ryan Reeves]"
 playlist-thumbnail-description: 
 ---
 
@@ -76,7 +76,7 @@ content-end-card-next-video=""
 
 content-end-card-suggestion=""
 
-content-short-title="The Second Crusade (src: Ryan Reeves)"
+content-short-title="The Second Crusade [src: Ryan Reeves]"
 
 content-thumbnail-description="An image of the ancient city of Damascus, with an arrow pointing to it labeled 'Damascus'."
 
@@ -86,9 +86,9 @@ content-thumbnail-description="An image of the ancient city of Damascus, with an
 
 {{% summary %}}
 
-While the First Crusade was largely a military success, with the crusaders establishing the Crusader States (also known as Outremer), the conquered lands still had to be maintained with effort. The internal pressures of different peoples and different cultures (even among the Christian population, who was largely Eastern rather than Latin Western), coupled with the external military tension from the Turks and Muslims threatened the continued existence of the so-called Crusader States. In 1144, the Crusader State of Edessa, a strategic territory due to controlling northern access to Jerusalem, fell to Zengi. Pope Eugene III issued another papal bull in response, calling for a second crusade, although this was largely ignored and it took time before the second crusade got off the ground. 
+While the First Crusade was largely a military success---with the crusaders establishing the Crusader States (also known as Outremer)---the conquered lands had to be maintained with great effort. The internal pressures that arose from having different peoples and different cultures (even among the Christian population, who was largely Eastern rather than Latin/Western) combined together coupled with the external military tension from the Turks and Muslims together threatened the very existence of the Crusader States. In 1144, the Crusader State of Edessa (a strategic territory that was important largely since it helped control northern access to Jerusalem), fell to a Muslim leader named Zengi. Pope Eugene III issued a papal bull in response, calling for a second crusade... although this seems to have been largely ignored initially, and it took time before the Second Crusade truly got off the ground. 
 
-The Second Crusade was not the military success the First Crusade had been. When the crusaders arrived, the city of Edessa was in ruins after Zengi's son, Nur ad-Din, crushed an uprising of the local Christian population, thus essentially destroying the city. With no defensible stronghold in Edessa, and with the questionable loyalties of Damascus, the leaders of the Second Crusade decided at the Council of Acre to attack Damascus. Without enough troops to effectively surround the city, the siege lasted only about four days, and the crusaders suffered heavy losses as they were forced into retreating, making the Second Crusade an embarrassing failure. 
+The Second Crusade was not the military success the First Crusade had been. When the crusaders finally arrived, the city of Edessa was in ruins after Zengi's son Nur ad-Din brutally crushed an uprising of the local Christians (which essentially decimated both the city's physical infrastructure and its Christian population). With no defensible stronghold in Edessa---and with the questionable loyalties of Damascus---the leaders of the Second Crusade decided at the Council of Acre to attack Damascus instead of trying to reclaim Edessa. However, without enough troops to effectively surround the city, the siege lasted only about four days, and the crusaders suffered heavy losses as they were forced into retreating, making the Second Crusade an embarrassing failure. 
 
 {{% /summary %}}
 
@@ -108,11 +108,11 @@ The Second Crusade was not the military success the First Crusade had been. When
 
 # What year did the northern Crusader State of Edessa fall to Zengi? 
 
-1. [x] 1144 
+1. [x] 1144
 
 # The Crusader States (or Outremer) faced external pressures that threatened what?
 
-1. [x] Their existence 
+1. [x] Their existence
 
 # Which territory had strategic significance due to its northern access to Jerusalem? 
 
@@ -120,7 +120,7 @@ The Second Crusade was not the military success the First Crusade had been. When
 
 # Which person called for a second crusade? 
 
-1. [x] Pope Eugene III
+1. [x] (Pope Eugene III|Eugene III)
 
 # Who made the crusaders of the Second Crusade swear an oath of homage before receiving access to food and supplies?
 
@@ -133,7 +133,7 @@ The Second Crusade was not the military success the First Crusade had been. When
 
 # Who forbade the nobles from bringing fancy clothes, hunting dogs, and falcons with them on the Second Crusade? 
 
-1. [x] Pope Eugene III
+1. [x] (Pope Eugene III|Eugene III)
 
 # Who was the leader of the French forces in the Second Crusade?
 
@@ -141,7 +141,7 @@ The Second Crusade was not the military success the First Crusade had been. When
 
 # In 1147, Conrad III and the German forces suffered heavy losses in what battle?
 
-1. [x] Battle of Dorylaeum
+1. [x] (The Battle of Dorylaeum|Battle of Dorylaeum)
 
 # Who was the son of Zengi?
 
@@ -363,13 +363,13 @@ content-end-card-suggestion=""
 
 content-short-title="The terrible power of precedent"
 
-content-thumbnail-description="Image of crusaders with an arrow pointing at them, with the word 'precedent', then an equals sign, and the word 'power' with a question mark on the right."
+content-thumbnail-description="Image of crusaders with an arrow pointing at them, with the word 'precedent', then an equals sign, and the word 'power'."
 
 >}}
 
 {{% summary %}}
 
-In many ways, the First Crusade broke new ground, and paved the way for the events that followed. Violence, once argued **against** by central church authority, was justified by that same authority during the First Crusade, with crusaders being promised plenary indulgences and remission of sin in exchange for going to war. This precedent began spilling over into the fabric of Medieval European society, and when the pope called for a Second Crusade (and the crusades that followed), justification wasn't a major concern. Precedents are powerful, and as evidenced by the Crusades, can be very dangerous. As believers, we should take care that the precedents we set are founded entirely on solid biblical truth, for just as "a little leaven leavens the whole lump", imperfections we ignore can easily come to permeate the whole Church. 
+In many ways, the First Crusade broke new ground, and paved the way for the events that followed. Violence, once argued **against** by central church authority, was justified by that same authority during the First Crusade, with crusaders being promised a plenary indulgence and remission of sin in exchange for going to war. This precedent began spilling over into the fabric of Medieval European society writ large, and when the pope called for a Second Crusade (and the crusades that followed), justification was no longer the major concern it once was. Precedents are powerful, and as evidenced by the Crusades, can be very dangerous. As believers, we should take care that the precedents we set are founded entirely on solid biblical truth, for just as "a little leaven leavens the whole lump", imperfections we ignore can easily come to permeate the whole Church. 
 
 {{% /summary %}}
 
@@ -438,21 +438,25 @@ stags=""
 
 timestamp=""
 
-content-comment-call-to-action=""
+content-comment-call-to-action="Do you find it interesting that Saladin later become so honored in European culture? Do you think the Crusaders could have outright won the Third Crusade had they had more unified leadership?"
 
 content-end-card-next-video=""
 
 content-end-card-suggestion=""
 
-content-short-title=""
+content-short-title="The Third Crusade [src: Ryan Reeves]"
 
-content-thumbnail-description=""
+content-thumbnail-description="Image of the ancient city of Jerusalem, with overlaid text: 'Retake Jerusalem'."
 
 >}}
 
 {{< discussion-note src="Ryan Reeves" text="Crusades (Part II)" url="https://www.youtube.com/watch?v=ju0HLYU9Z7A" >}}
 
 {{% summary %}}
+
+The Third Crusade in some ways became highly romanticized, and two men in particular---Richard the Lionheart on the side of the crusaders, and Saladin on the side of the Muslims---were practically turned into legends. In essence, these two military leaders came to have reputations for chivalry and strong moral character, and the idealized tales of the epic showdown between them are partly responsible for whitewashing the crusades writ large (but particularly the Third Crusade).
+
+In 1187, Saladin captured Jerusalem (as well as a majority of the surrounding areas), putting the remaining Crusader States in danger of being completely overrun by the Muslims. Pope Gregory VIII called for a crusade in response, and the armies set out for the Holy Land. Divisions among the crusaders' leadership complicated their military efforts. After arguments over war spoils and political candidates, Philip II of France and Leopold V of Austria took the bulk of their armies and left Richard the Lionheart in the Holy Land. Richard went on to attack and capture the port city of Jaffa, delivering a strong blow to Muslim morale, and helping block their access to the coast. (Throughout the Third Crusade, the Muslims and Crusaders continued to struggle over Jaffa). Ultimately, Saladin and Richard signed a treaty in September 1192, without either completely crushing the other. The Crusaders had failed to recapture Jerusalem, and the Muslims had failed to drive the Christians completely out of Syria and the Holy Land, ending the Third Crusade in something of a stalemate.
 
 {{% /summary %}}
 
@@ -596,11 +600,11 @@ At any rate, in the end, neither side was entirely satisfied with the results of
 
 <!-- slide-break -->
 
-#### Group discussion
+#### Group discussion: The Third Crusade
 
 {{< properties
 
-parent=""
+parent="Ryan Reeves: The Third Crusade"
 
 ptags=""
 
@@ -608,19 +612,21 @@ stags=""
 
 timestamp=""
 
-content-comment-call-to-action=""
+content-comment-call-to-action="What do you think the Crusaders could have accomplished with unified leadership? Does it surprise you that the Third Crusade ended in a stalemate, despite having two brilliant military leaders opposing one another?"
 
 content-end-card-next-video=""
 
 content-end-card-suggestion=""
 
-content-short-title=""
+content-short-title="The Third Crusade [discussion]"
 
-content-thumbnail-description=""
+content-thumbnail-description="Image with representations of leaders and key people of the Third Crusade, such as Richard the Lionheart, Saladin, Philip II of France, Pope Gregory VIII, and the words 'Third Crusade' with an equals sign 'stalemate'"
 
 >}}
 
 {{% summary %}}
+
+Here we discuss various aspects of the Third Crusade, including Richard the Lionheart's larger than life persona, divisions among leadership on the Crusader side, and the assassination of Conrad of Montferrat. The Third Crusade ended in a stalemate of sorts, with neither side achieving a decisive victory. The Crusaders failed to retake Jerusalem, and the Muslims failed to drive the Christians completely out of Syria and the Holy Land.  
 
 {{% /summary %}}
 
