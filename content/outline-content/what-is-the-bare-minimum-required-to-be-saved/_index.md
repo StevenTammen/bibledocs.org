@@ -224,9 +224,9 @@ In Luke 18:9-14.
 
 {{< properties
 
-ptags=""
+ptags="Mark 16:16; 1 Peter 3:18-22; John 3:5"
 
-stags=""
+stags="Baptism > Is no longer of water, but is fundamentally spiritual in nature | Baptism > We are baptized into the person of the Trinity, spiritually | Salvation > Belief in Jesus is the only requirement for salvation | Textual interpolations > Long ending of Mark | Baptism > Water baptism is John's baptism, and no longer authorized for believers"
 
 timestamp=""
 
@@ -262,11 +262,23 @@ I should actually further clarify that many Christians who do prescribe water ba
 
 At any rate, some of those proof-text passages that are trotted out by some to argue that water baptism is strictly necessary for salvation:
 
-Mark 16:16
+{{% scripture p="Mark 16:16 | NIV11" %}}
 
-1 Peter 3:18-22
+**16** Whoever believes and is baptized will be saved, but whoever does not believe will be condemned.
 
-John 3:5
+{{% /scripture %}}
+
+{{% scripture p="1 Peter 3:18-22 | NIV11" %}}
+
+**18** For Christ also suffered once for sins, the righteous for the unrighteous, to bring you to God. He was put to death in the body but made alive in the Spirit. **19** After being made alive, he went and made proclamation to the imprisoned spirits— **20** to those who were disobedient long ago when God waited patiently in the days of Noah while the ark was being built. In it only a few people, eight in all, were saved through water, **21** and this water symbolizes baptism that now saves you also—not the removal of dirt from the body but the pledge of a clear conscience toward God. It saves you by the resurrection of Jesus Christ, **22** who has gone into heaven and is at God’s right hand—with angels, authorities and powers in submission to him.
+
+{{% /scripture %}}
+
+{{% scripture p="John 3:5 | NIV11" %}}
+
+**5** Jesus answered, “Very truly I tell you, no one can enter the kingdom of God unless they are born of water and the Spirit.
+
+{{% /scripture %}}
 
 Mark 16:16 is probably the easiest passage to handle. This is part of the so-called ["long ending of Mark"](https://en.wikipedia.org/wiki/Mark_16#Longer_ending_2), and is not even part of scripture, because it is a textual interpolation. So that is that.
 
@@ -309,7 +321,7 @@ parent="Is water baptism necessary for salvation?"
 
 ptags=""
 
-stags=""
+stags="Baptism > The Great Commission > Refers to Spirit baptism, not water baptism | Baptism > We are baptized into the person of the Trinity, spiritually | Holy Spirit > Indwelling ministry of | Baptism > The Great Commission > The Greek preposition εἰς often gets mistranslated as “in”, rather than “into” | Textual interpolations | Holy Spirit > Believers receive the Holy Spirit at the point of faith"
 
 timestamp=""
 
@@ -332,6 +344,102 @@ Matthew 28:19, the Great Commission passage, is often used as a proof text to su
 For a short time in the early Church, the Holy Spirit was physically transferred by the laying on of hands, at times mediated through water baptism.
 
 However, this physical transferring stopped not long after the Church age began, because by the time Romans was written, Paul says that anyone without the Holy Spirit is not a believer (Romans 8:9). To make Paul's statement there logically compute, the Holy Spirit must now indwell a person immediately upon their faith in Christ, and not a second later.
+
+{{% /summary %}}
+
+{{< quizdown >}}
+
+{{< /quizdown >}}
+
+<!-- slide-break -->
+
+### Is belonging to some specific group necessary for salvation?
+
+{{< properties
+
+ptags=""
+
+stags=""
+
+timestamp=""
+
+content-comment-call-to-action=""
+
+content-end-card-next-video=""
+
+content-end-card-suggestion=""
+
+content-short-title=""
+
+content-thumbnail-description=""
+
+>}}
+
+{{% summary %}}
+
+{{% /summary %}}
+
+{{< quizdown >}}
+
+{{< /quizdown >}}
+
+Note the word "specific" in the title on this section. While I suppose some people may believe that you must be a formal member of good standing in some physical brick-and-mortar church in order to actually be saved, I think most of the time the people who are pushy about such a thing don't treat it as a matter of salvation, but a matter of "what God wants us to do" (compare what we talked about before with the conventional Evangelical view of water baptism as being something God wants us to do, even if it is not directly tied to salvation). So instead of this section being about consistently showing up somewhere physical on Sunday mornings (or something to that effect), what we have in our cross-hairs here is more people who treat membership in their particular group as being a prerequisite for salvation.
+
+This teaching is very characteristic of cults proper. Most cults teach some form of "only group members are saved", and then use this as a club to bully and manipulate people. After all, when it is salvation on the line, people will be willing to do a lot. Nobody wants to go to hell, or miss out on heaven.
+
+Of course, many cults are smarter in their PR than being quite so blatant about it, and instead try to dress it up as "all people who are truly saved act they way we act, and everyone else is just deluding themselves that they are saved". The scary thing is that the clever ones will make an argument from scripture. For example:
+
+Matthew 7:21-23
+
+1 John 2:4
+
+They will say that their commands are equal to the commands of God mentioned in 1 John 2:4; that not doing what they say means you will find yourself turned away on judgement day, knocking but refused entry because you supposedly "failed to do what God wanted of you". (Never mind the fact that the things they say you have to do come from them not God).
+
+This is a twisted form of what is typically termed ["lordship salvation"](https://www.gotquestions.org/lordship-salvation.html). The general idea that faith without works is dead is clearly taught in scripture, and therefore that true belief always more than "mere intellectual assent" (to echo the terminology of those who typically criticize so-called ["easy-believism"](https://www.gotquestions.org/easy-believism.html)).
+
+The particular means of manipulation that cults use here is quite clever, because what they argue for really isn't salvation by works proper. What do I mean? Well, they may affirm this proposition:
+
+> It is *not* bearing fruit itself that saves, but instead it is true faith (that will thereafter necessarily cause fruit to be borne in the life of the believer) that saves.
+
+But just say that the particular behaviors they specify are the only "true fruit", and therefore that all people who are actually saved will exhibit these behaviors. They will be quick to say that it is not that these behaviors themselves save, but that all who are saved will exhibit these behaviors.
+
+Upon first examination, this might seem to tie our hands. We might know intuitively that the group is adding burdensome legalistic practices on top of belief, but when they hide behind the above reasoning, what can we actually do to argue against it?
+
+The critical thing to understand is that the true position that "faith without works is dead" and "all those with true faith bear fruit" is markedly different from "all people who are saved do XYZ specific actions". It is implicitly conflating these two things that gives cults and other groups manipulative power.
+
+Clearly, we Christians remain imperfect even after belief (cf. Romans 3:23; James 3:2). This means that we will still do things we ought not, and fail to do things we ought. What I mean by this is that we may truly believe, and yet still not bear all the fruit we should. If our faith is genuine, we will bear *some* fruit, to be sure (and that is what the Bible clearly teaches), but that does not mean that everyone with saving faith will necessarily bear the *same* fruit of faith. The two propositions are logically distinct from each other.
+
+The position that cults take is the latter: that everyone who is saved must bear XYZ specific fruit, and that if they don't then it *ipso facto* proves that their faith is not genuine faith. To use the imagery of the metaphor, they are essentially saying that all truly saved people will bear apples and pears (say), so if someone else bears grapes and strawberries, well, too bad so sad. Because their fruit isn't apples and pears, it means they aren't saved.
+
+When phrased in this way, I hope you can see how this is a bit ridiculous. Who are they to draw up an arbitrary list of fruits that are strictly necessary, while others somehow remain optional? In principle, we Christians are actually called to complete perfection (Matthew 5:48), with no distinction between "mandatory things" and "optional things". This means that any list-making is in the end nothing more than some human's idiosyncratic opinion about what is and is not important. And clearly such a thing can have nothing to do with salvation, QED.
+
+Attacking this position lets us ignore appeals to group membership almost entirely, because at the end of the day, they all mostly boil down to this principle of the group arbitrarily defining what is and is not "required". It may not be direct salvation by works they argue for, it is true, but that doesn't stop it from still being utter nonsense.
+
+#### Group discussion
+
+{{< properties
+
+parent=""
+
+ptags=""
+
+stags=""
+
+timestamp=""
+
+content-comment-call-to-action=""
+
+content-end-card-next-video=""
+
+content-end-card-suggestion=""
+
+content-short-title=""
+
+content-thumbnail-description=""
+
+>}}
+
+{{% summary %}}
 
 {{% /summary %}}
 
