@@ -25,13 +25,13 @@ This week was sort of a test run of the new content process that we started impl
 
 ### New content from this week
 
-Ichthys Bible Study:
+[Ichthys Bible Study](/meta/bibledocs-weekly-bible-studies/bibledocs-ichthys-bible-study/):
 
 - [What is the bare minimum required to be saved?](/outline-content/what-is-the-bare-minimum-required-to-be-saved/)
   - [§Salvation is a truly free gift, brought about solely by the blood of Christ](/outline-content/what-is-the-bare-minimum-required-to-be-saved/#salvation-is-a-truly-free-gift-brought-about-solely-by-the-blood-of-christ)
     - [§Group discussion: Assurance of salvation](/outline-content/what-is-the-bare-minimum-required-to-be-saved/#group-discussion-assurance-of-salvation)
 
-Open Bible Study:
+[Open Bible Study](/meta/bibledocs-weekly-bible-studies/bibledocs-open-bible-study/):
 
 - [Ryan Reeves: Crusades (Part II)](/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/ryan-reeves-crusades-part-ii/)
   - [§The Second Crusade](/discussion/ryan-reeves/longer-topical-studies/early-and-medieval-history/ryan-reeves-crusades-part-ii/#the-second-crusade)
