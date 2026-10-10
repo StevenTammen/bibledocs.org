@@ -50,7 +50,7 @@ stags="Blood of Christ > Satisfies both God's love and God's justice | Blood of 
 
 timestamp=""
 
-content-comment-call-to-action=""
+content-comment-call-to-action="Do you agree that salvation was (and could only be) paid for by the blood of Christ? Do you agree that nothing more than simple faith is required to take hold of it?"
 
 content-end-card-next-video=""
 
@@ -165,7 +165,7 @@ stags="Salvation > Assurance of | Salvation > Belief in Jesus is the only requir
 
 timestamp=""
 
-content-comment-call-to-action=""
+content-comment-call-to-action="Do you agree that the Bible teaches that only faith in Christ can save us, rather than a lack of sin? Why is it dangerous to trust human emotions instead of the Word of God?"
 
 content-end-card-next-video=""
 
@@ -363,19 +363,25 @@ stags=""
 
 timestamp=""
 
-content-comment-call-to-action=""
+content-comment-call-to-action="Do you agree that lists of “required” works of faith are nothing more than mere opinion? Why do you think making such lists continues to be such an effective tactic for cults?"
 
 content-end-card-next-video=""
 
 content-end-card-suggestion=""
 
-content-short-title=""
+content-short-title="Is belonging to some specific group necessary for salvation?"
 
-content-thumbnail-description=""
+content-thumbnail-description="Black background with white text. Has text 'Specific works' then an equals sign, followed by 'salvation?'"
 
 >}}
 
 {{% summary %}}
+
+Some people claim that belonging to their specific group is necessary for salvation. This is typical of cults proper, and is an effective manipulation tactic. Rather than claiming this outright, however, they might make an argument from scripture that "faith without works is dead" and then twist this truth and attempt to say that people who are *truly* saved will follow *their* teachings. The Bible does clearly state that faith without works is dead (and thus, that all who truly believe will bear some fruit of faith), but this is very different than claiming that "all who are truly saved will bear this specific fruit that our group prioritizes."
+
+Christians remain imperfect even after belief---doing things we ought not, and failing to do things we ought---but nevertheless, all genuine believers bear *some* fruit. However, not all believers will necessarily bear the *same* fruit. Yet that is precisely what cults claim: that if someone does not exhibit the specific fruit they require, then that person is not actually saved, no matter what they may claim to believe about Christ with their lips. In this way, many groups that focus on explicit membership distinctions center around the group defining what works of faith are "required" for salvation, picking and choosing. The problem with this is that Christians are actually called to *complete perfection* (Matthew 5:48). There is therefore no distinction between "mandatory things" and "optional things" for believers. And if that is true, then how can any list of "required" fruit be anything other than someone's mere opinion? Short answer: it necessarily cannot be anything other than exactly that. *Mere opinion*.
+
+As should be obvious, salvation has nothing to these arbitrary lists of behaviors that are mere opinion. Instead, as we have been saying all along, salvation is only ever received through simple faith in Christ, and that alone.
 
 {{% /summary %}}
 
@@ -415,11 +421,11 @@ When phrased in this way, I hope you can see how this is a bit ridiculous. Who a
 
 Attacking this position lets us ignore appeals to group membership almost entirely, because at the end of the day, they all mostly boil down to this principle of the group arbitrarily defining what is and is not "required". It may not be direct salvation by works they argue for, it is true, but that doesn't stop it from still being utter nonsense.
 
-#### Group discussion
+#### Group discussion: Salvation and works of faith
 
 {{< properties
 
-parent=""
+parent="Is belonging to some specific group necessary for salvation?"
 
 ptags=""
 
@@ -427,19 +433,21 @@ stags=""
 
 timestamp=""
 
-content-comment-call-to-action=""
+content-comment-call-to-action="Do you agree that faith produces works, rather than works being required to earn salvation? Do you find it interesting that the actions of Abraham (in offering up his only son) and Rahab (in sheltering the Jewish spies) are used by James as examples in James 2, rather than something more conventional?"
 
 content-end-card-next-video=""
 
 content-end-card-suggestion=""
 
-content-short-title=""
+content-short-title="Salvation and works of faith [discussion]"
 
-content-thumbnail-description=""
+content-thumbnail-description="Image of a stressed person, with the words 'Must salvation be earned?!'" 
 
 >}}
 
 {{% summary %}}
+
+Here we discuss salvation and works of faith. Faith is not *composed of* works; rather, faith *produces* works. Instead of defining our Christianity by ritualistic behaviors, we should recognize that true works of faith are simply things done in obedience to God, as in the examples of Abraham and Rahab in James 2. The actions of Abraham (in offering up his only son) and Rahab (in sheltering the Jewish spies) may not look like conventional "good works", but that is in fact much the point of James using these things as examples. This lesson should not be lost on us.
 
 {{% /summary %}}
 

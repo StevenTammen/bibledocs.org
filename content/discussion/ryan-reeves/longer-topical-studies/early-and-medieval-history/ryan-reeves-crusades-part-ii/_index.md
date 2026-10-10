@@ -676,19 +676,21 @@ stags=""
 
 timestamp=""
 
-content-comment-call-to-action=""
+content-comment-call-to-action="Why do you think the accounts of Richard and Saladin became exaggerated? Do you agree that their reasons for “chivalry” were more calculated moves of diplomacy and propaganda than sincere respect?"
 
 content-end-card-next-video=""
 
 content-end-card-suggestion=""
 
-content-short-title=""
+content-short-title="Evaluating Richard the Lionheart and Saladin as chivalric heroes"
 
-content-thumbnail-description=""
+content-thumbnail-description="Image of Richard the Lionheart on the left, image of Saladin on the right. Over the top of both images, have the words 'chivalric tales' then an equals sign, followed by 'fact or myth?'"
 
 >}}
 
-{{% summary %}}
+{{% summary %}} 
+
+As noted previously, the Third Crusade became in some ways highly romanticized, and the tales spun about Richard the Lionheart and Saladin (the primary military leaders on either side) were no exception. Accounts of chivalric displays by these two military leaders---both personally, and towards one another---were certainly not lacking in the High Middle Ages. But is this narrative more fact or myth? Exactly how and *why* did these two men become regarded as chivalric heroes? Here we analyze the historical evidence for several of these purported chivalric displays, and what we are to make of them.
 
 {{% /summary %}}
 
