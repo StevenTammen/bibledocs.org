@@ -961,6 +961,184 @@ While they exchanged formal diplomatic gestures of "chivalry"—such as Saladin 
 
 In my opinion, this does not mean that Richard and Saladin were completely unworthy torchbearers for ideals of European chivalry, but merely that there was a heavy dose of exaggeration present in the tales about them. 
 
+<!-- slide-break -->
+
+#### Follow-on-topic: The only hero we should worship is Christ
+
+{{< properties
+
+ptags=""
+
+stags=""
+
+timestamp=""
+
+content-comment-call-to-action="Why do you think the Bible places a greater emphasizes Christ's victory on the cross than His return in majesty? Do you agree that it is eminently foolish to worship the temporary glory of human beings instead of Christ, whose humility and self-sacrificial love demonstrate true eternal glory?"
+
+content-end-card-next-video=""
+
+content-end-card-suggestion=""
+
+content-short-title="The only hero we should worship is Christ"
+
+content-thumbnail-description="Image of a gilded kingly crown the left, image of a crown of thorns on the right. Text of 'What is worthy of worship?' across the top of both images."
+
+>}}
+
+{{% summary %}}
+
+Certain human kings and emperors throughout history have demanded worship from their subjects, but in truth, only God is worthy of our worship. The Bible commands us to not even worship angels, so how much more should we not worship feeble mankind! Everything a man or woman possesses (like strength, power, beauty, wealth, and so on) can be stripped away in an instant---all human achievements are ephemeral, regardless of how impressive.
+
+Whatever positive qualities a human king might display, Jesus is infinitely more worthy of our respect, for He is the King of Kings and Lord of Lords. Christ's reign is perfect and eternal. Kingship doesn't *describe* Him; He *defines* it. 
+
+While people revere the glory of men possessing power and wealth, the Bible emphasizes that true glory is not found in these. Our King went to the cross in self-sacrificial love, laying down His life to redeem us out of slavery to sin. In this act, He gave us the perfect example of service and humility. Moreover, it was through this service and humility that Jesus crushed the head of the Serpent; Jesus did not bring about God's eternal victory as the mighty Conquering King, but as the Suffering Servant who died for us all. What are we to learn from this? As I see things, the main takeaway is that the Bible's proportionally greater emphasis on Christ's victory on the cross (relative to His eventual return in power at Armageddon) demonstrates that beyond all shadow of doubt, Jesus was being dead serious when He stated that whoever wishes to be the greatest must make himself servant of all. 
+
+When we consider who to esteem in this life, we should make sure that this is the only standard by which we evaluate.
+
+{{% /summary %}}
+
+{{< quizdown >}}
+
+{{< /quizdown >}}
+
+<!-- slide-break -->
+
+##### No human beings are worthy of worship, in the formal sense
+
+When we speak of worship (cf. the Greek verbs [προσκυνέω](https://biblehub.com/greek/4352.htm), [λατρεύω](https://biblehub.com/greek/3000.htm), [σέβομαι](https://biblehub.com/greek/4576.htm), and the concordance hits that go along with them; also cf. [this Biblical Hermeneutics Stack Exchange Q&A](https://hermeneutics.stackexchange.com/questions/68592/what-does-%CF%80%CF%81%CE%BF%CF%83%CE%BA%CF%85%CE%BD%CE%AD%CF%89-translated-worship-mean-in-matt-22)), we are speaking of an attitude of utmost reverence and respect. The imagery evoked by some of the verbs is literally getting down on your hands and knees and bowing with your face to the ground.
+
+Throughout history, some human kings and emperors have demanded this of their subjects. In truth, only God is worthy.
+
+{{% scripture p="Exodus 20:3-6 | NIV11" %}}
+
+**3** “You shall have no other gods before me.
+
+**4** “You shall not make for yourself an image in the form of anything in heaven above or on the earth beneath or in the waters below. **5** You shall not bow down to them or worship them; for I, the Lord your God, am a jealous God, punishing the children for the sin of the parents to the third and fourth generation of those who hate me, **6** but showing love to a thousand generations of those who love me and keep my commandments.
+
+{{% /scripture %}}
+
+These are the First and Second Commandment (of the Ten Commandments). Put simply, worshipping things other than God is idolatry. Full stop.
+
+<!-- slide-break -->
+
+If we aren't even supposed to worship angels (cf. Revelation 19:10; Revelation 22:8-9), how much less human beings, who are here today and gone tomorrow (cf. 1 Peter 1:24, quoting Isaiah 40:6–8; James 4:14)? What is the glory of mankind, that humans should be worshiped? Is a man strong? His strength will fade. Is a woman beautiful? Age will catch up with her, and strip it away. Is a man rich? Time and circumstance can deprive him of it all.
+
+In fact, the life of Richard the Lionheart is an excellent demonstration of the principle. In a matter of days, Richard went from being crowned in glory and honor as the respected leader of the crusader forces to harsh imprisonment and deprivation.
+
+And Saladin? The empire he built with his own hands fractured and splintered nearly instantly after his death, as his successors fought each other for power.
+
+No matter how great the human leader, they are still mortal flesh. They still bleed and die, and take nothing with them in death. All of their achievements are temporary and ephemeral. They are not *worthy* of our worship---even the most impressive among them. Why? Because they are not God.
+
+<!-- slide-break -->
+
+##### Inasmuch as regular human kings actually have honor and glory, they've got *nothing* on Jesus
+
+Even if we set aside His divinity for a moment (and the fact that only divinity is truly worthy of worship), Jesus puts all other kings so far in the shade that they aren't even worthy of being compared.
+
+Jesus is the true heir to the Davidic throne, and His reign will know no end (cf. Isaiah 9:7; Luke 1:33). He is the King of Kings and Lord of Lords (Revelation 19:16). He isn't *a* King; he is *the* King. Everyone else rules by means of a small slice of delegated divine authority (Romans 13:4); Jesus has been given *all* authority (Matthew 28:18).
+
+If loyal subjects feel tingly and awestruck in the presence of their monarchs (to such a degree that we are impressed by said monarchs), then consider that in the presence of Jesus, His *enemies* will bow down and confess His glory (Isaiah 45:23; Romans 14:11; Philippians 2:10), whether they want to or not. *That* is the nature of the raw majesty Jesus possesses as the Son of God.
+
+One might go on. The point is, once we properly understand who Jesus truly is, then any impulse we might have to glorify regular human beings should be dwarfed by our appreciation for Jesus's surpassing perfection. If we even manage to grasp a *shred* of the awe we ought to possess, we will esteem Jesus so much higher than human kings that the latter will seem to us like so much refuse.
+
+Honestly don't feel that way at present? Then maybe you need to spend some additional time in the Word studying who exactly Jesus is. Once we properly grasp Jesus's identity as the Prince of the Universe--the Firstborn of All Creation---then the *only* proper response is to get down with our face to ground in fear and reverence. His Majesty's glory simply demands it.
+
+<!-- slide-break -->
+
+##### Any positive characteristic of human kings Jesus does better
+
+Is a king just? Are His judgments sound? Jesus is perfectly just and will be the perfect judge of the entire universe (John 5:22).
+
+Is a king mighty on the battlefield, and full of valor? Jesus will *single-handedly* annihilate all His enemies at Armageddon (Revelation 19:11-21).
+
+Is a king merciful and benevolent? Jesus personally went to the cross for His enemies, and died for us while we were yet sinners (Romans 5:8).
+
+In short, if some human kings are comparatively noble and impressive (and they may well be), Jesus is *more* impressive, to a superlative degree. Kingship doesn't *describe* Him; He *defines* it.
+
+Perhaps some of this comparison is lost on those of us who live in cultures that make noises about moving past such antiquated conceptions as royalty. We have *democracy* now, you see. Equality and all that.
+
+But truly, Jesus is not on the same level as us, and thank God for that! Rather, His perfection is our goal and our target. As foot soldiers in the Army of Christ, we can look up to our Commanding Officer without a hint of jealousy, but only gratitude, because it is through His blood that we have been purchased out of slavery to sin. Rather than resenting the authority gap, we are *glad* to place ourselves under Him as servants in the household of God.
+
+And we can rest easy in the knowledge that put on the scale of comparison, our King *always* wins, no matter who is on the other side of the comparison. We can take pride in Him and brag on Him all day long, like starry-eyed servants defending their master, like proud locals daring others to tangle with their boy. Do your worst, world. You'll always lose. Because our King really is *that good*.
+
+<!-- slide-break -->
+
+##### Jesus will return as the Glorious King, it is true. But first, He was the Suffering Servant. What does this teach us about true heroism?
+
+If you look at history, people seem to mostly revere the Richards and Saladins of the world---those who impress by their power and might. But when we consider the most important event in all history---Jesus paying for our sins by being judged for them in our place---we are shown that the glory that surpasses all other glory actually found its form in suffering and self-sacrificing love, even unto the point of death upon a cross.
+
+That is to say, even when it comes to Jesus, people stumble over the cross while reaching for the crown. Consider that in Revelation 5, the Lion of Judah is mentioned only once in verse 5, but the *entire rest of the chapter* (verses 6 through 14) is about the worthiness of the Lamb. Does our thinking accurately reflect this biblical distribution of focus and glory? Do we properly glorify the cross, or do we only want to see Jesus return in power?
+
+What I am trying to say is that according to the Bible, true greatness is not as people think. Compare Matthew 18:1-5; Matthew 23:11-12; Mark 9:33-35. The path to true glory is through service and humility, not outward greatness.
+
+<!-- slide-break -->
+
+Nobody has ever exemplified or will ever exemplify this better than Jesus:
+
+{{% scripture p="Philippians 2:6-8 | NIV11" %}}
+
+**6** Who, being in very nature God, did not consider equality with God something to be used to his own advantage; **7** rather, he made himself nothing by taking the very nature of a servant, being made in human likeness. **8** And being found in appearance as a man, he humbled himself by becoming obedient to death—even death on a cross!
+
+{{% /scripture %}}
+
+In fact, it is *on account of* His voluntary humbling of Himself that the Father has raised Him to be higher than all others:
+
+{{% scripture p="Philippians 2:9-11 | NIV11" %}}
+
+**9** ***Therefore*** God exalted him to the highest place and gave him the name that is above every name,
+**10** that at the name of Jesus every knee should bow, in heaven and on earth and under the earth,
+**11** and every tongue acknowledge that Jesus Christ is Lord, to the glory of God the Father.
+
+{{% /scripture %}}
+
+<!-- slide-break -->
+
+When we consider who to honor and respect in this life, we should save our praise for those who are great inwardly, not just those who are great outwardly. Because it is actually the Suffering Servant that crushed the head of the Serpent (cf. Genesis 3:15), not the Conquering King; Christ's spiritual death upon the cross brought victory, not His might and power at Armageddon. This is not to say that we cannot glorify God for Jesus's valor and majesty when He returns in power, but just that we should always remember that the Bible actually places much greater emphasis on what He did for us upon the cross.
+
+<!-- slide-break -->
+
+#### Group discussion: On honoring human authority; how greed is idolatry
+
+{{< properties
+
+parent="Follow-on-topic: The only hero we should worship is Christ"
+
+ptags=""
+
+stags=""
+
+timestamp=""
+
+content-comment-call-to-action="Why is it important for Christians to honor God above all human authority? How can we guard our hearts against idolatry of any form?"
+
+content-end-card-next-video=""
+
+content-end-card-suggestion=""
+
+content-short-title="On honoring human authority; how greed is idolatry [discussion]"
+
+content-thumbnail-description="Image of a king, with an arrow pointing toward him having text that says, 'honor rulers?'"
+
+>}}
+
+{{% summary %}}
+
+Should Christians honor governmental and secular authority? Should we bow or use terms like "lord" and "your majesty" when addressing those in power? The Bible does command us to show proper respect and honor to whom it is due (for those in authority have been established by God), but God is the only one truly worthy of *worship* in the formal sense.
+
+We also discuss how greed is referred to as idolatry in the Bible (Ephesians 5:5). A desire for physical objects should not come before God in our lives. Wealth is not our security; rather we should trust God to provide for our needs, and set our minds to storing up "treasures in heaven" (Matthew 6:20).
+
+Whenever something overpowers God in our minds, we have made an idol of it, and greed is no exception to this rule. 
+
+{{% /summary %}}
+
+{{< quizdown >}}
+
+{{< /quizdown >}}
+
+<!-- slide-break -->
+
+
+
 {{% /content %}}
 
 {{% section-navigation %}}

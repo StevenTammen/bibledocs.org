@@ -5718,6 +5718,15 @@ header-title="What of Hebrews 9:27?"
 
 ## Salvation {#salvation}
 
+{{% subject-index-link
+content-type="Outline Content"
+content-type-slugified="outline-content"
+link="/outline-content/what-is-the-bare-minimum-required-to-be-saved/"
+study-title="What is the bare minimum required to be saved?"
+page-title="What is the bare minimum required to be saved?"
+
+%}}
+
 ### Salvation > Humans cannot save themselves {#salvation-humans-cannot-save-themselves}
 
 {{% subject-index-link
