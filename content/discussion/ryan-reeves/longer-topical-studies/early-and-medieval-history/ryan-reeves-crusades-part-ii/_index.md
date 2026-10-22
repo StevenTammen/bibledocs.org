@@ -728,6 +728,16 @@ I have adopted the following structure in examining this matter:
 
 ###### Rescuing his fiancée in Cyprus (1191)
 
+{{< properties
+
+ptags=""
+
+stags="Richard the Lionheart > Evaluating historical accounts of > Rescuing his fiancée in Cyprus"
+
+timestamp=""
+
+>}}
+
 The narrative:
 
 - In April 1191, a heavy storm scattered Richard's fleet as they traveled from Sicily toward the Holy Land, for the Third Crusade
@@ -747,6 +757,16 @@ Analysis:
 
 ###### Personally leading the charge during the crusader victory in the Battle of Jaffa (1192)
 
+{{< properties
+
+ptags=""
+
+stags="Richard the Lionheart > Evaluating historical accounts of > Leading the charge in the Battle of Jaffa | Jaffa > Battles of"
+
+timestamp=""
+
+>}}
+
 The narrative:
 
 - In July 1192, Saladin launched a surprise attack to recapture the port city of Jaffa. Hearing the news, Richard sailed from Acre with a few dozen knights, some infantrymen, and few hundred crossbowmen.
@@ -763,6 +783,16 @@ Analysis:
 <!-- slide-break -->
 
 ###### Channeling his inner tragic hero in his captivity (1192–1194)
+
+{{< properties
+
+ptags=""
+
+stags="Richard the Lionheart > Evaluating historical accounts of > Written and musical works during captivity"
+
+timestamp=""
+
+>}}
 
 The narrative:
 
@@ -788,6 +818,16 @@ Analysis:
 
 ###### Pardoning his killer (1199)
 
+{{< properties
+
+ptags=""
+
+stags="Richard the Lionheart > Evaluating historical accounts of > Pardoning his killer"
+
+timestamp=""
+
+>}}
+
 The narrative:
 
 - In March 1199, Richard was in France suppressing a revolt by [Viscount Aimar V of Limoges](https://en.wikipedia.org/wiki/Aimar_V_of_Limoges).
@@ -811,6 +851,16 @@ Analysis:
 
 ###### Sparing the wedding tower at Kerak (1183)
 
+{{< properties
+
+ptags=""
+
+stags="Saladin > Evaluating historical accounts of > Sparing the wedding tower at Kerak"
+
+timestamp=""
+
+>}}
+
 The narrative:
 
 - During [Saladin's Siege of Kerak in 1183](https://en.wikipedia.org/wiki/Siege_of_Kerak_(1183)), the stepson of the castle lord was holding his wedding inside; [Humphrey IV of Toron](https://en.wikipedia.org/wiki/Humphrey_IV_of_Toron) was marrying [Isabella of Jerusalem](https://en.wikipedia.org/wiki/Isabella_I_of_Jerusalem).
@@ -832,6 +882,16 @@ Analysis:
 
 ###### The captive King Guy and the cup of water (1187)
 
+{{< properties
+
+ptags=""
+
+stags="Saladin > Evaluating historical accounts of >"
+
+timestamp=""
+
+>}}
+
 The narrative:
 
 - According to several sources, after defeating the Crusader army at the [Battle of Hattin](https://en.wikipedia.org/wiki/Battle_of_Hattin) in 1187, Saladin brought the captured crusader leader, [King Guy of Lusignan](https://en.wikipedia.org/wiki/Guy_of_Lusignan), into his tent, and gave him a cup of iced rose water to drink.
@@ -851,6 +911,16 @@ Analysis:
 <!-- slide-break -->
 
 ###### The surrender and ransom of Jerusalem (1187)
+
+{{< properties
+
+ptags=""
+
+stags="Saladin > Evaluating historical accounts of > The surrender and ransom of Jerusalem"
+
+timestamp=""
+
+>}}
 
 The narrative:
 
@@ -874,6 +944,16 @@ Analysis:
 
 ###### Saladin sending fruit and ice to a sick Richard (1192)
 
+{{< properties
+
+ptags=""
+
+stags="Saladin > Evaluating historical accounts of > Sending fruit and ice to a sick Richard"
+
+timestamp=""
+
+>}}
+
 The narrative:
 
 - Near the end of the crusade in 1192, Richard fell sick (probably with malaria), and asked Saladin for “fruit and ice” and “pears and plums”.
@@ -891,6 +971,16 @@ Analysis:
 <!-- slide-break -->
 
 ###### The Muslims sending Richard warhorse(s) during the battle of Jaffa (1192)
+
+{{< properties
+
+ptags=""
+
+stags="Al-Adil > Evaluating historical accounts of > Sending warhorse(s) to Richard"
+
+timestamp=""
+
+>}}
 
 The narrative:
 
@@ -911,6 +1001,16 @@ Analysis:
 <!-- slide-break -->
 
 ###### Richard honestly had more of a relationship with Al-Adil than Saladin himself
+
+{{< properties
+
+ptags=""
+
+stags=""
+
+timestamp=""
+
+>}}
 
 Perhaps the most obvious problem with with the whole chivalric bromance narrative between Richard and Saladin is that *they never actually met each other in person*. Ever.
 
@@ -933,6 +1033,16 @@ Is it nonsense? Very much so. But it is *cool-sounding* nonsense, and so it endu
 <!-- slide-break -->
 
 ###### The Massacre at Ayyadieh (1191)
+
+{{< properties
+
+ptags=""
+
+stags=""
+
+timestamp=""
+
+>}}
 
 After the fall of Acre in 1191, Richard wanted to exchange a large number of Muslim prisoners from the city for the True Cross, a large number of gold pieces, and Christian prisoners of war held captive by Saladin.
 
@@ -969,7 +1079,7 @@ In my opinion, this does not mean that Richard and Saladin were completely unwor
 
 ptags=""
 
-stags=""
+stags="Worship > God alone is worthy of worship"
 
 timestamp=""
 
@@ -1005,6 +1115,16 @@ When we consider who to esteem in this life, we should make sure that this is th
 
 ##### No human beings are worthy of worship, in the formal sense
 
+{{< properties
+
+ptags="Exodus 20:3-6"
+
+stags="Worship > Angels and human beings are not to be worshiped"
+
+timestamp=""
+
+>}}
+
 When we speak of worship (cf. the Greek verbs [προσκυνέω](https://biblehub.com/greek/4352.htm), [λατρεύω](https://biblehub.com/greek/3000.htm), [σέβομαι](https://biblehub.com/greek/4576.htm), and the concordance hits that go along with them; also cf. [this Biblical Hermeneutics Stack Exchange Q&A](https://hermeneutics.stackexchange.com/questions/68592/what-does-%CF%80%CF%81%CE%BF%CF%83%CE%BA%CF%85%CE%BD%CE%AD%CF%89-translated-worship-mean-in-matt-22)), we are speaking of an attitude of utmost reverence and respect. The imagery evoked by some of the verbs is literally getting down on your hands and knees and bowing with your face to the ground.
 
 Throughout history, some human kings and emperors have demanded this of their subjects. In truth, only God is worthy.
@@ -1033,6 +1153,16 @@ No matter how great the human leader, they are still mortal flesh. They still bl
 
 ##### Inasmuch as regular human kings actually have honor and glory, they've got *nothing* on Jesus
 
+{{< properties
+
+ptags=""
+
+stags="Worship > Even Christ's enemies will bow and worship Him"
+
+timestamp=""
+
+>}}
+
 Even if we set aside His divinity for a moment (and the fact that only divinity is truly worthy of worship), Jesus puts all other kings so far in the shade that they aren't even worthy of being compared.
 
 Jesus is the true heir to the Davidic throne, and His reign will know no end (cf. Isaiah 9:7; Luke 1:33). He is the King of Kings and Lord of Lords (Revelation 19:16). He isn't *a* King; he is *the* King. Everyone else rules by means of a small slice of delegated divine authority (Romans 13:4); Jesus has been given *all* authority (Matthew 28:18).
@@ -1046,6 +1176,16 @@ Honestly don't feel that way at present? Then maybe you need to spend some addit
 <!-- slide-break -->
 
 ##### Any positive characteristic of human kings Jesus does better
+
+{{< properties
+
+ptags=""
+
+stags=""
+
+timestamp=""
+
+>}}
 
 Is a king just? Are His judgments sound? Jesus is perfectly just and will be the perfect judge of the entire universe (John 5:22).
 
@@ -1064,6 +1204,16 @@ And we can rest easy in the knowledge that put on the scale of comparison, our K
 <!-- slide-break -->
 
 ##### Jesus will return as the Glorious King, it is true. But first, He was the Suffering Servant. What does this teach us about true heroism?
+
+{{< properties
+
+ptags="Philippians 2:6-8; Philippians 2:9-11"
+
+stags=""
+
+timestamp=""
+
+>}}
 
 If you look at history, people seem to mostly revere the Richards and Saladins of the world---those who impress by their power and might. But when we consider the most important event in all history---Jesus paying for our sins by being judged for them in our place---we are shown that the glory that surpasses all other glory actually found its form in suffering and self-sacrificing love, even unto the point of death upon a cross.
 
@@ -1105,7 +1255,7 @@ parent="Follow-on-topic: The only hero we should worship is Christ"
 
 ptags=""
 
-stags=""
+stags="Idolatry > How greed is idolatry | Authority > The Bible commands us to show proper respect and honor to those in authority | Authority > We must honor God above all human authority | Worship > God alone is worthy of worship"
 
 timestamp=""
 
