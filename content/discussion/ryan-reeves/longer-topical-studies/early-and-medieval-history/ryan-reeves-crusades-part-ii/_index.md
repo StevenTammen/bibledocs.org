@@ -1287,6 +1287,265 @@ Whenever something overpowers God in our minds, we have made an idol of it, and 
 
 <!-- slide-break -->
 
+#### Follow-on-topic: Is European chivalry biblical?
+
+{{< properties
+
+ptags=""
+
+stags=""
+
+timestamp=""
+
+content-comment-call-to-action=""
+
+content-end-card-next-video=""
+
+content-end-card-suggestion=""
+
+content-short-title=""
+
+content-thumbnail-description=""
+
+>}}
+
+{{% summary %}}
+
+{{% /summary %}}
+
+{{< quizdown >}}
+
+{{< /quizdown >}}
+
+<!-- slide-break -->
+
+##### Introduction: How ought Christians view extra-biblical moral codes generally?
+
+We have spent a good bit of time in the last few lessons focusing on topics related to European chivalry. European chivalry was a code of morality external to the Bible. It is not actually the only one either: you might also compare the historical samurai moral code (known as [*bushido*](https://en.wikipedia.org/wiki/Bushido)) as well, and in the modern day, we also have things like the [Geneva Conventions](https://en.wikipedia.org/wiki/Geneva_Conventions) and the [Universal Declaration of Human Rights](https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights).
+
+What all such extra-biblical moral codes have in common is that... well, they aren't terribly valuable in and of themselves, because our morality should only ever be governed by the Bible, and what God actually commands of us. Whatever moral guidelines humans manage to dream up on their own may be interesting from a historical perspective, but they are most decidedly *not* what we ought to actually base our behavior off of as Christians.
+
+<!-- slide-break -->
+
+I come down pretty hard here, because it is *extremely* dangerous for us to not be black and white about this matter. God is the *only one* who gets to decide what is right and wrong; human consensus has absolutely nothing to do with it whatsoever.
+
+We need to drink this down to the bitter dregs, so to speak. You *will* face extreme push-back for questioning things like the Geneva Conventions and the Universal Declaration of Human Rights to even the slightest degree. Don't get me wrong; I am not trying to say that most of the stuff that these extra-biblical moral codes go over cuts against biblical morality. (In fact, I am comfortable saying that "in general", there is quite a lot of good in these extra-biblical moral codes---protecting innocents and non-combatants, and the like). Rather, the point is that at the end of the day, we have a duty and responsibility to place the Bible and God's commands *above even these*. Even if that earns us the scorn of the entire rest of the world.
+
+And more relevant to our present topic, the exact same thing was true of European chivalry during the Middle Ages. If you were a knight in the High Middle Ages, you might have found yourself strongly encouraged to take certain actions based upon the dictates of European chivalry. But would taking these actions have actually been what was moral, according to God's morality?
+
+<!-- slide-break -->
+
+##### Demonstrating that European chivalry ≠ biblical morality, using counterexamples
+
+I have decided that the clearest way to demonstrate the fact that European chivalry is far from the same as biblical morality is to go over a few counterexamples---situations in scripture where what European chivalry would have suggested is clearly not what God commanded.
+
+I've chosen to separate this analysis into a few different wider categories. By and large, I am in these sections waving my hand a bit and making assertions about what European chivalry did and did not teach, without citing a lot of direct sources. I would encourage people to go look into these things themselves, and not just take my word for it.
+
+<!-- slide-break -->
+
+##### Total warfare and utter destruction
+
+<!-- slide-break -->
+
+###### European chivalry: Sparing innocents, and the spoils of war
+
+In short, under European chivalry, knights were strictly bound to show mercy to those who surrendered and to protect non-combatants, particularly women, children, and the elderly. 
+
+Moreover, looting resources was a primary motivating factor behind a great deal of European chivalric warfare---knights would actively seek to acquire spoils, armor, livestock, and so on from the defeated enemy, and this was considered a legitimate reward for martial valor.
+
+<!-- slide-break -->
+
+###### Biblical morality: The Old Testament principle of *cherem*
+
+In several places in the Old Testament, God ordered the total annihilation of entire populations—compare the concept of *cherem* (Hebrew: [חֵרֶם](https://biblehub.com/hebrew/2764.htm)). Sparing things that God commanded to be devoted to destruction wasn't seen as mercy; it was seen as sin.
+
+In Deuteronomy 20:16–18, for example, God commands Israel regarding the cities of the Promised Land: "You shall save alive nothing that breathes, but you shall utterly destroy them." We can see this in action in, for example, the conquest of Jericho (Joshua 6:21) and the campaign against the Amalekites (1 Samuel 15:3). Put simply, the execution of infants, women, and even livestock directly violates the black and white chivalric duty to defend the vulnerable and spare the helpless. Under European chivalry, such behavior would have been fully condemned.
+
+*Cherem* also cuts against the notion of claiming spoils of war, in that the Israelites were directly forbidden from taking the wealth of their conquered pagan enemies, without exception. 
+
+<!-- slide-break -->
+
+###### Discussion: This concept of total destruction is probably the single biggest difference between biblical morality and extra-biblical moral codes governing rules of warfare
+
+I think it is reasonable to say that this concept of *cherem* is probably the most glaring example of where God's commands cut against not only European chivalry, but also most other extra-biblical moral codes that govern the rules of warfare (like the Geneva Conventions). Put simply, the notion of putting innocents to death by the sword is utterly incompatible with most of these extra-biblical systems of morality.
+
+This is why I began by emphasizing that Christians must necessarily grapple with the matters we are going over here. You can either choose to believe that God's morality surpasses human understanding (by placing biblical morality above anything humans come up with), or choose to believe that biblical morality is somehow backwards and evil because it supposedly condones the slaughter of innocents. There is no middle ground here. You must choose one approach or the other.
+
+I should note that *we* are not the theocratic nation state of Israel, and *we* have also not been given a verbal command by God to utterly destroy enemy nations. These observations are important in understanding how something that may have been proper for the Israelites in their conquest of the Promised Land is *not* necessarily proper for us (or even for most all other times and places in history).
+
+<!-- slide-break -->
+
+##### The treatment of noble prisoners of war
+
+<!-- slide-break -->
+
+###### European chivalry: Ransoming captured nobles and royalty
+
+Innocent non-combatants aside, there is also the matter of conventions surrounding the treatment of captured noble enemies.
+
+Under European chivalry, capturing a fellow noble or king alive on the battlefield was the ultimate achievement. Knights were bound by honor—and financial interest—to spare defeated royalty, treat them with dignity, and hold them for a noble ransom rather than executing them on the spot.
+
+<!-- slide-break -->
+
+###### Biblical morality: Samuel's execution of King Agag in 1 Samuel 15
+
+We might contrast this with 1 Samuel 15. Failing to execute Agag (king of the Amalekites) was part of the Lord's reason for harshly rebuking Saul through the prophet Samuel. (As this chapter demonstrates, failing to execute the captured royalty was not at all viewed separately from failing to practice *cherem*, but was merely facet of that failure).
+
+In 1 Samuel 15:33, Samuel orders the captive king to be brought forward. While Agag famously thinks the bitterness of death has passed, Samuel declares his judgment and "hacked Agag in pieces before the Lord."
+
+European chivalry strictly forbade the execution of an unarmed prisoner of war who had already surrendered, viewing it as a cowardly act that brought deep dishonor to a warrior. Moreover, it wasn't even a warrior doing this execution, but a religious leader!
+
+So no matter how you slice it, according to European chivalry, Saul's actions here would have been considered right and proper. But in the biblical account, it is *these very actions* that lose him the Lord's favor!
+
+<!-- slide-break -->
+
+##### Unconventional warfare
+
+<!-- slide-break -->
+
+###### European chivalry: Open, face-to-face engagements on equal terms
+
+European chivalry strongly emphasized fair play and martial honor, viewing warfare as a stage for testing a knight's personal courage, strength, and skill. To maintain honor, combat ideally required open, face-to-face engagements on equal terms, where an opponent had a fair chance to defend themselves. In other words, European chivalry required "conventional" warfare = building siege engines, scaling walls, engaging in open sallies, and so on. To defeat an enemy without ever crossing swords or giving them a chance to fight back was seen as robbing the warrior of true glory.
+
+<!-- slide-break -->
+
+###### Biblical morality: The siege of Jericho in Joshua 6
+
+Contrast these ideals with what happened in the siege of Jericho in Joshua 6. God commanded the Israelite army to silently march around the city once a day for six days, led by priests blowing rams' horns (Joshua 6:3-4). On the seventh day, after seven marches, the priests blew the horns, the people shouted, and the walls collapsed flat on their own (Joshua 6:20). By using supernatural intervention to instantly drop the city's defenses, the Israelites denied the defenders of Jericho any opportunity for a fair, tactical defense of their battlements. For a medieval knight, winning a fortress because the walls simply disintegrated would offer no personal honor or martial prestige.
+
+In medieval Europe, there was also a strictly divided social hierarchy separating knights and warriors from clergy. Chivalry dictated that the warrior class should lead the charge and win the day through physical bravery. Yet when we consider the siege of Jericho, we see that it is the priests carrying trumpets of rams' horns at the very front of the procession (marching ahead of the Ark of the Covenant) who are the tactical focal point of the assault.
+
+Finally, medieval European chivalry was big on honorable, boisterous exchanges of challenges, and verbal heroic posturing. Joshua 6 does not merely not contain much of this, but exactly none of it. Why? Because Joshua commanded total silence until the very end, when he commanded them to shout (compare Joshua 6:10 with Joshua 6:16).
+
+<!-- slide-break -->
+
+###### Biblical morality: Gideon's nighttime defeat of the Midianites in Judges 7
+
+Also contrast these ideals with Gideon's defeat of the Midianites in Judges 7. Rather than taking to a formal battlefield to defeat the Midianites, Gideon and his small number of men entered the Midianite camp at night armed only with trumpets, empty clay jars, and torches hidden inside the jars (Judges 7:16). On Gideon's signal, they smashed the jars, blew the trumpets, and flashed the torches, shouting, "A sword for the Lord and for Gideon!" (Judges 7:20). God then caused the panicked Midianites to turn their swords on one another in the dark.
+
+Winning this battle through noise, psychological terror, and nighttime trickery—causing the enemy to self-destruct without a single Israelite drawing a blade—offered zero opportunities for the men to demonstrate personal bravery or win honorable accolades on equal terms. Instead, victory was simply handed to them.
+
+<!-- slide-break -->
+
+##### Deception of enemies, up to and including assassination through deception
+
+<!-- slide-break -->
+
+###### European chivalry: Honorable contests out in the open
+
+Chivalry prized open, face-to-face combat on equal terms. Sneak attacks, espionage, and assassination by guile were viewed as dishonorable for a knight.
+
+<!-- slide-break -->
+
+###### Biblical morality: Ehud’s assassination of Eglon in Judges 3
+
+In Judges 3:15-23, Ehud used political deception to gain a private audience with King Eglon of Moab, then smuggled a hidden, double-edged dagger past the guards, and assassinated the unarmed, unsuspecting king in his own private chamber.
+
+This was no battlefield---Ehud assassinated Eglon in his own home, where he would not be on guard.
+
+<!-- slide-break -->
+
+###### Biblical morality: Jael's assassination of Sisera in Judges 4
+
+In Judges 4:17-22, Jael deceptively offered Sisera hospitality, intentionally put him at ease, and then drove a tent peg through his temple while he slept.
+
+Guest-friendship and sacred laws of hospitality were a big deal in how European chivalry characterized honor. Violating them to assassinate a helpless opponent in one's home would be seen as the most vile and dishonorable of approaches. And of course, European chivalry was also rather sexist, so would definitely not approve of killing an enemy warrior through the hands of a woman.
+
+<!-- slide-break -->
+
+##### Martial prestige, and personal glory
+
+<!-- slide-break -->
+
+###### European chivalry: Your prestige as a leader is measured by the size and rank of your forces
+
+In medieval warfare, a commander's prestige was directly tied to the size and splendor of his host, especially his retinue of noble knights. Intentionally dismissing eager warriors who had answered the call to arms would be seen as an insult to their honor and a betrayal of their loyalty. Moreover, even if you were to limit participation somehow, it would only ever be on the basis of courage, competence, loyalty, and other such practical variables. The idea of using arbitrary means to select forces would be scorned outright.
+
+<!-- slide-break -->
+
+###### Biblical morality: God's pride-crushing selection of Gideon's forces in Judges 7
+
+Contrast all this with what happened in Judges 7. Gideon's forces start out at 32,000. But God said that was too many (Judges 7:2), and used an upfront test to dismiss 22,000 of the men (Judges 7:3). At least here those sent back were those who visibly displayed fear, making it not completely arbitrary, but still. But after that, God used completely arbitrary means to winnow down the remaining men to 300 (Judges 7:4-6). No matter how you look at it, how men choose to drink water has absolutely nothing to do with their abilities as warriors, their honor, etc. Yet this is exactly what God used to select Gideon's men.
+
+Intentionally telling capable, willing soldiers to leave the battlefield specifically to prevent them from taking credit for a victory directly attacks the knightly desire for personal glory and martial renown. It would simply not be done under the dictates of European chivalry, which celebrated the physical prowess and collective might of the warrior class. Furthermore, the arbitrary "how do the men drink" filtering mechanism bypassed all considerations of military rank, training, aristocratic background, equestrian prowess, combat readiness, etc. Choosing an elite strike force based on a drinking posture subverted the structured, honor-driven hierarchy of knightly selection.
+
+In short, God's instructions to Gideon here were specifically designed to strip away all conventional military pride, and that was much the point. Because it was *God* that delivered Israel, rather than them delivering themselves.
+
+<!-- slide-break -->
+
+##### Defending personal honor
+
+<!-- slide-break -->
+
+###### European chivalry: Honor must be defended, and anything less is cowardly
+
+European chivalry was deeply tied to personal honor, the righting of insults through violence (think dueling), and the physical defense of one's reputation.
+
+<!-- slide-break -->
+
+###### Biblical morality: "Turning the other cheek" in Matthew 5
+
+Defending one's honor to the death is literally exactly the opposite of "turning the other cheek" (cf. Matthew 5:38-42). Turning the other cheek does not mean reasonable self-defense is forbidden to Christians, but rather that we ought to completely ignore attacks on our personal pride and dignity. But European chivalry was *all about* personal pride and dignity. The idea of letting people trample your honor underfoot without any form of retaliation is completely antithetical to European chivalry.
+
+<!-- slide-break -->
+
+##### Conclusions
+
+In all of this, we are not setting out to say that European chivalry was somehow terribly immoral or anything like that. The point is simply that extra-biblical moral codes (including European chivalry) can *never* replace biblical morality. Only God's definition of right and wrong matter; everyone else's definitions don't.
+
+As a generalization, the biggest problem with European chivalry is that it tended to emphasize the pride and honor of the knight over properly glorifying God. Compare the following verse:
+
+{{% scripture p="Zechariah 4:6 | NIV11" %}}
+
+So he said to me, “This is the word of the Lord to Zerubbabel: ‘Not by might nor by power, but by my Spirit,’ says the Lord Almighty.
+
+{{% /scripture %}}
+
+God is always emphasizing that our deliverance comes through Him, not ourselves; we should not glory in ourselves or own achievements. Yet that is exactly what European chivalry encouraged knights to do.
+
+<!-- slide-break -->
+
+Moreover, European chivalry defined honor through a set of rigid extra-biblical rules. True biblical righteousness is all about doing God's Will as circumstances demand, not about following arbitrary rules devised by humans. And so it is that killing your enemies can be justified even if they are asleep without the means to defend themselves. If it is God's Will for those people to be killed, then killing them is not only not sinful, but is actually godly.
+
+On the flip side, you could fight the cleanest possible war as a knight---following the rules of European chivalry down to the smallest detail---and yet still be doing evil in the sight of the Lord. Even if you are a perfect gentleman on the battlefield, if the war is being waged to displace innocent people from their ancestral lands (for example), then it doesn't much matter that you fought the fight honorably. It is still morally detestable.
+
+So as always, we should keep our focus glued to the Bible, and the Bible alone. Only through its guidance can we ever hope to understand how we ought to conduct ourselves, be that in war or otherwise.
+
+<!-- slide-break -->
+
+#### Group discussion: Godly morality versus rigid man-made moral codes 
+
+{{< properties
+
+parent="Follow-on-topic: Is European chivalry biblical?"
+
+ptags=""
+
+stags=""
+
+timestamp=""
+
+content-comment-call-to-action=""
+
+content-end-card-next-video=""
+
+content-end-card-suggestion=""
+
+content-short-title=""
+
+content-thumbnail-description=""
+
+>}}
+
+{{% summary %}}
+
+{{% /summary %}}
+
+{{< quizdown >}}
+
+{{< /quizdown >}}
+
+<!-- slide-break -->
 
 
 {{% /content %}}

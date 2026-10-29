@@ -860,7 +860,7 @@ Refusing to logically equate serious sin with unbelief does *not* mean we are en
 
 ptags=""
 
-stags=""
+stags="Salvation > Is based on faith, not knowledge"
 
 timestamp=""
 
@@ -894,6 +894,16 @@ In short, salvation is based entirely on faith in Christ (i.e., an acknowledgeme
 
 #### Introduction: Propositions supposedly related to "believing in Jesus Christ"
 
+{{< properties
+
+ptags=""
+
+stags="Salvation > Does having incorrect beliefs about the person and work of Jesus mean someone isn't saved? | Faith > Is trusting in God and His promises"
+
+timestamp=""
+
+>}}
+
 In the last segment, we discussed various things that some people claim you must believe (or reject) in order to be saved. What all of those things had in common, in my opinion, is that they were not much related to understanding the person or work of our Lord Jesus Christ, and how that saves us. If one were to use the jargon, we would say that these topics were not particularly related to [*Christology*](https://en.wikipedia.org/wiki/Christology), or the part of [*Soteriology*](https://en.wikipedia.org/wiki/Soteriology) dealing specifically with how exactly believing in Jesus Christ brings about salvation.
 
 We argued that having mistaken or incorrect views about these matters unrelated to belief in Jesus Christ clearly and self-evidently have nothing to do with salvation, no matter what some other people may say.
@@ -917,6 +927,16 @@ In short, what is under discussion is what (if any) specific propositional knowl
 
 #### Why discuss what (if any) specific propositional knowledge about Jesus Christ is necessary for salvation?
 
+{{< properties
+
+ptags=""
+
+stags="Salvation > Is specific propositional knowledge involved in salvation? | Apologetics"
+
+timestamp=""
+
+>}}
+
 If you have never come across conversations about this, these conversations usually tend to be composed of trying to decide what teachings are considered to be "core teachings" that are supposedly involved in what believing in Jesus Christ "really means". In other words, things that are the *sine qua non* of belief in Jesus Christ in the formal sense---things without which someone does not actually believe.
 
 If you are curious about why this is inherently important, consider that people that take firm views about specific propositional knowledge being involved in salvation *must* teach (i.e., logic demands it) that it is possible to "believe wrong". In other words, someone wants to be saved---earnestly seeking redemption and the forgiveness of their sins---but because they get a detail wrong, they will be cast into hell forevermore.
@@ -930,6 +950,16 @@ This often comes up in apologetics contexts. For example, some adherents of othe
 <!-- slide-break -->
 
 #### Actually, salvation is about faith, not knowledge
+
+{{< properties
+
+ptags=""
+
+stags="Salvation > Is based on faith, not knowledge | Faith > Is trusting in God and His promises"
+
+timestamp=""
+
+>}}
 
 So, is this position correct? Is specific propositional knowledge the mechanism by which "belief in Jesus Christ" actually works?
 
@@ -961,7 +991,7 @@ parent="Salvation is about faith, not knowledge"
 
 ptags=""
 
-stags=""
+stags="Salvation > Faith as small as a mustard seed is sufficient for salvation | Spiritual growth"
 
 timestamp=""
 
@@ -990,9 +1020,6 @@ However, we must nonetheless insist that faith *alone* is what God requires for 
 {{< quizdown >}}
 
 {{< /quizdown >}}
-
-<!-- slide-break -->
-
 
 {{% /content %}}
 
